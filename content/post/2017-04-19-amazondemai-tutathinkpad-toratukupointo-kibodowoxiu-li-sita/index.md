@@ -36,7 +36,7 @@ Amazonは、アカウントサービスの注文履歴から、「注文の詳�
 
 僕の場合は、wishlistからいただいたものだったので、送っていただいた方に連絡をしてPDFを送付していただきました。
 
-![f:id:chezou:20170419185029p:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20170419/20170419185029.png &quot;f:id:chezou:20170419185029p:plain&quot;)
+![](/img/2017/04/19/185817/20170419185029.png)
 
 ## 2. レノボ・スマートセンターに問い合わせる
 

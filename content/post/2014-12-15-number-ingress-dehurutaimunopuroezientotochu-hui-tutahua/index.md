@@ -29,13 +29,13 @@ Darsana参加された皆さん、お疲れ様でした！ Resistanceのゆる�
 
 現場では本州を囲む緑の巨大CFに囲まれたものの、「我々は局地戦を淡々と行うしかないんだ」とチームで話しながら、ポータルを死守し運良く4戦全勝できました。
 
-![f:id:chezou:20141215123101p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20141215/20141215123101.png &quot;f:id:chezou:20141215123101p:plain&quot;)
+![](/img/2014/12/15/152000/20141215123101.png)
 
 (写真はbungaさんにご提供いただきました)
 
 終了後にその裏側では熱い攻防が繰り広げられていたのを後から知り、さらに胸が熱くなっています。
 
-![f:id:chezou:20141215122554j:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20141215/20141215122554.jpg &quot;f:id:chezou:20141215122554j:plain&quot;)
+![](/img/2014/12/15/152000/20141215122554.jpg)
 
 (写真は\_かなこさんにご提供いただきました)
 

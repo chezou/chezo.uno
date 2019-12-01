@@ -93,7 +93,7 @@ PCのブラウザだと丁寧なチュートリアルがあるのでだいぶ楽
 
 ## Welocomeメッセージのような定型文bot
 
-![f:id:chezou:20150116010955p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150116/20150116010955.png &quot;f:id:chezou:20150116010955p:plain&quot;)
+![](img/2015/01/16/011049/20150116010955.png)
 
 slackにはslackbotという、キーワードに対して定型文を返すbotがいるため、新規参加者に対するテンプレなんかをこれで提示するようにしています。 最近では、slackbotは改行した文を出力できないため、Google Driveの特定のドキュメントを取得して、welcomeメッセージを出すbotも出現しています。
 

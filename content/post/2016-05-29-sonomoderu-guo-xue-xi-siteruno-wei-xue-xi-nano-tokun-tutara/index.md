@@ -67,7 +67,7 @@ projects: []
 
 （以降の図は&quot;Python Machine Learning&quot;英語版の本より引用です）
 
-![f:id:chezou:20160529204510j:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20160529/20160529204510.jpg &quot;f:id:chezou:20160529204510j:plain&quot;)
+![](/img/2016/05/29/215739/20160529204510.jpg)
 
 この図は、わりと有名なbias-variance tradeoffの図です。 bias-varianceのトレードオフは[こちらのquoraのArjunさんの回答](https://www.quora.com/How-would-you-explain-the-bias-variance-tradeoff-to-a-five-year-old)を見るとわかりやすいのですが、とても端折って書くとHigh varianceの状態が過学習（overfitting）で、High biasの状態が未学習（underfitting）です。
 
@@ -86,7 +86,7 @@ projects: []
 
 では、どうやってこれらの状況に気づけば良いのでしょうか？もう既に少し書いていますが、learning curve（学習曲線）とvalidation curve\*3を書けば良いのです。
 
-![f:id:chezou:20160529212335j:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20160529/20160529212335.jpg &quot;f:id:chezou:20160529212335j:plain&quot;)
+![](/img/2016/05/29/215739/20160529212335.jpg)
 
 これは、learning curveの例です。先ほど少し簡単に説明を書いてしまいましたが、横軸をデータサイズとして持っているデータをサンプリングして増やした時に、どのように訓練データと検証データの精度が推移するかを描いたグラフです。幅があるのはCross Validationした際の精度の最大値と最小値です。learning curveを描いた時に、訓練データに対する精度だけ高かった場合は過学習を疑いましょう。（この例は、原著では少し過学習の気があるけど、訓練データと検証データの精度の差が小さいので許容範囲だよね、って書いてあります） 対処法としては、データ量を増やすかモデルが複雑すぎるのでもっと簡単なものを使うかのいずれかです。（もちろん、正則化を入れるというのもありです）
 
@@ -98,7 +98,7 @@ projects: []
 
 もう一つの方法としては、validation curveを描きます。以下はその例です。
 
-![f:id:chezou:20160529214644j:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20160529/20160529214644.jpg &quot;f:id:chezou:20160529214644j:plain&quot;)
+![](/img/2016/05/29/215739/20160529214644.jpg)
 
 この例は、ロジスティック回帰の正則化項の逆比であるCパラメータを横軸にとっています。右に行けば行くほど正則化項の意味が弱くなり（つまり過学習しやすくなり）、左に行けば行くほど正則化項が強くなり（遊びが強くなりすぎる）ます。
 

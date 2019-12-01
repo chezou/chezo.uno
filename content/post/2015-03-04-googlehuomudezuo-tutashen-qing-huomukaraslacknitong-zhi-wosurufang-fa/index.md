@@ -40,7 +40,7 @@ Slackの[Incoming Webhook](https://my.slack.com/services/new/incoming-webhook)�
 
 フォームの`ツール -&gt; スクリプト エディタ`を開く
 
-![f:id:chezou:20150304002603p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150304/20150304002603.png &quot;f:id:chezou:20150304002603p:plain&quot;)
+![](/img/2015/03/04/003131/20150304002603.png)
 
 通知するためのコードを書く。 以下の例では、public channel(`#public_notify`)にメールアドレス以外の情報を、private group(`private`)にすべての情報を通知しています。
 
@@ -52,11 +52,11 @@ Slackへの通知が動くかどうかは、`test()`を実行してみると良�
 
 最後に、フォームが送信された時にこのスクリプトが動くように`onFormSubmit()`のトリガーを設定します。
 
-![f:id:chezou:20150304002636p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150304/20150304002636.png &quot;f:id:chezou:20150304002636p:plain&quot;)
+![](/img/2015/03/04/003131/20150304002636.png)
 
-![f:id:chezou:20150304002721p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150304/20150304002721.png &quot;f:id:chezou:20150304002721p:plain&quot;)
+![](/img/2015/03/04/003131/20150304002721.png)
 
-![f:id:chezou:20150304002736p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150304/20150304002736.png &quot;f:id:chezou:20150304002736p:plain&quot;)
+![](/img/2015/03/04/003131/20150304002736.png)
 
 このとき、スクリプトからドキュメントへのアクセス権限を求められるので承認します。(これがないと、設定できない)
 
@@ -64,7 +64,7 @@ Slackへの通知が動くかどうかは、`test()`を実行してみると良�
 
 うまくいけば、こういう通知がでることになります。
 
-![f:id:chezou:20150304002942p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150304/20150304002942.png &quot;f:id:chezou:20150304002942p:plain&quot;)
+![](/img/2015/03/04/003131/20150304002942.png)
 
 ## 参考URL
 

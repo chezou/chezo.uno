@@ -25,7 +25,7 @@ dotは一言で言うと、AirPodsみたいな小さいBluetoothイヤホンで�
 
 ## はじめての Indigogo
 
-![f:id:chezou:20170130213220p:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20170130/20170130213220.png &quot;f:id:chezou:20170130213220p:plain&quot;)
+![](/img/2017/01/30/220242/20170130213220.png)
 
 僕がバックしたのは、miyagawaさんがdotみたいなイヤホンをinstagramか何かで買ったというのを見て、これかな？と勘違いしたからだったんですが、2015年12月にindigogoでバックしてたみたいです。ステレオで$79+$29のシッピングコストです。最初の申込みから少し遅れていたのですが、当時は2016年4月に届く予定と言っていて、結局届いたのは2016年の10月でした。
 

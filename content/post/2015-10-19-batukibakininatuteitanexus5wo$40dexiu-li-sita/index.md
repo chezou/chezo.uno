@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-[![f:id:chezou:20151018110109j:image:w320](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20151018/20151018110109.jpg &quot;f:id:chezou:20151018110109j:image:w320&quot;)](http://f.hatena.ne.jp/chezou/20151018110109)
+![](/img/20151018/20151018110109.jpg)
 
 Ingress をやるときに自転車のマウンタから飛んでしまってバキバキになってしまったNexus5。 大きい画面でKindleも読みやすい！と言っていたけど、ガラスが割れてから使用率がぐっと下がっていました。
 
@@ -27,7 +27,7 @@ Googleプレイ版は修理するのに三万円近くするというので四�
 
 Amazonだとこれかな。
 
-[![（エスエスケイ）LG Nexus5 d820 d821 液晶 ディスプレイ ガラス　デジタイザ 修理 交換 キット ベゼルフレーム 付き ブラック Ｙ字ドライバー工具 及び 硬度9 ガラスフィルム 付き　発熱基盤部分に日本製オリジナルフィルム WATSON社オリジナル (製造物責任法）PL保険加入済み](http://ecx.images-amazon.com/images/I/51gjBxJ9%2BkL._SL160_.jpg &quot;（エスエスケイ）LG Nexus5 d820 d821 液晶 ディスプレイ ガラス　デジタイザ 修理 交換 キット ベゼルフレーム 付き ブラック Ｙ字ドライバー工具 及び 硬度9 ガラスフィルム 付き　発熱基盤部分に日本製オリジナルフィルム WATSON社オリジナル (製造物責任法）PL保険加入済み&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B00V7VB8U2/chezou-22/)
+[![（エスエスケイ）LG Nexus5 d820 d821 液晶 ディスプレイ ガラス　デジタイザ 修理 交換 キット ベゼルフレーム 付き ブラック Ｙ字ドライバー工具 及び 硬度9 ガラスフィルム 付き　発熱基盤部分に日本製オリジナルフィルム WATSON社オリジナル (製造物責任法）PL保険加入済み](http://ecx.images-amazon.com/images/I/51gjBxJ9%2BkL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B00V7VB8U2/chezou-22/)
 
 [（エスエスケイ）LG Nexus5 d820 d821 液晶 ディスプレイ ガラス　デジタイザ 修理 交換 キット ベゼルフレーム 付き ブラック Ｙ字ドライバー工具 及び 硬度9 ガラスフィルム 付き　発熱基盤部分に日本製オリジナルフィルム WATSON社オリジナル (製造物責任法）PL保険加入済み](http://www.amazon.co.jp/exec/obidos/ASIN/B00V7VB8U2/chezou-22/)
 
@@ -41,11 +41,13 @@ Amazonだとこれかな。
 
 だいたいレベル感としては、ノートPCのHDD換装くらいなのでお手軽です。
 
-途中の新旧液晶パネルの裏側とバックパネルたち[![f:id:chezou:20151018110026j:image:w320](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20151018/20151018110026.jpg &quot;f:id:chezou:20151018110026j:image:w320&quot;)](http://f.hatena.ne.jp/chezou/20151018110026)
+途中の新旧液晶パネルの裏側とバックパネルたち
+![](/img/20151018/20151018110026.jpg)
 
 途中最大の山場はバッテリーを両面テープから剥がす時。これは少しドキドキしました。
 
-新しくなった画面(気泡が入ってるのは、ガラスフィルム適当に張りすぎたからです)[![f:id:chezou:20151018110316j:image:w320](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20151018/20151018110316.jpg &quot;f:id:chezou:20151018110316j:image:w320&quot;)](http://f.hatena.ne.jp/chezou/20151018110316)
+新しくなった画面(気泡が入ってるのは、ガラスフィルム適当に張りすぎたからです)
+![](/img/20151018/20151018110316.jpg)
 
 液晶はものによってはタッチの効きが悪くなると聞いていたのですが、今回買ったものについては特に問題ありませんでした。
 

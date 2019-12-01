@@ -47,7 +47,7 @@ DMM英会話は先生のばらつきがありますが、いろいろな国の�
 
 [Atsushi&#39;s Homepage ` Google J\_[Ö³­ÁÆo^](http://www.antun.net/tool/quickAddJP/)
 
-![f:id:chezou:20161219084621p:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20161219/20161219084621.png &quot;f:id:chezou:20161219084621p:plain&quot;)
+![](/img/2016/12/21/130000/20161219084621.png)
 
 10月はこんな感じです。11月に長らく風邪を引いてしまったので、ちょっとブランク空きましたが、会社からもDMM英会話のお金を出してもらっているので、手を抜くわけにはいきません。
 

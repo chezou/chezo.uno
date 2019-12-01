@@ -32,11 +32,11 @@ macOS Sierraに上げる前に、Karabinerが動かない問題をなんとか�
 
 1つ目は&quot;Virtual Keyboard&quot;のKeyboard Type: ANSIを設定すること。これで大体USキーボードの配列になります。
 
-![f:id:chezou:20170119221149p:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20170119/20170119221149.png &quot;f:id:chezou:20170119221149p:plain&quot;)
+![](/img/2017/01/19/221707/20170119221149.png)
 
 2つ目の設定は、&quot;Simple Modifications&quot;で`international3`を`grave_accent_and_tilde`に変えれば行けた。これでかつる！KarabinerのJIS-\&gt;USと揃えるには`international1`も同様に割り当てれば良さそう。
 
-![f:id:chezou:20170119221202p:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20170119/20170119221202.png &quot;f:id:chezou:20170119221202p:plain&quot;)
+![](/img/2017/01/19/221707/20170119221202.png)
 
 ちなみに、検証はAnkerのBTキーボードで試しました。安いUSキーボードとしてはそこそこ使えます。
 
