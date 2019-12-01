@@ -12,3 +12,6 @@ header:
   caption: ""
   image: ""
 ---
+
+[Tags](/tags)
+[Categories](/categories)
