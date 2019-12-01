@@ -66,11 +66,14 @@ email: "aki@chezo.uno"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 Aki Ariga is a Machine Learning Engineer at Arm Treasure Data. His interests include developing peroduction Machien Learning systems, Machine Learning products, and ML Ops. He aims to leverage Machine Learning powers and technologies for business and social good.
 
 He lead several communities at Tokyo such as Machine Learning Casual Talks, kawasaki.rb, and he is also one of the organizers of "Working Group of Machine Learning systems and operations for productionization" in Special Interest Group on Machine Learning System Engineering.
+
+- [Blog](https://blog.chezo.uno)
+- [Memorandom (in Japanese)](https://memo.chezo.uno)
