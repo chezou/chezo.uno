@@ -1,5 +1,5 @@
 ---
-title: "Japan.Rで&amp;quot;MeCab.jlつくってみた&amp;quot;を発表してきた #JuliaAC #JapanR"
+title: "Japan.Rで\"MeCab.jlつくってみた\"を発表してきた #JuliaAC #JapanR"
 subtitle: ""
 summary: ""
 authors: [aki]
@@ -25,7 +25,7 @@ projects: []
 
 ベンチマーク結果を見ると、gcを切ったらRにはなんとかかっています。
 
-![f:id:chezou:20141206160009p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20141206/20141206160009.png &quot;f:id:chezou:20141206160009p:plain&quot;)
+![](/img/2014/12/06/181820/20141206160009.png)
 
 当日の[デモ内容のnotebook](http://nbviewer.ipython.org/gist/chezou/a68cfa3d9abc0e7f669d)はこれです。 ベンチマークに使用したコードはこちら[https://gist.github.com/chezou/1f947423c6655c266e0a](https://gist.github.com/chezou/1f947423c6655c266e0a)
 

@@ -86,13 +86,13 @@ Dokcer上でnbviewerを動かすには、用意されているdocker imageを使
 
 これで、あなたのブラウザにdocker上のnbviewerが見れるはずです！
 
-![f:id:chezou:20150111031411p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150111/20150111031411.png &quot;f:id:chezou:20150111031411p:plain&quot;)
+![](/img/2015/01/11/031931/20150111031411.png)
 
 以下のURLを入れて試してみました。
 
 [https://github.com/chezou/iruby-example/blob/master/nyaplot-example.ipynb](https://github.com/chezou/iruby-example/blob/master/nyaplot-example.ipynb)
 
-![f:id:chezou:20150111031415p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150111/20150111031415.png &quot;f:id:chezou:20150111031415p:plain&quot;)
+![](/img/2015/01/11/031931/20150111031415.png)
 
 Nyaplot 3Dのグラフはマウスでグリグリ動かせるので楽しいですね。
 
@@ -112,7 +112,7 @@ nbviewerで見る場合は[こちら](http://nbviewer.ipython.org/gist/chezou/38
 
 こんな感じでipython notebookが無事見れるようになりました。
 
-![f:id:chezou:20150111031419p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150111/20150111031419.png &quot;f:id:chezou:20150111031419p:plain&quot;)
+![](/img/2015/01/11/031931/20150111031419.png)
 
 # 雑感
 

@@ -43,7 +43,7 @@ conf.pyの上の方に以下をimportし、
 
 とかくと、以下の数式の部分のようになります。([document](http://recommonmark.readthedocs.io/en/latest/auto_structify.html?highlight=language#math-formula))
 
-![f:id:chezou:20170122160632p:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20170122/20170122160632.png &quot;f:id:chezou:20170122160632p:plain&quot;)
+![](/img/2017/01/22/161124/20170122160632.png)
 
 また、inlineの数式も以下のように書けます。 ([document](http://recommonmark.readthedocs.io/en/latest/auto_structify.html?highlight=language#inline-math))
 

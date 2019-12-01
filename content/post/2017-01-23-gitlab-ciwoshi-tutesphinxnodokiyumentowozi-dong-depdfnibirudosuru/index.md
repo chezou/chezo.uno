@@ -31,7 +31,7 @@ gitlab.comは自前でDocker image登録できたり、CI持っていたりと�
 
 こうすると、masterにpushしてCIが成功する度に、PDFが生成されてダウンロードできます。
 
-![f:id:chezou:20170123123725p:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20170123/20170123123725.png &quot;f:id:chezou:20170123123725p:plain&quot;)
+![](/img/2017/01/23/123835/20170123123725.png)
 
 めっちゃ簡単。お試しあれ。
 

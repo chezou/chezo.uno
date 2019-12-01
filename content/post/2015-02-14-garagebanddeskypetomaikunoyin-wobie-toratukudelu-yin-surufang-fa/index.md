@@ -39,7 +39,7 @@ projects: []
 
 ざっくり全体の設定を示す画像を先にはっておきます。
 
-![f:id:chezou:20150214234917p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150214/20150214234917.png &quot;f:id:chezou:20150214234917p:plain&quot;)
+![](/img/20150214/20150214234917.png)
 
 ### LineIn
 
@@ -47,11 +47,11 @@ LineInは音をroutingするためのものです。
 
 LineInはアプリ自体をコピーして2つ開きます。
 
-![f:id:chezou:20150214233717p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150214/20150214233717.png &quot;f:id:chezou:20150214233717p:plain&quot;)
+![](/img/20150214/20150214233717.png)
 
 1つめのLineInでは、Inputを自分のマイク(写真では内蔵マイク)、Outputを`Soundflower (64ch)`にします。さらに、`Advanced...`を開いてOutputのLeft channelを3に、right channelを4にします。
 
-![f:id:chezou:20150214233729p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150214/20150214233729.png &quot;f:id:chezou:20150214233729p:plain&quot;)
+![](/img/20150214/20150214233729.png)
 
 2つめのLineInでは、Inputを`Soundflower (2ch)`、Outputを`Soundflower (64ch)`にします。 さらに`Advanced...`を開いて、Output Left channelを1, Right channelを2にします。
 
@@ -61,7 +61,7 @@ LineInはアプリ自体をコピーして2つ開きます。
 
 入力を、自分のマイク(今回は`内蔵マイク`)、呼び出し音を自分の出力(今回は`内蔵出力`)、スピーカーを`Soundflower (2ch)`にします。
 
-![f:id:chezou:20150214233746p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150214/20150214233746.png &quot;f:id:chezou:20150214233746p:plain&quot;)
+![](/img/20150214/20150214233746.png)
 
 こうすると、Skypeの出力が`Soundflower (2ch)`を経由して`Soundflower (16ch)`の3,4chに出ます。
 
@@ -79,11 +79,11 @@ SoundflowerはMac用の仮想サウンドデバイスです。
 
 まず、`トラック→新規トラック`でSkype側を録音するためのトラックを追加します。 その際に、リアル音源を選んで`音源の設定`を押した後、`モノ1`(あるいは`ステレオ1/2`)を選びます。
 
-![f:id:chezou:20150214234109p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150214/20150214234109.png &quot;f:id:chezou:20150214234109p:plain&quot;)
+![](/img/20150214/20150214234109.png)
 
 同様に、自分のマイク用のトラックを追加します。 先ほどと同様にして、最後の入力を`モノ3`(あるいは`ステレオ3/4`)にします。
 
-![f:id:chezou:20150214234348p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150214/20150214234348.png &quot;f:id:chezou:20150214234348p:plain&quot;)
+![](/img/20150214/20150214234348.png)
 
 バージョン古いですが、こちらの動画も参考になります。
 

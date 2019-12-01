@@ -68,7 +68,7 @@ Juliaのパッケージは[METADATA.jl](https://github.com/JuliaLang/METADATA.jl
 | --- | --- | --- | --- | --- |
 | 9.62 | 93.08 | 23.94 | 1.46 | 19.44 |
 
-![f:id:chezou:20151022234902p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20151022/20151022234902.png &quot;f:id:chezou:20151022234902p:plain&quot;)
+![](/img/2015/10/21/234317/20151022234902.png)
 
 **[追記ここまで]**
 
@@ -78,7 +78,7 @@ Juliaのパッケージは[METADATA.jl](https://github.com/JuliaLang/METADATA.jl
 
 メタメタした実装で遅すぎたRubyを外したグラフはこちら。
 
-![f:id:chezou:20151021232829p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20151021/20151021232829.png &quot;f:id:chezou:20151021232829p:plain&quot;)
+![](/img/2015/10/21/234317/20151021232829.png)
 
 最適化をしたJuliaは確かに速いです。 そして、意外だったのはPython 3.5.0の速度。Unicode周りの実装が刷新されたという話は聞いていましたが、Juliaの二倍程度に肉薄してくるとは。条件にもよるかもしれないけど、文字列処理するNLPerは3系に今すぐ移行したほうが良いのでは？と思いました。
 

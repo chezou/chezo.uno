@@ -32,7 +32,7 @@ projects: []
 
 それと比較するために、とりあえず[Julia templateをPR](https://github.com/shogo82148/TinySegmenterMaker/pull/10)して比較しました。
 
-![f:id:chezou:20151108175610p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20151108/20151108175610.png &quot;f:id:chezou:20151108175610p:plain&quot;)
+![](/img/2015/11/08/190000/20151108175610.png)
 
 | Ruby | Perl | Python | Node.js | C++ | Go | Julia | Julia (hash optimized) |
 | --- | --- | --- | --- | --- | --- | --- | --- |

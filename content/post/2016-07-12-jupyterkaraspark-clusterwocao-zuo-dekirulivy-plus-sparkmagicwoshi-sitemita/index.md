@@ -124,7 +124,7 @@ notebookの例はこちら
 
 gistには出てませんが、こんな感じでSparkに対してSQLで処理した結果を簡単にvisualiseできます。sparkmagicすごい！
 
-![f:id:chezou:20160712155306p:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20160712/20160712155306.png &quot;f:id:chezou:20160712155306p:plain&quot;)
+![](/img/2016/07/12/115000/20160712155306.png)
 
 `%%local`でlocalのcontextに行ったりするのがまだなれないですが、magic commandの `%%sql`で実行した結果をDataFrameで受け取れたりと、いろいろ便利そうです。
 

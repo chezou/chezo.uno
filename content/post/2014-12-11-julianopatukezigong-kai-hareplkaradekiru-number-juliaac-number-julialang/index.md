@@ -41,9 +41,9 @@ Juliaのパッケージを作っても、野良パッケージを作るだけで
 
 すると、自分のMETADATA.jlがbranch切られてpushされて、ブラウザが開いてPull Requestが作られます。(自分が試した時はChromeがちょうどクラッシュしたので、手でPR作りなおしたのでもしかするとMETADATA.jlのページが開くだけだったかもしれません)
 
-![f:id:chezou:20141207213426p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20141207/20141207213426.png &quot;f:id:chezou:20141207213426p:plain&quot;)
+![](/img/julia_ac_pkg_publish/20141207213426.png)
 
-![f:id:chezou:20141207213437p:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20141207/20141207213437.png &quot;f:id:chezou:20141207213437p:plain&quot;)
+![](/img/julia_ac_pkg_publish/20141207213437.png)
 
 最高便利！
 

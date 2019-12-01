@@ -23,7 +23,7 @@ projects: []
 
 うどんです。
 
-![f:id:chezou:20151205171506j:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20151205/20151205171506.jpg &quot;f:id:chezou:20151205171506j:plain&quot;)
+![](/img/uyan-dominates-the-world/20151205171506.jpg)
 
 本の正式名称は「うどんのうーやん」です。
 
@@ -31,7 +31,7 @@ projects: []
 
 働き者のうどんです。
 
-![f:id:chezou:20151205171532j:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20151205/20151205171532.jpg &quot;f:id:chezou:20151205171532j:plain&quot;)
+![](/img/uyan-dominates-the-world/20151205171532.jpg)
 
 人手不足の煽りを受けて、自分自身で配達に行きます。  
 世が世なら、世界中の仕事が人工知能によって奪われて「うーやん」は自ら配達に行く必要は無かったのかもしれません。
@@ -40,11 +40,11 @@ projects: []
 
 哲学です。
 
-![f:id:chezou:20151205171619j:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20151205/20151205171619.jpg &quot;f:id:chezou:20151205171619j:plain&quot;)
+![](/img/uyan-dominates-the-world/20151205171619.jpg)
 
 そこに川があるから渡り、
 
-![f:id:chezou:20151205171645j:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20151205/20151205171645.jpg &quot;f:id:chezou:20151205171645j:plain&quot;)
+![](/img/uyan-dominates-the-world/20151205171645.jpg)
 
 そこに山があるから登ります。
 

@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![f:id:chezou:20141226161201j:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20141226/20141226161201.jpg &quot;f:id:chezou:20141226161201j:plain&quot;)
+![](/img/2014/12/29/014733/20141226161201.jpg)
 
 # 社内でLean Analytics読書会をやった
 

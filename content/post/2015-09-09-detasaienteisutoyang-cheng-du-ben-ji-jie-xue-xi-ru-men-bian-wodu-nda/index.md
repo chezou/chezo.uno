@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![f:id:chezou:20150906164556j:plain](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20150906/20150906164556.jpg &quot;f:id:chezou:20150906164556j:plain&quot;)
+![](/img/2015/09/09/221409/20150906164556.jpg)
 
 明日発売の「データサイエンティスト養成読本 機械学習入門編」を著者の一人の福島さん([@sfchaos](https://twitter.com/sfchos))にいただきました。 きっかけは、福島さんが「機械学習ソフトウェアの外観」という特集でJuliaの紹介をしていただいたからでした。
 

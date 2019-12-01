@@ -17,7 +17,8 @@ image:
 
 projects: []
 ---
-![f:id:chezou:20161201230818p:plain:w200](https://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20161201/20161201230818.png &quot;f:id:chezou:20161201230818p:plain:w200&quot;)
+
+![](/img/amazon-polly-with-ruby/20161201230818.png)
 
 今日のre:InventでDeep Learningを使った音声合成サービスのAmazon Pollyが発表されました。 正直、DLを使ったの音声合成が話題になったのなんて今年に入ってからだと思っていたのに、もう商用化したんか！という気持ちでいっぱいです。
 
