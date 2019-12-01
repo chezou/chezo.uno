@@ -24,8 +24,8 @@ _RISECamp Tutorials. Contribute to ucbrise/risecamp development by creating an a
 
 RISELabはSparkで有名なAMPLabの後継となる研究室で、彼らが作るML関連のライブラリ・フレームワークのハンズオンをするというのが会の趣旨です。
 
-![](https://cdn-images-1.medium.com/max/800/1*NZTxwssCMLDZDv2Km1M1Hg.jpeg)
-![RISELabのStack](https://cdn-images-1.medium.com/max/800/1*X7a1O3wc38JN97nSzJph7Q.jpeg)
+![](/img/1__NZTxwssCMLDZDv2Km1M1Hg.jpeg)
+![RISELabのStack](/img/1__X7a1O3wc38JN97nSzJph7Q.jpeg)
 RISELabのStack
 
 上の図のオレンジと緑の部分が彼らが作っているフレームワークになるのですが、その中でも以下のものについての紹介がありました。
@@ -53,7 +53,7 @@ _A system for parallel and distributed Python that unifies the ML ecosystem. - r
 
 RAYはこのRISELabのセットの中での基礎となるフレームワークです。READMEにもある通り、以下のようなdecoratorを書くだけでPythonの処理を並列・分散処理できるというコンセプトのものになります。
 
-![](https://cdn-images-1.medium.com/max/800/1*FfKig9pDJRJZv4rtEBYyaA.png)
+![](/img/1__FfKig9pDJRJZv4rtEBYyaA.png)
 
 MLの処理をDSLとして抽象化します。特徴としては、
 
@@ -62,14 +62,14 @@ MLの処理をDSLとして抽象化します。特徴としては、
 
 として、Actorモデルを使って並列処理を行います。 `@ray.remote` というデコレータを書くと、その関数はRAYのWorkerで実行されるという仕組みです。
 
-![](https://cdn-images-1.medium.com/max/800/1*ZRoARnXmvmlN_SBwDGXhsg.jpeg)
+![](/img/1__ZRoARnXmvmlN__SBwDGXhsg.jpeg)
 
 ポイントとしては、Pythonのobjectをcloudpickleというpackageを使ってserializeしてWorkerに投げてしまうということです。裏側にはノードごとのshared memoryとしてApache Arrowもいるため、Workerの共用メモリとしてオブジェクトを格納します。データの並列化どうするんだろうなと思ったら、ModinというPandas on Rayというライブラリも開発しているようです。”Modin is a DataFrame for datasets from 1KB to 1TB+”と言っているので、皆が困っているサイズ感のDataFrameを扱えるようになるかもしれません。
 
 [**modin-project/modin**  
 _Modin: Speed up your Pandas workflows by changing a single line of code - modin-project/modin_github.com](https://github.com/modin-project/modin "https://github.com/modin-project/modin")[](https://github.com/modin-project/modin)
 
-![](https://cdn-images-1.medium.com/max/800/1*wNA1IPu9X2ICC9GzIOvzqA.jpeg)
+![](/img/1__wNA1IPu9X2ICC9GzIOvzqA.jpeg)
 
 チュートリアルは、こちらのrepoと同じものを実際にJupyterLabでハンズ・オンしました。
 
@@ -78,7 +78,7 @@ _Contribute to ray-project/tutorial development by creating an account on GitHub
 
 RAY自体はなるほど、と思って生々しいコードを書いていたのですが、それをベースにした[RLlib](https://github.com/ray-project/ray/tree/master/python/ray/rllib)という強化学習のライブラリと[Tune](https://github.com/ray-project/ray/tree/master/python/ray/tune)というパラメータチューニング用のライブラリを使ってみて、隠蔽されたアプリケーションとして使うとML用の並列処理を行うのには良いなと感じました。
 
-![](https://cdn-images-1.medium.com/max/800/1*Va8PIW3Bx_G5FJas3kDatA.jpeg)
+![](/img/1__Va8PIW3Bx__G5FJas3kDatA.jpeg)
 
 なお、WorkerのPythonのdependencyはあらかじめ解決した上で走らせてねということなので、複数プロジェクト走らせたりするのにはまだまだ自前で頑張る部分がありそうです。
 
@@ -102,11 +102,11 @@ _Build, configure, run, and reproduce experiments with Flor. - ucbrise/flor_gith
 
 機械学習では、feature engineeringなどのデータの加工をしたり、パラメータの探索をしたりしながらパイプラインを作っていきます。そこで、よくあるのが過去のパイプラインを再現したいのに、既にobjectが上書きされていて戻せないといったことがあります。Florでは、それを再現可能にするために色々と補助をしてくれます。
 
-![](https://cdn-images-1.medium.com/max/1200/1*NQsxJzTYwsHcRRdCy9SCdQ.jpeg)
+![](/img/1__NQsxJzTYwsHcRRdCy9SCdQ.jpeg)
 
 少しFlor流の書き方をしないといけないのですが、それをすることで実験同士の処理のdiffを見たり、処理のパイプラインを可視化したり、他の人から引き継いだ実験の中間データを後から再度取得したりすることができます。
 
-![](https://cdn-images-1.medium.com/max/800/1*esjnYs5wLhZ9VicWXgiivg.jpeg)
+![](/img/1__esjnYs5wLhZ9VicWXgiivg.jpeg)
 
 MLでは実験のreproducibilityをどう作るのかという話がよく話題にあがるため、その一つのアプローチとして良いのではないでしょうか。ただ、大きいデータになったときの中間データを効率的に保存できるかは少し気になりました。
 
@@ -129,7 +129,7 @@ _A data analytics platform with strong security. Contribute to ucbrise/opaque de
 
 OpaqueはSparkSQLをHardware Enclaves (Intel SGX, AMD SEV etc)の上で走らせて、セキュアな分析を可能にするものとのことです。チュートリアルでは、病気に関するデータセットを使ってSpark DataFrameを処理しましたが、まだScalaでしか動かないようです。
 
-![](https://cdn-images-1.medium.com/max/800/1*Oo2duV6e19Vu66svgpU9ZQ.jpeg)
+![](/img/1__Oo2duV6e19Vu66svgpU9ZQ.jpeg)
 
 ### WAVE
 

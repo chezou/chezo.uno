@@ -15,7 +15,7 @@ authors: [aki]
 
 Rのtest frameworkのtestthatの煽り力が高い
 
-![**Frustration is a natural part of programming :)**](https://cdn-images-1.medium.com/max/800/1*PGBQH3d34YhCCfZ7XtTjSg.png)
+![**Frustration is a natural part of programming :)**](/img/1__PGBQH3d34YhCCfZ7XtTjSg.png)
 **Frustration is a natural part of programming :)**
 
 ちぇぞーさんまた煽られてるの

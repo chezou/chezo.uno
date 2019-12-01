@@ -9,12 +9,12 @@ authors: [aki]
 
 先日、ラムダノートから創刊された「n月刊ラムダノート」に「MLOpsの歩き方」を寄稿しました。
 
-[**『n月刊ラムダノート』創刊のお知らせ**  
+[**『n月刊ラムダノート』創刊のお知らせ**
 _このたびラムダノートでは、計算機全般を扱う新しい不定期刊行誌『n月刊ラムダノート』（n-monthly Lambda…_www.lambdanote.com](https://www.lambdanote.com/blogs/news/n "https://www.lambdanote.com/blogs/news/n")[](https://www.lambdanote.com/blogs/news/n)
 
 他の著者の記事などでいろいろと話題になっていますが、「TCPの再送制御機構」から『「コルーチン」とは何だったのか？』、そして僕の書いたMLOpsの話までと、幅広いテーマが取り扱われています。
 
-[**新雑誌「n月刊ラムダノート」の『「コルーチン」とは何だったのか？』の草稿を公開します - まめめも**  
+[**新雑誌「n月刊ラムダノート」の『「コルーチン」とは何だったのか？』の草稿を公開します - まめめも**
 _『Ruby でつくる Ruby』などでお世話になっているラムダノートが、新しい雑誌 「n月刊ラムダノート」 を創刊しました。 コンピュータ関係の技術情報の記事だけが載るそうです。創刊号は、『 TCP…_mametter.hatenablog.com](https://mametter.hatenablog.com/entry/2019/03/27/211140 "https://mametter.hatenablog.com/entry/2019/03/27/211140")[](https://mametter.hatenablog.com/entry/2019/03/27/211140)
 
 個人的には、[グルドンで宣伝したおかげ](https://mstdn.guru/@chezou/101792759121359160)か[ITmedia NEWSデビュー](https://www.itmedia.co.jp/news/articles/1903/25/news070.html)したのでちょっと嬉しかったです。
@@ -25,7 +25,7 @@ _『Ruby でつくる Ruby』などでお世話になっているラムダノー
 
 「n月刊ラムダノート」は皆様の記事の寄稿を受け付けています。詳しくは以下の記事をお読みいただければと思います。
 
-[**『n月刊ラムダノート』への寄稿をお待ちしています**  
+[**『n月刊ラムダノート』への寄稿をお待ちしています**
 _n月刊ラムダノート創刊号へのたくさんの応援ありがとうございます。n月刊ラムダノートは、1号分の記事が集まったら次号が発行される不定期刊行の技術解説誌です。…_www.lambdanote.com](https://www.lambdanote.com/blogs/news/n-1 "https://www.lambdanote.com/blogs/news/n-1")[](https://www.lambdanote.com/blogs/news/n-1)
 
 ターゲットとしている記事は、上記の記事から抜粋すると
@@ -57,11 +57,11 @@ _n月刊ラムダノート創刊号へのたくさんの応援ありがとうご
 
 この時点で、GitHubのprivateレポジトリをいただいていたので、issueにまとめていきました。
 
-![](https://cdn-images-1.medium.com/max/800/1*3ZOui_R0NW7i64vILEFRlw.png)
+![](/img/1__3ZOui__R0NW7i64vILEFRlw.png)
 
 また、合わせて章立てやコンテンツを考えるためのMindmapを作りました。とはいえ、自分の知っているだけの情報で足りるかがわからないので、3の情報収集と並行してブラッシュアップしていました。
 
-![MLOpsの歩き方のマインドマップ](https://cdn-images-1.medium.com/max/800/0*4e4nMKWzAJvRyeHK.png)
+![MLOpsの歩き方のマインドマップ](/img/0__4e4nMKWzAJvRyeHK.png)
 MLOpsの歩き方のマインドマップ
 
 #### 3\. 下調べをする
@@ -72,8 +72,8 @@ MLOpsは産業界でボトムアップに動いている分野なので、まと
 
 [https://www.notion.so/Guide-book-for-MLOps-aab7579e4fe4496aa69f5675d989e64f](https://www.notion.so/Guide-book-for-MLOps-aab7579e4fe4496aa69f5675d989e64f)
 
-![](https://cdn-images-1.medium.com/max/800/1*XcQ5S3HBFQLigAc-Gpg0Sw.png)
-![Notionの編集画面](https://cdn-images-1.medium.com/max/800/1*XcQ5S3HBFQLigAc-Gpg0Sw.png)
+![](/img/1__XcQ5S3HBFQLigAc__Gpg0Sw.png)
+![Notionの編集画面](/img/1__XcQ5S3HBFQLigAc__Gpg0Sw.png)
 Notionの編集画面
 
 Notionのいいところは、だらだらと1ページで書き始めて一部をくくりだしてsubページにしようと思う場合手軽にできるところです。
@@ -84,7 +84,7 @@ Notionのいいところは、だらだらと1ページで書き始めて一部�
 
 まず目指したのは、[鹿野さんの言うところ](http://note.golden-lucky.net/2016/05/gitgithub.html)の「内容をすべて書き出した」状態です。
 
-![「執筆・編集のためのGit（GitHub）ワークフローを考えてみた」より](https://cdn-images-1.medium.com/max/800/0*7wzxICsdv0RXlMtR.jpg)
+![「執筆・編集のためのGit（GitHub）ワークフローを考えてみた」より](/img/0__7wzxICsdv0RXlMtR.jpg)
 「執筆・編集のためのGit（GitHub）ワークフローを考えてみた」より
 
 ちなみに、初稿を書くのもNotionで書いてMarkdownでexportしました。iPad Proで原稿を書いたり、途中で調べたものの追加をPixel 3でやったりといろいろなデバイスや環境でやれるのが楽でした。
@@ -95,7 +95,7 @@ Notionのいいところは、だらだらと1ページで書き始めて一部�
 
 とはいえ、この段階では事例紹介色が強く、課題と解決策の対応が弱いという不安を抱えながらpushしました。この不安はissueとPRをしていただきながら編集によって解消されたのですが、一人では解決できなかったと思います。
 
-![PRベースの編集の様子](https://cdn-images-1.medium.com/max/800/1*eXkS-d6qbwoqA6atk73_SA.png)
+![PRベースの編集の様子](/img/1__eXkS__d6qbwoqA6atk73__SA.png)
 PRベースの編集の様子
 
 著者である自分はコンテンツの足し算をしたがるのですが、編集者からは足すことはできないので、構造に手を入れたり引き算をすることで論旨を明確にするのだ、という話を聞いたときには目からウロコでした。

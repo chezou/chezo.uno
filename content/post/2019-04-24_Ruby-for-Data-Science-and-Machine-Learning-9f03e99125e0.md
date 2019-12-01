@@ -11,7 +11,7 @@ authors: [aki]
 
 I attended [RubyKaigi 2019](https://rubykaigi.org/2019) held at Fukuoka from Apr 18 to Apr 21. This year’s RubyKaigi was a really great opportunity for me to know the possibility of Data Science and Machine Learning for Ruby.
 
-![](https://cdn-images-1.medium.com/max/800/0*yHSEXuY1I2U_4ysS)
+![](/img/0__yHSEXuY1I2U__4ysS.jpg)
 
 ### Data Science and Ruby
 
@@ -34,11 +34,11 @@ There is three core software supporting these movements:
 
 Apache Arrow is a cross-language data structure for in-memory data. Kohei Sutou, the creator of Red Arrow, Ruby binding of Apache Arrow, who is a Japanese PMC of Apache Arrow. He has also been organizing an initiative called Red Data tools, monthly developer meet-ups for Ruby data tools. The meetup drives Ruby data ecosystem, especially for beginners. I heard from mrkn, a Ruby committer, that Arrow is trying to implement data manipulations those pandas does as C++ code. That means, calculations of tabula style data, a.k.a. DataFrame can be done in Apache Arrow’s Table format so that Ruby would be able to be suitable for data manipulation.
 
-![](https://cdn-images-1.medium.com/max/600/0*r3ToqacydBaYmyh1)
+![](/img/0__r3ToqacydBaYmyh1.jpg)
 
 Another essential thing is Numo, which enables to handle numeric array like Numpy and is the fundamental part of DS/ML execution. Cumo is the GPU version of Numo and 75 times faster than Numo for the hello world for Deep Learning, a.k.a. MNIST. The talk about Cumo suggested that many Deep Learning related executions depend on CUDA so that scripting languages can be just a wrapper of them.
 
-![](https://cdn-images-1.medium.com/max/600/0*0R6wvTiO6WQw79bD)
+![](/img/0__0R6wvTiO6WQw79bD.jpg)
 
 Red Chainer enables Deep Learning tasks, but it seems still young. Rather than that, [Menoh-Ruby](https://github.com/pfnet-research/menoh-ruby "https://github.com/pfnet-research/menoh-ruby") can be a great tool, which allows to inference/predict with pre-trained models with PyTorch, Chainer, or any other frameworks which can export ONNX, the intermediate format of DL.
 

@@ -9,7 +9,7 @@ keywords: []
 authors: [aki]
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*XqRaeeRpBtmUfBRcCPBVjw.png)
+![](/img/1__XqRaeeRpBtmUfBRcCPBVjw.png)
 
 同僚の [Daisuke Kobayashi](https://medium.com/u/aad6cf2e3329) から勧められて、エリン・メイヤーの「異文化理解力」を読んだ。グローバル企業で働く人間として非常に示唆に富んだ良い本だった。
 

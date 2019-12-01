@@ -9,7 +9,7 @@ keywords: []
 authors: [aki]
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*UBBXwI8ydc_9DPD3ZlVgnA.png)
+![](/img/1__UBBXwI8ydc__9DPD3ZlVgnA.png)
 
 Cloudera Director is a provisioning tool for CDH and Cloudera Enterprise. We can launch cluster with Web GUI or CLI tool. Using Cloudera Director CLI tool, you can manage your cluster with configuration file, that enables you to manage configurations with git. In this article, I will introduce how to install Cloudera Director into your local macOS or Windows 10.
 

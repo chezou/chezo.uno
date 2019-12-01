@@ -9,7 +9,7 @@ keywords: []
 authors: [aki]
 ---
 
-![[http://www.irasutoya.com/2017/05/blog-post\_22.html](http://www.irasutoya.com/2017/05/blog-post_22.html)](https://cdn-images-1.medium.com/max/800/0*YSlLMz01REAp_q_y.png)
+![[http://www.irasutoya.com/2017/05/blog-post\_22.html](http://www.irasutoya.com/2017/05/blog-post_22.html)](/img/0__YSlLMz01REAp__q__y.png)
 [http://www.irasutoya.com/2017/05/blog-post\_22.html](http://www.irasutoya.com/2017/05/blog-post_22.html)
 
 _This article is a translation of_ [_this article_](https://gist.github.com/aodag/9a8118d06998b674e2d9597c6d02a6db)_, originally written by_ [_aodag_](https://github.com/aodag) _in Japanese. I translated it with his permission. This article is aimed to know simple ways to prepare internal Python package host like a_ [_local gem server on Ruby_](http://guides.rubygems.org/run-your-own-gem-server/)_._

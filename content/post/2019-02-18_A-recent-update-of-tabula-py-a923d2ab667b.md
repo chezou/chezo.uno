@@ -6,10 +6,9 @@ description: >-
 date: '2019-02-18T01:26:00.242Z'
 categories: [OSS]
 keywords: [tabula-py]
-authors: [aki]
 ---
 
-![Photo by [Joshua Rawson-Harris](https://unsplash.com/@joshrh19?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/800/0*9HRqzqcWldOqKJCK)
+![Photo by [Joshua Rawson-Harris](https://unsplash.com/@joshrh19?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](/img/0__9HRqzqcWldOqKJCK.jpg)
 Photo by [Joshua Rawson-Harris](https://unsplash.com/@joshrh19?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 _This article is_ [_a repost of Patreon article_](https://www.patreon.com/posts/23407263) _published last December. I’m planning to bump up the next version of tabula-py within few weeks._
