@@ -1,0 +1,92 @@
+---
+title: "データ分析への向き合い方~Machine Learning Casual Talks #2を開催しました #MLCT"
+subtitle: ""
+summary: ""
+authors: [aki]
+tags: []
+categories: 
+date: 2014-08-29T22:07:00+00:00
+lastmod: 2014-08-29T22:07:00+00:00
+featured: false
+draft: false
+
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+projects: []
+---
+先週火曜日に [Machine Learning Casual Talks #2](http://mlct.connpass.com/event/8036/) を開催しました。  
+発表は、グノシー関さん、PFI比戸さん([@sla](https://twitter.com/sla))、[@motivic\_](https://twitter.com/motivic_)さん、カメリオから柴田さん、[@SamuraiT01](https://twitter.com/SamuraiT01)さんに発表頂きました。  
+発表していただいた皆さん、Yahoo!Japanの[@qluto](https://twitter.com/qluto)さんはじめお手伝いいただいた皆さん、本当にありがとうございました！
+
+togetterのまとめ([★](http://togetter.com/li/711785))
+
+[2014/08/30追記]  
+Gunosy関さんのスライドが落ちていたので追加しました。
+
+# tl;dr
+
+- 仮説なきデータ分析はやめよう
+- 施策の価値を人手で検証して、必要に応じて機械学習を使おう
+
+## 詳細
+
+今回は、[@PENGUINANA\_](https://twitter.com/PENGUINANA_)さんが「機械学習とKPI」というテーマを所望されていたので、それで各スピーカーにお話いただきました。  
+お互い示し合わせていなかったのに、Lean StartupのMVPの話を中心に話を組み立てていたのが非常に興味深かったです。  
+特に、グノシーの創業者の一人関さんが「B to Cサービスの現場から考える機械学習活用」という発表をされたのですが、  
+  
+普段からクックパッド社内でも考える内容に非常にマッチしていて(機械学習をやるやらないは別にして)、データを活かす上での心づもりとして有益な情報でした。
+
+&lt;iframe allowfullscreen=&quot;true&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot; height=&quot;596&quot; id=&quot;talk_frame_115621&quot; mozallowfullscreen=&quot;true&quot; src=&quot;//speakerdeck.com/player/e0dba2400f2b0132e46c5af3d0e731c5&quot; style=&quot;border:0; padding:0; margin:0; background:transparent;&quot; webkitallowfullscreen=&quot;true&quot; width=&quot;710&quot;&gt;&lt;/iframe&gt;
+
+ポイントとしては以下の三点です。
+
+- 機械学習の精度と、ユーザー価値は別物である
+- まずは施策の価値を人手で作って(MPV)、検証後機械学習を適用する
+- 仮説がなければKPIを追いかけても意味が無い
+
+もう一つ、PFIの比戸さんの発表も、データを扱う人なら必見の内容です。
+
+ビール大好きな人のコメントが的を射ています。
+
+&gt; このページ、機械学習に限らずデータほげほげ系であるあるすぎて、ウッってなるなｗ [http://t.co/wfOy3ngfrc](http://t.co/wfOy3ngfrc)
+&gt; 
+&gt; — tagomoris (@tagomoris) [2014, 8月 27](https://twitter.com/tagomoris/status/504443365681688576)
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/38372284&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+
+  **[あなたの業務に機械学習を活用する5つのポイント](https://www.slideshare.net/shoheihido/5-38372284 &quot;あなたの業務に機械学習を活用する5つのポイント&quot;)** from **[Shohei Hido](http://www.slideshare.net/shoheihido)** 
+
+  **[あなたの業務に機械学習を活用する5つのポイント](https://www.slideshare.net/shoheihido/5-38372284 &quot;あなたの業務に機械学習を活用する5つのポイント&quot;)** from **[Shohei Hido](http://www.slideshare.net/shoheihido)** 
+
+## LT
+
+### @motivic\_ さん「素人がDEEP LEARNINGと他の機械学習の性能を比較してみた」
+
+&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/38373205&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+
+  **[素人がDeep Learningと他の機械学習の性能を比較してみた](https://www.slideshare.net/motivic/machine-learning-causal-talk-2-lt &quot;素人がDeep Learningと他の機械学習の性能を比較してみた&quot;)** from **[motivic](http://www.slideshare.net/motivic)** 
+
+どう見ても素人詐欺です、本当にありがとうございました
+
+### @samurai01T さん「カメリオの記事の本文抽出」
+
+内容もさることながら、初心者向けの機械学習おすすめ本の提示がよかったです。[わかパタ](http://www.amazon.co.jp/dp/4274131491)は読みやすくていい本ですね。
+
+本文抽出といえば、 [@shuyo](https://twitter.com/shuyo) さんのExtractContent([slide]([http://www.slideshare.net/shuyo/web-using-crf](http://www.slideshare.net/shuyo/web-using-crf)),[Ruby1.9対応版](https://github.com/mono0x/extractcontent))を使っていた記憶が蘇りました。
+
+### Akira Shibataさん「カメリオ精度向上に使った学習アプローチ」
+
+最適化手法は古典的な方法を使っているそうなのですが、特徴的なのがクラウドワークスを使ってラベルを収集していること。  
+USだとAmazon Mechanical Turkを使うのが一般的に行われているのですが、日本でマイクロタスクを出して機械学習の正解データを作っているというのは感慨深いものを感じました。
+
+## まとめ
+
+グノシー関さんの「数値は神である」、PFI比戸さんの「機械学習は苦しい」という話に表されるように、機械学習を「つかう」という点にフォーカスした会でしたが、機械学習をしない人にとっても、どうデータと向きあえばいいのか、というエッセンスが凝縮されていました。  
+僕自身も聞いていて&quot;Lean Analytics&quot;にあった、「行動に移せない指標は意味が無い」という話を具体的にした話を聞けて、局所最適解に陥らないデータ活用について考えさせられました。
+
+
