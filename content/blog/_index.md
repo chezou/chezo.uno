@@ -1,5 +1,5 @@
 ---
-title: Blog Posts (in Japanese)
+title: Blog Posts
 
 # View.
 #   1 = List
