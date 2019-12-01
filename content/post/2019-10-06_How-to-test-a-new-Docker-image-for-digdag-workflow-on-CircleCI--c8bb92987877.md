@@ -9,7 +9,7 @@ keywords: [Docker, workflow, CircleCI]
 authors: [aki]
 ---
 
-![Photo by [Campaign Creators](https://unsplash.com/@campaign_creators?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/800/0*Sj4niOaDd_W4bydD)
+![Photo by [Campaign Creators](https://unsplash.com/@campaign_creators?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](/img/0__Sj4niOaDd__W4bydD.jpg)
 Photo by [Campaign Creators](https://unsplash.com/@campaign_creators?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 Testing workflow runnability would be important when we build a complex workflow. [digdag](https://www.digdag.io) is a workflow engine which syntax is simple and is able to run tasks with SQL, Python, Ruby, shell script, etc. digdag has Docker executor and it works like a charm with `py>`, `rb>`, and `sh>` operators.

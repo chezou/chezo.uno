@@ -7,7 +7,7 @@ keywords: []
 authors: [aki]
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*JTqxfs_-kuzO0CAt9dyQgg.png)
+![](/img/1__JTqxfs____kuzO0CAt9dyQgg.png)
 
 _This article is translation of_ [_Japanese version_](https://medium.com/@chezou/oss%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%8C%E5%BC%B7%E3%81%84%E7%90%86%E7%94%B1-48807bbbf13f)_._
 

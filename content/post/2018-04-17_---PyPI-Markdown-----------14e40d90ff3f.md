@@ -50,7 +50,7 @@ _Thanks for PEP 566, as of setuptools v38.6.0, PyPI can render long description 
 $ python setup.py bdist\_wheel  
 $ twine upload dist/\*
 
-![test.pypi.orgのMarkdownのドキュメントの様子](https://cdn-images-1.medium.com/max/800/1*dskznp-UI9jw4D9L6gAQLA.png)
+![test.pypi.orgのMarkdownのドキュメントの様子](/img/1__dskznp__UI9jw4D9L6gAQLA.png)
 test.pypi.orgのMarkdownのドキュメントの様子
 
 今回はこれだけのためにpatch versionを上げるのもなぁということで、test.pypi.orgにあげています。

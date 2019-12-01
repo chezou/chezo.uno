@@ -50,7 +50,7 @@ Now, you can build a wheel and upload with twine.
 $ python setup.py bdist\_wheel  
 $ twine upload dist/\*
 
-![The Markdown document was rendered!](https://cdn-images-1.medium.com/max/800/1*TsTQiTt6wOa5zxTxQzpTsQ.png)
+![The Markdown document was rendered!](/img/1__TsTQiTt6wOa5zxTxQzpTsQ.png)
 The Markdown document was rendered!
 
 CAVEAT: I didn’t upgrade PyPI because it is too much to bump up for just rendering Markdown. I [tested on test.pypi.org](https://test.pypi.org/project/tabula-py/1.0.0/).

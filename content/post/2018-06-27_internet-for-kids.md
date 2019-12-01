@@ -8,7 +8,7 @@ keywords: []
 authors: [aki]
 ---
 
-![“Two young girls stand reading from a book outdoors in the sun” by [Ben White](https://unsplash.com/@benwhitephotography?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/600/0*ejTjhrTvclboS_B1)
+![“Two young girls stand reading from a book outdoors in the sun” by [Ben White](https://unsplash.com/@benwhitephotography?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](/img/0__ejTjhrTvclboS__B1.jpg)
 “Two young girls stand reading from a book outdoors in the sun” by [Ben White](https://unsplash.com/@benwhitephotography?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 伊藤淳一さんの以下の記事を読んで、子供にネットの話をどう教えるのがいいのかなぁと悩んでいたので、件の記事で紹介されていた本と、そこから派生して仲間内で紹介してもらった本を読んだので紹介したいと思います。

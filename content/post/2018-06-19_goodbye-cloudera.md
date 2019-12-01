@@ -11,7 +11,7 @@ authors: [aki]
 
 一部の方にはお伝えしましたが、先週がClouderaでの最終出社でした。2年3ヶ月はあっという間に過ぎて行きました。同僚の [Daisuke Kobayashi](https://medium.com/u/aad6cf2e3329) と [Tatsuo Kawasαki](https://medium.com/u/9fba6aa30d2b) に退職ブログ書いてくださいよと言われたので、初めて書いてみます。
 
-![](https://cdn-images-1.medium.com/max/800/1*KqUpw89767H1obV5hN4_Ug@2x.jpeg)
+![](/img/1__KqUpw89767H1obV5hN4__Ug__2x.jpeg)
 
 ### はじめての外資で働くということ
 
@@ -56,7 +56,7 @@ _同僚の Daisuke Kobayashi から勧められて、エリン・メイヤーの
 
 自分にとっての生存戦略は今までと変わらず、**（その組織の中で）自分が強いところはどこかというのを見つけてコントリビュートする**ことでした。社内には、HadoopやSpark、Java/Scalaに関しては詳しい人が山のようにいるので、そちらの方面は詳しい人を頼りつつ、PythonとML系の話を掛け算で攻めていくようにしていました。例えば、自分の[英語ブログ](https://blog.chezo.uno/)に [Atsushi Odagiri](https://medium.com/u/8c79ed0955f6)さんの知見を英訳して展開しては社内に共有したのもその一環です。
 
-![Photo by [Andhika Soreng](https://unsplash.com/@dhika88?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/800/0*RRTZy7U2FfIZ7DRu)
+![Photo by [Andhika Soreng](https://unsplash.com/@dhika88?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](/img/0__RRTZy7U2FfIZ7DRu.jpg)
 Photo by [Andhika Soreng](https://unsplash.com/@dhika88?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 次は、MLOps系の話に自分で取り組んだり、実際に自分でdeveloperとして手を動かしてプロダクトに貢献したいという思いもあり、セールス寄りの世界から少し離れようと思います。かなりキャッチアップしないと…。とはいえ、頸椎を痛めたこともあり、PCもタブレットもスマホも使うと痛みが走るし、薬のためにアルコールも飲めないので、まずは少し静養しようと思います。

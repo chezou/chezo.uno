@@ -9,7 +9,7 @@ keywords: [PC]
 authors: [aki]
 ---
 
-![“two phones on white table” by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/800/0*jIYyoN2vxlQsPgm5)
+![“two phones on white table” by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](/img/0__jIYyoN2vxlQsPgm5.jpg)
 “two phones on white table” by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 転職をして、業務で使うマシンがMacBook Proになったので、自宅用のThinkpad X1 Carbon (5th Gen, 2017モデル)と共通して使える充電とUSB-Aがはやせるハブ(とかマルチポートアダプタとか色々言われているもの)を探しました。

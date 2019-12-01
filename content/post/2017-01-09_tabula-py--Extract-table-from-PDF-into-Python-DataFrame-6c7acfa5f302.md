@@ -27,18 +27,18 @@ pip install tabula-py
 
 With tabula-py, you can get DataFrame with `read_pdf()` method.
 
-![example of read\_pdf()](https://cdn-images-1.medium.com/max/800/1*w0uPTg2qfvBbmHYEYxqjYw.png)
+![example of read\_pdf()](/img/1__w0uPTg2qfvBbmHYEYxqjYw.png)
 example of read\_pdf()
 
 You can also extract tables as JSON format:
 
-![example of JSON](https://cdn-images-1.medium.com/max/800/1*wtSMgtCmBgy15PdP6Lq_jQ.png)
+![example of JSON](/img/1__wtSMgtCmBgy15PdP6Lq__jQ.png)
 example of JSON
 
 You can extract tables into a file like JSON, CSV or TSV with `convert_into()` method.
 
-![](https://cdn-images-1.medium.com/max/1200/1*tLQ2aqjM_zD_Ls6qNY6E0g.png)
-![](https://cdn-images-1.medium.com/max/1200/1*ir9O2abAz1emEUdVqiwT0Q.png)
+![](/img/1__tLQ2aqjM__zD__Ls6qNY6E0g.png)
+![](/img/1__ir9O2abAz1emEUdVqiwT0Q.png)
 
 You can see more examples in Jupyter notebook.
 
