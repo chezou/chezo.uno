@@ -7,8 +7,8 @@ summary: "RTDとRPrstoを使ってRからTreasure Dataにアクセスしてみ�
 authors: [aki]
 tags: [R]
 categories: [R, TreasureData]
-date: 2019-12-04T10:22:02+09:00
-lastmod: 2019-12-04T10:22:02+09:00
+date: 2019-12-04T00:00:00+09:00
+lastmod: 2019-12-04T00:00:00+09:00
 featured: false
 draft: false
 
