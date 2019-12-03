@@ -52,6 +52,8 @@ https://rpubs.com/chezou/TD-from-RPresto-RTD
 
 RTDは v0.2.0 からCRANに上げるのを辞めました。これはこれで一つの記事が書けるのですがそれはまた別の機会に譲ろうと思います。
 
+余談ですが、CRANとの戦いの際にはr-wakalangの皆様に支えていただきました。Rに関する開発はもはやあそこなしには成り立ちません。[Slack](https://github.com/tokyor/r-wakalang)にぜひ参加するといいと思います。パッケージングから統計モデリングも話まで物凄い勢いで有識者が答えてくれます。
+
 
 ```R
 source("https://install-github.me/chezou/RTD@v0.2.0")
