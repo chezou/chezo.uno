@@ -28,6 +28,8 @@ image:
 projects: ["RTD"]
 ---
 
+この記事は、[Arm Treasure Data advent calendar](https://adventar.org/calendars/3932) 3日目です。
+
 公式ドキュメントは、 [Rについてはあまり書かれていない](https://support.treasuredata.com/hc/en-us/articles/360001487927-R-Language-Driver-Install)のですが、RからTreasureDataを使うにはRJDBC以外にもいくつかの方法があります。
 
 基本的には、RPrestoとRTDをおさえておくのが良いでしょう。
