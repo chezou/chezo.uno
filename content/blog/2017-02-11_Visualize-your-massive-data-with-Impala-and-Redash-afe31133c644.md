@@ -3,7 +3,7 @@ title: Visualize your massive data with Impala and Redash
 description: >-
   Redash is a famous OSS visualization tool, which enables to visualize your
   data with SQL. It supports Apache Impala (incubating), fast…
-date: '2017-02-11T14:14:44.539Z'
+date: '2017-02-11T14:14:44+09:00'
 categories: []
 keywords: []
 authors: [aki]

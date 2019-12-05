@@ -5,7 +5,7 @@ title: >-
 description: >-
   livy is a REST server of Spark. You can see the talk of the Spark Summit 2016,
   Microsoft uses livy for HDInsight with Jupyter notebook and…
-date: '2016-12-30T15:15:23.158Z'
+date: '2016-12-30T15:15:23+09:00'
 categories: []
 keywords: []
 authors: [aki]

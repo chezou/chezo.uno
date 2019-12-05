@@ -3,7 +3,7 @@ title: How to run Cloudera Director on your macOS/Windows 10
 description: >-
   Cloudera Director is a provisioning tool for CDH and Cloudera Enterprise. We
   can launch cluster with Web GUI or CLI tool. Using Cloudera…
-date: '2017-08-02T12:12:31.376Z'
+date: '2017-08-02T12:12:31+09:00'
 categories: []
 keywords: []
 authors: [aki]

@@ -1,7 +1,7 @@
 ---
 title: オライリーから「仕事ではじめる機械学習」が出版されます
 description: 技術書典2で好評だった技術書供養寺の薄い本が、この度技術書典3に合わせて商業誌になります！今回も Takashi Nishibayashiさんと…
-date: '2017-10-20T03:19:18.606Z'
+date: '2017-10-20T03:19:18+09:00'
 categories: [publish, book, writing]
 keywords: []
 authors: [aki]

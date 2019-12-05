@@ -1,7 +1,7 @@
 ---
 title: 「n月刊ラムダノート」の記事の書き方～「MLOpsの歩き方」編
 description: 先日、ラムダノートから創刊された「n月刊ラムダノート」に「MLOpsの歩き方」を寄稿しました。
-date: '2019-03-29T04:01:40.858Z'
+date: '2019-03-29T04:01:40+09:00'
 categories: [book, writing]
 keywords: [MLOps]
 authors: [aki]

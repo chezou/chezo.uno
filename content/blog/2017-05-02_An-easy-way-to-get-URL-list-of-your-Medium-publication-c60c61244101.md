@@ -3,7 +3,7 @@ title: An easy way to get URL list of your Medium publication
 description: >-
   I imported blog posts from own Wordpress but I have to redirect old articles
   to Medium manually. There is Wordpress plugin which enables…
-date: '2017-05-02T11:01:01.622Z'
+date: '2017-05-02T11:01:01+09:00'
 categories: []
 keywords: []
 authors: [aki]

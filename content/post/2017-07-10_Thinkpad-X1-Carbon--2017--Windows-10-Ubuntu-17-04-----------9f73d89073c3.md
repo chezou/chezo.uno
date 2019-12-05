@@ -3,7 +3,7 @@ title: Thinkpad X1 Carbon (2017)をWindows 10/Ubuntu 17.04デュアルブート�
 description: >-
   前回 Thinkpad X1 Carbon(2017)のWindows周りの設定について書きましたが、今回はUbuntu
   17.04とのデュアルブートについて書きます。
-date: '2017-07-10T00:11:00.837Z'
+date: '2017-07-10T00:11:00+09:00'
 categories: []
 keywords: []
 authors: [aki]

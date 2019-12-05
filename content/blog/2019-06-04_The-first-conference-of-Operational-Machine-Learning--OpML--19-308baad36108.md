@@ -3,7 +3,7 @@ title: 'The first conference of Operational Machine Learning: OpML ‘19'
 description: >-
   I attended OpML ’19 is a conference for “Operational Machine Learning” held at
   Santa Clara on May 20th.
-date: '2019-06-04T13:50:07.331Z'
+date: '2019-06-04T13:50:07+09:00'
 categories: [mlops, machine_learning]
 keywords: [MLOps, "Machine Learningn"]
 authors: [aki]

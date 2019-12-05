@@ -3,7 +3,7 @@ title: RISECampに参加した
 description: >-
   10/11–12にUC
   BerkeleyのRISELabが主催していたbootcampに参加しました。kawasaki.rbでも少し話しましたが、参加報告です。
-date: '2018-10-25T08:01:02.093Z'
+date: '2018-10-25T08:01:02+09:00'
 categories: []
 keywords: [conference]
 authors: [aki]

@@ -3,7 +3,7 @@ title: How to connect secure Impala cluster from RStudio on macOS with implyr
 description: >-
   Impala is very fast SQL-on-Hadoop, and it will enhance your R experience with
   implyr, a dplyr based interface for Apache Impala…
-date: '2017-03-26T06:35:45.582Z'
+date: '2017-03-26T06:35:45+09:00'
 categories: []
 keywords: []
 authors: [aki]

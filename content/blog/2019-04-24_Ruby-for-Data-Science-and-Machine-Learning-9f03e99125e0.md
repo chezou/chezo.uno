@@ -3,7 +3,7 @@ title: Ruby for Data Science and Machine Learning
 description: >-
   I attended RubyKaigi 2019 held at Fukuoka from Apr 18 to Apr 21. This year’s
   RubyKaigi was a really great opportunity for me to know the…
-date: '2019-04-24T12:10:28.774Z'
+date: '2019-04-24T12:10:28+09:00'
 categories: [machine_learning, ruby]
 keywords: [Ruby, "Data Science", "Machine Learningn"]
 authors: [aki]

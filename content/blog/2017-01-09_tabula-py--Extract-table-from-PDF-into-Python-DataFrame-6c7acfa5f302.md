@@ -3,7 +3,7 @@ title: 'tabula-py: Extract table from PDF into Python DataFrame'
 description: >-
   (Note: Oct 7th, 2019)As of Oct. 2019, I launched a documentation site and
   Google Colab notebook for tabula-py. The FAQ would be good place…
-date: '2017-01-09T14:09:08.620Z'
+date: '2017-01-09T14:09:08+09:00'
 categories: [OSS, tabula]
 keywords: [tabula-py]
 authors: [aki]

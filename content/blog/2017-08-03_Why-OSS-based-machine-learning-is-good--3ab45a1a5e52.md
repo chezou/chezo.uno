@@ -1,7 +1,7 @@
 ---
 title: Why OSS based machine learning is good?
 description: This article is translation of Japanese version.
-date: '2017-08-03T12:56:59.947Z'
+date: '2017-08-03T12:56:59+09:00'
 categories: [machine_learning, OSS]
 keywords: []
 authors: [aki]
