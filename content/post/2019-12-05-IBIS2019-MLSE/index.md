@@ -35,6 +35,8 @@ projects: []
 
 [Challenges for Machine Learning Systems toward Continuous Improvement](https://docs.google.com/presentation/d/1T8JF6h_DFnBAWz8LJvK0miFWsVovKyP0BDuXk3cVo2Q/edit?usp=drivesdk)
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbIOwmdWnnQWVkoMm0a5z6dg0UGCmuvDHGztsl_6krNn2gh-IOFl7Lo4-D_fFqzlyL-RtqemHolupn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="720" height="434" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 Machine Learning in productionに対する9つの課題は、世の中にまだまだ整理されているものではなく難産だったので色々と議論ができればと思っています。9つの課題とdotscienceのLuke Marsden氏によるReproducible, Accountable, Collaborative, Continuousという[4つのマニフェストの話](https://docs.google.com/presentation/d/17RWqPH8nIpwG-jID_UeZBCaQKoz4LVk1MLULrZdyNCs/edit#slide=id.g6ad50e93e5_0_59)を元に整理してみたのですが、どのような課題と抽象化を行っているのか、そしてそれがどういう嬉しさがあるのかへの理解の一助となればと思います。
 
 ## Concept drift?
@@ -47,9 +49,9 @@ Machine Learning in productionに対する9つの課題は、世の中にまだ�
 
 以下、shima__shima先生の説明が参考になるかと思います。
 
-[https://twitter.com/shima__shima/status/1201801576949538816](https://twitter.com/shima__shima/status/1201801576949538816)
+{{< tweet 1201801576949538816 >}}
 
-[https://twitter.com/shima__shima/status/1201802162482737152](https://twitter.com/shima__shima/status/1201802162482737152)
+{{< tweet 1201802162482737152 >}}
 
 ## 機械学習工学セッションの他の発表
 
