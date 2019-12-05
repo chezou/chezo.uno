@@ -2,6 +2,7 @@
 title: あなたの知らない煽りの世界
 description: この記事はpyspa Advenct calenderの17日目です。
 date: '2018-12-16T15:06:00+09:00'
+lastmod: '2018-12-16T15:06:00+09:00'
 categories: []
 keywords: [R]
 authors: [aki]
