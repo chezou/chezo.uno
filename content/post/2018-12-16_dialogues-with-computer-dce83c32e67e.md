@@ -31,12 +31,14 @@ Rすげぇな！
 [**r-lib/testthat**  
 _An R 📦 to make testing 😀. Contribute to r-lib/testthat development by creating an account on GitHub._github.com](https://github.com/r-lib/testthat/blob/e2703ca962af0419f122eb348b7a216e8861e887/R/praise.R#L19-L26 "https://github.com/r-lib/testthat/blob/e2703ca962af0419f122eb348b7a216e8861e887/R/praise.R#L19-L26")[](https://github.com/r-lib/testthat/blob/e2703ca962af0419f122eb348b7a216e8861e887/R/praise.R#L19-L26)
 
+```
 "Keep trying!",  
 "Don't worry, you'll get it.",  
 "No one is perfect!",  
 "No one gets it right on their first try",  
 "Frustration is a natural part of programming :)",  
 "I believe in you!"
+```
 
 特に励ましているように見えねぇのは俺の問題？
 
@@ -49,6 +51,7 @@ _An R 📦 to make testing 😀. Contribute to r-lib/testthat development by cre
 
 adjectiveになにはいるんだろ
 
+```
 praise <- function() {  
  x <- c(  
  “You rock!”,  
@@ -60,6 +63,7 @@ praise <- function() {
  “Nice code.”,  
  praise::praise(“Your tests are ${adjective}!”),  
  praise::praise(“${EXCLAMATION} — ${adjective} code.”)
+```
 
 [**CRAN - Package praise**  
 _Build friendly R packages that praise their users if they have done something good, or they just need it to feel…_cran.r-project.org](https://cran.r-project.org/web/packages/praise/index.html "https://cran.r-project.org/web/packages/praise/index.html")[](https://cran.r-project.org/web/packages/praise/index.html)
@@ -97,6 +101,7 @@ _You can have lots of fun in Linux terminal. And I am not talking about those fu
 
 それ OpenBSD というより、sudo の機能だったな
 
+```
 AC\_ARG\_WITH(pc-insults, \[AS\_HELP\_STRING(\[ — with-pc-insults\], \[deprecated\])\],  
 \[case $with\_pc\_insults in  
  yes) enable\_offensive\_insults=no  
@@ -106,26 +111,31 @@ AC\_ARG\_WITH(pc-insults, \[AS\_HELP\_STRING(\[ — with-pc-insults\], \[depreca
  AC\_MSG\_NOTICE(\[ — without-pc-insults option deprecated, use — enable-offensive-insults\])  
  ;;  
 esac\])
+```
 
 `— with-insults` オプションを付けてビルドすると、出るようになるらしい。  
 [https://www.sudo.ws/repos/sudo/file/tip/configure.ac](https://www.sudo.ws/repos/sudo/file/tip/configure.ac)
 
 `Speak English you fool` つよい
 
+```
 \[xxxxx@yyyyy ~\]$ sudo ls  
 \[sudo\] xxxxx のパスワード:  
 The more you drive — the dumber you get.
+```
 
 できたｗ
 
 まだあるな
 
+```
 AC\_ARG\_WITH(all-insults, \[AS\_HELP\_STRING(\[ — with-all-insults\], \[include all the sudo insult sets\])\],  
 AC\_ARG\_WITH(classic-insults, \[AS\_HELP\_STRING(\[ — with-classic-insults\], \[include the insults from the “classic” sudo\])\],  
 AC\_ARG\_WITH(csops-insults, \[AS\_HELP\_STRING(\[ — with-csops-insults\], \[include CSOps insults\])\],  
 AC\_ARG\_WITH(hal-insults, \[AS\_HELP\_STRING(\[ — with-hal-insults\], \[include 2001-like insults\])\],  
 AC\_ARG\_WITH(goons-insults, \[AS\_HELP\_STRING(\[ — with-goons-insults\], \[include the insults from the “Goon Show”\])\],  
 AC\_ARG\_WITH(python-insults, \[AS\_HELP\_STRING(\[ — with-python-insults\], \[include the insults from “Monty Python’s Flying Circus”\])\],
+```
 
 頑張りすぎだろw
 
@@ -146,15 +156,19 @@ pyspa-bot
 
 なにげにこのbotのチョイス神がかってた
 
+```
 #ifndef OFFENSIVE\_INSULTS
+```
 
 今まで見た中で一番圧強いdefine
 
+```
 #ifdef PC\_INSULTS  
  “Listen, broccoli brains, I don’t have time to listen to this trash.”,  
 #else  
  “Listen, burrito brains, I don’t have time to listen to this trash.”,  
 #endif
+```
 
 何が違うのかわからん
 
