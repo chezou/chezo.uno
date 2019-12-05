@@ -3,7 +3,7 @@ title: Simple way to distribute your private Python packages within your organiz
 description: >-
   This article is a translation of this article, originally written by aodag in
   Japanese. I translated it with his permission. This article…
-date: '2017-07-24T01:21:40.424Z'
+date: '2017-07-24T01:21:40+09:00'
 categories: [python]
 keywords: []
 authors: [aki]

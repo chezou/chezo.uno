@@ -3,7 +3,7 @@ title: tabula-py now able to extract remote PDF and multiple tables at once
 description: >-
   (Note: Oct 7th, 2019)As of Oct. 2019, I launched a documentation site and
   Google Colab notebook for tabula-py. The FAQ would be good place…
-date: '2017-05-28T11:18:39.429Z'
+date: '2017-05-28T11:18:39+09:00'
 categories: [OSS]
 keywords: [tabula-py]
 authors: [aki]

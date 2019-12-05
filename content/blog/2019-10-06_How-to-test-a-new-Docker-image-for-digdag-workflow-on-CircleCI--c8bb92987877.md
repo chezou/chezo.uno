@@ -3,7 +3,7 @@ title: How to test a new Docker image for digdag workflow on CircleCI?
 description: >-
   Testing workflow runnability would be important when we build a complex
   workflow. digdag is a workflow engine which syntax is simple and…
-date: '2019-10-06T05:17:30.537Z'
+date: '2019-10-06T05:17:30+09:00'
 categories: []
 keywords: [Docker, workflow, CircleCI]
 authors: [aki]

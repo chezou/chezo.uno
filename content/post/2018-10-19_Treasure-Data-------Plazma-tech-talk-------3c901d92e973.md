@@ -1,7 +1,7 @@
 ---
 title: Treasure Dataに入りました&Plazma tech talkで話しました
 description: 気づけば入社して2ヶ月ほど経ってしまいましたが、Treasure Dataに入ったと思ったらArmに入社していました。
-date: '2018-10-19T01:12:26.357Z'
+date: '2018-10-19T01:12:26+09:00'
 categories: [life]
 keywords: []
 authors: [aki]

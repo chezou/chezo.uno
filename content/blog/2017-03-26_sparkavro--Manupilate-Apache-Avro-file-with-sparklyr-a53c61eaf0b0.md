@@ -3,7 +3,7 @@ title: 'sparkavro: Manupilate Apache Avro file with sparklyr'
 description: >-
   I created a simple sparklyr extension to handle Apache Avro file. It is just a
   simple wrapper of DataBrick’s spark-avro. It is listed in…
-date: '2017-03-26T21:02:01.640Z'
+date: '2017-03-26T21:02:01+09:00'
 categories: []
 keywords: []
 authors: [aki]

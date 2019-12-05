@@ -1,7 +1,7 @@
 ---
 title: 'Building predictive Model with Ibis, Impala and scikit-learn'
 description: tl;dr
-date: '2016-10-15T06:10:31.654Z'
+date: '2016-10-15T06:10:31+09:00'
 categories: [ibis]
 keywords: []
 authors: [aki]

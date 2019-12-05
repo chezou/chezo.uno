@@ -3,7 +3,7 @@ title: 新しいPyPIでMarkdownのドキュメントを使う
 description: >-
   長い間、Pythonでパッケージを作った場合、構造化されたドキュメントを使う場合は、reStructuredText
   (reST)でドキュメントを書く必要がありました。
-date: '2018-04-17T12:55:15.825Z'
+date: '2018-04-17T12:55:15+09:00'
 categories: [python]
 keywords: []
 authors: [aki]

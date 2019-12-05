@@ -1,7 +1,7 @@
 ---
 title: homebrewを移動してiRubyが壊れたときに見直すポイント
 description: 'kawasaki.rb #041 で得た知見です。'
-date: '2016-10-29T13:50:25.261Z'
+date: '2016-10-29T13:50:25+09:00'
 categories: [ruby]
 keywords: []
 authors: [aki]

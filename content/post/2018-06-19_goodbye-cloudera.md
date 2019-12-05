@@ -1,7 +1,7 @@
 ---
 title: 退職します
 description: この記事は、最近流行りのWork From Sentoで有名なRAKU SPAからお送りしています。
-date: '2018-06-19T09:06:01.557Z'
+date: '2018-06-19T09:06:01+09:00'
 categories: [life]
 keywords: []
 authors: [aki]

@@ -3,7 +3,7 @@ title: Text-to-speech based on deep learning for Web site using Amazon Polly and
 description: >-
   Amazon Polly, Text-to-speech service from AWS was announced at today ‘s
   re:Invent. Amazon Polly is speech synthesize system based on deep…
-date: '2016-12-01T15:00:02.858Z'
+date: '2016-12-01T15:00:02+09:00'
 categories: []
 keywords: []
 authors: [aki]

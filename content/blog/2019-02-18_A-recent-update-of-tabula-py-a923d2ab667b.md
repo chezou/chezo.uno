@@ -3,7 +3,7 @@ title: A recent update of tabula-py
 description: >-
   This article is a repost of Patreon article published last December. I’m
   planning to bump up next version of tabula-py within few weeks.
-date: '2019-02-18T01:26:00.242Z'
+date: '2019-02-18T01:26:00+09:00'
 categories: [OSS]
 keywords: [tabula-py]
 ---

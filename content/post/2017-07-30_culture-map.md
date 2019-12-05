@@ -3,7 +3,7 @@ title: グローバル企業でコミュニケーションを円滑にするた�
 description: >-
   同僚の Daisuke Kobayashi
   から勧められて、エリン・メイヤーの「異文化理解力」を読んだ。グローバル企業で働く人間として非常に示唆に富んだ良い本だった。
-date: '2017-07-30T11:45:33.636Z'
+date: '2017-07-30T11:45:33+09:00'
 categories: [book]
 keywords: []
 authors: [aki]

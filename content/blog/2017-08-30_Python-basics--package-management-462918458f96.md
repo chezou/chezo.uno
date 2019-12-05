@@ -3,7 +3,7 @@ title: 'Python basics: package management'
 description: >-
   Python is a very famous programming language for machine learning. In this
   article, I will introduce basic Python environment.
-date: '2017-08-30T11:31:15.764Z'
+date: '2017-08-30T11:31:15+09:00'
 categories: [python]
 keywords: []
 authors: [aki]

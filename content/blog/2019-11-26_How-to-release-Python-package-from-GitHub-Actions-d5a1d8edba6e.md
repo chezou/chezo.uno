@@ -3,7 +3,7 @@ title: How to release Python package from GitHub Actions
 description: >-
   Recently, I changed my CI from Travis to GitHub Actions. GitHub Actions is
   handy and useful for testing, publishing Python packages.
-date: '2019-11-26T01:42:11.969Z'
+date: '2019-11-26T01:42:11+09:00'
 categories: [Python]
 keywords: ["GitHub Actions", Python]
 authors: [aki]

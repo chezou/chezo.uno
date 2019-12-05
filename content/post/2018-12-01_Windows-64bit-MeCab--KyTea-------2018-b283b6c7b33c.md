@@ -1,7 +1,7 @@
 ---
 title: Windows 64bitでMeCab(とKyTea)を使う方法 2018
 description: CIでWindowsバイナリとwheelを作った話
-date: '2018-12-01T13:05:57.092Z'
+date: '2018-12-01T13:05:57+09:00'
 categories: []
 keywords: [Windows, MeCab, NLP, KyTea]
 authors: [aki]

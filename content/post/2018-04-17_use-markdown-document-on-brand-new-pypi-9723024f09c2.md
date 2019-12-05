@@ -3,7 +3,7 @@ title: Use Markdown document on brand new PyPI
 description: >-
   Yesterday, PyPI was renewed to the next-generation site. It is modern and
   stylish one.
-date: '2018-04-17T13:21:33.212Z'
+date: '2018-04-17T13:21:33+09:00'
 categories: [python]
 keywords: []
 authors: [aki]

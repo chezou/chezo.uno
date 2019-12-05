@@ -3,7 +3,7 @@ title: Thinkpad X1 CarbonとMacBook Proとで使える充電可能なUSB Type-C�
 description: >-
   転職をして、業務で使うマシンがMacBook Proになったので、自宅用のThinkpad X1 Carbon (5th Gen,
   2017モデル)と共通して使える充電とUSB-Aがはやせるハブ(とかマルチポートアダプタとか色々言われているもの)を探しました。
-date: '2018-10-28T13:11:26.435Z'
+date: '2018-10-28T13:11:26+09:00'
 categories: []
 keywords: [PC]
 authors: [aki]
