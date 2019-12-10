@@ -4,7 +4,7 @@
 title: "How do you debug/test your Workflow?"
 event: "Maji Fes"
 event_url:
-location:
+location: "Shinjuku, Tokyo"
 address:
   street:
   city:

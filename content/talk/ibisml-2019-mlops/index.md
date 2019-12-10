@@ -4,7 +4,7 @@
 title: "Challenges for Machine Learning Systems toward Continuous Improvement"
 event: The 22nd Information-Basd Induction Sciences Workshop
 event_url: http://ibisml.org/ibis2019/
-location:
+location: "Winc Aichi, Nagoya"
 address:
   street:
   city:
