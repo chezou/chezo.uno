@@ -4,7 +4,7 @@
 title: "Train, predict, and serve: How to put your machine learning model into production"
 event: "Strata Data Conference Singapore"
 event_url: https://conferences.oreilly.com/strata/strata-sg/public/schedule/detail/62956
-location:
+location: "Suntec Singapore Convention & Exhibition Centre, Singapore"
 address:
   street:
   city:
