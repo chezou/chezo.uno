@@ -12,7 +12,10 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: "Adopting a machine learning system is an essential step for enterprise companies to progress to the next stage of their business. However, machine learning systems tend to be complex, because they depend on different languages, libraries, or frameworks, such as scikit-learn, TensorFlow, and XGBoost. As a result, there are many challenges for building machine learning system in production, including determining which architecture is best for which use case, how to deploy your predictive models, and how to move from development and to a production environment.
+
+I explain how to put your machine learning model into production, discusses common issues and obstacles you may encounter, and shares best practices and typical architecture patterns of deployment ML models with example designs from the Hadoop and Spark ecosystem using Cloudera Data Science Workbench."
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
