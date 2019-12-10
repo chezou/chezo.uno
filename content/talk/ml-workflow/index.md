@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: Developping and testing for workflows productively is hard. In this session, I talk about how to develop heavy data dependent workflow with digdag.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
