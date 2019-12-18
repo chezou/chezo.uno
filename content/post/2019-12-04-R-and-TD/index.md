@@ -36,8 +36,9 @@ projects: ["RTD"]
 
 - [RPresto](https://github.com/prestodb/RPresto)
   - Facebookが開発しているPrestoのR client。TreasureDataでもアドホックなクエリを投げるときに便利
-- [RTD](https://github.com/chezou/RTD)
+- [RTD](https://github.com/treasure-data/RTD)
   - Rからdata frameをTreasure Dataにアップロードするのに使えるR client
+  - (12/18追記) レポジトリの場所がtreasure-dataの下になりました
 - [sparklytd](https://github.com/chezou/sparklytd)
   - RStudio社が開発するRのSpark clientであるsparklyrのplugin
   - 内部で使うtd-sparkはSparkのサポートバージョンが上がるのが速いが、sparklyrのSparkの新バージョンサポートが遅いので少し低調なメンテナンス
@@ -56,7 +57,7 @@ RTDは v0.2.0 からCRANに上げるのを辞めました。これはこれで�
 
 
 ```R
-source("https://install-github.me/chezou/RTD@v0.2.0")
+source("https://install-github.me/treasure-data/RTD@v0.2.0")
 ```
 
 インストール後は、`apikey` と `endpoint` を適切なものを渡して上げることで、uploadができます。例えば `nycflights13` パッケージの `flights` データをアップロードしてみましょう。
