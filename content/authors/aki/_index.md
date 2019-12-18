@@ -75,5 +75,4 @@ Aki Ariga is a Machine Learning Engineer at Arm Treasure Data. His interests inc
 
 He lead several communities at Tokyo such as Machine Learning Casual Talks, kawasaki.rb, and he is also one of the organizers of "Working Group of Machine Learning systems and operations for productionization" in Special Interest Group on Machine Learning System Engineering.
 
-- [Blog](https://blog.chezo.uno)
 - [Memorandom (in Japanese)](https://memo.chezo.uno)
