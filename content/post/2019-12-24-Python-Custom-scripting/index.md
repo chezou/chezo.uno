@@ -367,6 +367,42 @@ my_project
 この構成に従ったdigdagプロジェクトをcookiecutter-digdagを使うことで簡単にテンプレートから生成できます。
 https://github.com/chezou/cookiecutter-digdag
 
+## 実行時のエラーを通知する
+
+Pythonのスクリプト実行時に発生したエラーをSlackなどで通知したい事があると思います。
+digdagは `_error:` でworkflowが失敗した際の処理をできますが、そのとき`${error.message}`の中にPythonの例外情報が入っています。
+
+以下のようなworkflowとPython scriptがあったとします。
+
+```yaml
++simple_raise_error:
+    py>: py_scripts.examples.error_sample
+    docker:
+        image: "digdag/digdag-python:3.7"
+
+_error:
+    echo>: ${error.message}
+```
+
+```py
+def error_sample():
+    int("a1234") # raises ValueError
+```
+
+このとき、以下のようなログが得られます。
+
+```txt
+2019-12-24 23:06:32 +0900 [INFO] (0039@[0:python]+simple^error): echo>: Python command failed with code 1: invalid literal for int() with base 10: 'a1234' (ValueError)
+	from Traceback (most recent call last):
+	from File ".digdag/tmp/digdag-py-2-1815457087076518360/runner.py", line 165, in <module>
+    result = callable_type(**args)
+	from File "/private/var/folders/y9/bnjb3krn39s22rmg_wvlnf7m0000gp/T/digdag-tempdir2111531196420040503/workspace/1_simple_1_2_2945225080250994454/py_scripts/examples.py", line 5, in print_arg
+    int("a1234")
+	from ValueError: invalid literal for int() with base 10: 'a1234' (runtime)
+```
+
+この例では、`echo>` operatorでエラーを出力しているだけですが、Slack等に例外を送ることで定期実行しているPythonタスクの通知が簡単に行なえます。
+
 ## まとめ
 
 このように、様々なポイントをおさえることでTreasure Workflowの開発をしやすくなるかと思います。
