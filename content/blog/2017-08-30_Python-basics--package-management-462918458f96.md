@@ -72,12 +72,14 @@ virtualenv avoids:
 
 First, you can install `virtualenv` under user home directory.
 
-$ wget [https://bootstrap.pypa.io/get-pip.py](https://bootstrap.pypa.io/get-pip.py)  
-$ export PATH=”~/.local/bin/:$PATH”  
-$ python get-pip.py --user  
-$ pip install virtualenv --user  
-\# Windows user can isntall just via \`pip install\`  
+```sh
+$ wget https://bootstrap.pypa.io/get-pip.py
+$ export PATH=”~/.local/bin/:$PATH”
+$ python get-pip.py --user
+$ pip install virtualenv --user
+\# Windows user can isntall just via \`pip install\`
 \> pip install virtualenv
+```
 
 With `--user` option, you can install packages under user directory.
 
@@ -85,32 +87,41 @@ With `--user` option, you can install packages under user directory.
 
 Run `virtualenv` as follows:
 
+```sh
 $ virtualenv venv -p python3.6
+```
 
 then, you can get virtual environment.
 
 Since Python packages will be installed under the `venv` directory, don’t forget to add venv directory into `.gitignore`.
 
+```sh
 $ source venv/bin/activate  
 (venv) $   
 \# For Windows  
 \> . venv/Script/activate
+```
 
 #### Install Python packages via pip
 
 You can install packages via `pip`. After activating virtualenv/venv, pip will install packages under `venv` directory.
 
+```sh
 (venv) $ pip install pyramid
+```
 
 If you want to install the specific version of the package, you can set version number:
 
+```sh
 (venv) $ pip install pyramid==1.8.1
+```
 
 Without version number, `pip` will install latest stable version.  
 [https://www.python.org/dev/peps/pep-0440/](https://www.python.org/dev/peps/pep-0440/)
 
 You can list installed packages with `pip list` command.
 
+```sh
 (venv) $ pip list  
 numpy (1.13.1)  
 pandas (0.20.3)  
@@ -120,11 +131,13 @@ pytest (3.2.0)
 python-dateutil (2.6.1)  
 pytz (2017.2)  
 wheel (0.29.0)
+```
 
 #### Managing package version
 
 From pip 7.1, we can fix version of packages with `constraints.txt`. Using `pip freeze` command, you can list packages with a version number.
 
+```sh
 (venv)$ pip freeze -l  
 numpy==1.13.1  
 pandas==0.20.3  
@@ -133,16 +146,21 @@ pytest==3.2.0
 python-dateutil==2.6.1  
 pytz==2017.2  
 (venv)$ pip freeze -l > constraints.txt
+```
 
 You should list your required packages into `requirements.txt`,
 
+```sh
 (venv)$ cat requirements.txt  
 pandas  
 numpy
+```
 
 Then you can install required packages as follows:
 
+```sh
 (venv)$ pip install -r requirements.txt -c constraints.txt
+```
 
 #### Levelaging wheelhouse
 
@@ -150,13 +168,17 @@ Modern Python package is distributed by wheel format, which is the binary type f
 
 Put all dependent `.whl` format package files under `wheelhouse` directory, you can install as follows:
 
+```sh
 $ pip install -r requirements.txt -c constraints.txt -f wheelhouse — no-index
+```
 
 `-w` or `--wheel-dir` option allows you to set wheel directory. `-f` or`--find-links` option uses wheelhouse directory primary.`--no-index` option prevent to connect PyPI.
 
 If you want to export all the dependencies into `wheelhouse` directory, you can use `pip wheel` command.
 
+```sh
 $ pip wheel -r requirements.txt -c constraints.txt -w wheelhouse
+```
 
 ### Should I use conda?
 
@@ -164,8 +186,10 @@ Anaconda is a Python distribution for scientific computing such as machine learn
 
 Unlike virtualenv, Anaconda can create its original virtual environment. Characteristically, using the `--copy` option makes it possible to copy system level libraries, .so, etc. without creating symbolic links. If you archive a set of virtual environments with zip or tar, you can use it on other machines.
 
+```sh
 $ conda create -n myenv --copy python=3.6  
 $ conda activate myenv
+```
 
 In other words, libraries, which are managed by OS level package management tools such as `apt`, are also managed by conda. Conda has its own package repository different from PyPI and upload binaries for each OS on it. Since the same package, such as OpenCV, is registered in the repository by multiple users, you should care which package is the best one.
 
