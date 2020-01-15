@@ -216,11 +216,6 @@ I introduced installation of Python and how to manage Python packages. I think w
 
 Original Japanese document:
 
-[**Pythonの環境構築を自分なりに整理してみる**  
-_先日、 kawasaki.rb の懇親会で「AWS LambdaのためにPythonはじめたいんです」とか「機械学習系の本を読み始めたので、そこに書いてあったcondaではじめました」とかいう話を聞きました。_medium.com](https://medium.com/@chezou/python%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E3%82%92%E8%87%AA%E5%88%86%E3%81%AA%E3%82%8A%E3%81%AB%E6%95%B4%E7%90%86%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B-dc8d8f2fe989 "https://medium.com/@chezou/python%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E3%82%92%E8%87%AA%E5%88%86%E3%81%AA%E3%82%8A%E3%81%AB%E6%95%B4%E7%90%86%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B-dc8d8f2fe989")[](https://medium.com/@chezou/python%E3%81%AE%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E3%82%92%E8%87%AA%E5%88%86%E3%81%AA%E3%82%8A%E3%81%AB%E6%95%B4%E7%90%86%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B-dc8d8f2fe989)
-
-[**pip - pip 9.0.1 documentation**  
-_Edit description_pip.pypa.io](https://pip.pypa.io/en/stable/ "https://pip.pypa.io/en/stable/")[](https://pip.pypa.io/en/stable/)
-
-[**Simple way to distribute your private Python packages within your organization**  
-_This article is a translation of this article, originally written by aodag in Japanese. I translated it with his…_blog.chezo.uno](https://blog.chezo.uno/simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9 "https://blog.chezo.uno/simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9")[](https://blog.chezo.uno/simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9)
+- [Pythonの環境構築を自分なりに整理してみる](https://chezo.uno/post/2017-08-26_python-dc8d8f2fe989/)
+- [pip - pip 9.0.1 documentation](https://pip.pypa.io/en/stable/)
+- [Simple way to distribute your private Python packages within your organization](https://chezo.uno/post/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/)
