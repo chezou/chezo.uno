@@ -37,9 +37,7 @@ github
 
 JUMAN++のサイトには解析を試せるWebアプリケーションがあるのですが、それがなかなか面白いです。
 
-このリンクに対して、
-
-[http://tulip.kuee.kyoto-u.ac.jp/demo/jumanpp\_lattice?text=%E3%81%A9%E3%81%86%E3%82%82%E3%80%81julialang%E7%95%8C%E3%81%AE%E9%A0%91%E5%9B%BA%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%A7%E3%81%99](http://tulip.kuee.kyoto-u.ac.jp/demo/jumanpp_lattice?text=%E3%81%A9%E3%81%86%E3%82%82%E3%80%81julialang%E7%95%8C%E3%81%AE%E9%A0%91%E5%9B%BA%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%A7%E3%81%99)
+この「どうも、julialang界の頑固おじさんです」というフレーズを解析した結果が[こちら](http://tulip.kuee.kyoto-u.ac.jp/demo/jumanpp_lattice?text=%E3%81%A9%E3%81%86%E3%82%82%E3%80%81julialang%E7%95%8C%E3%81%AE%E9%A0%91%E5%9B%BA%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%A7%E3%81%99)です。
 
 こういうラティスを出力してくれます。
 
