@@ -13,8 +13,14 @@ collections:
     fields:  # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Subtitle", name: "subtitle", widget: "string"}
-      - {label: "Summary", name: "summary", widget: "markdown"}
+      - label: "Subtitle"
+        name: "subtitle"
+        required: false
+        widget: "string"
+      - label: "Summary"
+        name: "summary"
+        required: false
+        widget: "markdown"
       - label: "Draft"
         name: "draft"
         required: false
@@ -65,8 +71,14 @@ collections:
     fields:  # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Subtitle", name: "subtitle", widget: "string"}
-      - {label: "Summary", name: "summary", widget: "markdown"}
+      - label: "Subtitle"
+        name: "subtitle"
+        required: false
+        widget: "string"
+      - label: "Summary"
+        name: "summary"
+        required: false
+        widget: "markdown"
       - label: "Draft"
         name: "draft"
         required: false
