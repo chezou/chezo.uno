@@ -4,8 +4,10 @@ date: 2020-02-10T06:34:01.727Z
 summary: ''
 draft: false
 featured:
-  caption: ''
-  filename: helloquence-5fNmWej4tAA-unsplash.jpg
+  placement: 1
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/5fNmWej4tAA)'
+  focal_point: "Center"
+  filename: featured.jpg
 ---
 
 
