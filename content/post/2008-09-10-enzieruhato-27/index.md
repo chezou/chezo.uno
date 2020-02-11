@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/51zZTyM4gmL._SL160_.jpg)[エンジェル・ハート 27 (27) (BUNCH COMICS)](http://item.excite.co.jp/detail/ASIN_4107714209)  
+![](https://ecx.images-amazon.com/images/I/51zZTyM4gmL._SL160_.jpg)[エンジェル・ハート 27 (27) (BUNCH COMICS)](http://item.excite.co.jp/detail/ASIN_4107714209)  
 北条 司 / / 新潮社  
 ISBN : 4107714209  
 スコア選択: ※※※※※  

@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/51n-TLbbm8L._SL160_.jpg)[がばいばあちゃん佐賀から広島へめざせ甲子園 (集英社文庫 し 45-1)](http://item.excite.co.jp/detail/ASIN_4087461963)  
+![](https://ecx.images-amazon.com/images/I/51n-TLbbm8L._SL160_.jpg)[がばいばあちゃん佐賀から広島へめざせ甲子園 (集英社文庫 し 45-1)](http://item.excite.co.jp/detail/ASIN_4087461963)  
 島田 洋七 / / 集英社  
 ISBN : 4087461963  
 スコア選択: ※※※  

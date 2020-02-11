@@ -75,7 +75,7 @@ Ramdiskは[Buffaloのユーティリティー](http://buffalo.jp/download/driver
 ## ●ベンチマーク
 こんな感じです。ランダムwriteがちと遅いですが、読み込みは速いです。
 
-[![](http://chezou.files.wordpress.com/2011/02/ssd.png?w=300 &quot;ssd&quot;)](http://chezou.files.wordpress.com/2011/02/ssd.png)
+![](https://chezou.files.wordpress.com/2011/02/ssd.png)
 
 &amp;nbsp;
 
@@ -84,7 +84,7 @@ Ramdiskは[Buffaloのユーティリティー](http://buffalo.jp/download/driver
 
 リカバリ後のベンチマーク結果はこちら。
 
-[![](http://chezou.files.wordpress.com/2011/02/ssd_recovery.png?w=300 &quot;ssd\_recovery&quot;)](http://chezou.files.wordpress.com/2011/02/ssd_recovery.png)
+![](https://chezou.files.wordpress.com/2011/02/ssd_recovery.png)
 
 ## ●結論
 **SSDいいよSSD。** 劇的に速くなるという感じではないけど、Windows7の起動後や休止状態からの復帰後の壁紙見えてから実際に安定して使えるまでの重い時間が皆無になりました。  

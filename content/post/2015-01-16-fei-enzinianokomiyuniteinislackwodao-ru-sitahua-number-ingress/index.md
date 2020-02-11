@@ -133,7 +133,7 @@ Google Driveのフォルダに対して、Google groupに権限を付与する�
 
 Art of Communityもコミュニティ運営に非常に役に立つと [@shiumachi](https://twitter.com/shiumachi) さんから勧められているので、読んでみようと思っています。
 
-[![Team Geek ―Googleのギークたちはいかにしてチームを作るのか](http://ecx.images-amazon.com/images/I/41SlY0zvpKL._SL160_.jpg &quot;Team Geek ―Googleのギークたちはいかにしてチームを作るのか&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4873116309/chezou-22/)
+[![Team Geek ―Googleのギークたちはいかにしてチームを作るのか](https://ecx.images-amazon.com/images/I/41SlY0zvpKL._SL160_.jpg &quot;Team Geek ―Googleのギークたちはいかにしてチームを作るのか&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4873116309/chezou-22/)
 
 [Team Geek ―Googleのギークたちはいかにしてチームを作るのか](http://www.amazon.co.jp/exec/obidos/ASIN/4873116309/chezou-22/)
 
@@ -143,7 +143,7 @@ Art of Communityもコミュニティ運営に非常に役に立つと [@shiumac
 - メディア: 単行本（ソフトカバー）
 - [この商品を含むブログ (19件) を見る](http://d.hatena.ne.jp/asin/4873116309/chezou-22)
 
-[![アート・オブ・コミュニティ ―「貢献したい気持ち」を繋げて成果を導くには (THEORY/IN/PRACTICE)](http://ecx.images-amazon.com/images/I/511FfWvDWpL._SL160_.jpg &quot;アート・オブ・コミュニティ ―「貢献したい気持ち」を繋げて成果を導くには (THEORY/IN/PRACTICE)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4873114950/chezou-22/)
+[![アート・オブ・コミュニティ ―「貢献したい気持ち」を繋げて成果を導くには (THEORY/IN/PRACTICE)](https://ecx.images-amazon.com/images/I/511FfWvDWpL._SL160_.jpg &quot;アート・オブ・コミュニティ ―「貢献したい気持ち」を繋げて成果を導くには (THEORY/IN/PRACTICE)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4873114950/chezou-22/)
 
 [アート・オブ・コミュニティ ―「貢献したい気持ち」を繋げて成果を導くには (THEORY/IN/PRACTICE)](http://www.amazon.co.jp/exec/obidos/ASIN/4873114950/chezou-22/)
 

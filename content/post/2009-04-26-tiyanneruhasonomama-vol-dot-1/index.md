@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-[![](http://ecx.images-amazon.com/images/I/51DmEVIjTzL._SL160_.jpg) 
+[![](https://ecx.images-amazon.com/images/I/51DmEVIjTzL._SL160_.jpg) 
 
 チャンネルはそのまま! 1―HHTV北海道★テレビ (1) (BIG SPIRITS COMICS SPECIAL)
 

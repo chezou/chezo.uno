@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-[![](http://chezou.files.wordpress.com/2012/01/rhodecode.png?w=300 &quot;rhodecode&quot;)](http://rhodecode.org/)
+[![](https://chezou.files.wordpress.com/2012/01/rhodecode.png?w=300 &quot;rhodecode&quot;)](http://rhodecode.org/)
 
 Mercurialと連動するブラウザベースのリポジトリ管理システム、[RhodeCode](http://rhodecode.org/)を導入したのでその際のメモを書き残します。  
 一言で言うと、githubみたいなものを社内などで運用したいというニーズに応えるものです。  

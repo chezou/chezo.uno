@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/513AAZPEAVL._SL160_.jpg)[落語百選―夏 (ちくま文庫)](http://item.excite.co.jp/detail/ASIN_4480034528)  
+![](https://ecx.images-amazon.com/images/I/513AAZPEAVL._SL160_.jpg)[落語百選―夏 (ちくま文庫)](http://item.excite.co.jp/detail/ASIN_4480034528)  
  / 筑摩書房  
 ISBN : 4480034528  
 スコア選択: ※※※※※  

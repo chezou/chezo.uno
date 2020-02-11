@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/51I31EYUk6L._SL160_.jpg)[これでいいのだ―赤塚不二夫自叙伝 (文春文庫 あ 50-1)](http://item.excite.co.jp/detail/ASIN_4167753278)  
+![](https://ecx.images-amazon.com/images/I/51I31EYUk6L._SL160_.jpg)[これでいいのだ―赤塚不二夫自叙伝 (文春文庫 あ 50-1)](http://item.excite.co.jp/detail/ASIN_4167753278)  
 赤塚 不二夫 / / 文藝春秋  
 ISBN : 4167753278  
 スコア選択: ※※※※  

@@ -19,7 +19,7 @@ projects: []
 ---
 backspace.fmでもよくゲストに出ている西田宗千佳さん([@mnishi41](https://twitter.com/mnishi41))の書かれた、「ネットフリックスの時代−配信とスマホがテレビを変える」読んだ。
 
-[![ネットフリックスの時代　配信とスマホがテレビを変える (講談社現代新書)](http://ecx.images-amazon.com/images/I/51%2BNr4WdpDL._SL160_.jpg &quot;ネットフリックスの時代　配信とスマホがテレビを変える (講談社現代新書)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B016KDOC3Q/chezou-22/)
+[![ネットフリックスの時代　配信とスマホがテレビを変える (講談社現代新書)](https://ecx.images-amazon.com/images/I/51%2BNr4WdpDL._SL160_.jpg &quot;ネットフリックスの時代　配信とスマホがテレビを変える (講談社現代新書)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B016KDOC3Q/chezou-22/)
 
 [ネットフリックスの時代　配信とスマホがテレビを変える (講談社現代新書)](http://www.amazon.co.jp/exec/obidos/ASIN/B016KDOC3Q/chezou-22/)
 
@@ -52,7 +52,7 @@ backspace.fmでもよくゲストに出ている西田宗千佳さん([@mnishi41
 
 実は、この本を読む前にドワンゴの川上さんの「鈴木さんにもわかるネットの未来」も読んでいたのだが、電子書籍が良いというのはイデオロギーであり宗教だ。音楽を見るとCDから電子に移行してビジネスモデルが変わる度にビジネスがシュリンクしている、という旨の事が書かれていた。西田さんはテレビからスマホが隙間時間を奪っているため定額制の配信サービスに以降するのは自然な流れ、と書いているが、ビジネスのパイは小さくなるような気もする。両者に主張を比較するのも面白いだろう
 
-[![鈴木さんにも分かるネットの未来 (岩波新書)](http://ecx.images-amazon.com/images/I/413P9cfldeL._SL160_.jpg &quot;鈴木さんにも分かるネットの未来 (岩波新書)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B010PZ8SUI/chezou-22/)
+[![鈴木さんにも分かるネットの未来 (岩波新書)](https://ecx.images-amazon.com/images/I/413P9cfldeL._SL160_.jpg &quot;鈴木さんにも分かるネットの未来 (岩波新書)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B010PZ8SUI/chezou-22/)
 
 [鈴木さんにも分かるネットの未来 (岩波新書)](http://www.amazon.co.jp/exec/obidos/ASIN/B010PZ8SUI/chezou-22/)
 

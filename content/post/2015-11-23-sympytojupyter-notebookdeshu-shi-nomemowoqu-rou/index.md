@@ -31,7 +31,7 @@ meison\_amslさんのものを Jupyter notebook で実行しただけのお手�
 
 kindleでも売っているInstant Sympy Starterですが、ちょうどPacktのアンケートに答えたらなんでも$5で買えるキャンペーンがやっていたので、そちらで買いました。 Packtは一度買うとガンガンクーポン来るし、月額定額で読み放題とかもできるみたいなので、Kindleで買うくらいならPacktで買うのも良いかもしれません。
 
-[![Instant SymPy Starter](http://ecx.images-amazon.com/images/I/51OUVFQhi9L._SL160_.jpg &quot;Instant SymPy Starter&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B00CYHB3CG/chezou-22/)
+[![Instant SymPy Starter](https://ecx.images-amazon.com/images/I/51OUVFQhi9L._SL160_.jpg &quot;Instant SymPy Starter&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B00CYHB3CG/chezou-22/)
 
 [Instant SymPy Starter](http://www.amazon.co.jp/exec/obidos/ASIN/B00CYHB3CG/chezou-22/)
 

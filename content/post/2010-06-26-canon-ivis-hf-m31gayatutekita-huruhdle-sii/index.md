@@ -17,13 +17,13 @@ image:
 
 projects: []
 ---
-[![](http://chezou.files.wordpress.com/2010/06/p_1600_1200_a0c82b14-8d7b-47c1-afc3-cf1903a121a6.jpeg)](http://chezou.files.wordpress.com/2010/06/p_1600_1200_a0c82b14-8d7b-47c1-afc3-cf1903a121a6.jpeg)
+[![](https://chezou.files.wordpress.com/2010/06/p_1600_1200_a0c82b14-8d7b-47c1-afc3-cf1903a121a6.jpeg)](https://chezou.files.wordpress.com/2010/06/p_1600_1200_a0c82b14-8d7b-47c1-afc3-cf1903a121a6.jpeg)
 
 【追記】撮影した映像を[こちらの記事](http://wp.me/pvR30-ft)に投稿しました。
 
 5/22まで5000円キャッシュバックキャンペーンと言うことで、買ってしまいました。
 
-[![](http://chezou.files.wordpress.com/2010/06/p_1600_1200_608ec934-7b03-43a6-be1e-aee04b52190e.jpeg)](http://chezou.files.wordpress.com/2010/06/p_1600_1200_608ec934-7b03-43a6-be1e-aee04b52190e.jpeg)
+[![](https://chezou.files.wordpress.com/2010/06/p_1600_1200_608ec934-7b03-43a6-be1e-aee04b52190e.jpeg)](https://chezou.files.wordpress.com/2010/06/p_1600_1200_608ec934-7b03-43a6-be1e-aee04b52190e.jpeg)
 
 近所のビックカメラの方が安い説とか、注文したところが2chで評判悪いところだったとか、後から発覚した様々なネガティブ要因がありました。しかし、無事に届いて触っていたらひゃっほいと楽しくなるばかりです。
 

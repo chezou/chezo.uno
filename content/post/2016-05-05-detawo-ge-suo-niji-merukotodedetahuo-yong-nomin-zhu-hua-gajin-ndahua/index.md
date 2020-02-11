@@ -70,7 +70,7 @@ projects: []
 
 彼女がSQLを武器にできるようになったのはもう一つ、青木さんの本の助けもあったと聞いています。 おそらく、他のWebディレクターの人たちにとっては、同じポジションの人に相談できるのは似たようなところを躓いたりした経験を聞けたりするのが良いのだと思います。
 
-[![10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &amp;IDEA)](http://ecx.images-amazon.com/images/I/513Kq0DFpnL._SL160_.jpg &quot;10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &amp;IDEA)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4797376279/chezou-22/)
+[![10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &amp;IDEA)](https://ecx.images-amazon.com/images/I/513Kq0DFpnL._SL160_.jpg &quot;10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &amp;IDEA)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4797376279/chezou-22/)
 
 [10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &amp;IDEA)](http://www.amazon.co.jp/exec/obidos/ASIN/4797376279/chezou-22/)
 

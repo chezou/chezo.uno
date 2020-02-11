@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/41KDD053FTL._SL160_.jpg)[サヨナライツカ (幻冬舎文庫)](http://item.excite.co.jp/detail/ASIN_434440257X)  
+![](https://ecx.images-amazon.com/images/I/41KDD053FTL._SL160_.jpg)[サヨナライツカ (幻冬舎文庫)](http://item.excite.co.jp/detail/ASIN_434440257X)  
 辻 仁成 / / 幻冬舎  
 ISBN : 434440257X  
 スコア選択: ※※※※※  

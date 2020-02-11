@@ -19,21 +19,22 @@ projects: []
 ---
 先日のエントリで書いたとおり[Mykytea-ruby](http://chezou.wordpress.com/2011/07/15/kytea%e3%82%92ruby-python%e3%81%8b%e3%82%89%e4%bd%bf%e3%81%88%e3%82%8bmykytea%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f/ &quot;KyTea:京都テキスト解析ツールキット をRuby, Pythonから使えるMykyteaを作ってみた&quot;)を使って、試しにブラウザから解析結果をみられるkytea-sinatraを作りました。
 
-[![](http://chezou.files.wordpress.com/2011/07/screenshot.png?w=300 &quot;kytea\_sinatra&quot;)](http://chezou.files.wordpress.com/2011/07/screenshot.png)
+![](screenshot.png)
 
 といっても、sinatraとhamlを使ってちょっと出力結果を見られるようにしたのシンプルなものです。  
 イメージとしては、このような形でブラウザから簡単に解析結果が利用できると何か面白いことができないかなーと思っています。  
 本当はどっかのサーバで動かして、jsonとかで気軽に解析結果を取得できるとかになればいいんですけどね。
 
-ソースはgithubにあります。[  
-**kytea\_si** ](https://github.com/chezou/kytea_sinatra)[**natra@github**](https://github.com/chezou/kytea_sinatra)
+ソースはgithubにあります。[**kytea\_sinatra@github**](https://github.com/chezou/kytea_sinatra)
 
 KyTeaとMykytea-rubyをインストールした後、Mykytea.soをkytea-sinatraと同一のディレクトリに入れてから実行してください。
 
-&gt; gem install sinatra haml bundler  
-&gt; (または、 gem install bundler; bundle install)
-&gt; 
-&gt; ruby kytea\_sinatra.rb
+```
+gem install sinatra haml bundler  
+# (または、 gem install bundler; bundle install)
+
+ruby kytea\_sinatra.rb
+```
 
 で、ブラウザで
 

@@ -128,7 +128,7 @@ _これ以降のほとんどのPythonコードはDr. Hilpischのもので彼に�
 
 くだらないミスがないか確認するために、matplotlibで簡単なグラフを描く。
 
-[![bitcoin_plot](http://chezou.files.wordpress.com/2014/05/bitcoin_plot.png)](http://chezou.files.wordpress.com/2014/05/bitcoin_plot.png)
+[![bitcoin_plot](https://chezou.files.wordpress.com/2014/05/bitcoin_plot.png)](https://chezou.files.wordpress.com/2014/05/bitcoin_plot.png)
 
 もし、ビットコインの価値が凄い大きさになっていたり0になっていたら、間違いなく調べ直すべきだ。
 

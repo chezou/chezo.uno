@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-石田衣良の「うつくしい子ども」です。 ![](http://ecx.images-amazon.com/images/I/51E361PZKAL._SL160_.jpg)[うつくしい子ども (文春文庫)](http://item.excite.co.jp/detail/ASIN_4167174057)  
+石田衣良の「うつくしい子ども」です。 ![](https://ecx.images-amazon.com/images/I/51E361PZKAL._SL160_.jpg)[うつくしい子ども (文春文庫)](http://item.excite.co.jp/detail/ASIN_4167174057)  
 石田 衣良 / / 文藝春秋  
 スコア選択: ★★★★  
   

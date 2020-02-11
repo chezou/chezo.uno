@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/41Tyfb9Ys6L._SL160_.jpg)[愛がいない部屋 (集英社文庫 い 47-5)](http://item.excite.co.jp/detail/ASIN_4087463044)  
+![](https://ecx.images-amazon.com/images/I/41Tyfb9Ys6L._SL160_.jpg)[愛がいない部屋 (集英社文庫 い 47-5)](http://item.excite.co.jp/detail/ASIN_4087463044)  
 石田 衣良 / / 集英社  
 ISBN : 4087463044  
 スコア選択: ※※  

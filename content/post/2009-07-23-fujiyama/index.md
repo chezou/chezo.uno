@@ -22,8 +22,7 @@ projects: []
 
 帰りは40km以上の渋滞に飲み込まれました。怖るべし、海老名。
 
-[![](http://chezou.files.wordpress.com/2009/07/p_1600_1200_625e8f56-a29c-4881-b4f7-45bcdc6e3f1b.jpeg)](http://chezou.files.wordpress.com/2009/07/p_1600_1200_625e8f56-a29c-4881-b4f7-45bcdc6e3f1b.jpeg)  
+![](p_1600_1200_625e8f56-a29c-4881-b4f7-45bcdc6e3f1b.jpeg)
   
-[![](http://chezou.files.wordpress.com/2009/07/l_1600_1200_91d6131c-6d5e-4e43-8a36-4299c59a23e8.jpeg)](http://chezou.files.wordpress.com/2009/07/l_1600_1200_91d6131c-6d5e-4e43-8a36-4299c59a23e8.jpeg)
-
+![](l_1600_1200_91d6131c-6d5e-4e43-8a36-4299c59a23e8.jpeg)
 

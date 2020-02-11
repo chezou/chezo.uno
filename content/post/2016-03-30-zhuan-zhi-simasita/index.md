@@ -65,7 +65,7 @@ kawasaki.rbやMachine Learning Casual Talks、Julia Tokyoなどのミートア�
 
 一方で、garyuさんの本を読んで「USに行きたいのなら日本法人に入るのが定石」というのを学んで頭の奥底に溜まっていました。
 
-[![エンジニアとして世界の最前線で働く選択肢　?渡米・面接・転職・キャリアアップ・レイオフ対策までの実践ガイド](http://ecx.images-amazon.com/images/I/51hE8WoYhtL._SL160_.jpg &quot;エンジニアとして世界の最前線で働く選択肢　?渡米・面接・転職・キャリアアップ・レイオフ対策までの実践ガイド&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B01626P712/chezou-22/)
+[![エンジニアとして世界の最前線で働く選択肢　?渡米・面接・転職・キャリアアップ・レイオフ対策までの実践ガイド](https://ecx.images-amazon.com/images/I/51hE8WoYhtL._SL160_.jpg &quot;エンジニアとして世界の最前線で働く選択肢　?渡米・面接・転職・キャリアアップ・レイオフ対策までの実践ガイド&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B01626P712/chezou-22/)
 
 [エンジニアとして世界の最前線で働く選択肢　?渡米・面接・転職・キャリアアップ・レイオフ対策までの実践ガイド](http://www.amazon.co.jp/exec/obidos/ASIN/B01626P712/chezou-22/)
 

@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/51K6B7P3PQL._SL160_.jpg)[西の魔女が死んだ (新潮文庫)](http://item.excite.co.jp/detail/ASIN_4101253323)  
+![](https://ecx.images-amazon.com/images/I/51K6B7P3PQL._SL160_.jpg)[西の魔女が死んだ (新潮文庫)](http://item.excite.co.jp/detail/ASIN_4101253323)  
 梨木 香歩 / / 新潮社  
 ISBN : 4101253323  
 スコア選択: ※※  

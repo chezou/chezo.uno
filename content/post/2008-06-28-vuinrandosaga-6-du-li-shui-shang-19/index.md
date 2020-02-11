@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/51mg-ma5Z9L._SL160_.jpg)[ヴィンランド・サガ 6 (6) (アフタヌーンKC)](http://item.excite.co.jp/detail/ASIN_4063145107)  
+![](https://ecx.images-amazon.com/images/I/51mg-ma5Z9L._SL160_.jpg)[ヴィンランド・サガ 6 (6) (アフタヌーンKC)](http://item.excite.co.jp/detail/ASIN_4063145107)  
 幸村 誠 / / 講談社  
 ISBN : 4063145107  
 スコア選択: ※※※※※  

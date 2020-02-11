@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/215CBEG45AL._SL160_.jpg)[なるたる―骸なる星珠たる子 (1) (アフタヌーンKC (186))](http://item.excite.co.jp/detail/ASIN_4063141861)  
+![](https://ecx.images-amazon.com/images/I/215CBEG45AL._SL160_.jpg)[なるたる―骸なる星珠たる子 (1) (アフタヌーンKC (186))](http://item.excite.co.jp/detail/ASIN_4063141861)  
 鬼頭 莫宏 / / 講談社  
 ISBN : 4063141861  
 スコア選択: ※※※※※  

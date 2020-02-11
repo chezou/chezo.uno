@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/51TKQG1885L._SL160_.jpg)[風が強く吹いている](http://item.excite.co.jp/detail/ASIN_4104541044)  
+![](https://ecx.images-amazon.com/images/I/51TKQG1885L._SL160_.jpg)[風が強く吹いている](http://item.excite.co.jp/detail/ASIN_4104541044)  
 三浦 しをん / / 新潮社  
 ISBN : 4104541044  
 スコア選択: ※※※※※  

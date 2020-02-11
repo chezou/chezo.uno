@@ -123,7 +123,7 @@ Netflixでアニメも見れる作品です。タイの無法者が集まるロ�
 
 # ろんぐらいだぁす！
 
-[![ろんぐらいだぁす！: 8 (REXコミックス)](http://ecx.images-amazon.com/images/I/51vWqBnu2-L._SL160_.jpg &quot;ろんぐらいだぁす！: 8 (REXコミックス)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B01N44439Z/chezou-22/)
+[![ろんぐらいだぁす！: 8 (REXコミックス)](https://ecx.images-amazon.com/images/I/51vWqBnu2-L._SL160_.jpg &quot;ろんぐらいだぁす！: 8 (REXコミックス)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B01N44439Z/chezou-22/)
 
 [ろんぐらいだぁす！: 8 (REXコミックス)](http://www.amazon.co.jp/exec/obidos/ASIN/B01N44439Z/chezou-22/)
 
@@ -179,7 +179,7 @@ Netflixでアニメも見れる作品です。タイの無法者が集まるロ�
 
 # シドニアの騎士
 
-[![シドニアの騎士（１４） (アフタヌーンコミックス)](http://ecx.images-amazon.com/images/I/61H-GntMxgL._SL160_.jpg &quot;シドニアの騎士（１４） (アフタヌーンコミックス)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B00TIFKG70/chezou-22/)
+[![シドニアの騎士（１４） (アフタヌーンコミックス)](https://ecx.images-amazon.com/images/I/61H-GntMxgL._SL160_.jpg &quot;シドニアの騎士（１４） (アフタヌーンコミックス)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B00TIFKG70/chezou-22/)
 
 [シドニアの騎士（１４） (アフタヌーンコミックス)](http://www.amazon.co.jp/exec/obidos/ASIN/B00TIFKG70/chezou-22/)
 
