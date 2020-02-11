@@ -1,20 +1,13 @@
 ---
-title: "12月に読んだ本"
-subtitle: ""
-summary: ""
-authors: [aki]
-tags: []
-categories: 
-date: 2010-01-01T09:01:57+00:00
-lastmod: 2010-01-01T09:01:57+00:00
-featured: false
+title: 12月に読んだ本
+date: 2010-01-01T09:01:57.000Z
+subtitle: ''
+summary: ''
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+featured: false
+authors:
+  - aki
+tags: []
 projects: []
 ---
 読書メータにこんな機能あったのね。しかも画像付き。便利だわー。ちょっと貼り付けてみる。というか、あまり本読んでなかったのねぇ。twitterに時間を奪われていたのかな。
@@ -23,7 +16,7 @@ projects: []
 読んだ本の数：5冊  
 読んだページ数：1254ページ
 
-[![ぼくらの 11 (IKKI COMIX)](http://g-ec2.images-amazon.com/images/G/09/x-site/icons/no-img-sm.gif)](http://book.akahoshitakuya.com/cmt/4341200 &quot;ぼくらの 11 (IKKI COMIX)&quot;)[ぼくらの 11 (IKKI COMIX)](http://book.akahoshitakuya.com/cmt/4341200 &quot;ぼくらの 11 (IKKI COMIX)&quot;)  
+[![ぼくらの 11 (IKKI COMIX)](https://g-ec2.images-amazon.com/images/G/09/x-site/icons/no-img-sm.gif)](http://book.akahoshitakuya.com/cmt/4341200 &quot;ぼくらの 11 (IKKI COMIX)&quot;)[ぼくらの 11 (IKKI COMIX)](http://book.akahoshitakuya.com/cmt/4341200 &quot;ぼくらの 11 (IKKI COMIX)&quot;)  
 感動の、というよりは、納得の最終回。最初ラストを理解するのに少し時間がかかったが、切ないというかむなしいというか。おまけ漫画を読むと生き返る。また、1巻から一気に読み直すと感覚が違うんだろう。  
 読了日：12月31日 著者：[鬼頭 莫宏](http://book.akahoshitakuya.com/s&amp;q=%E9%AC%BC%E9%A0%AD%20%E8%8E%AB%E5%AE%8F)  
 [![ゲーム業界の歩き方](https://ecx.images-amazon.com/images/I/51p4OVETlvL._SL75_.jpg)](http://book.akahoshitakuya.com/cmt/4310555 &quot;ゲーム業界の歩き方&quot;)[ゲーム業界の歩き方](http://book.akahoshitakuya.com/cmt/4310555 &quot;ゲーム業界の歩き方&quot;)  
