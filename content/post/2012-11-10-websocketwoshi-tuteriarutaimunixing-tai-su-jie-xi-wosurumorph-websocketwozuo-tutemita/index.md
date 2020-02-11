@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-[caption id=&quot;attachment\_1461&quot; align=&quot;aligncenter&quot; width=&quot;500&quot;][![morph-websocket画面](https://chezou.files.wordpress.com/2012/11/morph-websocket.png &quot;morph-websocket&quot;)](https://chezou.files.wordpress.com/2012/11/morph-websocket.png) morph-websocket画面[/caption]
+[![morph-websocket画面](morph-websocket.png)](morph-websocket.png) morph-websocket画面
 
 WebSocketを使ってリアルタイムに形態素解析結果を出力する、morph-websocketを作りました。
 

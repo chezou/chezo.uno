@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-[![](https://chezou.files.wordpress.com/2009/11/p_1466_1100_a35c0282-e71c-40aa-ad01-4952aee2124c.jpeg)](https://chezou.files.wordpress.com/2009/11/p_1466_1100_a35c0282-e71c-40aa-ad01-4952aee2124c.jpeg)
+[![](p_1466_1100_a35c0282-e71c-40aa-ad01-4952aee2124c.jpeg)](p_1466_1100_a35c0282-e71c-40aa-ad01-4952aee2124c.jpeg)
 
 いつの間にか、Finlandのアカペラグループ[Rajaton](http://www.rajaton.net/main.site?set_language=eng)のベストアルバムが出ていたので購入してしまいました。(日本でのRajaton情報は[あかぺら村](http://acappellavillage.blog103.fc2.com/blog-category-15.html)さんが詳しいです。最近は[関心空間にも素敵なファンの方が](http://www.kanshin.com/keyword/1148201)いらっしゃるようです)
 

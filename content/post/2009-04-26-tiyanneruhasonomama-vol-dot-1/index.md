@@ -26,7 +26,7 @@ projects: []
 どうでしょうでおなじみの、HTBがモデルになっているらしい、というポップにつられて買ってしまいました。  
 開けてみるとすばらしい！魔神がモデルになっている小倉部長が良い味出しています。どうでしょうファンの人なら是非楽しめるはず！
 
-スコア: ![](http://md.exblog.jp/img/hm/lifelog_star5.gif)
+スコア: ![](https://md.exblog.jp/img/hm/lifelog_star5.gif)
 
 ](http://item.excite.co.jp/detail/ASIN_4091824501)
   
