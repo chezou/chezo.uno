@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-[![](https://chezou.files.wordpress.com/2010/01/l_1600_1200_f9f88bf9-3b1a-4e42-a829-05bd703047a6.jpeg)](https://chezou.files.wordpress.com/2010/01/l_1600_1200_f9f88bf9-3b1a-4e42-a829-05bd703047a6.jpeg)
+[![](l_1600_1200_f9f88bf9-3b1a-4e42-a829-05bd703047a6.jpeg)](l_1600_1200_f9f88bf9-3b1a-4e42-a829-05bd703047a6.jpeg)
 
 [ヴォーカル・アンサンブル・カペラ](http://www.cappellajp.com/)の演奏会に初めて行ってきました。  
 曲目は、以下の通りです。
@@ -32,6 +32,6 @@ projects: []
 
 ちなみに、この楽譜たちは本番で皆さんがみていた楽譜たちです。人の胴体ぐらいの大きさがありました。
 
-[![](https://chezou.files.wordpress.com/2010/01/p_1600_1200_2f58c82d-115a-4941-9e05-d738ca9cf47d.jpeg)](https://chezou.files.wordpress.com/2010/01/p_1600_1200_2f58c82d-115a-4941-9e05-d738ca9cf47d.jpeg)
+[![](p_1600_1200_2f58c82d-115a-4941-9e05-d738ca9cf47d.jpeg)](p_1600_1200_2f58c82d-115a-4941-9e05-d738ca9cf47d.jpeg)
 
 

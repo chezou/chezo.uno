@@ -128,7 +128,7 @@ _これ以降のほとんどのPythonコードはDr. Hilpischのもので彼に�
 
 くだらないミスがないか確認するために、matplotlibで簡単なグラフを描く。
 
-[![bitcoin_plot](https://chezou.files.wordpress.com/2014/05/bitcoin_plot.png)](https://chezou.files.wordpress.com/2014/05/bitcoin_plot.png)
+[![bitcoin_plot](bitcoin_plot.png)](bitcoin_plot.png)
 
 もし、ビットコインの価値が凄い大きさになっていたり0になっていたら、間違いなく調べ直すべきだ。
 
@@ -203,7 +203,7 @@ Julia Loops: **2.24 s**
 Python Vectorized: **1.38 s**  
 Julia Vectorized: **1.43 s**
 
-[![speeds](https://chezou.files.wordpress.com/2014/05/speeds.png)](https://chezou.files.wordpress.com/2014/05/speeds.png)
+[![speeds](speeds.png)](speeds.png)
 
 Juliaは、科学/数値計算にとってとても大きなポテンシャルを持っているように思える。  
 ナイーブなループを使った、ビットコインの価格のモンテカルロの経路シミュレーションはPythonよりもかなり速く、ベクトル化して最適化された計算と同じオーダーの速度だった。  

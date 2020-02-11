@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://md.exblog.jp/img/eg/thumb-no-image.gif)[Luck Stealer 2 (2) (ジャンプコミックス)](http://item.excite.co.jp/detail/ASIN_408874571X)  
+![](https://md.exblog.jp/img/eg/thumb-no-image.gif)[Luck Stealer 2 (2) (ジャンプコミックス)](http://item.excite.co.jp/detail/ASIN_408874571X)  
 かず はじめ / / 集英社  
 スコア選択: ★★★  
   

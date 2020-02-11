@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-[![](https://chezou.files.wordpress.com/2011/07/mouthoff.png?w=300 &quot;mouthoff&quot;)](http://www.mouthoffshow.com/)
+[![](mouthoff.png)](http://www.mouthoffshow.com/)
 
 タイトルは釣りです（笑）
 

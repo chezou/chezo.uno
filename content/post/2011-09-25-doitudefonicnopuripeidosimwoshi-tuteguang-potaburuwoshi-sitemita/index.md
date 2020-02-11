@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-[![](https://chezou.files.wordpress.com/2011/09/fonic.jpg?w=225 &quot;fonic&quot;)](https://chezou.files.wordpress.com/2011/09/fonic.jpg)
+[![](fonic.jpg)](fonic.jpg)
 
 ドイツで光ポータブルを使って、FONICのプリペイドSIMを使ってみました。
 

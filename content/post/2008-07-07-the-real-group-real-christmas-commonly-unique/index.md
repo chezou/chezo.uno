@@ -30,7 +30,7 @@ projects: []
 ハーモニーも楽しければ、ノリもいいのです。ライブいきたいわぁ  
 Telepone Talkingが大好きです。  
   
- ![](http://md.exblog.jp/img/eg/thumb-no-image.gif)[リアル・クリスマス](http://item.excite.co.jp/detail/ASIN_B000VZE0NW)  
+ ![](https://md.exblog.jp/img/eg/thumb-no-image.gif)[リアル・クリスマス](http://item.excite.co.jp/detail/ASIN_B000VZE0NW)  
 ザ・リアル・グループ / / スパイス・オブ・ライフ  
 スコア選択: ★★★★  
   

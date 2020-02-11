@@ -55,7 +55,7 @@ togetterはこちら
 
 あと、Numpyのベンチマークを探していたら[Juliaのベンチマーク](http://julialang.org/benchmarks/)&lt;sup id=&quot;fnref-1716-bench&quot;&gt;&lt;a href=&quot;#fn-1716-bench&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;に行き着いたのですが、実はGoが結構速いということに驚きました。(GoってOpenBLAS使えないですよね？)
 
-![](https://chezou.files.wordpress.com/2014/01/e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-01-25-0-57-51.png)  
+![](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-01-25-0-57-51.png)  
 [http://julialang.org/benchmarks/](http://julialang.org/benchmarks/) より引用
 
 もしかすると、並行処理とも相性のいいGoでの科学計算ライブラリが充実する日が来るかもしれません。
@@ -68,6 +68,6 @@ Rubyのコミュニティなのに、Pythonの話をしていて、、、と思�
   
 
 1.   
-「シングルスレッドでのベンチマークは、科学計算ではあまり価値がない」と[@drmaruyama](https://twitter.com/drmaruyama)さんの言葉&amp;nbsp;↩  
+「シングルスレッドでのベンチマークは、科学計算ではあまり価値がない」と[@drmaruyama](https://twitter.com/drmaruyama)さんの言葉↩  
 
 
