@@ -82,7 +82,7 @@ projects: []
 - 世界をまたにかける話
 - Rubyと思ったら数学の話で終わってしまったでござる
 
-[![プログラミングElixir](http://ecx.images-amazon.com/images/I/518jex9rmIL._SL160_.jpg &quot;プログラミングElixir&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4274219151/chezou-22/)
+[![プログラミングElixir](https://ecx.images-amazon.com/images/I/518jex9rmIL._SL160_.jpg &quot;プログラミングElixir&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4274219151/chezou-22/)
 
 [プログラミングElixir](http://www.amazon.co.jp/exec/obidos/ASIN/4274219151/chezou-22/)
 
@@ -94,7 +94,7 @@ projects: []
 
 また、パーフェクトRubyの読書会も続けているためか、「Ruby初心者です」という方もちょこちょこ来ていただいています。kawasaki.rbがきっかけで今回発表された蓑島さんのように一人エンジニアの環境で独学で業務でコードを書くようになった人、転職した人、Herokuのイベントに登壇した人、Railsを学び始めて起業した人など様々な人がいるのも特徴です。 正直、Rubyにとても詳しい人には物足りない側面もあるのかもしれないとは思うのですが、asakusa.rbなどとはまた違った路線で来ているのかなと思っています。 「ここに来れば困ったことを質問できる」とか「ここに来れば自分の知見を気軽に発表できる」という場所を続けてきたかいがあって、今回のregionalにつながったのだと思います。
 
-[![パーフェクトRuby (PERFECT SERIES 6)](http://ecx.images-amazon.com/images/I/51K0jUf%2BiEL._SL160_.jpg &quot;パーフェクトRuby (PERFECT SERIES 6)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4774158798/chezou-22/)
+[![パーフェクトRuby (PERFECT SERIES 6)](https://ecx.images-amazon.com/images/I/51K0jUf%2BiEL._SL160_.jpg &quot;パーフェクトRuby (PERFECT SERIES 6)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4774158798/chezou-22/)
 
 [パーフェクトRuby (PERFECT SERIES 6)](http://www.amazon.co.jp/exec/obidos/ASIN/4774158798/chezou-22/)
 

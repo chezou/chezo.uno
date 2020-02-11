@@ -21,7 +21,7 @@ projects: []
 
 明日発売の「データサイエンティスト養成読本 機械学習入門編」を著者の一人の福島さん([@sfchaos](https://twitter.com/sfchos))にいただきました。 きっかけは、福島さんが「機械学習ソフトウェアの外観」という特集でJuliaの紹介をしていただいたからでした。
 
-[![データサイエンティスト養成読本 機械学習入門編 (Software Design plus)](http://ecx.images-amazon.com/images/I/61kYbes17OL._SL160_.jpg &quot;データサイエンティスト養成読本 機械学習入門編 (Software Design plus)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4774176311/chezou-22/)
+[![データサイエンティスト養成読本 機械学習入門編 (Software Design plus)](https://ecx.images-amazon.com/images/I/61kYbes17OL._SL160_.jpg &quot;データサイエンティスト養成読本 機械学習入門編 (Software Design plus)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4774176311/chezou-22/)
 
 [データサイエンティスト養成読本 機械学習入門編 (Software Design plus)](http://www.amazon.co.jp/exec/obidos/ASIN/4774176311/chezou-22/)
 

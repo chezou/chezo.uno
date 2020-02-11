@@ -27,10 +27,8 @@ projects: []
 
 総じて楽しい仙台松島紀行でした。
 
-[![](http://chezou.files.wordpress.com/2009/08/l_1600_1200_537ea52d-9da4-440d-bb20-dd6291659923.jpeg)](http://chezou.files.wordpress.com/2009/08/l_1600_1200_537ea52d-9da4-440d-bb20-dd6291659923.jpeg)  
+![](l_1600_1200_537ea52d-9da4-440d-bb20-dd6291659923.jpeg)
   
-[![](http://chezou.files.wordpress.com/2009/08/p_1600_1200_a293f6fa-4bf1-4c74-9983-4d9b3c40d63f.jpeg)](http://chezou.files.wordpress.com/2009/08/p_1600_1200_a293f6fa-4bf1-4c74-9983-4d9b3c40d63f.jpeg)  
+![](p_1600_1200_a293f6fa-4bf1-4c74-9983-4d9b3c40d63f.jpeg)]
   
-[![](http://chezou.files.wordpress.com/2009/08/p_1600_1200_e0c33e1d-b6cf-474a-ab09-ef06d208c273.jpeg)](http://chezou.files.wordpress.com/2009/08/p_1600_1200_e0c33e1d-b6cf-474a-ab09-ef06d208c273.jpeg)
-
-
+![](p_1600_1200_e0c33e1d-b6cf-474a-ab09-ef06d208c273.jpeg)]

@@ -27,7 +27,7 @@ Googleプレイ版は修理するのに三万円近くするというので四�
 
 Amazonだとこれかな。
 
-[![（エスエスケイ）LG Nexus5 d820 d821 液晶 ディスプレイ ガラス　デジタイザ 修理 交換 キット ベゼルフレーム 付き ブラック Ｙ字ドライバー工具 及び 硬度9 ガラスフィルム 付き　発熱基盤部分に日本製オリジナルフィルム WATSON社オリジナル (製造物責任法）PL保険加入済み](http://ecx.images-amazon.com/images/I/51gjBxJ9%2BkL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B00V7VB8U2/chezou-22/)
+[![（エスエスケイ）LG Nexus5 d820 d821 液晶 ディスプレイ ガラス　デジタイザ 修理 交換 キット ベゼルフレーム 付き ブラック Ｙ字ドライバー工具 及び 硬度9 ガラスフィルム 付き　発熱基盤部分に日本製オリジナルフィルム WATSON社オリジナル (製造物責任法）PL保険加入済み](https://ecx.images-amazon.com/images/I/51gjBxJ9%2BkL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B00V7VB8U2/chezou-22/)
 
 [（エスエスケイ）LG Nexus5 d820 d821 液晶 ディスプレイ ガラス　デジタイザ 修理 交換 キット ベゼルフレーム 付き ブラック Ｙ字ドライバー工具 及び 硬度9 ガラスフィルム 付き　発熱基盤部分に日本製オリジナルフィルム WATSON社オリジナル (製造物責任法）PL保険加入済み](http://www.amazon.co.jp/exec/obidos/ASIN/B00V7VB8U2/chezou-22/)
 

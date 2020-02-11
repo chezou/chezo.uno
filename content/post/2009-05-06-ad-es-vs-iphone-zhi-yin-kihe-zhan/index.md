@@ -62,7 +62,7 @@ iPhone 16GB: 42,240円
 
 グラフにまとめるとこんな感じ。
 
-[caption id=&quot;attachment\_673&quot; align=&quot;alignnone&quot; width=&quot;300&quot; caption=&quot;各キャンペーンの月別コスト&quot;][![各キャンペーンの月別コスト](http://chezou.files.wordpress.com/2009/05/cost.png?w=300 &quot;各キャンペーンの月別コスト&quot;)](http://chezou.files.wordpress.com/2009/05/cost.png)[/caption]
+![各キャンペーンの月別コスト](cost.png)
 
 ○まとめ  
 コスト的には、Willcom乗換が圧倒的に安い。ただし、WM6の仕えなさ加減と面白さがあまり感じられないこと、iPhoneのUIを見るとそっちに心惹かれるものがある。  

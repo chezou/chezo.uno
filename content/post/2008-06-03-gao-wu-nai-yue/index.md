@@ -20,7 +20,7 @@ projects: []
 胃が凄い荒れ狂っているのがわかります。  
 紹興酒まずかったorz
 
-![](http://ecx.images-amazon.com/images/I/51aDg7uTQVL._SL160_.jpg)[星は歌う 1 (1) (花とゆめCOMICS)](http://item.excite.co.jp/detail/ASIN_459218601X)  
+![](https://ecx.images-amazon.com/images/I/51aDg7uTQVL._SL160_.jpg)[星は歌う 1 (1) (花とゆめCOMICS)](http://item.excite.co.jp/detail/ASIN_459218601X)  
 高屋 奈月 / / 白泉社  
 ISBN : 459218601X  
 スコア選択: ※※※

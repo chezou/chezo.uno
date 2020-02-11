@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/51ZPRX97W0L._SL160_.jpg)[パーフェクト・ブルー (創元推理文庫)](http://item.excite.co.jp/detail/ASIN_4488411010)  
+![](https://ecx.images-amazon.com/images/I/51ZPRX97W0L._SL160_.jpg)[パーフェクト・ブルー (創元推理文庫)](http://item.excite.co.jp/detail/ASIN_4488411010)  
 宮部 みゆき / / 東京創元社  
 ISBN : 4488411010  
 スコア選択: ※※※※  

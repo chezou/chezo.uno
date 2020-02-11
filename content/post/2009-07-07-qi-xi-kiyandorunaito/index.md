@@ -21,6 +21,5 @@ projects: []
 ハート形のキャンドルや、メッセージキャンドルなどがあり綺麗でした。にしても、多かったのは近隣のお店の宣伝やらコミュニティFMの宣伝やらも。川崎にもあるんだー。  
 今度聞いてみよう。
 
-[![](http://chezou.files.wordpress.com/2009/07/p_1600_1200_034bc5e1-3b83-48c7-abf0-9c021087bb3f.jpeg)](http://chezou.files.wordpress.com/2009/07/p_1600_1200_034bc5e1-3b83-48c7-abf0-9c021087bb3f.jpeg)
-
+![](p_1600_1200_034bc5e1-3b83-48c7-abf0-9c021087bb3f.jpeg)
 

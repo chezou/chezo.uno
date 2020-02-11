@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/51mCgCillxL._SL160_.jpg)[勝間和代のビジネス頭を創る7つのフレームワーク力 ビジネス思考法の基本と実践](http://item.excite.co.jp/detail/ASIN_4887596391)  
+![](https://ecx.images-amazon.com/images/I/51mCgCillxL._SL160_.jpg)[勝間和代のビジネス頭を創る7つのフレームワーク力 ビジネス思考法の基本と実践](http://item.excite.co.jp/detail/ASIN_4887596391)  
 勝間 和代 / / ディスカヴァー・トゥエンティワン  
 ISBN : 4887596391  
 スコア選択: ※※※※  

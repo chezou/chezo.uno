@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/21415360Q2L._SL160_.jpg)[残暑―鬼頭莫宏短編集 (IKKI COMICS)](http://item.excite.co.jp/detail/ASIN_4091885012)  
+![](https://ecx.images-amazon.com/images/I/21415360Q2L._SL160_.jpg)[残暑―鬼頭莫宏短編集 (IKKI COMICS)](http://item.excite.co.jp/detail/ASIN_4091885012)  
 鬼頭 莫宏 / / 小学館  
 ISBN : 4091885012  
 スコア選択: ※※※※  

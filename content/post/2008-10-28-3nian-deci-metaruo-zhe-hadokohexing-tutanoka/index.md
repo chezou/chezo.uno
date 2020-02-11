@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/41nDhvBD5UL._SL160_.jpg)[3年で辞めた若者はどこへ行ったのか―アウトサイダーの時代 (ちくま新書 (708))](http://item.excite.co.jp/detail/ASIN_4480064141)  
+![](https://ecx.images-amazon.com/images/I/41nDhvBD5UL._SL160_.jpg)[3年で辞めた若者はどこへ行ったのか―アウトサイダーの時代 (ちくま新書 (708))](http://item.excite.co.jp/detail/ASIN_4480064141)  
 城 繁幸 / / 筑摩書房  
 ISBN : 4480064141  
 スコア選択: ※※  

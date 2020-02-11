@@ -142,7 +142,7 @@ jupyter notebookのいいところは、試行錯誤をしやすいことと再�
 
 また、ここに至るまでに [id:mineroaoki](http://blog.hatena.ne.jp/mineroaoki/) さんの10年本がなければ至らなかったです。結局何事にもSQLが必要だと思い知らされた一年でした。
 
-[![10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &amp;IDEA)](http://ecx.images-amazon.com/images/I/411xr-FagVL._SL160_.jpg &quot;10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &amp;IDEA)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4797376279/chezou-22/)
+[![10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &amp;IDEA)](https://ecx.images-amazon.com/images/I/411xr-FagVL._SL160_.jpg &quot;10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &amp;IDEA)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4797376279/chezou-22/)
 
 [10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &amp;IDEA)](http://www.amazon.co.jp/exec/obidos/ASIN/4797376279/chezou-22/)
 
@@ -156,7 +156,7 @@ jupyter notebookのいいところは、試行錯誤をしやすいことと再�
 
 Lean Analyticsの日本語版の翻訳のお手伝いをしたのですが、今年出版されました。
 
-[![Lean Analytics ―スタートアップのためのデータ解析と活用法 (THE LEAN SERIES)](http://ecx.images-amazon.com/images/I/51X6l9dXKbL._SL160_.jpg &quot;Lean Analytics ―スタートアップのためのデータ解析と活用法 (THE LEAN SERIES)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4873117119/chezou-22/)
+[![Lean Analytics ―スタートアップのためのデータ解析と活用法 (THE LEAN SERIES)](https://ecx.images-amazon.com/images/I/51X6l9dXKbL._SL160_.jpg &quot;Lean Analytics ―スタートアップのためのデータ解析と活用法 (THE LEAN SERIES)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4873117119/chezou-22/)
 
 [Lean Analytics ―スタートアップのためのデータ解析と活用法 (THE LEAN SERIES)](http://www.amazon.co.jp/exec/obidos/ASIN/4873117119/chezou-22/)
 

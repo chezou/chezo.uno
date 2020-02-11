@@ -22,6 +22,6 @@ projects: []
 
 しかし、運営がどうなのかなぁとかおもっていましたが、ビラはしっかりしていたので、よかったです。
 
-[![](http://chezou.files.wordpress.com/2009/07/p_1600_1200_34dc1206-c46d-41d2-b3c4-69f3a291da19.jpeg)](http://chezou.files.wordpress.com/2009/07/p_1600_1200_34dc1206-c46d-41d2-b3c4-69f3a291da19.jpeg)
+![](p_1600_1200_34dc1206-c46d-41d2-b3c4-69f3a291da19.jpeg)
 
 

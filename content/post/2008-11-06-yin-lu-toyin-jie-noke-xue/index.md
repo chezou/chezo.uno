@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/512kZfo6lZL._SL160_.jpg)[音律と音階の科学―ドレミ…はどのようにして生まれたか (ブルーバックス 1567)](http://item.excite.co.jp/detail/ASIN_4062575671)  
+![](https://ecx.images-amazon.com/images/I/512kZfo6lZL._SL160_.jpg)[音律と音階の科学―ドレミ…はどのようにして生まれたか (ブルーバックス 1567)](http://item.excite.co.jp/detail/ASIN_4062575671)  
 小方 厚 / / 講談社  
 ISBN : 4062575671  
 スコア選択: ※※※※※  

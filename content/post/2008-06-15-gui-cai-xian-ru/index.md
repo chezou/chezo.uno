@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-![](http://ecx.images-amazon.com/images/I/519BgTth8PL._SL160_.jpg)[エンジェル (集英社文庫)](http://item.excite.co.jp/detail/ASIN_4087474763)  
+![](https://ecx.images-amazon.com/images/I/519BgTth8PL._SL160_.jpg)[エンジェル (集英社文庫)](http://item.excite.co.jp/detail/ASIN_4087474763)  
 石田 衣良 / / 集英社  
 ISBN : 4087474763  
 スコア選択: ※※※※※  
