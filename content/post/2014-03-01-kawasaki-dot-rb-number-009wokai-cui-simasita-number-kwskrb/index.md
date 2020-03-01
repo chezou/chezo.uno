@@ -1,21 +1,21 @@
 ---
-title: "kawasaki.rb #009を開催しました #kwskrb"
-subtitle: ""
-summary: ""
-authors: [aki]
-tags: []
-categories: 
-date: 2014-03-01T12:03:51+00:00
-lastmod: 2014-03-01T12:03:51+00:00
-featured: false
+title: 'kawasaki.rb #009を開催しました #kwskrb'
+date: 2014-03-01T12:03:51.000Z
+subtitle: ''
+summary: ''
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+featured: false
+authors:
+  - aki
+lastmod: 2014-03-01T12:03:51.000Z
+tags: []
 projects: []
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+categories:
+  - ruby
 ---
 去る2/26(水)に[kawasaki.rb #009](http://kawasakirb.doorkeeper.jp/events/8859)を開催しました。
 
