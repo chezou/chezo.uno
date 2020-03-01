@@ -1,21 +1,21 @@
 ---
-title: "Kawasaki.rb #002 開催しました #kwskrb"
-subtitle: ""
-summary: ""
-authors: [aki]
-tags: []
-categories: 
-date: 2013-08-03T06:08:43+00:00
-lastmod: 2013-08-03T06:08:43+00:00
-featured: false
+title: 'Kawasaki.rb #002 開催しました #kwskrb'
+date: 2013-08-03T06:08:43.000Z
+subtitle: ''
+summary: ''
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+featured: false
+authors:
+  - aki
+lastmod: 2013-08-03T06:08:43.000Z
+tags: []
 projects: []
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+categories:
+  - ruby
 ---
 ちょっと時間がたってしまいましたが、川崎地域でRuby関連の技術者が集まるKawasaki.rbの[第2回ミートアップ](https://manage.doorkeeper.jp/groups/kawasakirb/events/4895)を、去る7/24に行いました。
 
