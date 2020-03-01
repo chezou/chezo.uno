@@ -1,21 +1,21 @@
 ---
-title: "kawasaki.rb #007 を開催しました #kwskrb"
-subtitle: ""
-summary: ""
-authors: [aki]
-tags: []
-categories: 
-date: 2014-01-24T22:05:53+00:00
-lastmod: 2014-01-24T22:05:53+00:00
-featured: false
+title: 'kawasaki.rb #007 を開催しました #kwskrb'
+date: 2014-01-24T22:05:53.000Z
+subtitle: ''
+summary: ''
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+featured: false
+authors:
+  - aki
+lastmod: 2014-01-24T22:05:53.000Z
+tags: []
 projects: []
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+categories:
+  - ruby
 ---
 2013/12/18にkawasaki.rbの第7回を開催しました。  
 この会から、(同じミューザ川崎内ですが)NTT-ATさんに会場をお借りするようになりました。
