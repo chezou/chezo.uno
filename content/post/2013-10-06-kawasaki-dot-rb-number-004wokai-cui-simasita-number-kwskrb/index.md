@@ -1,21 +1,21 @@
 ---
-title: "Kawasaki.rb #004を開催しました #kwskrb"
-subtitle: ""
-summary: ""
-authors: [aki]
-tags: []
-categories: 
-date: 2013-10-06T12:10:10+00:00
-lastmod: 2013-10-06T12:10:10+00:00
-featured: false
+title: 'Kawasaki.rb #004を開催しました #kwskrb'
+date: 2013-10-06T12:10:10.000Z
+subtitle: ''
+summary: ''
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+featured: false
+authors:
+  - aki
+lastmod: 2013-10-06T12:10:10.000Z
+tags: []
 projects: []
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+categories:
+  - ruby
 ---
 9/25(水)にKawsaki.rbの第4回ミートアップを行いました。  
 今回は偶数回なので、居酒屋LTの回でした。
