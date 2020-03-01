@@ -1,21 +1,21 @@
 ---
-title: "Kawasaki.rb  #001 第1回ミートアップを開催しました #kwskrb"
-subtitle: ""
-summary: ""
-authors: [aki]
-tags: []
-categories: 
-date: 2013-06-29T04:06:14+00:00
-lastmod: 2013-06-29T04:06:14+00:00
-featured: false
+title: 'Kawasaki.rb  #001 第1回ミートアップを開催しました #kwskrb'
+date: 2013-06-29T04:06:14.000Z
+subtitle: ''
+summary: ''
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+featured: false
+authors:
+  - aki
+lastmod: 2013-06-29T04:06:14.000Z
+tags: []
 projects: []
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+categories:
+  - ruby
 ---
 6/26にKawasaki.rbの第1回ミートアップを開催しました。
 
