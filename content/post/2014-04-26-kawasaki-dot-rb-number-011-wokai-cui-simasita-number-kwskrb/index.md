@@ -1,21 +1,21 @@
 ---
-title: "kawasaki.rb #011 を開催しました #kwskrb"
-subtitle: ""
-summary: ""
-authors: [aki]
-tags: []
-categories: 
-date: 2014-04-26T22:06:31+00:00
-lastmod: 2014-04-26T22:06:31+00:00
-featured: false
+title: 'kawasaki.rb #011 を開催しました #kwskrb'
+date: 2014-04-26T22:06:31.000Z
+subtitle: ''
+summary: ''
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+featured: false
+authors:
+  - aki
+lastmod: 2014-04-26T22:06:31.000Z
+tags: []
 projects: []
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+categories:
+  - ruby
 ---
 4/23に[kawasaki.rb #011](http://kawasakirb.doorkeeper.jp/events/10187)を開催しました。  
 次回で1年になるのかと思うと、感慨深いです。  
