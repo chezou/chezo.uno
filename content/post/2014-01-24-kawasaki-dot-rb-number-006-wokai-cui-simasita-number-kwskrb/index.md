@@ -1,21 +1,21 @@
 ---
-title: "kawasaki.rb #006 を開催しました #kwskrb"
-subtitle: ""
-summary: ""
-authors: [aki]
-tags: []
-categories: 
-date: 2014-01-24T22:05:48+00:00
-lastmod: 2014-01-24T22:05:48+00:00
-featured: false
+title: 'kawasaki.rb #006 を開催しました #kwskrb'
+date: 2014-01-24T22:05:48.000Z
+subtitle: ''
+summary: ''
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+featured: false
+authors:
+  - aki
+lastmod: 2014-01-24T22:05:48.000Z
+tags: []
 projects: []
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+categories:
+  - ruby
 ---
 去る2013/11/27にkawasaki.rbの第6回を開催しました。  
 togetterは[こちら](http://togetter.com/li/595791)
