@@ -1,21 +1,21 @@
 ---
-title: "Kawasaki.rb #003を開催しました #kwskrb"
-subtitle: ""
-summary: ""
-authors: [aki]
-tags: []
-categories: 
-date: 2013-10-06T11:10:03+00:00
-lastmod: 2013-10-06T11:10:03+00:00
-featured: false
+title: 'Kawasaki.rb #003を開催しました #kwskrb'
+date: 2013-10-06T11:10:03.000Z
+subtitle: ''
+summary: ''
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+featured: false
+authors:
+  - aki
+lastmod: 2013-10-06T11:10:03.000Z
+tags: []
 projects: []
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+categories:
+  - ruby
 ---
 大分遅くなりましたが、去る8/28(水)にKawasaki.rbの第3回ミートアップを開催しました。
 
