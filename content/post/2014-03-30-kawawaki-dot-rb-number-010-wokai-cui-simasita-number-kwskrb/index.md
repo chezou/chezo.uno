@@ -1,21 +1,21 @@
 ---
-title: "kawawaki.rb #010 を開催しました #kwskrb"
-subtitle: ""
-summary: ""
-authors: [aki]
-tags: []
-categories: 
-date: 2014-03-30T22:06:20+00:00
-lastmod: 2014-03-30T22:06:20+00:00
-featured: false
+title: 'kawasaki.rb #010 を開催しました #kwskrb'
+date: 2014-03-30T22:06:20.000Z
+subtitle: ''
+summary: ''
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+featured: false
+authors:
+  - aki
+lastmod: 2014-03-30T22:06:20.000Z
+tags: []
 projects: []
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+categories:
+  - ruby
 ---
 kawasaki.rbもいよいよ10回目を開催してきました。  
 まさかの1日二回LTという展開でしたが、無事に話すことが出来て良かったです。
