@@ -4,6 +4,11 @@ date: 2020-03-05T14:15:52.570Z
 summary: This article show how to develop a digdag Python workflow task efficiently.
 draft: false
 featured: false
+tags:
+  - digdag
+categories:
+  - Python
+  - workflow
 ---
 [Japanese version is here](https://chezo.uno/post/2019-12-24-python-custom-scripting/)
 
