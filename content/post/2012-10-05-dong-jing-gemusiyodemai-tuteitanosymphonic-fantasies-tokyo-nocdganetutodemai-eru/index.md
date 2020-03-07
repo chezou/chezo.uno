@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-[![](http://media-cache-ec2.pinterest.com/upload/60869032434954296_s8xYfHcf_c.jpg)](http://pinterest.com/pin/60869032434954296/)
+[![](https://i.pinimg.com/originals/f5/f8/7a/f5f87a22d7029a96f44f1fba96c2afed.jpg)](https://pinterest.com/pin/60869032434954296/)
 
   
 
