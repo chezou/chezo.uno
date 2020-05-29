@@ -5,7 +5,7 @@ draft: false
 featured:
   filename: image-from-ios.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 ![Streamingの様子](image-from-ios.jpg)
 
