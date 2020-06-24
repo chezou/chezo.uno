@@ -19,7 +19,7 @@ projects: []
 ---
 何故か、Facebookで[@shinyorke](https://twitter.com/shinyorke)さんと[Japan.R](https://atnd.org/events/58624)の話をしてたら、[@0kayu](https://twitter.com/0kayu)さんに補足されてしまったので、LT発表してきました。
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/42416256&quot; width=&quot;476&quot; height=&quot;400&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+<iframe src="//www.slideshare.net/slideshow/embed_code/42416256" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 [MeCab.jl](https://github.com/chezou/MeCab.jl)の紹介と、R,Ruby,Juliaでのベンチマークについて話しました。
 
@@ -31,7 +31,7 @@ projects: []
 
 各言語のversionはこんな感じです。
 
-    $ ruby -v ruby 2.1.0p0 (2013-12-25 revision 44422) [x86\_64-darwin13.0] $ julia --version julia version 0.4.0-dev+1752 $ r --version R version 3.1.2 (2014-10-31) -- &quot;Pumpkin Helmet&quot; Copyright (C) 2014 The R Foundation for Statistical Computing Platform: x86\_64-apple-darwin13.4.0 (64-bit) R is free software and comes with ABSOLUTELY NO WARRANTY. You are welcome to redistribute it under the terms of the GNU General Public License versions 2 or 3. For more information about these matters see http://www.gnu.org/licenses/.
+    $ ruby -v ruby 2.1.0p0 (2013-12-25 revision 44422) [x86\_64-darwin13.0] $ julia --version julia version 0.4.0-dev+1752 $ r --version R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet" Copyright (C) 2014 The R Foundation for Statistical Computing Platform: x86\_64-apple-darwin13.4.0 (64-bit) R is free software and comes with ABSOLUTELY NO WARRANTY. You are welcome to redistribute it under the terms of the GNU General Public License versions 2 or 3. For more information about these matters see http://www.gnu.org/licenses/.
 
 やる前はRに対して圧勝！とかならないかなぁとか思っていたのですが、そもそもMeCabをバインディングしてるだけじゃん、と気づいた時には甘かった。 敵は、Rではなかったのです。Cだったのです...。
 

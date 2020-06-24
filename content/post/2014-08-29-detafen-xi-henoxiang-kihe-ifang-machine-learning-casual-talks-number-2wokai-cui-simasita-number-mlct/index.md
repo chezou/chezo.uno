@@ -39,7 +39,7 @@ Gunosy関さんのスライドが落ちていたので追加しました。
   
 普段からクックパッド社内でも考える内容に非常にマッチしていて(機械学習をやるやらないは別にして)、データを活かす上での心づもりとして有益な情報でした。
 
-&lt;iframe allowfullscreen=&quot;true&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot; height=&quot;596&quot; id=&quot;talk_frame_115621&quot; mozallowfullscreen=&quot;true&quot; src=&quot;//speakerdeck.com/player/e0dba2400f2b0132e46c5af3d0e731c5&quot; style=&quot;border:0; padding:0; margin:0; background:transparent;&quot; webkitallowfullscreen=&quot;true&quot; width=&quot;710&quot;&gt;&lt;/iframe&gt;
+<iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" id="talk_frame_115621" mozallowfullscreen="true" src="//speakerdeck.com/player/e0dba2400f2b0132e46c5af3d0e731c5" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"></iframe>
 
 ポイントとしては以下の三点です。
 
@@ -51,25 +51,25 @@ Gunosy関さんのスライドが落ちていたので追加しました。
 
 ビール大好きな人のコメントが的を射ています。
 
-&gt; このページ、機械学習に限らずデータほげほげ系であるあるすぎて、ウッってなるなｗ [http://t.co/wfOy3ngfrc](http://t.co/wfOy3ngfrc)
-&gt; 
-&gt; — tagomoris (@tagomoris) [2014, 8月 27](https://twitter.com/tagomoris/status/504443365681688576)
+> このページ、機械学習に限らずデータほげほげ系であるあるすぎて、ウッってなるなｗ [http://t.co/wfOy3ngfrc](http://t.co/wfOy3ngfrc)
+> 
+> — tagomoris (@tagomoris) [2014, 8月 27](https://twitter.com/tagomoris/status/504443365681688576)
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/38372284&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="http://www.slideshare.net/slideshow/embed_code/38372284" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[あなたの業務に機械学習を活用する5つのポイント](https://www.slideshare.net/shoheihido/5-38372284 &quot;あなたの業務に機械学習を活用する5つのポイント&quot;)** from **[Shohei Hido](http://www.slideshare.net/shoheihido)** 
+  **[あなたの業務に機械学習を活用する5つのポイント](https://www.slideshare.net/shoheihido/5-38372284 "あなたの業務に機械学習を活用する5つのポイント")** from **[Shohei Hido](http://www.slideshare.net/shoheihido)** 
 
-  **[あなたの業務に機械学習を活用する5つのポイント](https://www.slideshare.net/shoheihido/5-38372284 &quot;あなたの業務に機械学習を活用する5つのポイント&quot;)** from **[Shohei Hido](http://www.slideshare.net/shoheihido)** 
+  **[あなたの業務に機械学習を活用する5つのポイント](https://www.slideshare.net/shoheihido/5-38372284 "あなたの業務に機械学習を活用する5つのポイント")** from **[Shohei Hido](http://www.slideshare.net/shoheihido)** 
 
 ## LT
 
 ### @motivic\_ さん「素人がDEEP LEARNINGと他の機械学習の性能を比較してみた」
 
-&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/38373205&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="http://www.slideshare.net/slideshow/embed_code/38373205" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[素人がDeep Learningと他の機械学習の性能を比較してみた](https://www.slideshare.net/motivic/machine-learning-causal-talk-2-lt &quot;素人がDeep Learningと他の機械学習の性能を比較してみた&quot;)** from **[motivic](http://www.slideshare.net/motivic)** 
+  **[素人がDeep Learningと他の機械学習の性能を比較してみた](https://www.slideshare.net/motivic/machine-learning-causal-talk-2-lt "素人がDeep Learningと他の機械学習の性能を比較してみた")** from **[motivic](http://www.slideshare.net/motivic)** 
 
 どう見ても素人詐欺です、本当にありがとうございました
 
@@ -87,6 +87,6 @@ USだとAmazon Mechanical Turkを使うのが一般的に行われているの�
 ## まとめ
 
 グノシー関さんの「数値は神である」、PFI比戸さんの「機械学習は苦しい」という話に表されるように、機械学習を「つかう」という点にフォーカスした会でしたが、機械学習をしない人にとっても、どうデータと向きあえばいいのか、というエッセンスが凝縮されていました。  
-僕自身も聞いていて&quot;Lean Analytics&quot;にあった、「行動に移せない指標は意味が無い」という話を具体的にした話を聞けて、局所最適解に陥らないデータ活用について考えさせられました。
+僕自身も聞いていて"Lean Analytics"にあった、「行動に移せない指標は意味が無い」という話を具体的にした話を聞けて、局所最適解に陥らないデータ活用について考えさせられました。
 
 

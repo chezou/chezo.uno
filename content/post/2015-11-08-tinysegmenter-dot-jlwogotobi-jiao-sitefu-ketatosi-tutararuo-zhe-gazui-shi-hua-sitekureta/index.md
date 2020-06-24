@@ -19,16 +19,16 @@ projects: []
 ---
 先日、[TinySegmenter.jlの話](http://chezou.hatenablog.com/entry/2015/10/21/234317)を書いたら各方面から反響を頂きました。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Frepeatedly.github.io%2Fja%2F2015%2F10%2Ftinysegmenter-benchmark-and-d%2F&quot; title=&quot;TinySegmenterのベンチマーク + D言語版 - Go ahead!&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://repeatedly.github.io/ja/2015/10/tinysegmenter-benchmark-and-d/&quot;&gt;repeatedly.github.io&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Frepeatedly.github.io%2Fja%2F2015%2F10%2Ftinysegmenter-benchmark-and-d%2F" title="TinySegmenterのベンチマーク + D言語版 - Go ahead!" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://repeatedly.github.io/ja/2015/10/tinysegmenter-benchmark-and-d/">repeatedly.github.io</a></cite>
 
 [http://woxtu.tumblr.com/post/132337169740/rust-tinysegmenter](http://woxtu.tumblr.com/post/132337169740/rust-tinysegmenter)
-&lt;script async src=&quot;https://secure.assets.tumblr.com/post.js&quot;&gt;&lt;/script&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://woxtu.tumblr.com/post/132337169740/rust-tinysegmenter&quot;&gt;woxtu.tumblr.com&lt;/a&gt;&lt;/cite&gt;
+<script async src="https://secure.assets.tumblr.com/post.js"></script><cite class="hatena-citation"><a href="http://woxtu.tumblr.com/post/132337169740/rust-tinysegmenter">woxtu.tumblr.com</a></cite>
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Fqiita.com%2Fikasamt%2Fitems%2F471bfae96ce590a4fe82&quot; title=&quot;ベンチマーク - TinySegmenterをCrystalで書いてみた。雑だけど。 - Qiita&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://qiita.com/ikasamt/items/471bfae96ce590a4fe82&quot;&gt;qiita.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fqiita.com%2Fikasamt%2Fitems%2F471bfae96ce590a4fe82" title="ベンチマーク - TinySegmenterをCrystalで書いてみた。雑だけど。 - Qiita" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://qiita.com/ikasamt/items/471bfae96ce590a4fe82">qiita.com</a></cite>
 
 そんな中で、ikawahaさんがGoでも同様の最適化を実装していました。
 
-&lt;iframe src=&quot;http://ikawaha.hateblo.jp/embed/2015/10/23/161351&quot; title=&quot;TinySegmenter.jl の高速化手法を追っかけてみた - 押してダメならふて寝しろ&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://ikawaha.hateblo.jp/entry/2015/10/23/161351&quot;&gt;ikawaha.hateblo.jp&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://ikawaha.hateblo.jp/embed/2015/10/23/161351" title="TinySegmenter.jl の高速化手法を追っかけてみた - 押してダメならふて寝しろ" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://ikawaha.hateblo.jp/entry/2015/10/23/161351">ikawaha.hateblo.jp</a></cite>
 
 それと比較するために、とりあえず[Julia templateをPR](https://github.com/shogo82148/TinySegmenterMaker/pull/10)して比較しました。
 

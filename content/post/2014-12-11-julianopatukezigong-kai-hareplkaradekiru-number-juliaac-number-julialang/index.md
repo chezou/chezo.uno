@@ -25,19 +25,19 @@ Juliaのパッケージを作っても、野良パッケージを作るだけで
 
 さて、パッケージの作り方は[@bicycle1885](https://twitter.com/bicycle1885)さんの下記のJuliaTokyo #1のスライドが詳しいです。
 
-&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/36649709&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="http://www.slideshare.net/slideshow/embed_code/36649709" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[Juliaのパッケージをつくろう!](https://www.slideshare.net/KentaSato/julia-36649709 &quot;Juliaのパッケージをつくろう!&quot;)** from **[Kenta Sato](http://www.slideshare.net/KentaSato)** 
+  **[Juliaのパッケージをつくろう!](https://www.slideshare.net/KentaSato/julia-36649709 "Juliaのパッケージをつくろう!")** from **[Kenta Sato](http://www.slideshare.net/KentaSato)** 
 
 [Juliaのパッケージをつくろう!](http://www.slideshare.net/KentaSato/julia-36649709)
 
 今日は、そこで検証されていなかったPkg.publish()についてご紹介したいと思います。 そもそも、この発表の段階ではGithubの[2 factor authに対応されていなかった](https://github.com/JuliaLang/julia/issues/5252)のですが、[少し前にできるようになりました](https://github.com/JuliaLang/julia/commit/a5b1f3066e62356bc59a2ca542358b620d6e0435)。
 
-&lt;script src=&quot;https://gist.github.com/c578aed2d97ed2634b5b.js&quot;&gt; &lt;/script&gt;
+<script src="https://gist.github.com/c578aed2d97ed2634b5b.js"> </script>
 
 [gistc578aed2d97ed2634b5b](https://gist.github.com/c578aed2d97ed2634b5b)
 
-`Pkg.update()`して(この場合は更新なので)`Pkg.tag(&quot;PackageName&quot;)`して、`Pkg.publish()`するだけです。 初回はパスワードの入力とアクセストークンの入力が求められるので、[githubでtokenを生成して](https://github.com/settings/applications)REPLに入力をしましょう。
+`Pkg.update()`して(この場合は更新なので)`Pkg.tag("PackageName")`して、`Pkg.publish()`するだけです。 初回はパスワードの入力とアクセストークンの入力が求められるので、[githubでtokenを生成して](https://github.com/settings/applications)REPLに入力をしましょう。
 
 すると、自分のMETADATA.jlがbranch切られてpushされて、ブラウザが開いてPull Requestが作られます。(自分が試した時はChromeがちょうどクラッシュしたので、手でPR作りなおしたのでもしかするとMETADATA.jlのページが開くだけだったかもしれません)
 

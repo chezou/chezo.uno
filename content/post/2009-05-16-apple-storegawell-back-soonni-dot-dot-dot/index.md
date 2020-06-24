@@ -1,5 +1,5 @@
 ---
-title: "Apple storeがWe&amp;#39;ll back soonに……"
+title: "Apple storeがWe&#39;ll back soonに……"
 subtitle: ""
 summary: ""
 authors: [aki]
@@ -34,7 +34,7 @@ projects: []
 - 
   - 関連サイト--
 
-[MacOSX 不可視ファイルの解除方法（&amp;パスの通しかた） - WEB + PC[[Macでネットワークディスク（NAS）を自動マウントする方法｜BAMBOoのAppleでMacなiPhone徒然草](http://ameblo.jp/z9dz9d/entry-10149021737.html)  
+[MacOSX 不可視ファイルの解除方法（&パスの通しかた） - WEB + PC[[Macでネットワークディスク（NAS）を自動マウントする方法｜BAMBOoのAppleでMacなiPhone徒然草](http://ameblo.jp/z9dz9d/entry-10149021737.html)  
 もしかしたら、Nas navigator2を入れたときに自動マウント利用するようにしたのが悪いのかも。キーチェーンがおかしくて、大抵ゲストアカウントでマウントされてるし。
 
 

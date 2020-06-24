@@ -23,7 +23,7 @@ C++で正規表現を使う時、boost::regexを使うことが多いと思っ�
 インストールは簡単です。Mercurialが必要ですが、Ubuntuではaptで簡単に入ります。(ちなみに、Ubuntu11.04で試しました)
 
 [2011/11/28追記]  
-もう少しだけ[詳しい使用例](http://chezou.wordpress.com/2011/11/26/%e6%ad%a3%e8%a6%8f%e8%a1%a8%e7%8f%be%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aare2%e3%81%ae%e7%b0%a1%e5%8d%98%e3%81%aa%e4%bd%bf%e3%81%84%e6%96%b9%e3%81%be%e3%81%a8%e3%82%81/ &quot;正規表現ライブラリre2の簡単な使い方まとめ&quot;)を書きました！
+もう少しだけ[詳しい使用例](http://chezou.wordpress.com/2011/11/26/%e6%ad%a3%e8%a6%8f%e8%a1%a8%e7%8f%be%e3%83%a9%e3%82%a4%e3%83%96%e3%83%a9%e3%83%aare2%e3%81%ae%e7%b0%a1%e5%8d%98%e3%81%aa%e4%bd%bf%e3%81%84%e6%96%b9%e3%81%be%e3%81%a8%e3%82%81/ "正規表現ライブラリre2の簡単な使い方まとめ")を書きました！
 
     まず、入っていなければMercurialのインストールです。
     
@@ -40,11 +40,11 @@ C++で正規表現を使う時、boost::regexを使うことが多いと思っ�
     
     
     で、試してみたコードが以下のものになります。  
-    [gist:1393431](https://gist.github.com/1393431 &quot;gist:1393431&quot;)
+    [gist:1393431](https://gist.github.com/1393431 "gist:1393431")
     
     
     
-        #include \&lt;iostream\&gt; #include \&lt;string\&gt; #include \&lt;re2/re2.h\&gt; #include \&lt;cassert\&gt; using namespace std;int main(int argc, char \*\*argv){ string s,t; string str(&quot;あぶらかたぶら&quot;); RE2 re1(&quot;(.ら).(.ぶ)&quot;); assert(re1.ok()); if(RE2::PartialMatch(str, re1 , &amp;s, &amp;t)) cout \&lt;\&lt; &quot;s:&quot;\&lt;\&lt; s \&lt;\&lt; &quot; t:&quot;\&lt;\&lt; t \&lt;\&lt; endl; return 0; }
+        #include \<iostream\> #include \<string\> #include \<re2/re2.h\> #include \<cassert\> using namespace std;int main(int argc, char \*\*argv){ string s,t; string str("あぶらかたぶら"); RE2 re1("(.ら).(.ぶ)"); assert(re1.ok()); if(RE2::PartialMatch(str, re1 , &s, &t)) cout \<\< "s:"\<\< s \<\< " t:"\<\< t \<\< endl; return 0; }
     
     
     

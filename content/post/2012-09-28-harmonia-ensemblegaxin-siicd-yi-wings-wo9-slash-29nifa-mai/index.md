@@ -1,5 +1,5 @@
 ---
-title: "harmonia ensembleが新しいCD&amp;quot;翼-WINGS-&amp;quot;を9/29に発売"
+title: "harmonia ensembleが新しいCD"翼-WINGS-"を9/29に発売"
 subtitle: ""
 summary: ""
 authors: [aki]
@@ -17,18 +17,18 @@ image:
 
 projects: []
 ---
-合唱楽譜でお馴染みの[Panamusicaさん](http://www.panamusica.co.jp/ja/)が、[新刊案内](http://www.panamusica.co.jp/ja/new/index.html)で紹介していたので知ったのですが、元World Youth Choirのメンバーなどで構成される合唱団[harmonia ensemble](http://www.harmonia-ensemble.com/)がニューアルバム&quot;翼 -WINGS-&quot;を明日9/29に発売するようです。
+合唱楽譜でお馴染みの[Panamusicaさん](http://www.panamusica.co.jp/ja/)が、[新刊案内](http://www.panamusica.co.jp/ja/new/index.html)で紹介していたので知ったのですが、元World Youth Choirのメンバーなどで構成される合唱団[harmonia ensemble](http://www.harmonia-ensemble.com/)がニューアルバム"翼 -WINGS-"を明日9/29に発売するようです。
 
 コンクールの全国大会の演奏や、定期演奏会の演奏などが詰まっているようです。  
 前作も素晴らしい出来だっただけに、今作も期待であります。一度生で聴いてみたいなー。
 
 プロモーション用のYouTubeの楽曲は相澤直人さんの宿題が用意されているようです。
 
-[youtube=[http://www.youtube.com/watch?v=4300ypcH\_rI](http://www.youtube.com/watch?v=4300ypcH_rI)]
+{{< youtube 4300ypcH_rI >}}
 
-前作の&quot;[明日に架ける橋](http://www.brain-shop.net/shop/g/gOSBR-28003/)&quot;のぜんぶ（相澤直人作曲）も素敵でした。
+前作の"[明日に架ける橋](http://www.brain-shop.net/shop/g/gOSBR-28003/)"のぜんぶ（相澤直人作曲）も素敵でした。
 
-[youtube=[http://www.youtube.com/watch?v=WLVXJbtigXY](http://www.youtube.com/watch?v=WLVXJbtigXY)]
+{{< youtube WLVXJbtigXY >}}
 
 販売元のブレインのサイトは[こちら](http://www.brain-shop.net/shop/g/gOSBR-29010/)。  
 合唱楽譜と一緒に買いたい方は、Panamusicaさんの[ページ](http://www.panamusica.co.jp/ja/product/14332/)へどうぞ。

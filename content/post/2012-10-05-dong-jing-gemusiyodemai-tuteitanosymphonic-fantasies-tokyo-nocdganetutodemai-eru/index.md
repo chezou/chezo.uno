@@ -33,7 +33,7 @@ Source: via [chezou](http://pinterest.com/chezou/) on [Pinterest](http://pintere
 
 クリックしてみると、売っているではありませんか！
 
-[Maz-Sound](http://www.maz-sound.com/index.php?show=product&amp;id=42)&amp;nbsp;というお店で普通に売っていました。支払いは、クレジットカードまたはPaypalで支払えるので比較的簡単に買えます。でも、届くまでには2週間以上かかるんじゃないでしょうか。まだ来ていません。
+[Maz-Sound](http://www.maz-sound.com/index.php?show=product&id=42) というお店で普通に売っていました。支払いは、クレジットカードまたはPaypalで支払えるので比較的簡単に買えます。でも、届くまでには2週間以上かかるんじゃないでしょうか。まだ来ていません。
 
 これで買いそびれた人も、素晴らしい日本の演奏を堪能できますね！
 

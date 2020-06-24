@@ -19,18 +19,18 @@ projects: []
 ---
 [JuliaTokyo #3](http://juliatokyo.connpass.com/event/13218/)を @soramiさんと @bycicle1885 さんと開催しました。
 
-&gt; 第3回 [#JuliaTokyo](https://twitter.com/hashtag/JuliaTokyo?src=hash) にお越しの皆様、楽しい時間をありがとうございました！結論は「julia-wakalang」に質問や要望を書こう、ですかね。ひとつ書いてみました; [https://t.co/ZZBJVu7KC1](https://t.co/ZZBJVu7KC1) [pic.twitter.com/CyAm7Gx23e](http://t.co/CyAm7Gx23e)
-&gt; 
-&gt; — Sorami Hisamoto (@sorami) [2015, 4月 25](https://twitter.com/sorami/status/591992624812167168)
+> 第3回 [#JuliaTokyo](https://twitter.com/hashtag/JuliaTokyo?src=hash) にお越しの皆様、楽しい時間をありがとうございました！結論は「julia-wakalang」に質問や要望を書こう、ですかね。ひとつ書いてみました; [https://t.co/ZZBJVu7KC1](https://t.co/ZZBJVu7KC1) [pic.twitter.com/CyAm7Gx23e](http://t.co/CyAm7Gx23e)
+> 
+> — Sorami Hisamoto (@sorami) [2015, 4月 25](https://twitter.com/sorami/status/591992624812167168)
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 そこで、[julia-wakalang](https://github.com/JuliaTokyo/julia-wakalang)というリポジトリの話をしてきました。
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/JTJrdlOGm25gmp&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/JTJrdlOGm25gmp" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[Make Julia more popular in Japan!!1 #JuliaTokyo](https://www.slideshare.net/chezou/make-julia-more-popular-in-japan1 &quot;Make Julia more popular in Japan!!1 #JuliaTokyo&quot;)** from **[康顕 有賀](http://www.slideshare.net/chezou)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/chezou/make-julia-more-popular-in-japan1&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[Make Julia more popular in Japan!!1 #JuliaTokyo](https://www.slideshare.net/chezou/make-julia-more-popular-in-japan1 "Make Julia more popular in Japan!!1 #JuliaTokyo")** from **[康顕 有賀](http://www.slideshare.net/chezou)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/chezou/make-julia-more-popular-in-japan1">www.slideshare.net</a></cite>
 
 資料にも書いたとおり、日本でのJuliaがもっと盛り上がるように [@mirakui](https://twitter.com/mirakui) さんの「[雑な発想を活かすチーム作り](http://techlife.cookpad.com/entry/2015/03/25/202709)」という記事を参考にして、「こんなのがあったらな」「こういうことがわからないんだよなー」というのをissueでやりとりするための場所を作りました。
 
@@ -44,7 +44,7 @@ issueならwatchしておけばMLのようにメールも飛ぶし、MLみたい
 
 また、雑なissueとしての`dream`タグは好評で、とりあえず誰の責務でもないけど夢や妄想を書けるのって大事だよねーと懇親会で話していました。
 
-Twitterで[#Juliaわからん](https://twitter.com/search?f=realtime&amp;q=%23Julia%E3%82%8F%E3%81%8B%E3%82%89%E3%82%93&amp;src=typd)と書くと僕がissue立てるかもしれません。
+Twitterで[#Juliaわからん](https://twitter.com/search?f=realtime&q=%23Julia%E3%82%8F%E3%81%8B%E3%82%89%E3%82%93&src=typd)と書くと僕がissue立てるかもしれません。
 
 副産物として[JuliaTokyo](https://github.com/JuliaTokyo/)というorganizationを作ったら、[JuliaTokyo](http://julia.tokyo/)というサイトができました。
 

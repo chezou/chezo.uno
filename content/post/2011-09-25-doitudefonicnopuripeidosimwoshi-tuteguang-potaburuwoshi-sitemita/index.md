@@ -26,8 +26,8 @@ projects: []
 事前にtwitterやブログなどで先人達の情報を仕入れて臨みました。  
 参考URLはこちら
 
-- [海外プリペイドSIM導入マニュアル番外編：ドイツで使うvodafoneの“真っ赤なSIMカード” (1/2) - ITmedia +D PC USER&amp;nbsp;](http://plusd.itmedia.co.jp/pcuser/articles/1103/31/news031.html)
-- [O2（ドイツ）でプリペイドSIMをiPhoneにて利用する方法 - ひたひたブログ&amp;nbsp;](http://d.hatena.ne.jp/yanagi_dirigent/20101031/1288476424)
+- [海外プリペイドSIM導入マニュアル番外編：ドイツで使うvodafoneの“真っ赤なSIMカード” (1/2) - ITmedia +D PC USER ](http://plusd.itmedia.co.jp/pcuser/articles/1103/31/news031.html)
+- [O2（ドイツ）でプリペイドSIMをiPhoneにて利用する方法 - ひたひたブログ ](http://d.hatena.ne.jp/yanagi_dirigent/20101031/1288476424)
 - [T-mobile de データ通信定額　プリペイドSIMカード(Micro SIM兼用） - Anheloの元”中国杭州市モバイル“で“留学”日記](http://d.hatena.ne.jp/Anhelo/20100823/1282567172)
 今回は、kaufhofというドイツ版ジャスコに入っている家電量販店、Saturn（ざとぅーんという発音なんですね）にて購入しました。現地で住んでいる人に、この辺りで英語が通じる携帯屋はないか？と聞いたら教えてもらいました。  
 デュッセルドルフは英語が通じない所が多い気がします。あと、車がないと店に行けないので、旅行がてらの調達は結構厳しいです。
@@ -66,7 +66,7 @@ APNについての情報は事前に気にしていたのですが、アクテ�
 
 やり方は、FONIC(あるいはO2)のSIMが使える携帯電話からSMSで、
 
-&gt; START TAGESFLAT
+> START TAGESFLAT
 
 と送れば良いそうです。  
 良いそうです、というのは、お借りしていたSAMSUNGの携帯電話では全て大文字で入力する方法がわからず（！）、諦めて最初の一文字だけ大文字でやったのですが、無理でした。

@@ -19,7 +19,7 @@ projects: []
 ---
 先日、この記事を読んで分析のハードルを下げること大事だよね、というのを思い出したのでつらつらと書いてみようと思います。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Fqiita.com%2Furaura%2Fitems%2F8020989e79a6985b0c29&quot; title=&quot;マーケティング担当者にSQLを完全マスターさせた話 - Qiita&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://qiita.com/uraura/items/8020989e79a6985b0c29&quot;&gt;qiita.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fqiita.com%2Furaura%2Fitems%2F8020989e79a6985b0c29" title="マーケティング担当者にSQLを完全マスターさせた話 - Qiita" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://qiita.com/uraura/items/8020989e79a6985b0c29">qiita.com</a></cite>
 
 内容としては正直タイトル詐欺で、SlackからRDSにクエリ発行できるようにして、各種権限を持っているエンジニアでなくても分析できるようになったよ、という話です。
 
@@ -57,10 +57,10 @@ projects: []
 
 @mineroaokiさんの思想はこちらのスライドにたっぷり詰まっています。P.12から「一箇所にまとめる」話がありますので、そこだけでも読んでみると良いでしょう。
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/1KKYwrA60I1FMR&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/1KKYwrA60I1FMR" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[Cookpad TechConf 2016 - DWHに必要なこと](https://www.slideshare.net/mineroaoki/cookpad-techconf-2016-dwh &quot;Cookpad TechConf 2016 - DWHに必要なこと&quot;)** from **[Minero Aoki](http://www.slideshare.net/mineroaoki)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/mineroaoki/cookpad-techconf-2016-dwh&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[Cookpad TechConf 2016 - DWHに必要なこと](https://www.slideshare.net/mineroaoki/cookpad-techconf-2016-dwh "Cookpad TechConf 2016 - DWHに必要なこと")** from **[Minero Aoki](http://www.slideshare.net/mineroaoki)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/mineroaoki/cookpad-techconf-2016-dwh">www.slideshare.net</a></cite>
 
 なお、Airbnbは[バッチ処理用とアドホッククエリ用とでクラスターをレプリしている](https://medium.com/airbnb-engineering/reair-easy-to-use-tools-for-migrating-and-replicating-petabyte-scale-data-warehouses-5153f8a433da)ようですが、分析に必要なデータが一箇所にまとまっていると言っても差し支え無いでしょう。
 
@@ -70,9 +70,9 @@ projects: []
 
 彼女がSQLを武器にできるようになったのはもう一つ、青木さんの本の助けもあったと聞いています。 おそらく、他のWebディレクターの人たちにとっては、同じポジションの人に相談できるのは似たようなところを躓いたりした経験を聞けたりするのが良いのだと思います。
 
-[![10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &amp;IDEA)](https://ecx.images-amazon.com/images/I/513Kq0DFpnL._SL160_.jpg &quot;10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &amp;IDEA)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4797376279/chezou-22/)
+[![10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &IDEA)](https://ecx.images-amazon.com/images/I/513Kq0DFpnL._SL160_.jpg "10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &IDEA)")](http://www.amazon.co.jp/exec/obidos/ASIN/4797376279/chezou-22/)
 
-[10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &amp;IDEA)](http://www.amazon.co.jp/exec/obidos/ASIN/4797376279/chezou-22/)
+[10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く (Informatics &IDEA)](http://www.amazon.co.jp/exec/obidos/ASIN/4797376279/chezou-22/)
 
 - 作者: 青木峰郎
 - 出版社/メーカー: SBクリエイティブ

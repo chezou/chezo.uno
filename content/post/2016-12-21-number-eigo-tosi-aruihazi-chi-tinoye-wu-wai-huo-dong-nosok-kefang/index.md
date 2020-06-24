@@ -29,9 +29,9 @@ Clouderaという外資系のHadoop/Sparkを中心としたプラットフォー
 
 機械学習周りを自分の強みとして、いくつかの発表もさせていただきました。
 
-&lt;iframe src=&quot;http://chezou.hatenablog.com/embed/2016/07/26/172738&quot; title=&quot;「夏真っ盛り！Spark + Python + Data Science祭り」を開催しました＆Ibisを紹介しました #summerDS - once upon a time,&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://chezou.hatenablog.com/entry/2016/07/26/172738&quot;&gt;chezou.hatenablog.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://chezou.hatenablog.com/embed/2016/07/26/172738" title="「夏真っ盛り！Spark + Python + Data Science祭り」を開催しました＆Ibisを紹介しました #summerDS - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2016/07/26/172738">chezou.hatenablog.com</a></cite>
 
-&lt;iframe src=&quot;http://chezou.hatenablog.com/embed/2016/11/14/230521&quot; title=&quot;Cloudera World Tokyo 2016で機械学習プロダクトの作り方を話しました #cwt2016 - once upon a time,&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://chezou.hatenablog.com/entry/2016/11/14/230521&quot;&gt;chezou.hatenablog.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://chezou.hatenablog.com/embed/2016/11/14/230521" title="Cloudera World Tokyo 2016で機械学習プロダクトの作り方を話しました #cwt2016 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2016/11/14/230521">chezou.hatenablog.com</a></cite>
 
 さらに機械学習の話に加えHadoop/Spark周りの技術やスキル増やしており、考えられることの幅が広がっているのを実感できます。また、会社の新しいプロダクトや大きな変更が3ヶ月毎に起こるので、それを理解し広めるのに終わりがなく、息をつく暇もありません。
 
@@ -41,7 +41,7 @@ Clouderaという外資系のHadoop/Sparkを中心としたプラットフォー
 
 転職のところでも書きましたが、英語はDMM英会話とiKnow!、podcastで継続して学習しています。DMM英会話の話をkawasaki.rbでLTしたらインタビューもしていただきました\*1。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Feikaiwa.dmm.com%2Fblog%2Fenglish%2Fariga-michiaki%2F&quot; title=&quot;英会話未経験から外資系に転職したエンジニア有賀康顕さんの英語学習法【ユーザーインタビュー#1】&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://eikaiwa.dmm.com/blog/english/ariga-michiaki/&quot;&gt;eikaiwa.dmm.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Feikaiwa.dmm.com%2Fblog%2Fenglish%2Fariga-michiaki%2F" title="英会話未経験から外資系に転職したエンジニア有賀康顕さんの英語学習法【ユーザーインタビュー#1】" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://eikaiwa.dmm.com/blog/english/ariga-michiaki/">eikaiwa.dmm.com</a></cite>
 
 DMM英会話は先生のばらつきがありますが、いろいろな国の多くの先生と話せるのが良いです。フィリピンの先生から自分の好きだった合唱団がなくなってしまった話を聞いたときは感慨深いものがありました。また、ニュースの教材が、VOAからよい感じにピックアップしてくれる\*2ので気に入っています。 DMM英会話のスケジュールをGoogle カレンダーに登録してるのですが、最近見つけたこのブックマークレットが非常に便利です。
 
@@ -55,13 +55,13 @@ DMM英会話は先生のばらつきがありますが、いろいろな国の�
 
 最近おすすめのpodcastとしては、All Ears English, GCP Podcastです。GCP Podcastは技術的な話も分かりやすく説明してくれ、スピードもそこそこなので良いです。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.allearsenglish.com%2F&quot; title=&quot;All Ears English Podcast | Learn Advanced English&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://www.allearsenglish.com/&quot;&gt;www.allearsenglish.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.allearsenglish.com%2F" title="All Ears English Podcast | Learn Advanced English" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://www.allearsenglish.com/">www.allearsenglish.com</a></cite>
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.gcppodcast.com%2F&quot; title=&quot;Google Cloud Platform Podcast&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://www.gcppodcast.com/&quot;&gt;www.gcppodcast.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.gcppodcast.com%2F" title="Google Cloud Platform Podcast" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://www.gcppodcast.com/">www.gcppodcast.com</a></cite>
 
 英語の学習は筋トレみたいなもので、使わなければ衰えていきます。実際、風邪でダウンしたりしてレッスンをしばらくやらないと、lとrの発音周りで舌が回らずに苦労します。あとは、語彙にしろ表現にしろ、引き出しの多さを増やさないとと思っています。 Duolingoの萩原さんも言うとおり、語学学習は継続してやる人が伸びると言いますし、DMM英会話のような低価格で毎日継続するのが一番得な料金体系\*3はペースを作りやすいのが良いです。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Fjp.techcrunch.com%2F2016%2F12%2F20%2Fduolingo%2F&quot; title=&quot;週末勉強する人は続かない―データから見えた外国語学習に成功する人の3つの特徴 | TechCrunch Japan&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://jp.techcrunch.com/2016/12/20/duolingo/&quot;&gt;jp.techcrunch.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fjp.techcrunch.com%2F2016%2F12%2F20%2Fduolingo%2F" title="週末勉強する人は続かない―データから見えた外国語学習に成功する人の3つの特徴 | TechCrunch Japan" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://jp.techcrunch.com/2016/12/20/duolingo/">jp.techcrunch.com</a></cite>
 
 業務で英語を使うようになって、以前に比べて明らかに話せるようになったなぁという実感はあります。例えば、妻の友人のスウェーデン人カップルと2年前に話したときは、片言で会話する感じだったのが今は難なく話せるなという実感を得ています。一方で、英語がほぼネイティブの人同士の手加減のないスピードで議論をしている環境にいくと、まだまだしんどいです。DMM英会話のインタビューのときにお試しでいただいたネイティブ講師のチケットを試した時にも、ネイティブの人の語彙の豊富さと速い言い回しがとても訓練になりましたが、語彙セットが違うのが一番苦労します。
 
@@ -89,7 +89,7 @@ DMM英会話も原則毎朝やるようにしていますし、週末にCoursera
 
 家庭内/業務での業務効率を上げるために、ルンバ870とPHILIPSの43インチの4kモニタを買いました。
 
-[![iRobot Roomba 自動掃除機ルンバ870 ピューターグレー 870 【日本仕様正規品】](https://images-fe.ssl-images-amazon.com/images/I/415DIQ8iiKL._SL160_.jpg &quot;iRobot Roomba 自動掃除機ルンバ870 ピューターグレー 870 【日本仕様正規品】&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B00LKQBHVO/chezou-22/)
+[![iRobot Roomba 自動掃除機ルンバ870 ピューターグレー 870 【日本仕様正規品】](https://images-fe.ssl-images-amazon.com/images/I/415DIQ8iiKL._SL160_.jpg "iRobot Roomba 自動掃除機ルンバ870 ピューターグレー 870 【日本仕様正規品】")](http://www.amazon.co.jp/exec/obidos/ASIN/B00LKQBHVO/chezou-22/)
 
 [iRobot Roomba 自動掃除機ルンバ870 ピューターグレー 870 【日本仕様正規品】](http://www.amazon.co.jp/exec/obidos/ASIN/B00LKQBHVO/chezou-22/)
 
@@ -97,7 +97,7 @@ DMM英会話も原則毎朝やるようにしていますし、週末にCoursera
 - メディア: その他
 - [この商品を含むブログを見る](http://d.hatena.ne.jp/asin/B00LKQBHVO/chezou-22)
 
-[![Philips 43型ワイド液晶ディスプレイ (4K対応/IPSパネル/5年間フル保証) BDM4350UC/11](https://ecx.images-amazon.com/images/I/51cWvwM7alL._SL160_.jpg &quot;Philips 43型ワイド液晶ディスプレイ (4K対応/IPSパネル/5年間フル保証) BDM4350UC/11&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B01D9FP20A/chezou-22/)
+[![Philips 43型ワイド液晶ディスプレイ (4K対応/IPSパネル/5年間フル保証) BDM4350UC/11](https://ecx.images-amazon.com/images/I/51cWvwM7alL._SL160_.jpg "Philips 43型ワイド液晶ディスプレイ (4K対応/IPSパネル/5年間フル保証) BDM4350UC/11")](http://www.amazon.co.jp/exec/obidos/ASIN/B01D9FP20A/chezou-22/)
 
 [Philips 43型ワイド液晶ディスプレイ (4K対応/IPSパネル/5年間フル保証) BDM4350UC/11](http://www.amazon.co.jp/exec/obidos/ASIN/B01D9FP20A/chezou-22/)
 
@@ -118,11 +118,10 @@ DMM英会話も原則毎朝やるようにしていますし、週末にCoursera
 
 子供がNetflixのエルモズワールドという番組を気に入ったおかげで、今ではYouTubeにあるセサミストリートシリーズ(Sesame Studios)を見ているようです。
 
-ちょっと前にピコ太郎さんのPPAPのエルモとクッキーモンスター版の[CCBC](https://www.youtube.com/watch?v=DMjdkEA9jM8)が出ましたが、これ以外にも実はアメリカで有名な俳優さんやアーティストとコラボをしていたりします。ロードオブザリングのガンダルフにクッキーモンスターが&quot;resist&quot;という単語の意味を学んだり、スターウォーズパロディをしたり、ワンダイレクションとコラボしたり。
+ちょっと前にピコ太郎さんのPPAPのエルモとクッキーモンスター版の[CCBC](https://www.youtube.com/watch?v=DMjdkEA9jM8)が出ましたが、これ以外にも実はアメリカで有名な俳優さんやアーティストとコラボをしていたりします。ロードオブザリングのガンダルフにクッキーモンスターが"resist"という単語の意味を学んだり、スターウォーズパロディをしたり、ワンダイレクションとコラボしたり。
 
-&lt;iframe width=&quot;480&quot; height=&quot;270&quot; src=&quot;https://www.youtube.com/embed/GxCplsdCwxY?feature=oembed&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=GxCplsdCwxY&quot;&gt;www.youtube.com&lt;/a&gt;&lt;/cite&gt;
-
-&lt;iframe width=&quot;480&quot; height=&quot;270&quot; src=&quot;https://www.youtube.com/embed/j-LfQCPJJkY?feature=oembed&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://youtu.be/j-LfQCPJJkY&quot;&gt;youtu.be&lt;/a&gt;&lt;/cite&gt;
+{{< youtube GxCplsdCwxY >}}
+{{< youtube j-LfQCPJJkY >}}
 
 横で聞いていると、自分の語彙力が小学生以下なんだなと改めて気づかされます。
 

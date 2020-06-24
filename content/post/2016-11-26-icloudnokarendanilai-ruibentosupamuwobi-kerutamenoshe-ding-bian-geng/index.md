@@ -40,6 +40,6 @@ projects: []
 
 ## 参考サイト
 
-[Many iCloud users receiving spam Calendar &amp;amp; Photo Sharing invitations, here’s how to fix](https://9to5mac.com/2016/11/09/icloud-photo-sharing-and-calendar-spam)
+[Many iCloud users receiving spam Calendar &amp; Photo Sharing invitations, here’s how to fix](https://9to5mac.com/2016/11/09/icloud-photo-sharing-and-calendar-spam)
 [Preventing Spam iCloud Calendar Invites](https://astralbodi.es/2016/11/25/preventing-spam-icloud-calendar-invites/)
-[iPhone、MacのiCloudカレンダーに大量のスパム招待が来たときの対処法 - だがそれがいい](http://www.dagasorega-e.net/entry/iphone-mac-spam-calender&quot;&gt;www.dagasorega-e.net)
+[iPhone、MacのiCloudカレンダーに大量のスパム招待が来たときの対処法 - だがそれがいい](http://www.dagasorega-e.net/entry/iphone-mac-spam-calender">www.dagasorega-e.net)

@@ -33,21 +33,21 @@ dotは一言で言うと、AirPodsみたいな小さいBluetoothイヤホンで�
 
 ## dot レビュー
 
-&lt;iframe src=&quot;//www.instagram.com/p/BLXPs3Uhk5W/embed/&quot; data-entry-image=&quot;http://www.instagram.com/p/BLXPs3Uhk5W/media/?size=l&quot; class=&quot;instagram-iframe&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowtransparency&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/BLXPs3Uhk5W/&quot;&gt;www.instagram.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//www.instagram.com/p/BLXPs3Uhk5W/embed/" data-entry-image="http://www.instagram.com/p/BLXPs3Uhk5W/media/?size=l" class="instagram-iframe" frameborder="0" scrolling="no" allowtransparency></iframe><cite class="hatena-citation"><a href="https://www.instagram.com/p/BLXPs3Uhk5W/">www.instagram.com</a></cite>
 
 箱はこんな感じでおしゃれ。
 
-&lt;iframe src=&quot;//www.instagram.com/p/BLXQDBnhbSx/embed/&quot; data-entry-image=&quot;http://www.instagram.com/p/BLXQDBnhbSx/media/?size=l&quot; class=&quot;instagram-iframe&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowtransparency&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/BLXQDBnhbSx/?taken-by=c.hezou&amp;amp;hl=ja&quot;&gt;www.instagram.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//www.instagram.com/p/BLXQDBnhbSx/embed/" data-entry-image="http://www.instagram.com/p/BLXQDBnhbSx/media/?size=l" class="instagram-iframe" frameborder="0" scrolling="no" allowtransparency></iframe><cite class="hatena-citation"><a href="https://www.instagram.com/p/BLXQDBnhbSx/?taken-by=c.hezou&amp;hl=ja">www.instagram.com</a></cite>
 
 中身もきちんとオシャレに梱包されています。
 
-&lt;iframe src=&quot;//www.instagram.com/p/BLXQWDGh-oH/embed/&quot; data-entry-image=&quot;http://www.instagram.com/p/BLXQWDGh-oH/media/?size=l&quot; class=&quot;instagram-iframe&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowtransparency&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/BLXQWDGh-oH/?taken-by=c.hezou&amp;amp;hl=ja&quot;&gt;www.instagram.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//www.instagram.com/p/BLXQWDGh-oH/embed/" data-entry-image="http://www.instagram.com/p/BLXQWDGh-oH/media/?size=l" class="instagram-iframe" frameborder="0" scrolling="no" allowtransparency></iframe><cite class="hatena-citation"><a href="https://www.instagram.com/p/BLXQWDGh-oH/?taken-by=c.hezou&amp;hl=ja">www.instagram.com</a></cite>
 
 充電器兼ケースは、イヤホンがそれぞれマグネットでひっついて充電されます。 重さもたいしてないので、ポケットの中に充電ケースを常に入れておいて、オフィスや家についたら充電するような感じにしています。
 
 ケースの充電はケースを2つに割って真ん中にある穴にmicro USBで刺すのですが、真ん中で別れるところもマグネットでひっつくため、バラバラでどっか行ってしまうということはありません。ただ、ケースを充電しながら給電できるのは、片方だけなので注意が必要です。 また、モノラル二個としても使えるので、片方充電してもう片方は聞き続けるという使い方も可能です。 公称値で3時間持つと言っている電池ですが、backspace.fmや最近のrebuildは通しで聞けるかどうかはわかりませんが、充電器を忘れて往復2時間弱の通勤で充電しないでも再生し続けられたので、なんとかなるかもしれません。
 
-&lt;iframe src=&quot;//www.instagram.com/p/BLXP-8thiAr/embed/&quot; data-entry-image=&quot;http://www.instagram.com/p/BLXP-8thiAr/media/?size=l&quot; class=&quot;instagram-iframe&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowtransparency&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/BLXP-8thiAr/?taken-by=c.hezou&amp;amp;hl=ja&quot;&gt;www.instagram.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//www.instagram.com/p/BLXP-8thiAr/embed/" data-entry-image="http://www.instagram.com/p/BLXP-8thiAr/media/?size=l" class="instagram-iframe" frameborder="0" scrolling="no" allowtransparency></iframe><cite class="hatena-citation"><a href="https://www.instagram.com/p/BLXP-8thiAr/?taken-by=c.hezou&amp;hl=ja">www.instagram.com</a></cite>
 
 大きさは小さめの腕時計よりも更に小さい感じ。AnkerのIE20と比べて見ても小さいのがわかります。
 

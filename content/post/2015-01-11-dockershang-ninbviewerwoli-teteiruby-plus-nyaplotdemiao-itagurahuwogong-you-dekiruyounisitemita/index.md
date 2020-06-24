@@ -36,13 +36,13 @@ ipython notebookは以下の特徴を持ちます。
 
 Rubyの例ですがTokyu Ruby会議で発表したスライドを貼っておきます。 kawasaki.rbではipython notebookで[パーフェクトRuby読書会の様子を貼っています](http://kawasakirb.github.io/kawasakirb/2014/12/23/kawasakirb-019-kwskrb/)。
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/42147157&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="//www.slideshare.net/slideshow/embed_code/42147157" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[Recommendation for iruby #tqrk08](//www.slideshare.net/chezou/recommendation-for-iruby &quot;Recommendation for iruby #tqrk08&quot;)** from **[Michiaki Ariga](//www.slideshare.net/chezou)** 
+  **[Recommendation for iruby #tqrk08](//www.slideshare.net/chezou/recommendation-for-iruby "Recommendation for iruby #tqrk08")** from **[Michiaki Ariga](//www.slideshare.net/chezou)** 
 
 これだけだと魅力がわかりにくいと思うので、実行結果を貼ります。 描画したグラフも共有できるのが大きな魅力だと思います。
 
-&lt;iframe src=&quot;http://nbviewer.ipython.org/github/chezou/iruby-example/blob/master/graph-example.ipynb&quot; width=&quot;640&quot; height=&quot;455&quot;&gt; &lt;/iframe&gt;
+<iframe src="http://nbviewer.ipython.org/github/chezou/iruby-example/blob/master/graph-example.ipynb" width="640" height="455"> </iframe>
 
 もしかすると、Gunosyの粟飯原さんが[以前作られたnotebook](http://nbviewer.ipython.org/gist/shunsukeaihara/dc2552453e1272866e2a)をご覧になった方もいるかもしれません。
 
@@ -62,7 +62,7 @@ Macでは[boot2docker](http://boot2docker.io/)を使ってVirtualBox上にdocker
 
 自分の環境のVirtualBoxは古かったので、途中でこんなエラーがでました。
 
-    error in run: Failed to initialize machine &quot;boot2docker-vm&quot;: exit status 1
+    error in run: Failed to initialize machine "boot2docker-vm": exit status 1
 
 [こちら](https://github.com/boot2docker/boot2docker/issues/525)を見ると、VirtualBoxのバージョンが古いとダメなようなので、VirtualBoxをアップデート後に
 
@@ -82,7 +82,7 @@ Dokcer上でnbviewerを動かすには、用意されているdocker imageを使
 
 # nbviewerを起動する
 
-    open http://$(boot2docker ip 2\&gt;/dev/null):8080/
+    open http://$(boot2docker ip 2\>/dev/null):8080/
 
 これで、あなたのブラウザにdocker上のnbviewerが見れるはずです！
 
@@ -104,7 +104,7 @@ MikonはRubyにおけるpandasのような位置づけで、表形式のデー�
 
 MikonはNMatrixに依存しており、こいつがCBLASなど依存が激しくMacでビルドをするのが大変だったので、こちらも[dockerで環境を作りました](https://registry.hub.docker.com/u/domitry/sciruby-docker/)。
 
-    docker pull domitry/sciruby-docker docker run -i -p 9999:9999 domitry/sciruby-docker:latest open http://$(boot2docker ip 2\&gt;/dev/null):9999/
+    docker pull domitry/sciruby-docker docker run -i -p 9999:9999 domitry/sciruby-docker:latest open http://$(boot2docker ip 2\>/dev/null):9999/
 
 今回は次のgistを可視化してみました。[https://gist.github.com/chezou/38ddcc79babe34b73f10](https://gist.github.com/chezou/38ddcc79babe34b73f10)
 

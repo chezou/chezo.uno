@@ -38,11 +38,11 @@ projects: []
 
 **[12/18追記]**エクスプレス交換はAppleCare+加入だと無償で使え、そうで無い場合は3000円程度かかるそうです。地方などでAppleCareに入っておらずリコールにお金かかるとすると、かなり酷いですね…。 また、クレジットカードで7万円程度のお金が保証金として引き落とされ、後日返却されます。 thx @tsuboi !
 
-&gt; iPhone 6sのバッテリ問題で本体交換すべく [@chezou](https://twitter.com/chezou) ブログを見てAppleに電話。Appleによると、Express交換はApplecareなしだとオプション料金3000円。また、クレカ必須で本体代が一時課金される。 [https://t.co/7JnHiCD1hK](https://t.co/7JnHiCD1hK)
-&gt; 
-&gt; — S.TSUBOI (@tsuboi) [2016年12月18日](https://twitter.com/tsuboi/status/810368813728497664)
+> iPhone 6sのバッテリ問題で本体交換すべく [@chezou](https://twitter.com/chezou) ブログを見てAppleに電話。Appleによると、Express交換はApplecareなしだとオプション料金3000円。また、クレカ必須で本体代が一時課金される。 [https://t.co/7JnHiCD1hK](https://t.co/7JnHiCD1hK)
+> 
+> — S.TSUBOI (@tsuboi) [2016年12月18日](https://twitter.com/tsuboi/status/810368813728497664)
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 **[/追記]**
 
@@ -50,7 +50,7 @@ projects: []
 
 交換時には、SIMも抜いて保護フィルムもカバーも外さなければいけないので、フィルムは買い直しました。
 
-[![OAproda iphone6/6s強化ガラスフィルム2.5D 4.7inch 0.3mm硬度9H](https://ecx.images-amazon.com/images/I/61yIBmTfC3L._SL160_.jpg &quot;OAproda iphone6/6s強化ガラスフィルム2.5D 4.7inch 0.3mm硬度9H&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B00VSOCMOE/chezou-22/)
+[![OAproda iphone6/6s強化ガラスフィルム2.5D 4.7inch 0.3mm硬度9H](https://ecx.images-amazon.com/images/I/61yIBmTfC3L._SL160_.jpg "OAproda iphone6/6s強化ガラスフィルム2.5D 4.7inch 0.3mm硬度9H")](http://www.amazon.co.jp/exec/obidos/ASIN/B00VSOCMOE/chezou-22/)
 
 [OAproda iphone6/6s強化ガラスフィルム2.5D 4.7inch 0.3mm硬度9H](http://www.amazon.co.jp/exec/obidos/ASIN/B00VSOCMOE/chezou-22/)
 

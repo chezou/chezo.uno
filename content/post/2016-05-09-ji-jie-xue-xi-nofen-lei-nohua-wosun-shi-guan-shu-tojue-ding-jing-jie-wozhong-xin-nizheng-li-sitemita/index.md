@@ -21,7 +21,7 @@ projects: []
 
 最初ははてなブログに書こうとしたのですが、数式を埋め込むのが辛かったのでjupyter notebookにしました。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fchezou%2Fnotebooks%2Fblob%2Fmaster%2Fclassification.ipynb&quot; title=&quot;chezou/notebooks&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://github.com/chezou/notebooks/blob/master/classification.ipynb&quot;&gt;github.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fchezou%2Fnotebooks%2Fblob%2Fmaster%2Fclassification.ipynb" title="chezou/notebooks" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://github.com/chezou/notebooks/blob/master/classification.ipynb">github.com</a></cite>
 
 [追記]
 

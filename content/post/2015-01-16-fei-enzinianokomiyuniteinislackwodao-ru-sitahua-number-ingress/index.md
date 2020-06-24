@@ -111,7 +111,7 @@ Google Driveのフォルダに対して、Google groupに権限を付与する�
 
 [hubot-scorekeeper](https://www.npmjs.com/package/hubot-scorekeeper)というのを入れています。
 
-&lt;iframe src=&quot;http://hatenablog.com/embed?url=http%3A%2F%2Fyoshiori.github.io%2Fblog%2F2014%2F07%2F10%2Freleased-scorekeeper%2F&quot; title=&quot;気軽なポジティブ・フィードバック好き - yoshiori.github.io&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;a href=&quot;http://yoshiori.github.io/blog/2014/07/10/released-scorekeeper/&quot;&gt;気軽なポジティブ・フィードバック好き - yoshiori.github.io&lt;/a&gt;&lt;/iframe&gt;
+<iframe src="http://hatenablog.com/embed?url=http%3A%2F%2Fyoshiori.github.io%2Fblog%2F2014%2F07%2F10%2Freleased-scorekeeper%2F" title="気軽なポジティブ・フィードバック好き - yoshiori.github.io" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://yoshiori.github.io/blog/2014/07/10/released-scorekeeper/">気軽なポジティブ・フィードバック好き - yoshiori.github.io</a></iframe>
 
 [気軽なポジティブ・フィードバック好き - yoshiori.github.io](http://yoshiori.github.io/blog/2014/07/10/released-scorekeeper/)
 
@@ -133,7 +133,7 @@ Google Driveのフォルダに対して、Google groupに権限を付与する�
 
 Art of Communityもコミュニティ運営に非常に役に立つと [@shiumachi](https://twitter.com/shiumachi) さんから勧められているので、読んでみようと思っています。
 
-[![Team Geek ―Googleのギークたちはいかにしてチームを作るのか](https://ecx.images-amazon.com/images/I/41SlY0zvpKL._SL160_.jpg &quot;Team Geek ―Googleのギークたちはいかにしてチームを作るのか&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4873116309/chezou-22/)
+[![Team Geek ―Googleのギークたちはいかにしてチームを作るのか](https://ecx.images-amazon.com/images/I/41SlY0zvpKL._SL160_.jpg "Team Geek ―Googleのギークたちはいかにしてチームを作るのか")](http://www.amazon.co.jp/exec/obidos/ASIN/4873116309/chezou-22/)
 
 [Team Geek ―Googleのギークたちはいかにしてチームを作るのか](http://www.amazon.co.jp/exec/obidos/ASIN/4873116309/chezou-22/)
 
@@ -143,7 +143,7 @@ Art of Communityもコミュニティ運営に非常に役に立つと [@shiumac
 - メディア: 単行本（ソフトカバー）
 - [この商品を含むブログ (19件) を見る](http://d.hatena.ne.jp/asin/4873116309/chezou-22)
 
-[![アート・オブ・コミュニティ ―「貢献したい気持ち」を繋げて成果を導くには (THEORY/IN/PRACTICE)](https://ecx.images-amazon.com/images/I/511FfWvDWpL._SL160_.jpg &quot;アート・オブ・コミュニティ ―「貢献したい気持ち」を繋げて成果を導くには (THEORY/IN/PRACTICE)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4873114950/chezou-22/)
+[![アート・オブ・コミュニティ ―「貢献したい気持ち」を繋げて成果を導くには (THEORY/IN/PRACTICE)](https://ecx.images-amazon.com/images/I/511FfWvDWpL._SL160_.jpg "アート・オブ・コミュニティ ―「貢献したい気持ち」を繋げて成果を導くには (THEORY/IN/PRACTICE)")](http://www.amazon.co.jp/exec/obidos/ASIN/4873114950/chezou-22/)
 
 [アート・オブ・コミュニティ ―「貢献したい気持ち」を繋げて成果を導くには (THEORY/IN/PRACTICE)](http://www.amazon.co.jp/exec/obidos/ASIN/4873114950/chezou-22/)
 
@@ -156,15 +156,15 @@ Art of Communityもコミュニティ運営に非常に役に立つと [@shiumac
 
 # 追記
 
-&gt; [非エンジニアのコミュニティにSlackを導入した話 #ingress - once upon a time,](http://b.hatena.ne.jp/entry/239248183/comment/tunacook)
-&gt; - [[slack](/search/tag?q=slack)]
-&gt;   
-&gt; 
-&gt; slackについてはよく知ってるので、それよりも非エンジニアの人から見た感想がきになる
-&gt; 
-&gt; [2015/01/16 08:59](http://b.hatena.ne.jp/tunacook/20150116#bookmark-239248183)
+> [非エンジニアのコミュニティにSlackを導入した話 #ingress - once upon a time,](http://b.hatena.ne.jp/entry/239248183/comment/tunacook)
+> - [[slack](/search/tag?q=slack)]
+>   
+> 
+> slackについてはよく知ってるので、それよりも非エンジニアの人から見た感想がきになる
+> 
+> [2015/01/16 08:59](http://b.hatena.ne.jp/tunacook/20150116#bookmark-239248183)
 
-&lt;script src=&quot;https://b.st-hatena.com/js/comment-widget.js&quot; charset=&quot;utf-8&quot; async&gt;&lt;/script&gt;
+<script src="https://b.st-hatena.com/js/comment-widget.js" charset="utf-8" async></script>
 
 [slackについてはよく知ってるので、それよりも非エンジニアの人から見た感想がきになる - tunacook のコメント / はてなブックマーク](http://b.hatena.ne.jp/entry/239248183/comment/tunacook)
 
@@ -172,41 +172,41 @@ Art of Communityもコミュニティ運営に非常に役に立つと [@shiumac
 
 女性の方
 
-&gt; slackのここが良い→英語だけど、画面を見るだけで大体の機能がわかる。分かりやすい 。
-&gt; 
-&gt; ここが辛い→スマホからだと@名前と入力し辛い(予測変換で名前が出ないので長い名前だと打ち間違える)、連続して違う発言をすると文章が前後でくっ付いてひとつになって読みにくい とかでしょうか
-&gt; 
-&gt; チャットはHOのようなセリフのコマ画面？が出る、出ない、というので話しやすさが違うなーとは感じますが、慣れました（笑）
+> slackのここが良い→英語だけど、画面を見るだけで大体の機能がわかる。分かりやすい 。
+> 
+> ここが辛い→スマホからだと@名前と入力し辛い(予測変換で名前が出ないので長い名前だと打ち間違える)、連続して違う発言をすると文章が前後でくっ付いてひとつになって読みにくい とかでしょうか
+> 
+> チャットはHOのようなセリフのコマ画面？が出る、出ない、というので話しやすさが違うなーとは感じますが、慣れました（笑）
 
 (この方は、半角スペースを入れないと補完されないということに気づいていないようでした)
 
 男性の方
 
-&gt; slackのここが良い→チャンネル設定や出入りが自由にできる。
-&gt; 
-&gt; ここが辛い→スマホアプリだとハングアウトの絵文字が使えない
+> slackのここが良い→チャンネル設定や出入りが自由にできる。
+> 
+> ここが辛い→スマホアプリだとハングアウトの絵文字が使えない
 
 男性のWebデザイナー
 
-&gt; 絵文字追加できるのが良い
-&gt; 
-&gt; 発言の削除・編集ができるので事故が減った
-&gt; 
-&gt; スマホでは絵文字の名前がわからないと呼び出せないのが辛い。
-&gt; 
-&gt; スマホでは参加チームが多くなった時の切り替えが多少面倒臭い。
-&gt; 
-&gt; LINEのようなスタンプが無いｗ
-&gt; 
-&gt; 画像投稿の画像を拡大したい時、スマホではワンクッション入るのが面倒。
+> 絵文字追加できるのが良い
+> 
+> 発言の削除・編集ができるので事故が減った
+> 
+> スマホでは絵文字の名前がわからないと呼び出せないのが辛い。
+> 
+> スマホでは参加チームが多くなった時の切り替えが多少面倒臭い。
+> 
+> LINEのようなスタンプが無いｗ
+> 
+> 画像投稿の画像を拡大したい時、スマホではワンクッション入るのが面倒。
 
 男性の方
 
-&gt; slackはandroidからだと絵文字が小さくて何なのか見えない。あとやっぱ一般的に英語なのがたぶん壁(一番高い)。
-&gt; 
-&gt; 検索できるけど、すぐなくなる
-&gt; 
-&gt; アイコン画像を拡大したい衝動にこたえてくれない
+> slackはandroidからだと絵文字が小さくて何なのか見えない。あとやっぱ一般的に英語なのがたぶん壁(一番高い)。
+> 
+> 検索できるけど、すぐなくなる
+> 
+> アイコン画像を拡大したい衝動にこたえてくれない
 
 HO=Hangoutです。 結構Hangoutに慣れている人が多く回答してくれているっぽくて比較が多いようですが、英語だけど苦にならないという人と、英語だから辛いという意見が割れているのが興味深いです。 逆に言うと、それ以外の点では複数チーム切り替えとかの難点を除けば受け入れられているという印象です。 我々はMacアプリを前提に考えてしまうのですが、モバイル・アプリのみの人やWindowsの人もいるため、そこら辺もケアしながら進めるのが大事ですね。特にAndroidアプリはiOSに比べて足りない要素が多いので、今後に期待です。
 

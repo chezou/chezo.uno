@@ -19,10 +19,10 @@ projects: []
 ---
 無限プレモルが出るという危険な楽しいイベント、[TokyuRuby会議07](http://regional.rubykaigi.org/tokyu07)で[rubyistokei](http://rubyistokei.herokuapp.com/)の[timer](https://speakerdeck.com/kwappa/rubyistimer)にドラの音を付けたよ！という話をしました。
 
-[http://rubyistokei.herokuapp.com/timer?limit=1&amp;gong=on](http://rubyistokei.herokuapp.com/timer?limit=1&amp;gong=on)  
+[http://rubyistokei.herokuapp.com/timer?limit=1&gong=on](http://rubyistokei.herokuapp.com/timer?limit=1&gong=on)  
 こんな感じでご家庭でもドラの音を楽しみながらLTできます！
 
-[slideshare id=32880449&amp;doc=gonganyware-140329043143-phpapp01]
+[slideshare id=32880449&doc=gonganyware-140329043143-phpapp01]
 
 本当はデモをするつもりだったのですが、いい感じに出来上がっていたので肝心の音を鳴らすことができませんでした。せっかく、iPhone, iPad, Androidで動作確認をして会場で準備までしてたのに！
 
@@ -39,7 +39,7 @@ projects: []
 
 切る前はこんな感じでした
 
-###&amp;nbsp;青梗菜とベーコンのキッシュ
+### 青梗菜とベーコンのキッシュ
 
 ![](https://scontent-b-sea.xx.fbcdn.net/hphotos-ash4/t1.0-9/1506854_674061255989609_24797444_n.jpg)
 

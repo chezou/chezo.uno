@@ -37,7 +37,7 @@ projects: []
 
 [だから、こぶたちゃん (こぶたの赤ちゃんシリーズ)](http://www.amazon.co.jp/exec/obidos/ASIN/4031290101/ref=nosim/)
 
-posted with [amazlet](http://www.amazlet.com/ &quot;amazlet&quot;) at 13.12.06
+posted with [amazlet](http://www.amazlet.com/ "amazlet") at 13.12.06
 
 北山 葉子  
 偕成社  
@@ -47,9 +47,9 @@ posted with [amazlet](http://www.amazlet.com/ &quot;amazlet&quot;) at 13.12.06
 
 [Amazon.co.jpで詳細を見る](http://www.amazon.co.jp/exec/obidos/ASIN/4031290101/ref=nosim/)
 
-&gt; おとうさんはぶた、おかあさんもぶた。だからぼくはこぶたちゃん。
+> おとうさんはぶた、おかあさんもぶた。だからぼくはこぶたちゃん。
 
-[絵本ナビの紹介](//www.ehonnavi.net/ehon/3837/%E3%81%A0%E3%81%8B%E3%82%89%E3%81%93%E3%81%B6%E3%81%9F%E3%81%A1%E3%82%83%E3%82%93/)&amp;nbsp;にもあるように、0才児〜でも読めるシンプルな絵本。リズムがとても軽快で、聞いている子供を飽きさせません。
+[絵本ナビの紹介](//www.ehonnavi.net/ehon/3837/%E3%81%A0%E3%81%8B%E3%82%89%E3%81%93%E3%81%B6%E3%81%9F%E3%81%A1%E3%82%83%E3%82%93/) にもあるように、0才児〜でも読めるシンプルな絵本。リズムがとても軽快で、聞いている子供を飽きさせません。
 
 でも、引用したように、こぶたちゃんがこぶたちゃんであるという意味について書いているのは、ちょっぴり哲学的。「おおきくなるまでこぶたちゃん」という締めもトートロジーっぽいですが、小難しい言葉をこねくり回さないで、こぶたちゃんはこぶたちゃんなんだよ、ということを教えてくれます。
 
@@ -65,7 +65,7 @@ posted with [amazlet](http://www.amazlet.com/ &quot;amazlet&quot;) at 13.12.06
 
 [ころ ころ ころ (福音館の幼児絵本)](http://www.amazon.co.jp/exec/obidos/ASIN/4834001113/ref=nosim/)
 
-posted with [amazlet](http://www.amazlet.com/ &quot;amazlet&quot;) at 13.12.06
+posted with [amazlet](http://www.amazlet.com/ "amazlet") at 13.12.06
 
 元永 定正  
 福音館書店  
@@ -93,7 +93,7 @@ posted with [amazlet](http://www.amazlet.com/ &quot;amazlet&quot;) at 13.12.06
 
 [たぬきのじどうしゃ (はじめてよむ絵本)](http://www.amazon.co.jp/exec/obidos/ASIN/4032400903/ref=nosim/)
 
-posted with [amazlet](http://www.amazlet.com/ &quot;amazlet&quot;) at 13.12.06
+posted with [amazlet](http://www.amazlet.com/ "amazlet") at 13.12.06
 
 長 新太  
 偕成社  
@@ -105,10 +105,10 @@ posted with [amazlet](http://www.amazlet.com/ &quot;amazlet&quot;) at 13.12.06
 
 衝撃的な絵本といえば、長新太の作品は群を抜くでしょう。この作品を読んだとき、五味太郎もかわいいものだな、と夫婦で大笑いしてしまいました。([絵本ナビ](http://www.ehonnavi.net/ehon/2120/%E3%81%9F%E3%81%AC%E3%81%8D%E3%81%AE%E3%81%98%E3%81%A9%E3%81%86%E3%81%97%E3%82%83/))
 
-&gt; 「かいぶつが でたのです。たすけてちょうだい。」  
-&gt; さかなに たのまれた たぬきの おじさんは、こわごわ、かわの ほうへ いってみました。  
-&gt; すると、かわの なかから かいぶつが でてきました。  
-&gt; さあ、たぬきの おじさんは どうずるでしょう？
+> 「かいぶつが でたのです。たすけてちょうだい。」  
+> さかなに たのまれた たぬきの おじさんは、こわごわ、かわの ほうへ いってみました。  
+> すると、かわの なかから かいぶつが でてきました。  
+> さあ、たぬきの おじさんは どうずるでしょう？
 
 この絵本が届いて、娘に読もうと帯に書かれているこの文言を読んだ時、「？？？」と頭が一瞬真っ白になり、次に「そんなバカな」と思い読み始めるわけです。
 

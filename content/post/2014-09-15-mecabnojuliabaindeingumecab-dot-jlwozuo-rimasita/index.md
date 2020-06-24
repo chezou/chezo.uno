@@ -26,11 +26,11 @@ Juliaから日本語形態素解析器として最も有名な[MeCab](https://co
 
 簡単な使い方は
 
-    Pkg.add(&quot;MeCab&quot;)
+    Pkg.add("MeCab")
 
 を一度していただければ、こんな感じでアクセスできます
 
-    using MeCab mecab = Mecab() results = parse(mecab, &quot;すももももももももものうち&quot;) for result in results println(result.surface, &quot;:&quot;, result.feature) end
+    using MeCab mecab = Mecab() results = parse(mecab, "すももももももももものうち") for result in results println(result.surface, ":", result.feature) end
 
 ## JuliaでCのコードをbindingするには
 
@@ -46,7 +46,7 @@ Juliaから日本語形態素解析器として最も有名な[MeCab](https://co
 
 すると、Julia側のコードはこう書けばよいのです。
 
-    argv = [&quot;a.out&quot;, &quot;arg1&quot;, &quot;arg2&quot;] ccall(:main, Int32, (Int32, Ptr{Ptr{Uint8}}), length(argv), argv)
+    argv = ["a.out", "arg1", "arg2"] ccall(:main, Int32, (Int32, Ptr{Ptr{Uint8}}), length(argv), argv)
 
 問題は、ポインタが帰ってくる場合どうすればいいのかです。  
 これは、意外と簡単で第二引数を`Ptr{Void}`で受けてあげれば良いです。
@@ -66,7 +66,7 @@ MeCabのtaggerの様にに、Cで確保したポインタを保持しておく�
 bicycle1885さんのこの記事を参考に、実装してみました。  
 [Juliaのデストラクター - りんごがでている](http://bicycle1885.hatenablog.com/entry/2014/03/16/113501)
 
-    type Mecab ptr::Ptr{Void} function Mecab(option::String = &quot;&quot;) argv = split(option) if(length(argv) == 0) argv = [&quot;&quot;] end ptr = ccall( (:mecab\_new, &quot;libmecab&quot;), Ptr{Void}, (Cint, Ptr{Ptr{Uint8}}), length(argv), argv ) if ptr == C\_NULL error(&quot;failed to create tagger&quot;) end smart\_p = new(ptr) finalizer(smart\_p, obj -\&gt; ccall((:mecab\_destroy, &quot;libmecab&quot;), Void, (Ptr{Void},), obj.ptr)) smart\_p end end
+    type Mecab ptr::Ptr{Void} function Mecab(option::String = "") argv = split(option) if(length(argv) == 0) argv = [""] end ptr = ccall( (:mecab\_new, "libmecab"), Ptr{Void}, (Cint, Ptr{Ptr{Uint8}}), length(argv), argv ) if ptr == C\_NULL error("failed to create tagger") end smart\_p = new(ptr) finalizer(smart\_p, obj -\> ccall((:mecab\_destroy, "libmecab"), Void, (Ptr{Void},), obj.ptr)) smart\_p end end
 
 ポイントは`finalizer`を実装すると、それがデストラクタとして働くということです。
 

@@ -19,10 +19,10 @@ projects: []
 ---
 1/23に開催された[Cookpad TechConf 2016](http://techconf.cookpad.com/)で、クックパッドの研究開発に関する取り組みを紹介させていただきました。
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/GEKzIf4kdyFWOF&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/GEKzIf4kdyFWOF" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[R&amp;D at Foodtech company - #CookpadTechConf 2016](https://www.slideshare.net/chezou/rd-at-foodtech-company-cookpad-techconf-2016 &quot;R&amp;D at Foodtech company - #CookpadTechConf 2016&quot;)** from **[Michiaki Ariga](http://www.slideshare.net/chezou)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/chezou/rd-at-foodtech-company-cookpad-techconf-2016&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[R&D at Foodtech company - #CookpadTechConf 2016](https://www.slideshare.net/chezou/rd-at-foodtech-company-cookpad-techconf-2016 "R&D at Foodtech company - #CookpadTechConf 2016")** from **[Michiaki Ariga](http://www.slideshare.net/chezou)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/chezou/rd-at-foodtech-company-cookpad-techconf-2016">www.slideshare.net</a></cite>
 
 メッセージとして伝えたかったことは、
 

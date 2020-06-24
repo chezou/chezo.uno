@@ -47,16 +47,16 @@ gitlabとかも試してみましたが、ドツボにはまったので結局Rh
 ユーザは、適当にadduserで作ってください。  
 今回はhgというユーザを作りました。
 
-    adduser&amp;nbsp;--system&amp;nbsp;--home&amp;nbsp;/home/hg/ --group&amp;nbsp;--shell&amp;nbsp;/bin/bash hg sudo&amp;nbsp;mkdir&amp;nbsp;&amp;nbsp;/var/www/rhodecode-venv sudo&amp;nbsp;chown hg:hg /var/www/rhodecode-venv virtualenv&amp;nbsp;--no-site-packages&amp;nbsp;/var/www/rhodecode-venv # hgが一般権限で利用できるようにする必要がある source&amp;nbsp;/var/www/rhodecode-venv/bin/activate sudo&amp;nbsp;mkdir&amp;nbsp;/var/www/rhodecode sudo&amp;nbsp;chown hg:hg /var/www/rhodecode cd&amp;nbsp;/var/www/rhodecode pip&amp;nbsp;install&amp;nbsp;rhodecode
+    adduser --system --home /home/hg/ --group --shell /bin/bash hg sudo mkdir  /var/www/rhodecode-venv sudo chown hg:hg /var/www/rhodecode-venv virtualenv --no-site-packages /var/www/rhodecode-venv # hgが一般権限で利用できるようにする必要がある source /var/www/rhodecode-venv/bin/activate sudo mkdir /var/www/rhodecode sudo chown hg:hg /var/www/rhodecode cd /var/www/rhodecode pip install rhodecode
 
 #### RabbitMqの導入
 一応入れました(結局使ってないかも？)
 
-    sudo&amp;nbsp;apt-get&amp;nbsp;install&amp;nbsp;rabbitmq-server
+    sudo apt-get install rabbitmq-server
 
 #### Rhodecodeの設定
 
-    cd&amp;nbsp;/var/www/rhodecode paster make-config RhodeCode production.ini paster setup-app production.ini
+    cd /var/www/rhodecode paster make-config RhodeCode production.ini paster setup-app production.ini
 
 途中で、リポジトリの場所、adminユーザの名前、パスワード、メールアドレスが求められる  
 実行する
@@ -68,13 +68,13 @@ gitlabとかも試してみましたが、ドツボにはまったので結局Rh
 hgユーザの言語設定を下記で解決。  
 日本語ja\_JP.UTF-8にしてMercurialをインストールすると、どうやらRhodeCodeがこける模様。
 
-    export&amp;nbsp;LC\_ALL=C
+    export LC\_ALL=C
 
 rhodecode-init.shを作成。
 
 ./rhodecode-init.sh
 
-    #!/bin/bash export&amp;nbsp;LC\_ALL=C source&amp;nbsp;/var/www/rhodecode-venv/bin/activate cd&amp;nbsp;/var/www/rhodecode paster serve production.ini
+    #!/bin/bash export LC\_ALL=C source /var/www/rhodecode-venv/bin/activate cd /var/www/rhodecode paster serve production.ini
 
 #### 実行方法
 とりあえず、起動時にrhodecode-init.shを実行することで運用しています。  

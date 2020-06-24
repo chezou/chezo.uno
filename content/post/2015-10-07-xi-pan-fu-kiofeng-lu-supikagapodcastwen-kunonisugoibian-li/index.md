@@ -19,7 +19,7 @@ projects: []
 ---
 前々からBluetoothのお風呂ラジオをほしいなーと思っていたのですが、昔に比べるとかなり安くなっていたので買いました。
 
-[![Patech　Bluetooth 3.0　ワイヤレススピーカー　内蔵マイク付　吸盤式対応　防水仕様　（ブルー）](https://ecx.images-amazon.com/images/I/51LFxG6wCzL._SL160_.jpg &quot;Patech　Bluetooth 3.0　ワイヤレススピーカー　内蔵マイク付　吸盤式対応　防水仕様　（ブルー）&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B00NFGTRNC/chezou-22/)
+[![Patech　Bluetooth 3.0　ワイヤレススピーカー　内蔵マイク付　吸盤式対応　防水仕様　（ブルー）](https://ecx.images-amazon.com/images/I/51LFxG6wCzL._SL160_.jpg "Patech　Bluetooth 3.0　ワイヤレススピーカー　内蔵マイク付　吸盤式対応　防水仕様　（ブルー）")](http://www.amazon.co.jp/exec/obidos/ASIN/B00NFGTRNC/chezou-22/)
 
 [Patech　Bluetooth 3.0　ワイヤレススピーカー　内蔵マイク付　吸盤式対応　防水仕様　（ブルー）](http://www.amazon.co.jp/exec/obidos/ASIN/B00NFGTRNC/chezou-22/)
 

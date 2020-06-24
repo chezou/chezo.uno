@@ -26,16 +26,16 @@ Finland大使館の後援の元行われた、モダンカンテレ奏者Ida Eli
 
 Ida Elina-Good News
 
-[youtube=[http://www.youtube.com/watch?v=XIpMxtf0nwI](http://www.youtube.com/watch?v=XIpMxtf0nwI)]
+{{< youtube XIpMxtf0nwI >}}
 
 彼女の曲は、フィンランドぽい暗さや重々しさよりもすがすがしさを感じさせます。  
 これで25歳とはこの先が楽しみであります。
 
 Ida Elina - Unelmien Keikka  
-[youtube=[http://www.youtube.com/watch?v=5N8ITa8omt4](http://www.youtube.com/watch?v=5N8ITa8omt4)]
+{{< youtube 5N8ITa8omt4 >}}
 
 Ida Elina - How sweet is the love  
-[youtube=[http://www.youtube.com/watch?v=qajPRaTKAjg](http://www.youtube.com/watch?v=qajPRaTKAjg)]
+{{< youtube qajPRaTKAjg >}}
 
 個人的には初期に作ったというFinland語の曲も、言葉の響きが暖かくて好きです。
 

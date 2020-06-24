@@ -21,7 +21,7 @@ Spark Summit 2016でもトークがあったSparkのREST serverであるlivyで�
 
 Jupyterって何？という方は簡単に言うと、ブラウザで各種言語のREPLが動くものと思ってもらえばいいです。 詳細は過去に書いた以下の記事を読んでみてください。
 
-&lt;iframe src=&quot;http://techlife.cookpad.com/embed/write-once-share-anywhare&quot; title=&quot;現代のエンジニアのための強力なメモ帳 Jupyter notebookのすゝめ - クックパッド開発者ブログ&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://techlife.cookpad.com/entry/write-once-share-anywhare&quot;&gt;techlife.cookpad.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://techlife.cookpad.com/embed/write-once-share-anywhare" title="現代のエンジニアのための強力なメモ帳 Jupyter notebookのすゝめ - クックパッド開発者ブログ" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://techlife.cookpad.com/entry/write-once-share-anywhare">techlife.cookpad.com</a></cite>
 
 # livyとは
 
@@ -94,7 +94,7 @@ livy.confに以下の1行を追加しないとYARN modeで起動しない
 
 別のterminalで動作確認をする
 
-    $ curl localhost:8998/sessions{&quot;from&quot;:0,&quot;total&quot;:0,&quot;sessions&quot;:[]}
+    $ curl localhost:8998/sessions{"from":0,"total":0,"sessions":[]}
 
 デフォルトで8998番のportが使われるので、必要に応じてportを開けるなりsshでport forwardingしてください。
 
@@ -120,7 +120,7 @@ wrapper kernelを入れます。`pip show sparkmagic`のLocation以下で実行�
 
 notebookの例はこちら
 
-&lt;script src=&quot;https://gist.github.com/chezou/88568ce2bb620107cfdbdd20f0c966ae.js&quot;&gt; &lt;/script&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://gist.github.com/chezou/88568ce2bb620107cfdbdd20f0c966ae&quot;&gt;gist.github.com&lt;/a&gt;&lt;/cite&gt;
+<script src="https://gist.github.com/chezou/88568ce2bb620107cfdbdd20f0c966ae.js"> </script><cite class="hatena-citation"><a href="https://gist.github.com/chezou/88568ce2bb620107cfdbdd20f0c966ae">gist.github.com</a></cite>
 
 gistには出てませんが、こんな感じでSparkに対してSQLで処理した結果を簡単にvisualiseできます。sparkmagicすごい！
 

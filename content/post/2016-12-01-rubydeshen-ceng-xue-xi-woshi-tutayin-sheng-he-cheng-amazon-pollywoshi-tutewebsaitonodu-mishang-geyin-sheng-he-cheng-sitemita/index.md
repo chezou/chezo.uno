@@ -26,19 +26,19 @@ projects: []
 
 [Amazon Polly – Lifelike Text-to-Speech](https://aws.amazon.com/jp/polly/)
 
-**[2016/12/02追記]**PollyがDLベースという話は [https://aws.amazon.com/jp/polly/](https://aws.amazon.com/jp/polly/) に、&quot;Polly is an Amazon AI service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. &quot;と書かれていますが、DNNを一部のモジュールとして使っている波形接続型じゃないの？とのことです。なので、「DLを使った」という表現に修正しました。
+**[2016/12/02追記]**PollyがDLベースという話は [https://aws.amazon.com/jp/polly/](https://aws.amazon.com/jp/polly/) に、"Polly is an Amazon AI service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. "と書かれていますが、DNNを一部のモジュールとして使っている波形接続型じゃないの？とのことです。なので、「DLを使った」という表現に修正しました。
 
-&gt; Amazon Polly sounds like concatenative TTS, neither parametric nor WaveNet. I can hear concatenation glitches in its samples.
-&gt; 
-&gt; — Heiga Zen (@heiga\_zen) [2016年12月1日](https://twitter.com/heiga_zen/status/804202482780008448)
+> Amazon Polly sounds like concatenative TTS, neither parametric nor WaveNet. I can hear concatenation glitches in its samples.
+> 
+> — Heiga Zen (@heiga\_zen) [2016年12月1日](https://twitter.com/heiga_zen/status/804202482780008448)
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-&gt; [@chezou](https://twitter.com/chezou) [@ballforest](https://twitter.com/ballforest) 多分DNNをどこかのモジュールで使ってる単位選択型です。Appleもそうだったりします。
-&gt; 
-&gt; — Heiga Zen (@heiga\_zen) [2016年12月2日](https://twitter.com/heiga_zen/status/804503598675750913)
+> [@chezou](https://twitter.com/chezou) [@ballforest](https://twitter.com/ballforest) 多分DNNをどこかのモジュールで使ってる単位選択型です。Appleもそうだったりします。
+> 
+> — Heiga Zen (@heiga\_zen) [2016年12月2日](https://twitter.com/heiga_zen/status/804503598675750913)
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 なので、[DeepMindのWaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)のように音声を直接生成しているわけではなさそうです。
 
@@ -50,7 +50,7 @@ Pollyが凄いのは、AWS CLIで簡単に音声合成がされるというこ�
 
 AWS CLIを使ったbashのサンプルコードはこんな感じです。かんたんでしょ？
 
-    $ aws polly synthesize-speech \ --output-format mp3 --voice-id Joanna \ --text &quot;Hello my name is Joanna.&quot; \ joanna.mp3
+    $ aws polly synthesize-speech \ --output-format mp3 --voice-id Joanna \ --text "Hello my name is Joanna." \ joanna.mp3
 
 また、サポートしている言語数も2016/12/01現在で、ヨーロッパ言語を中心に以下の24言語をサポートしています。
 
@@ -82,24 +82,24 @@ AWS CLIを使ったbashのサンプルコードはこんな感じです。かん
 日本語も聞いていて結構自然に聞こえており、ちょいちょい単語の認識に失敗するときは変なアクセントになりますが、レキシコンで単語を登録すれば自分で改善もできそうです。 サンプル音声はこんな感じです。
 
 [http://chezou.tumblr.com/post/153883804175/amazon](http://chezou.tumblr.com/post/153883804175/amazon)
-&lt;script async src=&quot;https://assets.tumblr.com/post.js&quot;&gt;&lt;/script&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://chezou.tumblr.com/post/153883804175/amazon&quot;&gt;chezou.tumblr.com&lt;/a&gt;&lt;/cite&gt;
+<script async src="https://assets.tumblr.com/post.js"></script><cite class="hatena-citation"><a href="http://chezou.tumblr.com/post/153883804175/amazon">chezou.tumblr.com</a></cite>
 
 [2016/12/02追記] Google翻訳に手伝ってもらって[英語版をMediumに書きました](https://medium.com/@chezou/text-to-speech-for-web-site-using-amazon-polly-and-ruby-adc1923212cb#.3qioau2o4)。それの生成した音声も貼っておきます。
 
-&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?visual=true&amp;amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F295800373&amp;amp;show_artwork=true&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://soundcloud.com/chezou/amazon-polly-tts-demo-from-medium-article&quot;&gt;soundcloud.com&lt;/a&gt;&lt;/cite&gt;
+<iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F295800373&amp;show_artwork=true"></iframe><cite class="hatena-citation"><a href="https://soundcloud.com/chezou/amazon-polly-tts-demo-from-medium-article">soundcloud.com</a></cite>
 
 [/追記]
 
 で、Mediumなんかの記事の中に面白い記事をよく見るのですが、英文だとなかなか途中で挫折するので、音声にすれば聞くんじゃないかと思い、記事を音声に変換するコードをRubyで書いてみました。 以下にコードがあります。
 
-&lt;script src=&quot;https://gist.github.com/chezou/9919f5065cbc52f8d0349d3084ac3616.js&quot;&gt; &lt;/script&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://gist.github.com/chezou/9919f5065cbc52f8d0349d3084ac3616&quot;&gt;gist.github.com&lt;/a&gt;&lt;/cite&gt;
+<script src="https://gist.github.com/chezou/9919f5065cbc52f8d0349d3084ac3616.js"> </script><cite class="hatena-citation"><a href="https://gist.github.com/chezou/9919f5065cbc52f8d0349d3084ac3616">gist.github.com</a></cite>
 
 ポイントとしては、幾つか重要な制約があります。
 
 - API一回あたりの文字数が1500字\*1（なので、catでmp3を結合している）
 - 長い音声は、5分以降が切り捨てられる
 
-詳細は以下を参考にしてください。&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Fdocs.aws.amazon.com%2Fpolly%2Flatest%2Fdg%2Flimits.html&quot; title=&quot;Limits in Amazon Polly - Amazon Polly&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://docs.aws.amazon.com/polly/latest/dg/limits.html&quot;&gt;docs.aws.amazon.com&lt;/a&gt;&lt;/cite&gt;
+詳細は以下を参考にしてください。<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fdocs.aws.amazon.com%2Fpolly%2Flatest%2Fdg%2Flimits.html" title="Limits in Amazon Polly - Amazon Polly" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://docs.aws.amazon.com/polly/latest/dg/limits.html">docs.aws.amazon.com</a></cite>
 
 実際には、ちょうどHckr newsで見つけた以下の記事の音声を聞いてみました。意外と聞けます。
 
@@ -109,6 +109,6 @@ AWS CLIを使ったbashのサンプルコードはこんな感じです。かん
 
 正直、安くて多言語でそれなりに自然で何よりAPIが使いやすいということで、既存の日本の音声合成を頑張ってきた企業は大変だなぁという気持ちになりますが、いろいろな使い方ができそうで楽しみです。
 
-\*1:厳密には、&quot;1500 billed characters (3000 total characters)&quot;と書いてあるけど&quot;billed characters&quot;がわからない
+\*1:厳密には、"1500 billed characters (3000 total characters)"と書いてあるけど"billed characters"がわからない
 
 

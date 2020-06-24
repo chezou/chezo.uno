@@ -19,7 +19,7 @@ projects: []
 ---
 はじめてPyConJPに参加してきました。
 
-スライドまとめは以下が詳しいです。&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=https%3A%2F%2Ftechstars.jp%2Fblog%2Fpycon15-1%2F&quot; title=&quot;もう確認した？PyCon JP 2015、公開済み全スライドまとめ #pyconjp&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://techstars.jp/blog/pycon15-1/&quot;&gt;techstars.jp&lt;/a&gt;&lt;/cite&gt;
+スライドまとめは以下が詳しいです。<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Ftechstars.jp%2Fblog%2Fpycon15-1%2F" title="もう確認した？PyCon JP 2015、公開済み全スライドまとめ #pyconjp" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://techstars.jp/blog/pycon15-1/">techstars.jp</a></cite>
 
 最近、会社ではJupyter notebookの伝道師として振る舞っており\*1、その結果として空前のpandasブームを巻き起こしました。 データ分析/機械学習といえばPythonだよね、というのは[1年以上も前からわかっていたのですが](http://chezou.hatenablog.com/entry/20140118/1389978078)、pandas-tdを契機に使い始めてからかなり傾倒しています。\*2
 
@@ -29,18 +29,18 @@ projects: []
 
 ## pandasによるデータ加工時の注意点やライブラリの話
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/s8lo31mVVJSQb7&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/s8lo31mVVJSQb7" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[pandasによるデータ加工時の注意点やライブラリの話](https://www.slideshare.net/c-bata/pandas-53769651 &quot;pandasによるデータ加工時の注意点やライブラリの話&quot;)** from **[Masashi Shibata](http://www.slideshare.net/c-bata)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/c-bata/pandas-53769651&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[pandasによるデータ加工時の注意点やライブラリの話](https://www.slideshare.net/c-bata/pandas-53769651 "pandasによるデータ加工時の注意点やライブラリの話")** from **[Masashi Shibata](http://www.slideshare.net/c-bata)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/c-bata/pandas-53769651">www.slideshare.net</a></cite>
 
 pandasのDataFrameは便利だけど中のデータが保証されないから辛かったので、[panads-validator](https://github.com/c-bata/pandas-validator)作ったよという[c-bata](https://github.com/c-bata/)さんの話。 JSON schemaっぽいなと思いました。
 
 ## Daskの話とpandas internal
 
-&lt;iframe allowfullscreen=&quot;true&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot; height=&quot;596&quot; id=&quot;talk_frame_314840&quot; mozallowfullscreen=&quot;true&quot; src=&quot;//speakerdeck.com/player/1cca96cdcee843fda18f93f8b20c9485&quot; style=&quot;border:0; padding:0; margin:0; background:transparent;&quot; webkitallowfullscreen=&quot;true&quot; width=&quot;710&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://speakerdeck.com/sinhrks/pyconjp-2015-dask-qing-liang-bing-lie-ji-suan-huremuwaku-lightning-talks&quot;&gt;speakerdeck.com&lt;/a&gt;&lt;/cite&gt;
+<iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" id="talk_frame_314840" mozallowfullscreen="true" src="//speakerdeck.com/player/1cca96cdcee843fda18f93f8b20c9485" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"></iframe><cite class="hatena-citation"><a href="https://speakerdeck.com/sinhrks/pyconjp-2015-dask-qing-liang-bing-lie-ji-suan-huremuwaku-lightning-talks">speakerdeck.com</a></cite>
 
-&lt;iframe allowfullscreen=&quot;true&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot; height=&quot;596&quot; id=&quot;talk_frame_314858&quot; mozallowfullscreen=&quot;true&quot; src=&quot;//speakerdeck.com/player/d3fa3c6563a54ac18e321b8d01a6899c&quot; style=&quot;border:0; padding:0; margin:0; background:transparent;&quot; webkitallowfullscreen=&quot;true&quot; width=&quot;710&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://speakerdeck.com/sinhrks/pyconjp-2015-pandas-internals&quot;&gt;speakerdeck.com&lt;/a&gt;&lt;/cite&gt;
+<iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" id="talk_frame_314858" mozallowfullscreen="true" src="//speakerdeck.com/player/d3fa3c6563a54ac18e321b8d01a6899c" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"></iframe><cite class="hatena-citation"><a href="https://speakerdeck.com/sinhrks/pyconjp-2015-pandas-internals">speakerdeck.com</a></cite>
 
 pandasとDaskのコミッターである[sinhrks](https://twitter.com/sinhrks)さんの発表。 pandasはSciPyの10倍以上のCythonの塊であるとかCategorical Value\*3を使ったほうが速くなるよとか、pandasの速度出すためのtipsや背景がしれたのは良かったです。また、データ量が増えてきたらDaskのDataFrameを使うと並列処理できるよ、というのも知っていたけどマイクロベンチとともに提示されると使って見たい気持ちが高まりました。
 
@@ -48,10 +48,10 @@ pandasとDaskのコミッターである[sinhrks](https://twitter.com/sinhrks)�
 
 ## Pythonで作って学ぶ形態素解析
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/juSG2RLMPcdLMf&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/juSG2RLMPcdLMf" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[Pyconjp2015 - Python で作って学ぶ形態素解析](https://www.slideshare.net/tomokouchida505/pyconjp2015-python &quot;Pyconjp2015 - Python で作って学ぶ形態素解析&quot;)** from **[Tomoko Uchida](http://www.slideshare.net/tomokouchida505)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/tomokouchida505/pyconjp2015-python&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[Pyconjp2015 - Python で作って学ぶ形態素解析](https://www.slideshare.net/tomokouchida505/pyconjp2015-python "Pyconjp2015 - Python で作って学ぶ形態素解析")** from **[Tomoko Uchida](http://www.slideshare.net/tomokouchida505)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/tomokouchida505/pyconjp2015-python">www.slideshare.net</a></cite>
 
 IPADICを使って、pure pythonで実装されたMeCab互換の形態素解析器janomeについて、作者の[moco\_beta](https://twitter.com/moco_beta)さんが丁寧に解説してくれました。特にFSTの話はなるほど、図解が分かりやすく良かったです。ただ、いつもフォントサイズが小さいのはなんでだろう...。
 
@@ -59,18 +59,18 @@ IPADICを使って、pure pythonで実装されたMeCab互換の形態素解析�
 
 ## アドネットワークのデータ解析を支える技術
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/gJTagoecnaoT6n&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/gJTagoecnaoT6n" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[アドネットワークのデータ解析チームを支える技術](https://www.slideshare.net/hagino_3000/ss-53786917 &quot;アドネットワークのデータ解析チームを支える技術&quot;)** from **[hagino 3000](http://www.slideshare.net/hagino_3000)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/hagino_3000/ss-53786917&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[アドネットワークのデータ解析チームを支える技術](https://www.slideshare.net/hagino_3000/ss-53786917 "アドネットワークのデータ解析チームを支える技術")** from **[hagino 3000](http://www.slideshare.net/hagino_3000)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/hagino_3000/ss-53786917">www.slideshare.net</a></cite>
 
 Voyage groupでこの夏[MLSSにも参加された](http://techlog.voyagegroup.com/entry/mlss2015kyoto) [hagino3000](https://twitter.com/hagino3000)さんのデータ解析チームの話。
 
 特に、14ページ目の広告の広告主、メディア、オーディエンス、Voyage groupのプレーヤーに応じた4つの取り組むべき問題が分かりやすかったので引用します。
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/gJTagoecnaoT6n?startSlide=14&quot; width=&quot;425&quot; height=&quot;355&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/gJTagoecnaoT6n?startSlide=14" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[アドネットワークのデータ解析チームを支える技術](//www.slideshare.net/hagino_3000/ss-53786917 &quot;アドネットワークのデータ解析チームを支える技術&quot;)** from **[hagino 3000](//www.slideshare.net/hagino_3000)** 
+  **[アドネットワークのデータ解析チームを支える技術](//www.slideshare.net/hagino_3000/ss-53786917 "アドネットワークのデータ解析チームを支える技術")** from **[hagino 3000](//www.slideshare.net/hagino_3000)** 
 
 また、BigQuery版のpandas-tdである[pandas.io.gbq](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.io.gbq.read_gbq.html)の存在が分かったのも収穫でした。VoyageさんでもJupyter notebookをリポジトリで管理して情報を共有しているとのことなので、自分の選択は間違っていなかったなという気持ちです。
 

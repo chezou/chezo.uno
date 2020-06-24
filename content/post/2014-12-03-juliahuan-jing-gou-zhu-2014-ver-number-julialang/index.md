@@ -76,11 +76,11 @@ PPAを使ってaptで取得できるようにするのが楽です。
 
 14.10からは普通に`apt-get install julia`で入るようです
 
-&gt; [@chezou](https://twitter.com/chezou) Julia は Ubuntu 14.10 で普通に apt-get できるし、いずれ追加するつもりですよ
-&gt; 
-&gt; — Yusuke Endoh (@mametter) [2014, 11月 11](https://twitter.com/mametter/status/532174800970461186)
+> [@chezou](https://twitter.com/chezou) Julia は Ubuntu 14.10 で普通に apt-get できるし、いずれ追加するつもりですよ
+> 
+> — Yusuke Endoh (@mametter) [2014, 11月 11](https://twitter.com/mametter/status/532174800970461186)
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ### Nightly
 
     $ sudo apt-add-repository ppa:staticfloat/julianightlies $ sudo apt-add-repository ppa:staticfloat/julia-deps $ sudo apt-get update $ sudo apt-get install julia
@@ -97,18 +97,18 @@ IPythonの環境を入れるのがだるいので、Pythonの環境がまだな�
 
 少し前のですが下記のサイトやIJulia本家の記述が参考になりますが、こちらにも簡単にまとめておきます。
 
-&lt;iframe src=&quot;http://hatenablog.com/embed?url=http%3A%2F%2Fd.hatena.ne.jp%2Fisobe1978%2F20131128%2F1385646377&quot; title=&quot;IPython(Anaconda)とIJuliaが凄すぎる件 - アドファイブ日記&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;a href=&quot;http://d.hatena.ne.jp/isobe1978/20131128/1385646377&quot;&gt;IPython(Anaconda)とIJuliaが凄すぎる件 - アドファイブ日記&lt;/a&gt;&lt;/iframe&gt;
+<iframe src="http://hatenablog.com/embed?url=http%3A%2F%2Fd.hatena.ne.jp%2Fisobe1978%2F20131128%2F1385646377" title="IPython(Anaconda)とIJuliaが凄すぎる件 - アドファイブ日記" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://d.hatena.ne.jp/isobe1978/20131128/1385646377">IPython(Anaconda)とIJuliaが凄すぎる件 - アドファイブ日記</a></iframe>
 
 [IPython(Anaconda)とIJuliaが凄すぎる件 - アドファイブ日記](http://d.hatena.ne.jp/isobe1978/20131128/1385646377)
 
-&lt;iframe src=&quot;http://hatenablog.com/embed?url=https%3A%2F%2Fgithub.com%2FJuliaLang%2FIJulia.jl&quot; title=&quot;JuliaLang/IJulia.jl&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;a href=&quot;https://github.com/JuliaLang/IJulia.jl&quot;&gt;JuliaLang/IJulia.jl&lt;/a&gt;&lt;/iframe&gt;
+<iframe src="http://hatenablog.com/embed?url=https%3A%2F%2Fgithub.com%2FJuliaLang%2FIJulia.jl" title="JuliaLang/IJulia.jl" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="https://github.com/JuliaLang/IJulia.jl">JuliaLang/IJulia.jl</a></iframe>
 
 [JuliaLang/IJulia.jl · GitHub](https://github.com/JuliaLang/IJulia.jl)
 
 1. [anacondaをダウンロード](http://continuum.io/downloads)して入れる
 2. IJuliaを入れる
 
-    Pkg.add(&quot;IJulia&quot;)
+    Pkg.add("IJulia")
 
 anacondaが入っていればこれで大丈夫なはずです。後は下記でIJuliaを起動後、適当なノートブックを作って試しましょう。
 
@@ -116,7 +116,7 @@ anacondaが入っていればこれで大丈夫なはずです。後は下記で
 
 便利なショートカットはこちら
 
-&lt;iframe src=&quot;http://hatenablog.com/embed?url=http%3A%2F%2Fd.hatena.ne.jp%2Fakamegane%2F20120409%231333983569&quot; title=&quot;ipython 0.12 の notebook&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;a href=&quot;http://d.hatena.ne.jp/akamegane/20120409#1333983569&quot;&gt;ipython 0.12 の notebook&lt;/a&gt;&lt;/iframe&gt;
+<iframe src="http://hatenablog.com/embed?url=http%3A%2F%2Fd.hatena.ne.jp%2Fakamegane%2F20120409%231333983569" title="ipython 0.12 の notebook" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://d.hatena.ne.jp/akamegane/20120409#1333983569">ipython 0.12 の notebook</a></iframe>
 
 [ipython 0.12 の notebook - akameganeの日記](http://d.hatena.ne.jp/akamegane/20120409#1333983569)
 
@@ -126,7 +126,7 @@ emacsやvimでjuliaのプラグインを入れるのも良いと思いますし�
 
 [Sublime-IJulia](https://github.com/quinnj/Sublime-IJulia)もあるようですが使ったことがありません。
 
-&lt;iframe src=&quot;http://hatenablog.com/embed?url=http%3A%2F%2Fqiita.com%2Fchezou%2Fitems%2F5070bde5dc6647e55af3&quot; title=&quot;Lightable - LightTable + JewelでJuliaの環境を作る - Qiita&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;a href=&quot;http://qiita.com/chezou/items/5070bde5dc6647e55af3&quot;&gt;Lightable - LightTable + JewelでJuliaの環境を作る - Qiita&lt;/a&gt;&lt;/iframe&gt;
+<iframe src="http://hatenablog.com/embed?url=http%3A%2F%2Fqiita.com%2Fchezou%2Fitems%2F5070bde5dc6647e55af3" title="Lightable - LightTable + JewelでJuliaの環境を作る - Qiita" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://qiita.com/chezou/items/5070bde5dc6647e55af3">Lightable - LightTable + JewelでJuliaの環境を作る - Qiita</a></iframe>
 
 [Lightable - LightTable + JewelでJuliaの環境を作る - Qiita](http://qiita.com/chezou/items/5070bde5dc6647e55af3)
 
@@ -134,17 +134,17 @@ emacsやvimでjuliaのプラグインを入れるのも良いと思いますし�
 
 JuliaのREPLは実はかなり強力で、対話的に開発したいだけならREPLだけで良いという人もいます。
 
-&gt; すごい大事な話を忘れていた。これがJuliaのREPLの補完力です [#JuliaTokyo](https://twitter.com/hashtag/JuliaTokyo?src=hash) [pic.twitter.com/Ns5FqG6j80](http://t.co/Ns5FqG6j80)
-&gt; 
-&gt; — chezou (@chezou) [2014, 7月 5](https://twitter.com/chezou/status/485465372695339009)
+> すごい大事な話を忘れていた。これがJuliaのREPLの補完力です [#JuliaTokyo](https://twitter.com/hashtag/JuliaTokyo?src=hash) [pic.twitter.com/Ns5FqG6j80](http://t.co/Ns5FqG6j80)
+> 
+> — chezou (@chezou) [2014, 7月 5](https://twitter.com/chezou/status/485465372695339009)
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-&gt; juliaのREPL凄い便利。タブを押すとこういう奴らがいることがわかるが、何が凄いかって `∛ 8`で2.0って返ってくる所 [pic.twitter.com/LQwOV6t2tQ](http://t.co/LQwOV6t2tQ)
-&gt; 
-&gt; — chezou (@chezou) [2014, 6月 23](https://twitter.com/chezou/status/480941416533610496)
+> juliaのREPL凄い便利。タブを押すとこういう奴らがいることがわかるが、何が凄いかって `∛ 8`で2.0って返ってくる所 [pic.twitter.com/LQwOV6t2tQ](http://t.co/LQwOV6t2tQ)
+> 
+> — chezou (@chezou) [2014, 6月 23](https://twitter.com/chezou/status/480941416533610496)
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 僕自身は、なんだかんだでREPL+SublimeTextで書くことが多いです。
 

@@ -1,5 +1,5 @@
 ---
-title: "#JapanR で話題だった「データサイエンティスト養成読本R活用編(通称&amp;quot;Julia入門本&amp;quot;)」を読みました #JuliaAC"
+title: "#JapanR で話題だった「データサイエンティスト養成読本R活用編(通称"Julia入門本")」を読みました #JuliaAC"
 subtitle: ""
 summary: ""
 authors: [aki]
@@ -34,7 +34,7 @@ projects: []
 
 が展開されています。
 
-&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=chezou-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=4774170577&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;iframe src=&quot;http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;amp;bc1=000000&amp;amp;IS2=1&amp;amp;bg1=FFFFFF&amp;amp;fc1=000000&amp;amp;lc1=0000FF&amp;amp;t=chezou-22&amp;amp;o=9&amp;amp;p=8&amp;amp;l=as4&amp;amp;m=amazon&amp;amp;f=ifr&amp;amp;ref=ss_til&amp;amp;asins=4774158968&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+<iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=chezou-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=4774170577" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe><iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=chezou-22&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=4774158968" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 表紙を見ていただくとわかりますが、「Julia入門」の文字がでかでかと掲げられています。凄い。 日本の商業誌ではJuliaについて書かれた本は、おそらくはじめてだろうとのことです\*1。
 

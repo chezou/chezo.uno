@@ -1,5 +1,5 @@
 ---
-title: "RubyKaigi行ってきました &amp;amp; RubyHirobaで「神奈川Ruby会議01」告知LTしてきました #rubykaigi #rubyhiroba #kana01"
+title: "RubyKaigi行ってきました &amp; RubyHirobaで「神奈川Ruby会議01」告知LTしてきました #rubykaigi #rubyhiroba #kana01"
 subtitle: ""
 summary: ""
 authors: [aki]
@@ -21,9 +21,9 @@ projects: []
 
 # RubyKaigi
 
-- &quot;Inside RubyMotion for Android&quot;がやばかった。まさか、REPLを使ってAndroidのviewを動的に変更しているデモを見られるとは
-- @tmm1氏の&quot;Ruby 2.1 in Production&quot;がとにかく&quot;Profile! Profile! Profile!&quot;ということで、Ruby2.1に上げるまでに徹底的にプロファイルツールを作成して遅いところを潰していく姿勢に会場とともにため息ばかりついた
-- 須藤さんの&quot;Three Ruby usages - High-level interface, Glue and Embedding - Inside Droonga&quot;を聞いていると、GlueとしてのRubyをSWIG以外の方法でも触るべきだと感じた。JuliaはCしか叩けないけど、割りと楽なんだよな
+- "Inside RubyMotion for Android"がやばかった。まさか、REPLを使ってAndroidのviewを動的に変更しているデモを見られるとは
+- @tmm1氏の"Ruby 2.1 in Production"がとにかく"Profile! Profile! Profile!"ということで、Ruby2.1に上げるまでに徹底的にプロファイルツールを作成して遅いところを潰していく姿勢に会場とともにため息ばかりついた
+- 須藤さんの"Three Ruby usages - High-level interface, Glue and Embedding - Inside Droonga"を聞いていると、GlueとしてのRubyをSWIG以外の方法でも触るべきだと感じた。JuliaはCしか叩けないけど、割りと楽なんだよな
 - amaで@gogo\_tanakaさんの質問「数値計算にもRubyが盛り上がらないんですか？」の回答を聴くと、感覚が少しずれているなーと感じた。多分、ユーザがやりたいのは数値計算をして仕事をしたいのであって、数値計算ライブラリを作りたいわけではないという点に尽きるかなと。数式知らなくてもSVDしたい、みたいな
 - 会期中に意識高まって、Juliaのpackageを2つリリースメール流した [★](https://groups.google.com/d/msg/julia-users/b4QvWps_7x4/6zdod5tXRT0J) [★](https://groups.google.com/d/msg/julia-users/YFN2v4C7URg/OgjNSvDILP0J)
 
@@ -37,7 +37,7 @@ projects: []
 
   - Jekyll in another Jekyll辛かったけど、会期中に解決できてよかった
 
-[slideshare id=39335806&amp;doc=hiroba2014-140921015201-phpapp01]
+[slideshare id=39335806&doc=hiroba2014-140921015201-phpapp01]
 
 - iruby notebookの紹介は東急できちんと準備してやりなおそうと思います
 - [rubima](https://github.com/rubima/rubima/issues)にコミュニティ紹介の記事を書いて投稿するとよいと@muryoimplさんに言われました

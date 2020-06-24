@@ -21,7 +21,7 @@ Sphinxでmarkdown拡張を扱うためのrecommonmarkというライブラリが
 
 詳細は以下のエントリにやり方がまとまっています。
 
-&lt;iframe src=&quot;http://tech.3rd-p-zombie.net/embed/2015/12/02/023732&quot; title=&quot;MarkdownでSphinxできるようになったので試してみた（後編） - 意識の高いLISPマシン&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://tech.3rd-p-zombie.net/entry/2015/12/02/023732&quot;&gt;tech.3rd-p-zombie.net&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://tech.3rd-p-zombie.net/embed/2015/12/02/023732" title="MarkdownでSphinxできるようになったので試してみた（後編） - 意識の高いLISPマシン" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://tech.3rd-p-zombie.net/entry/2015/12/02/023732">tech.3rd-p-zombie.net</a></cite>
 
 実は、このrecommonmarkはconfigに設定を書くだけで、数式をmarkdownの中に埋め込めるのでした。
 
@@ -53,15 +53,15 @@ conf.pyの上の方に以下をimportし、
 
 [追記]
 
-&gt; [@chezou](https://twitter.com/chezou) 数式番号ですが、conf.py に math\_number\_all = True を入れるとどうなりますか [https://t.co/tH2ouf7Hk6](https://t.co/tH2ouf7Hk6)
-&gt; 
-&gt; — shirou - しろう (@r\_rudi) [2017年1月22日](https://twitter.com/r_rudi/status/823117959572832257)
+> [@chezou](https://twitter.com/chezou) 数式番号ですが、conf.py に math\_number\_all = True を入れるとどうなりますか [https://t.co/tH2ouf7Hk6](https://t.co/tH2ouf7Hk6)
+> 
+> — shirou - しろう (@r\_rudi) [2017年1月22日](https://twitter.com/r_rudi/status/823117959572832257)
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 conf.pyに`math_number_all = True`を足せば数式がでました。ですが、参照はできないと思うので参照が必要な場合はreSTで書く必要があると思います。
 
-[![](https://bot.gyazo.com/c1685a433683cd99590bba5cb6748bae.png)](https://bot.gyazo.com/c1685a433683cd99590bba5cb6748bae.png)&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://gyazo.com/c1685a433683cd99590bba5cb6748bae&quot;&gt;gyazo.com&lt;/a&gt;&lt;/cite&gt;
+[![](https://bot.gyazo.com/c1685a433683cd99590bba5cb6748bae.png)](https://bot.gyazo.com/c1685a433683cd99590bba5cb6748bae.png)<cite class="hatena-citation"><a href="https://gyazo.com/c1685a433683cd99590bba5cb6748bae">gyazo.com</a></cite>
 
 [/追記]
 

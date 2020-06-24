@@ -34,7 +34,7 @@ projects: []
 教会の少年合唱団あがりということで、キングス系？という声も。バンキエーリとかとは違うのかなぁ。  
 スケジュールは11/26,27,28,29。ちょっと行ってみたい。  
   
-○[Take 6＠ビルボードライブ東京](http://www.billboard-live.com/pg/shop/show/index.php?mode=detail1&amp;event=6658&amp;shop=1)  
+○[Take 6＠ビルボードライブ東京](http://www.billboard-live.com/pg/shop/show/index.php?mode=detail1&event=6658&shop=1)  
 以前、Rockapellaが来たおされな六本木のビルボードでTake 6がくるらしい。  
 1/24〜27って、無理だろうなぁ……。色々な意味で。  
   

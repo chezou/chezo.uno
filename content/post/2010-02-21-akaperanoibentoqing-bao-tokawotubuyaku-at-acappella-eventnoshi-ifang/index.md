@@ -19,11 +19,11 @@ projects: []
 ---
 [以前の記事](http://chezou.wordpress.com/2010/01/20/%e5%90%88%e5%94%b1%e3%81%a8%e3%82%a2%e3%82%ab%e3%83%9a%e3%83%a9%e3%81%ae%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc%e3%82%92google-calendar%e3%81%a7%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f/)でも少し書いていたんですが、twitterで[@acappella\_event](http://twitter.com/acappella_event)というbotを作りました。前から少しずつ色々試していたのですが、ようやく基本的なところができたので使い方を簡単にまとめたものを残しておきます。
 
-&gt; @[acappella\_event](http://twitter.com/acappella_event)は  
-&gt; 1)合唱/アカペラについて検索して投稿  
-&gt; 2)@を飛ばされるとそれをリツイート  
-&gt; 3) [http://bit.ly/caTSPZ](http://bit.ly/caTSPZ) のアカペラ/合唱カレンダーから当日のイベント情報を投稿(する予定)  
-&gt; の3つをするbotです。
+> @[acappella\_event](http://twitter.com/acappella_event)は  
+> 1)合唱/アカペラについて検索して投稿  
+> 2)@を飛ばされるとそれをリツイート  
+> 3) [http://bit.ly/caTSPZ](http://bit.ly/caTSPZ) のアカペラ/合唱カレンダーから当日のイベント情報を投稿(する予定)  
+> の3つをするbotです。
 
 [http://twitter.com/chezou/status/9383246402](http://twitter.com/chezou/status/9383246402) より抜粋。
 

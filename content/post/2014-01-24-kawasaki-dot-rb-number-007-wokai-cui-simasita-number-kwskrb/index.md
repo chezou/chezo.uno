@@ -27,7 +27,7 @@ togetterのまとめはこちら
 
 パーフェクトRubyは、2.6のモジュールまでやりました。
 
-## chezou &quot;Active ModelとNaive Bayesを仲良くする baby\_faceを使ってみた&quot;
+## chezou "Active ModelとNaive Bayesを仲良くする baby\_faceを使ってみた"
 
 [http://www.slideshare.net/chezou/merone-upload-29446373](http://www.slideshare.net/chezou/merone-upload-29446373)
 
@@ -38,13 +38,13 @@ BabyFaceはActiveModelなどとナイーブベイズ分類器とをつなぎ合�
 
 ポイントとしては、学習が
 
-    def self.create\_with\_train(text, category) e = Entry.create(comment: text) method = &quot;train\_#{category}&quot;.intern e.baby\_face.send(method) enddef self.open\_and\_create(file, category) line = 0 open(file) do |f| while l = f.gets next if l.nil? || l.chomp!.empty? break if line == 10000 line += 1 create\_with\_train(l, category) endendend
+    def self.create\_with\_train(text, category) e = Entry.create(comment: text) method = "train\_#{category}".intern e.baby\_face.send(method) enddef self.open\_and\_create(file, category) line = 0 open(file) do |f| while l = f.gets next if l.nil? || l.chomp!.empty? break if line == 10000 line += 1 create\_with\_train(l, category) endendend
 
-これくらいで簡単にかけることと、日本語の分かち書きには[TinySegmenter](https://github.com/6/tiny_segmenter)を使いました。これならmecab&amp;bindingのインストールとか要らない！便利！とか思っていたら、今どきはhomebrewでサクッとはいるんですね。。。
+これくらいで簡単にかけることと、日本語の分かち書きには[TinySegmenter](https://github.com/6/tiny_segmenter)を使いました。これならmecab&bindingのインストールとか要らない！便利！とか思っていたら、今どきはhomebrewでサクッとはいるんですね。。。
 
     def segment(text) @tagger ||= TinySegmenter.new @tagger.segment(text, ignore\_punctuation: true)end
 
-## [@suginoy](https://twitter.com/suginoy)さんの&quot;自分のほしいものをどんどんつくろうよ&quot;という話
+## [@suginoy](https://twitter.com/suginoy)さんの"自分のほしいものをどんどんつくろうよ"という話
 
 いつもblogにはお世話になっている、suginoyさんの、Railsだと簡単にWebアプリケーション書けるんだから、自分のほしいものを皆どんどんつくろうよ、というお話。
 

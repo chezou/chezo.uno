@@ -25,10 +25,10 @@ cJumanという[@kharakawa](http://twitter.com/kharakawa) さんの作成され�
 
 特にこの辺。
 
-&gt; \&gt;|bash|  
-&gt; gcc -c cJuman\_wrap.c -fPIC -I/usr/include/python2.4  
-&gt; gcc -shared \*.o -o \_cJuman.so  
-&gt; sudo install -m 644 \_cJuman.so cJuman.py /usr/lib/python2.4/site-packages/  
-&gt; |
+> \>|bash|  
+> gcc -c cJuman\_wrap.c -fPIC -I/usr/include/python2.4  
+> gcc -shared \*.o -o \_cJuman.so  
+> sudo install -m 644 \_cJuman.so cJuman.py /usr/lib/python2.4/site-packages/  
+> |
 
 

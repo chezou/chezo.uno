@@ -21,7 +21,7 @@ projects: []
 
 で、そんな折に[この記事](http://www.appbank.net/2009/11/12/iphone-news/60764.php)を見て良い機会だから買い換えました。  
 [iPhone 3G / 3GS ID Case with Screen Protector, Matte Royal Blue アイ・ディ ケース (液晶保護シート つき) マット・ロイヤル・ブルー IPH3GID-BRBLU](http://www.amazon.co.jp/gp/product/B002STWZU4/)  
-[![](https://ecx.images-amazon.com/images/I/21y077dNHKL._SS400_.jpg &quot;Case Mate&quot;)](http://www.amazon.co.jp/gp/product/B002STWZU4/)
+[![](https://ecx.images-amazon.com/images/I/21y077dNHKL._SS400_.jpg "Case Mate")](http://www.amazon.co.jp/gp/product/B002STWZU4/)
 
 ちょっとはめて使ってみた感想ですが、
 

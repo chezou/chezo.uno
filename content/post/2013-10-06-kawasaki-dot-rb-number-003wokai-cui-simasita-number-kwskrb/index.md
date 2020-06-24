@@ -55,7 +55,7 @@ GSLとかもあるんですけど、このへんはNumPy,SciPyなどとの比較
 
 (2013/10/30 スライドを追加しました！)
 
-[slideshare id=27479076&amp;doc=mrubykishima-131023015806-phpapp02]
+[slideshare id=27479076&doc=mrubykishima-131023015806-phpapp02]
 
 [webruby](https://github.com/xxuejie/webruby)の説明は、[kishimaさんご自身による説明](http://d.hatena.ne.jp/machaut/20130624/1372089582)がわかりやすいですが、Emscriptenを使ってブラウザ上でmrubyを動かそうというものです。  
 LLVM,clangを経由してではありますが、JSとmrubyがつながるなんて胸が熱くなりますね。

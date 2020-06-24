@@ -41,7 +41,7 @@ togetterはこちら
 
 いつ使うんだろう。。。
 
-## chezou &quot;なぜ科学計算にはPythonか？&quot;
+## chezou "なぜ科学計算にはPythonか？"
 
 [http://www.slideshare.net/chezou/python-forsc](http://www.slideshare.net/chezou/python-forsc)
 
@@ -53,7 +53,7 @@ togetterはこちら
 
 個人的には、一番重要なのはNumPy,Scipyのレイヤーをどうやって作り続けていくかということと、統計や機械学習のデファクトなgemができるといいのかなー、と思いました。
 
-あと、Numpyのベンチマークを探していたら[Juliaのベンチマーク](http://julialang.org/benchmarks/)&lt;sup id=&quot;fnref-1716-bench&quot;&gt;&lt;a href=&quot;#fn-1716-bench&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;に行き着いたのですが、実はGoが結構速いということに驚きました。(GoってOpenBLAS使えないですよね？)
+あと、Numpyのベンチマークを探していたら[Juliaのベンチマーク](http://julialang.org/benchmarks/)<sup id="fnref-1716-bench"><a href="#fn-1716-bench" rel="footnote">1</a></sup>に行き着いたのですが、実はGoが結構速いということに驚きました。(GoってOpenBLAS使えないですよね？)
 
 ![](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-01-25-0-57-51.png)  
 [http://julialang.org/benchmarks/](http://julialang.org/benchmarks/) より引用

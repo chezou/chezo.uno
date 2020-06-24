@@ -28,8 +28,8 @@ projects: []
 
 個人的には、Lord I&#39;m Freeの演奏がまた聴けるのかと思うとワクワクします。
 
-[youtube=[http://www.youtube.com/watch?v=5lXbMbvqD-U](http://www.youtube.com/watch?v=5lXbMbvqD-U)]
+{{< youtube 5lXbMbvqD-U >}}
 
-[過去の演奏会の記事はこちら](http://chezou.wordpress.com/2008/10/28/sings-2008-with-steve-dobrogosz/ &quot;SINGS 2008 with Steve Dobrogosz&quot;)
+[過去の演奏会の記事はこちら](http://chezou.wordpress.com/2008/10/28/sings-2008-with-steve-dobrogosz/ "SINGS 2008 with Steve Dobrogosz")
 
 

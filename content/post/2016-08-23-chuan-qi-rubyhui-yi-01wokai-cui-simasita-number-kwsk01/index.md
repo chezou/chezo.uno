@@ -19,7 +19,7 @@ projects: []
 ---
 さる 8/20 に川崎Ruby会議01を開催しました。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Fregional.rubykaigi.org%2Fkwsk01%2F&quot; title=&quot;トップページ - 川崎Ruby会議01&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://regional.rubykaigi.org/kwsk01/&quot;&gt;regional.rubykaigi.org&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fregional.rubykaigi.org%2Fkwsk01%2F" title="トップページ - 川崎Ruby会議01" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://regional.rubykaigi.org/kwsk01/">regional.rubykaigi.org</a></cite>
 
 川崎Ruby会議は、[kawasaki.rb](https://kawasakirb.github.io/)の主催する地域Ruby会議です。 ちゃんとしたまとめはるびまに出ると思うので、ここでは開催の経緯なんかを簡単に書こうと思います。
 
@@ -55,13 +55,13 @@ projects: []
 
 なお、ぺらさんの奥様経由で[重要なリンク](https://www.amazon.co.jp/registry/wishlist/8YU0BYZJ7S6H)が届いているので共有させていただきますね。
 
-&gt; [川崎Ruby会議01のスタッフTシャツ、デザイン素敵です！ #tmix #kwsk01](https://www.instagram.com/p/BJUwblshYNb/)
-&gt; 
-&gt;  
-&gt; 
-&gt; igaigaさん(@igaiga555)が投稿した写真 - &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2016-08-20T08:46:48+00:00&quot;&gt;2016 8月 20 1:46午前 PDT&lt;/time&gt;
+> [川崎Ruby会議01のスタッフTシャツ、デザイン素敵です！ #tmix #kwsk01](https://www.instagram.com/p/BJUwblshYNb/)
+> 
+>  
+> 
+> igaigaさん(@igaiga555)が投稿した写真 - <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-08-20T08:46:48+00:00">2016 8月 20 1:46午前 PDT</time>
 
-&lt;script async defer src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 ## やってみた感想
 
 コンセプトの「kwskバザー」は、多分なんのこっちゃわからんだろうなぁと思いながら提示しましたが、大江戸Ruby会議の「生活発表会」からヒントを得ました。 始めた3年前の当初からPythonの話もあり、ずっと「kawasaki.rbはkawasaki.pyなのでは！？」というご指摘をいただき続けてきたので、いつもどおりやっていれば多様性がでるだろうな、という思いもあり、それを全面に出してみました。
@@ -76,13 +76,13 @@ projects: []
 - Rubyと思ったら猫動画
 - Rails
 - Railsから気がつけばPHPに変わっていたでござる
-- &quot;Railsエンジニア&quot;はただの枕詞のサーバーレス
+- "Railsエンジニア"はただの枕詞のサーバーレス
 - Python
 - Elixer本の宣伝
 - 世界をまたにかける話
 - Rubyと思ったら数学の話で終わってしまったでござる
 
-[![プログラミングElixir](https://ecx.images-amazon.com/images/I/518jex9rmIL._SL160_.jpg &quot;プログラミングElixir&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4274219151/chezou-22/)
+[![プログラミングElixir](https://ecx.images-amazon.com/images/I/518jex9rmIL._SL160_.jpg "プログラミングElixir")](http://www.amazon.co.jp/exec/obidos/ASIN/4274219151/chezou-22/)
 
 [プログラミングElixir](http://www.amazon.co.jp/exec/obidos/ASIN/4274219151/chezou-22/)
 
@@ -94,7 +94,7 @@ projects: []
 
 また、パーフェクトRubyの読書会も続けているためか、「Ruby初心者です」という方もちょこちょこ来ていただいています。kawasaki.rbがきっかけで今回発表された蓑島さんのように一人エンジニアの環境で独学で業務でコードを書くようになった人、転職した人、Herokuのイベントに登壇した人、Railsを学び始めて起業した人など様々な人がいるのも特徴です。 正直、Rubyにとても詳しい人には物足りない側面もあるのかもしれないとは思うのですが、asakusa.rbなどとはまた違った路線で来ているのかなと思っています。 「ここに来れば困ったことを質問できる」とか「ここに来れば自分の知見を気軽に発表できる」という場所を続けてきたかいがあって、今回のregionalにつながったのだと思います。
 
-[![パーフェクトRuby (PERFECT SERIES 6)](https://ecx.images-amazon.com/images/I/51K0jUf%2BiEL._SL160_.jpg &quot;パーフェクトRuby (PERFECT SERIES 6)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4774158798/chezou-22/)
+[![パーフェクトRuby (PERFECT SERIES 6)](https://ecx.images-amazon.com/images/I/51K0jUf%2BiEL._SL160_.jpg "パーフェクトRuby (PERFECT SERIES 6)")](http://www.amazon.co.jp/exec/obidos/ASIN/4774158798/chezou-22/)
 
 [パーフェクトRuby (PERFECT SERIES 6)](http://www.amazon.co.jp/exec/obidos/ASIN/4774158798/chezou-22/)
 
@@ -106,7 +106,7 @@ projects: []
 
 個人的には、[mameさんの発表中にも言われていた「最適化の心構え」](http://d.hatena.ne.jp/ku-ma-me/20160822/p1)のうち、
 
-&gt; 効果を検証せよ：実行平均時間の単純比較ではなく統計的検定とか使うといい。有意差がなかったら変更を捨てろ。
+> 効果を検証せよ：実行平均時間の単純比較ではなく統計的検定とか使うといい。有意差がなかったら変更を捨てろ。
 
 がとても印象的でした。普段検定というと限定された時にしか使われないという偏見があったのですが、ソフトウェア開発にも生きてくるというのは目から鱗が落ちました。
 

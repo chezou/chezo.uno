@@ -25,9 +25,9 @@ Juliaは変化が速い言語なため、最新の情報を追い続けるのが
 
 なんといってもJuliaの日本語情報で一番お手軽なのは [id:bicycle1885](http://blog.hatena.ne.jp/bicycle1885/) さんの情報を追いかけることです。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Ftwitter.com%2Fbicycle1885&quot; title=&quot;佐藤(｢・ω・)｢ｶﾞｵｰ建太 (@bicycle1885) | Twitter&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://twitter.com/bicycle1885&quot;&gt;twitter.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Ftwitter.com%2Fbicycle1885" title="佐藤(｢・ω・)｢ｶﾞｵｰ建太 (@bicycle1885) | Twitter" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://twitter.com/bicycle1885">twitter.com</a></cite>
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Fbicycle1885.hatenablog.com%2F&quot; title=&quot;りんごがでている&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://bicycle1885.hatenablog.com/&quot;&gt;bicycle1885.hatenablog.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fbicycle1885.hatenablog.com%2F" title="りんごがでている" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://bicycle1885.hatenablog.com/">bicycle1885.hatenablog.com</a></cite>
 
 また、JuliaTokyoのslackも出来たのでこちらで気軽に質問していただくのも良いでしょう。
 
@@ -39,11 +39,11 @@ Juliaは変化が速い言語なため、最新の情報を追い続けるのが
 
 他にも、redditのjuliaカテゴリや
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fjulia&quot; title=&quot;The Julia Language Subreddit • /r/Julia&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://www.reddit.com/r/julia&quot;&gt;www.reddit.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fjulia" title="The Julia Language Subreddit • /r/Julia" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://www.reddit.com/r/julia">www.reddit.com</a></cite>
 
 juliaの著名な方々がpostするJulia関連のblogを集めたjuliabloggers.comなんかも良いでしょう。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Fwww.juliabloggers.com%2F&quot; title=&quot;juliabloggers.com - A Julia Language Blog Aggregator&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.juliabloggers.com/&quot;&gt;www.juliabloggers.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fwww.juliabloggers.com%2F" title="juliabloggers.com - A Julia Language Blog Aggregator" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://www.juliabloggers.com/">www.juliabloggers.com</a></cite>
 
 これらのfeedはjulia-tokyoのslackにも流れてくるようにしたので、そちらに居るだけで皆でワイワイする様子が見ることが出来ますね。
 
