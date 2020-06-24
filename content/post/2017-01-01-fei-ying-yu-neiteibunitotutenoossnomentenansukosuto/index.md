@@ -21,7 +21,7 @@ _disclaimer: この記事を書いている人はClouderaというHadoop/Spark�
 
 codelunch.fmの20回目を聞いていろいろ思うところがあったのでつらつら買いてみます。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Fcodelunch.fm%2F20%2F&quot; title=&quot;CodeLunch.fm&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://codelunch.fm/20/&quot;&gt;codelunch.fm&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fcodelunch.fm%2F20%2F" title="CodeLunch.fm" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://codelunch.fm/20/">codelunch.fm</a></cite>
 
 この回のcodelunch.fmでは、前職の同僚である丸山さん（[@h13i32maru](https://twitter.com/h13i32maru)）と[@hokaccha](https://twitter.com/hokaccha)さんが、お互いの家庭環境の変化を交えながら個人プロダクトの開発について話しているエピソードです。これ自体なかなかおもしろい回なので、趣味でプロダクト開発している人は聞いてみるといいんじゃないかなと思います。
 
@@ -36,11 +36,7 @@ codelunch.fmの20回目を聞いていろいろ思うところがあったので
 
 そんな丸山さんのESDoc関連の発言を見ていると、アクティブじゃないから他のにマージしろとかなかなか悩ましいなぁと見ていて思います。
 
-&gt; ESDocに対する僕のコミットの少なさが、「他ツールとの統合」という話に発展してしまって、何とも言えない気持ちになってた。というissueにv0.5.0のリリースをもってようやく返信した。[https://t.co/hy4vlxh017](https://t.co/hy4vlxh017)
-&gt; 
-&gt; — Ryo Maruyama (@h13i32maru) [2016年12月26日](https://twitter.com/h13i32maru/status/813322023690588160)
-
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+{{< tweet 813322023690588160 >}}
 
 本質的にはgithubのissueが辛いだけかもしれませんが(丸山さん自身も[ポジティブフィードバックを得にくいのが辛い](https://twitter.com/h13i32maru/status/814693960866144256)と言っている)、スターが1000を超える程度の人気のプロダクトは色々な人のアテンションを引くため、言葉を選ばず言うと「乱暴な」issueが立ちやすいのかもしれません。\*1ですが、自分もスター19くらいの[tabula-py](https://github.com/chezou/tabula-py)というbindingも本家に拾われてからいろいろissueが来るようになりました。
 
@@ -52,11 +48,7 @@ OSSを出すパターンとしては、ざっと考えた限りでは以下の�
 
 下に行けば行くほど、メンテナンスする人数も増えていくと思います。ここで、OSSのメンテナンスコストという点について考えたいと思います。というのも、個人ですべてOSSとしてメンテしていくときにこういうのをどう処理すればいいのかな、と考えたのがきっかけでした。
 
-&gt; うーん、なんだかなぁ。僕にとってはこの話はすごく小さな問題だと思うので、「提案ありがとう。でも対応しません。なぜなら好みじゃないから」というので終わりにしたい。そこをわざわざ議論するのに体力と時間を使いたくない。[https://t.co/6RTWifmmEZ](https://t.co/6RTWifmmEZ)
-&gt; 
-&gt; — Ryo Maruyama (@h13i32maru) [2016年12月30日](https://twitter.com/h13i32maru/status/814657477417443328)
-
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+{{< tweet 814657477417443328 >}}
 
 前職のクックパッドに入る前は、OSSに対する考えとしては、ソースコードは公開されており、コントリビュートの機会が開かれている素晴らしいものだと素朴に思っていました。RubyやSolrにお世話になり、自分もC++のコードの小さいbindingを書いたりしていました。
 
@@ -70,9 +62,9 @@ Clouderaに入って、HadoopやSparkといった巨大なOSSは一社ではと�
 
 開発者の時間は有限ですし、ユーザーが増える速度はコントリビュータが増える速度より速いです。 ESDocに関しては[organizationに一人しかいない](https://github.com/orgs/esdoc/people)のもさばく負荷が高い理由になるでしょう。 コミットしてくれる人を集めたり、issueを消化してくれるメンテナを集めたりして[優しい終身の独裁者](https://ja.wikipedia.org/wiki/%E5%84%AA%E3%81%97%E3%81%84%E7%B5%82%E8%BA%AB%E3%81%AE%E7%8B%AC%E8%A3%81%E8%80%85)として動くのもありかもしれませんが、個人として自由な裁量を持った開発をしたいという人もいるでしょう。 こうした中でどのように、増え続けるissueと戦うべきか、というのは難しい問題です。 なお、このあたりの話は、Sphinxメンテナのtk0miyaさんの記事とFreeBSDのPort maintainerのjj1bdxさんの記事が興味深かったです。
 
-&lt;iframe src=&quot;http://tk0miya.hatenablog.com/embed/2016/12/25/224306&quot; title=&quot;Sphinx のメンテナになって一年が経過した話 - Hack like a rolling stone&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://tk0miya.hatenablog.com/entry/2016/12/25/224306&quot;&gt;tk0miya.hatenablog.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://tk0miya.hatenablog.com/embed/2016/12/25/224306" title="Sphinx のメンテナになって一年が経過した話 - Hack like a rolling stone" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://tk0miya.hatenablog.com/entry/2016/12/25/224306">tk0miya.hatenablog.com</a></cite>
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Fqiita.com%2Fjj1bdx%2Fitems%2Fa9cd77807e0d689fb4b6&quot; title=&quot;ほころびていくコミュニティとなかなかできない世代交代、そしてさよならアドベントカレンダー - Qiita&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://qiita.com/jj1bdx/items/a9cd77807e0d689fb4b6&quot;&gt;qiita.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fqiita.com%2Fjj1bdx%2Fitems%2Fa9cd77807e0d689fb4b6" title="ほころびていくコミュニティとなかなかできない世代交代、そしてさよならアドベントカレンダー - Qiita" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://qiita.com/jj1bdx/items/a9cd77807e0d689fb4b6">qiita.com</a></cite>
 
 もう一つの要素としては、英語に困らない人にはノンネイティブの辛さが想像できない問題というのもあると思います。
 
@@ -89,5 +81,3 @@ Clouderaに入って、HadoopやSparkといった巨大なOSSは一社ではと�
 \*2:[urban dictionary](http://www.urbandictionary.com/)がないと死にそうになります
 
 \*3:Issue templateやFAQである程度は対処できるとは思いますが決定打にはかけるなとも思います
-
-
