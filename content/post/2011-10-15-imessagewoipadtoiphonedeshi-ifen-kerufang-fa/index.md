@@ -28,7 +28,7 @@ iCloudを同一AppleIDで夫婦で使い分ける方法がmacjさんから紹介
 で、本題です。
 
 iMessageにメッセージ着信用のアドレスを複数設定する機能があります。設定の仕方は下記サイトなどを参考にしてください。  
-[iOS5 iMessageを使ってみる:26inch](http://26inch.net/?p=765 &quot;iOS5 iMessageを使ってみる&quot;)
+[iOS5 iMessageを使ってみる:26inch](http://26inch.net/?p=765 "iOS5 iMessageを使ってみる")
 
 で、話は簡単。複数の端末それぞれに別々のアドレスを設定するだけです。
 

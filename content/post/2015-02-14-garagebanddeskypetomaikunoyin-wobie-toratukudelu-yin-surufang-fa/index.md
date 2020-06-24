@@ -33,9 +33,9 @@ projects: []
 ## 設定
 
 - 経路1
-  - Skype -\&gt; Soundflower (2ch) -\&gt; Soundflower (16ch)の1,2ch
+  - Skype -\> Soundflower (2ch) -\> Soundflower (16ch)の1,2ch
 - 経路2
-  - マイク -\&gt; Soundflower (16ch)の3,4ch
+  - マイク -\> Soundflower (16ch)の3,4ch
 
 ざっくり全体の設定を示す画像を先にはっておきます。
 
@@ -87,7 +87,7 @@ SoundflowerはMac用の仮想サウンドデバイスです。
 
 バージョン古いですが、こちらの動画も参考になります。
 
-&lt;iframe width=&quot;480&quot; height=&quot;270&quot; src=&quot;http://www.youtube.com/embed/21DUC_x_z5g?feature=oembed&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+<iframe width="480" height="270" src="http://www.youtube.com/embed/21DUC_x_z5g?feature=oembed" frameborder="0" allowfullscreen></iframe>
 
 [How to record multiple tracks at a time using Garageband - YouTube](https://www.youtube.com/watch?v=21DUC_x_z5g)
 

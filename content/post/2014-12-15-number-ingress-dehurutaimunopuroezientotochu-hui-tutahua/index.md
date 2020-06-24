@@ -17,11 +17,11 @@ image:
 
 projects: []
 ---
-この記事は[Ingress Advent Calendar](http://www.adventar.org/calendars/375)の15日目の記事です。 昨日は[@kwappa](https://twitter.com/kwappa)さんの&amp;nbsp;[#ingress のイベント #Darsana XM Anomaly Tokyo に参加してきたよ！ - かっぱラクガキ帳](http://kwappa.hatenablog.com/entry/2014/12/14/111225) でした。
+この記事は[Ingress Advent Calendar](http://www.adventar.org/calendars/375)の15日目の記事です。 昨日は[@kwappa](https://twitter.com/kwappa)さんの [#ingress のイベント #Darsana XM Anomaly Tokyo に参加してきたよ！ - かっぱラクガキ帳](http://kwappa.hatenablog.com/entry/2014/12/14/111225) でした。
 
 # Darsana参加してきたよ
 
-![頒布会戦利品の皆さん。にゃんぐれすかわいい](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20141214/20141214223041.jpg &quot;頒布会戦利品の皆さん。にゃんぐれすかわいい&quot;)
+![頒布会戦利品の皆さん。にゃんぐれすかわいい](http://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20141214/20141214223041.jpg "頒布会戦利品の皆さん。にゃんぐれすかわいい")
 
 Darsana参加された皆さん、お疲れ様でした！ ResistanceのゆるふわA10\*1なので負けて悔しい気持ちもありましたが、初めての公式イベントに参加できてとても楽しかったです。
 
@@ -55,9 +55,9 @@ Ingressはプレイ=活動領域が駄々漏れになるという特性上、Blo
 
 世の中にはソロプレーヤーで活動されている人も多いと思います。 ですが、ジョンハンケ氏の「外に出て、人と交流を」という設計思想上、一人でプレイするには壁にぶつかると思っています\*3。
 
-&gt; Niantic Labsの創設者で、かつてGoogle Earthを開発したジョン・ハンケ氏（※本誌インタビュー記事、5月掲載）は、ユーザーに外出を促すことがコンセプトとしている。具体的には「世界が舞台」「動いて遊ぶ」「新しい視点で街を見る」「現実世界で友情を育む」という4つの要素で設計されているのだという。
+> Niantic Labsの創設者で、かつてGoogle Earthを開発したジョン・ハンケ氏（※本誌インタビュー記事、5月掲載）は、ユーザーに外出を促すことがコンセプトとしている。具体的には「世界が舞台」「動いて遊ぶ」「新しい視点で街を見る」「現実世界で友情を育む」という4つの要素で設計されているのだという。
 
-&lt;iframe src=&quot;http://hatenablog.com/embed?url=http%3A%2F%2Fk-tai.impress.co.jp%2Fdocs%2Fnews%2F20141117_676258.html&quot; title=&quot;「Ingressで痩せる」は本当だった、ローソンともコラボ開始 - ケータイ Watch&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;a href=&quot;http://k-tai.impress.co.jp/docs/news/20141117_676258.html&quot;&gt;「Ingressで痩せる」は本当だった、ローソンともコラボ開始 - ケータイ Watch&lt;/a&gt;&lt;/iframe&gt;
+<iframe src="http://hatenablog.com/embed?url=http%3A%2F%2Fk-tai.impress.co.jp%2Fdocs%2Fnews%2F20141117_676258.html" title="「Ingressで痩せる」は本当だった、ローソンともコラボ開始 - ケータイ Watch" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://k-tai.impress.co.jp/docs/news/20141117_676258.html">「Ingressで痩せる」は本当だった、ローソンともコラボ開始 - ケータイ Watch</a></iframe>
 
 レベル7ポータルまでは近所に3人エージェントがいればできますが、レベル8は8人いないとできないです。プレーヤー密度が高まったとはいえ、自然発生的にP8に到達するのはちょっと大変だし、レベル8ができると壊しにくる敵も圧倒的に増えます\*4。
 

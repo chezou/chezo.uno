@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-[アカペラ/合唱イベントカレンダー](https://www.google.com/calendar/b/0/embed?src=YWNhcHBlbGxhLmV2ZW50QGdtYWlsLmNvbQ&amp;gsessionid=OK)に登録していると、ふとイベント情報の開催地を地図上に表示したくなりました。
+[アカペラ/合唱イベントカレンダー](https://www.google.com/calendar/b/0/embed?src=YWNhcHBlbGxhLmV2ZW50QGdtYWlsLmNvbQ&gsessionid=OK)に登録していると、ふとイベント情報の開催地を地図上に表示したくなりました。
 
 探してみると、[こんな記事](http://ouseful.open.ac.uk/blogarchive/012594.html)があってYahoo!pipesを使ってやった人がいるようです。(日本語の紹介記事は[こちら](http://google-mania.net/archives/886))
 

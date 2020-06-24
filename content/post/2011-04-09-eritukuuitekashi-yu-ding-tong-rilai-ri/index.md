@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-合唱指揮者であり作曲家でもある、[@hanagoro](http://twitter.com/hanagoro) さんによると、[@ericwhitacre](http://twitter.com/ericwhitacre) ことエリック・ウィテカー氏の、[合唱の祭典2011](https://www.google.com/calendar/b/0/render?eid=cHBocDdpdGRsMHNhZzZoM280aXRvNDdiZGsgYWNhcHBlbGxhLmV2ZW50QG0&amp;gsessionid=OK&amp;sf=true&amp;output=xml)への来日が予定通り行われることが明らかになりました。(@hanagoroさんありがとうございます！)  
+合唱指揮者であり作曲家でもある、[@hanagoro](http://twitter.com/hanagoro) さんによると、[@ericwhitacre](http://twitter.com/ericwhitacre) ことエリック・ウィテカー氏の、[合唱の祭典2011](https://www.google.com/calendar/b/0/render?eid=cHBocDdpdGRsMHNhZzZoM280aXRvNDdiZGsgYWNhcHBlbGxhLmV2ZW50QG0&gsessionid=OK&sf=true&output=xml)への来日が予定通り行われることが明らかになりました。(@hanagoroさんありがとうございます！)  
 しかも、**福島での講習会も(福島の方々が希望されるなら)行きたい**とのこと！  
 素晴らしい！
 

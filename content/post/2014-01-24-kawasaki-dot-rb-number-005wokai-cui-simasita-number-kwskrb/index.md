@@ -20,7 +20,7 @@ categories:
 大分たってしまいましたが、2013/10/23にKawasaki.rb #005を行いました。
 
 [@mametter](https://twitter.com/mametter) さんによる[quine-relay](https://github.com/mame/quine-relay)の話をしていただきました。  
-quine-relayとは50言語&lt;sup id=&quot;fnref-1648-lang&quot;&gt;&lt;a href=&quot;#fn-1648-lang&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;が次々に次の言語を生成し、一周してRubyに戻ってくるというコードであります。
+quine-relayとは50言語<sup id="fnref-1648-lang"><a href="#fn-1648-lang" rel="footnote">1</a></sup>が次々に次の言語を生成し、一周してRubyに戻ってくるというコードであります。
 
 togetterによるまとめはこちらになります。  
 [http://togetter.com/li/581020](http://togetter.com/li/581020)
@@ -30,7 +30,7 @@ Quineの解説は以下の資料が詳しいです。
 
 [http://www.slideshare.net/mametter/ruby-2012](http://www.slideshare.net/mametter/ruby-2012)
 
-ポイントとしては、&quot;いかに次の言語の文字列をprintするか&quot;というところが大きいようです。  
+ポイントとしては、"いかに次の言語の文字列をprintするか"というところが大きいようです。  
 特に、エスケープが増えてしまうと、様々な言語の制限(主に文字数制限)に引っかかってしまい実行できなくなるという問題があるようで、takesakoさんの[ppencode](http://www.namazu.org/~takesako/diary/?date=20050831)やら文字列圧縮などを使い工夫することで、それらをうまく回避しているとのことです。
 
 また、内部では[code-gen.rb](https://github.com/mame/quine-relay/blob/master/src/code-gen.rb)で次の言語でのprint文を書けば、順番に生成するようになっているので、言語を増やしたいとかいう人はpull-requestを送るといいと思います。(D言語とかJSXとか、TypeScriptとか...)  
@@ -46,6 +46,6 @@ Quineの解説は以下の資料が詳しいです。
 
 1.   
 有名なBrainfuckやWhitespaceに始まり、果てはVerilogとかINTERCALとか！  
-[^problem] : &amp;nbsp;様々な[争いの種](http://twitter.com/mrkn/status/392974009199259648)が含まれるため&amp;nbsp;↩  
+[^problem] :  様々な[争いの種](http://twitter.com/mrkn/status/392974009199259648)が含まれるため ↩  
 
 

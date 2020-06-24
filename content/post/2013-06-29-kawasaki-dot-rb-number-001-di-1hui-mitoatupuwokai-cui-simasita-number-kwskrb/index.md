@@ -33,7 +33,7 @@ Doorkeeperの参加者を見ていただくとわかるのですが、予想以�
 ## 01. NKT77さん 「Hadoop with Ruby-僕がPythonを選んだ理由」
 このタイトル自体は僕が付けた釣り仮題なのですが、内容としてはRubyをHadoop Streamingで使うときにHashが遅いという事例の紹介でした。([モリスさんを釣ってしまって](http://b.hatena.ne.jp/entry/kawasakirb.doorkeeper.jp/events/4115)恐縮したのはここだけの話)
 
-[slideshare id=23692953&amp;doc=20130630kawasaki-130630003650-phpapp01]  
+[slideshare id=23692953&doc=20130630kawasaki-130630003650-phpapp01]  
 (2013/07/04 資料を追加しました)
 
 ざっくりまとめると
@@ -50,7 +50,7 @@ Doorkeeperの参加者を見ていただくとわかるのですが、予想以�
 3. rehashの際の閾値がRubyの方が保守的
 といった理由が考えられるとのことでした。(間違いがあればご指摘ください)
 ## 02. たるいさん(@taru) 「メモリアロケーションからみた拡張ライブラリに大切なこと」
-[slideshare id=23517958&amp;doc=random-130626101518-phpapp02]
+[slideshare id=23517958&doc=random-130626101518-phpapp02]
 
 資料を見ていただければ内容はわかると思います。
 
@@ -60,7 +60,7 @@ Doorkeeperの参加者を見ていただくとわかるのですが、予想以�
 - NKT77さんが報告していたGCのせいでHashが遅いのはtrunkでは改善しました！(凄い！)
 最後の、Hashの速度向上については田中哲さんも確認されたようです。
 
-[tweet&amp;nbsp;[https://twitter.com/tanaka\_akr/status/350600581003485184](https://twitter.com/tanaka_akr/status/350600581003485184)]
+[tweet [https://twitter.com/tanaka\_akr/status/350600581003485184](https://twitter.com/tanaka_akr/status/350600581003485184)]
 
 当日は散々、「Rubyの集まりじゃないのかよ！」とか「Pythonを宣伝する場所かよ！」とか突っ込まれていましたが、これで皆さん安心してHadoop StreamingでRubyを使ってもらえますね。
 

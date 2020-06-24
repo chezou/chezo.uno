@@ -33,11 +33,11 @@ amazon.co.jpのリンクは[こちら](http://blog.goo.ne.jp/acappella-cd/e/6ce9
 視聴できないものも、([Amazon.de](http://www.amazon.de/gp/product/B008E4LHBA/ref=dm_sp_alb/278-0459572-0028251)なら全部視聴できます！)
 
 [CD 1]  
-[1. Gimme Hope Joachim / Basta&amp;nbsp;](http://www.youtube.com/watch?v=ATQ-OroH8fo)  
-[2. Lauter / Wise Guys&amp;nbsp;](http://www.youtube.com/watch?v=s9yuxhY0HvI)  
+[1. Gimme Hope Joachim / Basta ](http://www.youtube.com/watch?v=ATQ-OroH8fo)  
+[2. Lauter / Wise Guys ](http://www.youtube.com/watch?v=s9yuxhY0HvI)  
 [3. Männer (Live) / Bläck Fööss](http://www.youtube.com/watch?v=RIFCRvuHlww)  
 [4. Gabi und Klaus (A-Cappella) / Die Prinzen](http://www.youtube.com/watch?v=1QFxwmS1AJs)  
-[5. Du willst immer nur f. / Ganz Schön Feist&amp;nbsp;](http://www.youtube.com/watch?v=NlKf3IjVjEw)  
+[5. Du willst immer nur f. / Ganz Schön Feist ](http://www.youtube.com/watch?v=NlKf3IjVjEw)  
 [6. Der blaue Planet / Musix](http://www.amazon.de/gp/product/B008E4LISC/ref=dm_dp_trk6) ([原曲](http://www.youtube.com/watch?v=vUMa5ZaxCG4))  
 [7. Er küsst so gut / medlz](http://www.amazon.de/Er-k%C3%BCsst-so-gut/dp/B008E4LIXC)  
 [8. Frère Jacques / Mundwerk](http://www.youtube.com/watch?v=Pa2_oWshsRM)  

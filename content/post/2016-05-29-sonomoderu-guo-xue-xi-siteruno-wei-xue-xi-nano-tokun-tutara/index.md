@@ -25,7 +25,7 @@ projects: []
 
 この辺は、PRMLなんかから伝統的に説明される、回帰モデルに対して高次のモデルをフィットさせていくと、やり過ぎになるよねみたいな話が書いてあります。
 
-[![パターン認識と機械学習 上](https://images-fe.ssl-images-amazon.com/images/I/41O0QFyTHJL._SL160_.jpg &quot;パターン認識と機械学習 上&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4621061224/chezou-22/)
+[![パターン認識と機械学習 上](https://images-fe.ssl-images-amazon.com/images/I/41O0QFyTHJL._SL160_.jpg "パターン認識と機械学習 上")](http://www.amazon.co.jp/exec/obidos/ASIN/4621061224/chezou-22/)
 
 [パターン認識と機械学習 上](http://www.amazon.co.jp/exec/obidos/ASIN/4621061224/chezou-22/)
 
@@ -41,9 +41,9 @@ projects: []
 - データが少ない時
 - モデル\*1が、問題に対して複雑すぎる時
 
-書いていて表裏一体な気がしましたが、「じゃあこれどうやって気づけばいいの？」ということを思うと思います。 その答えが、今度日本語版が出る&quot;Python Machine Learning&quot;に分かりやすく書いてありました。日本語版も6月に出るので楽しみですね！
+書いていて表裏一体な気がしましたが、「じゃあこれどうやって気づけばいいの？」ということを思うと思います。 その答えが、今度日本語版が出る"Python Machine Learning"に分かりやすく書いてありました。日本語版も6月に出るので楽しみですね！
 
-[![Python Machine Learning](https://images-fe.ssl-images-amazon.com/images/I/51KGnFRB-zL._SL160_.jpg &quot;Python Machine Learning&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B00YSILNL0/chezou-22/)
+[![Python Machine Learning](https://images-fe.ssl-images-amazon.com/images/I/51KGnFRB-zL._SL160_.jpg "Python Machine Learning")](http://www.amazon.co.jp/exec/obidos/ASIN/B00YSILNL0/chezou-22/)
 
 [Python Machine Learning](http://www.amazon.co.jp/exec/obidos/ASIN/B00YSILNL0/chezou-22/)
 
@@ -53,7 +53,7 @@ projects: []
 - メディア: Kindle版
 - [この商品を含むブログを見る](http://d.hatena.ne.jp/asin/B00YSILNL0/chezou-22)
 
-[![Python機械学習プログラミング 達人データサイエンティストによる理論と実践 (impress top gear)](https://images-fe.ssl-images-amazon.com/images/I/51YzbphP0JL._SL160_.jpg &quot;Python機械学習プログラミング 達人データサイエンティストによる理論と実践 (impress top gear)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/4844380605/chezou-22/)
+[![Python機械学習プログラミング 達人データサイエンティストによる理論と実践 (impress top gear)](https://images-fe.ssl-images-amazon.com/images/I/51YzbphP0JL._SL160_.jpg "Python機械学習プログラミング 達人データサイエンティストによる理論と実践 (impress top gear)")](http://www.amazon.co.jp/exec/obidos/ASIN/4844380605/chezou-22/)
 
 [Python機械学習プログラミング 達人データサイエンティストによる理論と実践 (impress top gear)](http://www.amazon.co.jp/exec/obidos/ASIN/4844380605/chezou-22/)
 
@@ -65,7 +65,7 @@ projects: []
 
 # A: learning curveとvalidation curveを見よう
 
-（以降の図は&quot;Python Machine Learning&quot;英語版の本より引用です）
+（以降の図は"Python Machine Learning"英語版の本より引用です）
 
 ![](/img/2016/05/29/215739/20160529204510.jpg)
 

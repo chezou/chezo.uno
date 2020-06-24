@@ -25,11 +25,11 @@ categories:
 
 二人に焼肉LTをしてもらいました！焼肉LTの様子はこんなかんじでした。
 
-&gt; 焼肉LTとは [#kwskrb](https://twitter.com/hashtag/kwskrb?src=hash) [pic.twitter.com/mOJcRJhI5E](http://t.co/mOJcRJhI5E)
-&gt; 
-&gt; — Kentaro Goto / ごとけん (@gotoken) [2013, 7月 24](https://twitter.com/gotoken/status/360018779784237056)
+> 焼肉LTとは [#kwskrb](https://twitter.com/hashtag/kwskrb?src=hash) [pic.twitter.com/mOJcRJhI5E](http://t.co/mOJcRJhI5E)
+> 
+> — Kentaro Goto / ごとけん (@gotoken) [2013, 7月 24](https://twitter.com/gotoken/status/360018779784237056)
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;  
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 ## [@yumu19](http://twitter.com/yumu19)さん「Capistrano紹介」
 ブログ記事も書いていただきました！ありがとう！
@@ -40,7 +40,7 @@ Capistranoの基本的な部分を紹介していただきました。
 レシピを用意すれば、後からdeployする人はあまり意識しなくていいんですよね。
 
 スライドはこちら  
-[slideshare id=24865371&amp;doc=capistrano-130802055931-phpapp01]
+[slideshare id=24865371&doc=capistrano-130802055931-phpapp01]
 
 ## [@aflc\_jp](http://twitter.com/aflc_jp) さんgroongaの紹介の話
 資料は[こちら](http://aflc.github.io/kawasaki.rb/1-groonga/index.html#/title)  
@@ -48,7 +48,7 @@ Capistranoの基本的な部分を紹介していただきました。
 - groongaとは？
 - ruby bindingのrroongaの話
 - ニコニコ動画のコメントを検索できるようにしてみた
-個人的には、groongaが鳥山明な名前にしか見えなくなったこと、おそらくニコニコ動画最古の&quot;Ruby&quot;という文字列がレッツゴー陰陽師に埋まっていたという事実が驚きでした。
+個人的には、groongaが鳥山明な名前にしか見えなくなったこと、おそらくニコニコ動画最古の"Ruby"という文字列がレッツゴー陰陽師に埋まっていたという事実が驚きでした。
 ## 今後やりたいこと
 毎回のtalk以外にもやりたいことを色々と募集したいと思っています。
 

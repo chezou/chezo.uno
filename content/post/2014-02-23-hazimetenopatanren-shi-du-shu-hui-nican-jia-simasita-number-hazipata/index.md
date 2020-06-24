@@ -25,7 +25,7 @@ projects: []
 
 また、「Juliaを使った機械学習」という釣り気味のタイトルでLTしてきました。  
   
-[slideshare id=31342831&amp;doc=hajipata-julia-140218091943-phpapp01]  
+[slideshare id=31342831&doc=hajipata-julia-140218091943-phpapp01]  
   
 実際には、[Gadfly](https://github.com/dcjones/Gadfly.jl)使うとおしゃれなグラフが書けますよーというレベルでしかなかったのですが、D3.jsなんかとも親和性高い描画エンジンなのでよければ使ってみると楽しいですよ。
 

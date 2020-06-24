@@ -21,11 +21,11 @@ projects: []
 
 togetterのまとめはこちら。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Ftogetter.com%2Fli%2F914680&quot; title=&quot;#JuliaTokyo 05 まとめ&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://togetter.com/li/914680&quot;&gt;togetter.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Ftogetter.com%2Fli%2F914680" title="#JuliaTokyo 05 まとめ" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://togetter.com/li/914680">togetter.com</a></cite>
 
 資料はまだいくつかしかアップロードされていませんが、今回は機械学習の話やDeep Learningの話が多かったように思います。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Fjuliatokyo.connpass.com%2Fevent%2F21715%2Fpresentation%2F&quot; title=&quot;JuliaTokyo #5 - 資料一覧 - connpass&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://juliatokyo.connpass.com/event/21715/presentation/&quot;&gt;juliatokyo.connpass.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fjuliatokyo.connpass.com%2Fevent%2F21715%2Fpresentation%2F" title="JuliaTokyo #5 - 資料一覧 - connpass" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://juliatokyo.connpass.com/event/21715/presentation/">juliatokyo.connpass.com</a></cite>
 
 個人的に印象的だったのは、hshindoさんのMerlin.jlです。さくっとDeep Learning用のフレームワークを実装できるのは驚きでした。
 
@@ -35,7 +35,7 @@ togetterのまとめはこちら。
 
 ## [@sorami](https://twitter.com/sorami) さんのイントロ
 
-&lt;iframe allowfullscreen=&quot;true&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot; height=&quot;463&quot; id=&quot;talk_frame_323691&quot; mozallowfullscreen=&quot;true&quot; src=&quot;//speakerdeck.com/player/8a33b8868e974c218084ab559884c579&quot; style=&quot;border:0; padding:0; margin:0; background:transparent;&quot; webkitallowfullscreen=&quot;true&quot; width=&quot;710&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://speakerdeck.com/sorami/juliatokyo-number-5-introduction&quot;&gt;speakerdeck.com&lt;/a&gt;&lt;/cite&gt;
+<iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="463" id="talk_frame_323691" mozallowfullscreen="true" src="//speakerdeck.com/player/8a33b8868e974c218084ab559884c579" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"></iframe><cite class="hatena-citation"><a href="https://speakerdeck.com/sorami/juliatokyo-number-5-introduction">speakerdeck.com</a></cite>
 
 ## [@bicycle1885](https://twitter.com/bicycle1885)さん Juliaチューニングハンズオン
 
@@ -45,16 +45,16 @@ togetterのまとめはこちら。
 
 ## oyamadさん QuantEcon.jl の DiscreteDP の紹介\*2
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Foyamad%2Fpresentations%2Ftree%2Fmaster%2FJuliaTokyo05&quot; title=&quot;oyamad/presentations&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://github.com/oyamad/presentations/tree/master/JuliaTokyo05&quot;&gt;github.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Foyamad%2Fpresentations%2Ftree%2Fmaster%2FJuliaTokyo05" title="oyamad/presentations" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://github.com/oyamad/presentations/tree/master/JuliaTokyo05">github.com</a></cite>
 
 oyamad先生のゼミ（経済学部）では来年からJuliaが必須になるそうです！
 
 ## [kimrin](https://twitter.com/kimrin)さん メカジョさんとジュリアたん
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/8jh4GpSk2RvCjR&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/8jh4GpSk2RvCjR" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[メカジョさんとジュリアたん♡ (Mechajyo and Julia-tan) #JuliaTokyo #JuliaLang](https://www.slideshare.net/kimrinjp/mechajyo-and-juliatan-juliatokyo-julialang &quot;メカジョさんとジュリアたん♡ (Mechajyo and Julia-tan) #JuliaTokyo #JuliaLang&quot;)** from **[Takeshi Kimura](http://www.slideshare.net/kimrinjp)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/kimrinjp/mechajyo-and-juliatan-juliatokyo-julialang&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[メカジョさんとジュリアたん♡ (Mechajyo and Julia-tan) #JuliaTokyo #JuliaLang](https://www.slideshare.net/kimrinjp/mechajyo-and-juliatan-juliatokyo-julialang "メカジョさんとジュリアたん♡ (Mechajyo and Julia-tan) #JuliaTokyo #JuliaLang")** from **[Takeshi Kimura](http://www.slideshare.net/kimrinjp)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/kimrinjp/mechajyo-and-juliatan-juliatokyo-julialang">www.slideshare.net</a></cite>
 
 MITのJuliaの研究室ではジュリアたんステッカーがマシンに貼られているそうです。世界を股にかける！
 
@@ -62,16 +62,16 @@ MITのJuliaの研究室ではジュリアたんステッカーがマシンに貼
 
 Mocha.jlの作者はMXNet.jlに移行したそうです。 というわけで、GPUもCPUも分散で行けるMXNetに移行しよう！という話でした。 AndreさんがAMIも作ったそうです。
 
-&gt; Releasing an [#AWS](https://twitter.com/hashtag/AWS?src=hash) AMI with everything you need to run GPU enabled MXNet.jl[#julialang](https://twitter.com/hashtag/julialang?src=hash)[https://t.co/F0q99h39gR](https://t.co/F0q99h39gR)
-&gt; 
-&gt; — Andre Pemmelaar (@QuantixResearch) [2015, 12月 19](https://twitter.com/QuantixResearch/status/678179767414222848)
+> Releasing an [#AWS](https://twitter.com/hashtag/AWS?src=hash) AMI with everything you need to run GPU enabled MXNet.jl[#julialang](https://twitter.com/hashtag/julialang?src=hash)[https://t.co/F0q99h39gR](https://t.co/F0q99h39gR)
+> 
+> — Andre Pemmelaar (@QuantixResearch) [2015, 12月 19](https://twitter.com/QuantixResearch/status/678179767414222848)
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ## [hshindo](https://github.com/hshindo)さん Neural POS-Tagging with Julia
 
 NAISTの松本研では、Pythonを使う学生とF#を使うhshindo先生が共通の言語としてJuliaを使い始めているそうです。 紹介のあったMerin.jlは、characterベースのPOS taggingをNNを使ってやりたかったから作ったとのこと。 パット見たかんじChainerっぽい書き方で、DLができます。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fhshindo%2FMerlin.jl&quot; title=&quot;hshindo/Merlin.jl&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://github.com/hshindo/Merlin.jl&quot;&gt;github.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fhshindo%2FMerlin.jl" title="hshindo/Merlin.jl" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://github.com/hshindo/Merlin.jl">github.com</a></cite>
 
 資料はこちら。[http://www.hshindo.com/data/shindo-JuliaTokyo5.pdf](http://www.hshindo.com/data/shindo-JuliaTokyo5.pdf)
 
@@ -85,39 +85,39 @@ NAISTの松本研では、Pythonを使う学生とF#を使うhshindo先生が共
 
 Exact Soft Confidence Weightedを実装したよ、という話。会場からも実装が綺麗と評判でした。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2FIshitaTakeshi%2FSoftConfidenceWeighted.jl&quot; title=&quot;IshitaTakeshi/SoftConfidenceWeighted.jl&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://github.com/IshitaTakeshi/SoftConfidenceWeighted.jl&quot;&gt;github.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2FIshitaTakeshi%2FSoftConfidenceWeighted.jl" title="IshitaTakeshi/SoftConfidenceWeighted.jl" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://github.com/IshitaTakeshi/SoftConfidenceWeighted.jl">github.com</a></cite>
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/7YVZPx8vmmvpmL&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/7YVZPx8vmmvpmL" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[Juliaでオンライン線形分類器つくった](https://www.slideshare.net/TakeshiIshita/julia-56356347 &quot;Juliaでオンライン線形分類器つくった&quot;)** from **[Takeshi Ishita](http://www.slideshare.net/TakeshiIshita)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/TakeshiIshita/julia-56356347&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[Juliaでオンライン線形分類器つくった](https://www.slideshare.net/TakeshiIshita/julia-56356347 "Juliaでオンライン線形分類器つくった")** from **[Takeshi Ishita](http://www.slideshare.net/TakeshiIshita)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/TakeshiIshita/julia-56356347">www.slideshare.net</a></cite>
 ## [iizukak](https://twitter.com/iizukak)さん Hierarchical Temporal Memory どうでしょう
 
 次回、HTM.jl作ってみた、乞うご期待。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1F6jYDOgXNkbXqqyovXuNksS54Rlbn45aXg98D0H53_g%2Fhtmlpresent&quot; title=&quot;Hierarchical Temporal Memory どうでしょう&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1F6jYDOgXNkbXqqyovXuNksS54Rlbn45aXg98D0H53_g/htmlpresent&quot;&gt;docs.google.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1F6jYDOgXNkbXqqyovXuNksS54Rlbn45aXg98D0H53_g%2Fhtmlpresent" title="Hierarchical Temporal Memory どうでしょう" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://docs.google.com/presentation/d/1F6jYDOgXNkbXqqyovXuNksS54Rlbn45aXg98D0H53_g/htmlpresent">docs.google.com</a></cite>
 
 ## [kazoo04](https://twitter.com/kazoo04)さん AROW
 
 [人工知能アドベントカレンダー](http://qiita.com/advent-calendar/2015/ai)でも有名なkazoo04さんのAROW.jlの話。 SCWにAROWにとオンライン学習アルゴリズムが一通り揃った感ありますね。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fkazoo04%2FAROW.jl&quot; title=&quot;kazoo04/AROW.jl&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://github.com/kazoo04/AROW.jl&quot;&gt;github.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fkazoo04%2FAROW.jl" title="kazoo04/AROW.jl" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://github.com/kazoo04/AROW.jl">github.com</a></cite>
 
 ## [olanleed](https://twitter.com/olanleed)さん JuliaでCUDAを扱うのはらく～だ
 
 全然楽じゃなさそうです...。maleadtさんのCUDA.jlが理想に近いそうですが、上手く動かないという...
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fmaleadt%2FCUDA.jl&quot; title=&quot;maleadt/CUDA.jl&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://github.com/maleadt/CUDA.jl&quot;&gt;github.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fmaleadt%2FCUDA.jl" title="maleadt/CUDA.jl" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://github.com/maleadt/CUDA.jl">github.com</a></cite>
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/74PF7HHKo1xvTs&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/74PF7HHKo1xvTs" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[JuliaでCUDAを扱うのはらく〜だ](https://www.slideshare.net/tomohiromito/julia-tokyo &quot;JuliaでCUDAを扱うのはらく〜だ&quot;)** from **[Tomohiro Mito](http://www.slideshare.net/tomohiromito)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/tomohiromito/julia-tokyo&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[JuliaでCUDAを扱うのはらく〜だ](https://www.slideshare.net/tomohiromito/julia-tokyo "JuliaでCUDAを扱うのはらく〜だ")** from **[Tomohiro Mito](http://www.slideshare.net/tomohiromito)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/tomohiromito/julia-tokyo">www.slideshare.net</a></cite>
 ## [ysekky\_](https://twitter.com/ysekky_)さん テキスト分析
 
 MeCab.jlとTextAnalysis.jlを使ったテキスト分析の話でした。JMW仕事しろ案件
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Fqiita.com%2Fysekky%2Fitems%2Fcdb6ed28b903e4719bea&quot; title=&quot;Juliaでテキスト分析をしてみる - Qiita&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://qiita.com/ysekky/items/cdb6ed28b903e4719bea&quot;&gt;qiita.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fqiita.com%2Fysekky%2Fitems%2Fcdb6ed28b903e4719bea" title="Juliaでテキスト分析をしてみる - Qiita" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://qiita.com/ysekky/items/cdb6ed28b903e4719bea">qiita.com</a></cite>
 
 ## [ohtaman](https://twitter.com/ohtaman)さん 声質変換
 
@@ -129,7 +129,7 @@ MeCab.jlとTextAnalysis.jlを使ったテキスト分析の話でした。JMW仕
 
 まさか、遠方からの参戦があるなど日本全国にJuliaが広がっている機運が高まっています。Advent Calendarも無事終わって、時代はJuliaですね！
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Fqiita.com%2Fadvent-calendar%2F2015%2Fjulialang&quot; title=&quot;Julia Advent Calendar 2015 - Qiita&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://qiita.com/advent-calendar/2015/julialang&quot;&gt;qiita.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fqiita.com%2Fadvent-calendar%2F2015%2Fjulialang" title="Julia Advent Calendar 2015 - Qiita" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://qiita.com/advent-calendar/2015/julialang">qiita.com</a></cite>
 
 \*1:週3勉強会開催のフィニッシュdayでした
 

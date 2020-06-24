@@ -1,5 +1,5 @@
 ---
-title: "B&amp;#39;zのUltra treasureがやばすぎる"
+title: "B&#39;zのUltra treasureがやばすぎる"
 subtitle: ""
 summary: ""
 authors: [aki]

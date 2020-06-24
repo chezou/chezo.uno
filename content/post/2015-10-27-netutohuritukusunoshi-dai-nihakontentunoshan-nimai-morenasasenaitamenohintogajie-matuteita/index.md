@@ -19,7 +19,7 @@ projects: []
 ---
 backspace.fmでもよくゲストに出ている西田宗千佳さん([@mnishi41](https://twitter.com/mnishi41))の書かれた、「ネットフリックスの時代−配信とスマホがテレビを変える」読んだ。
 
-[![ネットフリックスの時代　配信とスマホがテレビを変える (講談社現代新書)](https://ecx.images-amazon.com/images/I/51%2BNr4WdpDL._SL160_.jpg &quot;ネットフリックスの時代　配信とスマホがテレビを変える (講談社現代新書)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B016KDOC3Q/chezou-22/)
+[![ネットフリックスの時代　配信とスマホがテレビを変える (講談社現代新書)](https://ecx.images-amazon.com/images/I/51%2BNr4WdpDL._SL160_.jpg "ネットフリックスの時代　配信とスマホがテレビを変える (講談社現代新書)")](http://www.amazon.co.jp/exec/obidos/ASIN/B016KDOC3Q/chezou-22/)
 
 [ネットフリックスの時代　配信とスマホがテレビを変える (講談社現代新書)](http://www.amazon.co.jp/exec/obidos/ASIN/B016KDOC3Q/chezou-22/)
 
@@ -35,7 +35,7 @@ backspace.fmでもよくゲストに出ている西田宗千佳さん([@mnishi41
 
 特に4章、5章の音楽と映像コンテンツの対比がぼやっと考えていたところを整理してくれてよかった。
 
-&gt; プレイリストという考え方は短い時間で消費するコンテンツの反復利用性をベ ースに組み立てられた考え方
+> プレイリストという考え方は短い時間で消費するコンテンツの反復利用性をベ ースに組み立てられた考え方
 
 音楽の性質としてその反復性示して、映像はそこまで反復して楽しむものではないという特性の違いを明らかにしている。言われれば当たり前なのだが、レコメンデーションをする立場としては、ECサイトでの購入みたいな繰り返しの少ないものと、音楽のような反復性の高いものでは使う手法が違ってくるし見せ方も違うということが再確認できた。きっと、レシピはその中間くらいなんだろう、ということも見えてくる。
 
@@ -45,14 +45,14 @@ backspace.fmでもよくゲストに出ている西田宗千佳さん([@mnishi41
 
 これ踏まえた上で、レコメンデーションのトップ会議RecSys2015のNetflixとSpotifyの人々によるチュートリアルを見ると、タグの話が全く書かれていなくて頭を悩ませる。多分特徴量の一つになってるのかな。
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/AXST4Fqy8F331&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/AXST4Fqy8F331" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[Interactive Recommender Systems with Netflix and Spotify](https://www.slideshare.net/MrChrisJohnson/interactive-recommender-systems-with-netflix-and-spotify &quot;Interactive Recommender Systems with Netflix and Spotify&quot;)** from **[Chris Johnson](http://www.slideshare.net/MrChrisJohnson)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/MrChrisJohnson/interactive-recommender-systems-with-netflix-and-spotify&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[Interactive Recommender Systems with Netflix and Spotify](https://www.slideshare.net/MrChrisJohnson/interactive-recommender-systems-with-netflix-and-spotify "Interactive Recommender Systems with Netflix and Spotify")** from **[Chris Johnson](http://www.slideshare.net/MrChrisJohnson)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/MrChrisJohnson/interactive-recommender-systems-with-netflix-and-spotify">www.slideshare.net</a></cite>
 
 実は、この本を読む前にドワンゴの川上さんの「鈴木さんにもわかるネットの未来」も読んでいたのだが、電子書籍が良いというのはイデオロギーであり宗教だ。音楽を見るとCDから電子に移行してビジネスモデルが変わる度にビジネスがシュリンクしている、という旨の事が書かれていた。西田さんはテレビからスマホが隙間時間を奪っているため定額制の配信サービスに以降するのは自然な流れ、と書いているが、ビジネスのパイは小さくなるような気もする。両者に主張を比較するのも面白いだろう
 
-[![鈴木さんにも分かるネットの未来 (岩波新書)](https://ecx.images-amazon.com/images/I/413P9cfldeL._SL160_.jpg &quot;鈴木さんにも分かるネットの未来 (岩波新書)&quot;)](http://www.amazon.co.jp/exec/obidos/ASIN/B010PZ8SUI/chezou-22/)
+[![鈴木さんにも分かるネットの未来 (岩波新書)](https://ecx.images-amazon.com/images/I/413P9cfldeL._SL160_.jpg "鈴木さんにも分かるネットの未来 (岩波新書)")](http://www.amazon.co.jp/exec/obidos/ASIN/B010PZ8SUI/chezou-22/)
 
 [鈴木さんにも分かるネットの未来 (岩波新書)](http://www.amazon.co.jp/exec/obidos/ASIN/B010PZ8SUI/chezou-22/)
 

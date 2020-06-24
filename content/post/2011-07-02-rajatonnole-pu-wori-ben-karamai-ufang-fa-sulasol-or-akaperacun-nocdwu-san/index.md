@@ -21,13 +21,13 @@ projects: []
 
 録音が良くないですが、Rajaton自信が歌ってる動画はこちら。
 
-[youtube=[http://www.youtube.com/watch?v=LRGey5Kz89o](http://www.youtube.com/watch?v=LRGey5Kz89o)]
+{{< youtube LRGey5Kz89o >}}
 
-&amp;nbsp;
+ 
 
 アマチュアのガチャピン動画はこちら。HDで見ると音質は良いですよ。
 
-[youtube=[http://www.youtube.com/watch?v=jiwgTHfa9x0](http://www.youtube.com/watch?v=jiwgTHfa9x0)]
+{{< youtube jiwgTHfa9x0 >}}
 
 彼らの歌う曲(特にMia Makaroffの曲)はアカペラを歌う人たちだけでなく、日本の合唱人たちも楽しめるのではないかと日々思っているわけです。  
 (松原千振先生も、Rajatonのことを賞賛されているようですし、演奏もされているようです)
@@ -47,25 +47,25 @@ projects: []
 Rajatonの楽曲はおよそ[こちら](http://www.sulasol.fi/en/sheet/mixed/rajaton/)にあります。  
 引用すると、
 
-&gt; Mäntyjärvi, Jaakko: Tórramat do nóebaengil (Evening Hymn) (S644)  
-&gt; Rissanen, Säde: Jabberwocky (S654)  
-&gt; Gustafsson, Kaj-Erik: Varhaiskesä (S781)  
-&gt; Chydenius, Kaj: Stabat Mater (S919)  
-&gt; Kostiainen, Pekka: Salus infirmorum (S938)  
-&gt; Kostiainen, Pekka: Sancta Maria, Vas Spirituale (S939)  
-&gt; Makaroff, Mia: Butterfly (S971)  
-&gt; Makaroff, Mia: Were You There (S1038)  
-&gt; Makaroff, Mia: Mitä kaikatat kivonen (S1039)  
-&gt; Makaroff, Mia: Armottoman osa (S1040)  
-&gt; Makaroff, Mia: You can&#39;t stop me! (S1041)  
-&gt; Makaroff, Mia: Lintu lauleli lehdossa (S1074)  
-&gt; Makaroff, Mia: Kaikki maat te riemuitkaatte (S1189)  
-&gt; Chydenius, Jussi - Wuorela, Essi: Kaipaava (S1217)  
-&gt; Chydenius, Jussi - Wuorela, Essi: Kaipaava SSAA (S1217B)  
-&gt; Sippola, Laura: A Poison Tree (S1225)  
-&gt; Sarmanto, Heikki - Chydenius, Jussi: Un-Wishing Well (S1415)  
-&gt; Chydenius, Jussi: Läksin minä kesäyönä käymään (S1448)  
-&gt; Sariola, Soila: Nouse lauluni (S1452)
+> Mäntyjärvi, Jaakko: Tórramat do nóebaengil (Evening Hymn) (S644)  
+> Rissanen, Säde: Jabberwocky (S654)  
+> Gustafsson, Kaj-Erik: Varhaiskesä (S781)  
+> Chydenius, Kaj: Stabat Mater (S919)  
+> Kostiainen, Pekka: Salus infirmorum (S938)  
+> Kostiainen, Pekka: Sancta Maria, Vas Spirituale (S939)  
+> Makaroff, Mia: Butterfly (S971)  
+> Makaroff, Mia: Were You There (S1038)  
+> Makaroff, Mia: Mitä kaikatat kivonen (S1039)  
+> Makaroff, Mia: Armottoman osa (S1040)  
+> Makaroff, Mia: You can&#39;t stop me! (S1041)  
+> Makaroff, Mia: Lintu lauleli lehdossa (S1074)  
+> Makaroff, Mia: Kaikki maat te riemuitkaatte (S1189)  
+> Chydenius, Jussi - Wuorela, Essi: Kaipaava (S1217)  
+> Chydenius, Jussi - Wuorela, Essi: Kaipaava SSAA (S1217B)  
+> Sippola, Laura: A Poison Tree (S1225)  
+> Sarmanto, Heikki - Chydenius, Jussi: Un-Wishing Well (S1415)  
+> Chydenius, Jussi: Läksin minä kesäyönä käymään (S1448)  
+> Sariola, Soila: Nouse lauluni (S1452)
 
 およそというのは、購入できる楽譜の全リストと価格は[こちらにあるExcel](http://www.sulasol.fi/en/sheet/)には先ほどのRajatonのページに無い曲も一部あります(PakkanenとかはExcelにしかありませんでした)。
 
@@ -78,7 +78,7 @@ Rajatonの楽曲はおよそ[こちら](http://www.sulasol.fi/en/sheet/mixed/raj
 
 英語が苦手でSulasolの公式はちょっと、とかクレジットカードはちょっと、という方には良いのではないでしょうか？
 
-&amp;nbsp;
+ 
 
 もちろん、これ以外の楽譜サイトはあるかと思いますが、特別調べていなかったりします。情報がありましたら、お知らせください。
 

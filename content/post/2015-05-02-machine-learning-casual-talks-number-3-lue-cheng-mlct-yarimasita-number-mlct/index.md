@@ -25,48 +25,48 @@ projects: []
 
 ## 発表資料
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/3CuMqdbNysvpDv&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/3CuMqdbNysvpDv" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[プロダクション環境でオンラインで機械学習を動かすにあたってツライ話 #MLCT](https://www.slideshare.net/TokorotenNakayama/mlct &quot;プロダクション環境でオンラインで機械学習を動かすにあたってツライ話 #MLCT&quot;)** from **[Shinta Nakayama](http://www.slideshare.net/TokorotenNakayama)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/TokorotenNakayama/mlct&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[プロダクション環境でオンラインで機械学習を動かすにあたってツライ話 #MLCT](https://www.slideshare.net/TokorotenNakayama/mlct "プロダクション環境でオンラインで機械学習を動かすにあたってツライ話 #MLCT")** from **[Shinta Nakayama](http://www.slideshare.net/TokorotenNakayama)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/TokorotenNakayama/mlct">www.slideshare.net</a></cite>
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/v6V59XfiGtFHG&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/v6V59XfiGtFHG" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[Mlct 20150430v2](https://www.slideshare.net/masakazusano75/mlct-20150430v2 &quot;Mlct 20150430v2&quot;)** from **[Masakazu Sano](http://www.slideshare.net/masakazusano75)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/masakazusano75/mlct-20150430v2&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[Mlct 20150430v2](https://www.slideshare.net/masakazusano75/mlct-20150430v2 "Mlct 20150430v2")** from **[Masakazu Sano](http://www.slideshare.net/masakazusano75)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/masakazusano75/mlct-20150430v2">www.slideshare.net</a></cite>
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/dC7WAonWspVRlD&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/dC7WAonWspVRlD" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[Hivemall LT @ Machine Learning Casual Talks #3](https://www.slideshare.net/myui/hivemall-mlct3 &quot;Hivemall LT @ Machine Learning Casual Talks #3&quot;)** from **[Makoto Yui](http://www.slideshare.net/myui)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/myui/hivemall-mlct3&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[Hivemall LT @ Machine Learning Casual Talks #3](https://www.slideshare.net/myui/hivemall-mlct3 "Hivemall LT @ Machine Learning Casual Talks #3")** from **[Makoto Yui](http://www.slideshare.net/myui)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/myui/hivemall-mlct3">www.slideshare.net</a></cite>
 
 まさか、Hivemallのユーザーと開発者が同じ場所で発表するとは思っていませんでした。
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/9fQxgpk8taf6Ok&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/9fQxgpk8taf6Ok" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[LSTMで話題分類](https://www.slideshare.net/ __john_smith__ /lstm &quot;LSTMで話題分類&quot;)** from **[\_\_john\_smith\_\_](http://www.slideshare.net/ __john_smith__ )** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/ __john_smith__ /lstm&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[LSTMで話題分類](https://www.slideshare.net/ __john_smith__ /lstm "LSTMで話題分類")** from **[\_\_john\_smith\_\_](http://www.slideshare.net/ __john_smith__ )** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/ __john_smith__ /lstm">www.slideshare.net</a></cite>
 
 [RNNこれ](https://github.com/mattya/RNN-colle/wiki/Tutorial_jp)でLSTMやろうとしたら、ドキュメントなさすぎてうまく行かなかったというお話でした。 補足記事も上がっています。
 
-&lt;iframe src=&quot;http://john-smith.hateblo.jp/embed/2015/05/02/224928&quot; title=&quot;RNNこれくしょんでLSTM使おうと思って失敗した話をMLCTでした - Java Coffee Cafe&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;a href=&quot;http://john-smith.hateblo.jp/entry/2015/05/02/224928&quot;&gt;RNNこれくしょんでLSTM使おうと思って失敗した話をMLCTでした - Java Coffee Cafe&lt;/a&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://john-smith.hateblo.jp/entry/2015/05/02/224928&quot;&gt;john-smith.hateblo.jp&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://john-smith.hateblo.jp/embed/2015/05/02/224928" title="RNNこれくしょんでLSTM使おうと思って失敗した話をMLCTでした - Java Coffee Cafe" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"><a href="http://john-smith.hateblo.jp/entry/2015/05/02/224928">RNNこれくしょんでLSTM使おうと思って失敗した話をMLCTでした - Java Coffee Cafe</a></iframe><cite class="hatena-citation"><a href="http://john-smith.hateblo.jp/entry/2015/05/02/224928">john-smith.hateblo.jp</a></cite>
 
 ## カジュアルとは
 
 [@con\_mame](https://twitter.com/con_mame/)さんのこれをみてください。
 
-&gt; AWS Casual Talks#1 で説明したカジュアルとはを再掲 [http://t.co/CdlqWIlDES](http://t.co/CdlqWIlDES) [#awscasual](https://twitter.com/hashtag/awscasual?src=hash)
-&gt; 
-&gt; — con\_mame (@con\_mame) [2014, 4月 18](https://twitter.com/con_mame/status/457130929270435840)
+> AWS Casual Talks#1 で説明したカジュアルとはを再掲 [http://t.co/CdlqWIlDES](http://t.co/CdlqWIlDES) [#awscasual](https://twitter.com/hashtag/awscasual?src=hash)
+> 
+> — con\_mame (@con\_mame) [2014, 4月 18](https://twitter.com/con_mame/status/457130929270435840)
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 これだけでは、わかりにくいと思うのですが、第一回のMLCTで[@unnonouno](https://twitter.com/unnonouno)さんが説明もなしにこのスライド(P.26)を流したというのがわかりやすいと思います。
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/6B92WutHaru5ww&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/6B92WutHaru5ww" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[Jubatusにおける機械学習のテスト@MLCT](https://www.slideshare.net/unnonouno/20140606-mlct &quot;Jubatusにおける機械学習のテスト@MLCT&quot;)** from **[Yuya Unno](http://www.slideshare.net/unnonouno)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/unnonouno/20140606-mlct/26&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[Jubatusにおける機械学習のテスト@MLCT](https://www.slideshare.net/unnonouno/20140606-mlct "Jubatusにおける機械学習のテスト@MLCT")** from **[Yuya Unno](http://www.slideshare.net/unnonouno)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/unnonouno/20140606-mlct/26">www.slideshare.net</a></cite>
 
 ディスカッションをメインにするという点はTokyo WebMiningなんかも似ているのですが、ある程度の前提は知っているというつもりで話してもらっているので、突っ込んだ議論ができていると思います。
 
@@ -74,7 +74,7 @@ projects: []
 
 そもそも、機械学習をWebサービスなどのシステムに組み込む上で、論文にならないけど大事な工夫が多くあると思います。 そういうのどうしてるの？と皆に聞ける場所が欲しいと思い始めました。
 
-そしたら、[SE4ML](https://sites.google.com/site/software4ml/)という、まさにという感じのWorkshopがNIPSに併催されていたりしました。([Machine Learning: The High-Interest Credit Card of Technical Debt](https://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxzb2Z0d2FyZTRtbHxneDpmNjQ1OWMwODQzMGU1ODY)が発表されたあそこです)
+そしたら、[SE4ML](https://sites.google.com/site/software4ml/)という、まさにという感じのWorkshopがNIPSに併催されていたりしました。([Machine Learning: The High-Interest Credit Card of Technical Debt](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzb2Z0d2FyZTRtbHxneDpmNjQ1OWMwODQzMGU1ODY)が発表されたあそこです)
 
 ## 募集方法について [2015/05/02 21:50追記]
 
@@ -88,7 +88,7 @@ projects: []
 
 ## というわけで
 
-次回は&quot;DevData&quot;というテーマがいいというお話をtokorotenさん方面からいただいています。
+次回は"DevData"というテーマがいいというお話をtokorotenさん方面からいただいています。
 
 \*1:[help](http://help.connpass.com/organizers/event-lottery)にある通り、指名もできるが今回は運営意外は指名しなかった
 

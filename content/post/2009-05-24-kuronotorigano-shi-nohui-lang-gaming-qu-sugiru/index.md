@@ -24,9 +24,9 @@ projects: []
 
 そしたら、こんなクロノトリガーのメドレーアレンジが。
 
-[youtube=[http://www.youtube.com/watch?v=pMMaH4AMJfM](http://www.youtube.com/watch?v=pMMaH4AMJfM)]
+{{< youtube pMMaH4AMJfM >}}
 
-[youtube=[http://www.youtube.com/watch?v=onPmNzbBnXA](http://www.youtube.com/watch?v=onPmNzbBnXA)]
+{{< youtube onPmNzbBnXA >}}
 
 クロノトリガーの作曲をされた[光田康典さん](http://ja.wikipedia.org/wiki/%E5%85%89%E7%94%B0%E5%BA%B7%E5%85%B8)は、昔から周りにファンがいたので名前は知っていましたが、改めて良い曲をかく人だなぁと再認識。
 

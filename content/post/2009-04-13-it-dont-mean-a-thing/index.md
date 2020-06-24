@@ -1,5 +1,5 @@
 ---
-title: "It don&amp;#39;t mean a thing."
+title: "It don&#39;t mean a thing."
 subtitle: ""
 summary: ""
 authors: [aki]
@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-[この曲](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=79313514&amp;id=79313534&amp;s=143462)がかっこいいです。  
+[この曲](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=79313514&id=79313534&s=143462)がかっこいいです。  
 Fight of Foo Birdsもかっこいいですが。  
   
 この辺のThe Real Groupが歌っているような曲の元曲やら、アレンジ曲を集めてみたいなぁと、思ってRealのCDをニマニマしながら聞いております。

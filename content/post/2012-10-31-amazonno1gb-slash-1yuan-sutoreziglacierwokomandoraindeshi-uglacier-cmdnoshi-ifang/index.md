@@ -63,11 +63,11 @@ SimpleDBはSQLのTableの概念に相当するdomainというものがありま�
 なお、right\_awsの利用には下記を参考にさせていただきました。  
 [AmazonWebServiceのSimpleDBをrubyでパフォーマンスチェック - 三並慶佐 - hi-fi-Net Blog](http://www.hi-fi-net.com/blog/blogs/minami/show/104)
 
-1.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;下記ツールを解凍し、index.htmlを開く(Chromeでは動作できず。Firefoxは動作確認済み)
+1.    下記ツールを解凍し、index.htmlを開く(Chromeでは動作できず。Firefoxは動作確認済み)
 
 [http://aws.amazon.com/code/1137](http://aws.amazon.com/code/1137)
 
-2.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Explore APIからCreateDomainを選択し、Domain Nameにmy-glacier-dbなど適当な名前を入れて、Invoke Requestをクリックする  
+2.     Explore APIからCreateDomainを選択し、Domain Nameにmy-glacier-dbなど適当な名前を入れて、Invoke Requestをクリックする  
 参考：[http://docs.amazonwebservices.com/AmazonSimpleDB/latest/GettingStartedGuide/CreatingADomain.html](http://docs.amazonwebservices.com/AmazonSimpleDB/latest/GettingStartedGuide/CreatingADomain.html)
 
 ## glacier-cmdのインストール
@@ -78,18 +78,18 @@ SimpleDBはSQLのTableの概念に相当するdomainというものがありま�
 基本的に、次回以降glacier-cmdを利用する際は source ~/env/glacier/bin/activateをしましょう。
 
 ## glacier-cmdの初期設定
-1.&amp;nbsp;&amp;nbsp;~/.glacier-cmdに設定を書き込む  
+1.  ~/.glacier-cmdに設定を書き込む  
 例)
 
     [aws] access\_key=AWSアクセスキーを書く secret\_key=AWSシークレットキーを書く [glacier] region=us-east-1 bookkeeping=True bookkeeping-domain-name=作成したSimpleDBのdomain名を書く logfile=~/.glacier-cmd.log loglevel=INFO output=print
 
-2.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Glacierのvaultと呼ばれるデータの保管場所を作成する  
+2.     Glacierのvaultと呼ばれるデータの保管場所を作成する  
 $ glacier-cmd mkvault Test
 
-3.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;vaultの作成結果を確認する  
+3.     vaultの作成結果を確認する  
 $ glacier-cmd lsvault
 
-&amp;nbsp;以上でGlacierの使用準備は完了です。
+ 以上でGlacierの使用準備は完了です。
 
 ## 利用するコマンド群
 後は必要に応じて以下のコマンドを利用してください。
@@ -114,15 +114,15 @@ $ glacier-cmd lsvault
 
 - データをダウンロードする
 
-    $ glacier-cmd getarchive Test&amp;nbsp;アーカイブID
+    $ glacier-cmd getarchive Test アーカイブID
 
 …4時間後
 
-    $ glacier-cmd download Test&amp;nbsp;アーカイブID –o outfilename
+    $ glacier-cmd download Test アーカイブID –o outfilename
 
 - データを消去する
 
-    $ glacier-cmd rmarchive Test&amp;nbsp;アーカイブID
+    $ glacier-cmd rmarchive Test アーカイブID
 
 - Jobの実行状況を調べる
 

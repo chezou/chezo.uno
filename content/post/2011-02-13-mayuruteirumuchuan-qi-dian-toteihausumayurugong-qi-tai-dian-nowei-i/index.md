@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-[![mayoor miyazakidai](http://distillery.s3.amazonaws.com/media/2011/02/12/0d0930be2428422cb18e68871b56d1f8_6.jpg &quot;マユール宮崎台店&quot;)](http://distillery.s3.amazonaws.com/media/2011/02/12/0d0930be2428422cb18e68871b56d1f8_6.jpg)
+[![mayoor miyazakidai](http://distillery.s3.amazonaws.com/media/2011/02/12/0d0930be2428422cb18e68871b56d1f8_6.jpg "マユール宮崎台店")](http://distillery.s3.amazonaws.com/media/2011/02/12/0d0930be2428422cb18e68871b56d1f8_6.jpg)
 
 先日、川崎のアゼリアにあるマユールティールームと、宮崎台にあるティーハウスマユールに行ってきました。写真は、宮崎台のマユールのチキンカレーです。
 
@@ -25,7 +25,7 @@ projects: []
 いつの間にやら[ツイッター(mayoor\_tea)を初めてらっしゃっていた](http://twitter.com/mayoor_tea)とのことで、チェックもしていました。(あまり更新はされていないようですが )  
 席は少なくカウンター4席くらい、テーブル席がソファー有りで3つ(2人×2＋3人)とこぢんまりとしていますが、ソファーのおかげで赤ちゃんがいてもなんとかなりました。ちなみに、アゼリアの多目的トイレが近くにあるのでおむつ替えも比較的容易でした。
 
-[![](http://distillery.s3.amazonaws.com/media/2011/02/05/d2267ebaf6094a33a45cfab6d536c17f_6.jpg &quot;mayoor kawasaki&quot;)](http://distillery.s3.amazonaws.com/media/2011/02/05/d2267ebaf6094a33a45cfab6d536c17f_6.jpg)
+[![](http://distillery.s3.amazonaws.com/media/2011/02/05/d2267ebaf6094a33a45cfab6d536c17f_6.jpg "mayoor kawasaki")](http://distillery.s3.amazonaws.com/media/2011/02/05/d2267ebaf6094a33a45cfab6d536c17f_6.jpg)
 
 で、先日いただいたのがこのフォンダンショコラと[ホワイトショコラチャイ](http://www.mayoor.jp/blog/recipe/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%83%81%E3%83%A3%E3%82%A4%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9%EF%BC%88%EF%BC%91%E4%BA%BA%E5%88%86%EF%BC%89.html)。ホワイトショコラチャイは初めて飲んだのですが、チョコがほどよく溶けてなかなかおいしかったです。フォンダンショコラもほどよい甘さでよかったです。
 

@@ -35,7 +35,7 @@ projects: []
 
 SphinxのDocker imageの作り方等は過去に書いているのでそちらを参考にしてください。
 
-&lt;iframe src=&quot;http://chezou.hatenablog.com/embed/2017/01/23/123835&quot; title=&quot;Gitlab CIを使ってSphinxのドキュメントを自動でPDFにビルドする - once upon a time,&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://chezou.hatenablog.com/entry/2017/01/23/123835&quot;&gt;chezou.hatenablog.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://chezou.hatenablog.com/embed/2017/01/23/123835" title="Gitlab CIを使ってSphinxのドキュメントを自動でPDFにビルドする - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2017/01/23/123835">chezou.hatenablog.com</a></cite>
 
 ## なぜDocker imageを用意したか？
 
@@ -50,25 +50,25 @@ SphinxのDocker imageの作り方等は過去に書いているのでそちら�
 
 じつはどちらもLinuxで書いていたともいえることがわかりました…
 
-&gt; [@chezou](https://twitter.com/chezou) windowsの中のvmwareの中のubuntuの中のdockerで執筆環境を動かしていたので、Windows環境かと言われると疑問符が……  
-&gt;   
-&gt; 執筆自体は、ubuntuのhomeをwin-sshfsでwin側にマウントしてterapadでやってましたが。
-&gt; 
-&gt; — ところてん (@tokoroten) [2017年4月8日](https://twitter.com/tokoroten/status/850621748533907456)
+> [@chezou](https://twitter.com/chezou) windowsの中のvmwareの中のubuntuの中のdockerで執筆環境を動かしていたので、Windows環境かと言われると疑問符が……  
+>   
+> 執筆自体は、ubuntuのhomeをwin-sshfsでwin側にマウントしてterapadでやってましたが。
+> 
+> — ところてん (@tokoroten) [2017年4月8日](https://twitter.com/tokoroten/status/850621748533907456)
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-&gt; [@chezou](https://twitter.com/chezou) おもしろ執筆環境。 [pic.twitter.com/i87mYkGMlV](https://t.co/i87mYkGMlV)
-&gt; 
-&gt; — ところてん (@tokoroten) [2017年4月9日](https://twitter.com/tokoroten/status/851108783811997696)
+> [@chezou](https://twitter.com/chezou) おもしろ執筆環境。 [pic.twitter.com/i87mYkGMlV](https://t.co/i87mYkGMlV)
+> 
+> — ところてん (@tokoroten) [2017年4月9日](https://twitter.com/tokoroten/status/851108783811997696)
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-&gt; [@chezou](https://twitter.com/chezou) お、自分は何も見ずにrstが書けるようになった時点でdocker runしてるAmazon Linux上のvimで執筆してました
-&gt; 
-&gt; — 超循環評価器@中欧放浪中 (@hagino3000) [2017年4月8日](https://twitter.com/hagino3000/status/850670097333186561)
+> [@chezou](https://twitter.com/chezou) お、自分は何も見ずにrstが書けるようになった時点でdocker runしてるAmazon Linux上のvimで執筆してました
+> 
+> — 超循環評価器@中欧放浪中 (@hagino3000) [2017年4月8日](https://twitter.com/hagino3000/status/850670097333186561)
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [/追記]
 
@@ -100,13 +100,13 @@ fontの埋め込みは、IPA系のフォントだとライセンス的に問題�
 
 実は書きはじめのときに、shirouさんがRe:VIEWの原稿をSphinxの原稿に変換していただきました。ありがとうございました。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fkmuto%2Freview%2Fpull%2F733&quot; title=&quot;rstbuilderを追加 by shirou · Pull Request #733 · kmuto/review&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://github.com/kmuto/review/pull/733&quot;&gt;github.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fkmuto%2Freview%2Fpull%2F733" title="rstbuilderを追加 by shirou · Pull Request #733 · kmuto/review" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://github.com/kmuto/review/pull/733">github.com</a></cite>
 
 何故か手元にあった結構ボリュームのあるRe:VIEWの原稿を変換できて、大体の問題は解決されているのではないかなと思います。
 
 なお、逆向きのSphinxの原稿からRe:VIEWを出力するプラグインもあります。これで、気が変わって別のフォーマットにexport/importが容易になりましたね！
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fshirou%2Fsphinxcontrib-reviewbuilder&quot; title=&quot;shirou/sphinxcontrib-reviewbuilder&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://github.com/shirou/sphinxcontrib-reviewbuilder&quot;&gt;github.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fshirou%2Fsphinxcontrib-reviewbuilder" title="shirou/sphinxcontrib-reviewbuilder" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://github.com/shirou/sphinxcontrib-reviewbuilder">github.com</a></cite>
 
 # おわりに
 

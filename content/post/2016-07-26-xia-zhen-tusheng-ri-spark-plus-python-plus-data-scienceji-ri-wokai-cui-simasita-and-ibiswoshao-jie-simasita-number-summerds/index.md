@@ -19,18 +19,18 @@ projects: []
 ---
 2016/07/25に「夏真っ盛り！Spark + Python + Data Science祭り」を開催しました。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Fconnpass.com%2Fevent%2F34680%2F&quot; title=&quot;夏真っ盛り！Spark + Python + Data Science祭り (2016/07/25 19:00〜)&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://connpass.com/event/34680/&quot;&gt;connpass.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fconnpass.com%2Fevent%2F34680%2F" title="夏真っ盛り！Spark + Python + Data Science祭り (2016/07/25 19:00〜)" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://connpass.com/event/34680/">connpass.com</a></cite>
 
 今回はClouderaに入って初めてのコミュニティイベントということでしたが、なんと400人を超える応募をいただいてとてもありがたい限りです。 会場をご提供いただいたDMM.comラボ様、発表いただいたサイバーエージェントの内藤さん、DMM.comラボの加嵜さん、LTの皆様ありがとうございました。
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Ftogetter.com%2Fli%2F1004741&quot; title=&quot;夏真っ盛り！Spark + Python + Data Science祭り まとめ #summerDS&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://togetter.com/li/1004741&quot;&gt;togetter.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Ftogetter.com%2Fli%2F1004741" title="夏真っ盛り！Spark + Python + Data Science祭り まとめ #summerDS" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://togetter.com/li/1004741">togetter.com</a></cite>
 
 # pandasを大規模データにつなぐIbis
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/q9kfzAPGQBoLA7&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/q9kfzAPGQBoLA7" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[Ibis: すごい pandas ⼤規模データ分析もらっくらく #summerDS](https://www.slideshare.net/Cloudera_jp/ibis-pandas-summerds &quot;Ibis: すごい pandas ⼤規模データ分析もらっくらく #summerDS&quot;)** from **[Cloudera Japan](http://www.slideshare.net/Cloudera_jp)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/Cloudera_jp/ibis-pandas-summerds&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[Ibis: すごい pandas ⼤規模データ分析もらっくらく #summerDS](https://www.slideshare.net/Cloudera_jp/ibis-pandas-summerds "Ibis: すごい pandas ⼤規模データ分析もらっくらく #summerDS")** from **[Cloudera Japan](http://www.slideshare.net/Cloudera_jp)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/Cloudera_jp/ibis-pandas-summerds">www.slideshare.net</a></cite>
 
 Ibisはpandasの作者でもある Wes McKinney([@wesmckinn](https://twitter.com/wesmckinn)) の作っているライブラリです。 ひとことで言うと、pandasのプログラマブルな処理を大規模データにもできるようにします。 大規模データは高速なSQLエンジンにまかせて、pandas likeなDSLでpandasと連携できるようにしており、データがTB以上のデータに対してもSQLを書かずに試行錯誤できます。
 
@@ -54,10 +54,10 @@ Ibisは、WesがPythonでend to endでPythonを使って分析をしたいとい
 
 # サイバーエージェント内藤さん： Amebaにおけるレコメンデーションシステムの紹介
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/2dcaCyZYeU8I3u&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/2dcaCyZYeU8I3u" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[Amebaにおけるレコメンデーションシステムの紹介](https://www.slideshare.net/cyberagent/ameba-64381671 &quot;Amebaにおけるレコメンデーションシステムの紹介&quot;)** from **[cyberagent](http://www.slideshare.net/cyberagent)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/cyberagent/ameba-64381671&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[Amebaにおけるレコメンデーションシステムの紹介](https://www.slideshare.net/cyberagent/ameba-64381671 "Amebaにおけるレコメンデーションシステムの紹介")** from **[cyberagent](http://www.slideshare.net/cyberagent)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/cyberagent/ameba-64381671">www.slideshare.net</a></cite>
 
 Amebaでの協調フィルタリングによるHBaseを使ったリアルタイムレコメンドの話。 Hadoopスタックだとリアルタイム性を出すのにはHBaseを使うのが多いのですが\*4、更にClick数を取得してバンディットアルゴリズムも使っているというのは凄いですね。
 
@@ -65,10 +65,10 @@ Amebaでの協調フィルタリングによるHBaseを使ったリアルタイ�
 
 # DMM.comラボ加嵜さん：Sparkを活用したレコメンドエンジンのパフォーマンスチューニング＆自動化
 
-&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/gVyO2JqZqd4GS7&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+<iframe src="https://www.slideshare.net/slideshow/embed_code/key/gVyO2JqZqd4GS7" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[Sparkを活用したレコメンドエンジンのパフォーマンスチューニング＆自動化](https://www.slideshare.net/knagato/sparkrecommendtuning &quot;Sparkを活用したレコメンドエンジンのパフォーマンスチューニング＆自動化&quot;)** from **[knagato](http://www.slideshare.net/knagato)** 
-&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://www.slideshare.net/knagato/sparkrecommendtuning&quot;&gt;www.slideshare.net&lt;/a&gt;&lt;/cite&gt;
+  **[Sparkを活用したレコメンドエンジンのパフォーマンスチューニング＆自動化](https://www.slideshare.net/knagato/sparkrecommendtuning "Sparkを活用したレコメンドエンジンのパフォーマンスチューニング＆自動化")** from **[knagato](http://www.slideshare.net/knagato)** 
+<cite class="hatena-citation"><a href="http://www.slideshare.net/knagato/sparkrecommendtuning">www.slideshare.net</a></cite>
 
 チューニングの話もインパクトが大きかったですが、jsonで「レシピ」を書けば、自分のサービスのレコメンドモデルができるという話はとても驚きました。 これを使えば、レコメンドに詳しくない人でも簡単にサービスに導入できそうです。 おそらく、ログフォーマットをきちんと統一して横展開をしているのでしょうね。
 
@@ -80,7 +80,7 @@ Google Data ProcでSparkを使ったら/tmpにjarが貯まるなど、いろい�
 
 ## uryyyyyyyさん：EMR上でPython3系でpysparkする話
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=http%3A%2F%2Fqiita.com%2Furyyyyyyy%2Fprivate%2Fefd4e96d292ffdedf2ef&quot; title=&quot;EMR上でPython3系でpysparkする話 - Qiita&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://qiita.com/uryyyyyyy/private/efd4e96d292ffdedf2ef&quot;&gt;qiita.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fqiita.com%2Furyyyyyyy%2Fprivate%2Fefd4e96d292ffdedf2ef" title="EMR上でPython3系でpysparkする話 - Qiita" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://qiita.com/uryyyyyyy/private/efd4e96d292ffdedf2ef">qiita.com</a></cite>
 
 EMRにAnacondaをいれてPySparkでモデルを作る話でした。逆質問でJuliaを使ってると答えた人が2人くらいだったとのことで寂しかったです。
 

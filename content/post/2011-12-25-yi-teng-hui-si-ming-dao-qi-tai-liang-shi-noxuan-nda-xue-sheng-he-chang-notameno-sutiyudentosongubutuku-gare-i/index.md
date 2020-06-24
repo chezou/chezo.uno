@@ -23,7 +23,7 @@ projects: []
 
 選曲はなにコラなどでおなじみの伊藤恵司氏とJCDAの理事でもある名島啓太氏の両名。
 
-&gt; この曲集には、ルネサンスからロマン派までの外国曲、日本の合唱曲のスタンダードナンバー、新しい日本の合唱曲など、今の大学生に歌って欲しい26曲が収録されています。
+> この曲集には、ルネサンスからロマン派までの外国曲、日本の合唱曲のスタンダードナンバー、新しい日本の合唱曲など、今の大学生に歌って欲しい26曲が収録されています。
 
 とありますが、
 
@@ -31,30 +31,30 @@ projects: []
 
 収録曲の詳細は以下の通り。
 
-&gt; 収録曲  
-&gt; 【世界の合唱曲】  
-&gt; Innsbruck, ich muss dich lassen (Isaac) / Matona mia cara (Lassus) /  
-&gt; Now is the month of Maying (Morley) / Ave Maria (Arcadelt) /  
-&gt; Ave Maria (Victoria) / Ave verum corpus (Byrd) /  
-&gt; Dir, dir,Jehova, will ich singen (J.S.Bach) /  
-&gt; Ach, arme Welt (Brahms) / Locus iste (Bruckner) /  
-&gt; Abschied vom Walde (Mendelssohn)  
-&gt; 【日本の合唱曲】  
-&gt; 遙かな友に (磯部俶) / 七里浜 (團伊玖磨) /  
-&gt; 木とともに人とともに (三善晃) / 卒業 (新実徳英) /  
-&gt; 夢みたものは… (木下牧子) / 鴎 (木下牧子) /  
-&gt; たったいま (松下耕) / ほほえみ (信長貴富) /  
-&gt; なみだ (北川昇) / ここから始まる (北川昇) /  
-&gt; 宿題 (相澤直人) / アヴェ・ヴェルム・コルプス (千原英喜)  
-&gt; 【男声合唱曲】  
-&gt; 斎太郎節 (竹花秀昭編曲) / 見上げてごらん夜の星を (秦実編曲)  
-&gt; 【女声合唱曲】  
-&gt; Salve Regina (Kocsar) / ほたるこい (小倉朗)
+> 収録曲  
+> 【世界の合唱曲】  
+> Innsbruck, ich muss dich lassen (Isaac) / Matona mia cara (Lassus) /  
+> Now is the month of Maying (Morley) / Ave Maria (Arcadelt) /  
+> Ave Maria (Victoria) / Ave verum corpus (Byrd) /  
+> Dir, dir,Jehova, will ich singen (J.S.Bach) /  
+> Ach, arme Welt (Brahms) / Locus iste (Bruckner) /  
+> Abschied vom Walde (Mendelssohn)  
+> 【日本の合唱曲】  
+> 遙かな友に (磯部俶) / 七里浜 (團伊玖磨) /  
+> 木とともに人とともに (三善晃) / 卒業 (新実徳英) /  
+> 夢みたものは… (木下牧子) / 鴎 (木下牧子) /  
+> たったいま (松下耕) / ほほえみ (信長貴富) /  
+> なみだ (北川昇) / ここから始まる (北川昇) /  
+> 宿題 (相澤直人) / アヴェ・ヴェルム・コルプス (千原英喜)  
+> 【男声合唱曲】  
+> 斎太郎節 (竹花秀昭編曲) / 見上げてごらん夜の星を (秦実編曲)  
+> 【女声合唱曲】  
+> Salve Regina (Kocsar) / ほたるこい (小倉朗)
 
 パナムジカさんの
 
-&gt; 各団の新しい「愛唱曲集」としてのみでなく、合同演奏など横のつながりを広げることにもきっと活躍するに違いないこの「スチューデント・ソングブック」。  
-&gt; 大学生のみならず、昔学生だった(!?)一般の合唱団にもどうぞ！
+> 各団の新しい「愛唱曲集」としてのみでなく、合同演奏など横のつながりを広げることにもきっと活躍するに違いないこの「スチューデント・ソングブック」。  
+> 大学生のみならず、昔学生だった(!?)一般の合唱団にもどうぞ！
 
 という言葉に込められていますが、昔学生だった人としても欲しい一冊であります。合同演奏や親睦会で気軽に歌える曲が増えると楽しいですよね。  
 後は、パナムジカのサイトに一曲一曲のパーマリンクが付けば問題なしなんだけどなぁ。。。  

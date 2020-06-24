@@ -33,7 +33,7 @@ projects: []
 - Ruby: テキスト処理や雑多なscripting
 - Ruby on Rails/JavaScript: Web開発
 - Python/Numpy(たまにMATLAB): 数値計算
-- MATLAB: ニューロイメージング&lt;sup id=&quot;fnref-1674-neuroimaging&quot;&gt;&lt;a href=&quot;#fn-1674-neuroimaging&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;データの解析
+- MATLAB: ニューロイメージング<sup id="fnref-1674-neuroimaging"><a href="#fn-1674-neuroimaging" rel="footnote">1</a></sup>データの解析
 - R: 統計的分析
 - R: プロット、可視化
 - それ以外のもののために、他の言語/環境の開拓
@@ -58,9 +58,9 @@ projects: []
 
 Rを例にとって考えてみよう。Rが手軽にそのまま使えるというメリットは、大量のメモリを必要とするデータセットに対しては適応できない弱点として認識されていた(もちろん、あなたが時間を投資するなら[回避する](http://cran.r-project.org/web/views/HighPerformanceComputing.html)ことができることは知っているが、多くの科学者は時間がない)。しかし、Rが大規模データに首を締められる方法や言語としての間抜けさを嫌っている人たちでさえも、しばしば迅速で重大なデータ処理が求められた時にRに戻らざるを得なかった。頑張ってPythonや他の高級言語にピボットや集約、整形、粉々にするためのコードを書くことはできたが、それをしようと思ったか？Rの[plyr](http://cran.r-project.org/web/packages/plyr/index.html)のような美しいパッケージは、他言語では実装に何時間もかかる処理を、2,3行のコードで実現できる。否定的な側面としては、学習曲線がそれぞれのパッケージの比較的複雑なAPIを学習するのに密接に関わる(例えばggplot2は信じられないほど表現力が高いが、学び直すのに毎回3ヶ月はかかる)。そして、Rの全般的なぎこちなさについて取り組まなければならない。しかし、概して明らかにその価値はあった。
 
-現在に戻って考えよう。先週、誰かが2,3年前私がRで書いたシミュレーションコードについて聞いてきた。私は、それらについて調べるためにR Studioを叩いたが、R Studioをとても長い時間使っていないように思えた(実際には6ヶ月にみたない期間だと思うが)。NumPy/SciPyとMatPlotLib, pandas, statsmodelsの組み合わせはRを効果的に置き換え、そのことにすら気づいていなかった。あるときから、&quot;本当の&quot;データ分析が必要なときに、Pythonから逃げRを使うことをやめた。その代わり、pandasとstatsmodelsに自分のコードを移行することを始めた。そしてそれと同様のことが、機械学習(scikit-learn),自然言語処理(nltk),ドキュメントパース(BeautifiulSoup)、そして多くの他のPython以外で処理していたことで起こった。
+現在に戻って考えよう。先週、誰かが2,3年前私がRで書いたシミュレーションコードについて聞いてきた。私は、それらについて調べるためにR Studioを叩いたが、R Studioをとても長い時間使っていないように思えた(実際には6ヶ月にみたない期間だと思うが)。NumPy/SciPyとMatPlotLib, pandas, statsmodelsの組み合わせはRを効果的に置き換え、そのことにすら気づいていなかった。あるときから、"本当の"データ分析が必要なときに、Pythonから逃げRを使うことをやめた。その代わり、pandasとstatsmodelsに自分のコードを移行することを始めた。そしてそれと同様のことが、機械学習(scikit-learn),自然言語処理(nltk),ドキュメントパース(BeautifiulSoup)、そして多くの他のPython以外で処理していたことで起こった。
 
-開発や分析のすべてを一つの言語で行うことには、結局かなりの利点がある。第1には、1つの言語であらゆることができるようになると、Rubyは内包表記の代わりにブロックを使う、Pythonではarrayのサイズを取得するのにlen(array)をarray.lengthの代わりに使うなど、認知的な[切り替えコスト](http://en.wikipedia.org/wiki/Task_switching_(psychology))がなくなる。認知的なオーバーヘッドを最小限にして問題を解けばよくなる。もちろん、違うプロジェクトの異なる言語間でのインターフェースについて心配する必要もなくなる。Pythonでテキストをパースして、そして最終的に求める内部フォーマットにし、RやMATLABに他の分析をさせるために異なるフォーマットでディスクに書き出すことほどいらいらすることはない&lt;sup id=&quot;fnref-1674-footnote1&quot;&gt;&lt;a href=&quot;#fn-1674-footnote1&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;。さらに、これらの類のことは重大なことではない。PythonからCSVやJSONを長時間かけて書き出して、Rに読み込むことはなくなる。しかし、それは納得がいく。統合的な開発はより複雑さを増す。なぜなら、益々多くのコードがディスクの中のあちこちに散らばるからだ(少なくともあなたが私の整理整頓能力と同じならば)。  
+開発や分析のすべてを一つの言語で行うことには、結局かなりの利点がある。第1には、1つの言語であらゆることができるようになると、Rubyは内包表記の代わりにブロックを使う、Pythonではarrayのサイズを取得するのにlen(array)をarray.lengthの代わりに使うなど、認知的な[切り替えコスト](http://en.wikipedia.org/wiki/Task_switching_(psychology))がなくなる。認知的なオーバーヘッドを最小限にして問題を解けばよくなる。もちろん、違うプロジェクトの異なる言語間でのインターフェースについて心配する必要もなくなる。Pythonでテキストをパースして、そして最終的に求める内部フォーマットにし、RやMATLABに他の分析をさせるために異なるフォーマットでディスクに書き出すことほどいらいらすることはない<sup id="fnref-1674-footnote1"><a href="#fn-1674-footnote1" rel="footnote">2</a></sup>。さらに、これらの類のことは重大なことではない。PythonからCSVやJSONを長時間かけて書き出して、Rに読み込むことはなくなる。しかし、それは納得がいく。統合的な開発はより複雑さを増す。なぜなら、益々多くのコードがディスクの中のあちこちに散らばるからだ(少なくともあなたが私の整理整頓能力と同じならば)。  
 これでは、インターフェースのためのつまらないラッパーを書くという「データ分析(笑)」で日が暮れてしまう。本来データをどう変換し、扱うべきかを考える代わりに。  
 つまり、あなたの美しい分析のためのコードが、醜いopen(), read()といったI/Oコールにまみれてしまうのだ！これらのオーバーヘッドすべてが、単一言語で書けば瞬く間に消える。
 
@@ -72,7 +72,7 @@ Rを例にとって考えてみよう。Rが手軽にそのまま使えるとい
 
 追記:  
 この記事を書き始めてから書き終わるまでに(2週間くらいだろう)、2つのPythonベースのデータ可視化のパッケージを新しく見つけた。  
-Michael Waskomの[seaborn package](https://github.com/mwaskom/seaborn)(複雑な図をとても高度に抽象化してggplot2のように美しく書くことができる)と、Continuum Analyticsの[bokeh](https://github.com/ContinuumIO/Bokeh)(これはwebベースの可視化&lt;sup id=&quot;fnref-1674-footnote2&quot;&gt;&lt;a href=&quot;#fn-1674-footnote2&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;を大きく変える可能性を持っている)である。Pythonのエコシステムのスピードを考えると、自分の考えを分析コードに直接してくれるPythonパッケージを使う時が来ることも夢ではないかもしれない。
+Michael Waskomの[seaborn package](https://github.com/mwaskom/seaborn)(複雑な図をとても高度に抽象化してggplot2のように美しく書くことができる)と、Continuum Analyticsの[bokeh](https://github.com/ContinuumIO/Bokeh)(これはwebベースの可視化<sup id="fnref-1674-footnote2"><a href="#fn-1674-footnote2" rel="footnote">3</a></sup>を大きく変える可能性を持っている)である。Pythonのエコシステムのスピードを考えると、自分の考えを分析コードに直接してくれるPythonパッケージを使う時が来ることも夢ではないかもしれない。
 
   
 
@@ -80,10 +80,10 @@ Michael Waskomの[seaborn package](https://github.com/mwaskom/seaborn)(複雑な
   
 
 1.   
-訳注:[Wikipedia](http://en.wikipedia.org/wiki/Neuroimaging)&amp;nbsp;↩  
+訳注:[Wikipedia](http://en.wikipedia.org/wiki/Neuroimaging) ↩  
 2.   
-PythonとR等の間に、オブジェクトを内部的にやりとりできる様々なインターフェースがあることは知っている。私の経験上、これらは断然ポジティブではないし、常に複数の言語をまたぐために余計なコードを書く手間は依然として残っている。&amp;nbsp;↩  
+PythonとR等の間に、オブジェクトを内部的にやりとりできる様々なインターフェースがあることは知っている。私の経験上、これらは断然ポジティブではないし、常に複数の言語をまたぐために余計なコードを書く手間は依然として残っている。 ↩  
 3.   
-そう、あなたが聞いたことは間違っていない。Pythonを使ってwebベースの可視化をするのだ。Bokehは静的なJavaScriptとJSONをPythonから生成する。あなたはネイティブなJSコードを書くこと無く、魅惑的な図をウェブページでユーザに見せることができるのだ。&amp;nbsp;↩  
+そう、あなたが聞いたことは間違っていない。Pythonを使ってwebベースの可視化をするのだ。Bokehは静的なJavaScriptとJSONをPythonから生成する。あなたはネイティブなJSコードを書くこと無く、魅惑的な図をウェブページでユーザに見せることができるのだ。 ↩  
 
 

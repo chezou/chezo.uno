@@ -28,7 +28,7 @@ projects: []
 
 そこでは、[SUPER JOHN BROTHERS](http://www.daisukekaminaga.com/portfolio/portfolio/02-super_john_brothers/index.html)と呼ばれる尺八の神永大輔氏を中心とした、ヴァイオリン、ベース、ドラム、キーボードという異色の編成のバンドのライブ演奏が披露されました。特に、神永氏はクロノクロスの「時の傷痕」を聴いて光田氏の曲に惚れ込み、そのメロディから尺八を始めることを志されたそうです。(実際に原曲も尺八だったとは後から気づいたそうです)
 
-[youtube=[http://www.youtube.com/watch?v=H9u7Bd6uD-Q](http://www.youtube.com/watch?v=H9u7Bd6uD-Q)]
+{{< youtube H9u7Bd6uD-Q >}}
 
 神永氏もそうですが、ベースの岩田氏も光田氏の大ファンとのことで、演奏者が大興奮しておりました(笑)確かに、作曲者の前で演奏する機会って中々ないですもんね。  
 シンポジウム自体無料で開催されたのですが、とても愛のある演奏で幸せな空間でした。特に自分の好きな時の傷痕が聴けたのはとても良いアレンジで鳥肌物でした。小さなスタジオが一体になったのを思い出します。
@@ -37,13 +37,13 @@ projects: []
 フィンランドの伝統的な楽器カンテレを、モダンに演奏するIda Elinaさんのライブでした。  
 Unelmien Keikkaという素敵な曲を紹介します。
 
-[youtube=[http://www.youtube.com/watch?v=5N8ITa8omt4](http://www.youtube.com/watch?v=5N8ITa8omt4)]
+{{< youtube 5N8ITa8omt4 >}}
 
 そもそも、カンテレという楽器を知ったのが3日前だったのですが、ふらっと行ってきました。（YouTubeを見て良さそうだなとは思っていました)彼女は札幌に留学生として音楽を学びに3年前日本に来たそうで、そこで出会った方々や体験を通じて演奏活動を続けることを決意されたんだとか。
 
 彼女の演奏する曲は、明るくきらびやかな和音を中心に使っており、とても聴いていて元気になります。(こんなことを言っては失礼かもしれませんが、フィンランドの音楽って割と重々しい曲が多いイメージなんですよね。好きなんですけど)たとえば、Good Newsという曲なんかがそういうイメージになります。
 
-[youtube=[http://www.youtube.com/watch?v=XIpMxtf0nwI](http://www.youtube.com/watch?v=XIpMxtf0nwI)]
+{{< youtube XIpMxtf0nwI >}}
 
 ライブのお値段も良心的で軽食という名の軽いビュッフェ付きで2000円でしたので、お釣りが帰ってくるんじゃないかという勢いでした。特に、「さくら」や「あかとんぼ」のカンテレアレンジを織り交ぜた、日本人への配慮がとても嬉しく、小さな箱でしたが純粋に楽しめました。
 
@@ -51,7 +51,7 @@ Unelmien Keikkaという素敵な曲を紹介します。
 [Press Start 2012](http://www.famitsu.com/famiweb/pressstart/)は、FFの植松伸夫氏やスマブラの桜井政博氏、指揮者の竹本泰蔵氏らが企画をしている「ゲーム音楽の紅白」(桜井氏談)です。過去に2回ほど聴きに行ったのですが、特に2010年の公演が素晴らしく鮮明に記憶に残っています。  
 今年はSkyrimのOpening Themeやゼルダの伝説 スカイウォードソードの曲を演奏するなど期待をしていました。Skyrimの曲はPeter Hollensというドヤ顔で有名([あかぺら村](http://acappellavillage.blog103.fc2.com/)の村長談)な多重録音アカペラーとヴァイオリンのLindsey Stirlingとの演奏が格好いいです。1人の声と1本のヴァイオリンで、、、というくだりにはつっこまずにいられませんが。
 
-[youtube=[http://www.youtube.com/watch?v=BSLPH9d-jsI](http://www.youtube.com/watch?v=BSLPH9d-jsI)]
+{{< youtube BSLPH9d-jsI >}}
 
 東京フィルの安定した演奏で、竹本泰蔵氏の熱い指揮による素晴らしい演奏がBunkamuraオーチャードホールにて行われました。  
 ですが、大好きなSkyrimを聴いてズコーッとなってしまいました。

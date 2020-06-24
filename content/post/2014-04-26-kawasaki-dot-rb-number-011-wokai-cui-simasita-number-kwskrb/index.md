@@ -33,11 +33,11 @@ categories:
 
 # AngularJS+SinatraでTurbolinks: [@snowcrush](https://twitter.com/snowcrush) さん
 
-[slideshare id=33852359&amp;doc=angularjssinatraturbolinks-140423094625-phpapp01]
+[slideshare id=33852359&doc=angularjssinatraturbolinks-140423094625-phpapp01]
 
 @snowcrush さんのblogは、AngularJS + Sinatraで構成されているそうですが、  
 google botsはJSで動的に生成されたページにindexを貼ってくれないので、  
 なんとかして拾えるようにしましたという話。  
-&quot;これってTurbolinksじゃん！Railsで良いじゃん！&quot;という結論には、笑ってしまいました。
+"これってTurbolinksじゃん！Railsで良いじゃん！"という結論には、笑ってしまいました。
 
 

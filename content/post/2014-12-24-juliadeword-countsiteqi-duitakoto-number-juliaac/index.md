@@ -19,7 +19,7 @@ projects: []
 ---
 この記事は、[Julia Advent Calendar](http://qiita.com/advent-calendar/2014/julialang) 24日目の記事です。 昨日は[@nezuqさんのJuliaで楽しくWebスクレイピング！](http://qiita.com/nezuq/items/58ad2431654b5a494543)でした。
 
-悲しいお知らせですが、このブログを通じてわかったのは、Python \&gt; Ingress \&gt;\&gt;\&gt; Juliaという人気度だということでした。Ingressの話は今回しません。
+悲しいお知らせですが、このブログを通じてわかったのは、Python \> Ingress \>\>\> Juliaという人気度だということでした。Ingressの話は今回しません。
 
 当初は、Cで書かれたライブラリをバインディングする方法について書こうと思っていたのですが、r9y9さんによる[ポインタ周りの解説](http://r9y9.github.io/blog/2014/12/09/julia-advent-calender-2014-poiner-tips/)が出ていたので、必要なくなったかなと思い、Juliaならではの型の話をしたいと思います。
 
@@ -47,37 +47,37 @@ top10個の単語を取り出したいときはこう書きます。
 
 できないんです
 
-    julia\&gt; sort( sort(r::UnitRange{T&lt;:real at range.jl:531 sort sort.jl:346 range.jl:534 sort.jl:364&gt;
+    julia\> sort( sort(r::UnitRange{T<:real at range.jl:531 sort sort.jl:346 range.jl:534 sort.jl:364>
     
     
-    &lt;p&gt;あれれ？調べていると、過去には&lt;code&gt;sort_by&lt;/code&gt;が出来た時期もあったようなのですが、今は出来ないようです。&lt;/p&gt;
+    <p>あれれ？調べていると、過去には<code>sort_by</code>が出来た時期もあったようなのですが、今は出来ないようです。</p>
     
-    &lt;p&gt;そこで考えだしたのは、DataFrameを使えばいいんじゃない！って方法&lt;/p&gt;
+    <p>そこで考えだしたのは、DataFrameを使えばいいんじゃない！って方法</p>
     
-    &lt;pre class=&quot;code&quot; data-lang=&quot;&quot; data-unlink&gt;dict = Dict{String, Int64}(&quot;apple&quot; =&amp;gt; 100, &quot;town&quot; =&amp;gt; 250, &quot;space&quot; =&amp;gt; 24)
+    <pre class="code" data-lang="" data-unlink>dict = Dict{String, Int64}("apple" =&gt; 100, "town" =&gt; 250, "space" =&gt; 24)
     df = DataFrame(word = collect(keys(dict)), count = collect(values(dict)))
-    sort(df, cols = [:count], rev = true)&lt;/pre&gt;
+    sort(df, cols = [:count], rev = true)</pre>
     
     
-    &lt;p&gt;でも、このDataFrameの作り方、&lt;code&gt;convert(DataFrame, dict)&lt;/code&gt;で単純にできる形式と全然違うので不安ですよね。
-    なので、&lt;a href=&quot;https://groups.google.com/d/topic/julia-users/uIotqx3M12g/discussion&quot;&gt;有識者に聞いてみました&lt;/a&gt;。&lt;/p&gt;
+    <p>でも、このDataFrameの作り方、<code>convert(DataFrame, dict)</code>で単純にできる形式と全然違うので不安ですよね。
+    なので、<a href="https://groups.google.com/d/topic/julia-users/uIotqx3M12g/discussion">有識者に聞いてみました</a>。</p>
     
-    &lt;h1&gt;julia-usersで聞いてみた回答&lt;/h1&gt;
+    <h1>julia-usersで聞いてみた回答</h1>
     
-    &lt;p&gt;閾値処理をしたいなら、&lt;code&gt;Dict()&lt;/code&gt;作って二回ループ回せばいいし、Top　N個の単語を取ってきたいのなら、&lt;a href=&quot;http://julia.readthedocs.org/en/latest/stdlib/collections/#priorityqueue&quot;&gt;&lt;code&gt;PriorityQueue()&lt;/code&gt;&lt;/a&gt;を使うのがいいよ、との回答でした。&lt;/p&gt;
+    <p>閾値処理をしたいなら、<code>Dict()</code>作って二回ループ回せばいいし、Top　N個の単語を取ってきたいのなら、<a href="http://julia.readthedocs.org/en/latest/stdlib/collections/#priorityqueue"><code>PriorityQueue()</code></a>を使うのがいいよ、との回答でした。</p>
     
-    &lt;p&gt;後からsortするとo(NlogN)かかるじゃん。それだったら、最適なデータ構造を使えばいいんじゃないの、ということでした。確かに。&lt;/p&gt;
+    <p>後からsortするとo(NlogN)かかるじゃん。それだったら、最適なデータ構造を使えばいいんじゃないの、ということでした。確かに。</p>
     
-    &lt;p&gt;こんなコードになります。
-    書き方も処理速度もほとんど代わりませんね。&lt;code&gt;Collection.dequeue!(pq)&lt;/code&gt;して、必要な回数だけ取り出しましょう。&lt;/p&gt;
+    <p>こんなコードになります。
+    書き方も処理速度もほとんど代わりませんね。<code>Collection.dequeue!(pq)</code>して、必要な回数だけ取り出しましょう。</p>
     
-    &lt;pre class=&quot;code&quot; data-lang=&quot;&quot; data-unlink&gt;julia&amp;gt; f = open(&quot;input.txt&quot;)
-    IOStream(&lt;file input.txt&gt;)
+    <pre class="code" data-lang="" data-unlink>julia&gt; f = open("input.txt")
+    IOStream(<file input.txt>)
     
-    julia&amp;gt; text = readall(f);
+    julia&gt; text = readall(f);
     
-    julia&amp;gt; function count_word(text::UTF8String)
-             mecab = Mecab(&quot;-O wakati&quot;)
+    julia&gt; function count_word(text::UTF8String)
+             mecab = Mecab("-O wakati")
              counts = Dict{UTF8String, Int}()
              for word in split(sparse_tostr(mecab, text))
                  counts[word] = get(counts, word, 0) + 1
@@ -86,39 +86,39 @@ top10個の単語を取り出したいときはこう書きます。
            end
     count_word (generic function with 1 method)
     
-    julia&amp;gt; @time count_word(text)
+    julia&gt; @time count_word(text)
     elapsed time: 0.953731616 seconds (29676144 bytes allocated, 24.68% gc time)
     Dict{UTF8String,Int64} with 13583 entries:
-      &quot;ウィキ&quot; =&amp;gt; 1
-      &quot;TAKE&quot; =&amp;gt; 2
-      &quot;null&quot; =&amp;gt; 4
-      &quot;変革&quot; =&amp;gt; 5
-      &quot;クソ&quot; =&amp;gt; 1
-      &quot;228&quot; =&amp;gt; 3
-      &quot;迫っ&quot; =&amp;gt; 1
-      &quot;村山&quot; =&amp;gt; 1
-      &quot;寺嶋&quot; =&amp;gt; 1
-      &quot;リビング&quot; =&amp;gt; 1
-      &quot;国籍&quot; =&amp;gt; 1
-      &quot;ベーコン&quot; =&amp;gt; 1
-      &quot;出す&quot; =&amp;gt; 13
-      &quot;Core&quot; =&amp;gt; 5
-      &quot;当選&quot; =&amp;gt; 2
-      &quot;moguno&quot; =&amp;gt; 1
-      &quot;Brainfuck&quot; =&amp;gt; 1
-      &quot;積ん&quot; =&amp;gt; 4
-      &quot;backup&quot; =&amp;gt; 2
-      &quot;stress&quot; =&amp;gt; 1
-      &quot;Qw&quot; =&amp;gt; 1
-      &quot;細かい&quot; =&amp;gt; 3
-      &quot;従って&quot; =&amp;gt; 1
-      &quot;括弧&quot; =&amp;gt; 1
-      &quot;ある程度&quot; =&amp;gt; 1
-      &quot;法&quot; =&amp;gt; 14
-      ⋮ =&amp;gt; ⋮
+      "ウィキ" =&gt; 1
+      "TAKE" =&gt; 2
+      "null" =&gt; 4
+      "変革" =&gt; 5
+      "クソ" =&gt; 1
+      "228" =&gt; 3
+      "迫っ" =&gt; 1
+      "村山" =&gt; 1
+      "寺嶋" =&gt; 1
+      "リビング" =&gt; 1
+      "国籍" =&gt; 1
+      "ベーコン" =&gt; 1
+      "出す" =&gt; 13
+      "Core" =&gt; 5
+      "当選" =&gt; 2
+      "moguno" =&gt; 1
+      "Brainfuck" =&gt; 1
+      "積ん" =&gt; 4
+      "backup" =&gt; 2
+      "stress" =&gt; 1
+      "Qw" =&gt; 1
+      "細かい" =&gt; 3
+      "従って" =&gt; 1
+      "括弧" =&gt; 1
+      "ある程度" =&gt; 1
+      "法" =&gt; 14
+      ⋮ =&gt; ⋮
     
-    julia&amp;gt; function count_word2(text::UTF8String)
-             mecab = Mecab(&quot;-O wakati&quot;)
+    julia&gt; function count_word2(text::UTF8String)
+             mecab = Mecab("-O wakati")
              counts = Collections.PriorityQueue()
              for word in split(sparse_tostr(mecab, text))
                  counts[word] = get(counts, word, 0) - 1
@@ -127,45 +127,45 @@ top10個の単語を取り出したいときはこう書きます。
            end
     count_word2 (generic function with 1 method)
     
-    julia&amp;gt; @time count_word2(text)
+    julia&gt; @time count_word2(text)
     elapsed time: 0.891081099 seconds (24265472 bytes allocated, 20.83% gc time)
     PriorityQueue{Any,Any,ForwardOrdering} with 13583 entries:
-      &quot;ウィキ&quot; =&amp;gt; -1
-      &quot;TAKE&quot; =&amp;gt; -2
-      &quot;null&quot; =&amp;gt; -4
-      &quot;変革&quot; =&amp;gt; -5
-      &quot;クソ&quot; =&amp;gt; -1
-      &quot;228&quot; =&amp;gt; -3
-      &quot;迫っ&quot; =&amp;gt; -1
-      &quot;村山&quot; =&amp;gt; -1
-      &quot;寺嶋&quot; =&amp;gt; -1
-      &quot;リビング&quot; =&amp;gt; -1
-      &quot;国籍&quot; =&amp;gt; -1
-      &quot;ベーコン&quot; =&amp;gt; -1
-      &quot;出す&quot; =&amp;gt; -13
-      &quot;Core&quot; =&amp;gt; -5
-      &quot;当選&quot; =&amp;gt; -2
-      &quot;moguno&quot; =&amp;gt; -1
-      &quot;Brainfuck&quot; =&amp;gt; -1
-      &quot;積ん&quot; =&amp;gt; -4
-      &quot;backup&quot; =&amp;gt; -2
-      &quot;stress&quot; =&amp;gt; -1
-      &quot;Qw&quot; =&amp;gt; -1
-      &quot;細かい&quot; =&amp;gt; -3
-      &quot;従って&quot; =&amp;gt; -1
-      &quot;括弧&quot; =&amp;gt; -1
-      &quot;ある程度&quot; =&amp;gt; -1
-      &quot;法&quot; =&amp;gt; -14
-      ⋮ =&amp;gt; ⋮&lt;/file&gt;&lt;/pre&gt;
+      "ウィキ" =&gt; -1
+      "TAKE" =&gt; -2
+      "null" =&gt; -4
+      "変革" =&gt; -5
+      "クソ" =&gt; -1
+      "228" =&gt; -3
+      "迫っ" =&gt; -1
+      "村山" =&gt; -1
+      "寺嶋" =&gt; -1
+      "リビング" =&gt; -1
+      "国籍" =&gt; -1
+      "ベーコン" =&gt; -1
+      "出す" =&gt; -13
+      "Core" =&gt; -5
+      "当選" =&gt; -2
+      "moguno" =&gt; -1
+      "Brainfuck" =&gt; -1
+      "積ん" =&gt; -4
+      "backup" =&gt; -2
+      "stress" =&gt; -1
+      "Qw" =&gt; -1
+      "細かい" =&gt; -3
+      "従って" =&gt; -1
+      "括弧" =&gt; -1
+      "ある程度" =&gt; -1
+      "法" =&gt; -14
+      ⋮ =&gt; ⋮</file></pre>
     
     
-    &lt;p&gt;型と多重dispatchがある分、なんでも同じようにできるわけではないこと、そしてそれをやるのが本当に最適手なのかを考えることができました。
-    なお、julia-usersは気軽に質問できてどんどん斧が飛んできて楽しいので、みなさんも読むことをおすすめします！&lt;/p&gt;
+    <p>型と多重dispatchがある分、なんでも同じようにできるわけではないこと、そしてそれをやるのが本当に最適手なのかを考えることができました。
+    なお、julia-usersは気軽に質問できてどんどん斧が飛んできて楽しいので、みなさんも読むことをおすすめします！</p>
     
-    &lt;p&gt;明日はkimrinさんによるJuliaで楽器を作ろう！です。楽しみですね。&lt;/p&gt;
-    &lt;div class=&quot;footnote&quot;&gt;
-    &lt;p class=&quot;footnote&quot;&gt;&lt;a href=&quot;#fn-23bc65e3&quot; name=&quot;f-23bc65e3&quot; class=&quot;footnote-number&quot;&gt;*1&lt;/a&gt;&lt;span class=&quot;footnote-delimiter&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;footnote-text&quot;&gt;本人のアイコン、バイキングの帽子をかぶっているのが有名ですよね&lt;/span&gt;&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;/:real&gt;
+    <p>明日はkimrinさんによるJuliaで楽器を作ろう！です。楽しみですね。</p>
+    <div class="footnote">
+    <p class="footnote"><a href="#fn-23bc65e3" name="f-23bc65e3" class="footnote-number">*1</a><span class="footnote-delimiter">:</span><span class="footnote-text">本人のアイコン、バイキングの帽子をかぶっているのが有名ですよね</span></p>
+    </div>
+    </:real>
 
 

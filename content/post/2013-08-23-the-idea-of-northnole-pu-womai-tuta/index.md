@@ -22,7 +22,7 @@ projects: []
 何より、SATB4人だと集めやすい。
 
 こんな感じの曲を歌います。これはIsn&#39;t She lovely?のアカペラアレンジ。  
-[youtube=[http://www.youtube.com/watch?v=onHTTy0Gp9k](http://www.youtube.com/watch?v=onHTTy0Gp9k)]
+{{< youtube onHTTy0Gp9k >}}
 
 少し手間はかかりますが、[オフィシャル](http://www.idea.com.au/our_music/scores)からクレジットカード(Paypal)を使いネットで決済ができてPDFで送ってもらえるので、Rajatonの時に比べるとだいぶ楽です。
 
@@ -34,14 +34,14 @@ scores@idea.com.auにメールします。
 
 例えばこんな感じ。
 
-&gt; Hi,
-&gt; 
-&gt; I&#39;d like to purchase following scores in PDF format.
-&gt; 
-&gt; - 楽譜A
-&gt; - 楽譜B
-&gt; 
-&gt; How much do they cost?
+> Hi,
+> 
+> I&#39;d like to purchase following scores in PDF format.
+> 
+> - 楽譜A
+> - 楽譜B
+> 
+> How much do they cost?
 
 すると、メンバーのNaomiさんが返信してくれます。  
 最初、事務スタッフ的な人が返信してくれるんだろうと思って5営業日返信なかった時に、「早くしてくれよ、円が安くなってるんだから」とか言ったのは平謝りするしかありません。

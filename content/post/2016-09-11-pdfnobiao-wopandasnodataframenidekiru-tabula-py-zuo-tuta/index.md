@@ -27,7 +27,7 @@ RubyKaigiに参加するとコード書きたいという気持ちが高まっ�
 
 [tabulizerパッケージによるPDF表データからのデータ取得](http://suryu.me/20160824_tabulizer_fantastic_extract_data_from_pdf)
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fropenscilabs%2Ftabulizer&quot; title=&quot;ropenscilabs/tabulizer&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://github.com/ropenscilabs/tabulizer&quot;&gt;github.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Fropenscilabs%2Ftabulizer" title="ropenscilabs/tabulizer" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://github.com/ropenscilabs/tabulizer">github.com</a></cite>
 
 # 使い方
 
@@ -37,11 +37,11 @@ RubyKaigiに参加するとコード書きたいという気持ちが高まっ�
 
 こんな感じで使えます。
 
-    from tabula import read\_pdf\_table df = read\_pdf\_table(&quot;data.pdf&quot;)
+    from tabula import read\_pdf\_table df = read\_pdf\_table("data.pdf")
 
 詳細はnotebookを見てください。
 
-&lt;iframe src=&quot;http://nbviewer.jupyter.org/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb&quot; width=&quot;800&quot; height=&quot;600&quot;&gt; &lt;/iframe&gt;
+<iframe src="http://nbviewer.jupyter.org/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb" width="800" height="600"> </iframe>
 # RubyKaigiの成果と感想
 
 - rubyist.clubで[@mirakui](https://twitter.com/mirakui)さんをゲストに[収録](https://rubyist.club/10/)した

@@ -21,7 +21,7 @@ Justin Huang([@rawjustin](https://twitter.com/rawrjustin))さんのJuliaとPytho
 
 Juliaは科学計算・数値計算向けの言語として高速さを売りにしている言語で、Rからの移行を進める人たちも増えているようです。
 
-以前訳した[科学計算にPythonが適している](https://chezou.wordpress.com/2014/01/18/%e7%a7%91%e5%ad%a6%e8%a8%88%e7%ae%97%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e5%9d%87%e8%b3%aa%e5%8c%96%e3%80%81%e3%81%82%e3%82%8b%e3%81%84%e3%81%af%e3%81%aa%e3%81%9cpython%e3%81%8c%e7%9d%80%e5%ae%9f/ &quot;科学計算における均質化、あるいはなぜPythonが着実に他言語のシェアを奪っているか&quot;)という記事を読んでいた時に、そういえば、Juliaって言語があったな、と思って調べていました。([はじパタでもJuliaのLT](https://chezou.wordpress.com/2014/02/23/%e3%80%8c%e3%81%af%e3%81%98%e3%82%81%e3%81%a6%e3%81%ae%e3%83%91%e3%82%bf%e3%83%bc%e3%83%b3%e8%aa%8d%e8%ad%98%e3%80%8d%e8%aa%ad%e6%9b%b8%e4%bc%9a%e3%81%ab%e5%8f%82%e5%8a%a0%e3%81%97%e3%81%be%e3%81%97/ &quot;「はじめてのパターン認識」読書会に参加しました #はじパタ&quot;)しましたし、[kawasaki.rb 8回](https://chezou.wordpress.com/2014/01/25/kawasaki-rb-008-%e3%82%92%e9%96%8b%e5%82%ac%e3%81%97%e3%81%be%e3%81%97%e3%81%9f-kwskrb/ &quot;kawasaki.rb #008 を開催しました #kwskrb&quot;)で出てくるベンチマークも印象に残っています)
+以前訳した[科学計算にPythonが適している](https://chezou.wordpress.com/2014/01/18/%e7%a7%91%e5%ad%a6%e8%a8%88%e7%ae%97%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e5%9d%87%e8%b3%aa%e5%8c%96%e3%80%81%e3%81%82%e3%82%8b%e3%81%84%e3%81%af%e3%81%aa%e3%81%9cpython%e3%81%8c%e7%9d%80%e5%ae%9f/ "科学計算における均質化、あるいはなぜPythonが着実に他言語のシェアを奪っているか")という記事を読んでいた時に、そういえば、Juliaって言語があったな、と思って調べていました。([はじパタでもJuliaのLT](https://chezou.wordpress.com/2014/02/23/%e3%80%8c%e3%81%af%e3%81%98%e3%82%81%e3%81%a6%e3%81%ae%e3%83%91%e3%82%bf%e3%83%bc%e3%83%b3%e8%aa%8d%e8%ad%98%e3%80%8d%e8%aa%ad%e6%9b%b8%e4%bc%9a%e3%81%ab%e5%8f%82%e5%8a%a0%e3%81%97%e3%81%be%e3%81%97/ "「はじめてのパターン認識」読書会に参加しました #はじパタ")しましたし、[kawasaki.rb 8回](https://chezou.wordpress.com/2014/01/25/kawasaki-rb-008-%e3%82%92%e9%96%8b%e5%82%ac%e3%81%97%e3%81%be%e3%81%97%e3%81%9f-kwskrb/ "kawasaki.rb #008 を開催しました #kwskrb")で出てくるベンチマークも印象に残っています)
 
 今回のJustinさんの指摘では、普通のプログラマーにとってPythonよりもJuliaの方が、特定の高速化を意識せずにコードを書けるため、プロトタイプに向いているのでは、という点が興味深い視点でした。
 
@@ -35,7 +35,7 @@ Juliaは科学計算・数値計算向けの言語として高速さを売りに
 
 jwmerrill 氏曰く、
 
-&gt; In general, carefully written devectorized Julia will be faster than equivalent vectorized code because it is possible to avoid allocating containers at intermediate stages of the computation. This is surprising for people coming from e.g. Matlab, R, or Numpy, because vectorized code is often faster in those environments.
+> In general, carefully written devectorized Julia will be faster than equivalent vectorized code because it is possible to avoid allocating containers at intermediate stages of the computation. This is surprising for people coming from e.g. Matlab, R, or Numpy, because vectorized code is often faster in those environments.
 
 ということなので、Juliaは驚くべきことに、vectorizeしない方が高速になるようです。やばい
 
@@ -101,12 +101,12 @@ $latex S\_t = S\_{t-\Delta t}e^{\left((r-\frac{\sigma^2}{2})\Delta t+\sigma \sqr
 `r`に対する案を出すためには、ビットコインのボラティリティを計算する必要がある。  
 Bitstampで交換されたビットコインの(分単位でリサンプリングした)価格変動の対数に対する標準偏差を利用した。2013/03/01以降の年率を算出した。
 
-    import pandas as pdimport numpy as np# read in bitstamp USD trade data with columns time, price, volumebitstamp = pd.read\_csv(&quot;bitstampUSD.csv&quot; , names=[&amp;#039;time&#39;, &#39;price&#39;, &#39;volume&#39;], index\_col=0)bitstamp.index = pd.to\_datetime((bitstamp.index.values\*1e9).astype(int))# resample the csv data to minutely data for volume and pricevolume = bitstamp.volume.resample(&amp;#039;1min&#39;, how=&#39;sum&#39;)value = bitstamp.prod(axis=1).resample(&amp;#039;1min&#39;, how=&#39;sum&#39;)# obtain the volume weighted average pricevwap = value / volume# pad data with repeating values# then grab a years worth of data starting from 01 March 2013bitstamp\_pad = vwap.fillna(method=&amp;#039;pad&#39;, limit=10)bitstamp\_year = bitstamp\_pad.ix[&amp;#039;2013-03-01&#39;:&#39;2014-03-01&#39;]# calculate the return and volatilityreturns = np.log(bitstamp\_year / bitstamp\_year.shift(1)) returns.std()\*np.sqrt(returns.size) \* 100## output: 260.70492740919627
+    import pandas as pdimport numpy as np# read in bitstamp USD trade data with columns time, price, volumebitstamp = pd.read\_csv("bitstampUSD.csv" , names=[&#039;time&#39;, &#39;price&#39;, &#39;volume&#39;], index\_col=0)bitstamp.index = pd.to\_datetime((bitstamp.index.values\*1e9).astype(int))# resample the csv data to minutely data for volume and pricevolume = bitstamp.volume.resample(&#039;1min&#39;, how=&#39;sum&#39;)value = bitstamp.prod(axis=1).resample(&#039;1min&#39;, how=&#39;sum&#39;)# obtain the volume weighted average pricevwap = value / volume# pad data with repeating values# then grab a years worth of data starting from 01 March 2013bitstamp\_pad = vwap.fillna(method=&#039;pad&#39;, limit=10)bitstamp\_year = bitstamp\_pad.ix[&#039;2013-03-01&#39;:&#39;2014-03-01&#39;]# calculate the return and volatilityreturns = np.log(bitstamp\_year / bitstamp\_year.shift(1)) returns.std()\*np.sqrt(returns.size) \* 100## output: 260.70492740919627
 
 残念ながら、Juliaのツールには時系列データに対するものが現状では全くない。  
 [DataFrames.jl](https://github.com/JuliaStats/DataFrames.jl)と呼ばれる素晴らしいパッケージがあり、データフレームの処理と変換を行ってくれる。 例:
 
-    using DataFrames bitstamp = readtable(&quot;bitstampUSD.csv&quot;, colnames = [&quot;time&quot;, &quot;price&quot;, &quot;amount&quot;])
+    using DataFrames bitstamp = readtable("bitstampUSD.csv", colnames = ["time", "price", "amount"])
 
 残念ながら、これが生のJuliaコードで時間周期に対する`fillna`や`resample`のような関数を書かずにできる最大限のことである。
 

@@ -23,35 +23,35 @@ projects: []
 
 昨年の振り返りはこちらです。
 
-&lt;iframe src=&quot;http://chezou.hatenablog.com/embed/2015/12/30/214151&quot; title=&quot;2015年を振り返って - once upon a time,&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://chezou.hatenablog.com/entry/2015/12/30/214151&quot;&gt;chezou.hatenablog.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://chezou.hatenablog.com/embed/2015/12/30/214151" title="2015年を振り返って - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2015/12/30/214151">chezou.hatenablog.com</a></cite>
 
 # Cookpad TechConf、DS祭り、CWT2016で発表した
 
-&lt;iframe src=&quot;http://chezou.hatenablog.com/embed/2016/01/25/000000&quot; title=&quot;#CookpadTechConf 2016でクックパッドの研究まわりの取り組みを発表しました - once upon a time,&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://chezou.hatenablog.com/entry/2016/01/25/000000&quot;&gt;chezou.hatenablog.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://chezou.hatenablog.com/embed/2016/01/25/000000" title="#CookpadTechConf 2016でクックパッドの研究まわりの取り組みを発表しました - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2016/01/25/000000">chezou.hatenablog.com</a></cite>
 
-&lt;iframe src=&quot;http://chezou.hatenablog.com/embed/2016/07/26/172738&quot; title=&quot;「夏真っ盛り！Spark + Python + Data Science祭り」を開催しました＆Ibisを紹介しました #summerDS - once upon a time,&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://chezou.hatenablog.com/entry/2016/07/26/172738&quot;&gt;chezou.hatenablog.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://chezou.hatenablog.com/embed/2016/07/26/172738" title="「夏真っ盛り！Spark + Python + Data Science祭り」を開催しました＆Ibisを紹介しました #summerDS - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2016/07/26/172738">chezou.hatenablog.com</a></cite>
 
-&lt;iframe src=&quot;http://chezou.hatenablog.com/embed/2016/11/14/230521&quot; title=&quot;Cloudera World Tokyo 2016で機械学習プロダクトの作り方を話しました #cwt2016 - once upon a time,&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://chezou.hatenablog.com/entry/2016/11/14/230521&quot;&gt;chezou.hatenablog.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://chezou.hatenablog.com/embed/2016/11/14/230521" title="Cloudera World Tokyo 2016で機械学習プロダクトの作り方を話しました #cwt2016 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2016/11/14/230521">chezou.hatenablog.com</a></cite>
 
 どれも自社イベントですが、今年は外で発表する機会を例年より多くいただきました。来年も、[BigData Analytics Tokyo](http://www.bigdatacon.jp/ja/)の発表から幕開けです。
 
 # 転職した
 
-&lt;iframe src=&quot;http://chezou.hatenablog.com/embed/2016/03/30/223221&quot; title=&quot;転職しました - once upon a time,&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://chezou.hatenablog.com/entry/2016/03/30/223221&quot;&gt;chezou.hatenablog.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://chezou.hatenablog.com/embed/2016/03/30/223221" title="転職しました - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2016/03/30/223221">chezou.hatenablog.com</a></cite>
 
 CookpadからClouderaに転職しました。Sales Engineerというロール、初めての外資ということで慣れない事だらけですが、引き続き、機械学習やデータサイエンス周りでの強みを活かしてやらせていただいています。英語は入社してからDMM英会話をほぼ毎日やったら、最低限社内でやりとりをする力と飲みながら英語話す力は得ることが出来たので、意外となんとかなるかもな、と思っているところです。抵抗感が減ったのと、ちょっと気合を入れれば何かしらの英語はアウトプットできると思えるようになり、瞬発力が前よりはついたなと思えたのが良かったです。
 
-&lt;iframe src=&quot;//www.instagram.com/p/BOrJ_mDhT52/embed/&quot; data-entry-image=&quot;http://www.instagram.com/p/BOrJ_mDhT52/media/?size=l&quot; class=&quot;instagram-iframe&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowtransparency&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://instagram.com/p/BOrJ_mDhT52/&quot;&gt;instagram.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//www.instagram.com/p/BOrJ_mDhT52/embed/" data-entry-image="http://www.instagram.com/p/BOrJ_mDhT52/media/?size=l" class="instagram-iframe" frameborder="0" scrolling="no" allowtransparency></iframe><cite class="hatena-citation"><a href="https://instagram.com/p/BOrJ_mDhT52/">instagram.com</a></cite>
 
 良いなぁと思うのが、同僚で40歳を越えたエンジニアが日本にも何人かいて、その人達がエネルギッシュに働き続けているのと一緒に働けることです。40歳を越えたらマネージャーにならなければならないのかな、とかコード書けないのかなという不安が払拭され、さすが外資だなと思った瞬間です。もちろん、腕に覚えがある人だから生き残ってこれているというのはあるとは思いますが、うちのAPACのdirectorも飛行機で世界飛び回りながらいつも新しく書いたコードの話してくれるので、負けていられないと思う気持ちでいっぱいです。
 
-&lt;iframe src=&quot;//www.instagram.com/p/BOrJ2KoBoJ7/embed/&quot; data-entry-image=&quot;http://www.instagram.com/p/BOrJ2KoBoJ7/media/?size=l&quot; class=&quot;instagram-iframe&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowtransparency&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://instagram.com/p/BOrJ2KoBoJ7/&quot;&gt;instagram.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//www.instagram.com/p/BOrJ2KoBoJ7/embed/" data-entry-image="http://www.instagram.com/p/BOrJ2KoBoJ7/media/?size=l" class="instagram-iframe" frameborder="0" scrolling="no" allowtransparency></iframe><cite class="hatena-citation"><a href="https://instagram.com/p/BOrJ2KoBoJ7/">instagram.com</a></cite>
 
 また、転職の流れで同僚からひょんなことからpyspaに誘ってもらいました。温泉にはまだ言ったことがないですが、お世話になってます。
 
 # 川崎Ruby会議01を主催した
 
-&lt;iframe src=&quot;http://chezou.hatenablog.com/embed/2016/08/23/222547&quot; title=&quot;川崎Ruby会議 01を開催しました #kwsk01 - once upon a time,&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://chezou.hatenablog.com/entry/2016/08/23/222547&quot;&gt;chezou.hatenablog.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://chezou.hatenablog.com/embed/2016/08/23/222547" title="川崎Ruby会議 01を開催しました #kwsk01 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2016/08/23/222547">chezou.hatenablog.com</a></cite>
 
 kawasaki.rbが母体となって主催した地域Ruby会議です。コミッターの方々も参戦していただいたのに、良い意味でRuby色の薄いリージョナルだったと思います。
 
@@ -61,9 +61,9 @@ kawasaki.rbも細く長く続いており、参加してたら転職できた人
 
 naoyaさんに紹介されて、データエンジニアリングとデータサイエンスの違いの話がrebuildデビューしました。自分で聞いてた時に突如現れた時にはお茶吹きそうになりました。rebuildは[サポータープログラム](https://rebuild.fm/supporter/)に入ると文字起こしや一人語り回も聞けますし、本放送とライブ放送直後の配信と二回聞けてお得感満載です。
 
-&lt;iframe src=&quot;http://chezou.hatenablog.com/embed/2016/05/05/222046&quot; title=&quot;データを一箇所に集めることでデータ活用の民主化が進んだ話 - once upon a time,&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://chezou.hatenablog.com/entry/2016/05/05/222046&quot;&gt;chezou.hatenablog.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://chezou.hatenablog.com/embed/2016/05/05/222046" title="データを一箇所に集めることでデータ活用の民主化が進んだ話 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2016/05/05/222046">chezou.hatenablog.com</a></cite>
 
-&lt;iframe src=&quot;//hatenablog-parts.com/embed?url=https%3A%2F%2Frubyist.club%2F9%2F&quot; title=&quot;9: Data Engineer, not Data Scientist (joker1007) - rubyist.club&quot; class=&quot;embed-card embed-webcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;https://rubyist.club/9/&quot;&gt;rubyist.club&lt;/a&gt;&lt;/cite&gt;
+<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Frubyist.club%2F9%2F" title="9: Data Engineer, not Data Scientist (joker1007) - rubyist.club" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://rubyist.club/9/">rubyist.club</a></cite>
 
 # 本を執筆していた
 
@@ -71,9 +71,9 @@ naoyaさんに紹介されて、データエンジニアリングとデータサ
 
 その時の切り出したものがこれらの記事ですが、[はてなの教科書](http://developer.hatenastaff.com/entry/hatena-textbook-machine-learning-02-2016)からも引用されて嬉しかったです。
 
-&lt;iframe src=&quot;http://chezou.hatenablog.com/embed/2016/05/09/000639&quot; title=&quot;機械学習の分類の話を損失関数と決定境界を中心に整理してみた - once upon a time,&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://chezou.hatenablog.com/entry/2016/05/09/000639&quot;&gt;chezou.hatenablog.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://chezou.hatenablog.com/embed/2016/05/09/000639" title="機械学習の分類の話を損失関数と決定境界を中心に整理してみた - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2016/05/09/000639">chezou.hatenablog.com</a></cite>
 
-&lt;iframe src=&quot;http://chezou.hatenablog.com/embed/2016/05/29/215739&quot; title=&quot;そのモデル、過学習してるの？未学習なの？と困ったら - once upon a time,&quot; class=&quot;embed-card embed-blogcard&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;&quot;&gt;&lt;/iframe&gt;&lt;cite class=&quot;hatena-citation&quot;&gt;&lt;a href=&quot;http://chezou.hatenablog.com/entry/2016/05/29/215739&quot;&gt;chezou.hatenablog.com&lt;/a&gt;&lt;/cite&gt;
+<iframe src="http://chezou.hatenablog.com/embed/2016/05/29/215739" title="そのモデル、過学習してるの？未学習なの？と困ったら - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2016/05/29/215739">chezou.hatenablog.com</a></cite>
 
 また、記事を書くに当たって[いくつか](https://github.com/ibayer/fastFM/pull/22)の[Factorization Machine](https://github.com/coreylynch/pyFM/pull/9)のPythonライブラリをPython3対応する人になっていました。
 
@@ -83,7 +83,7 @@ naoyaさんに紹介されて、データエンジニアリングとデータサ
 
 # 今年書いたコードなど
 
-- [GitHub - chezou/ibis-demo: Demo notebook of Ibis for &quot;Spark + Python + Dita science Festival&quot;](https://github.com/chezou/ibis-demo)
+- [GitHub - chezou/ibis-demo: Demo notebook of Ibis for "Spark + Python + Dita science Festival"](https://github.com/chezou/ibis-demo)
 - [GitHub - chezou/tabula-py: Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame](https://github.com/chezou/tabula-py)
 - [GitHub - chezou/homebrew-jumanpp: A Homebrew formula for juman++ http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN++](https://github.com/chezou/homebrew-jumanpp)
 

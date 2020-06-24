@@ -23,7 +23,7 @@ projects: []
 環境は、  
 Printer:Canon MP610  
 NAS:[**LHD-LAN300**](http://www.logitec.co.jp/products/nas/lhdlan.html)  
-Mac OS X&amp;nbsp; Leopard
+Mac OS X  Leopard
 
 1.[Gutenprint](http://gimp-print.sourceforge.net/MacOSX.php)の最新版をインストールする  
 2.Macの「プリンタ設定ユーティリティ」から＋ボタンを押し「ほかのプリンタ」を追加する  

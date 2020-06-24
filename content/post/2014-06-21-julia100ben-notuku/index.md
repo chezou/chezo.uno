@@ -44,7 +44,7 @@ projects: []
 - Matlabはおろか、Pythonよりストイックな感じ
 
   - 「Matlabである○○はありませんか？」「No!それ高速に処理できないだろ！」
-  - &quot;removed pascal(matlabであった関数)&quot;
+  - "removed pascal(matlabであった関数)"
   - 「これあると便利だと思うんだけど」「IMHO 一つのことを複数のやり方でやれるのはどうかと思う」
 - たまに、独自の関数名をつけてきて辛い
 

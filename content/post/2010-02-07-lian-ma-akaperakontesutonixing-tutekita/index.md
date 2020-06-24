@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-2/6に開催された[練馬区のアカペラコンテスト](http://www.neribun.or.jp/nerima/ichiran.cgi?mode=1&amp;t=1&amp;no=1845)に行ってきました。
+2/6に開催された[練馬区のアカペラコンテスト](http://www.neribun.or.jp/nerima/ichiran.cgi?mode=1&t=1&no=1845)に行ってきました。
 
 初めてアマチュアのアカペラのライブ的なもを聞いてみたのですが、とても楽しかったです。教えてくださったとても[@tackoneさん](http://twitter.com/tackone)には感謝です。また、[@watakumi](http://twitter.com/watakumi)さんや[@toriuzura](http://twitter.com/toriuzura)さんにお会いできたので良かったです。@toriuzuraさんお疲れ様でした！！素直な声が良かったです。
 

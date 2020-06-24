@@ -29,11 +29,11 @@ togetterのまとめはこちらです。
 Hashでは、自分で作ったクラスをHashのkeyに用いる場合はどうすればいいのか、という話がでました。  
 自作クラスに`hash`メソッドと`eql?(other)`メソッドを定義すれば、  
 自作クラスでも同値性判定が行われるという確認をしました。  
-(やっててよかった、レシピブック&amp;yokohama.rb...)
+(やっててよかった、レシピブック&yokohama.rb...)
 
 コードで書くと、こういう感じですね。
 
-    class Fooattr\_reader :a, :bdef initialize(a, b) @a, @b = a, b enddef hash@a%10 + @b%7enddef eql?(obj) @a == obj.a &amp;&amp; @b == obj.b endendf1 = Foo.new(1, 2) f2 = Foo.new(1, 2) f1.eql?(f2) # =\&gt; trueh = {} h[f1] = &quot;foo&quot;h[f2] # =\&gt; &quot;foo&quot;
+    class Fooattr\_reader :a, :bdef initialize(a, b) @a, @b = a, b enddef hash@a%10 + @b%7enddef eql?(obj) @a == obj.a && @b == obj.b endendf1 = Foo.new(1, 2) f2 = Foo.new(1, 2) f1.eql?(f2) # =\> trueh = {} h[f1] = "foo"h[f2] # =\> "foo"
 
 Rangeでは、`(1..-1)`のような負の数までのRangeってなんであるんだろう？という話をしました。  
 使用するケースとしては、Arrayにアクセスするとき`ary[1..-1]`というのを渡すよねー、という話になりました。
