@@ -30,5 +30,5 @@ projects: []
 ボブ・チルコットとデイヴィッド・ブラックウェル編纂のキャロル集。トラディショナルな曲を新しい作曲家が編曲しているという感じのようです。
 4. [Steve Dobrogosz:Gospels](http://www.panamusica.co.jp/ja/product/7651/)  
 [SINGSとの来日演奏](http://chezou.wordpress.com/2008/10/28/sings-2008-with-steve-dobrogosz/ &quot;SINGS 2008 with Steve Dobrogosz&quot;)以来歌いたかった、Lord I&#39;m freeなどの曲が入っている楽譜です。歌いたい！  
-[youtube=http://&lt;cite&gt;www.youtube.com/watch?v=5lXbMbvqD-U]&lt;/cite&gt;
+{{< youtube 5lXbMbvqD-U >}}
 どれも楽しみですねー。
