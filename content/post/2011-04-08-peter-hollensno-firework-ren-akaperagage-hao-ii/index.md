@@ -1,5 +1,5 @@
 ---
-title: "Peter Hollensの"Firework"一人アカペラが格好いい"
+title: "Peter Hollensの\"Firework\"一人アカペラが格好いい"
 subtitle: ""
 summary: ""
 authors: [aki]

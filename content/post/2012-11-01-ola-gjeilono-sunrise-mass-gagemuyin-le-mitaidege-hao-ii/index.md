@@ -1,5 +1,5 @@
 ---
-title: "Ola Gjeiloの"Sunrise Mass"がゲーム音楽みたいで格好いい"
+title: "Ola Gjeiloの\"Sunrise Mass\"がゲーム音楽みたいで格好いい"
 subtitle: ""
 summary: ""
 authors: [aki]

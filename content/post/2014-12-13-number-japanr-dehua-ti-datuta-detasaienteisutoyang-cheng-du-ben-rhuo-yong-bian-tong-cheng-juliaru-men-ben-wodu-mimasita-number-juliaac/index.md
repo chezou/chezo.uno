@@ -1,5 +1,5 @@
 ---
-title: "#JapanR で話題だった「データサイエンティスト養成読本R活用編(通称"Julia入門本")」を読みました #JuliaAC"
+title: "#JapanR で話題だった「データサイエンティスト養成読本R活用編(通称\"Julia入門本\")」を読みました #JuliaAC"
 subtitle: ""
 summary: ""
 authors: [aki]
