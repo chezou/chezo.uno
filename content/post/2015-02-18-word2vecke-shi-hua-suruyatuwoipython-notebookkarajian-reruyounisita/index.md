@@ -29,9 +29,9 @@ projects: []
 
 今回ipython notebookから使えるようにしたのは、厳密には上記のコードではなくて、[こちら](https://github.com/nishio/mycorpus/blob/master/vis.py)のコードなのですが、ある単語の周辺にある単語をPCAで2次元に縮退させて可視化してくれます。
 
-<iframe src="http://nbviewer.ipython.org/gist/chezou/3899461aa550f73854a1/word2vec.ipynb" width="640" height="800"></iframe>
+<iframe src="https://nbviewer.ipython.org/gist/chezou/3899461aa550f73854a1/word2vec.ipynb" width="640" height="800"></iframe>
 
-[大きくする](http://nbviewer.ipython.org/gist/chezou/3899461aa550f73854a1/word2vec.ipynb)
+[大きくする](https://nbviewer.ipython.org/gist/chezou/3899461aa550f73854a1/word2vec.ipynb)
 
 ipython notebookに関しての説明は、過去の記事を参照してください。
 

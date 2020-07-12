@@ -55,7 +55,7 @@ projects: []
 [2014/06/22追記]
 
 - レポジトリを作りました。最新のものはこちらをどうぞ [https://github.com/chezou/julia-100-exercises](https://github.com/chezou/julia-100-exercises)
-- [notebook](http://nbviewer.ipython.org/github/chezou/julia-100-exercises/blob/master/julia-100-exercises.ipynb)を見えるようにしました。nbview便利すぎる
+- [notebook](https://nbviewer.ipython.org/github/chezou/julia-100-exercises/blob/master/julia-100-exercises.ipynb)を見えるようにしました。nbview便利すぎる
 
 [2014/06/24追記]
 

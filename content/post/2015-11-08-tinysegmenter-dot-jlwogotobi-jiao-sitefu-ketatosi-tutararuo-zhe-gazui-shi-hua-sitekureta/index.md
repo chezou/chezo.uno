@@ -28,7 +28,7 @@ projects: []
 
 そんな中で、ikawahaさんがGoでも同様の最適化を実装していました。
 
-<iframe src="http://ikawaha.hateblo.jp/embed/2015/10/23/161351" title="TinySegmenter.jl の高速化手法を追っかけてみた - 押してダメならふて寝しろ" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://ikawaha.hateblo.jp/entry/2015/10/23/161351">ikawaha.hateblo.jp</a></cite>
+<iframe src="https://ikawaha.hateblo.jp/embed/2015/10/23/161351" title="TinySegmenter.jl の高速化手法を追っかけてみた - 押してダメならふて寝しろ" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://ikawaha.hateblo.jp/entry/2015/10/23/161351">ikawaha.hateblo.jp</a></cite>
 
 それと比較するために、とりあえず[Julia templateをPR](https://github.com/shogo82148/TinySegmenterMaker/pull/10)して比較しました。
 
