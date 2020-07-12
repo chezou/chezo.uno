@@ -1,5 +1,5 @@
 ---
-title: ""Laula kultani: European Folk Songs for mixed voices" がうちにきた"
+title: "\"Laula kultani: European Folk Songs for mixed voices\" がうちにきた"
 subtitle: ""
 summary: ""
 authors: [aki]
@@ -17,6 +17,7 @@ image:
 
 projects: []
 ---
+
 [Pana Musicaで紹介](http://www.panamusica.co.jp/ja/product/12542/)されていた[CD](http://www.artistdirect.com/nad/store/artist/album/0,,4453385,00.html)を衝動的に買ってしまいました。だって、Folk Songsって書いてあるんだもの(Pana Musicaの紹介文は[こちら](http://www.panamusica.co.jp/ja/new/2010/02/)。しかし、Pana Musicaはいい紹介記事を書くのに、パーマリンクがないため紹介しづらいなぁ。今時パーマリンクなし、RSSなしだとGoogle先生などに補足されづらいので辛いと思います。勿体ない。)ヨーロッパの様々な合唱団がお国のFolk Songsを歌うコンピレーションアルバムという位置づけのようです。
 
 CDとしては素性がわからなかったので不安でしたが、なかなかどうしていいCDじゃないの。Carol of Bellsのオリジナルとなった曲(Ščedryk)がとても好きです。ウクライナ民謡だったのね。ちなみに、このYoutubeの映像は別の団体の演奏。この演奏よりもCDの方が素敵です。  
