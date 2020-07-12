@@ -27,7 +27,7 @@ projects: []
 
 ![](/img/2014/12/06/181820/20141206160009.png)
 
-当日の[デモ内容のnotebook](http://nbviewer.ipython.org/gist/chezou/a68cfa3d9abc0e7f669d)はこれです。 ベンチマークに使用したコードはこちら[https://gist.github.com/chezou/1f947423c6655c266e0a](https://gist.github.com/chezou/1f947423c6655c266e0a)
+当日の[デモ内容のnotebook](https://nbviewer.ipython.org/gist/chezou/a68cfa3d9abc0e7f669d)はこれです。 ベンチマークに使用したコードはこちら[https://gist.github.com/chezou/1f947423c6655c266e0a](https://gist.github.com/chezou/1f947423c6655c266e0a)
 
 各言語のversionはこんな感じです。
 

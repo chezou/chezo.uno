@@ -17,7 +17,7 @@ image:
 
 projects: []
 ---
-昨年末に[@domitryさんが書かれた記事](http://domitry.hatenablog.jp/entry/science_with_ruby)でも話題になった、RubyのライブラリMikonとNyaplotで生成したグラフをipython notebookとして社内のGHEでも共有することを目標に、[nbviewer](http://nbviewer.ipython.org/)をlocalのdocker上で立ててみました。
+昨年末に[@domitryさんが書かれた記事](http://domitry.hatenablog.jp/entry/science_with_ruby)でも話題になった、RubyのライブラリMikonとNyaplotで生成したグラフをipython notebookとして社内のGHEでも共有することを目標に、[nbviewer](https://nbviewer.ipython.org/)をlocalのdocker上で立ててみました。
 
 ちなみに、1/10のyokohama.rbでモクモクした成果です。
 
@@ -42,11 +42,11 @@ Rubyの例ですがTokyu Ruby会議で発表したスライドを貼っておき
 
 これだけだと魅力がわかりにくいと思うので、実行結果を貼ります。 描画したグラフも共有できるのが大きな魅力だと思います。
 
-<iframe src="http://nbviewer.ipython.org/github/chezou/iruby-example/blob/master/graph-example.ipynb" width="640" height="455"> </iframe>
+<iframe src="https://nbviewer.ipython.org/github/chezou/iruby-example/blob/master/graph-example.ipynb" width="640" height="455"> </iframe>
 
-もしかすると、Gunosyの粟飯原さんが[以前作られたnotebook](http://nbviewer.ipython.org/gist/shunsukeaihara/dc2552453e1272866e2a)をご覧になった方もいるかもしれません。
+もしかすると、Gunosyの粟飯原さんが[以前作られたnotebook](https://nbviewer.ipython.org/gist/shunsukeaihara/dc2552453e1272866e2a)をご覧になった方もいるかもしれません。
 
-また、Mining the Social Web 2nd Editionが[ipynb](http://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/blob/master/ipynb/_Appendix%20A%20-%20Virtual%20Machine%20Experience.ipynb)を用意していたりします。(コードの教育にも向いていると思います)
+また、Mining the Social Web 2nd Editionが[ipynb](https://nbviewer.ipython.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/blob/master/ipynb/_Appendix%20A%20-%20Virtual%20Machine%20Experience.ipynb)を用意していたりします。(コードの教育にも向いていると思います)
 
 この、ブラウザで手軽にipython notebookの結果を見れるようにしているのがnbviewerです。githubで公開されているレポジトリやgistなら特に問題なく静的に再現してくれるのが特徴です。 nbviewerのいいところは、Python, Ruby, Juliaの実行環境がなくてもjsonをレンダーしているだけなのでブラウザで表示できることです。
 
@@ -108,7 +108,7 @@ MikonはNMatrixに依存しており、こいつがCBLASなど依存が激しく
 
 今回は次のgistを可視化してみました。[https://gist.github.com/chezou/38ddcc79babe34b73f10](https://gist.github.com/chezou/38ddcc79babe34b73f10)
 
-nbviewerで見る場合は[こちら](http://nbviewer.ipython.org/gist/chezou/38ddcc79babe34b73f10)
+nbviewerで見る場合は[こちら](https://nbviewer.ipython.org/gist/chezou/38ddcc79babe34b73f10)
 
 こんな感じでipython notebookが無事見れるようになりました。
 
