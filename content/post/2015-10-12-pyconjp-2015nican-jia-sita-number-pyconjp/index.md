@@ -21,7 +21,7 @@ projects: []
 
 スライドまとめは以下が詳しいです。<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Ftechstars.jp%2Fblog%2Fpycon15-1%2F" title="もう確認した？PyCon JP 2015、公開済み全スライドまとめ #pyconjp" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://techstars.jp/blog/pycon15-1/">techstars.jp</a></cite>
 
-最近、会社ではJupyter notebookの伝道師として振る舞っており\*1、その結果として空前のpandasブームを巻き起こしました。 データ分析/機械学習といえばPythonだよね、というのは[1年以上も前からわかっていたのですが](http://chezou.hatenablog.com/entry/20140118/1389978078)、pandas-tdを契機に使い始めてからかなり傾倒しています。\*2
+最近、会社ではJupyter notebookの伝道師として振る舞っており\*1、その結果として空前のpandasブームを巻き起こしました。 データ分析/機械学習といえばPythonだよね、というのは[1年以上も前からわかっていたのですが](https://chezou.hatenablog.com/entry/20140118/1389978078)、pandas-tdを契機に使い始めてからかなり傾倒しています。\*2
 
 そんなpandas周りの話やデータ分析の他社事例が聞ければと思って参加したPyConですが、想像していた以上に参加者のdiversityを感じました。 海外からのスピーカーや参加者も多く、Ruby Kaigiのような国際カンファレンスに近いなという印象を受けました。 また、スタッフや登壇者含め会場の女性の割合が高いため、PyLadiesの効果が出ているんだろうなーという印象を受けました。もしかしたら、RailsGirlsよりもPyLadiesの方が範囲が広いからコミュニティとして長く続いていくのだろうか、とも思いました。
 
@@ -82,7 +82,7 @@ Voyage groupでこの夏[MLSSにも参加された](http://techlog.voyagegroup.c
 
 全般的にもう少し事例紹介よりもコアな技術的な話が増えるといいなぁという気もしていたのは、メインがPythonのユーザーじゃないからなのかな。
 
-\*1:[同僚はpandasとdaruを使い分けています](http://techlife.cookpad.com/entry/201510-jupyter-and-rails)
+\*1:[同僚はpandasとdaruを使い分けています](https://techlife.cookpad.com/entry/201510-jupyter-and-rails)
 
 \*2:その辺りは近々会社のブログに書こうと思っている
 

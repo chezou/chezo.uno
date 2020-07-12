@@ -25,9 +25,9 @@ Juliaのパッケージを作っても、野良パッケージを作るだけで
 
 さて、パッケージの作り方は[@bicycle1885](https://twitter.com/bicycle1885)さんの下記のJuliaTokyo #1のスライドが詳しいです。
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/36649709" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/36649709" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
-  **[Juliaのパッケージをつくろう!](https://www.slideshare.net/KentaSato/julia-36649709 "Juliaのパッケージをつくろう!")** from **[Kenta Sato](http://www.slideshare.net/KentaSato)** 
+  **[Juliaのパッケージをつくろう!](https://www.slideshare.net/KentaSato/julia-36649709 "Juliaのパッケージをつくろう!")** from **[Kenta Sato](https://www.slideshare.net/KentaSato)** 
 
 [Juliaのパッケージをつくろう!](http://www.slideshare.net/KentaSato/julia-36649709)
 

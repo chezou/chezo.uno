@@ -97,11 +97,11 @@ IPythonの環境を入れるのがだるいので、Pythonの環境がまだな�
 
 少し前のですが下記のサイトやIJulia本家の記述が参考になりますが、こちらにも簡単にまとめておきます。
 
-<iframe src="http://hatenablog.com/embed?url=http%3A%2F%2Fd.hatena.ne.jp%2Fisobe1978%2F20131128%2F1385646377" title="IPython(Anaconda)とIJuliaが凄すぎる件 - アドファイブ日記" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://d.hatena.ne.jp/isobe1978/20131128/1385646377">IPython(Anaconda)とIJuliaが凄すぎる件 - アドファイブ日記</a></iframe>
+<iframe src="https://hatenablog.com/embed?url=http%3A%2F%2Fd.hatena.ne.jp%2Fisobe1978%2F20131128%2F1385646377" title="IPython(Anaconda)とIJuliaが凄すぎる件 - アドファイブ日記" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://d.hatena.ne.jp/isobe1978/20131128/1385646377">IPython(Anaconda)とIJuliaが凄すぎる件 - アドファイブ日記</a></iframe>
 
 [IPython(Anaconda)とIJuliaが凄すぎる件 - アドファイブ日記](http://d.hatena.ne.jp/isobe1978/20131128/1385646377)
 
-<iframe src="http://hatenablog.com/embed?url=https%3A%2F%2Fgithub.com%2FJuliaLang%2FIJulia.jl" title="JuliaLang/IJulia.jl" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="https://github.com/JuliaLang/IJulia.jl">JuliaLang/IJulia.jl</a></iframe>
+<iframe src="https://hatenablog.com/embed?url=https%3A%2F%2Fgithub.com%2FJuliaLang%2FIJulia.jl" title="JuliaLang/IJulia.jl" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="https://github.com/JuliaLang/IJulia.jl">JuliaLang/IJulia.jl</a></iframe>
 
 [JuliaLang/IJulia.jl · GitHub](https://github.com/JuliaLang/IJulia.jl)
 
@@ -116,7 +116,7 @@ anacondaが入っていればこれで大丈夫なはずです。後は下記で
 
 便利なショートカットはこちら
 
-<iframe src="http://hatenablog.com/embed?url=http%3A%2F%2Fd.hatena.ne.jp%2Fakamegane%2F20120409%231333983569" title="ipython 0.12 の notebook" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://d.hatena.ne.jp/akamegane/20120409#1333983569">ipython 0.12 の notebook</a></iframe>
+<iframe src="https://hatenablog.com/embed?url=http%3A%2F%2Fd.hatena.ne.jp%2Fakamegane%2F20120409%231333983569" title="ipython 0.12 の notebook" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://d.hatena.ne.jp/akamegane/20120409#1333983569">ipython 0.12 の notebook</a></iframe>
 
 [ipython 0.12 の notebook - akameganeの日記](http://d.hatena.ne.jp/akamegane/20120409#1333983569)
 
@@ -126,7 +126,7 @@ emacsやvimでjuliaのプラグインを入れるのも良いと思いますし�
 
 [Sublime-IJulia](https://github.com/quinnj/Sublime-IJulia)もあるようですが使ったことがありません。
 
-<iframe src="http://hatenablog.com/embed?url=http%3A%2F%2Fqiita.com%2Fchezou%2Fitems%2F5070bde5dc6647e55af3" title="Lightable - LightTable + JewelでJuliaの環境を作る - Qiita" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://qiita.com/chezou/items/5070bde5dc6647e55af3">Lightable - LightTable + JewelでJuliaの環境を作る - Qiita</a></iframe>
+<iframe src="https://hatenablog.com/embed?url=http%3A%2F%2Fqiita.com%2Fchezou%2Fitems%2F5070bde5dc6647e55af3" title="Lightable - LightTable + JewelでJuliaの環境を作る - Qiita" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://qiita.com/chezou/items/5070bde5dc6647e55af3">Lightable - LightTable + JewelでJuliaの環境を作る - Qiita</a></iframe>
 
 [Lightable - LightTable + JewelでJuliaの環境を作る - Qiita](http://qiita.com/chezou/items/5070bde5dc6647e55af3)
 

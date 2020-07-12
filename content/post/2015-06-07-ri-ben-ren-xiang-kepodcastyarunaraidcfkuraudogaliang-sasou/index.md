@@ -41,7 +41,7 @@ IDCF自体の障害はちょこちょこ発生しているようですが、今�
 
 # 録音環境
 
-ついでですが、以前にも少し[書きました](http://chezou.hatenablog.com/entry/2015/02/14/235008)が、ソフトウェア構成が変わったので書きます。
+ついでですが、以前にも少し[書きました](https://chezou.hatenablog.com/entry/2015/02/14/235008)が、ソフトウェア構成が変わったので書きます。
 
 - Skype
   - [Ecamm Call recorder for skype](http://www.ecamm.com/mac/callrecorder/)でバックアップ用に会話を録音

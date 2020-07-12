@@ -51,7 +51,7 @@ projects: []
 
 [神奈川Ruby会議01 - Home](http://regional.rubykaigi.org/kana01/)
 
-<iframe src="http://chezou.hatenablog.com/embed/2015/01/25/004103" title="神奈川Ruby会議を開催しました #kana01 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2015/01/25/004103">chezou.hatenablog.com</a></cite>
+<iframe src="https://chezou.hatenablog.com/embed/2015/01/25/004103" title="神奈川Ruby会議を開催しました #kana01 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2015/01/25/004103">chezou.hatenablog.com</a></cite>
 
 ## podcast
 
@@ -116,7 +116,7 @@ MLCTはスピーカーのアサインとテーマ設定がなかなか難しく�
 
 一年に3回開催することが出来ました。 だんだんとDeep Learningな話が増えてきており、楽しい限りです。言語縛りは有りますが最適化や機械学習が好きな人が集まってきてトークする流れが定着しているのは良いなぁと思います。
 
-<iframe src="http://chezou.hatenablog.com/embed/2015/12/25/210248" title="Julia Tokyo #5を開催しました #JuliaTokyo - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2015/12/25/210248">chezou.hatenablog.com</a></cite>
+<iframe src="https://chezou.hatenablog.com/embed/2015/12/25/210248" title="Julia Tokyo #5を開催しました #JuliaTokyo - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2015/12/25/210248">chezou.hatenablog.com</a></cite>
 
 # プライベートな開発
 
@@ -124,11 +124,11 @@ MLCTはスピーカーのアサインとテーマ設定がなかなか難しく�
 
 個人的にもJuliaの一年でした。特にTinySegmenter.jlを時差を最大限に活用した高速化をしたのはいい思い出です。
 
-<iframe src="http://chezou.hatenablog.com/embed/2015/04/26/222518" title="#JuliaTokyo で #juliaわからん という雑なレポジトリを立てた話をしたら julia.tokyo ができてた - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2015/04/26/222518">chezou.hatenablog.com</a></cite>
+<iframe src="https://chezou.hatenablog.com/embed/2015/04/26/222518" title="#JuliaTokyo で #juliaわからん という雑なレポジトリを立てた話をしたら julia.tokyo ができてた - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2015/04/26/222518">chezou.hatenablog.com</a></cite>
 
-<iframe src="http://chezou.hatenablog.com/embed/2015/09/23/021608" title="MeCab.jlをJulia v0.4.0-rc2に対応した - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2015/09/23/021608">chezou.hatenablog.com</a></cite>
+<iframe src="https://chezou.hatenablog.com/embed/2015/09/23/021608" title="MeCab.jlをJulia v0.4.0-rc2に対応した - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2015/09/23/021608">chezou.hatenablog.com</a></cite>
 
-<iframe src="http://chezou.hatenablog.com/embed/2015/10/21/234317" title="TinySegmenterをJulia移植したらMITの先生に指導してもらえた話 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2015/10/21/234317">chezou.hatenablog.com</a></cite>
+<iframe src="https://chezou.hatenablog.com/embed/2015/10/21/234317" title="TinySegmenterをJulia移植したらMITの先生に指導してもらえた話 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2015/10/21/234317">chezou.hatenablog.com</a></cite>
 
 MeCab.jlとTinySegmenter.jlで少しずつ日本語のテキスト解析事例が増えてきたので嬉しい限りです。来年はもっときちんとしたものを作りたいなぁと思っています。
 
@@ -138,7 +138,7 @@ iRubyを通じて[1年半くらい前から使っていたJupyter notebook](http
 
 jupyter notebookのいいところは、試行錯誤をしやすいことと再現性が担保されることです。なかなか伝わりにくいその魅力もアニgifとハンズオンで広まって、会社のブログで書いた記事も大分広まって良かったです。
 
-<iframe src="http://techlife.cookpad.com/embed/write-once-share-anywhare" title="現代のエンジニアのための強力なメモ帳 Jupyter notebookのすゝめ - クックパッド開発者ブログ" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://techlife.cookpad.com/entry/write-once-share-anywhare">techlife.cookpad.com</a></cite>
+<iframe src="https://techlife.cookpad.com/embed/write-once-share-anywhare" title="現代のエンジニアのための強力なメモ帳 Jupyter notebookのすゝめ - クックパッド開発者ブログ" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://techlife.cookpad.com/entry/write-once-share-anywhare">techlife.cookpad.com</a></cite>
 
 また、ここに至るまでに [id:mineroaoki](http://blog.hatena.ne.jp/mineroaoki/) さんの10年本がなければ至らなかったです。結局何事にもSQLが必要だと思い知らされた一年でした。
 
@@ -168,7 +168,7 @@ Lean Analyticsの日本語版の翻訳のお手伝いをしたのですが、今
 
 もともと、昨年社内で読書会をしていたのですが、データ分析をするものの心構えとして大事なことが詰まっている本です。
 
-<iframe src="http://chezou.hatenablog.com/embed/2014/12/29/014733" title="社内でLean Analytics読書会を終えました - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2014/12/29/014733">chezou.hatenablog.com</a></cite>
+<iframe src="https://chezou.hatenablog.com/embed/2014/12/29/014733" title="社内でLean Analytics読書会を終えました - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2014/12/29/014733">chezou.hatenablog.com</a></cite>
 
 harupongさんみたいに翻訳をゴリゴリやっている人とのレベル差も知ることが出来て良い経験でした。
 

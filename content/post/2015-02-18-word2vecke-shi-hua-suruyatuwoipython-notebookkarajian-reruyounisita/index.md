@@ -35,9 +35,9 @@ projects: []
 
 ipython notebookに関しての説明は、過去の記事を参照してください。
 
-<iframe src="http://chezou.hatenablog.com/embed/2015/01/11/031931" title="Docker上にnbviewerを立ててiruby+Nyaplotで描いたグラフを共有できるようにしてみた - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"><a href="http://chezou.hatenablog.com/entry/2015/01/11/031931">Docker上にnbviewerを立ててiruby+Nyaplotで描いたグラフを共有できるようにしてみた - once upon a time,</a></iframe>
+<iframe src="https://chezou.hatenablog.com/embed/2015/01/11/031931" title="Docker上にnbviewerを立ててiruby+Nyaplotで描いたグラフを共有できるようにしてみた - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"><a href="https://chezou.hatenablog.com/entry/2015/01/11/031931">Docker上にnbviewerを立ててiruby+Nyaplotで描いたグラフを共有できるようにしてみた - once upon a time,</a></iframe>
 
-[Docker上にnbviewerを立ててiruby+Nyaplotで描いたグラフを共有できるようにしてみた - once upon a time,](http://chezou.hatenablog.com/entry/2015/01/11/031931)
+[Docker上にnbviewerを立ててiruby+Nyaplotで描いたグラフを共有できるようにしてみた - once upon a time,](https://chezou.hatenablog.com/entry/2015/01/11/031931)
 
 同じ要領で、ベクトルの引き算をした空間の可視化の奴もできると思います。
 

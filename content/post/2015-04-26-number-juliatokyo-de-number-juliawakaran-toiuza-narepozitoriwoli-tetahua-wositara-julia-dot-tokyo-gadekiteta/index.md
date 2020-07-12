@@ -32,7 +32,7 @@ projects: []
   **[Make Julia more popular in Japan!!1 #JuliaTokyo](https://www.slideshare.net/chezou/make-julia-more-popular-in-japan1 "Make Julia more popular in Japan!!1 #JuliaTokyo")** from **[康顕 有賀](http://www.slideshare.net/chezou)** 
 <cite class="hatena-citation"><a href="http://www.slideshare.net/chezou/make-julia-more-popular-in-japan1">www.slideshare.net</a></cite>
 
-資料にも書いたとおり、日本でのJuliaがもっと盛り上がるように [@mirakui](https://twitter.com/mirakui) さんの「[雑な発想を活かすチーム作り](http://techlife.cookpad.com/entry/2015/03/25/202709)」という記事を参考にして、「こんなのがあったらな」「こういうことがわからないんだよなー」というのをissueでやりとりするための場所を作りました。
+資料にも書いたとおり、日本でのJuliaがもっと盛り上がるように [@mirakui](https://twitter.com/mirakui) さんの「[雑な発想を活かすチーム作り](https://techlife.cookpad.com/entry/2015/03/25/202709)」という記事を参考にして、「こんなのがあったらな」「こういうことがわからないんだよなー」というのをissueでやりとりするための場所を作りました。
 
 日本語のドキュメントを増やしたり活用事例を増やすのもすごく大事なのですが、実際問題わからないことをわからないと聞ける場所があるのが大事なのではないか、そしてそれは現代ならgithubのissueではないか、と思って作りました。
 
