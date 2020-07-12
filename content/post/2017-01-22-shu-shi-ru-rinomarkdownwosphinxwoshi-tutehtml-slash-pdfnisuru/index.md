@@ -21,7 +21,7 @@ Sphinxでmarkdown拡張を扱うためのrecommonmarkというライブラリが
 
 詳細は以下のエントリにやり方がまとまっています。
 
-<iframe src="http://tech.3rd-p-zombie.net/embed/2015/12/02/023732" title="MarkdownでSphinxできるようになったので試してみた（後編） - 意識の高いLISPマシン" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://tech.3rd-p-zombie.net/entry/2015/12/02/023732">tech.3rd-p-zombie.net</a></cite>
+<iframe src="https://sky-y.hatenablog.jp/embed/2015/12/02/023732" title="MarkdownでSphinxできるようになったので試してみた（後編） - 意識の高いLISPマシン" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://sky-y.hatenablog.jp/entry/2015/12/02/023732">tech.3rd-p-zombie.net</a></cite>
 
 実は、このrecommonmarkはconfigに設定を書くだけで、数式をmarkdownの中に埋め込めるのでした。
 

@@ -77,7 +77,7 @@ Slackは無料だと保持・検索できるメッセージ数が1万件まで�
 
 # 非エンジニアの人へ普及するために
 
-私達のようなソフトウェアでご飯を食べているようなエンジニアにとっては、こういった新しいツールはあればほっといてもどんどん使って行きます。 逆に、そうでない人も多く参加するのがIngressの面白いところです。高校生から[60歳過ぎたおじいさん](http://chezou.hatenablog.com/entry/2014/12/15/152000)まで幅広い層がいたりします。
+私達のようなソフトウェアでご飯を食べているようなエンジニアにとっては、こういった新しいツールはあればほっといてもどんどん使って行きます。 逆に、そうでない人も多く参加するのがIngressの面白いところです。高校生から[60歳過ぎたおじいさん](https://chezou.hatenablog.com/entry/2014/12/15/152000)まで幅広い層がいたりします。
 
 そうした人の中には、Hangoutの使い方もよくわからないという人も結構います。また、英語のソフトは全くダメ！という人も多くいます。 そう、Slackはすべて英語なのです。
 
@@ -111,7 +111,7 @@ Google Driveのフォルダに対して、Google groupに権限を付与する�
 
 [hubot-scorekeeper](https://www.npmjs.com/package/hubot-scorekeeper)というのを入れています。
 
-<iframe src="http://hatenablog.com/embed?url=http%3A%2F%2Fyoshiori.github.io%2Fblog%2F2014%2F07%2F10%2Freleased-scorekeeper%2F" title="気軽なポジティブ・フィードバック好き - yoshiori.github.io" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://yoshiori.github.io/blog/2014/07/10/released-scorekeeper/">気軽なポジティブ・フィードバック好き - yoshiori.github.io</a></iframe>
+<iframe src="https://hatenablog.com/embed?url=http%3A%2F%2Fyoshiori.github.io%2Fblog%2F2014%2F07%2F10%2Freleased-scorekeeper%2F" title="気軽なポジティブ・フィードバック好き - yoshiori.github.io" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://yoshiori.github.io/blog/2014/07/10/released-scorekeeper/">気軽なポジティブ・フィードバック好き - yoshiori.github.io</a></iframe>
 
 [気軽なポジティブ・フィードバック好き - yoshiori.github.io](http://yoshiori.github.io/blog/2014/07/10/released-scorekeeper/)
 

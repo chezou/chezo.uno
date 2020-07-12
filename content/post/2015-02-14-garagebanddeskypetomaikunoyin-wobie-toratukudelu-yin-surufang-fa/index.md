@@ -87,9 +87,8 @@ SoundflowerはMac用の仮想サウンドデバイスです。
 
 バージョン古いですが、こちらの動画も参考になります。
 
-<iframe width="480" height="270" src="http://www.youtube.com/embed/21DUC_x_z5g?feature=oembed" frameborder="0" allowfullscreen></iframe>
+{{< youtube 21DUC_x_z5g >}}
 
-[How to record multiple tracks at a time using Garageband - YouTube](https://www.youtube.com/watch?v=21DUC_x_z5g)
 
 ## ちなみに
 

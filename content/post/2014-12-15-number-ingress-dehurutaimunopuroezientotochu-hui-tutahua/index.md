@@ -57,7 +57,7 @@ Ingressはプレイ=活動領域が駄々漏れになるという特性上、Blo
 
 > Niantic Labsの創設者で、かつてGoogle Earthを開発したジョン・ハンケ氏（※本誌インタビュー記事、5月掲載）は、ユーザーに外出を促すことがコンセプトとしている。具体的には「世界が舞台」「動いて遊ぶ」「新しい視点で街を見る」「現実世界で友情を育む」という4つの要素で設計されているのだという。
 
-<iframe src="http://hatenablog.com/embed?url=http%3A%2F%2Fk-tai.impress.co.jp%2Fdocs%2Fnews%2F20141117_676258.html" title="「Ingressで痩せる」は本当だった、ローソンともコラボ開始 - ケータイ Watch" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://k-tai.impress.co.jp/docs/news/20141117_676258.html">「Ingressで痩せる」は本当だった、ローソンともコラボ開始 - ケータイ Watch</a></iframe>
+<iframe src="https://hatenablog.com/embed?url=http%3A%2F%2Fk-tai.impress.co.jp%2Fdocs%2Fnews%2F20141117_676258.html" title="「Ingressで痩せる」は本当だった、ローソンともコラボ開始 - ケータイ Watch" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://k-tai.impress.co.jp/docs/news/20141117_676258.html">「Ingressで痩せる」は本当だった、ローソンともコラボ開始 - ケータイ Watch</a></iframe>
 
 レベル7ポータルまでは近所に3人エージェントがいればできますが、レベル8は8人いないとできないです。プレーヤー密度が高まったとはいえ、自然発生的にP8に到達するのはちょっと大変だし、レベル8ができると壊しにくる敵も圧倒的に増えます\*4。
 

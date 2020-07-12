@@ -31,7 +31,7 @@ projects: []
 
 お風呂にも使えるし、キッチンでも冷蔵庫に貼り付けたりして使えて便利です。水の音に負けない程度の音量を稼げて、iPhoneやiPadで単純に再生するよりもながら聴きが捗ります。 Podcastを聞くのにちょうどよいです。Podcastの音をAirplayで良いスピーカーに繋いで出すとあまり音が頭に入らないんですが、ちょっと昔のラジカセみたいな感じでちょうど聴きやすくなります。 妻もこれを使って英語のPodcastを聞くようになっています。
 
-<iframe src="http://chezou.hatenablog.com/embed/2015/10/07/234753" title="吸盤付きお風呂スピーカーがPodcast聞くのにすごい便利 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2015/10/07/234753">chezou.hatenablog.com</a></cite>
+<iframe src="https://chezou.hatenablog.com/embed/2015/10/07/234753" title="吸盤付きお風呂スピーカーがPodcast聞くのにすごい便利 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2015/10/07/234753">chezou.hatenablog.com</a></cite>
 
 ## 2. 二重窓フィルム
 

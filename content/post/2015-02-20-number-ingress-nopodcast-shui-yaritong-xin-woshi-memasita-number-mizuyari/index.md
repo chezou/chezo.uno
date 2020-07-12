@@ -21,7 +21,7 @@ projects: []
 
 <iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fmizuyari.link%2F" title="水やり通信" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://mizuyari.link/">水やり通信</a></iframe>
 
-[![水やり通信](http://cdn.image.st-hatena.com/image/scale/87d469618a30828fbae938effa2ed1f77046e419/enlarge=0;height=200;version=1;width=200/http%3A%2F%2Fis5.mzstatic.com%2Fimage%2Fpf%2Fus%2Fr30%2FPodcasts5%2Fv4%2F8d%2F05%2F47%2F8d054730-b486-0c64-3d51-ac6e57352935%2Fmza_7606504969103185790.100x100-75.jpg "水やり通信")](https://itunes.apple.com/jp/podcast/shuiyari-tong-xin/id967598466?mt=2&uo=4&at=10l8JW&ct=hatenablog)
+[![水やり通信](https://cdn.image.st-hatena.com/image/scale/87d469618a30828fbae938effa2ed1f77046e419/enlarge=0;height=200;version=1;width=200/http%3A%2F%2Fis5.mzstatic.com%2Fimage%2Fpf%2Fus%2Fr30%2FPodcasts5%2Fv4%2F8d%2F05%2F47%2F8d054730-b486-0c64-3d51-ac6e57352935%2Fmza_7606504969103185790.100x100-75.jpg "水やり通信")](https://itunes.apple.com/jp/podcast/shuiyari-tong-xin/id967598466?mt=2&uo=4&at=10l8JW&ct=hatenablog)
 
 [水やり通信](https://itunes.apple.com/jp/podcast/shuiyari-tong-xin/id967598466?mt=2&uo=4&at=10l8JW&ct=hatenablog)
 
@@ -46,9 +46,9 @@ Ingress専門のPodcastなんて国内にはないだろう!?と思って始め�
 
 ソフトウェア的な構成は前のエントリで書きました。
 
-<iframe src="http://chezou.hatenablog.com/embed/2015/02/14/235008" title="Garagebandでskypeとマイクの音を別トラックで録音する方法 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"><a href="http://chezou.hatenablog.com/entry/2015/02/14/235008">Garagebandでskypeとマイクの音を別トラックで録音する方法 - once upon a time,</a></iframe>
+<iframe src="https://chezou.hatenablog.com/embed/2015/02/14/235008" title="Garagebandでskypeとマイクの音を別トラックで録音する方法 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"><a href="https://chezou.hatenablog.com/entry/2015/02/14/235008">Garagebandでskypeとマイクの音を別トラックで録音する方法 - once upon a time,</a></iframe>
 
-[Garagebandでskypeとマイクの音を別トラックで録音する方法 - once upon a time,](http://chezou.hatenablog.com/entry/2015/02/14/235008)
+[Garagebandでskypeとマイクの音を別トラックで録音する方法 - once upon a time,](https://chezou.hatenablog.com/entry/2015/02/14/235008)
 
 ただ、この構成少し無駄があったり複雑だったりする(LineInは2つもいらなさそう)ので、次回はmiyagawaさんおすすめの [ecamm Call Recorder](http://www.ecamm.com/mac/callrecorder/)を使ってシンプルにしてみようと思います。
 
@@ -65,7 +65,7 @@ Ingress専門のPodcastなんて国内にはないだろう!?と思って始め�
 
 大昔に多重録音向けに買った機材が役に立っています。
 
-[http://chezou.hatenablog.com/entry/20091126/1416661036](http://chezou.hatenablog.com/entry/20091126/1416661036)
+[https://chezou.hatenablog.com/entry/20091126/1416661036](https://chezou.hatenablog.com/entry/20091126/1416661036)
 
 - マイク: BEHRINGER XM500
 - AudioIF: m-audio fast track usb

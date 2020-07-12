@@ -49,7 +49,7 @@ projects: []
 
 [RNNこれ](https://github.com/mattya/RNN-colle/wiki/Tutorial_jp)でLSTMやろうとしたら、ドキュメントなさすぎてうまく行かなかったというお話でした。 補足記事も上がっています。
 
-<iframe src="http://john-smith.hateblo.jp/embed/2015/05/02/224928" title="RNNこれくしょんでLSTM使おうと思って失敗した話をMLCTでした - Java Coffee Cafe" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"><a href="http://john-smith.hateblo.jp/entry/2015/05/02/224928">RNNこれくしょんでLSTM使おうと思って失敗した話をMLCTでした - Java Coffee Cafe</a></iframe><cite class="hatena-citation"><a href="http://john-smith.hateblo.jp/entry/2015/05/02/224928">john-smith.hateblo.jp</a></cite>
+<iframe src="https://john-smith.hateblo.jp/embed/2015/05/02/224928" title="RNNこれくしょんでLSTM使おうと思って失敗した話をMLCTでした - Java Coffee Cafe" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"><a href="https://john-smith.hateblo.jp/entry/2015/05/02/224928">RNNこれくしょんでLSTM使おうと思って失敗した話をMLCTでした - Java Coffee Cafe</a></iframe><cite class="hatena-citation"><a href="https://john-smith.hateblo.jp/entry/2015/05/02/224928">john-smith.hateblo.jp</a></cite>
 
 ## カジュアルとは
 

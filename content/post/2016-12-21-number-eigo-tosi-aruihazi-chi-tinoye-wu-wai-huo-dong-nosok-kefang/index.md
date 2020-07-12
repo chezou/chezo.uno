@@ -23,15 +23,15 @@ Clouderaという外資系のHadoop/Sparkを中心としたプラットフォー
 
 # 転職した
 
-[転職エントリー](http://chezou.hatenablog.com/entry/2016/03/30/223221)にも書きました。今ちょうど9ヶ月経ちましたが、まだ首にならずなんとか頑張ってやっています。
+[転職エントリー](https://chezou.hatenablog.com/entry/2016/03/30/223221)にも書きました。今ちょうど9ヶ月経ちましたが、まだ首にならずなんとか頑張ってやっています。
 
 シンガポールでAPACのSales Enginnerでのミーティングに行ったら、いろんなアジアの国の英語とディスカッションをして揉まれました。 日本のチームは成長中なので、グローバルに比べると相対的に人数も少なく、Doug CuttingやMLlibに詳しいSparkコミッターのSean OwenをはじめとするUSのエンジニアと話す時間が多くあるのがとても楽しいです。
 
 機械学習周りを自分の強みとして、いくつかの発表もさせていただきました。
 
-<iframe src="http://chezou.hatenablog.com/embed/2016/07/26/172738" title="「夏真っ盛り！Spark + Python + Data Science祭り」を開催しました＆Ibisを紹介しました #summerDS - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2016/07/26/172738">chezou.hatenablog.com</a></cite>
+<iframe src="https://chezou.hatenablog.com/embed/2016/07/26/172738" title="「夏真っ盛り！Spark + Python + Data Science祭り」を開催しました＆Ibisを紹介しました #summerDS - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2016/07/26/172738">chezou.hatenablog.com</a></cite>
 
-<iframe src="http://chezou.hatenablog.com/embed/2016/11/14/230521" title="Cloudera World Tokyo 2016で機械学習プロダクトの作り方を話しました #cwt2016 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://chezou.hatenablog.com/entry/2016/11/14/230521">chezou.hatenablog.com</a></cite>
+<iframe src="https://chezou.hatenablog.com/embed/2016/11/14/230521" title="Cloudera World Tokyo 2016で機械学習プロダクトの作り方を話しました #cwt2016 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2016/11/14/230521">chezou.hatenablog.com</a></cite>
 
 さらに機械学習の話に加えHadoop/Spark周りの技術やスキル増やしており、考えられることの幅が広がっているのを実感できます。また、会社の新しいプロダクトや大きな変更が3ヶ月毎に起こるので、それを理解し広めるのに終わりがなく、息をつく暇もありません。
 

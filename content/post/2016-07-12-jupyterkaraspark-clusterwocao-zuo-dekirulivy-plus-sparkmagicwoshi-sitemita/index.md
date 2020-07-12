@@ -21,7 +21,7 @@ Spark Summit 2016でもトークがあったSparkのREST serverであるlivyで�
 
 Jupyterって何？という方は簡単に言うと、ブラウザで各種言語のREPLが動くものと思ってもらえばいいです。 詳細は過去に書いた以下の記事を読んでみてください。
 
-<iframe src="http://techlife.cookpad.com/embed/write-once-share-anywhare" title="現代のエンジニアのための強力なメモ帳 Jupyter notebookのすゝめ - クックパッド開発者ブログ" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://techlife.cookpad.com/entry/write-once-share-anywhare">techlife.cookpad.com</a></cite>
+<iframe src="https://techlife.cookpad.com/embed/write-once-share-anywhare" title="現代のエンジニアのための強力なメモ帳 Jupyter notebookのすゝめ - クックパッド開発者ブログ" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://techlife.cookpad.com/entry/write-once-share-anywhare">techlife.cookpad.com</a></cite>
 
 # livyとは
 
@@ -47,7 +47,7 @@ Sparkは通常gatewayにつないで処理をするが、ユーザー管理は�
 - Jobはprecompileされたjarやコードスニペット、Java/Scala client API経由でsubmitされる
 - Apache Licenseで100% オープンソース
 
-それだけだと僕にはあまり嬉しさがわかりにくかったのですが、手元で管理したJupyterと繋げられるようになるというのが個人的には最大のヒットでした。 Jupyterは[cookpadのblogにも書きましたが](http://techlife.cookpad.com/entry/write-once-share-anywhare)、データエンジニアリングや機械学習系の取り組みをメモして共有するのにはとても便利なので、クラスターのSparkがあたかもlocalにあるように操作できるのはとてもありがたいですね。
+それだけだと僕にはあまり嬉しさがわかりにくかったのですが、手元で管理したJupyterと繋げられるようになるというのが個人的には最大のヒットでした。 Jupyterは[cookpadのblogにも書きましたが](https://techlife.cookpad.com/entry/write-once-share-anywhare)、データエンジニアリングや機械学習系の取り組みをメモして共有するのにはとても便利なので、クラスターのSparkがあたかもlocalにあるように操作できるのはとてもありがたいですね。
 
 # 予め用意するもの
 

@@ -19,7 +19,7 @@ projects: []
 ---
 [id:meison\_amsl](http://blog.hatena.ne.jp/meison_amsl/) さんによるSympyの紹介がとてもよい感じだったのですが、Sympy Liveわざわざ使わなくてもJupyter notebook使えるのでは！？と思ったので試してみました。\*1わざわざ、というと語弊があると思いますが、手元でメモ＋αとして管理するのにはJupyter notebookの方がいいかなと思っています。
 
-<iframe src="http://myenigma.hatenablog.com/embed/2015/11/21/222755" title="Pythonの数式処理ライブラリSymPyをWolfram Alpha(Mathematica, Maxima)の代わりに使う方法 - MyEnigma" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://myenigma.hatenablog.com/entry/2015/11/21/222755">myenigma.hatenablog.com</a></cite>
+<iframe src="https://myenigma.hatenablog.com/embed/2015/11/21/222755" title="Pythonの数式処理ライブラリSymPyをWolfram Alpha(Mathematica, Maxima)の代わりに使う方法 - MyEnigma" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://myenigma.hatenablog.com/entry/2015/11/21/222755">myenigma.hatenablog.com</a></cite>
 
 Sympyは [2015年センター試験数学IAを全てプログラム(Python)で解く - Qiita](http://qiita.com/Akai_Banana/items/b328fe0116d248127a36) でも見ていて、ふーん、凄いなと思っていた程度なのですが、 単純に数式を記述するだけではなく、それを方程式として展開したり微分、積分したりできるのが良いですね。 単に数式をメモするだけならJupyter notebookでLaTex記法で数式を書くことができます。
 
