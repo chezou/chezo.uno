@@ -35,6 +35,7 @@ projects: []
 
 コンテンポラリーアカペラの大御所なので、是非聞かれてみてはいかがでしょうか？  
 オフィシャルサイトに、Youtubeの動画がいくつかのせられているようです。  
-{{< youtube QkL3nBCpoCo# >}}
+
+{{< youtube QkL3nBCpoCo >}}
 
 
