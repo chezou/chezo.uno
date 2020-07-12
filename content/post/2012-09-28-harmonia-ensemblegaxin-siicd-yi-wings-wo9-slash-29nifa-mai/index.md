@@ -1,5 +1,5 @@
 ---
-title: "harmonia ensembleが新しいCD"翼-WINGS-"を9/29に発売"
+title: "harmonia ensembleが新しいCD\"翼-WINGS-\"を9/29に発売"
 subtitle: ""
 summary: ""
 authors: [aki]
