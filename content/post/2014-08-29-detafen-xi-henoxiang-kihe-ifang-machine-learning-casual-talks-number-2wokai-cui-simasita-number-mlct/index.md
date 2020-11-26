@@ -57,7 +57,7 @@ Gunosy関さんのスライドが落ちていたので追加しました。
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/38372284" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/38372284" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
   **[あなたの業務に機械学習を活用する5つのポイント](https://www.slideshare.net/shoheihido/5-38372284 "あなたの業務に機械学習を活用する5つのポイント")** from **[Shohei Hido](http://www.slideshare.net/shoheihido)** 
 
@@ -67,7 +67,7 @@ Gunosy関さんのスライドが落ちていたので追加しました。
 
 ### @motivic\_ さん「素人がDEEP LEARNINGと他の機械学習の性能を比較してみた」
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/38373205" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/38373205" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
   **[素人がDeep Learningと他の機械学習の性能を比較してみた](https://www.slideshare.net/motivic/machine-learning-causal-talk-2-lt "素人がDeep Learningと他の機械学習の性能を比較してみた")** from **[motivic](http://www.slideshare.net/motivic)** 
 
