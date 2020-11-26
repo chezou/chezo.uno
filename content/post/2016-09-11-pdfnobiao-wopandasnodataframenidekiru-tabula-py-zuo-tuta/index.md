@@ -41,7 +41,7 @@ RubyKaigiに参加するとコード書きたいという気持ちが高まっ�
 
 詳細はnotebookを見てください。
 
-<iframe src="http://nbviewer.jupyter.org/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb" width="800" height="600"> </iframe>
+<iframe src="https://nbviewer.jupyter.org/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb" width="800" height="600"> </iframe>
 # RubyKaigiの成果と感想
 
 - rubyist.clubで[@mirakui](https://twitter.com/mirakui)さんをゲストに[収録](https://rubyist.club/10/)した
