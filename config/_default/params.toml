@@ -143,6 +143,8 @@ address_format = "en-us"
 ## Advanced
 ############################
 
+amazonJpAffiliate = "chezou-22"
+
 # Get user avatars from Gravatar.com? (true/false)
 [avatar]
   gravatar = true
