@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Aki Ariga
+title: Aki Ariga
 
 # Username (this should match the folder name)
 authors:
@@ -45,6 +45,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/chezou
+  label: Follow me on Twitter
+  display:
+    header: true
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=mWyeNrwAAAAJ&hl=ja
