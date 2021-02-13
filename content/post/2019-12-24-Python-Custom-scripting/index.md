@@ -94,10 +94,10 @@ $ source .venv/bin/activate
 (.venv)$ pip install -r requirements.txt -c constraints.txt
 ```
 
-{{% alert note %}}
+{{% callout note %}}
 この方法では、OSによる差異まで吸収ができない場合があります。
 例えば、digdag-python:3.7はDebianベースなので、OSレベルのパッケージ管理は `apt-get` を使いますが、それをスクリプト内に書いても実行ができません。
-{{% /alert %}}
+{{% /callout %}}
 
 #### digdag-anaconda3:2019.03
 
@@ -121,9 +121,9 @@ conda env create -f environment.yml
 もし、ローカル環境でworkflow全体を実行したい場合は、 [digdagの v0_10ブランチ](https://github.com/treasure-data/digdag/tree/v0_10)を使うことで、
 本番環境に近いdigdag環境が用意できます。
 
-{{% alert warning %}}
+{{% callout warning %}}
 2019/12/23現在は、Treasure Dataではv0_10を使っていますが、将来これは変わる恐れがあります。
-{{% /alert %}}
+{{% /callout %}}
 
 ## py> operatorにパラメータを渡す
 
