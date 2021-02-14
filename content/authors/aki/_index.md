@@ -12,7 +12,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/chezou
-    label: Follow me on Twitter
     display:
       header: true
   - icon: google-scholar

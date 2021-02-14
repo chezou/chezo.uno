@@ -145,6 +145,9 @@ address_format = "en-us"
 
 amazonJpAffiliate = "chezou-22"
 
+# Show related content at the bottom of pages?
+show_related = {page = false, post = true, project = false, publication = false, talk = false}
+
 # Get user avatars from Gravatar.com? (true/false)
 [avatar]
   gravatar = true
