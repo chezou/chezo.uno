@@ -73,9 +73,18 @@ conda env create -f environment.yml
 
 ## Test a workflow including Python
 
-If you want to run an entire workflow on the local environment, you can use [digdag v0_10 branch](https://github.com/treasure-data/digdag/tree/v0_10).
+If you want to run an entire workflow on the local environment, <del>you can use [digdag v0_10 branch](https://github.com/treasure-data/digdag/tree/v0_10)</del>.
 
-Warning: As of Mar 5, 2020, Treasure Data uses digdag v0_10 branch, but it may change in the near future.
+{{% callout warning %}}
+As of Mar 5, 2020, Treasure Data uses digdag v0_10 branch, but it may change in the near future.
+{{% /warning %}}
+
+{{% callout warning %}}
+As of Feb 14, 2021, Treasure Data moved to v0_11 branch. You may use the latest release branch.
+https://github.com/treasure-data/digdag/pull/1502
+https://github.com/treasure-data/digdag/pull/1504
+{{% /callout %}}
+
 
 # Passing Parameters to py> operator
 
@@ -269,12 +278,14 @@ For installation of Python packages, you can use os.syste or subprocess.run like
 
 ```py
 import os, sys
-os.system(f"{sys.executable} -m pip install --upgrade pytd")
+os.system(f"{sys.executable} -m pip install --upgrade pytd==1.4.3")
 
 import subprocess
 # arguments should be passed by list
-subprocess.run([sys.executable, "-m", "pip", "install", "--upgrade", "pytd"])
+subprocess.run([sys.executable, "-m", "pip", "install", "--upgrade", "pytd==1.4.3"])
 ```
+
+Ensure you set the version number of Python package.
 
 To install OS packages, you can execute like the following:
 
