@@ -77,7 +77,7 @@ If you want to run an entire workflow on the local environment, <del>you can use
 
 {{% callout warning %}}
 As of Mar 5, 2020, Treasure Data uses digdag v0_10 branch, but it may change in the near future.
-{{% /warning %}}
+{{% /callout %}}
 
 {{% callout warning %}}
 As of Feb 14, 2021, Treasure Data moved to v0_11 branch. You may use the latest release branch.
