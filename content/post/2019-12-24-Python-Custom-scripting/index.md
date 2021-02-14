@@ -1,34 +1,25 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Pythonistaのためのdigdag py> operator開発ガイド"
-subtitle: ""
 summary: ""
-authors: [aki]
-tags: [Python]
-categories: [Python, TreasureData]
-date: 2019-12-24T00:00:00+09:00
-lastmod: 2019-12-24T00:00:00+09:00
-featured: false
 draft: false
+authors:
+  - aki
 toc: true
 markup: blackfriday
-
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+lastmod: 2019-12-24T00:00:00+09:00
+title: Pythonistaのためのdigdag py> operator開発ガイド
+subtitle: ""
+date: 2019-12-24T00:00:00+09:00
+featured: false
+tags:
+  - Python
+categories:
+  - Python
+  - TreasureData
+projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
 ---
 
 {{% toc %}}
@@ -118,13 +109,18 @@ conda env create -f environment.yml
 
 ### py> operatorを含んだworkflowをローカルで実行する
 
-もし、ローカル環境でworkflow全体を実行したい場合は、 [digdagの v0_10ブランチ](https://github.com/treasure-data/digdag/tree/v0_10)を使うことで、
-本番環境に近いdigdag環境が用意できます。
+もし、ローカル環境でworkflow全体を実行したい場合は、 <del>[digdagの v0_10ブランチ](https://github.com/treasure-data/digdag/tree/v0_10)を使うことで、
+本番環境に近いdigdag環境が用意できます</del>。
 
 {{% callout warning %}}
 2019/12/23現在は、Treasure Dataではv0_10を使っていますが、将来これは変わる恐れがあります。
 {{% /callout %}}
 
+{{% callout warning %}}
+2021/02/14現在、v0_11へと移行しました。今後は適宜適切なブランチを使うようにしてください。
+https://github.com/treasure-data/digdag/pull/1502
+https://github.com/treasure-data/digdag/pull/1504
+{{% /callout %}}
 ## py> operatorにパラメータを渡す
 
 py> operatorにパラメータを渡すには2つの方法があります。
@@ -327,12 +323,14 @@ Treasure WorkflowではDocker imageに入っていないパッケージは `os.s
 
 ```py
 import os, sys
-os.system(f"{sys.executable} -m pip install --upgrade pytd")
+os.system(f"{sys.executable} -m pip install --upgrade pytd==1.4.3")
 
 import subprocess
 # arguments should be passed by list
-subprocess.run([sys.executable, "-m", "pip", "install", "--upgrade", "pytd"])
+subprocess.run([sys.executable, "-m", "pip", "install", "--upgrade", "pytd==1.4.3"])
 ```
+
+この際、パッケージのバージョンを指定しましょう。
 
 OSのパッケージのインストールの場合も同様です。
 
