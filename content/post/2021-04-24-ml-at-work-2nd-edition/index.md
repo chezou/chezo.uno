@@ -38,6 +38,12 @@ markup.goldmark.render:
 
 {{< amazon asin="4873119472" title="仕事ではじめる機械学習 第2版" >}}
 
+コードは今回はGitHubとGoogle Colaboratoryにあります。詳しくは、GitHubのレポジトリをご覧ください。
+
+https://github.com/oreilly-japan/ml-at-work
+
+なお、第一版のコードは[1st-editionタグ](https://github.com/oreilly-japan/ml-at-work/tree/1st-edition)にあります。
+
 同人誌や[初版のEbook](https://chezo.uno/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/)が出た2017年から4年の歳月を経て、この度改訂版を出すこととなりました。
 
 皆さまのおかげでAmazonの書籍ランキングでも、予約のタイミングなのに10位になったこともあったそうです。ありがたい限りです。
