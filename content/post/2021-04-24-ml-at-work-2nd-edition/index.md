@@ -1,40 +1,28 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "オライリーから「仕事ではじめる機械学習 第2版」を出版しました"
+title: オライリーから「仕事ではじめる機械学習 第2版」を出版しました
 subtitle: ""
-summary: ""
-authors: [aki]
-tags: [book]
-categories: []
 date: 2021-04-24T16:48:57-07:00
-lastmod: 2021-04-24T16:48:57-07:00
-featured: true
+summary: ""
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: "仕事ではじめる機械学習 第2版 表紙"
-  focal_point: "Smart"
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-
+featured: true
+authors:
+  - aki
+lastmod: 2021-04-24T16:48:57-07:00
 markup.goldmark.render:
   unsafe: true
+tags:
+  - book
+categories: []
+projects: []
+image:
+  caption: 仕事ではじめる機械学習 第2版 表紙
+  focal_point: Smart
+  preview_only: false
 ---
-
 {{< toc >}}
 
 4/23に「仕事ではじめる機械学習 第2版」を[tokoroten](https://twitter.com/torkoroten)さんと[hagino3000](https://twitter.com/hagino3000)さんとともに出版しました。
-電子版は、Kindleでは購入できない[^2]のでぜひ[オライリー・ジャパンのサイト](https://www.oreilly.co.jp/books/9784873119472/)からDRMフリーのPDF、EPUBをご購入ください。
+電子版は、Kindleでは購入できない[^2](https://twitter.com/chezou/status/1385414782396747779)のでぜひ[オライリー・ジャパンのサイト](https://www.oreilly.co.jp/books/9784873119472/)からDRMフリーのPDF、EPUBをご購入ください。
 
 {{< amazon asin="4873119472" title="仕事ではじめる機械学習 第2版" >}}
 
@@ -46,9 +34,15 @@ https://github.com/oreilly-japan/ml-at-work
 
 同人誌や[初版のEbook](https://chezo.uno/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/)が出た2017年から4年の歳月を経て、この度改訂版を出すこととなりました。
 
-皆さまのおかげでAmazonの書籍ランキングでも、予約のタイミングなのに10位になったこともあったそうです。ありがたい限りです。
+皆さまのおかげでAmazonの書籍ランキングでも、[予約のタイミングなのに10位になった](http://twitter.com/soaredbooks/status/1382676299899019272)こともあったそうです。ありがたい限りです。
 
-[^2]: https://twitter.com/chezou/status/1385414782396747779
+\[2021/04/26追記]\
+ジュンク堂書店池袋本店とEbookの販売でも1位を獲得したようです。ありがたや〜
+
+{{<  tweet 1386507058892001280 >}}
+
+\
+\[/追記]
 
 ## 改訂版の見どころ
 
@@ -60,18 +54,16 @@ https://github.com/oreilly-japan/ml-at-work
 
 大きな違いは初版の目次と比較していただいてもわかるかとは思いますが、以下のポイントが大きな変更点になります。
 
-- 機械学習基盤とML Opsの章の追加 (chezou)
-- 効果検証の章の大幅改訂（hagino3000）
-- 退職予測をテーマに予測モデルの解釈をする (tokoroten)
-- オンライン広告における機械学習モデルの役割と運用 (hagino3000)
-- エンジニア向けの数式を少なくしたバンディットアルゴリズム解説 (tokoroten)
+* 機械学習基盤とML Opsの章の追加 (chezou)
+* 効果検証の章の大幅改訂（hagino3000）
+* 退職予測をテーマに予測モデルの解釈をする (tokoroten)
+* オンライン広告における機械学習モデルの役割と運用 (hagino3000)
+* エンジニア向けの数式を少なくしたバンディットアルゴリズム解説 (tokoroten)
 
 ## おすすめの読み方
 
 帯には「上司に機械学習でいい感じにしてくれと言われたら」とありますが、それに対する直接的な答えは残念ながら書かれてはいませんが、そこに至るまでの足がかりとなる情報がコンパクトにまとまっているかなと思います。
-著者3名それぞれが「実務でそれいるの？」というツッコミをしながらの執筆は、楽しくも辛くも[^1]ありました。
-
-[^1]: 海外移住に出産に本業のデスマラッシュにと、全員なぜか締切と重なる様々な出来事があった
+著者3名それぞれが「実務でそれいるの？」というツッコミをしながらの執筆は、楽しくも辛くも[^1](海外移住に出産に本業のデスマラッシュにと、全員なぜか締切と重なる様々な出来事があった)ありました。
 
 読み方としては色々あると思いますが、まずは肩肘張らずに難しいところは飛ばしてざっと読んでいただいて、後で困ったら辞書のように引っ張り出して更に別の文献にあたって深堀りする、という読み方が良いのではないかなと思います。
 私は前回のときからの縛りで極力数式を使わないように書いていますが、tokorotenはその中間、hagino3000さんは数式は他の二人より多め、とバラエティに富んでいます。
