@@ -49,9 +49,9 @@ Machine Learning in productionに対する9つの課題は、世の中にまだ�
 
 以下、shima__shima先生の説明が参考になるかと思います。
 
-{{< tweet 1201801576949538816 >}}
+{{< tweet user="shima__shima" id="1201801576949538816" >}}
 
-{{< tweet 1201802162482737152 >}}
+{{< tweet user="shima__shima" id="1201802162482737152" >}}
 
 ## 機械学習工学セッションの他の発表
 

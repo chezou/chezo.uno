@@ -49,7 +49,7 @@ JUMAN++のサイトには解析を試せるWebアプリケーションがある�
 
 冒頭のQiitaの記事に対してはRNNLMベースだからというよりは、辞書の改善によるものなのでは？という話はMeCab作者の工藤さんからも指摘があります。
 
-{{< tweet 786520352297918464 >}}
+{{< tweet user="taku910" id="786520352297918464" >}}
 
 
 [@overlast](https://twitter.com/overlast) さんが精力的に更新をしている[neologd](https://github.com/neologd/mecab-ipadic-neologd)との比較をしているため、MeCab側としては現在普通に入手可能なMeCabの辞書としては最も良いものを使っていると思います。 なので、neologd以前に良く問題とされていた「最近の用語が入っていない」という部分に関しては議論の対象にはなっていませんね。
