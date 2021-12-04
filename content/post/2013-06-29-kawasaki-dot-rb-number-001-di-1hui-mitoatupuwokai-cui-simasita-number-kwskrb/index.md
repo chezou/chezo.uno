@@ -60,7 +60,9 @@ Doorkeeperの参加者を見ていただくとわかるのですが、予想以�
 - NKT77さんが報告していたGCのせいでHashが遅いのはtrunkでは改善しました！(凄い！)
 最後の、Hashの速度向上については田中哲さんも確認されたようです。
 
-[tweet [https://twitter.com/tanaka\_akr/status/350600581003485184](https://twitter.com/tanaka_akr/status/350600581003485184)]
+
+{{< tweet user="tanaka_akr" id="350600581003485184" >}}
+
 
 当日は散々、「Rubyの集まりじゃないのかよ！」とか「Pythonを宣伝する場所かよ！」とか突っ込まれていましたが、これで皆さん安心してHadoop StreamingでRubyを使ってもらえますね。
 
