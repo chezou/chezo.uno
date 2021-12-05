@@ -16,8 +16,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "秋の紅葉"
+  focal_point: "Top"
   preview_only: false
 ---
 
@@ -123,6 +123,8 @@ MSPと呼ばれる皆保険に入るのですが、これに入っていれば�
 
 
 ## 夏は日が長く冬は短い
+
+![Deer lake](./IMG_0470.jpg)
 
 緯度が高いけれど、夏の気温は30度いかない程度、冬も下は0度前後とカナダの中でも過ごしやすいVancouverですが、日照時間はかなり変化が激しいです。
 
