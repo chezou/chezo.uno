@@ -1,47 +1,56 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "バンクーバーに移住して8か月が経った"
+title: バンクーバーに移住して8か月が経った
 subtitle: ""
+date: 2021-12-18T00:00:00+09:00
 summary: ""
-authors: [aki]
+draft: false
+featured: false
+authors:
+  - aki
+lastmod: 2021-12-04T14:50:35-08:00
 tags: []
 categories: []
-date: 2021-12-18T00:00:00+09:00
-lastmod: 2021-12-04T14:50:35-08:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "秋の紅葉"
-  focal_point: "Top"
+  caption: 秋の紅葉
+  focal_point: Top
   preview_only: false
 ---
-
 この記事は[pyspa Advent Calender 2021](https://adventar.org/calendars/6234)の18日目です。昨日は[@golden_lucky](https://twitter.com/golden_lucky)でした。
 
 今年も早いもので12月になってしまいました。
 
 実は6月にもkawasaki.rbでこんな話をしていたのですが、今年4月にグレーターバンクーバーエリア（東京圏みたいな感じ）に家族で移住したので、ぼちぼちと一年振り返って生存報告を書こうと思います。
 
-
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTtVnyA4NtvADohcQo_yt5_ua9JmXdfbc40bBEO0N4VVD_YQWqN7dFqrwjjtVAm3hvyTuUgI1H3YvkS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## 四季が豊か
+
+春はあちこちに植えられた桜がお出迎えしてくれましたが、（熱波も来たけど）30度を超えることがまずない乾燥した爽やかな夏、色とりどりの紅葉がきれいな秋、たまに雪が降る冬と、とても変化がはっきりしています。東京より少し寒い地域にいるのとあまり変わらない感じですね。
+
+{{< instagram CNwE0_PpMfR >}}
+
+{{< instagram CQRJlDkpb3H >}}
+
+{{< instagram CWGnCcdvJkE >}}
+
+{{< instagram CXJ1TCLPFpo >}}
 
 ## インターネットは速い
 
 Shawというケーブルテレビ系のネットを使っていますが、1GBの契約で900Mbps前後出るので結構速いです。
 先日、gfx氏の奥さんのお勧めするtp-linkのdeco AX3000にしたら無線でも800Mbps台出ました。
 
-![deco AX3000](./IMG_0625.jpg)
+![deco AX3000](./IMG_0625.jpg "deco AX3000")
 
 {{< amazon asin="B0873HWX1W" title="TP-Link WiFi 無線LANルーター Wi-Fi6 2402 + 574 Mbps メッシュWi-Fiシステム 3年保証 Deco X60 1ユニット" >}}
 
 ## ビールはおいしい
 
 スライドでも書きましたが、ビールはあちこちにクラフトビール屋さんがありおいしいです。
+
+\[@takuti](https://twitter.com/takuti) さんのこの記事を見ると、より雰囲気がわかるんじゃないでしょうか。
+
+https://takuti.me/note/2021-bcat-best-brewery-experience-award/
 
 また、BC州では酒屋じゃないとアルコール飲料が買えないこともあり、ノンアルコールビールもよく売っています。
 basukeさんがお勧めしてるノンアルコールビールAthletic Brewingも Amazon.ca で買えるし、クラフトビールのノンアルコールビールもあります。
@@ -120,7 +129,6 @@ MSPと呼ばれる皆保険に入るのですが、これに入っていれば�
 なお、英語が全く話せなかった子供も、10か月経った最近になってようやくクラスの子とやり取りができるようになってきて、学校生活も落ち着いてきたように思います。上の子は授業でフランス語も始まっているので、英語に加えて少し大変そうです。
 
 バスや電車も子供の料金が今年無料になり、BC州は子育て支援を加速しており子持ち世帯には優しいように感じます。
-
 
 ## 夏は日が長く冬は短い
 
