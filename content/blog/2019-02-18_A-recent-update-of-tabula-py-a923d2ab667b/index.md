@@ -8,7 +8,7 @@ categories: [OSS]
 keywords: [tabula-py]
 ---
 
-![Photo by [Joshua Rawson-Harris](https://unsplash.com/@joshrh19?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](/img/0__9HRqzqcWldOqKJCK.jpg)
+![Photo by [Joshua Rawson-Harris](https://unsplash.com/@joshrh19?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](./0__9HRqzqcWldOqKJCK.jpg)
 Photo by [Joshua Rawson-Harris](https://unsplash.com/@joshrh19?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 _This article is_ [_a repost of Patreon article_](https://www.patreon.com/posts/23407263) _published last December. I’m planning to bump up the next version of tabula-py within few weeks._
@@ -22,48 +22,61 @@ This is my first post on patreon. Apologies for delayed announcement of recent u
 
 Tabula app has [**template exporting**](https://github.com/tabulapdf/tabula/pull/711) feature to reuse same bounding box for extraction. tabula-py now load and extract with tabula app’s template.
 
-> _dfs =_ [**_tabula.read_**](http://tabula.read/)_\_pdf\_with\_template(‘./examples/data.pdf’, ‘./examples/data.tabula-template.json’, pandas\_options={‘header’: 0})_
+```py
+dfs = tabula.read_pdf_with_template(
+  './examples/data.pdf',
+  './examples/data.tabula-template.json',
+  pandas_options={'header': 0})
+```
 
 ### Support file-like object
 
 Like many python libraries, tabula-py has been able to [**extract from file-like object**](https://github.com/chezou/tabula-py/pull/105).
 
-> _\# With file-like object  
-> pdf\_path = ‘tests/resources/data.pdf’  
-> with open(pdf\_path, ‘rb’) as f:  
->  df =_ [**_tabula.read_**](http://tabula.read/)_\_pdf(f)_
+```py
+# With file-like object  
+pdf\_path = ‘tests/resources/data.pdf’  
+with open(pdf\_path, ‘rb’) as f:  
+  df = tabula.read_pdf(f)
 
-> _\# With pathlib  
-> from pathlib import Path  
-> pdf\_path = ‘tests/resources/data.pdf’  
-> df =_ [**_tabula.read_**](http://tabula.read/)_\_pdf(Path(pdf\_path))_
+# With pathlib  
+from pathlib import Path  
+pdf_path = 'tests/resources/data.pdf'
+df = tabula.read_pdf(Path(pdf_path))
+```
 
 ### Allow multiple area option
 
 As of tabula-java v1.0.2, tabula can handle multiple area option.
 
-> _pdf\_path = ‘tests/resources/MultiColumn.pdf’  
-> \# Relative area  
-> df\_relative =_ [**_tabula.read_**](http://tabula.read/)_\_pdf(  
->  pdf\_path, pages=1, area=\[\[0, 0, 100, 50\], \[0, 50, 100, 100\]\], relative\_area=True)  
-> \# Absolute area  
-> df\_absolute =_ [**_tabula.read_**](http://tabula.read/)_\_pdf(  
->  pdf\_path, pages=1, area=\[\[0, 0, 451, 212\], \[0, 212, 451, 425\]\])_
+```py
+pdf_path = 'tests/resources/MultiColumn.pdf'
+# Relative area  
+df_relative = tabula.read_pdf(  
+  pdf_path, pages=1,
+  area=[[0, 0, 100, 50], [0, 50, 100, 100]], relative_area=True)  
+
+# Absolute area  
+  df_absolute = tabula.read_pdf(  
+    pdf_path, pages=1, area=[[0, 0, 451, 212], [0, 212, 451, 425]])
+```
 
 ### Tip: Get table position
 
 This is not a new feature, but I think it might be helpful for some PDFs.  
 Detailed post: [**https://github.com/chezou/tabula-py/issues/102**](https://github.com/chezou/tabula-py/issues/102)
 
-read\_pdf with JSON contains position info, so you can get the table position as follows:
+`read_pdf` with JSON contains position info, so you can get the table position as follows:
 
-> _In \[5\]: tables = read\_pdf(“./examples/data.pdf”, output\_format=”json”, page=2)  
-> In \[9\]: top = tables\[0\]\[‘top’\]  
-> In \[10\]: left = tables\[0\]\[‘left’\]  
-> In \[11\]: bottom = tables\[0\]\[‘height’\] + top  
-> In \[12\]: right = tables\[0\]\[‘width’\] + left  
-> In \[13\]: top, bottom, left, right  
-> Out\[13\]: (0.0, 528.8800048828125, 0.0, 564.8800048828125)_
+```py
+In [5]: tables = read_pdf("./examples/data.pdf", output_format="json", page=2)  
+In [9]: top = tables[0]['top']  
+In [10]: left = tables[0]['left']
+In [11]: bottom = tables[0]['height'] + top  
+In [12]: right = tables[0]['width'] + left  
+In [13]: top, bottom, left, right  
+Out[13]: (0.0, 528.8800048828125, 0.0, 564.8800048828125)
+```
 
 If you have any question, ask on [**Stack Overflow**](https://stackoverflow.com/search?q=tabula-py)!
 

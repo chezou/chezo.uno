@@ -9,7 +9,7 @@ keywords: ["GitHub Actions", Python]
 authors: [aki]
 ---
 
-![Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](/img/0__hOksODxf9TX1BkS0.jpg)
+![](./0__hOksODxf9TX1BkS0.jpg)
 Photo by [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 Recently, I changed my CI from Travis to GitHub Actions. GitHub Actions is handy and useful for testing, publishing Python packages.
