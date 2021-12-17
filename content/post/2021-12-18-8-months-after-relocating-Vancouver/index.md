@@ -27,20 +27,19 @@ image:
 
 春はあちこちに植えられた桜がお出迎えしてくれましたが、（熱波も来たけど）30度を超えることがまずない乾燥した爽やかな夏、色とりどりの紅葉がきれいな秋、たまに雪が降る冬と、とても変化がはっきりしています。東京より少し寒い地域にいるのとあまり変わらない感じですね。
 
-{{< instagram CNwE0_PpMfR >}}
-
-{{< instagram CQRJlDkpb3H >}}
-
-{{< instagram CWGnCcdvJkE >}}
-
-{{< instagram CXJ1TCLPFpo >}}
+![Spring](./spring.jpg)
+![Summer 1](./summer_1.jpg)
+![Summer 2](./summer_2.jpg)
+![Fall 1](./fall_1.jpg)
+![Fall 2](./fall_2.jpg)
+![Winter](./winter.jpg)
 
 ## インターネットは速い
 
 Shawというケーブルテレビ系のネットを使っていますが、1GBの契約で900Mbps前後出るので結構速いです。
 先日、gfx氏の奥さんのお勧めするtp-linkのdeco AX3000にしたら無線でも800Mbps台出ました。
 
-![deco AX3000](./IMG_0625.jpg "deco AX3000")
+![deco AX3000](./IMG_0625.jpg)
 
 {{< amazon asin="B0873HWX1W" title="TP-Link WiFi 無線LANルーター Wi-Fi6 2402 + 574 Mbps メッシュWi-Fiシステム 3年保証 Deco X60 1ユニット" >}}
 
