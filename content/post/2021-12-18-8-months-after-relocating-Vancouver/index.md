@@ -15,13 +15,15 @@ image:
   focal_point: Top
   preview_only: false
 ---
-この記事は[pyspa Advent Calender 2021](https://adventar.org/calendars/6234)の18日目です。昨日は[@golden_lucky](https://twitter.com/golden_lucky)でした。
+この記事は[pyspa Advent Calender 2021](https://adventar.org/calendars/6234)の18日目です。昨日は[@golden_lucky](https://twitter.com/golden_lucky)のリンゴの話でした。
 
 今年も早いもので12月になってしまいました。
 
 実は6月にもkawasaki.rbでこんな話をしていたのですが、今年4月にグレーターバンクーバーエリア（東京圏みたいな感じ）に家族で移住したので、ぼちぼちと一年振り返って生存報告を書こうと思います。
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTtVnyA4NtvADohcQo_yt5_ua9JmXdfbc40bBEO0N4VVD_YQWqN7dFqrwjjtVAm3hvyTuUgI1H3YvkS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+カナダもリンゴの種類は豊富で、毎日食べてます。酸味が多い種が多く売られていますが、フジなんかもこちらで栽培したものが手に入ります。
 
 ## 四季が豊か
 
