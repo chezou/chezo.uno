@@ -49,7 +49,7 @@ Shawというケーブルテレビ系のネットを使っていますが、1GB�
 
 スライドでも書きましたが、ビールはあちこちにクラフトビール屋さんがありおいしいです。
 
-\[@takuti](https://twitter.com/takuti) さんのこの記事を見ると、より雰囲気がわかるんじゃないでしょうか。
+[@takuti](https://twitter.com/takuti) さんのこの記事を見ると、より雰囲気がわかるんじゃないでしょうか。
 
 https://takuti.me/note/2021-bcat-best-brewery-experience-award/
 
