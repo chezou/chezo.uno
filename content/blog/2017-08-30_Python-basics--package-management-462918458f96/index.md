@@ -9,8 +9,6 @@ keywords: []
 authors: [aki]
 ---
 
-![](/img/0__uXXnTWOwZbYEuz6y.png)
-
 Python is a very famous programming language for machine learning. In this article, I will introduce basic Python environment.
 
 ### Glossary
