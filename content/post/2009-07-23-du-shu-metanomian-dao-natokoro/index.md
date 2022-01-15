@@ -1,21 +1,19 @@
 ---
-title: "読書メーターの面倒なところ"
-subtitle: ""
-summary: ""
+title: 読書メーターの面倒なところ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-07-23T21:55:06+00:00
-lastmod: 2009-07-23T21:55:06+00:00
+categories: null
+date: 2009-07-23 21:55:06+00:00
+lastmod: 2009-07-23 21:55:06+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [コメント, 殆ど, 明示, エントリー, モチベーション, 雑感, 当初, wordpress, 多少, 評価]
+recommendations: [/post/2008-10-28-utukusiizi-domo/, /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/,
+  /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/]
 ---
 なんか、あれを始めてから殆ど本を読んでいないのであまり参考にはならないかもしれませんが、使ってみた雑感を。
 

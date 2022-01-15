@@ -1,21 +1,19 @@
 ---
-title: "「はじめてのパターン認識」読書会に参加しました #はじパタ"
-subtitle: ""
-summary: ""
+title: '「はじめてのパターン認識」読書会に参加しました #はじパタ'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2014-02-23T22:06:04+00:00
-lastmod: 2014-02-23T22:06:04+00:00
+categories: null
+date: 2014-02-23 22:06:04+00:00
+lastmod: 2014-02-23 22:06:04+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [タイトル, julia, パターン認識, 釣り, 続き, phpapp, doc, 雰囲気, 読書会, 整理]
+recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
+  /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/]
 ---
 先日開催された[第12回「はじめてのパターン認識」読書会](http://connpass.com/event/5157/)に[@yamakatu](https://twitter.com/yamakatu)さんに誘われるままに参加してきました。
 

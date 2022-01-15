@@ -1,21 +1,20 @@
 ---
-title: "Google製の正規表現エンジンRe2を日本語で試してみた"
-subtitle: ""
-summary: ""
+title: Google製の正規表現エンジンRe2を日本語で試してみた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-11-25T22:02:51+00:00
-lastmod: 2011-11-25T22:02:51+00:00
+categories: null
+date: 2011-11-25 22:02:51+00:00
+lastmod: 2011-11-25 22:02:51+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [re, include, マッチ, make, インストール, 使い方, unnonouno, str, clone, sudo]
+recommendations: [/post/2011-11-26-zheng-gui-biao-xian-raiburarire2nojian-dan-nashi-ifang-matome/,
+  /post/2017-07-10_Thinkpad-X1-Carbon--2017--Windows-10-Ubuntu-17-04-----------9f73d89073c3/,
+  /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/]
 ---
 C++で正規表現を使う時、boost::regexを使うことが多いと思っていたのですが、何故か1.46.1以降(といっても1.48.0しか試していませんが)、regex\_search,regex\_matchがNullPointerExceptionぽく落ちるので、解決方法を探していました。
 

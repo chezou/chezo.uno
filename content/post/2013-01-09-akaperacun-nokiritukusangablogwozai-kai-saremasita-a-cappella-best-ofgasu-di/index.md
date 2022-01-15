@@ -1,21 +1,20 @@
 ---
-title: "あかぺら村のキリックさんがblogを再開されました！ - A Cappella - Best ofが素敵！"
-subtitle: ""
-summary: ""
+title: あかぺら村のキリックさんがblogを再開されました！ - A Cappella - Best ofが素敵！
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2013-01-09T11:01:16+00:00
-lastmod: 2013-01-09T11:01:16+00:00
+categories: null
+date: 2013-01-09 11:01:16+00:00
+lastmod: 2013-01-09 11:01:16+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [the, '39', in, cd, live, it, singers, of, version, so]
+recommendations: [/post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/,
+  /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/,
+  /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/]
 ---
 素敵なアカペラCDを通販されていたあかぺら村のキリックさんが、この度blogを解説されたようです！
 

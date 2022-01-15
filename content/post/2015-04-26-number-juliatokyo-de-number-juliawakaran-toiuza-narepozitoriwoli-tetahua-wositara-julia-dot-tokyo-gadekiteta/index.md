@@ -1,21 +1,19 @@
 ---
-title: "#JuliaTokyo で #juliaわからん という雑なレポジトリを立てた話をしたら julia.tokyo ができてた "
-subtitle: ""
-summary: ""
+title: '#JuliaTokyo で #juliaわからん という雑なレポジトリを立てた話をしたら julia.tokyo ができてた '
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-04-26T22:25:18+00:00
-lastmod: 2015-04-26T22:25:18+00:00
+categories: null
+date: 2015-04-26 22:25:18+00:00
+lastmod: 2015-04-26 22:25:18+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [julia, juliatokyo, sorami, issue, 場所, more, japan, チャット, やりとり, make]
+recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/,
+  /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/]
 ---
 [JuliaTokyo #3](http://juliatokyo.connpass.com/event/13218/)を @soramiさんと @bycicle1885 さんと開催しました。
 

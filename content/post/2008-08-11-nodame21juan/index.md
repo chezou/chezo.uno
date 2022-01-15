@@ -1,21 +1,19 @@
 ---
-title: "のだめ21巻"
-subtitle: ""
-summary: ""
+title: のだめ21巻
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-08-11T21:49:56+00:00
-lastmod: 2008-08-11T21:49:56+00:00
+categories: null
+date: 2008-08-11 21:49:56+00:00
+lastmod: 2008-08-11 21:49:56+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: ['21', 翌朝, スルー, 続き, だめ, その後, 講談社, isbn, 展開, スコア]
+recommendations: [/post/2008-07-06-nodamekantabire18-20/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
+  /post/2008-07-30-narutaru/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51tMdfp+pDL._SL160_.jpg)[のだめカンタービレ #21 (21) (講談社コミックスキス)](http://item.excite.co.jp/detail/ASIN_4063407128)  
 二ノ宮 知子 / / 講談社  

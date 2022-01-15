@@ -1,21 +1,19 @@
 ---
-title: "Rubyで深層学習を使った音声合成Amazon Pollyを使ってWebサイトの読み上げ音声合成してみた"
-subtitle: ""
-summary: ""
+title: Rubyで深層学習を使った音声合成Amazon Pollyを使ってWebサイトの読み上げ音声合成してみた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2016-12-01T23:10:05+00:00
-lastmod: 2016-12-01T23:10:05+00:00
+categories: null
+date: 2016-12-01 23:10:05+00:00
+lastmod: 2016-12-01 23:10:05+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [amazon, 音声, '2016', aws, 英語, mp, '12', dl, 言語, api]
+recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2017-07-08_MBP--Thinkpad-X1-Carbon-2017-------46c374167b79/,
+  /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
 ---
 
 ![](/img/amazon-polly-with-ruby/20161201230818.png)

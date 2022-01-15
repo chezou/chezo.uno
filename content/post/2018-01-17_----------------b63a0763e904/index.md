@@ -3,8 +3,10 @@ title: 「初めての自動テスト」を読んだ
 description: 「初めての自動テスト」をご恵贈いただきました。発売してからだいぶ経ってしまいましたが、良い本だったので紹介したいと思います。
 date: '2018-01-17T12:54:23+09:00'
 categories: [book]
-keywords: []
+keywords: [テスト, 自動, 経験, ui, 基礎, web, 両方, 開発者, システム, コード]
 authors: [aki]
+recommendations: [/post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/,
+  /post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/]
 ---
 
 「初めての自動テスト」をご恵贈いただきました。発売してからだいぶ経ってしまいましたが、良い本だったので紹介したいと思います。

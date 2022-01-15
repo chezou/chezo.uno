@@ -1,21 +1,20 @@
 ---
-title: "icloudのカレンダーに来るイベントスパムを避けるための設定変更"
-subtitle: ""
-summary: ""
+title: icloudのカレンダーに来るイベントスパムを避けるための設定変更
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2016-11-26T13:17:55+00:00
-lastmod: 2016-11-26T13:17:55+00:00
+categories: null
+date: 2016-11-26 13:17:55+00:00
+lastmod: 2016-11-26 13:17:55+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [calendar, カレンダー, 通知, 設定, 削除, png, img, メール, 追加, .com]
+recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
+  /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
+  /post/2005-10-03-su-suge-pin-desuyo/]
 ---
 最近、めちゃくちゃicloudのカレンダーにレイバンのスパムが来るようになってうざいので、通知されないように回避するためのicloudの設定方法を書いておく。
 

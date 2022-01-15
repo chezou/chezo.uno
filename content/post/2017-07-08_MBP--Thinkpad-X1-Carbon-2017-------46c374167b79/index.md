@@ -1,10 +1,13 @@
 ---
 title: MBPからThinkpad X1 Carbon(2017)に移行した
-description: joker1007さんも煽っていることもあり、MacBook Pro Retina(2015) 15インチが重すぎてしんどいので、Thinkpad X1…
+description: joker1007さんも煽っていることもあり、MacBook Pro Retina(2015) 15インチが重すぎてしんどいので、Thinkpad
+  X1…
 date: '2017-07-08T12:14:24+09:00'
 categories: []
-keywords: []
+keywords: [windows, .com, python, インストール, pip, 辞書, install, google, キーボード, linux]
 authors: [aki]
+recommendations: [/post/2017-07-10_Thinkpad-X1-Carbon--2017--Windows-10-Ubuntu-17-04-----------9f73d89073c3/,
+  /post/2018-12-01_Windows-64bit-MeCab--KyTea-------2018-b283b6c7b33c/, /post/2017-08-26_Python------------------dc8d8f2fe989/]
 ---
 
 joker1007さんも[煽っている](http://d.hatena.ne.jp/joker1007/20170202/1486056211)こともあり、MacBook Pro Retina(2015) 15インチが重すぎてしんどいので、[Thinkpad X1 Carbon(2017)](http://www3.lenovo.com/jp/ja/notebooks/thinkpad/x-series/X1-Carbon-5th-Generation/p/22TP2TXX15G)を買いました。2.04kgから1.13kgへと大幅軽量化しました。外での打ち合わせや出張も結構増えてきて、Macは電源も含めると辛い重さになるので思いきって買いました。背中と腰が死にそうなので軽さは正義です。([msfmさん](https://twitter.com/msfm)色々ご相談に乗っていただきありがとうございました！）

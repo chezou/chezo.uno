@@ -3,8 +3,10 @@ title: OSSベースの機械学習が強い理由
 description: 英語版はこちら。
 date: '2017-08-03T03:29:59+09:00'
 categories: [machine_learaning, OSS]
-keywords: []
+keywords: [論文, 機械学習, アルゴリズム, 時代, 実装, deep learning, 投稿, フレームワーク, 公開, オープン]
 authors: [aki]
+recommendations: [/post/2017-05-26_public-dataset/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/,
+  /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/]
 ---
 
 ![](/img/1__JTqxfs____kuzO0CAt9dyQgg.png)

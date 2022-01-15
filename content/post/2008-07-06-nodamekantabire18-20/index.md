@@ -1,21 +1,19 @@
 ---
-title: "のだめカンタービレ18〜20"
-subtitle: ""
-summary: ""
+title: のだめカンタービレ18〜20
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-07-06T01:07:01+00:00
-lastmod: 2008-07-06T01:07:01+00:00
+categories: null
+date: 2008-07-06 01:07:01+00:00
+lastmod: 2008-07-06 01:07:01+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [だめ, 講談社, isbn, 周り, スコア, 選択, '20', 物語, 気づき, 妄想]
+recommendations: [/post/2008-08-11-nodame21juan/, /post/2008-06-28-vuinrandosaga-6-du-li-shui-shang-19/,
+  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
 ---
 ![](https://ecx.images-amazon.com/images/I/41wmOBGeEJL._SL160_.jpg)[のだめカンタービレ (18)(講談社コミックスキス)](http://item.excite.co.jp/detail/ASIN_4063406482)  
 二ノ宮 知子 / / 講談社  

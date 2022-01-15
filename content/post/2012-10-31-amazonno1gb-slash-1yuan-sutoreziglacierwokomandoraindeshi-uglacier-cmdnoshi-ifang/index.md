@@ -1,21 +1,19 @@
 ---
-title: "Amazonの1GB/1円ストレージGlacierをコマンドラインで使うglacier-cmdの使い方"
-subtitle: ""
-summary: ""
+title: Amazonの1GB/1円ストレージGlacierをコマンドラインで使うglacier-cmdの使い方
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2012-10-31T12:10:45+00:00
-lastmod: 2012-10-31T12:10:45+00:00
+categories: null
+date: 2012-10-31 12:10:45+00:00
+lastmod: 2012-10-31 12:10:45+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [cmd, aws, 利用, test, データ, download, 取得, 作成, id, 時間]
+recommendations: [/post/2017-01-19-macnojispei-lie-nokibodowokarabinershi-wazuniuspei-lie-nisuru/,
+  /post/2017-05-26_public-dataset/, /post/2017-07-08_MBP--Thinkpad-X1-Carbon-2017-------46c374167b79/]
 ---
 大分前に発表されました、Amazonの[1GB/1円でデータを保管できるGlacier](http://aws.typepad.com/aws_japan/2012/08/amazon-glacier-archival-storage-for-one-penny-per-gb-per-month.html)というサービスをLinuxサーバから使用したいと思い、Javaでわざわざ書くのも面倒だと思い色々探していたところ、glacier-cmdというツールが良い感じだったのでご紹介します。
 

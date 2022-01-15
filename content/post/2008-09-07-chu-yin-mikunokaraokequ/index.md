@@ -1,21 +1,19 @@
 ---
-title: "初音ミクのカラオケ曲"
-subtitle: ""
-summary: ""
+title: 初音ミクのカラオケ曲
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-09-07T12:09:00+00:00
-lastmod: 2008-09-07T12:09:00+00:00
+categories: null
+date: 2008-09-07 12:09:00+00:00
+lastmod: 2008-09-07 12:09:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [はず, 登録, 作曲者, アーティスト, ネット, 無い, 名前, 検索, 普通, 中心]
+recommendations: [/post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/,
+  /post/2008-09-08-luck-stealer-2/, /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
 ---
 JOY SOUNDならなんとかしてくれるはず！と信じて、初音ミクで検索しても二曲しか出なかった。  
   

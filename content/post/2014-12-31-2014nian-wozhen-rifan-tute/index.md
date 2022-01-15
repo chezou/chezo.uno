@@ -1,21 +1,19 @@
 ---
-title: "2014年を振り返って"
-subtitle: ""
-summary: ""
+title: 2014年を振り返って
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2014-12-31T22:23:45+00:00
-lastmod: 2014-12-31T22:23:45+00:00
+categories: null
+date: 2014-12-31 22:23:45+00:00
+lastmod: 2014-12-31 22:23:45+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [翻訳, rails, julia, 仕事, output, ingress, 来年, 技術, 機会, 関連]
+recommendations: [/post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/,
+  /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/]
 ---
 後数時間で終わりますが、去年書き忘れていたので書いていきます。
 

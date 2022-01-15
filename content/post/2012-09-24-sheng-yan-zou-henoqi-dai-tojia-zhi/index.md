@@ -1,21 +1,19 @@
 ---
-title: "生演奏への期待と価値"
-subtitle: ""
-summary: ""
+title: 生演奏への期待と価値
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2012-09-24T22:03:32+00:00
-lastmod: 2012-09-24T22:03:32+00:00
+categories: null
+date: 2012-09-24 22:03:32+00:00
+lastmod: 2012-09-24 22:03:32+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [演奏, ライブ, press start, ゲーム音楽, シンポジウム, 期待, バランス, スピーカー, 音楽, 値段]
+recommendations: [/post/2009-07-05-guan-dong-hagame-musichoihoida/, /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/,
+  /post/2012-10-04-finlandnochuan-tong-de-nale-qi-kanterewomodanniyan-zou-suruida-elina/]
 ---
 [gallery]
 

@@ -1,21 +1,19 @@
 ---
-title: "WILLCOM新機種ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!!"
-subtitle: ""
-summary: ""
+title: WILLCOM新機種ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!!
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2005-09-27T21:47:06+00:00
-lastmod: 2005-09-27T21:47:06+00:00
+categories: null
+date: 2005-09-27 21:47:06+00:00
+lastmod: 2005-09-27 21:47:06+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [機種, flash, 予想, java, 論文, pdf, 高い, 便利, 以上, 必要]
+recommendations: [/post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/,
+  /post/2017-08-03_OSS--------------48807bbbf13f/, /post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/]
 ---
 というわけで、[予想以上の機種たち](http://k-tai.impress.co.jp/cda/article/news_toppage/25795.html)が出てきて正直びっくりです。  
 miniSDからJavaからFlashまで。PDFをPHSで読む必要はあるのでしょうか？でも、論文が読めたら便利だな、とは思いますが。  

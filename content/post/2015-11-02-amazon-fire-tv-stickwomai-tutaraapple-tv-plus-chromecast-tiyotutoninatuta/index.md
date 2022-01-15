@@ -1,21 +1,19 @@
 ---
-title: "Amazon Fire TV Stickを買ったらApple TV+ChromeCast-ちょっとになった"
-subtitle: ""
-summary: ""
+title: Amazon Fire TV Stickを買ったらApple TV+ChromeCast-ちょっとになった
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-11-02T23:42:22+00:00
-lastmod: 2015-11-02T23:42:22+00:00
+categories: null
+date: 2015-11-02 23:42:22+00:00
+lastmod: 2015-11-02 23:42:22+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [アプリ, airplay, 発売日, 出版社, メーカー, 商品, サーバー, ghz, メディア, 無線]
+recommendations: [/post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/,
+  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/]
 ---
 Amazon Fire TV StickをPrime会員割引で\1980で買いました。（定価は\4980)
 

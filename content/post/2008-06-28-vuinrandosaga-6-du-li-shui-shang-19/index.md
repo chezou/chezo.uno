@@ -1,21 +1,19 @@
 ---
-title: "ヴィンランド・サガ（6）、都立水商！（19）"
-subtitle: ""
-summary: ""
+title: ヴィンランド・サガ（6）、都立水商！（19）
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-06-28T21:44:19+00:00
-lastmod: 2008-06-28T21:44:19+00:00
+categories: null
+date: 2008-06-28 21:44:19+00:00
+lastmod: 2008-06-28 21:44:19+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [物語, 前作, kc, 描写, more, 講談社, 視点, 主張, 作品, 期待]
+recommendations: [/post/2008-07-30-narutaru/, /post/2008-07-06-nodamekantabire18-20/,
+  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51mg-ma5Z9L._SL160_.jpg)[ヴィンランド・サガ 6 (6) (アフタヌーンKC)](http://item.excite.co.jp/detail/ASIN_4063145107)  
 幸村 誠 / / 講談社  

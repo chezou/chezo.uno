@@ -1,21 +1,19 @@
 ---
 title: 'Kawasaki.rb #004を開催しました #kwskrb'
-date: 2013-10-06T12:10:10.000Z
+date: 2013-10-06 12:10:10+00:00
 subtitle: ''
 summary: ''
 draft: false
 featured: false
-authors:
-  - aki
-lastmod: 2013-10-06T12:10:10.000Z
+authors: [aki]
+lastmod: 2013-10-06 12:10:10+00:00
 tags: []
 projects: []
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-categories:
-  - ruby
+image: {caption: '', focal_point: '', preview_only: false}
+categories: [ruby]
+keywords: [sinatra, lt, ws, '39', 形態素解析, kytea, 通信, リアルタイム, バインディング, phpapp]
+recommendations: [/post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
+  /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/]
 ---
 9/25(水)にKawsaki.rbの第4回ミートアップを行いました。  
 今回は偶数回なので、居酒屋LTの回でした。

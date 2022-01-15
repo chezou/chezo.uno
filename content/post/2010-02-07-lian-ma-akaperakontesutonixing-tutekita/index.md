@@ -1,21 +1,19 @@
 ---
-title: "練馬アカペラコンテストに行ってきた"
-subtitle: ""
-summary: ""
+title: 練馬アカペラコンテストに行ってきた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2010-02-07T12:02:01+00:00
-lastmod: 2010-02-07T12:02:01+00:00
+categories: null
+date: 2010-02-07 12:02:01+00:00
+lastmod: 2010-02-07 12:02:01+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [和音, rajaton, アレンジ, the, 難しい, オリジナル, アカペラ, リズム, アマチュア, ベース]
+recommendations: [/post/2008-07-05-rajaton/, /post/2009-03-09-masafestanirajatonga/,
+  /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/]
 ---
 2/6に開催された[練馬区のアカペラコンテスト](http://www.neribun.or.jp/nerima/ichiran.cgi?mode=1&t=1&no=1845)に行ってきました。
 

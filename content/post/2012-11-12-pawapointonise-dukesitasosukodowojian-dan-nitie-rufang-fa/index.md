@@ -1,21 +1,20 @@
 ---
-title: "パワーポイントに色づけしたソースコードを簡単に貼る方法"
-subtitle: ""
-summary: ""
+title: パワーポイントに色づけしたソースコードを簡単に貼る方法
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2012-11-12T09:11:33+00:00
-lastmod: 2012-11-12T09:11:33+00:00
+categories: null
+date: 2012-11-12 09:11:33+00:00
+lastmod: 2012-11-12 09:11:33+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [source, gist, 形式, 方法, syntax, 保持, html, with, コード, 手順]
+recommendations: [/post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/,
+  /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/,
+  /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/]
 ---
 パワーポイントに色づけしたコードを貼るのって、皆どうやってるのか不思議に思っていたのですが、どれもちょっと面倒だなという感じでした。
 

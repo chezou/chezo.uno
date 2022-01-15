@@ -1,11 +1,12 @@
 ---
 title: 親も読みたい子供とネットの向き合い方を考える二冊
-description: >-
-  伊藤淳一さんの以下の記事を読んで、子供にネットの話をどう教えるのがいいのかなぁと悩んでいたので、件の記事で紹介されていた本と、そこから派生して仲間内で紹介してもらった本を読んだので紹介したいと思います。
+description: 伊藤淳一さんの以下の記事を読んで、子供にネットの話をどう教えるのがいいのかなぁと悩んでいたので、件の記事で紹介されていた本と、そこから派生して仲間内で紹介してもらった本を読んだので紹介したいと思います。
 date: '2018-06-27T05:55:48+09:00'
 categories: [life, kids]
-keywords: []
+keywords: [ネット, 子供, 講演, インターネット, 学校, 失敗, 知識, 紹介, リスク, エンジニア]
 authors: [aki]
+recommendations: [/post/2017-05-25_teach-what-i-dont-know/, /post/2017-12-23_----------------------701333a45696/,
+  /post/2013-12-08-yu-gan-yarizumugale-siihatutosuruhui-ben-3ce/]
 ---
 
 ![“Two young girls stand reading from a book outdoors in the sun” by [Ben White](https://unsplash.com/@benwhitephotography?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](/img/0__ejTjhrTvclboS__B1.jpg)

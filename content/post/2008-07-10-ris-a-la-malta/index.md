@@ -1,21 +1,19 @@
 ---
-title: "Ris a la malta"
-subtitle: ""
-summary: ""
+title: Ris a la malta
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-07-10T21:52:31+00:00
-lastmod: 2008-07-10T21:52:31+00:00
+categories: null
+date: 2008-07-10 21:52:31+00:00
+lastmod: 2008-07-10 21:52:31+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [rockapella, もう一度, the real group, ライブ, 合唱, for, 音楽, tags, 魅力, 高速]
+recommendations: [/post/2009-04-13-it-dont-mean-a-thing/, /post/2008-07-16-rockapella-channel/,
+  /post/2008-11-06-yin-lu-toyin-jie-noke-xue/]
 ---
 [トライトーンのライブ](http://www.tasaku.com/sb/schedule.cgi?mode=detail&y=2008&m=08&id=12)に行ってきます。  
 1ドリンク飲みながらってことは、結構狭めの小屋なんだろうなぁ。今からわくわくですよ。  

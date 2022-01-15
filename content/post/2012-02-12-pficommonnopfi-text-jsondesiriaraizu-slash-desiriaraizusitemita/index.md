@@ -1,21 +1,20 @@
 ---
-title: "pficommonのpfi::text::jsonでシリアライズ/ デシリアライズしてみた"
-subtitle: ""
-summary: ""
+title: pficommonのpfi::text::jsonでシリアライズ/ デシリアライズしてみた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2012-02-12T12:02:30+00:00
-lastmod: 2012-02-12T12:02:30+00:00
+categories: null
+date: 2012-02-12 12:02:30+00:00
+lastmod: 2012-02-12 12:02:30+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [json, pfi, data, max, string, js, '39', name, アクセス, 変数]
+recommendations: [/post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/,
+  /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
+  /post/2017-12-31_2017--------c4901627b12d/]
 ---
 [@unnonounoさんが紹介してくださったpficommon](http://unnonouno.blogspot.com/2011/10/pficommon.html)のjsonライブラリを試してみました。  
 pficommonのjsonライブラリはboostみたいにjsonと自分で作ったクラスのオブジェクトとのシリアライズ/デシリアライズができるのがとても魅力です。  

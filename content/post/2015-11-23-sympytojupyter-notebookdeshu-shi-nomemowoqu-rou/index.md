@@ -1,21 +1,20 @@
 ---
-title: "SympyとJupyter notebookで数式のメモを取ろう"
-subtitle: ""
-summary: ""
+title: SympyとJupyter notebookで数式のメモを取ろう
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-11-23T21:02:07+00:00
-lastmod: 2015-11-23T21:02:07+00:00
+categories: null
+date: 2015-11-23 21:02:07+00:00
+lastmod: 2015-11-23 21:02:07+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [数式, kindle, グラフ, .com, メモ, latex, 定額, クーポン, kindle版, ついで]
+recommendations: [/post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/,
+  /post/2016-05-09-ji-jie-xue-xi-nofen-lei-nohua-wosun-shi-guan-shu-tojue-ding-jing-jie-wozhong-xin-nizheng-li-sitemita/,
+  /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/]
 ---
 [id:meison\_amsl](http://blog.hatena.ne.jp/meison_amsl/) さんによるSympyの紹介がとてもよい感じだったのですが、Sympy Liveわざわざ使わなくてもJupyter notebook使えるのでは！？と思ったので試してみました。\*1わざわざ、というと語弊があると思いますが、手元でメモ＋αとして管理するのにはJupyter notebookの方がいいかなと思っています。
 

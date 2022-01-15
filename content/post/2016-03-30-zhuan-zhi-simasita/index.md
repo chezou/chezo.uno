@@ -1,21 +1,19 @@
 ---
-title: "転職しました"
-subtitle: ""
-summary: ""
+title: 転職しました
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2016-03-30T22:32:21+00:00
-lastmod: 2016-03-30T22:32:21+00:00
+categories: null
+date: 2016-03-30 22:32:21+00:00
+lastmod: 2016-03-30 22:32:21+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [エンジニア, プロダクト, 仕事, 転職, hadoop, 機械学習, データ, rails, 価値, 最前線]
+recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
+  /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/]
 ---
 はじめての転職エントリです。 一部の方にはお伝えしましたが、先週からClouderaで働いています。
 

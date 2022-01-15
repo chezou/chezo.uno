@@ -1,21 +1,20 @@
 ---
-title: "非エンジニアのコミュニティにSlackを導入した話 #ingress"
-subtitle: ""
-summary: ""
+title: '非エンジニアのコミュニティにSlackを導入した話 #ingress'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-01-16T01:10:49+00:00
-lastmod: 2015-01-16T01:10:49+00:00
+categories: null
+date: 2015-01-16 01:10:49+00:00
+lastmod: 2015-01-16 01:10:49+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [slack, hangout, ingress, コミュニティ, チャット, チャンネル, チーム, google, アプリ, 参加]
+recommendations: [/post/2014-12-15-number-ingress-dehurutaimunopuroezientotochu-hui-tutahua/,
+  /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
+  /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/]
 ---
 普通の人達\*1の集まりである、Ingressの地域コミュニティでSlackを導入してそろそろ3ヶ月になったので、知見を書こうと思います。
 

@@ -1,21 +1,19 @@
 ---
-title: "Julia vs Python: ビットコインオプションのモンテカルロシミュレーション"
-subtitle: ""
-summary: ""
+title: 'Julia vs Python: ビットコインオプションのモンテカルロシミュレーション'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2014-05-06T22:06:37+00:00
-lastmod: 2014-05-06T22:06:37+00:00
+categories: null
+date: 2014-05-06 22:06:37+00:00
+lastmod: 2014-05-06 22:06:37+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [julia, path, 計算, python, time, '39', end, in, オプション, for]
+recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
+  /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/]
 ---
 Justin Huang([@rawjustin](https://twitter.com/rawrjustin))さんのJuliaとPythonの比較記事(原題：[Julia vs. Python: Monte Carlo Simulations of Bitcoin Options](http://blog.rawrjustin.com/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/))が非常に面白かったので、翻訳してみました。
 

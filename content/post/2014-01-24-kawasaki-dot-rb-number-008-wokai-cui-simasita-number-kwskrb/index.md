@@ -1,21 +1,20 @@
 ---
 title: 'kawasaki.rb #008 を開催しました #kwskrb'
-date: 2014-01-24T22:05:59.000Z
+date: 2014-01-24 22:05:59+00:00
 subtitle: ''
 summary: ''
 draft: false
 featured: false
-authors:
-  - aki
-lastmod: 2014-01-24T22:05:59.000Z
+authors: [aki]
+lastmod: 2014-01-24 22:05:59+00:00
 tags: []
 projects: []
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-categories:
-  - ruby
+image: {caption: '', focal_point: '', preview_only: false}
+categories: [ruby]
+keywords: [科学, 計算, ruby, ベンチマーク, numpy, 翻訳, python, パーフェクト, '2014', あと]
+recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/,
+  /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
+  /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/]
 ---
 2014/1/22にkawasaki.rbの第8回ミートアップを開催しました。
 

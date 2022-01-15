@@ -1,21 +1,19 @@
 ---
-title: "X ZABADYのシリコンカバーを買ってしまった"
-subtitle: ""
-summary: ""
+title: X ZABADYのシリコンカバーを買ってしまった
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-05-30T12:05:33+00:00
-lastmod: 2009-05-30T12:05:33+00:00
+categories: null
+date: 2009-05-30 12:05:33+00:00
+lastmod: 2009-05-30 12:05:33+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [痛感, 次第, rockapella, 風呂, ニコニコ動画, 瞬間, 重い, 普段, 値段, 無い]
+recommendations: [/post/2008-07-16-rockapella-channel/, /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/,
+  /post/2008-07-10-ris-a-la-malta/]
 ---
 結局、[X ZABADY](http://www.amazon.co.jp/TWINBIRD-AV-J122B-FM%E3%83%A9%E3%82%B8%E3%82%AA%E4%BB%98%E9%98%B2%E6%B0%B4%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC-iPod%E5%AF%BE%E5%BF%9C-ZABADY/dp/B000GDXS78/)のシリコンカバーを追加注文してしまった。
 

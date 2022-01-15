@@ -1,21 +1,19 @@
 ---
-title: "Ola Gjeiloの\"Sunrise Mass\"がゲーム音楽みたいで格好いい"
-subtitle: ""
-summary: ""
+title: Ola Gjeiloの"Sunrise Mass"がゲーム音楽みたいで格好いい
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2012-11-01T09:11:53+00:00
-lastmod: 2012-11-01T09:11:53+00:00
+categories: null
+date: 2012-11-01 09:11:53+00:00
+lastmod: 2012-11-01 09:11:53+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [panamusica, 格好, 'true', url, whitacre, dobrogosz, steve, itunes, 楽譜, 人気]
+recommendations: [/post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/,
+  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
 ---
 [Panamusicaのクリスマスフェア](https://www.panamusica.co.jp/ja/campaign/index.php?img=3)で[Ola Gjeilo](http://olagjeilo.com/)さんのキャロルが特集されていました。
 

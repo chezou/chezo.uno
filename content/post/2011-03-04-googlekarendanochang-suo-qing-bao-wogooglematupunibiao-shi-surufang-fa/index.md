@@ -1,21 +1,20 @@
 ---
-title: "Googleカレンダーの場所情報をGoogleマップに表示する方法"
-subtitle: ""
-summary: ""
+title: Googleカレンダーの場所情報をGoogleマップに表示する方法
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-03-04T22:00:54+00:00
-lastmod: 2011-03-04T22:00:54+00:00
+categories: null
+date: 2011-03-04 22:00:54+00:00
+lastmod: 2011-03-04 22:00:54+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [yahoo!, カレンダー, url, 情報, クエリ, アドレス, more, 精度, 表示, api]
+recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
+  /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
+  /post/2005-10-03-su-suge-pin-desuyo/]
 ---
 [アカペラ/合唱イベントカレンダー](https://www.google.com/calendar/b/0/embed?src=YWNhcHBlbGxhLmV2ZW50QGdtYWlsLmNvbQ&gsessionid=OK)に登録していると、ふとイベント情報の開催地を地図上に表示したくなりました。
 

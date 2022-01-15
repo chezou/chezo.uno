@@ -1,21 +1,19 @@
 ---
-title: "LLまつりに参加しました"
-subtitle: ""
-summary: ""
+title: LLまつりに参加しました
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2013-08-25T22:05:14+00:00
-lastmod: 2013-08-25T22:05:14+00:00
+categories: null
+date: 2013-08-25 22:05:14+00:00
+lastmod: 2013-08-25 22:05:14+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ll, 勉強会, セッション, as, トラック, 参加, 開催, メリット, 指摘, コスト]
+recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
+  /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/]
 ---
 年に一度の軽量言語のイベント、LLまつりに行ってきました。
 

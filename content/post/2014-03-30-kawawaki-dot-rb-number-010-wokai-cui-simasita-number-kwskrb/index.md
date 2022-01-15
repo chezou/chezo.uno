@@ -1,21 +1,19 @@
 ---
 title: 'kawasaki.rb #010 を開催しました #kwskrb'
-date: 2014-03-30T22:06:20.000Z
+date: 2014-03-30 22:06:20+00:00
 subtitle: ''
 summary: ''
 draft: false
 featured: false
-authors:
-  - aki
-lastmod: 2014-03-30T22:06:20.000Z
+authors: [aki]
+lastmod: 2014-03-30 22:06:20+00:00
 tags: []
 projects: []
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-categories:
-  - ruby
+image: {caption: '', focal_point: '', preview_only: false}
+categories: [ruby]
+keywords: [翻訳, jekyll, ドキュメント, リポジトリ, kawasaki, '300', rb, 本家, ariga, 記事]
+recommendations: [/post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/,
+  /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/]
 ---
 kawasaki.rbもいよいよ10回目を開催してきました。\
 まさかの1日二回LTという展開でしたが、無事に話すことが出来て良かったです。

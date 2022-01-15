@@ -1,21 +1,19 @@
 ---
-title: "新居にはクローゼットがない"
-subtitle: ""
-summary: ""
+title: 新居にはクローゼットがない
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-03-15T03:03:00+00:00
-lastmod: 2009-03-15T03:03:00+00:00
+categories: null
+date: 2009-03-15 03:03:00+00:00
+lastmod: 2009-03-15 03:03:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [全般的, カバー, 精度, 二人, やつ, アマゾン, 値段, 場所, おかげ, 一人]
+recommendations: [/post/2008-07-19-ensemblenow-di-39hui-ding-qi-yan-zou-hui-at-sesionshan-bing/,
+  /post/2005-07-17-urayamasika/, /post/2008-08-26-akihabara-at-deep/]
 ---
 押し入れはあってもクローゼットがありません！  
 箪笥は置く場所がありません！というか引越の時にも大変そうです。お値段も（ｒｙ  

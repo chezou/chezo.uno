@@ -1,21 +1,19 @@
 ---
-title: "良い時代になったねぇ"
-subtitle: ""
-summary: ""
+title: 良い時代になったねぇ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-11-08T21:51:05+00:00
-lastmod: 2008-11-08T21:51:05+00:00
+categories: null
+date: 2008-11-08 21:51:05+00:00
+lastmod: 2008-11-08 21:51:05+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [演奏会, 著作権, メドレー, up, リソース, ネットワーク, ゲーム, 時代, 一度, 先日]
+recommendations: [/post/2010-09-11-press-start-2010xing-tutekita/, /post/2005-09-18-gao-tian-san-lang-xing-tutekimasita/,
+  /post/2008-11-06-yin-lu-toyin-jie-noke-xue/]
 ---
 関東に来たからには一度は行ってみたいと思っていた、[FCB](http://famicomband.org/)。  
 つい先日、9thの演奏会があったのですが（残念ながら行けなかったのですが)、今ではニコ動に[演奏会の動画がUPされるようになっている](http://famicomband.org/movie.html)ではありませんか。  

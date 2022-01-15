@@ -1,21 +1,19 @@
 ---
-title: "ドイツでFONICのプリペイドSIMを使って光ポータブルを試してみた"
-subtitle: ""
-summary: ""
+title: ドイツでFONICのプリペイドSIMを使って光ポータブルを試してみた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-09-25T08:09:29+00:00
-lastmod: 2011-09-25T08:09:29+00:00
+categories: null
+date: 2011-09-25 08:09:29+00:00
+lastmod: 2011-09-25 08:09:29+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ドイツ, 英語, 購入, 携帯, 通信, 定額, フリー, 事前, インターネット, 店舗]
+recommendations: [/post/2017-01-16_fake-news/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
+  /post/2005-03-03-sugoi/]
 ---
 [![](fonic.jpg)](fonic.jpg)
 

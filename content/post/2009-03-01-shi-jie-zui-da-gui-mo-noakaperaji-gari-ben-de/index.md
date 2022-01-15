@@ -1,21 +1,19 @@
 ---
-title: "世界最大規模のアカペラ祭が日本で"
-subtitle: ""
-summary: ""
+title: 世界最大規模のアカペラ祭が日本で
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-03-01T04:03:00+00:00
-lastmod: 2009-03-01T04:03:00+00:00
+categories: null
+date: 2009-03-01 04:03:00+00:00
+lastmod: 2009-03-01 04:03:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [アカペラ, スルー, '2009', 曲目, 以内, festa, 方面, コンサート, アマチュア, take]
+recommendations: [/post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/, /post/2009-01-18-try-tonegamy-spacetoyou-tubeni/,
+  /post/2009-03-03-sok-bao-masa-festa/]
 ---
 [あかぺら村　 世界最大規模のアカペラ祭が始まる。](http://acappellavillage.blog103.fc2.com/blog-entry-429.html)によると、Masa Festaというアカペラのお祭りが日本で2009/8/19〜8/23に行われるようです。  
 （公式サイトは[こちら](http://masafesta.com/))  

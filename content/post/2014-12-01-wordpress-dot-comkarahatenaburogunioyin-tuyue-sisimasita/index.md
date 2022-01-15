@@ -1,21 +1,19 @@
 ---
-title: "wordpress.comからはてなブログにお引っ越ししました"
-subtitle: ""
-summary: ""
+title: wordpress.comからはてなブログにお引っ越ししました
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2014-12-01T00:28:46+00:00
-lastmod: 2014-12-01T00:28:46+00:00
+categories: null
+date: 2014-12-01 00:28:46+00:00
+lastmod: 2014-12-01 00:28:46+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [syntax, wordpress, 移行, julia, .com, 辛く, ループ, スター, 一括, ツイート]
+recommendations: [/post/2012-11-12-pawapointonise-dukesitasosukodowojian-dan-nitie-rufang-fa/,
+  /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/, /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/]
 ---
 Markdownで書くのが辛くてwordpress.comからお引っ越ししました。 期待していたJuliaのsyntax highlihgtが無くて切ないです。
 

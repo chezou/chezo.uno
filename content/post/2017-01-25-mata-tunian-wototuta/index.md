@@ -1,21 +1,19 @@
 ---
-title: "また一つ年をとった"
-subtitle: ""
-summary: ""
+title: また一つ年をとった
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2017-01-25T12:44:08+00:00
-lastmod: 2017-01-25T12:44:08+00:00
+categories: null
+date: 2017-01-25 12:44:08+00:00
+lastmod: 2017-01-25 12:44:08+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [会社, 楽しい, 幸い, ペース, トピック, 運動, 激しい, 夫婦, 不足, トレーニング]
+recommendations: [/post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
+  /post/2017-01-01-fei-ying-yu-neiteibunitotutenoossnomentenansukosuto/, /post/2016-03-30-zhuan-zhi-simasita/]
 ---
 同い年のmirakuiさんがCTOになったりして、そろそろ組織に中で立ち回りが変わる年代なのかなと思ったりしてる。ちょうど一年前の今頃今の会社の面接を受け、初めての英語の契約書を1日2日で読んだりして、色々と慌ただしくしたところから首にならずに一年経った。backspacefm聞いてると、外資は当たり出し続けないと干されるよねみたいな話もあったので、価値を出し続けていきたい。コードを書く時間は減ったけど、いいペースで新しいプロダクトがでる変化の激しい会社なので、誰の役に立つものなのか考えて伝えていくのは楽しいと思ってる。幸いにして同年代がオフィスにもpyspaにも多いので、自分の役回りにあまり不安はないので、できることを少しずつ広げようとしている。
 

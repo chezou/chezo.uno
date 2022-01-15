@@ -1,21 +1,19 @@
 ---
-title: "NLTKからKyTeaでコーパスを読み込むJPKyteaTokenizer作りました"
-subtitle: ""
-summary: ""
+title: NLTKからKyTeaでコーパスを読み込むJPKyteaTokenizer作りました
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-09-14T22:02:18+00:00
-lastmod: 2011-09-14T22:02:18+00:00
+categories: null
+date: 2011-09-14 22:02:18+00:00
+lastmod: 2011-09-14 22:02:18+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [nltk, 自然言語処理, python, '39', import, test, kytea, コーパス, ソースコード, mykytea]
+recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
+  /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/]
 ---
 KyteaをPythonから使うMykytea-pythonを使って、NLTKラッパーを書いてみました。
 

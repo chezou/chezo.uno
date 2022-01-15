@@ -1,21 +1,19 @@
 ---
-title: "ついにiPhone登場"
-subtitle: ""
-summary: ""
+title: ついにiPhone登場
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-06-09T21:46:02+00:00
-lastmod: 2008-06-09T21:46:02+00:00
+categories: null
+date: 2008-06-09 21:46:02+00:00
+lastmod: 2008-06-09 21:46:02+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [欲しい, 周り, 欲しく, ok, 自分, 魅力, 高速, 高校生, 高校, 高く]
+recommendations: [/post/2008-09-06-feng-gaqiang-kuchui-iteiru/, /post/2008-10-11-le-pu-gayu-sii/,
+  /post/2008-07-06-nodamekantabire18-20/]
 ---
 [アップル](http://www.apple.com/jp/)のページが素敵なことになっています。  
 なんか、欲しくはないとは思いつつも周りが皆欲しい欲しいと言っていると、流されそうになる自分がいます（笑）  

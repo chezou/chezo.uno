@@ -1,21 +1,19 @@
 ---
-title: "今更ながら2009年で読まれた記事"
-subtitle: ""
-summary: ""
+title: 今更ながら2009年で読まれた記事
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2010-01-01T09:01:07+00:00
-lastmod: 2010-01-01T09:01:07+00:00
+categories: null
+date: 2010-01-01 09:01:07+00:00
+lastmod: 2010-01-01 09:01:07+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [アクセス, iphone, music, 移行, 結局, 今年, office, ログ, 苦労, なか]
+recommendations: [/post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/,
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/]
 ---
 あけましておめでとうございます。今年もよろしくお願いします。
 

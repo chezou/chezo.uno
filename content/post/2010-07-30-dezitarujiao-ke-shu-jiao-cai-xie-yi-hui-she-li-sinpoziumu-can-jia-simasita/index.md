@@ -1,21 +1,19 @@
 ---
-title: "「デジタル教科書教材協議会設立シンポジウム」参加しました"
-subtitle: ""
-summary: ""
+title: 「デジタル教科書教材協議会設立シンポジウム」参加しました
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2010-07-30T21:59:20+00:00
-lastmod: 2010-07-30T21:59:20+00:00
+categories: null
+date: 2010-07-30 21:59:20+00:00
+lastmod: 2010-07-30 21:59:20+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [デジタル教科書, 教材, 能力, 先生, 主張, it, 学習, 会場, '30', 批判]
+recommendations: [/post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/,
+  /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/, /post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/]
 ---
 さる7/27に、デジタル教科書や教材を推進する民間中心の団体、[デジタル教科書教材協議会](http://ditt.jp)が発足しました。  
 シンポジウムの内容は、各種記事がまとめていますし、内容の要約は、片山さんが[こちら](http://e-textbook.blog.so-net.ne.jp/2010-07-30)にまとめてくださっていますのでご参考にしてください。  

@@ -1,21 +1,19 @@
 ---
-title: "Japan.Rで\"MeCab.jlつくってみた\"を発表してきた #JuliaAC #JapanR"
-subtitle: ""
-summary: ""
+title: 'Japan.Rで"MeCab.jlつくってみた"を発表してきた #JuliaAC #JapanR'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2014-12-06T18:18:20+00:00
-lastmod: 2014-12-06T18:18:20+00:00
+categories: null
+date: 2014-12-06 18:18:20+00:00
+lastmod: 2014-12-06 18:18:20+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [mecab, node, char, type, void, version, path, バインディング, '2014', julia]
+recommendations: [/post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/,
+  /post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/, /post/2018-12-01_Windows-64bit-MeCab--KyTea-------2018-b283b6c7b33c/]
 ---
 何故か、Facebookで[@shinyorke](https://twitter.com/shinyorke)さんと[Japan.R](https://atnd.org/events/58624)の話をしてたら、[@0kayu](https://twitter.com/0kayu)さんに補足されてしまったので、LT発表してきました。
 

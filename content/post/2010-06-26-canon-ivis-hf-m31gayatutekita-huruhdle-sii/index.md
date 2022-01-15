@@ -1,21 +1,19 @@
 ---
-title: "Canon iVIS HF M31がやってきた。フルHD楽しい"
-subtitle: ""
-summary: ""
+title: Canon iVIS HF M31がやってきた。フルHD楽しい
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2010-06-26T21:58:59+00:00
-lastmod: 2010-06-26T21:58:59+00:00
+categories: null
+date: 2010-06-26 21:58:59+00:00
+lastmod: 2010-06-26 21:58:59+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: ['1600', '1200', バッテリ, jpeg, youtube, 実家, '82', '47', cf, 評判]
+recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2010-03-22-shi-jie-bian-ge-noshi-ravuosunotatuta-tunomai-ifang/,
+  /post/2009-08-07-pokemonxin-gan-xian/]
 ---
 [![](p_1600_1200_a0c82b14-8d7b-47c1-afc3-cf1903a121a6.jpeg)](p_1600_1200_a0c82b14-8d7b-47c1-afc3-cf1903a121a6.jpeg)
 

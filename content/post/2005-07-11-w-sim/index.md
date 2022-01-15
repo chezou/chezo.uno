@@ -1,21 +1,19 @@
 ---
-title: "W-SIM"
-subtitle: ""
-summary: ""
+title: W-SIM
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2005-07-11T21:47:27+00:00
-lastmod: 2005-07-11T21:47:27+00:00
+categories: null
+date: 2005-07-11 21:47:27+00:00
+lastmod: 2005-07-11 21:47:27+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [電話, au, 通話, 発想, 面白い, わけ, 魅力, 高速, 高校生, 高校]
+recommendations: [/post/2005-04-23-willcom/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
+  /post/2009-05-18-iphonetono1zhou-jian/]
 ---
 [http://k-tai.impress.co.jp/cda/article/news\_toppage/24683.html](http://k-tai.impress.co.jp/cda/article/news_toppage/24683.html)  
 着せ替えPHSですよ、いいですね。発想が面白いですよ。  

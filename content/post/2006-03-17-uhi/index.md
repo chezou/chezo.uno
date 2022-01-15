@@ -1,21 +1,19 @@
 ---
-title: "うひー"
-subtitle: ""
-summary: ""
+title: うひー
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2006-03-17T11:03:00+00:00
-lastmod: 2006-03-17T11:03:00+00:00
+categories: null
+date: 2006-03-17 11:03:00+00:00
+lastmod: 2006-03-17 11:03:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ケーブル, lite, hdd, usb, わけ, 外付け, バック, '600', ケース, 本当]
+recommendations: [/post/2011-02-05-acer-aspire-1410wocrucial-realssd-c300niwai-fu-kedvdnasinihuan-zhuang-sita/,
+  /post/2019-03-10_business-trip-goods/, /post/2006-05-01-dslite/]
 ---
 全く持って卒論の筆が進みません。卒論締めは月曜午後5時。  
 間に合うのか俺。  

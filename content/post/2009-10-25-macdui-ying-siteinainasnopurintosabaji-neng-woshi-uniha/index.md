@@ -1,21 +1,19 @@
 ---
-title: "Mac対応していないNASのプリントサーバー機能を使うには"
-subtitle: ""
-summary: ""
+title: Mac対応していないNASのプリントサーバー機能を使うには
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-10-25T21:56:16+00:00
-lastmod: 2009-10-25T21:56:16+00:00
+categories: null
+date: 2009-10-25 21:56:16+00:00
+lastmod: 2009-10-25 21:56:16+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [mac, nas, windows, 共有, mp, lan, 後ろ, 前々, next, '300']
+recommendations: [/post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/, /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/,
+  /post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/]
 ---
 前々からやりたいと思っていたのだができなかったことだったのだが、今回Windows7を導入にあたってトライしてみたらあっさりできた。基本発想としては、Windows用にsamba経由で共有されているNASなのだから、MacのWindows用プリンタの共有を使ってみたら？という考えだ。  
 これが、見事に的中した。

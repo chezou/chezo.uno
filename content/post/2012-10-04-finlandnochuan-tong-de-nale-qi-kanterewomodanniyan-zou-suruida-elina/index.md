@@ -1,21 +1,19 @@
 ---
-title: "Finlandの伝統的な楽器カンテレをモダンに演奏するIda Elina"
-subtitle: ""
-summary: ""
+title: Finlandの伝統的な楽器カンテレをモダンに演奏するIda Elina
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2012-10-04T09:10:52+00:00
-lastmod: 2012-10-04T09:10:52+00:00
+categories: null
+date: 2012-10-04 09:10:52+00:00
+lastmod: 2012-10-04 09:10:52+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [フィンランド, 演奏, この先, 楽器, how, 近い, 東京, ライブ, is, 楽しみ]
+recommendations: [/post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2009-07-05-guan-dong-hagame-musichoihoida/,
+  /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/]
 ---
 Finland大使館の後援の元行われた、モダンカンテレ奏者Ida Elinaのライブ。
 

@@ -1,21 +1,19 @@
 ---
-title: "面白いほどよく分かる哲学・思想のすべて"
-subtitle: ""
-summary: ""
+title: 面白いほどよく分かる哲学・思想のすべて
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-08-11T21:49:50+00:00
-lastmod: 2008-08-11T21:49:50+00:00
+categories: null
+date: 2008-08-11 21:49:50+00:00
+lastmod: 2008-08-11 21:49:50+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [酷い, 教科書, 単語, 筆者, 思想, 具合, 本質, 本文, スペース, 研究会]
+recommendations: [/post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/,
+  /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/, /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51OitSh47wL._SL160_.jpg)[面白いほどよくわかる哲学・思想のすべて―人類が共有する「知」の絶対真理を読み解く (学校で教えない教科書)](http://item.excite.co.jp/detail/ASIN_4537255889)  
 湯浅 赳男 / / 日本文芸社  

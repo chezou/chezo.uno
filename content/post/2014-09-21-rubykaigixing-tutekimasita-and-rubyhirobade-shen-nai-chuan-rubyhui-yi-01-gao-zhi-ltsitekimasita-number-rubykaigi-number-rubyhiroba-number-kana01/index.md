@@ -1,21 +1,20 @@
 ---
-title: "RubyKaigi行ってきました &amp; RubyHirobaで「神奈川Ruby会議01」告知LTしてきました #rubykaigi #rubyhiroba #kana01"
-subtitle: ""
-summary: ""
+title: 'RubyKaigi行ってきました &amp; RubyHirobaで「神奈川Ruby会議01」告知LTしてきました #rubykaigi #rubyhiroba
+  #kana01'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2014-09-21T22:07:11+00:00
-lastmod: 2014-09-21T22:07:11+00:00
+categories: null
+date: 2014-09-21 22:07:11+00:00
+lastmod: 2014-09-21 22:07:11+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [数値計算, ruby, julia, '2.1', よかっ, jekyll, android, 質問, '01', in]
+recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/,
+  /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/]
 ---
 いっぱい面白い発表があったけど、諸般の事情により完結に
 

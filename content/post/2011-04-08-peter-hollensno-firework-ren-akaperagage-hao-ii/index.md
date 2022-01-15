@@ -1,21 +1,19 @@
 ---
-title: "Peter Hollensの\"Firework\"一人アカペラが格好いい"
-subtitle: ""
-summary: ""
+title: Peter Hollensの"Firework"一人アカペラが格好いい
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-04-08T11:04:30+00:00
-lastmod: 2011-04-08T11:04:30+00:00
+categories: null
+date: 2011-04-08 11:04:30+00:00
+lastmod: 2011-04-08 11:04:30+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [アレンジ, 原曲, アカペラ, ご覧, 実力, コース, 活躍, 公式サイト, あか, 大学]
+recommendations: [/post/2009-05-24-kuronotorigano-shi-nohui-lang-gaming-qu-sugiru/,
+  /post/2008-06-03-er-du-qin-qian/, /post/2009-04-13-it-dont-mean-a-thing/]
 ---
 [あかぺら村の記事](http://acappellavillage.blog103.fc2.com/blog-entry-789.html)で知ったのですが、Peter Hollensという人の一人アカペラアレンジがカッコいいです。
 

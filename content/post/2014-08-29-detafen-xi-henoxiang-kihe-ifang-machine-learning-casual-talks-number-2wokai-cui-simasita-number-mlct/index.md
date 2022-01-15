@@ -1,21 +1,19 @@
 ---
-title: "データ分析への向き合い方~Machine Learning Casual Talks #2を開催しました #MLCT"
-subtitle: ""
-summary: ""
+title: 'データ分析への向き合い方~Machine Learning Casual Talks #2を開催しました #MLCT'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2014-08-29T22:07:00+00:00
-lastmod: 2014-08-29T22:07:00+00:00
+categories: null
+date: 2014-08-29 22:07:00+00:00
+lastmod: 2014-08-29 22:07:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [機械学習, 活用, 素人, データ, ポイント, 業務, pfi, deep learning, 発表, 性能]
+recommendations: [/post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/,
+  /post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/]
 ---
 先週火曜日に [Machine Learning Casual Talks #2](http://mlct.connpass.com/event/8036/) を開催しました。  
 発表は、グノシー関さん、PFI比戸さん([@sla](https://twitter.com/sla))、[@motivic\_](https://twitter.com/motivic_)さん、カメリオから柴田さん、[@SamuraiT01](https://twitter.com/SamuraiT01)さんに発表頂きました。  

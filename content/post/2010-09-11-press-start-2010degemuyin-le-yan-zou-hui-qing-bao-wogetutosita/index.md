@@ -1,21 +1,19 @@
 ---
-title: "PRESS START 2010でゲーム音楽演奏会情報をゲットした"
-subtitle: ""
-summary: ""
+title: PRESS START 2010でゲーム音楽演奏会情報をゲットした
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2010-09-11T21:59:48+00:00
-lastmod: 2010-09-11T21:59:48+00:00
+categories: null
+date: 2010-09-11 21:59:48+00:00
+lastmod: 2010-09-11 21:59:48+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ゲーム音楽, 演奏会, 情報, 演奏, コンセプト, press start, 認知, 発展, 団体, アーティスト]
+recommendations: [/post/2008-07-09-press-startdang-xuan-simasita/, /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/,
+  /post/2009-07-05-guan-dong-hagame-musichoihoida/]
 ---
 ゲーム音楽の演奏会情報フリーペーパー2083なるものを[PRESS START2010](http://chezou.wordpress.com/2010/09/11/press-start2010-%E3%82%B2%E3%83%BC%E3%83%A0%E9%9F%B3%E6%A5%BD%E6%BC%94%E5%A5%8F%E4%BC%9A%E6%83%85%E5%A0%B1%E3%82%B2%E3%83%83%E3%83%88/)でいただきました。
 

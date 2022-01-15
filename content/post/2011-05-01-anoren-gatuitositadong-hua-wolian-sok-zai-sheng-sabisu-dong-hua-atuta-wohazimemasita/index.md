@@ -1,21 +1,19 @@
 ---
-title: "あの人がツイートした動画を連続再生サービス「動画あったー」をはじめました"
-subtitle: ""
-summary: ""
+title: あの人がツイートした動画を連続再生サービス「動画あったー」をはじめました
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-05-01T22:01:45+00:00
-lastmod: 2011-05-01T22:01:45+00:00
+categories: null
+date: 2011-05-01 22:01:45+00:00
+lastmod: 2011-05-01 22:01:45+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [動画, ツイート, 連続, 再生, 検索, 問題点, 上手く, ie, google chrome, da]
+recommendations: [/post/2011-04-06-gatiyapin-sings-rajaton/, /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/,
+  /post/2009-12-05-after-devil-forcewofa-jue-sita/]
 ---
 [![動画あったー](da_thumb.jpg)](http://tw2tube.appspot.com/)
 

@@ -1,21 +1,19 @@
 ---
-title: "アカペラを聞きながら英語を勉強できる！？Podcast- Mouth off"
-subtitle: ""
-summary: ""
+title: アカペラを聞きながら英語を勉強できる！？Podcast- Mouth off
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-07-19T11:07:50+00:00
-lastmod: 2011-07-19T11:07:50+00:00
+categories: null
+date: 2011-07-19 11:07:50+00:00
+lastmod: 2011-07-19 11:07:50+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [podcast, アカペラ, 番組, 英語, 紹介, 時間, 先輩, オフィシャルサイト, 釣り, 短い]
+recommendations: [/post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/,
+  /post/2008-10-11-le-pu-gayu-sii/, /post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/]
 ---
 [![](mouthoff.png)](http://www.mouthoffshow.com/)
 

@@ -1,21 +1,19 @@
 ---
-title: "夏なので"
-subtitle: ""
-summary: ""
+title: 夏なので
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2006-07-28T21:46:34+00:00
-lastmod: 2006-07-28T21:46:34+00:00
+categories: null
+date: 2006-07-28 21:46:34+00:00
+lastmod: 2006-07-28 21:46:34+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [cd, 感じ, 視聴, 欲しく, 方向, ノート, モード, テレビ, es, テーマ]
+recommendations: [/post/2008-08-01-ono-lisa-best-2002-2006/, /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/,
+  /post/2009-04-13-it-dont-mean-a-thing/]
 ---
 ノートをたちあげっぱにしておくと，熱で手が低温やけどしそうな今日この頃，いかがお過ごしでしょうか．  
   

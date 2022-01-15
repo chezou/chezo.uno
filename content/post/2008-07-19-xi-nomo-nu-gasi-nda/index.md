@@ -1,21 +1,19 @@
 ---
-title: "西の魔女が死んだ"
-subtitle: ""
-summary: ""
+title: 西の魔女が死んだ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-07-19T03:07:00+00:00
-lastmod: 2008-07-19T03:07:00+00:00
+categories: null
+date: 2008-07-19 03:07:00+00:00
+lastmod: 2008-07-19 03:07:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [主人公, 良い, 作品, isbn, スコア, 選択, tags, 魅力, 高速, 高校生]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-08-24-sayonaraituka/,
+  /post/2008-06-15-gui-cai-xian-ru/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51K6B7P3PQL._SL160_.jpg)[西の魔女が死んだ (新潮文庫)](http://item.excite.co.jp/detail/ASIN_4101253323)  
 梨木 香歩 / / 新潮社  
