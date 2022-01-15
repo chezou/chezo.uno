@@ -1,12 +1,13 @@
 ---
 title: How to release Python package from GitHub Actions
-description: >-
-  Recently, I changed my CI from Travis to GitHub Actions. GitHub Actions is
-  handy and useful for testing, publishing Python packages.
+description: Recently, I changed my CI from Travis to GitHub Actions. GitHub Actions
+  is handy and useful for testing, publishing Python packages.
 date: '2019-11-26T01:42:11+09:00'
 categories: [Python]
-keywords: ["GitHub Actions", Python]
+keywords: [pypi, github, travis, actions, token, secrets, workflow, api, python, package]
 authors: [aki]
+recommendations: [/blog/2017-08-30_Python-basics--package-management-462918458f96/,
+  /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/, /blog/2017-07-24_Simple-way-to-distribute-your-private-Python-packages-within-your-organization-fb7af5dbd4c9/]
 ---
 
 ![](./0__hOksODxf9TX1BkS0.jpg)

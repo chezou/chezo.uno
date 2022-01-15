@@ -1,12 +1,15 @@
 ---
 title: Use Markdown document on brand new PyPI
-description: >-
-  Yesterday, PyPI was renewed to the next-generation site. It is modern and
-  stylish one.
+description: Yesterday, PyPI was renewed to the next-generation site. It is modern
+  and stylish one.
 date: '2018-04-17T13:21:33+09:00'
 categories: [python]
-keywords: []
+keywords: [markdown, pypi, pip, upgrade, description, long, twine, setuptools, rendered,
+  pep]
 authors: [aki]
+recommendations: [/blog/2017-08-30_Python-basics--package-management-462918458f96/,
+  /blog/2019-11-26_How-to-release-Python-package-from-GitHub-Actions-d5a1d8edba6e/,
+  /blog/2017-07-24_Simple-way-to-distribute-your-private-Python-packages-within-your-organization-fb7af5dbd4c9/]
 ---
 
 Yesterday, PyPI was renewed to the next-generation site. It is modern and stylish one.

@@ -1,0 +1,13 @@
+{{ if isset .Params "recommendations" }}
+<div class="article-widget content-widget-hr">
+  <h3>{{ i18n "related" }}</h3>
+  <ul>
+    {{ $candidates := where .Site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{ $rec := apply .Params.recommendations "lower" "." }}
+    {{ $filtered := where $candidates "RelPermalink" "in" $rec }}
+    {{ range $filtered }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}

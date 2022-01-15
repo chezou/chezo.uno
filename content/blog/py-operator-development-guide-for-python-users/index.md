@@ -1,14 +1,14 @@
 ---
 title: py> operator development guide for Python users
-date: 2020-03-05T14:15:52.570Z
+date: 2020-03-05 14:15:52.570000
 summary: This article show how to develop a digdag Python workflow task efficiently.
 draft: false
 featured: false
-tags:
-  - digdag
-categories:
-  - Python
-  - workflow
+tags: [digdag]
+categories: [Python, workflow]
+keywords: [operator, task, env, local, image, docker, create, td, reasonable, message]
+recommendations: [/blog/2019-10-06_How-to-test-a-new-Docker-image-for-digdag-workflow-on-CircleCI--c8bb92987877/,
+  /blog/2017-08-30_Python-basics--package-management-462918458f96/, /blog/2017-07-24_Simple-way-to-distribute-your-private-Python-packages-within-your-organization-fb7af5dbd4c9/]
 ---
 [Japanese version is here](https://chezo.uno/post/2019-12-24-python-custom-scripting/)
 

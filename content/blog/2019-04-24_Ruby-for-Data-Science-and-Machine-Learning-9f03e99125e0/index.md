@@ -1,12 +1,14 @@
 ---
 title: Ruby for Data Science and Machine Learning
-description: >-
-  I attended RubyKaigi 2019 held at Fukuoka from Apr 18 to Apr 21. This year’s
-  RubyKaigi was a really great opportunity for me to know the…
+description: I attended RubyKaigi 2019 held at Fukuoka from Apr 18 to Apr 21. This
+  year’s RubyKaigi was a really great opportunity for me to know the…
 date: '2019-04-24T12:10:28+09:00'
 categories: [machine_learning, ruby]
-keywords: [Ruby, "Data Science", "Machine Learningn"]
+keywords: [ruby, arrow, data, red, cumo, science, learning, apache, chainer, deep]
 authors: [aki]
+recommendations: [/blog/2017-08-03_Why-OSS-based-machine-learning-is-good--3ab45a1a5e52/,
+  /blog/2016-10-15_Building-predictive-Model-with-Ibis--Impala-and-scikit-learn-356b41f404e0/,
+  /blog/2019-06-04_The-first-conference-of-Operational-Machine-Learning--OpML--19-308baad36108/]
 ---
 
 I attended [RubyKaigi 2019](https://rubykaigi.org/2019) held at Fukuoka from Apr 18 to Apr 21. This year’s RubyKaigi was a really great opportunity for me to know the possibility of Data Science and Machine Learning for Ruby.

@@ -1,12 +1,14 @@
 ---
 title: Simple way to distribute your private Python packages within your organization
-description: >-
-  This article is a translation of this article, originally written by aodag in
-  Japanese. I translated it with his permission. This article…
+description: This article is a translation of this article, originally written by
+  aodag in Japanese. I translated it with his permission. This article…
 date: '2017-07-24T01:21:40+09:00'
 categories: [python]
-keywords: []
+keywords: [directory, server, wheelhouse, packages, http, foo, _this, pip, package,
+  option]
 authors: [aki]
+recommendations: [/blog/2017-08-30_Python-basics--package-management-462918458f96/,
+  /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/, /blog/2017-08-02_How-to-run-Cloudera-Director-on-your-macOS-Windows-10-710f82aa1d63/]
 ---
 
 ![[https://www.irasutoya.com/2017/05/blog-post\_22.html](https://www.irasutoya.com/2017/05/blog-post_22.html)](/img/0__YSlLMz01REAp__q__y.png)

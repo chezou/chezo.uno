@@ -1,12 +1,14 @@
 ---
 title: 'The first conference of Operational Machine Learning: OpML ‘19'
-description: >-
-  I attended OpML ’19 is a conference for “Operational Machine Learning” held at
-  Santa Clara on May 20th.
+description: I attended OpML ’19 is a conference for “Operational Machine Learning”
+  held at Santa Clara on May 20th.
 date: '2019-06-04T13:50:07+09:00'
 categories: [mlops, machine_learning]
-keywords: [MLOps, "Machine Learningn"]
+keywords: [ml, learning, production, opml, linkedin, airbnb, machine, conference,
+  operational, manager]
 authors: [aki]
+recommendations: [/blog/2017-08-03_Why-OSS-based-machine-learning-is-good--3ab45a1a5e52/,
+  /blog/2019-04-24_Ruby-for-Data-Science-and-Machine-Learning-9f03e99125e0/, /blog/2017-08-30_Python-basics--package-management-462918458f96/]
 ---
 
 I attended OpML ’19 is a conference for “Operational Machine Learning” held at Santa Clara on May 20th.
