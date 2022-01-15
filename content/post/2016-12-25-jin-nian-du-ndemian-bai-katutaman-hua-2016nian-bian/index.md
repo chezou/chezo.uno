@@ -1,21 +1,19 @@
 ---
-title: "今年読んで面白かった漫画 2016年編"
-subtitle: ""
-summary: ""
+title: 今年読んで面白かった漫画 2016年編
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2016-12-25T21:30:04+00:00
-lastmod: 2016-12-25T21:30:04+00:00
+categories: null
+date: 2016-12-25 21:30:04+00:00
+lastmod: 2016-12-25 21:30:04+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [kindle版, 作者, 商品, メディア, 作品, ブログ, 発売日, 出版社, メーカー, チャンス]
+recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/,
+  /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/]
 ---
 海外出張の移動やKindle Unlimitedとかもあって結構漫画を読む機会が多かったのですが、今年読んだ漫画のオススメを書いていきます。
 

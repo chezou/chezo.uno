@@ -1,21 +1,19 @@
 ---
-title: "Julia100本ノック"
-subtitle: ""
-summary: ""
+title: Julia100本ノック
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2014-06-21T22:06:49+00:00
-lastmod: 2014-06-21T22:06:49+00:00
+categories: null
+date: 2014-06-21 22:06:49+00:00
+lastmod: 2014-06-21 22:06:49+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [numpy, 関数, '06', '2014', 便利, 追記, '22', ドキュメント, 比較, julia]
+recommendations: [/post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/,
+  /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/]
 ---
 [Julia vs Python: ビットコインオプションのモンテカルロシミュレーション](http://chezou.wordpress.com/2014/05/07/julia-vs-python-bitcoin-option/)に引き続き、[100 numpy exercises](http://www.loria.fr/~rougier/teaching/numpy.100/)という、面白いnumpyの練習問題があったのでそれのJulia版を作成しました。  
 実際には46個しかないのと、numpyの便利関数がなくて挫折したものとかいくつかありますが、pythonistaな方々はオリジナルと比較してJuliaの世界に来ていただければ楽しいのではないかと思います。

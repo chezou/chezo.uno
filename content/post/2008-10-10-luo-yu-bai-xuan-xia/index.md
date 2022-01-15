@@ -1,21 +1,19 @@
 ---
-title: "落語百選　夏"
-subtitle: ""
-summary: ""
+title: 落語百選　夏
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-10-10T21:48:57+00:00
-lastmod: 2008-10-10T21:48:57+00:00
+categories: null
+date: 2008-10-10 21:48:57+00:00
+lastmod: 2008-10-10 21:48:57+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [人々, 本書, 面白い, 日常, 距離, 現代, 具合, 本来, 事実, 得意]
+recommendations: [/post/2008-11-06-koredeiinoda/, /post/2008-11-06-yin-lu-toyin-jie-noke-xue/,
+  /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---
 ![](https://ecx.images-amazon.com/images/I/513AAZPEAVL._SL160_.jpg)[落語百選―夏 (ちくま文庫)](http://item.excite.co.jp/detail/ASIN_4480034528)  
  / 筑摩書房  

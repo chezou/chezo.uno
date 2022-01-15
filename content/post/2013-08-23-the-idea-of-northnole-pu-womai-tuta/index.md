@@ -1,21 +1,19 @@
 ---
-title: "The Idea of Northの楽譜を買った"
-subtitle: ""
-summary: ""
+title: The Idea of Northの楽譜を買った
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2013-08-23T22:05:09+00:00
-lastmod: 2013-08-23T22:05:09+00:00
+categories: null
+date: 2013-08-23 22:05:09+00:00
+lastmod: 2013-08-23 22:05:09+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [楽譜, 返信, ライセンス, メール, pdf, idea, アカペラグループ, アレンジ, 購入, '39']
+recommendations: [/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
+  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/, /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
 ---
 オーストラリアのアカペラグループ、The Idea of Northの楽譜を少し前に購入しました。  
 混声4人のアカペラグループで、オリジナルやアレンジなどいい曲を書いています。  

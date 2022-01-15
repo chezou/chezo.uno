@@ -1,21 +1,19 @@
 ---
-title: "PRESS START 2010行ってきた"
-subtitle: ""
-summary: ""
+title: PRESS START 2010行ってきた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2010-09-11T21:59:42+00:00
-lastmod: 2010-09-11T21:59:42+00:00
+categories: null
+date: 2010-09-11 21:59:42+00:00
+lastmod: 2010-09-11 21:59:42+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [メドレー, 演奏会, 演奏, 素晴らしい, 編成, リズム, bb, 今年, 編曲, 良かっ]
+recommendations: [/post/2008-11-08-liang-ishi-dai-ninatutanee/, /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/,
+  /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/]
 ---
 本日、[PRESS START2010 -SYMPHONY OF GAMES-@東京芸術劇場 大ホール](http://www.famitsu.com/famiweb/pressstart/)に行ってまいりました。  
 (写真はプログラム、この演奏会にあわせて発売した[CD](http://ebten.jp/famitsu/p/4541993016235/?aid=prc)、フリーペーパー2083)  

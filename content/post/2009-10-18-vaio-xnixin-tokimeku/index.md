@@ -1,21 +1,19 @@
 ---
-title: "VAIO Xに心ときめく"
-subtitle: ""
-summary: ""
+title: VAIO Xに心ときめく
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-10-18T21:56:00+00:00
-lastmod: 2009-10-18T21:56:00+00:00
+categories: null
+date: 2009-10-18 21:56:00+00:00
+lastmod: 2009-10-18 21:56:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [type, 我慢, 軽い, 思想, inch, 軽く, 位置づけ, ノート, 生活, hdd]
+recommendations: [/post/2005-07-17-urayamasika/, /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/,
+  /post/2019-06-04_ngekkan-party/]
 ---
 IYHって単なるマリオ的雄叫びだと思っていたら、衝動買いをしてしまったということだったんですね。これだから、ネットの略語は面白い。
 

@@ -1,21 +1,19 @@
 ---
-title: "Logitecがオーディオに本気出してきた！？"
-subtitle: ""
-summary: ""
+title: Logitecがオーディオに本気出してきた！？
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories:
-date: 2009-10-26T21:56:26+00:00
-lastmod: 2009-10-26T21:56:26+00:00
+categories: null
+date: 2009-10-26 21:56:26+00:00
+lastmod: 2009-10-26 21:56:26+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ipod, 用途, マイク, iphone, 機種, ステレオ, 販売, やばい, レビュー, '03']
+recommendations: [/post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
+  /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/, /post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/]
 ---
 [ボイスレコーダー iPod用高性能ステレオマイク - LIC-iREC03P - ロジテック](http://www.logitec.co.jp/products/recadpt/licirec03/index.html)
 

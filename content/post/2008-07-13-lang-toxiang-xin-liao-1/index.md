@@ -1,21 +1,19 @@
 ---
-title: "狼と香辛料（1）"
-subtitle: ""
-summary: ""
+title: 狼と香辛料（1）
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-07-13T21:50:28+00:00
-lastmod: 2008-07-13T21:50:28+00:00
+categories: null
+date: 2008-07-13 21:50:28+00:00
+lastmod: 2008-07-13 21:50:28+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [文章, 作品, 手順, ライト, 続き, 世界観, 事実, 安心, 悪い, isbn]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
+  /post/2008-08-24-sayonaraituka/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51NGJS1A0ZL._SL160_.jpg)[狼と香辛料 (電撃文庫)](http://item.excite.co.jp/detail/ASIN_4840233020)  
 支倉 凍砂 / / メディアワークス  

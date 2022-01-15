@@ -1,21 +1,20 @@
 ---
-title: "苅谷剛彦、山口二郎「格差社会と教育改革」読了"
-subtitle: ""
-summary: ""
+title: 苅谷剛彦、山口二郎「格差社会と教育改革」読了
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2010-07-05T21:59:10+00:00
-lastmod: 2010-07-05T21:59:10+00:00
+categories: null
+date: 2010-07-05 21:59:10+00:00
+lastmod: 2010-07-05 21:59:10+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [教育, 議論, 主張, 時期, 感覚, 変化, サービス, 場合, 拡大, 批判]
+recommendations: [/post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
+  /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
+  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
 ---
 社会教育学者の苅谷剛彦氏と政治学者の山口二郎氏の対談による、格差社会についての議論をまとめた本です。  
 [![](https://ecx.images-amazon.com/images/I/41ImOM4lmnL._SL500_AA300_.jpg)](http://www.amazon.co.jp/%E6%A0%BC%E5%B7%AE%E7%A4%BE%E4%BC%9A%E3%81%A8%E6%95%99%E8%82%B2%E6%94%B9%E9%9D%A9-%E5%B2%A9%E6%B3%A2%E3%83%96%E3%83%83%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88-%E8%8B%85%E8%B0%B7-%E5%89%9B%E5%BD%A6/dp/4000094262)

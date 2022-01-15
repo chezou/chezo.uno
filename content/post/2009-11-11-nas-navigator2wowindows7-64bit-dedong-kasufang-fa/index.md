@@ -1,21 +1,19 @@
 ---
-title: "Nas Navigator2をWindows7(64bit)で動かす方法"
-subtitle: ""
-summary: ""
+title: Nas Navigator2をWindows7(64bit)で動かす方法
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-11-11T12:11:25+00:00
-lastmod: 2009-11-11T12:11:25+00:00
+categories: null
+date: 2009-11-11 12:11:25+00:00
+lastmod: 2009-11-11 12:11:25+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [実行, nas, 管理者, パケット, setup, 自動, ユーザ, 確認, 以前, 魅力]
+recommendations: [/post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/, /post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/,
+  /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/]
 ---
 [以前、動かないと言っていたNas Navigator2](http://chezou.wordpress.com/2009/10/26/nas-navigator2%e3%81%8c%e6%82%aa%e3%81%95%e3%82%92%e3%81%99%e3%82%8bwindows7-64bit/)ですが、なんとか動かすことに成功しました。グラフィックボードのドライバ関係もあって、再インストールした後に行いました。
 

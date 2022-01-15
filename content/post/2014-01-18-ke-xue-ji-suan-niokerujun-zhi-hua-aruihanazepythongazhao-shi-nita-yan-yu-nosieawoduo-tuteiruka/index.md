@@ -1,21 +1,19 @@
 ---
-title: "科学計算における均質化、あるいはなぜPythonが着実に他言語のシェアを奪っているか"
-subtitle: ""
-summary: ""
+title: 科学計算における均質化、あるいはなぜPythonが着実に他言語のシェアを奪っているか
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2014-01-18T02:01:18+00:00
-lastmod: 2014-01-18T02:01:18+00:00
+categories: null
+date: 2014-01-18 02:01:18+00:00
+lastmod: 2014-01-18 02:01:18+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [python, 言語, パッケージ, 統計的, 科学, 可視化, コード, 計算, 多く, javascript]
+recommendations: [/post/2017-08-26_Python------------------dc8d8f2fe989/, /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/,
+  /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/]
 ---
 最近、何故科学計算でPythonがほぼ一人勝ちなのか気になっていたのですが、[TAL YARKONI](http://www.talyarkoni.org/blog/author/admin/)氏による、[THE HOMOGENIZATION OF SCIENTIFIC COMPUTING, OR WHY PYTHON IS STEADILY EATING OTHER LANGUAGES’ LUNCH](http://www.talyarkoni.org/blog/2013/11/18/the-homogenization-of-scientific-computing-or-why-python-is-steadily-eating-other-languages-lunch/)という記事が、その答えに近づける鍵なのかもしれないと思い、試訳をしてみました。  
 彼は心理学とニューロイメージングを専門とする研究者であり、元々Rを中心に様々な言語を利用していたのですが、最近ではPythonばかり使うようになってきたとのことです。

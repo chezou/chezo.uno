@@ -1,21 +1,19 @@
 ---
-title: "夜のヴェネツィア"
-subtitle: ""
-summary: ""
+title: 夜のヴェネツィア
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2010-11-13T06:11:52+00:00
-lastmod: 2010-11-13T06:11:52+00:00
+categories: null
+date: 2010-11-13 06:11:52+00:00
+lastmod: 2010-11-13 06:11:52+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [歴史的, 位置, 雰囲気, 準備, 最初, 魅力, 高速, 高校生, 高校, 高く]
+recommendations: [/post/2005-08-21-nan-sheng-he-chang/, /post/2008-08-24-sayonaraituka/,
+  /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/]
 ---
 ![](https://lh6.ggpht.com/_fY4jPztBNxw/TN4m-vk9IWI/AAAAAAAAAkM/FBrhsjGXKUY/s400/DSCF6149.JPG)
 

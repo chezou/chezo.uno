@@ -1,21 +1,20 @@
 ---
-title: "日本人向けPodcastやるならIDCFクラウドが良さそう"
-subtitle: ""
-summary: ""
+title: 日本人向けPodcastやるならIDCFクラウドが良さそう
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-06-07T21:00:00+00:00
-lastmod: 2015-06-07T21:00:00+00:00
+categories: null
+date: 2015-06-07 21:00:00+00:00
+lastmod: 2015-06-07 21:00:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [録音, 無料, 転送, skype, クラウド, gb, ストレージ, tb, ゲスト, 調整]
+recommendations: [/post/2015-11-22-idcfkuraudono500yuan-sabadepodcast-serverwohazimete8keyue-gajing-timasita/,
+  /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
+  /post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa/]
 ---
 [rubyist.club](http://rubyist.club/)というpodcastをやっているのですが、[IDCFクラウド](http://www.idcf.jp/cloud/)の上で動いています。
 

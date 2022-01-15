@@ -1,21 +1,19 @@
 ---
-title: "神奈川Ruby会議を開催しました #kana01"
-subtitle: ""
-summary: ""
+title: '神奈川Ruby会議を開催しました #kana01'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-01-25T00:41:03+00:00
-lastmod: 2015-01-25T00:41:03+00:00
+categories: null
+date: 2015-01-25 00:41:03+00:00
+lastmod: 2015-01-25 00:41:03+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ruby, 会議, コミュニティ, 段階, 勉強会, コンセプト, kawasaki, live, rb, 僕自身]
+recommendations: [/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
+  /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/, /post/2014-09-21-rubykaigixing-tutekimasita-and-rubyhirobade-shen-nai-chuan-rubyhui-yi-01-gao-zhi-ltsitekimasita-number-rubykaigi-number-rubyhiroba-number-kana01/]
 ---
 去る2015年1月17日に神奈川Ruby会議を行いました。[公式サイト](http://regional.rubykaigi.org/kana01/)にはスライドや動画も上げましたのでよろしければご覧ください。また、るびま班が近々レポートを上げてくれるはずですので、そちらもお楽しみに。
 

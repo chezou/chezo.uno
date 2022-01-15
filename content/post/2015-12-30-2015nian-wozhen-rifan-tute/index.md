@@ -1,21 +1,19 @@
 ---
-title: "2015年を振り返って"
-subtitle: ""
-summary: ""
+title: 2015年を振り返って
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-12-30T21:41:51+00:00
-lastmod: 2015-12-30T21:41:51+00:00
+categories: null
+date: 2015-12-30 21:41:51+00:00
+lastmod: 2015-12-30 21:41:51+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [lean, .com, 活用, 今年, hatenablog, 神奈川, 会議, mlct, analytics, chezou]
+recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
+  /post/2014-12-31-2014nian-wozhen-rifan-tute/]
 ---
 今年は色々と挑戦をし、成功したもの失敗したもの多くの体験ができました。
 

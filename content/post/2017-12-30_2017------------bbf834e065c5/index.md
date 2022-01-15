@@ -3,8 +3,10 @@ title: 2017年に買ってよかったもの
 description: 今年もあと少しで終わりですね。というわけで、今年買ってよかったものを書き連ねていきたいと思います。
 date: '2017-12-30T13:31:43+09:00'
 categories: []
-keywords: []
+keywords: [amzn, 対応, to, usb, ブラック, 家電, 製品, イヤホン, bluetooth, '60']
 authors: [aki]
+recommendations: [/post/2019-03-10_business-trip-goods/, /post/2018-10-28_Thinkpad-X1-Carbon-MacBook-Pro----------USB-Type-C-------f6d8c8e77b36/,
+  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/]
 ---
 
 今年もあと少しで終わりですね。というわけで、今年買ってよかったものを書き連ねていきたいと思います。

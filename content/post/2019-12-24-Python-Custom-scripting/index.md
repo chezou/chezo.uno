@@ -1,25 +1,21 @@
 ---
-summary: ""
+summary: ''
 draft: false
-authors:
-  - aki
+authors: [aki]
 toc: true
 markup: blackfriday
-lastmod: 2019-12-24T00:00:00+09:00
+lastmod: 2019-12-24 00:00:00+09:00
 title: Pythonistaのためのdigdag py> operator開発ガイド
-subtitle: ""
-date: 2019-12-24T00:00:00+09:00
+subtitle: ''
+date: 2019-12-24 00:00:00+09:00
 featured: false
-tags:
-  - Python
-categories:
-  - Python
-  - TreasureData
+tags: [Python]
+categories: [Python, TreasureData]
 projects: []
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
+keywords: [treasure, 開発, イメージ, data, python, docker, 公式, 環境, ローカル, 関数]
+recommendations: [/post/2019-12-04-R-and-TD/, /post/2008-09-28-bznoultra-treasuregayabasugiru/,
+  /post/2018-10-19_Treasure-Data-------Plazma-tech-talk-------3c901d92e973/]
 ---
 
 {{% toc %}}

@@ -1,21 +1,19 @@
 ---
-title: "HD53R Ver.8を購入"
-subtitle: ""
-summary: ""
+title: HD53R Ver.8を購入
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-10-05T12:10:00+00:00
-lastmod: 2008-10-05T12:10:00+00:00
+categories: null
+date: 2008-10-05 12:10:00+00:00
+lastmod: 2008-10-05 12:10:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [hd, 購入, アンプ, ヘッドホン, わけ, 現在, 合唱, アカペラ, 良い, ちなみ]
+recommendations: [/post/2008-10-28-mai-tutesimatuta/, /post/2008-09-14-hetudohonwu-se-sitahi/,
+  /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
 ---
 2chではとことん評判のよろしくないC.E.Cの[HD53R Ver.8](http://www.cec-web.co.jp/products/amp/hd53r/hd53r.html)を購入しました。  
 しかし、JBLのReference410といい、今のマシンの電源といい（ｒｙ  

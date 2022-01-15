@@ -1,21 +1,19 @@
 ---
-title: "Apple Music のプレイリストを中心としたレコメンド戦略"
-subtitle: ""
-summary: ""
+title: Apple Music のプレイリストを中心としたレコメンド戦略
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-07-08T22:52:00+00:00
-lastmod: 2015-07-08T22:52:00+00:00
+categories: null
+date: 2015-07-08 22:52:00+00:00
+lastmod: 2015-07-08 22:52:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [アーティスト, リスト, シーン, 楽曲, 影響, 音楽, 凄い, youtube, データベース, 意図]
+recommendations: [/post/2009-08-12-masa-festazhong-zhi/, /post/2008-09-07-chu-yin-mikunokaraokequ/,
+  /post/2008-07-05-rajaton/]
 ---
 膨大な音楽というコンテンツの海に放り出された時に、人は何をするだろうか。
 

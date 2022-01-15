@@ -1,21 +1,19 @@
 ---
-title: "データを一箇所に集めることでデータ活用の民主化が進んだ話"
-subtitle: ""
-summary: ""
+title: データを一箇所に集めることでデータ活用の民主化が進んだ話
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2016-05-05T22:20:46+00:00
-lastmod: 2016-05-05T22:20:46+00:00
+categories: null
+date: 2016-05-05 22:20:46+00:00
+lastmod: 2016-05-05 22:20:46+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [sql, データ, データ分析, ディレクター, 分析, エンジニア, クエリ, 活用, 武器, web]
+recommendations: [/post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
+  /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2016-03-30-zhuan-zhi-simasita/]
 ---
 先日、この記事を読んで分析のハードルを下げること大事だよね、というのを思い出したのでつらつらと書いてみようと思います。
 

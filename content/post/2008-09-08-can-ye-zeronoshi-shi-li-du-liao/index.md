@@ -1,21 +1,19 @@
 ---
-title: "残業ゼロの仕事力読了"
-subtitle: ""
-summary: ""
+title: 残業ゼロの仕事力読了
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-09-08T12:09:00+00:00
-lastmod: 2008-09-08T12:09:00+00:00
+categories: null
+date: 2008-09-08 12:09:00+00:00
+lastmod: 2008-09-08 12:09:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [本書, 日本, 文章, 素晴らしい, 多い, 実績, 密度, 典型的, 本質, 読者]
+recommendations: [/post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/, /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/,
+  /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51qiCnniYVL._SL160_.jpg)[「残業ゼロ」の仕事力](http://item.excite.co.jp/detail/ASIN_4820717138)  
 吉越 浩一郎 / / 日本能率協会マネジメント 出版情報事業  

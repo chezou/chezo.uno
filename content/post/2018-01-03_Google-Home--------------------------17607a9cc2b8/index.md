@@ -3,8 +3,10 @@ title: Google Homeはスマートプラグと「部屋」でグルーピング�
 description: Google Homeを発売日に買ってから色々と試行錯誤をして来ましたが、だいたい構成が固まって来たので書き残しておきます。
 date: '2018-01-03T10:40:14+09:00'
 categories: []
-keywords: []
+keywords: [hdmi, 対応, モニター, プラグ, hz, '60', パネル, amzn, ワイド, オーディオ]
 authors: [aki]
+recommendations: [/post/2017-12-30_2017------------bbf834e065c5/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
+  /post/2018-10-28_Thinkpad-X1-Carbon-MacBook-Pro----------USB-Type-C-------f6d8c8e77b36/]
 ---
 
 Google Homeを発売日に買ってから色々と試行錯誤をして来ましたが、だいたい構成が固まって来たので書き残しておきます。

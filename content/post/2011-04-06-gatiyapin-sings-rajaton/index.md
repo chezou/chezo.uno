@@ -1,21 +1,19 @@
 ---
-title: "ガチャピン sings Rajaton？"
-subtitle: ""
-summary: ""
+title: ガチャピン sings Rajaton？
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-04-06T22:01:06+00:00
-lastmod: 2011-04-06T22:01:06+00:00
+categories: null
+date: 2011-04-06 22:01:06+00:00
+lastmod: 2011-04-06 22:01:06+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [動画, youtube, アマチュア, rajaton, 検索, 演奏, 英語版, オフィシャルサイト, 格好, チャンネル]
+recommendations: [/post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/,
+  /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2009-07-05-guan-dong-hagame-musichoihoida/]
 ---
 きっかけは、君のラジオがリニューアルしている様子がはてブのホットエントリ入りしたところから。  
 あの手のYouTubeの検索マッシュアップではRajatonを検索するようにしているのですが(本人達の演奏が少なくノイジーなのです)、今回も見事にアマチュアやら関係ない動画がざっくざっく引っかかりました。

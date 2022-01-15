@@ -1,21 +1,19 @@
 ---
-title: "関東はGame Musicほいほいだ"
-subtitle: ""
-summary: ""
+title: 関東はGame Musicほいほいだ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-07-05T21:54:45+00:00
-lastmod: 2009-07-05T21:54:45+00:00
+categories: null
+date: 2009-07-05 21:54:45+00:00
+lastmod: 2009-07-05 21:54:45+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [演奏, 今年, press start, fc, 選曲, 団体, アマチュア, music, live, ライブ]
+recommendations: [/post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2012-10-04-finlandnochuan-tong-de-nale-qi-kanterewomodanniyan-zou-suruida-elina/,
+  /post/2012-10-05-dong-jing-gemusiyodemai-tuteitanosymphonic-fantasies-tokyo-nocdganetutodemai-eru/]
 ---
 [Press Start](http://fami-web.jp/pressstart/)が今年もやってまいりました。今年こそはチケットを購入したので、万全の体制で臨みたいと思います。
 

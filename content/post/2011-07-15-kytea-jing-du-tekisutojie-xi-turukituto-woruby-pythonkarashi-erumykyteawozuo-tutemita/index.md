@@ -1,21 +1,19 @@
 ---
-title: "KyTea:京都テキスト解析ツールキット をRuby, Pythonから使えるMykyteaを作ってみた"
-subtitle: ""
-summary: ""
+title: KyTea:京都テキスト解析ツールキット をRuby, Pythonから使えるMykyteaを作ってみた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-07-15T12:07:29+00:00
-lastmod: 2011-07-15T12:07:29+00:00
+categories: null
+date: 2011-07-15 12:07:29+00:00
+lastmod: 2011-07-15 12:07:29+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [mykytea, swig, kytea, python, タグ, ruby, ラッパー, usr, インストール, '2011']
+recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
+  /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/]
 ---
 **[2011/07/23追記]  
 SWIGで生成したmykytea\_wrap.cxxをgithubに追加したので、SWIGのインストールは必要なくなりました。それに伴い実行すべき事が当初と変わっています。**

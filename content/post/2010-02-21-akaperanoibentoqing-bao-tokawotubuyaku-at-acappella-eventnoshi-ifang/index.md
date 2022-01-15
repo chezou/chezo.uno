@@ -1,21 +1,20 @@
 ---
-title: "アカペラのイベント情報とかをつぶやく@acappella_eventの使い方"
-subtitle: ""
-summary: ""
+title: アカペラのイベント情報とかをつぶやく@acappella_eventの使い方
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2010-02-21T21:58:11+00:00
-lastmod: 2010-02-21T21:58:11+00:00
+categories: null
+date: 2010-02-21 21:58:11+00:00
+lastmod: 2010-02-21 21:58:11+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [event, acappella, 合唱, or, アカペラ, 情報, bot, カレンダー, 予定, 検索]
+recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
+  /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
+  /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/]
 ---
 [以前の記事](http://chezou.wordpress.com/2010/01/20/%e5%90%88%e5%94%b1%e3%81%a8%e3%82%a2%e3%82%ab%e3%83%9a%e3%83%a9%e3%81%ae%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc%e3%82%92google-calendar%e3%81%a7%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f/)でも少し書いていたんですが、twitterで[@acappella\_event](http://twitter.com/acappella_event)というbotを作りました。前から少しずつ色々試していたのですが、ようやく基本的なところができたので使い方を簡単にまとめたものを残しておきます。
 

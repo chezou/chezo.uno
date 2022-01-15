@@ -1,21 +1,19 @@
 ---
-title: "#JuliaTokyo 01で「Julia100本ノック」を発表してきました"
-subtitle: ""
-summary: ""
+title: '#JuliaTokyo 01で「Julia100本ノック」を発表してきました'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2014-07-05T22:06:54+00:00
-lastmod: 2014-07-05T22:06:54+00:00
+categories: null
+date: 2014-07-05 22:06:54+00:00
+lastmod: 2014-07-05 22:06:54+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [julia, vs, sorami, juliatokyo, 発表, コミット, learning, 以内, フェーズ, みな]
+recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/,
+  /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/]
 ---
 [JuliaTokyo 01](juliatokyo.connpass.com/event/6891/)で発表してきました。  
 取りまとめをしてくださった [@sorami](https://twitter.com/sorami) さんには感謝です。

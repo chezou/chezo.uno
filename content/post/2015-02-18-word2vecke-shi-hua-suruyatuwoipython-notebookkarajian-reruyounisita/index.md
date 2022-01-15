@@ -1,21 +1,19 @@
 ---
-title: "word2vec可視化するやつをipython notebookから見れるようにした"
-subtitle: ""
-summary: ""
+title: word2vec可視化するやつをipython notebookから見れるようにした
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-02-18T18:45:17+00:00
-lastmod: 2015-02-18T18:45:17+00:00
+categories: null
+date: 2015-02-18 18:45:17+00:00
+lastmod: 2015-02-18 18:45:17+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [word, ipython, notebook, 可視化, グラフ, iruby, docker, 共有, コード, python]
+recommendations: [/post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
+  /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/, /post/2016-10-29_homebrew-----iRuby---------------6a02e5194ff2/]
 ---
 オライリーから出てる、[word2vec本](http://www.oreilly.co.jp/books/9784873116839/)の付録についてくる [id:nishiohirokazu](http://blog.hatena.ne.jp/nishiohirokazu/) さんが書いた可視化のコードがあります。
 

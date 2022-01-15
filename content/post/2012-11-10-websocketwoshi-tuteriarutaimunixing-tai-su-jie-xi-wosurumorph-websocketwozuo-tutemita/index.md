@@ -1,21 +1,19 @@
 ---
-title: "Websocketを使ってリアルタイムに形態素解析をするmorph-websocketを作ってみた"
-subtitle: ""
-summary: ""
+title: Websocketを使ってリアルタイムに形態素解析をするmorph-websocketを作ってみた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2012-11-10T04:11:51+00:00
-lastmod: 2012-11-10T04:11:51+00:00
+categories: null
+date: 2012-11-10 04:11:51+00:00
+lastmod: 2012-11-10 04:11:51+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [リアルタイム, ruby, mykytea, 結果, 解析, 形態素解析, kytea, 画面, 出力, png]
+recommendations: [/post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
+  /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/]
 ---
 [![morph-websocket画面](morph-websocket.png)](morph-websocket.png) morph-websocket画面
 

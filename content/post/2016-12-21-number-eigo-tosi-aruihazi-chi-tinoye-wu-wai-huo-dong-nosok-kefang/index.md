@@ -1,21 +1,19 @@
 ---
-title: "#eigo と私〜あるいは子持ちの業務外活動の続け方"
-subtitle: ""
-summary: ""
+title: '#eigo と私〜あるいは子持ちの業務外活動の続け方'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2016-12-21T13:00:00+00:00
-lastmod: 2016-12-21T13:00:00+00:00
+categories: null
+date: 2016-12-21 13:00:00+00:00
+lastmod: 2016-12-21 13:00:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [英会話, dmm, モニタ, 英語, 継続, '43', 転職, 子供, '2016', podcast]
+recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2018-11-14_subscription-2018/,
+  /post/2018-06-19_goodbye-cloudera/]
 ---
 こんにちは、温泉行きたいです。この記事は、[pyspaアドベントカレンダー2016](http://www.adventar.org/calendars/1435)の21日目です。1日前は、[渋川さん](http://blog.shibu.jp/article/178099358.html)の保険の話でした。
 

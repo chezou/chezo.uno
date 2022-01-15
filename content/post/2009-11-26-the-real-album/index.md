@@ -1,21 +1,19 @@
 ---
-title: "The Real Album"
-subtitle: ""
-summary: ""
+title: The Real Album
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-11-26T21:57:09+00:00
-lastmod: 2009-11-26T21:57:09+00:00
+categories: null
+date: 2009-11-26 21:57:09+00:00
+lastmod: 2009-11-26 21:57:09+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ポップ, 印象, 変態, me, 全体的, jazz, 活躍, メンバー, これから, 楽しみ]
+recommendations: [/post/2005-08-21-nan-sheng-he-chang/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
+  /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/]
 ---
 Pass Me the Jazzがすてきなアルバムです！
 

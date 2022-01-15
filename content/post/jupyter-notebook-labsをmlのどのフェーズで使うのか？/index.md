@@ -1,13 +1,13 @@
 ---
 title: Jupyter Notebook/LabsをMLのどのフェーズで使うのか？
-date: 2020-02-10T06:34:01.727Z
+date: 2020-02-10 06:34:01.727000+00:00
 summary: ''
 draft: false
-featured:
-  placement: 1
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/5fNmWej4tAA)'
-  focal_point: "Center"
-  filename: featured.jpg
+featured: {placement: 1, caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/5fNmWej4tAA)',
+  focal_point: Center, filename: featured.jpg}
+keywords: [プロダクション, ml, 用途, 結果, jupyter, 全部, プロトタイプ, ops, emacs, '1000']
+recommendations: [/post/2018-10-19_Treasure-Data-------Plazma-tech-talk-------3c901d92e973/,
+  /post/2016-10-29_homebrew-----iRuby---------------6a02e5194ff2/, /post/2018-10-25_RISECamp------ee65c2ef0c9e/]
 ---
 
 

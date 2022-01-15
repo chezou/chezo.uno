@@ -1,21 +1,19 @@
 ---
-title: "アキハバラ＠DEEP"
-subtitle: ""
-summary: ""
+title: アキハバラ＠DEEP
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-08-26T21:49:40+00:00
-lastmod: 2008-08-26T21:49:40+00:00
+categories: null
+date: 2008-08-26 21:49:40+00:00
+lastmod: 2008-08-26 21:49:40+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [武器, 要素, 以前, 衣良, 石田, キャラクター, 反応, デジタル, ただ, 日記]
+recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-06-15-gui-cai-xian-ru/,
+  /post/2008-09-06-feng-gaqiang-kuchui-iteiru/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51TWV8568SL._SL160_.jpg)[アキハバラ@DEEP (文春文庫)](http://item.excite.co.jp/detail/ASIN_4167174111)  
 石田 衣良 / / 文藝春秋  

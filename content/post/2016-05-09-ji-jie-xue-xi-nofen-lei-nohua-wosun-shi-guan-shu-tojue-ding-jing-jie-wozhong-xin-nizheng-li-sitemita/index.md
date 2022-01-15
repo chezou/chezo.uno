@@ -1,21 +1,19 @@
 ---
-title: "機械学習の分類の話を損失関数と決定境界を中心に整理してみた"
-subtitle: ""
-summary: ""
+title: 機械学習の分類の話を損失関数と決定境界を中心に整理してみた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2016-05-09T00:06:39+00:00
-lastmod: 2016-05-09T00:06:39+00:00
+categories: null
+date: 2016-05-09 00:06:39+00:00
+lastmod: 2016-05-09 00:06:39+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [コース, 関数, 数式, 嬉しい, github, 追記, 観点, 位置づけ, 決定, 分類]
+recommendations: [/post/2015-11-23-sympytojupyter-notebookdeshu-shi-nomemowoqu-rou/,
+  /post/2014-06-21-julia100ben-notuku/, /post/2021-04-24-ml-at-work-2nd-edition/]
 ---
 機械学習の分類の話を、主に決定境界と損失関数の観点から整理してみました。 とはいっても、k-NNとか損失関数関係ないのもいます。
 

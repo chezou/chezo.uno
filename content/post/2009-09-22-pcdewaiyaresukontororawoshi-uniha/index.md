@@ -1,21 +1,19 @@
 ---
-title: "PCでワイヤレスコントローラを使うには"
-subtitle: ""
-summary: ""
+title: PCでワイヤレスコントローラを使うには
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-09-22T21:55:38+00:00
-lastmod: 2009-09-22T21:55:38+00:00
+categories: null
+date: 2009-09-22 21:55:38+00:00
+lastmod: 2009-09-22 21:55:38+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ワイヤレス, '360', pc, 普通, アダプタ, 程度, 入手, ゲーム, 方法, マウス]
+recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2008-01-18-souiebakokohawu-yu-burogudatuta/,
+  /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/]
 ---
 ふと思い立って、WiiよろしくPCもワイヤレスコントローラでゲームをやってみたい、と思ったので調べてみた。
 

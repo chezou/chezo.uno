@@ -1,21 +1,18 @@
 ---
-title: "男声合唱"
-subtitle: ""
-summary: ""
+title: 男声合唱
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2005-08-21T21:45:46+00:00
-lastmod: 2005-08-21T21:45:46+00:00
+categories: null
+date: 2005-08-21 21:45:46+00:00
+lastmod: 2005-08-21 21:45:46+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [無性, ポップ, 準備, 一緒, 音楽, 最近, 良い, 魅力, 高速, 高校生]
+recommendations: [/post/2005-08-06-webkamera/, /post/2009-11-26-the-real-album/, /post/2005-05-19-vhsnei-zang-dvdpureya/]
 ---
 最近、無性に男声合唱がやりたくなってきました。  
 新年会とかに向けて今から準備すれば曲いっぱいやれないかなぁ……。  

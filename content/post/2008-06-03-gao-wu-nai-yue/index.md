@@ -1,21 +1,19 @@
 ---
-title: "高屋奈月"
-subtitle: ""
-summary: ""
+title: 高屋奈月
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-06-03T21:44:42+00:00
-lastmod: 2008-06-03T21:44:42+00:00
+categories: null
+date: 2008-06-03 21:44:42+00:00
+lastmod: 2008-06-03 21:44:42+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [comics, 相変わらず, ダメ, 凄い, シリーズ, ok, 作品, 新しい, isbn, スコア]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
+  /post/2008-07-13-lang-toxiang-xin-liao-1/]
 ---
 胃が凄い荒れ狂っているのがわかります。  
 紹興酒まずかったorz

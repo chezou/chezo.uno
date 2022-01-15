@@ -4,8 +4,10 @@ description: 先日、ラムダノートから創刊された「n月刊ラムダ
 date: '2019-03-29T04:01:40+09:00'
 lastmod: '2019-03-29T04:01:40+09:00'
 categories: [book, writing]
-keywords: [MLOps]
+keywords: [ノート, 編集, 論文, 記事, 自分, img, 著者, pdf, png, 構造]
 authors: [aki]
+recommendations: [/post/2019-06-04_ngekkan-party/, /post/2017-08-03_OSS--------------48807bbbf13f/,
+  /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/]
 ---
 
 先日、ラムダノートから創刊された「n月刊ラムダノート」に「MLOpsの歩き方」を寄稿しました。

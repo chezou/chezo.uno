@@ -1,21 +1,19 @@
 ---
-title: "瑞巌寺"
-subtitle: ""
-summary: ""
+title: 瑞巌寺
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-08-12T10:08:40+00:00
-lastmod: 2009-08-12T10:08:40+00:00
+categories: null
+date: 2009-08-12 10:08:40+00:00
+lastmod: 2009-08-12 10:08:40+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: ['1600', '1200', jpeg, dd, bb, 満喫, ボリューム, da, '33', cf]
+recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/,
+  /post/2009-08-07-pokemonxin-gan-xian/]
 ---
 歌に聞きし瑞巌寺にいってきました。雄島はあいにくの雨のため諦め。
 

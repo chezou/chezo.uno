@@ -1,21 +1,19 @@
 ---
-title: "Apple storeがWe&#39;ll back soonに……"
-subtitle: ""
-summary: ""
+title: Apple storeがWe&#39;ll back soonに……
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-05-16T21:53:46+00:00
-lastmod: 2009-05-16T21:53:46+00:00
+categories: null
+date: 2009-05-16 21:53:46+00:00
+lastmod: 2009-05-16 21:53:46+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [nas, mac, 自動, 入手, 方法, 状態, iphone, わけ, 対処, メンテナンス]
+recommendations: [/post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/,
+  /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/, /post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/]
 ---
 もうすぐ、新型iPhoneだとかiPod touchの発表なんでしょうね。amazonでも32G touchが20000円引きで売られていることですし。
 

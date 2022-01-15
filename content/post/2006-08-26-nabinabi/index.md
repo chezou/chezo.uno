@@ -1,21 +1,19 @@
 ---
-title: "ナビナビ"
-subtitle: ""
-summary: ""
+title: ナビナビ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2006-08-26T21:46:29+00:00
-lastmod: 2006-08-26T21:46:29+00:00
+categories: null
+date: 2006-08-26 21:46:29+00:00
+lastmod: 2006-08-26 21:46:29+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [おもちゃ, hdd, やつ, 録音, 子供, 状態, cd, 新しい, 魅力, 高速]
+recommendations: [/post/2006-07-28-xia-nanode/, /post/2017-05-25_teach-what-i-dont-know/,
+  /post/2009-05-12-konnitiha-iphone/]
 ---
 ついに、うちの車にもナビがつきました。  
 カロッツェリアのCYBER NAVIというやつなのですが、  

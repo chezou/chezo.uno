@@ -1,21 +1,20 @@
 ---
-title: "Googleフォームで作った申請フォームからSlackに通知をする方法"
-subtitle: ""
-summary: ""
+title: Googleフォームで作った申請フォームからSlackに通知をする方法
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-03-04T00:31:31+00:00
-lastmod: 2015-03-04T00:31:31+00:00
+categories: null
+date: 2015-03-04 00:31:31+00:00
+lastmod: 2015-03-04 00:31:31+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [通知, slack, url, '03', '04', フォーム, スクリプト, 設定, '2015', png]
+recommendations: [/post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
+  /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/,
+  /post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/]
 ---
 Slackは連絡先を知っている人が参加することが多いですが、ゲームのコミュニティ等相手の連絡先がわからない場合もあると思います。(IngressとかIngressとかIngressとか)
 

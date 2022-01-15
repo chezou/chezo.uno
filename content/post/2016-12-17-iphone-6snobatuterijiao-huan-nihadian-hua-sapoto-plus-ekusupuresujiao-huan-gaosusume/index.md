@@ -1,21 +1,19 @@
 ---
-title: "iPhone 6sのバッテリー交換には電話サポート+エクスプレス交換がオススメ"
-subtitle: ""
-summary: ""
+title: iPhone 6sのバッテリー交換には電話サポート+エクスプレス交換がオススメ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2016-12-17T19:05:14+00:00
-lastmod: 2016-12-17T19:05:14+00:00
+categories: null
+date: 2016-12-17 19:05:14+00:00
+lastmod: 2016-12-17 19:05:14+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [交換, 店舗, 電話, iphone, 在庫, やりとり, バッテリー, mm, inch, '2.5']
+recommendations: [/post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/,
+  /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/, /post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/]
 ---
 噂のiPhone 6sのバッテリー交換に当選しました。症状としては、突然電源断が起こるというもので、ちょいちょい突如落ちる現象には悩まされていました。
 

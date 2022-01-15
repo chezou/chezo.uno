@@ -1,21 +1,19 @@
 ---
-title: "Googleドライブやカレンダーの共有権限を管理するにはGoogle groupsが便利"
-subtitle: ""
-summary: ""
+title: Googleドライブやカレンダーの共有権限を管理するにはGoogle groupsが便利
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-05-21T00:37:16+00:00
-lastmod: 2015-05-21T00:37:16+00:00
+categories: null
+date: 2015-05-21 00:37:16+00:00
+lastmod: 2015-05-21 00:37:16+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [権限, グループ, google, カレンダー, メンバー, 公開, 共有, 編集, 管理, 付与]
+recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
+  /post/2005-10-03-su-suge-pin-desuyo/, /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/]
 ---
 ネットで調べていてもGoogle Appsの情報しか出ないので、備忘録として書きます。
 

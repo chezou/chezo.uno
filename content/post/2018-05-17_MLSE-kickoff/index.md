@@ -1,12 +1,12 @@
 ---
 title: 機械学習工学研究会キックオフシンポジウムに登壇しました
-description: >-
-  タイトル通り日本ソフトウェア科学会の研究会、機械学習工学研究会キックオフシンポジウムに登壇しました。@bonotake
-  さんから声をかけられた時はカジュアルに受けたのですが、蓋を開けてみれば大御所の方々ばかりで恐縮しながらの発表でした。
+description: タイトル通り日本ソフトウェア科学会の研究会、機械学習工学研究会キックオフシンポジウムに登壇しました。@bonotake さんから声をかけられた時はカジュアルに受けたのですが、蓋を開けてみれば大御所の方々ばかりで恐縮しながらの発表でした。
 date: '2018-05-17T14:03:57+09:00'
 categories: [conference]
-keywords: []
+keywords: [機械学習, システム, do, your, データ, you, 人工知能, ai, 予測, to]
 authors: [aki]
+recommendations: [/post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/,
+  /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
 ---
 
 タイトル通り日本ソフトウェア科学会の研究会、[機械学習工学研究会キックオフシンポジウム](https://sig-mlse.wixsite.com/kickoff)に登壇しました。[@bonotake](https://twitter.com/bonotake) さんから声をかけられた時はカジュアルに受けたのですが、蓋を開けてみれば大御所の方々ばかりで恐縮しながらの発表でした。

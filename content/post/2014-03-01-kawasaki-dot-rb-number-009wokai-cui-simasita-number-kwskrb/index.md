@@ -1,21 +1,19 @@
 ---
 title: 'kawasaki.rb #009を開催しました #kwskrb'
-date: 2014-03-01T12:03:51.000Z
+date: 2014-03-01 12:03:51+00:00
 subtitle: ''
 summary: ''
 draft: false
 featured: false
-authors:
-  - aki
-lastmod: 2014-03-01T12:03:51.000Z
+authors: [aki]
+lastmod: 2014-03-01 12:03:51+00:00
 tags: []
 projects: []
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-categories:
-  - ruby
+image: {caption: '', focal_point: '', preview_only: false}
+categories: [ruby]
+keywords: [pandas, hash, foo, ランキング, org, rb, クラス, jp, 紹介, 分析]
+recommendations: [/post/2013-06-29-kawasaki-dot-rb-number-001-di-1hui-mitoatupuwokai-cui-simasita-number-kwskrb/,
+  /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/, /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/]
 ---
 去る2/26(水)に[kawasaki.rb #009](http://kawasakirb.doorkeeper.jp/events/8859)を開催しました。
 

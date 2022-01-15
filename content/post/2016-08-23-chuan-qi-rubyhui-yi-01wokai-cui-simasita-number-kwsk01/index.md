@@ -1,21 +1,19 @@
 ---
-title: "川崎Ruby会議 01を開催しました #kwsk01"
-subtitle: ""
-summary: ""
+title: '川崎Ruby会議 01を開催しました #kwsk01'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2016-08-23T22:25:47+00:00
-lastmod: 2016-08-23T22:25:47+00:00
+categories: null
+date: 2016-08-23 22:25:47+00:00
+lastmod: 2016-08-23 22:25:47+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ruby, kawasaki, 発表, rb, 会議, 川崎, パーフェクト, rails, プログラミング, いつも]
+recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
+  /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/, /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/]
 ---
 さる 8/20 に川崎Ruby会議01を開催しました。
 

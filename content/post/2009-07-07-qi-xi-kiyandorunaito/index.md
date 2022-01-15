@@ -1,21 +1,19 @@
 ---
-title: "七夕キャンドルナイト"
-subtitle: ""
-summary: ""
+title: 七夕キャンドルナイト
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-07-07T12:07:25+00:00
-lastmod: 2009-07-07T12:07:25+00:00
+categories: null
+date: 2009-07-07 12:07:25+00:00
+lastmod: 2009-07-07 12:07:25+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [宣伝, bb, '48', 川崎, 今度, メッセージ, お店, 近く, '1600', '1200']
+recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-08-12-rui-yan-si/,
+  /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/]
 ---
 今年は晴れだか曇りだかわからない七夕でした。駅の近くでキャンドルナイトをやっていたので、行ってきました。  
 ハート形のキャンドルや、メッセージキャンドルなどがあり綺麗でした。にしても、多かったのは近隣のお店の宣伝やらコミュニティFMの宣伝やらも。川崎にもあるんだー。  

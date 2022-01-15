@@ -1,21 +1,19 @@
 ---
-title: "二度寝前"
-subtitle: ""
-summary: ""
+title: 二度寝前
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-06-03T21:45:20+00:00
-lastmod: 2008-06-03T21:45:20+00:00
+categories: null
+date: 2008-06-03 21:45:20+00:00
+lastmod: 2008-06-03 21:45:20+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [アレンジ, 満足, cd, スコア, 選択, singers, 選曲, 解釈, 目当て, アニメ]
+recommendations: [/post/2008-08-01-ono-lisa-best-2002-2006/, /post/2009-04-13-it-dont-mean-a-thing/,
+  /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/]
 ---
 9時前に寝てしまい、気が付けば11時。  
 でも、朝の4時かと思うくらい長い夢を見ていた気がする。苦しい夢だった。  

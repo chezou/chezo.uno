@@ -1,21 +1,19 @@
 ---
-title: "ポケモン新幹線"
-subtitle: ""
-summary: ""
+title: ポケモン新幹線
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-08-07T02:08:14+00:00
-lastmod: 2009-08-07T02:08:14+00:00
+categories: null
+date: 2009-08-07 02:08:14+00:00
+lastmod: 2009-08-07 02:08:14+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: ['1600', '1200', jpeg, df, '58', '555', '82', bd, '500', '45']
+recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2010-09-04-tun-zu-xing-tutekimasita/,
+  /post/2009-07-23-fujiyama/]
 ---
 たまたま乗った新幹線がポケモン新幹線でした。  
 車内でスイカを500円以上使うとオリジナルストラップがもらえるというのでゲットしたのですが、iPhoneにはストラップをつける穴がないことにもらってから気づきました。

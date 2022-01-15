@@ -1,21 +1,19 @@
 ---
-title: "DS de TV"
-subtitle: ""
-summary: ""
+title: DS de TV
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2006-05-19T21:46:40+00:00
-lastmod: 2006-05-19T21:46:40+00:00
+categories: null
+date: 2006-05-19 21:46:40+00:00
+lastmod: 2006-05-19 21:46:40+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [tv, すごい, 重さ, チューナー, 高校生, もん, ds, 昨日, サイズ, 時代]
+recommendations: [/post/2009-09-25-windows7woyu-yue-sita/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/,
+  /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/]
 ---
 [[N] ニンテンドーDS用「TVチューナー」](http://netafull.net/toy/013718.html)なるものがでてるようです。  
 しっかし、このサイズにこの重さはどうなんだろうなー。  

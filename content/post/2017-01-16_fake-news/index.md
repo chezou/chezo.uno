@@ -3,8 +3,10 @@ title: サイバー攻撃としてのフェイクニュース
 description: このポストは、最近もやもやっと思っていることを吐き出したポエムである。厳格なファクトチェックを経たものと期待しないで欲しい。
 date: '2017-01-16T14:55:32+09:00'
 categories: []
-keywords: []
+keywords: [facebook, 記事, ドイツ, 情報, アメリカ, 指摘, 画像, 目的, jp, 事実]
 authors: [aki]
+recommendations: [/post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/,
+  /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/, /post/2019-03-29_ngekkan-lambda-note-article/]
 ---
 
 _このポストは、最近もやもやっと思っていることを吐き出したポエムである。厳格なファクトチェックを経たものと期待しないで欲しい。_

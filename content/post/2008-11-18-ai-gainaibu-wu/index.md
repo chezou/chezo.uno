@@ -1,21 +1,19 @@
 ---
-title: "愛がいない部屋"
-subtitle: ""
-summary: ""
+title: 愛がいない部屋
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-11-18T21:48:25+00:00
-lastmod: 2008-11-18T21:48:25+00:00
+categories: null
+date: 2008-11-18 21:48:25+00:00
+lastmod: 2008-11-18 21:48:25+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [女性, 全て, 良かっ, 最初, 集英社文庫, 衣良, 石田, 集英社, 小説, おかげさま]
+recommendations: [/post/2008-06-15-gui-cai-xian-ru/, /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/,
+  /post/2008-08-24-sayonaraituka/]
 ---
 ![](https://ecx.images-amazon.com/images/I/41Tyfb9Ys6L._SL160_.jpg)[愛がいない部屋 (集英社文庫 い 47-5)](http://item.excite.co.jp/detail/ASIN_4087463044)  
 石田 衣良 / / 集英社  

@@ -1,21 +1,19 @@
 ---
-title: "RENT ブロードウェーツアーを見て来た"
-subtitle: ""
-summary: ""
+title: RENT ブロードウェーツアーを見て来た
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-08-30T08:08:13+00:00
-lastmod: 2009-08-30T08:08:13+00:00
+categories: null
+date: 2009-08-30 08:08:13+00:00
+lastmod: 2009-08-30 08:08:13+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: ['07', '1600', '1200', jpeg, ロック, バンド, 低い, 映画, 日程, 思い]
+recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/,
+  /post/2009-08-07-pokemonxin-gan-xian/]
 ---
 今更ながら、報告です。  
 行ける日程が急遽変更になったのですが、運良く譲っていただいていけることとなりました。  

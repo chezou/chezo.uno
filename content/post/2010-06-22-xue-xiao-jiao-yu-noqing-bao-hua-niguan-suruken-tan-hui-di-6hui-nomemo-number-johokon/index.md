@@ -1,21 +1,20 @@
 ---
-title: "「学校教育の情報化に関する懇談会」第6回のメモ #johokon"
-subtitle: ""
-summary: ""
+title: 「学校教育の情報化に関する懇談会」第6回のメモ #johokon
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2010-06-22T11:06:47+00:00
-lastmod: 2010-06-22T11:06:47+00:00
+categories: null
+date: 2010-06-22 11:06:47+00:00
+lastmod: 2010-06-22 11:06:47+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [教育, ict, 普及, 世紀, 教員, 支援, 仕組み, コンテンツ, '21', 活用]
+recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
+  /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
+  /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/]
 ---
 本日6/22に開催された[「学校教育の情報化に関する懇談会」第6回](http://www.mext.go.jp/b_menu/houdou/22/06/1294749.htm)の聞きながら書いたメモです。きっとそのうち[公式](http://www.mext.go.jp/a_menu/shotou/zyouhou/1292783.htm)に動画が上がると思いますので、きちんとしたものはそちらを参照ください。  
 それまでのつなぎとしての個人的なメモです。間違いや聞き漏らしもあるかもしれないので、ご了承ください。

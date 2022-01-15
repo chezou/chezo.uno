@@ -1,31 +1,19 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "2020年を振り返って"
-subtitle: ""
-summary: ""
+title: 2020年を振り返って
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
 categories: []
-date: 2020-12-31T22:06:15+09:00
-lastmod: 2020-12-31T22:06:15+09:00
+date: 2020-12-31 22:06:15+09:00
+lastmod: 2020-12-31 22:06:15+09:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [物語, mlse, 配信, 活動, 漫画, あと, オンライン, oss, マイク, 世界]
+recommendations: [/post/2020-11-10-mlse-conference/, /post/2020-07-11-MLSE-summer-workshop/,
+  /post/google-meetとyoutube-liveでオンラインミートアップの配信をした/]
 ---
 
 久しぶりの年末の振り返りです。振り返ってみると[2017年以来](https://chezo.uno/post/2017-12-31_2017-c4901627b12d/)みたいですね。

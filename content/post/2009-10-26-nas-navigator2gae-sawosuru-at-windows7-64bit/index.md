@@ -1,21 +1,19 @@
 ---
-title: "NAS Navigator2が悪さをする@Windows7 64bit"
-subtitle: ""
-summary: ""
+title: NAS Navigator2が悪さをする@Windows7 64bit
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-10-26T21:56:21+00:00
-lastmod: 2009-10-26T21:56:21+00:00
+categories: null
+date: 2009-10-26 21:56:21+00:00
+lastmod: 2009-10-26 21:56:21+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [nas, 追記, ダメ, 管理者, buffalo, 解決方法, time, アイコン, だめ, ネットワーク]
+recommendations: [/post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/, /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/,
+  /post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/]
 ---
 091111追記：解決方法は[こちら](http://wp.me/pvR30-d2)。
 

@@ -1,21 +1,19 @@
 ---
-title: "RNNLMベースの形態素解析器 JUMAN++ をhomebrewでインストールできるようにした"
-subtitle: ""
-summary: ""
+title: RNNLMベースの形態素解析器 JUMAN++ をhomebrewでインストールできるようにした
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2016-10-15T16:20:47+00:00
-lastmod: 2016-10-15T16:20:47+00:00
+categories: null
+date: 2016-10-15 16:20:47+00:00
+lastmod: 2016-10-15 16:20:47+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [homebrew, core, issue, mecab, コーパス, formula, 部分, 辞書, 公開, ビルド]
+recommendations: [/post/2018-12-01_Windows-64bit-MeCab--KyTea-------2018-b283b6c7b33c/,
+  /post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/, /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/]
 ---
 京大の黒橋・河原研から最近出た[JUMAN++](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN++)をmacOSのhomebrewでinstallできるようにしました。
 

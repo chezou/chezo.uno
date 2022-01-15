@@ -1,21 +1,20 @@
 ---
-title: "DropboxがHTML公開を簡単にする- @acappella_event関連まとめサイト作成してみた"
-subtitle: ""
-summary: ""
+title: DropboxがHTML公開を簡単にする- @acappella_event関連まとめサイト作成してみた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-03-03T22:00:49+00:00
-lastmod: 2011-03-03T22:00:49+00:00
+categories: null
+date: 2011-03-03 22:00:49+00:00
+lastmod: 2011-03-03 22:00:49+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [サイト, カレンダー, マシン, twitter, 移行, windows, 情報, script, 広告, 付属]
+recommendations: [/post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
+  /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
+  /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
 ---
 ## 何を作ったか？
 @acappella\_eventがつぶやいているアカペラ/合唱カレンダーを見やすくはっつけるサイトがほしかったんです。  

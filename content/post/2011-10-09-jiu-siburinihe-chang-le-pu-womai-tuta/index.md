@@ -1,21 +1,19 @@
 ---
-title: "久しぶりに合唱楽譜を買った"
-subtitle: ""
-summary: ""
+title: 久しぶりに合唱楽譜を買った
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-10-09T22:02:40+00:00
-lastmod: 2011-10-09T22:02:40+00:00
+categories: null
+date: 2011-10-09 22:02:40+00:00
+lastmod: 2011-10-09 22:02:40+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [購入, 楽譜, sings, dobrogosz, steve, rajaton, 作曲, lord, '2008', 編曲]
+recommendations: [/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
+  /post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
 ---
 最後に購入したのは、[Rajatonの楽譜を個人輸入した時](http://chezou.wordpress.com/2011/07/02/rajaton%e3%81%ae%e6%a5%bd%e8%ad%9c%e3%82%92%e6%97%a5%e6%9c%ac%e3%81%8b%e3%82%89%e8%b2%b7%e3%81%86%e6%96%b9%e6%b3%95-sulasol-or-%e3%81%82%e3%81%8b%e3%81%ba%e3%82%89%e6%9d%91%e3%81%aecd%e5%b1%8b/ "Rajatonの楽譜を日本から買う方法 – Sulasol or あかぺら村のCD屋さん?")だなぁと思いながら、ふっとpanamusicaから新刊案内が来たので久しぶりに購入することにしました。
 

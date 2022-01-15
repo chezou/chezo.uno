@@ -1,21 +1,20 @@
 ---
-title: "Machine Learning Casual Talks #4 を開催しました #MLCT"
-subtitle: ""
-summary: ""
+title: 'Machine Learning Casual Talks #4 を開催しました #MLCT'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-12-21T13:24:03+00:00
-lastmod: 2015-12-21T13:24:03+00:00
+categories: null
+date: 2015-12-21 13:24:03+00:00
+lastmod: 2015-12-21 13:24:03+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [mlct, チーム, casual, talks, 進め方, プロトタイプ, プロジェクト, .com, データ分析, 機械学習]
+recommendations: [/post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/,
+  /post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/,
+  /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/]
 ---
 まさかの一週間内に自分の主催する勉強会が3回重なるデスロードを走ってきたchezouです。\*1
 

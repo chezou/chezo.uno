@@ -1,14 +1,16 @@
 ---
 title: すごーい！！
-date: 2005-03-03T21:47:48.000Z
+date: 2005-03-03 21:47:48+00:00
 subtitle: ''
 summary: ''
 draft: false
 featured: false
-authors:
-  - aki
+authors: [aki]
 tags: []
 projects: []
+keywords: [ca, 携帯, ポイント, 友達, '3000', そもそも, 写真, 途中, 個人的, ちなみ]
+recommendations: [/post/2009-09-24-motion-blue-yokohama/, /post/2009-11-14-iphonekesuwomai-ihuan-eta/,
+  /post/2010-01-14-hueraranoziyosukan-vuokaruansanburu-kaperading-qi-gong-yan/]
 ---
 [これ](http://VGA640.exblog.jp/1640846)を見て、携帯のカメラのすごさを思い知った。しょせんは付属物とかいってなめてちゃいかんのね。\
 ちなみに、この写真はA5406CAだそうです。\

@@ -23,6 +23,6 @@ def tokenize(text):
 
 tfidf_opts = {"tokenizer": tokenize, "stop_words": STOP_WORDS, "max_df": 0.95, "min_df": 4}
 
-post_handler = StaticSitePostsHandler(r"content/post")
+post_handler = StaticSitePostsHandler(r"content/post", ignore_files=['_index.md'])
 post_handler.register_processor(Recommender(permalink_base="/post", **tfidf_opts))
 post_handler.execute()

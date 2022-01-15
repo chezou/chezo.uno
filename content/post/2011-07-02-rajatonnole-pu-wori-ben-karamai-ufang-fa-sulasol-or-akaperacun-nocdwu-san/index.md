@@ -1,21 +1,19 @@
 ---
-title: "Rajatonの楽譜を日本から買う方法 - Sulasol or あかぺら村のCD屋さん?"
-subtitle: ""
-summary: ""
+title: Rajatonの楽譜を日本から買う方法 - Sulasol or あかぺら村のCD屋さん?
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-07-02T22:01:50+00:00
-lastmod: 2011-07-02T22:01:50+00:00
+categories: null
+date: 2011-07-02 22:01:50+00:00
+lastmod: 2011-07-02 22:01:50+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [楽譜, rajaton, メール, 購入, cd, 日本, 確認, 依頼, フォーム, 出版]
+recommendations: [/post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/,
+  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
 ---
 当ブログでも何度か紹介しているフィンランドのヴォーカルアンサンブル Rajatonの楽譜を購入しました。購入したのは、Nouse lauluni等の曲です。この曲は良い曲ですよ！詩は一部カレワラからとられているようです。
 

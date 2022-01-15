@@ -1,21 +1,19 @@
 ---
-title: "想像もしなかった場外戦〜iPhone 5とAndroidの対決がこんなところまで！！ #TEAMiPhone と #TeamDROID の戦い"
-subtitle: ""
-summary: ""
+title: '想像もしなかった場外戦〜iPhone 5とAndroidの対決がこんなところまで！！ #TEAMiPhone と #TeamDROID の戦い'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2012-10-02T22:03:48+00:00
-lastmod: 2012-10-02T22:03:48+00:00
+categories: null
+date: 2012-10-02 22:03:48+00:00
+lastmod: 2012-10-02 22:03:48+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [iphone, version, 'no', it, アカペラ, 対決, the, 格好, steve, 交換]
+recommendations: [/post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/,
+  /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/, /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/]
 ---
 一度は聞いたことがあるiPhoneの着信音のあの音から、こんな曲ができるなんて！
 

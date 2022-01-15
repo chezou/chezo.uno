@@ -1,21 +1,19 @@
 ---
-title: "2016年買ってよかったもの 10選"
-subtitle: ""
-summary: ""
+title: 2016年買ってよかったもの 10選
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2016-12-30T23:27:13+00:00
-lastmod: 2016-12-30T23:27:13+00:00
+categories: null
+date: 2016-12-30 23:27:13+00:00
+lastmod: 2016-12-30 23:27:13+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [bluetooth, メーカー, anker, 出版社, 商品, メディア, ワイヤレス, ブラック, ブログ, hdmi]
+recommendations: [/post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/, /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
+  /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/]
 ---
 ハード中心ですが、2016年に買ってよかったものを書いていきます。10選と言いつつ、枝分かれをしているものがありますがご愛嬌ということで。転職をしたこともあり、必要となったものが大きく変わったのですが、今回は自分の生活を楽にしてくれたものを買えたなという気持ちです。
 
