@@ -1,12 +1,14 @@
 ---
 title: How to test a new Docker image for digdag workflow on CircleCI?
-description: >-
-  Testing workflow runnability would be important when we build a complex
+description: Testing workflow runnability would be important when we build a complex
   workflow. digdag is a workflow engine which syntax is simple and…
 date: '2019-10-06T05:17:30+09:00'
 categories: []
-keywords: [Docker, workflow, CircleCI]
+keywords: [digdag, docker, circleci, executor, workflow, run, image, volume, tab,
+  signed]
 authors: [aki]
+recommendations: [/blog/py-operator-development-guide-for-python-users/, /blog/2019-11-26_How-to-release-Python-package-from-GitHub-Actions-d5a1d8edba6e/,
+  /blog/2017-08-02_How-to-run-Cloudera-Director-on-your-macOS-Windows-10-710f82aa1d63/]
 ---
 
 ![Photo by [Campaign Creators](https://unsplash.com/@campaign_creators?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](./0__Sj4niOaDd__W4bydD.jpg)

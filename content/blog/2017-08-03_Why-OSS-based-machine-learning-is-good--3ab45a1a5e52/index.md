@@ -3,8 +3,11 @@ title: Why OSS based machine learning is good?
 description: This article is translation of Japanese version.
 date: '2017-08-03T12:56:59+09:00'
 categories: [machine_learning, OSS]
-keywords: []
+keywords: [learning, machine, paper, papers, deep, arxiv, algorithms, implementation,
+  open, algorithm]
 authors: [aki]
+recommendations: [/blog/2019-06-04_The-first-conference-of-Operational-Machine-Learning--OpML--19-308baad36108/,
+  /blog/2019-04-24_Ruby-for-Data-Science-and-Machine-Learning-9f03e99125e0/, /blog/2017-08-30_Python-basics--package-management-462918458f96/]
 ---
 
 

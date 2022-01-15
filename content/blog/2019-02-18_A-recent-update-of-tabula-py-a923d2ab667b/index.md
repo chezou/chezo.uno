@@ -1,11 +1,13 @@
 ---
 title: A recent update of tabula-py
-description: >-
-  This article is a repost of Patreon article published last December. I’m
-  planning to bump up next version of tabula-py within few weeks.
+description: This article is a repost of Patreon article published last December.
+  I’m planning to bump up next version of tabula-py within few weeks.
 date: '2019-02-18T01:26:00+09:00'
 categories: [OSS]
-keywords: [tabula-py]
+keywords: [tabula, app, py, template, rawson, patreon, joshua, harris, unsplash, photo]
+recommendations: [/blog/2017-01-09_tabula-py--Extract-table-from-PDF-into-Python-DataFrame-6c7acfa5f302/,
+  /blog/2017-05-28_tabula-py-now-able-to-extract-remote-PDF-and-multiple-tables-at-once-6108e24ac07c/,
+  /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/]
 ---
 
 ![Photo by [Joshua Rawson-Harris](https://unsplash.com/@joshrh19?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](./0__9HRqzqcWldOqKJCK.jpg)

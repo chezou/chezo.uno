@@ -1,12 +1,15 @@
 ---
 title: How to run Cloudera Director on your macOS/Windows 10
-description: >-
-  Cloudera Director is a provisioning tool for CDH and Cloudera Enterprise. We
-  can launch cluster with Web GUI or CLI tool. Using Cloudera…
+description: Cloudera Director is a provisioning tool for CDH and Cloudera Enterprise.
+  We can launch cluster with Web GUI or CLI tool. Using Cloudera…
 date: '2017-08-02T12:12:31+09:00'
 categories: []
-keywords: []
+keywords: [cloudera, director, server, windows, launch, install, homebrew, '10', docker,
+  stop]
 authors: [aki]
+recommendations: [/blog/2017-03-26_How-to-connect-secure-Impala-cluster-from-RStudio-on-macOS-with-implyr-213c6536e4c7/,
+  /blog/2017-07-24_Simple-way-to-distribute-your-private-Python-packages-within-your-organization-fb7af5dbd4c9/,
+  /blog/2017-08-30_Python-basics--package-management-462918458f96/]
 ---
 
 

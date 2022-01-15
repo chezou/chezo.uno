@@ -1,12 +1,13 @@
 ---
 title: 'tabula-py: Extract table from PDF into Python DataFrame'
-description: >-
-  (Note: Oct 7th, 2019)As of Oct. 2019, I launched a documentation site and
-  Google Colab notebook for tabula-py. The FAQ would be good place…
+description: '(Note: Oct 7th, 2019)As of Oct. 2019, I launched a documentation site
+  and Google Colab notebook for tabula-py. The FAQ would be good place…'
 date: '2017-01-09T14:09:08+09:00'
 categories: [OSS, tabula]
-keywords: [tabula-py]
+keywords: [tabula, py, extract, json, java, pdf, tables, table, dataframe, png]
 authors: [aki]
+recommendations: [/blog/2017-05-28_tabula-py-now-able-to-extract-remote-PDF-and-multiple-tables-at-once-6108e24ac07c/,
+  /blog/2019-02-18_A-recent-update-of-tabula-py-a923d2ab667b/, /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/]
 ---
 
 _(Note: Oct 7th, 2019)  
