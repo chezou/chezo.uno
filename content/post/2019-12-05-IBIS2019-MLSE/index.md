@@ -1,31 +1,19 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "IBIS 2019の機械学習工学企画セッションに登壇しました"
-subtitle: ""
-summary: "ML in productionの課題について話しました"
+title: IBIS 2019の機械学習工学企画セッションに登壇しました
+subtitle: ''
+summary: ML in productionの課題について話しました
 authors: [aki]
 tags: [mlops]
-categories: ["Machine Learning", MLOps, conference]
-date: 2019-12-05T00:24:00+09:00
-lastmod: 2019-12-05T00:24:00+09:00
+categories: [Machine Learning, MLOps, conference]
+date: 2019-12-05 00:24:00+09:00
+lastmod: 2019-12-05 00:24:00+09:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [工学, 先生, 表現, shima, 機械学習, shift, スライド, 学習, effect, '2019']
+recommendations: [/post/2018-05-17_MLSE-kickoff/, /post/2020-07-11-MLSE-summer-workshop/,
+  /post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/]
 ---
 
 

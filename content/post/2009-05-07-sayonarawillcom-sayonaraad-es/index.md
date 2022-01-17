@@ -1,21 +1,19 @@
 ---
-title: "さよならWillcom、さよならAd[es]"
-subtitle: ""
-summary: ""
+title: さよならWillcom、さよならAd[es]
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-05-07T21:53:25+00:00
-lastmod: 2009-05-07T21:53:25+00:00
+categories: null
+date: 2009-05-07 21:53:25+00:00
+lastmod: 2009-05-07 21:53:25+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [アップデート, 結論, 魅力, es, 感謝, ad, iphone, 総合, 決め手, 不満]
+recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/,
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/]
 ---
 GW中ずっと悩んでいた案件に解を出しました。友人たちには感謝感謝。
 

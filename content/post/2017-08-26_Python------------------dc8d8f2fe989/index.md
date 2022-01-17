@@ -1,12 +1,12 @@
 ---
 title: Pythonの環境構築を自分なりに整理してみる
-description: >-
-  先日、 kawasaki.rb の懇親会で「AWS
-  LambdaのためにPythonはじめたいんです」とか「機械学習系の本を読み始めたので、そこに書いてあったcondaではじめました」とかいう話を聞きました。
+description: 先日、 kawasaki.rb の懇親会で「AWS LambdaのためにPythonはじめたいんです」とか「機械学習系の本を読み始めたので、そこに書いてあったcondaではじめました」とかいう話を聞きました。
 date: '2017-08-26T13:58:07+09:00'
 categories: [python]
-keywords: []
+keywords: [python, conda, パッケージ, venv, anaconda, 環境, virtualenv, ruby, os, windows]
 authors: [aki]
+recommendations: [/post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
+  /post/2018-12-01_Windows-64bit-MeCab--KyTea-------2018-b283b6c7b33c/, /post/2015-06-06-pip-install-kyteadekiruyouninarimasita/]
 ---
 
 

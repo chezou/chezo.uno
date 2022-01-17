@@ -1,31 +1,19 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "メッシュWiFiが安定しないので有線LANを張り巡らせたんだが"
-subtitle: ""
-summary: ""
+title: メッシュWiFiが安定しないので有線LANを張り巡らせたんだが
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
 categories: [tech]
-date: 2020-12-11T00:00:00+09:00
-lastmod: 2020-12-11T00:00:00+09:00
+date: 2020-12-11 00:00:00+09:00
+lastmod: 2020-12-11 00:00:00+09:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [有線, lan, 工事, 安定, バック, ホール, wifi, メッシュ, ef, ソフト]
+recommendations: [/post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/,
+  /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/, /post/2009-10-23-windows7-64bitwodg33tlmninantokadao-ru-sita/]
 ---
 
 このお話は、[pyspaアドベントカレンダー](https://adventar.org/calendars/5310)の11日目です。昨日はwozozoでした。多分彼はこの記事をチラ見して「長過ぎる。地雷乙」と言うでしょう。

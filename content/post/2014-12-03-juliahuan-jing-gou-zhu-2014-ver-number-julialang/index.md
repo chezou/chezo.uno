@@ -1,21 +1,20 @@
 ---
-title: "Julia環境構築 2014 ver. #julialang"
-subtitle: ""
-summary: ""
+title: 'Julia環境構築 2014 ver. #julialang'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2014-12-03T00:05:00+00:00
-lastmod: 2014-12-03T00:05:00+00:00
+categories: null
+date: 2014-12-03 00:05:00+00:00
+lastmod: 2014-12-03 00:05:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [julia, ijulia, anaconda, ipython, lighttable, repl, apt, install, '2014',
+  get]
+recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/,
+  /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/]
 ---
 [Julia Advent Calendar 2014](http://qiita.com/advent-calendar/2014/julialang) 3日目の記事です。
 

@@ -1,21 +1,19 @@
 ---
-title: "Twitterの合唱大喜利は楽しい"
-subtitle: ""
-summary: ""
+title: Twitterの合唱大喜利は楽しい
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-03-02T22:00:43+00:00
-lastmod: 2011-03-02T22:00:43+00:00
+categories: null
+date: 2011-03-02 22:00:43+00:00
+lastmod: 2011-03-02 22:00:43+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [合唱, ネタ, twitter, 面白い, chorus, 盛り上がり, 発声, 広がり, 自動的, de]
+recommendations: [/post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
+  /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/]
 ---
 Twitterでしばしば見かけるのですが、誰からともなく大喜利が始まることがあります。たとえば、何かの「あるあるネタ」なんかの広がりも面白いです。
 

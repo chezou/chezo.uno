@@ -1,21 +1,19 @@
 ---
-title: "これでいいのだ"
-subtitle: ""
-summary: ""
+title: これでいいのだ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-11-06T21:48:31+00:00
-lastmod: 2008-11-06T21:48:31+00:00
+categories: null
+date: 2008-11-06 21:48:31+00:00
+lastmod: 2008-11-06 21:48:31+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [昭和, 戦時, 戦後, 春秋, 文藝, 文春文庫, 子どもたち, ばあ, 子ども, '50']
+recommendations: [/post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
+  /post/2008-08-26-akihabara-at-deep/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51I31EYUk6L._SL160_.jpg)[これでいいのだ―赤塚不二夫自叙伝 (文春文庫 あ 50-1)](http://item.excite.co.jp/detail/ASIN_4167753278)  
 赤塚 不二夫 / / 文藝春秋  

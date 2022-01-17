@@ -1,21 +1,19 @@
 ---
-title: "SINGS 2008 with Steve Dobrogosz"
-subtitle: ""
-summary: ""
+title: SINGS 2008 with Steve Dobrogosz
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-10-28T21:51:21+00:00
-lastmod: 2008-10-28T21:51:21+00:00
+categories: null
+date: 2008-10-28 21:51:21+00:00
+lastmod: 2008-10-28 21:51:21+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ピアノ, dobrogosz, 明るく, 言葉, sings, 演奏会, 会場, 演奏, 素晴らしかっ, 場面]
+recommendations: [/post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/,
+  /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
 ---
 少し遅くなりましたが、[SINGS 2008 with Steve Dobrogosz](http://music.geocities.jp/ensemble_sings/concert.html)に行ってきました。  
 結論から言うと、とても素晴らしかったです。すべてのステージが、Dobrogoszを愛してやまないんだということがひしひしと伝わってきました。たまに、(女声に)プロが混じっているんじゃないかという場面もあったのですが、どちらかというとそれは曲に浸りすぎてしまいたがが外れたという感じでした。全体的に明るく軽やかな声で日本独特の重さ、しつこさといった要素が徹底的に排除されていました。だからこそ、Dobrogoszの曲にマッチしていたんだとも思いました。  

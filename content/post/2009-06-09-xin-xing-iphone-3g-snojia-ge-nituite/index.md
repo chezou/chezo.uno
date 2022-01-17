@@ -1,21 +1,19 @@
 ---
-title: "新型iPhone 3G Sの価格について"
-subtitle: ""
-summary: ""
+title: 新型iPhone 3G Sの価格について
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-06-09T21:54:29+00:00
-lastmod: 2009-06-09T21:54:29+00:00
+categories: null
+date: 2009-06-09 21:54:29+00:00
+lastmod: 2009-06-09 21:54:29+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [gb, １６, 価格, office, スパボ, professional, '2007', ちなみ, 機種変, 手っ取り]
+recommendations: [/post/2009-05-04-ad-es-wojie-yue-surutameni/, /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/,
+  /post/2007-05-10-usbdewen-kerufm-slash-amrazio/]
 ---
 [iPhone 3G Sの価格について | SoftBank](http://mb.softbank.jp/mb/iphone/iphone_3g_s/).を見てみるとやばい、やばすぎる。  
 １６GBで11520円、３２GBで23040円って、、、あれ、１６GBをスパボ一括で29800円で買ったのに涙が出てきそうだ……。

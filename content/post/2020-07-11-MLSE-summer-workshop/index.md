@@ -1,24 +1,18 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "機械学習工学研究会（MLSE）の夏合宿 2020で本番適用のためのインフラと運用に関する討論会を開催しました"
-subtitle: ""
-summary: ""
+title: 機械学習工学研究会（MLSE）の夏合宿 2020で本番適用のためのインフラと運用に関する討論会を開催しました
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: [mlops]
-categories: ["Machine Learning", MLOps, conference]
-date: 2020-07-11T18:00:00+09:00
-lastmod: 2020-07-11T18:00:00+09:00
+categories: [Machine Learning, MLOps, conference]
+date: 2020-07-11 18:00:00+09:00
+lastmod: 2020-07-11 18:00:00+09:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
+keywords: [モデル, リネージ, 討論会, 議論, oss, 夏合宿, wg, 学習, mlse, 機械学習]
+recommendations: [/post/2020-11-10-mlse-conference/, /post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/,
+  /post/2020-12-31-2020-review/]
 ---
 
 [@masaru_dobashi](https://twitter.com/masaru_dobashi)さんとMLSEの夏合宿で、本番適用のためのインフラと運用WGの討論会を開催しました。

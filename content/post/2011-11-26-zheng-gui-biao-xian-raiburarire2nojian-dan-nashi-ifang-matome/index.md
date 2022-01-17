@@ -1,21 +1,20 @@
 ---
-title: "正規表現ライブラリre2の簡単な使い方まとめ"
-subtitle: ""
-summary: ""
+title: 正規表現ライブラリre2の簡単な使い方まとめ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-11-26T22:02:56+00:00
-lastmod: 2011-11-26T22:02:56+00:00
+categories: null
+date: 2011-11-26 22:02:56+00:00
+lastmod: 2011-11-26 22:02:56+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [re, endl, 文字列, cout, マッチ, test, string, input, replace, str]
+recommendations: [/post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita/,
+  /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
+  /post/2012-02-12-pficommonnopfi-text-jsondesiriaraizu-slash-desiriaraizusitemita/]
 ---
 先日、[インストールして試してみた](http://chezou.wordpress.com/2011/11/25/google%e8%a3%bd%e3%81%ae%e6%ad%a3%e8%a6%8f%e8%a1%a8%e7%8f%be%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3re2%e3%82%92%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%a7%e8%a9%a6%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f/ "Google製の正規表現エンジンRe2を日本語で試してみた")Google製正規表現エンジン[re2](http://code.google.com/p/re2/)。
 

@@ -1,21 +1,19 @@
 ---
-title: "The Real Group - Real Christmas, Commonly unique"
-subtitle: ""
-summary: ""
+title: The Real Group - Real Christmas, Commonly unique
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-07-07T21:44:53+00:00
-lastmod: 2008-07-07T21:44:53+00:00
+categories: null
+date: 2008-07-07 21:44:53+00:00
+lastmod: 2008-07-07 21:44:53+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [オブ, ライフ, リアル, グループ, スコア, 選択, talking, ハーモニー, song, christmas]
+recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2009-03-03-sok-bao-masa-festa/,
+  /post/2009-01-18-try-tonegamy-spacetoyou-tubeni/]
 ---
 おいおい、書いていたら消えてたよ。  
 というわけで、書き直しです。  

@@ -1,21 +1,19 @@
 ---
-title: "2012年の抱負"
-subtitle: ""
-summary: ""
+title: 2012年の抱負
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2012-01-01T12:01:58+00:00
-lastmod: 2012-01-01T12:01:58+00:00
+categories: null
+date: 2012-01-01 12:01:58+00:00
+lastmod: 2012-01-01 12:01:58+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [定着, 公開, スキル, 生活, 昨年, 子ども, mykytea, 解析, rajaton, アクセス]
+recommendations: [/post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
+  /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/]
 ---
 あけましておめでとうございます。
 

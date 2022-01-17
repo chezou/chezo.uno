@@ -1,21 +1,19 @@
 ---
-title: "RAJATON BEST of 1999-2009がうちにきた"
-subtitle: ""
-summary: ""
+title: RAJATON BEST of 1999-2009がうちにきた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-11-10T21:56:43+00:00
-lastmod: 2009-11-10T21:56:43+00:00
+categories: null
+date: 2009-11-10 21:56:43+00:00
+lastmod: 2009-11-10 21:56:43+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [dvd, アルバム, cd, rajaton, 前者, aee, butterfly, '71', '35', 映像]
+recommendations: [/post/2008-09-28-bznoultra-treasuregayabasugiru/, /post/2009-11-26-the-real-album/,
+  /post/2009-03-09-masafestanirajatonga/]
 ---
 [![](p_1466_1100_a35c0282-e71c-40aa-ad01-4952aee2124c.jpeg)](p_1466_1100_a35c0282-e71c-40aa-ad01-4952aee2124c.jpeg)
 

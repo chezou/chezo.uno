@@ -1,21 +1,19 @@
 ---
-title: "風が強く吹いている"
-subtitle: ""
-summary: ""
+title: 風が強く吹いている
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-09-06T21:49:29+00:00
-lastmod: 2008-09-06T21:49:29+00:00
+categories: null
+date: 2008-09-06 21:49:29+00:00
+lastmod: 2008-09-06 21:49:29+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [スポーツ, ゴール, 新潮社, 共感, 伏線, 物語, キャラクター, 運動, 通勤, トレーニング]
+recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
+  /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51TKQG1885L._SL160_.jpg)[風が強く吹いている](http://item.excite.co.jp/detail/ASIN_4104541044)  
 三浦 しをん / / 新潮社  

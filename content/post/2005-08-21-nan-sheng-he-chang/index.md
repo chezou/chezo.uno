@@ -1,21 +1,19 @@
 ---
-title: "男声合唱"
-subtitle: ""
-summary: ""
+title: 男声合唱
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2005-08-21T21:45:46+00:00
-lastmod: 2005-08-21T21:45:46+00:00
+categories: null
+date: 2005-08-21 21:45:46+00:00
+lastmod: 2005-08-21 21:45:46+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [男声, 男声合唱, 松下, 木下, 美しい, 信長, 無性, ポップ, 準備, 一緒]
+recommendations: [/post/2011-12-25-yi-teng-hui-si-ming-dao-qi-tai-liang-shi-noxuan-nda-xue-sheng-he-chang-notameno-sutiyudentosongubutuku-gare-i/,
+  /post/2005-09-18-gao-tian-san-lang-xing-tutekimasita/, /post/2009-11-26-the-real-album/]
 ---
 最近、無性に男声合唱がやりたくなってきました。  
 新年会とかに向けて今から準備すれば曲いっぱいやれないかなぁ……。  

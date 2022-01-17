@@ -1,21 +1,19 @@
 ---
-title: "のだめカンタービレ18〜20"
-subtitle: ""
-summary: ""
+title: のだめカンタービレ18〜20
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-07-06T01:07:01+00:00
-lastmod: 2008-07-06T01:07:01+00:00
+categories: null
+date: 2008-07-06 01:07:01+00:00
+lastmod: 2008-07-06 01:07:01+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [講談社コミックス, 知子, 二ノ宮, だめ, 講談社, キス, isbn, 周り, スコア, 選択]
+recommendations: [/post/2008-08-11-nodame21juan/, /post/2008-10-10-tiisanatiisanawang-yang/,
+  /post/2010-01-01-12yue-nidu-ndaben/]
 ---
 ![](https://ecx.images-amazon.com/images/I/41wmOBGeEJL._SL160_.jpg)[のだめカンタービレ (18)(講談社コミックスキス)](http://item.excite.co.jp/detail/ASIN_4063406482)  
 二ノ宮 知子 / / 講談社  

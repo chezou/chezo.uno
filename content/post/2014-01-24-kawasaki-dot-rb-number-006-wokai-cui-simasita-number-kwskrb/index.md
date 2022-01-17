@@ -1,21 +1,20 @@
 ---
 title: 'kawasaki.rb #006 を開催しました #kwskrb'
-date: 2014-01-24T22:05:48.000Z
+date: 2014-01-24 22:05:48+00:00
 subtitle: ''
 summary: ''
 draft: false
 featured: false
-authors:
-  - aki
-lastmod: 2014-01-24T22:05:48.000Z
+authors: [aki]
+lastmod: 2014-01-24 22:05:48+00:00
 tags: []
 projects: []
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-categories:
-  - ruby
+image: {caption: '', focal_point: '', preview_only: false}
+categories: [ruby]
+keywords: [プロジェクター, 科学, 計算, ライブラリ, 機械学習, 現地, 他言, テスト自動化, python, ruby]
+recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/,
+  /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
+  /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/]
 ---
 去る2013/11/27にkawasaki.rbの第6回を開催しました。  
 togetterは[こちら](http://togetter.com/li/595791)

@@ -1,21 +1,19 @@
 ---
-title: "Amazonで買ったThinkpad トラックポイント キーボードを修理した"
-subtitle: ""
-summary: ""
+title: Amazonで買ったThinkpad トラックポイント キーボードを修理した
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2017-04-19T18:58:17+00:00
-lastmod: 2017-04-19T18:58:17+00:00
+categories: null
+date: 2017-04-19 18:58:17+00:00
+lastmod: 2017-04-19 18:58:17+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [キーボード, thinkpad, トラック, ポイント, センター, lenovo, amazon, 修理, 交換, 電話]
+recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
+  /post/2017-01-19-macnojispei-lie-nokibodowokarabinershi-wazuniuspei-lie-nisuru/]
 ---
 みんな大好きトラックポイントキーボードですが、僕も昔使っていて最近miyagawaさんが使っていると知って再び使うようになりました。
 

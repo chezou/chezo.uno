@@ -1,21 +1,20 @@
 ---
-title: "シンポジウム「教育の未来を拓く電子化教材」(UT-eTEXT)メモ"
-subtitle: ""
-summary: ""
+title: シンポジウム「教育の未来を拓く電子化教材」(UT-eTEXT)メモ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2010-07-20T21:59:15+00:00
-lastmod: 2010-07-20T21:59:15+00:00
+categories: null
+date: 2010-07-20 21:59:15+00:00
+lastmod: 2010-07-20 21:59:15+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [生命科学, 講義, 教科書, 教育, コンテンツ, 学術, 著作権, 教員, 電子化, ut]
+recommendations: [/post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/,
+  /post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/,
+  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
 ---
 7/16(金)に東大で開催されたシンポジウム「[教育の未来を拓く電子化教材](http://www.gfk.c.u-tokyo.ac.jp/sympo2010.html)」に行ってきました。  
 個人的にはその前の週の[教育ITソリューションEXPO](http://www.edix-expo.jp/)よりはビジョンベースの話が聞けて楽しかったです(EXPOはシーズベースというか既存製品の皮を教育にしただけの感が強くて……)。が、まだ現場とのギャップは大きいような気がします。  

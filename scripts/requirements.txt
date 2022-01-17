@@ -1,0 +1,4 @@
+prelims
+spacy
+SudachiDict-full
+SudachiPy

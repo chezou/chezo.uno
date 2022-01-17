@@ -1,21 +1,19 @@
 ---
-title: "EnsembleNow 第39回定期演奏会＠セシオン杉並"
-subtitle: ""
-summary: ""
+title: EnsembleNow 第39回定期演奏会＠セシオン杉並
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-07-19T21:52:20+00:00
-lastmod: 2008-07-19T21:52:20+00:00
+categories: null
+date: 2008-07-19 21:52:20+00:00
+lastmod: 2008-07-19 21:52:20+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [busto, 団体, 三善, アバウト, scarborough, mäntyjärvi, feel, david, cayabyab, 宗教]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2005-07-17-urayamasika/,
+  /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
 ---
 Bustoの作品を聞きたいと思い行ってきました。  
 といっても、ぼけーっとケーキを食べていたら少し遅れてしまいました(^\_^;  

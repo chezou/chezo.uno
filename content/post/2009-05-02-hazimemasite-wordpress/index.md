@@ -1,21 +1,19 @@
 ---
-title: "はじめまして、WordPress"
-subtitle: ""
-summary: ""
+title: はじめまして、WordPress
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-05-02T21:48:14+00:00
-lastmod: 2009-05-02T21:48:14+00:00
+categories: null
+date: 2009-05-02 21:48:14+00:00
+lastmod: 2009-05-02 21:48:14+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [引っ越し, excite, 移行, 関係, 不満, 技術的, ヘッドホン, 満足, 全部, 面倒]
+recommendations: [/post/2009-05-16-du-shu-metahazimemasita/, /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/,
+  /post/2008-09-14-hetudohonwu-se-sitahi/]
 ---
 exciteがちょっと不満になったので、こちらにお引っ越しです。本当はデータも全部お引っ越ししようかと思って、色々試したのですが技術的に可能なことが分かったところで満足して面倒になったので、やめました。
 

@@ -1,21 +1,19 @@
 ---
-title: "クピドの悪戯 虹玉、おいしいコーヒーの入れ方 夢のあとさき"
-subtitle: ""
-summary: ""
+title: クピドの悪戯 虹玉、おいしいコーヒーの入れ方 夢のあとさき
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-07-15T21:50:23+00:00
-lastmod: 2008-07-15T21:50:23+00:00
+categories: null
+date: 2008-07-15 21:50:23+00:00
+lastmod: 2008-07-15 21:50:23+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [いつも, isbn, スコア, 選択, 生々しい, 村山, コーヒー, 2nd, 刺激, 不思議]
+recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-11-18-ai-gainaibu-wu/,
+  /post/2008-06-15-gui-cai-xian-ru/]
 ---
 ![](https://ecx.images-amazon.com/images/I/514sKDrKwJL._SL160_.jpg)[おいしいコーヒーのいれ方 (10) 夢のあとさき (集英社文庫)](http://item.excite.co.jp/detail/ASIN_4087463036)  
 村山 由佳 / / 集英社  

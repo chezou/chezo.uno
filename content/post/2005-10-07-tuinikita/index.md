@@ -1,21 +1,19 @@
 ---
-title: "ついにｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!!"
-subtitle: ""
-summary: ""
+title: ついにｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!!
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2005-10-07T21:46:55+00:00
-lastmod: 2005-10-07T21:46:55+00:00
+categories: null
+date: 2005-10-07 21:46:55+00:00
+lastmod: 2005-10-07 21:46:55+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ラジオ, fm, md, 発売, 録音, usb, 人柱, wav, radio, 欲しかっ]
+recommendations: [/post/2007-05-10-usbdewen-kerufm-slash-amrazio/, /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
+  /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/]
 ---
 ○[ノートPCでもFMラジオを録音できるUSB接続のFMラジオ「USB Radio」が発売に](http://akiba.ascii24.com/akiba/news/2005/08/09/657448-000.html)  
   

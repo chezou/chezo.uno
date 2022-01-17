@@ -1,21 +1,20 @@
 ---
-title: "「データサイエンティスト養成読本 機械学習入門編」を読んだ"
-subtitle: ""
-summary: ""
+title: 「データサイエンティスト養成読本 機械学習入門編」を読んだ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-09-09T22:14:09+00:00
-lastmod: 2015-09-09T22:14:09+00:00
+categories: null
+date: 2015-09-09 22:14:09+00:00
+lastmod: 2015-09-09 22:14:09+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [特集, 機械学習, 読本, 入門, データサイエンティスト, 養成, 入門編, 比戸, plus, 福島]
+recommendations: [/post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/,
+  /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/,
+  /post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/]
 ---
 ![](/img/2015/09/09/221409/20150906164556.jpg)
 

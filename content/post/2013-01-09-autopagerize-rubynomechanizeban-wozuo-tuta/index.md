@@ -1,21 +1,19 @@
 ---
-title: "Autopagerize-rubyのMechanize版を作った"
-subtitle: ""
-summary: ""
+title: Autopagerize-rubyのMechanize版を作った
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2013-01-09T11:01:09+00:00
-lastmod: 2013-01-09T11:01:09+00:00
+categories: null
+date: 2013-01-09 11:01:09+00:00
+lastmod: 2013-01-09 11:01:09+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [http, 扱い, fork, client, request, 早い, pull, そのまま, オリジナル, 特徴]
+recommendations: [/post/2019-12-04-R-and-TD/, /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/,
+  /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/]
 ---
 [Qiita](http://qiita.com/items/ce9a52030aad51591121)にも書いたけど、Ruby向けAutopagerizeをMechanize対応してみた。
 

@@ -1,21 +1,19 @@
 ---
-title: "お安くお手軽アカペラ多重録音のための機材"
-subtitle: ""
-summary: ""
+title: お安くお手軽アカペラ多重録音のための機材
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-11-26T21:57:16+00:00
-lastmod: 2009-11-26T21:57:16+00:00
+categories: null
+date: 2009-11-26 21:57:16+00:00
+lastmod: 2009-11-26 21:57:16+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [マイク, pro, オーディオインターフェース, 重視, 録音, 厳しい, 楽しみ, 本格的, ルネサンス, マイクスタンド]
+recommendations: [/post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
+  /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/, /post/2005-10-07-tuinikita/]
 ---
 本格的に始めよう、というわけではなく、とりあえずアカペラで多重録音を始めてみようと思ったため、機材を簡単にそろえてみました。
 

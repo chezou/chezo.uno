@@ -1,21 +1,19 @@
 ---
-title: "Luck Stealer (2)"
-subtitle: ""
-summary: ""
+title: Luck Stealer (2)
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-09-08T21:49:19+00:00
-lastmod: 2008-09-08T21:49:19+00:00
+categories: null
+date: 2008-09-08 21:49:19+00:00
+lastmod: 2008-09-08 21:49:19+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [迫力, 膳立て, 猟奇的, 集英社, 教師, 感じ, はず, 展開, スコア, 選択]
+recommendations: [/post/2008-06-15-gui-cai-xian-ru/, /post/2008-09-10-enzieruhato-27/,
+  /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/]
 ---
 ![](https://md.exblog.jp/img/eg/thumb-no-image.gif)[Luck Stealer 2 (2) (ジャンプコミックス)](http://item.excite.co.jp/detail/ASIN_408874571X)  
 かず はじめ / / 集英社  

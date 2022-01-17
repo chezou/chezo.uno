@@ -1,21 +1,19 @@
 ---
-title: "ほぼ日がiPhoneを持ち上げてる"
-subtitle: ""
-summary: ""
+title: ほぼ日がiPhoneを持ち上げてる
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-05-02T21:53:03+00:00
-lastmod: 2009-05-02T21:53:03+00:00
+categories: null
+date: 2009-05-02 21:53:03+00:00
+lastmod: 2009-05-02 21:53:03+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [willcom, パケット, 半分, 遅い, 携帯, es, おかげ, iphone, パケットし放題, ほぼ日]
+recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-04-ad-es-wojie-yue-surutameni/,
+  /post/2005-04-23-willcom/]
 ---
 [ほぼ日のせい](http://www.1101.com/iphone/)でiPhoneが欲しくなってきた。  
   

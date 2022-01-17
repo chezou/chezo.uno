@@ -1,21 +1,19 @@
 ---
-title: "Ad[es] VS iPhone(値引き合戦)"
-subtitle: ""
-summary: ""
+title: Ad[es] VS iPhone(値引き合戦)
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-05-06T05:05:42+00:00
-lastmod: 2009-05-06T05:05:42+00:00
+categories: null
+date: 2009-05-06 05:05:42+00:00
+lastmod: 2009-05-06 05:05:42+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [解約, willcom, iphone, コスト, キャンペーン, es, ad, 月額, gw, 端末]
+recommendations: [/post/2009-05-04-ad-es-wojie-yue-surutameni/, /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/,
+  /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
 ---
 最近のiPhone for everybodyとWillcomのGWキャンペーンの比較。Ad[es]をメインで持っていて、でもそろそろ愛想を尽かしたのでデータ専用の端末としようかなぁ、という人と考えてください。隣にAppleの回し者がいるけど、スルーの方向で。  
 基本的に各月パケット代はフルまで使う前提です。

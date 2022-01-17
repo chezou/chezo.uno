@@ -1,24 +1,19 @@
 ---
-title: "機械学習工学研究会の「機械学習基盤 本番適用と運用の事例・知見共有会」を開催しました"
-subtitle: ""
-summary: ""
+title: 機械学習工学研究会の「機械学習基盤 本番適用と運用の事例・知見共有会」を開催しました
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: [mlops]
-categories: ["Machine Learning", MLOps, Conference]
-date: 2020-11-10T22:18:19+09:00
-lastmod: 2020-11-10T22:18:19+09:00
+categories: [Machine Learning, MLOps, Conference]
+date: 2020-11-10 22:18:19+09:00
+lastmod: 2020-11-10 22:18:19+09:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [基盤, 機械学習, 本番, 適用, 運用, 事例, 当日, 知見, 要件, アーキテクチャ]
+recommendations: [/post/2020-12-31-2020-review/, /post/2020-07-11-MLSE-summer-workshop/,
+  /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
 ---
 
 

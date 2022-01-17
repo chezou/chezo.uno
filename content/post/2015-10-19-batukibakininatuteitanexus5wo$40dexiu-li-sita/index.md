@@ -1,21 +1,19 @@
 ---
-title: "バッキバキになっていたNexus5を$40で修理した"
-subtitle: ""
-summary: ""
+title: バッキバキになっていたNexus5を$40で修理した
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-10-19T08:06:18+00:00
-lastmod: 2015-10-19T08:06:18+00:00
+categories: null
+date: 2015-10-19 08:06:18+00:00
+lastmod: 2015-10-19 08:06:18+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ガラス, ドライバー, 液晶, 修理, nexus, フィルム, jpg, 硬度, 日本製, フレーム]
+recommendations: [/post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
+  /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/]
 ---
 ![](/img/20151018/20151018110109.jpg)
 

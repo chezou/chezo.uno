@@ -1,21 +1,19 @@
 ---
-title: "iMessageをiPadとiPhoneで使い分ける方法"
-subtitle: ""
-summary: ""
+title: iMessageをiPadとiPhoneで使い分ける方法
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-10-15T12:10:14+00:00
-lastmod: 2011-10-15T12:10:14+00:00
+categories: null
+date: 2011-10-15 12:10:14+00:00
+lastmod: 2011-10-15 12:10:14+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [gmail, imessage, アドレス, ipad, iphone, 送信, icloud, softbank, 複数, メッセージ]
+recommendations: [/post/2009-05-18-iphonetono1zhou-jian/, /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/,
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/]
 ---
 iMessageを複数のデバイスで同一Apple IDで使う場合に、どちらか一方に送る方法を検討したらわかりました。
 

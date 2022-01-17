@@ -1,21 +1,19 @@
 ---
-title: "DS de TV"
-subtitle: ""
-summary: ""
+title: DS de TV
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2006-05-19T21:46:40+00:00
-lastmod: 2006-05-19T21:46:40+00:00
+categories: null
+date: 2006-05-19 21:46:40+00:00
+lastmod: 2006-05-19 21:46:40+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [tv, すごい, 高校時代, 国語, 教授, 招待, 重さ, チューナー, 高校生, もん]
+recommendations: [/post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
+  /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/, /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/]
 ---
 [[N] ニンテンドーDS用「TVチューナー」](http://netafull.net/toy/013718.html)なるものがでてるようです。  
 しっかし、このサイズにこの重さはどうなんだろうなー。  

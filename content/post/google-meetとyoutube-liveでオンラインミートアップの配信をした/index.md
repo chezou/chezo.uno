@@ -1,11 +1,11 @@
 ---
 title: Google MeetとYouTube Liveでオンラインミートアップの配信をした
-date: 2020-05-29T08:54:07.362Z
+date: 2020-05-29 08:54:07.362000+00:00
 draft: false
-featured:
-  filename: image-from-ios.jpg
-  focal_point: Smart
-  preview_only: true
+featured: {filename: image-from-ios.jpg, focal_point: Smart, preview_only: true}
+keywords: [meet, 配信, zoom, マイク, 音量, 発表, 画像, 画面, youtube live, do]
+recommendations: [/post/2020-12-31-2020-review/, /post/2020-11-10-mlse-conference/,
+  /post/2020-07-11-MLSE-summer-workshop/]
 ---
 ![Streamingの様子](image-from-ios.jpg)
 

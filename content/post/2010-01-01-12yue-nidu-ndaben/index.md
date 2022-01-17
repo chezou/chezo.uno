@@ -1,14 +1,16 @@
 ---
 title: 12月に読んだ本
-date: 2010-01-01T09:01:57.000Z
+date: 2010-01-01 09:01:57+00:00
 subtitle: ''
 summary: ''
 draft: false
 featured: false
-authors:
-  - aki
+authors: [aki]
 tags: []
 projects: []
+keywords: [読了, ゲーム, twitter, 絶対音感, ikki, 講談社コミックス, キス, ぼくらの, 著者, ウェブ]
+recommendations: [/post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/,
+  /post/2008-07-06-nodamekantabire18-20/, /post/2008-08-11-nodame21juan/]
 ---
 読書メータにこんな機能あったのね。しかも画像付き。便利だわー。ちょっと貼り付けてみる。というか、あまり本読んでなかったのねぇ。twitterに時間を奪われていたのかな。
 

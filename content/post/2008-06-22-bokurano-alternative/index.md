@@ -1,21 +1,19 @@
 ---
-title: "ぼくらの〜alternative"
-subtitle: ""
-summary: ""
+title: ぼくらの〜alternative
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-06-22T21:44:25+00:00
-lastmod: 2008-06-22T21:44:25+00:00
+categories: null
+date: 2008-06-22 21:44:25+00:00
+lastmod: 2008-06-22 21:44:25+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [作品, 漫画版, 最終回, 文庫, 取り扱い, alternative, 対談, 原作, ぼくらの, 最終]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-08-24-sayonaraituka/,
+  /post/2008-07-30-narutaru/]
 ---
 ![](https://ecx.images-amazon.com/images/I/31pUbmOfFVL._SL160_.jpg)[ぼくらの ~alternative~ 5 (ガガガ文庫 お 1-5)](http://item.excite.co.jp/detail/ASIN_4094510753)  
 大樹 連司 / / 小学館  

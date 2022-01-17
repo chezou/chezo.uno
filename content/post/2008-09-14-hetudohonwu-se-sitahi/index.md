@@ -1,21 +1,19 @@
 ---
-title: "ヘッドホン物色したひ"
-subtitle: ""
-summary: ""
+title: ヘッドホン物色したひ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-09-14T21:52:57+00:00
-lastmod: 2008-09-14T21:52:57+00:00
+categories: null
+date: 2008-09-14 21:52:57+00:00
+lastmod: 2008-09-14 21:52:57+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ヘッドホン, rock, 大須, pop, 次第, 無線, アンプ, 視聴, 決定, 欲しく]
+recommendations: [/post/2008-10-05-hd53r-ver-dot-8wogou-ru/, /post/2005-08-24-hetudohon-hetudohon/,
+  /post/2008-01-18-souiebakokohawu-yu-burogudatuta/]
 ---
 J-POPやROCKが聞けるヘッドホンが欲しくなってきたので、メモメモ。  
   

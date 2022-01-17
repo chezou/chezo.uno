@@ -1,21 +1,19 @@
 ---
-title: "JPOPサウンドの核心部分が、実は１つのコード進行で出来ていた"
-subtitle: ""
-summary: ""
+title: JPOPサウンドの核心部分が、実は１つのコード進行で出来ていた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-10-19T03:10:00+00:00
-lastmod: 2008-10-19T03:10:00+00:00
+categories: null
+date: 2008-10-19 03:10:00+00:00
+lastmod: 2008-10-19 03:10:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [進行, マイナー, メジャー, コード, 投稿者, never, knows, 感心, メロディ, サウンド]
+recommendations: [/post/2008-07-05-rajaton/, /post/2008-11-06-yin-lu-toyin-jie-noke-xue/,
+  /post/2010-11-13-ye-novuenetuia/]
 ---
 [JPOPサウンドの核心部分が、実は1つのコード進行で出来ていた - エクサの口に戸は建たない](http://d.hatena.ne.jp/EXA/20081018/1224310523)をやっと読んだ。というか見た。  
 なるほどなー、と感心する反面どうもTommorow never knowsにしか聞こえない罠。  

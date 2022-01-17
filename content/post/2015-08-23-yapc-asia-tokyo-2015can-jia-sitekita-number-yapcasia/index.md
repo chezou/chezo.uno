@@ -1,21 +1,19 @@
 ---
-title: "YAPC::ASIA Tokyo 2015参加してきた #yapcasia"
-subtitle: ""
-summary: ""
+title: 'YAPC::ASIA Tokyo 2015参加してきた #yapcasia'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-08-23T01:27:50+00:00
-lastmod: 2015-08-23T01:27:50+00:00
+categories: null
+date: 2015-08-23 01:27:50+00:00
+lastmod: 2015-08-23 01:27:50+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [yapc, tokyo, '2015', org, はてなブックマーク, トピック, php, podcast, 処理, 技術]
+recommendations: [/post/2008-07-16-rockapella-channel/, /post/2015-12-30-2015nian-wozhen-rifan-tute/,
+  /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/]
 ---
 初参加にして最後のYAPC::ASIA Tokyoに行ってきた。
 

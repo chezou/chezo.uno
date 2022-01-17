@@ -1,21 +1,19 @@
 ---
-title: "sinatraでKyTeaをブラウザから試すkytea-sinatra作ってみた"
-subtitle: ""
-summary: ""
+title: sinatraでKyTeaをブラウザから試すkytea-sinatra作ってみた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-07-18T22:02:01+00:00
-lastmod: 2011-07-18T22:02:01+00:00
+categories: null
+date: 2011-07-18 22:02:01+00:00
+lastmod: 2011-07-18 22:02:01+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [sinatra, kytea, 結果, mykytea, 解析, ruby, ブラウザ, mecab, seikichi, 出力]
+recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
+  /post/2012-11-10-websocketwoshi-tuteriarutaimunixing-tai-su-jie-xi-wosurumorph-websocketwozuo-tutemita/]
 ---
 先日のエントリで書いたとおり[Mykytea-ruby](http://chezou.wordpress.com/2011/07/15/kytea%e3%82%92ruby-python%e3%81%8b%e3%82%89%e4%bd%bf%e3%81%88%e3%82%8bmykytea%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f/ "KyTea:京都テキスト解析ツールキット をRuby, Pythonから使えるMykyteaを作ってみた")を使って、試しにブラウザから解析結果をみられるkytea-sinatraを作りました。
 

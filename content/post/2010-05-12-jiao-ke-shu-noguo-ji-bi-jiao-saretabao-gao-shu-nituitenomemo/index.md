@@ -1,21 +1,19 @@
 ---
-title: "教科書の国際比較された報告書についてのメモ"
-subtitle: ""
-summary: ""
+title: 教科書の国際比較された報告書についてのメモ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2010-05-12T21:58:37+00:00
-lastmod: 2010-05-12T21:58:37+00:00
+categories: null
+date: 2010-05-12 21:58:37+00:00
+lastmod: 2010-05-12 21:58:37+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [教科書, イギリス, 義務, フランス, 韓国, アメリカ, 欧米, 台湾, カナダ, 試験]
+recommendations: [/post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/,
+  /post/2008-08-11-mian-bai-ihodoyokufen-karuzhe-xue-si-xiang-nosubete/, /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/]
 ---
 [第３期科学技術基本計画  
 のフォローアップ「理数教育部分」に係る調査研究](http://www.nier.go.jp/seika_kaihatsu_2/)という国立教育政策研究所の報告書を読んだメモです。2009年3月の報告書です。  

@@ -1,19 +1,18 @@
 ---
 title: バンクーバーに移住して8か月が経った
-subtitle: ""
-date: 2021-12-18T00:00:00+09:00
-summary: ""
+subtitle: ''
+date: 2021-12-18 00:00:00+09:00
+summary: ''
 draft: false
 featured: false
-authors:
-  - aki
-lastmod: 2021-12-04T14:50:35-08:00
+authors: [aki]
+lastmod: 2021-12-04 14:50:35-08:00
 tags: []
 categories: []
-image:
-  caption: 秋の紅葉
-  focal_point: Top
-  preview_only: false
+image: {caption: 秋の紅葉, focal_point: Top, preview_only: false}
+keywords: [jpg, img, summer, 子供, 今年, スーパー, カナダ, bc, 前後, 移住]
+recommendations: [/post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/,
+  /post/2017-12-23_----------------------701333a45696/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
 ---
 この記事は[pyspa Advent Calender 2021](https://adventar.org/calendars/6234)の18日目です。昨日は[@golden_lucky](https://twitter.com/golden_lucky)のリンゴの話でした。
 

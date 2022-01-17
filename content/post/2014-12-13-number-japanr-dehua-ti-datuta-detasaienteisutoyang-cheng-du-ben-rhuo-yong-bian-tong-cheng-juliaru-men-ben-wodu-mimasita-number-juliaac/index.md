@@ -1,21 +1,19 @@
 ---
-title: "#JapanR で話題だった「データサイエンティスト養成読本R活用編(通称\"Julia入門本\")」を読みました #JuliaAC"
-subtitle: ""
-summary: ""
+title: '#JapanR で話題だった「データサイエンティスト養成読本R活用編(通称"Julia入門本")」を読みました #JuliaAC'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2014-12-13T00:02:00+00:00
-lastmod: 2014-12-13T00:02:00+00:00
+categories: null
+date: 2014-12-13 00:02:00+00:00
+lastmod: 2014-12-13 00:02:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [julia, 入門, 読本, 外観, dplyr, 興味, 基礎, データサイエンティスト, 養成, '12']
+recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
+  /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/]
 ---
 この記事は[Julia Advent Calendar](http://qiita.com/advent-calendar/2014/julialang)の12日目の記事です。
 
