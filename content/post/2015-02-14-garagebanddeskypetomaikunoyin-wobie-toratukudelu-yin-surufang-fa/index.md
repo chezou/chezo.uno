@@ -1,21 +1,20 @@
 ---
-title: "Garagebandでskypeとマイクの音を別トラックで録音する方法"
-subtitle: ""
-summary: ""
+title: Garagebandでskypeとマイクの音を別トラックで録音する方法
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-02-14T23:50:08+00:00
-lastmod: 2015-02-14T23:50:08+00:00
+categories: null
+date: 2015-02-14 23:50:08+00:00
+lastmod: 2015-02-14 23:50:08+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [soundflower, ch, skype, linein, マイク, トラック, output, channel, png, img]
+recommendations: [/post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/,
+  /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
+  /post/2005-08-06-webkamera/]
 ---
 最近、rebuild.fmやwada.fmを聞いていると、自分もpodcastをはじめてみたいという気持ちが強くなってきました。
 

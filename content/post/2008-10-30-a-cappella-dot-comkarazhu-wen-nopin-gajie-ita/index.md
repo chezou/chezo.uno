@@ -1,21 +1,19 @@
 ---
-title: "a-cappella.comから注文の品が届いた"
-subtitle: ""
-summary: ""
+title: a-cappella.comから注文の品が届いた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-10-30T21:51:10+00:00
-lastmod: 2008-10-30T21:51:10+00:00
+categories: null
+date: 2008-10-30 21:51:10+00:00
+lastmod: 2008-10-30 21:51:10+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [楽譜, the real group, アカペラ, in, 展開, シンガー, cappella, acapuluco, それから, a cappella]
+recommendations: [/post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2009-04-13-it-dont-mean-a-thing/,
+  /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
 ---
 [a-cappella.com](http://www.a-cappella.com)  
 名前の通り、アカペラのCDやら楽譜が入手できるサイト。  

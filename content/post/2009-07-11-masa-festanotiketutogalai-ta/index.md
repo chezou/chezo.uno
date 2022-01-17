@@ -1,21 +1,19 @@
 ---
-title: "Masa festaのチケットが来た"
-subtitle: ""
-summary: ""
+title: Masa festaのチケットが来た
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-07-11T12:07:59+00:00
-lastmod: 2009-07-11T12:07:59+00:00
+categories: null
+date: 2009-07-11 12:07:59+00:00
+lastmod: 2009-07-11 12:07:59+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [c4, dc, '69', '34', masa, '41', 目当て, festa, da, コンサート]
+recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-03-09-masafestanirajatonga/,
+  /post/2009-08-12-rui-yan-si/]
 ---
 最近、とみにコンサートに通っていますが、八月に行われるMASA FESTAのチケットが届きました。  
 お目当ては最終日のRAJATONです。今から楽しみ。

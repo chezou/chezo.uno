@@ -1,21 +1,19 @@
 ---
-title: "まじめな？電波系Songs"
-subtitle: ""
-summary: ""
+title: まじめな？電波系Songs
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2005-08-17T09:08:00+00:00
-lastmod: 2005-08-17T09:08:00+00:00
+categories: null
+date: 2005-08-17 09:08:00+00:00
+lastmod: 2005-08-17 09:08:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [解釈, 連想, 宇宙, 妥当, 三善晃, シリーズ, 明日, 先生, ほう, 普通]
+recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/,
+  /post/2008-05-17-subetegafninaru-du-liao/]
 ---
 [素数の歌](http://homepage2.nifty.com/hougi/contents/prime.html)らしいですよ。
 

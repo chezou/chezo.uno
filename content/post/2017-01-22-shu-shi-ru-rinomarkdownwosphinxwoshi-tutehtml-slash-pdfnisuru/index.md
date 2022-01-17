@@ -1,21 +1,20 @@
 ---
-title: "数式入りのmarkdownをSphinxを使ってhtml/pdfにする"
-subtitle: ""
-summary: ""
+title: 数式入りのmarkdownをSphinxを使ってhtml/pdfにする
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2017-01-22T16:11:24+00:00
-lastmod: 2017-01-22T16:11:24+00:00
+categories: null
+date: 2017-01-22 16:11:24+00:00
+lastmod: 2017-01-22 16:11:24+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: ['39', recommonmark, math, source, 'true', 数式, markdown, import, conf, app]
+recommendations: [/post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/,
+  /post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/,
+  /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/]
 ---
 Sphinxでmarkdown拡張を扱うためのrecommonmarkというライブラリがあります。 これを使うとreSTではなく、markdownを書いてhtmlやPDFが吐けるようになります。
 

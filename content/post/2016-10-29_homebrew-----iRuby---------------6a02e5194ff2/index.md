@@ -3,8 +3,11 @@ title: homebrewを移動してiRubyが壊れたときに見直すポイント
 description: 'kawasaki.rb #041 で得た知見です。'
 date: '2016-10-29T13:50:25+09:00'
 categories: [ruby]
-keywords: []
+keywords: [jupyter, iruby, ipython, ruby, 以下, register, kernel, force, usr, 手順]
 authors: [aki]
+recommendations: [/post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/,
+  /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
+  /post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebookkarajian-reruyounisita/]
 ---
 
 kawasaki.rb #041 で得た知見です。

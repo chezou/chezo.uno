@@ -1,21 +1,19 @@
 ---
-title: "2016年を振り返って"
-subtitle: ""
-summary: ""
+title: 2016年を振り返って
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2016-12-31T16:11:50+00:00
-lastmod: 2016-12-31T16:11:50+00:00
+categories: null
+date: 2016-12-31 16:11:50+00:00
+lastmod: 2016-12-31 16:11:50+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [chezou, hatenablog, .com, 転職, コード, tabula, 今年, もう少し, rebuild, 激動]
+recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
+  /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/]
 ---
 ブルガリアンスクワットをして筋肉痛でプルプルしています。大晦日も元旦もほぼDMM英会話の予定しかありません。
 

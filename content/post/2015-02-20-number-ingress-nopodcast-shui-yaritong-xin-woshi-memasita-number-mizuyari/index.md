@@ -1,21 +1,19 @@
 ---
-title: "#ingress のpodcast「水やり通信」を始めました #mizuyari"
-subtitle: ""
-summary: ""
+title: '#ingress のpodcast「水やり通信」を始めました #mizuyari'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-02-20T00:45:18+00:00
-lastmod: 2015-02-20T00:45:18+00:00
+categories: null
+date: 2015-02-20 00:45:18+00:00
+lastmod: 2015-02-20 00:45:18+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [behringer, audio, usb, podcast, 録音, 通信, skype, マイクスタンド, track, feed]
+recommendations: [/post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/,
+  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/]
 ---
 こっそりと、いつぞやの[川崎40重CF](http://ingress.blog.jp/archives/13616218.html)を仕掛けたBersergaさんとingressニュースを紹介するpodcastを始めました。
 

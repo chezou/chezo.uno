@@ -1,21 +1,19 @@
 ---
-title: "こんにちは、iPhone"
-subtitle: ""
-summary: ""
+title: こんにちは、iPhone
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-05-12T21:53:35+00:00
-lastmod: 2009-05-12T21:53:35+00:00
+categories: null
+date: 2009-05-12 21:53:35+00:00
+lastmod: 2009-05-12 21:53:35+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [連絡, ドコモ, 強制的, おもちゃ, 厄介, wordpress, 携帯, 可能性, 辛い, 移行]
+recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2009-05-07-sayonarawillcom-sayonaraad-es/,
+  /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/]
 ---
 iPhoneさんがやってきた。  
 なかなかおもしろいおもちゃだ。いろいろな可能性を持っている感じ。  

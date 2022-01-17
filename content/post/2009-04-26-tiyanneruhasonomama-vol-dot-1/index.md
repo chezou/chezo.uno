@@ -1,21 +1,19 @@
 ---
-title: "チャンネルはそのまま！Vol.1"
-subtitle: ""
-summary: ""
+title: チャンネルはそのまま！Vol.1
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-04-26T21:48:20+00:00
-lastmod: 2009-04-26T21:48:20+00:00
+categories: null
+date: 2009-04-26 21:48:20+00:00
+lastmod: 2009-04-26 21:48:20+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [どうでしょう, モデル, special, 北海道, すばらしい, ポップ, なじみ, comics, 小学館, チャンネル]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2005-03-27-u-urusai-dot-dot-dot/,
+  /post/2008-09-10-enzieruhato-27/]
 ---
 [![](https://ecx.images-amazon.com/images/I/51DmEVIjTzL._SL160_.jpg) 
 

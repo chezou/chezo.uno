@@ -1,21 +1,19 @@
 ---
-title: "iPhoneとの1週間"
-subtitle: ""
-summary: ""
+title: iPhoneとの1週間
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-05-18T21:53:51+00:00
-lastmod: 2009-05-18T21:53:51+00:00
+categories: null
+date: 2009-05-18 21:53:51+00:00
+lastmod: 2009-05-18 21:53:51+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [メール, 送信, 問題, 登録, メモ, iphone, 障壁, 着信, つらい, files]
+recommendations: [/post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/,
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2005-07-11-w-sim/]
 ---
 はじめて生で小夏ちゃんを見た。梅雨くん（ちゃん？）も見てしまった。それをiPhoneの[Baloo](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=292171561&mt=8)で実況板を見ていたのですが、流れが速くて追いつかないという現象を見てしまいました。すごいわー
 

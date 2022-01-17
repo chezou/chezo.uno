@@ -1,21 +1,20 @@
 ---
-title: " 1TEXT file → ページ毎管理 → 1TEXT fileとしてダウンロード可"
-subtitle: ""
-summary: ""
+title: ' 1TEXT file → ページ毎管理 → 1TEXT fileとしてダウンロード可'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2010-07-20T21:59:18+00:00
-lastmod: 2010-07-20T21:59:18+00:00
+categories: null
+date: 2010-07-20 21:59:18+00:00
+lastmod: 2010-07-20 21:59:18+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [先生, 教育, 教材, 電子化, 著作権, 大学, 教科書, コンテンツ, 教員, 相互]
+recommendations: [/post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/,
+  /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
+  /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/]
 ---
 ・著作権管理システム  
 ・公開系システム

@@ -1,21 +1,19 @@
 ---
-title: "instagr.amが面白い"
-subtitle: ""
-summary: ""
+title: instagr.amが面白い
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories:
-date: 2010-11-07T22:00:00+00:00
-lastmod: 2010-11-07T22:00:00+00:00
+categories: null
+date: 2010-11-07 22:00:00+00:00
+lastmod: 2010-11-07 22:00:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [instagram, 写真, am, 悩ましい, 活躍, 最大, 特徴, 無い, iphone, 方法]
+recommendations: [/post/2017-01-30-indigogo-dehazimetebatukusitelai-ta-dot-woshi-tute3keyue-gatatuta/,
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2014-04-03-tokyurubyhui-yi-07deltsitekimasita-number-tqrk07/]
 ---
 ![](https://lh4.ggpht.com/_fY4jPztBNxw/TNa7URH8ORI/AAAAAAAAAjc/ZRSFiOyC6vc/s400/DSCF6018.JPG)
 

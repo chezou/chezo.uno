@@ -1,21 +1,19 @@
 ---
-title: "CEATECいってきた"
-subtitle: ""
-summary: ""
+title: CEATECいってきた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-10-10T21:55:54+00:00
-lastmod: 2009-10-10T21:55:54+00:00
+categories: null
+date: 2009-10-10 21:55:54+00:00
+lastmod: 2009-10-10 21:55:54+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [東芝, cb, '71', '51', da, 映画, デモ, テレビ, スピーカー, ad]
+recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-11-14-wu-xian-kontorora/,
+  /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/]
 ---
 [![](p_1600_1200_eeff51ad-5f1c-4cb3-9c71-f5f1b3da8a27.jpeg)](p_1600_1200_eeff51ad-5f1c-4cb3-9c71-f5f1b3da8a27.jpeg)
 

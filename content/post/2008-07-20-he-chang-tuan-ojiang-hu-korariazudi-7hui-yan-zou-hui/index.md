@@ -1,21 +1,19 @@
 ---
-title: "合唱団お江戸コラリアーず第7回演奏会"
-subtitle: ""
-summary: ""
+title: 合唱団お江戸コラリアーず第7回演奏会
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-07-20T21:52:15+00:00
-lastmod: 2008-07-20T21:52:15+00:00
+categories: null
+date: 2008-07-20 21:52:15+00:00
+lastmod: 2008-07-20 21:52:15+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ステージ, st, 演奏, 演奏会, 良い, 意味, 男声合唱, 柔らかく, victoria, 信長]
+recommendations: [/post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/,
+  /post/2010-09-11-press-start-2010xing-tutekita/]
 ---
 良い演奏会でした。男声合唱に対するイメージが良い意味で変化しました。  
 細々と書いていくとあれなので、簡単に。  

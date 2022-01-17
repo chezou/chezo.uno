@@ -3,8 +3,10 @@ title: オライリーから「仕事ではじめる機械学習」が出版さ�
 description: 技術書典2で好評だった技術書供養寺の薄い本が、この度技術書典3に合わせて商業誌になります！今回も Takashi Nishibayashiさんと…
 date: '2017-10-20T03:19:18+09:00'
 categories: [publish, book, writing]
-keywords: []
+keywords: [機械学習, システム, modeling, 学習, 予測, テスト, 推薦, まとめ, バッチ処理, sphinx]
 authors: [aki]
+recommendations: [/post/2018-05-17_MLSE-kickoff/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/,
+  /post/2021-04-24-ml-at-work-2nd-edition/]
 ---
 
 技術書典2で好評だった[技術書供養寺の薄い本](https://kuyodera.github.io/)が、この度技術書典3に合わせて商業誌になります！今回も [Takashi Nishibayashi](https://medium.com/u/1f02a92f1898)さんと [ところてん](https://medium.com/u/dcded7eecf08)さんとの共著になります。と言っても、基本電子版のみなので技術書典会場では購入できませんし、手にとって見ていただくことが出来ませんのでお気をつけください。なお、自社イベントである[Cloudera World Tokyo 2017](https://kuyodera.github.io/)でプリント・オン・デマンドで物理本を少部数限定で販売する予定です。

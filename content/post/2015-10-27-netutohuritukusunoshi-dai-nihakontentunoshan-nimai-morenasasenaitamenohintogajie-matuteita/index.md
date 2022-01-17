@@ -1,21 +1,20 @@
 ---
-title: "「ネットフリックスの時代」にはコンテンツの山に埋もれなさせないためのヒントが詰まっていた"
-subtitle: ""
-summary: ""
+title: 「ネットフリックスの時代」にはコンテンツの山に埋もれなさせないためのヒントが詰まっていた
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-10-27T09:20:31+00:00
-lastmod: 2015-10-27T09:20:31+00:00
+categories: null
+date: 2015-10-27 09:20:31+00:00
+lastmod: 2015-10-27 09:20:31+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [netflix, プレイリスト, spotify, コンテンツ, レコメンデーション, 方式, 未来, 反復, テレビ, 時代]
+recommendations: [/post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/,
+  /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/,
+  /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/]
 ---
 backspace.fmでもよくゲストに出ている西田宗千佳さん([@mnishi41](https://twitter.com/mnishi41))の書かれた、「ネットフリックスの時代−配信とスマホがテレビを変える」読んだ。
 

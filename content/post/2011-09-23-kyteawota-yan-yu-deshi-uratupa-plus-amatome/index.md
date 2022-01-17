@@ -1,21 +1,20 @@
 ---
-title: "KyTeaを他言語で使うラッパー+αまとめ"
-subtitle: ""
-summary: ""
+title: KyTeaを他言語で使うラッパー+αまとめ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-09-23T05:09:10+00:00
-lastmod: 2011-09-23T05:09:10+00:00
+categories: null
+date: 2011-09-23 05:09:10+00:00
+lastmod: 2011-09-23 05:09:10+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [kytea, sinatra, mykytea, nltk, python, 言語モデル, ruby, 推定, コーパス, 京都]
+recommendations: [/post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
+  /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
+  /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/]
 ---
 [@neubig](http://twitter.com/neubig)さんの作られたKyTeaを他言語で利用できるラッパーですが、  
 拙作のMykytea意外にも色々とあるようなのでまとめておきます。

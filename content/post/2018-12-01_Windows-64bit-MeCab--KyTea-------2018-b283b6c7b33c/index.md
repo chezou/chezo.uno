@@ -3,8 +3,10 @@ title: Windows 64bitでMeCab(とKyTea)を使う方法 2018
 description: CIでWindowsバイナリとwheelを作った話
 date: '2018-12-01T13:05:57+09:00'
 categories: []
-keywords: [Windows, MeCab, NLP, KyTea]
+keywords: [mecab, windows, python, wheel, ビルド, '64', 用意, bit, kytea, バイナリ]
 authors: [aki]
+recommendations: [/post/2017-08-26_Python------------------dc8d8f2fe989/, /post/2017-07-08_MBP--Thinkpad-X1-Carbon-2017-------46c374167b79/,
+  /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/]
 ---
 
 こんにちは、日本語のテキスト処理してますか。

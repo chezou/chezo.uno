@@ -1,21 +1,19 @@
 ---
-title: "Eric WitacreのVirtual Choirが凄い！これは日本のアマチュアでも広まるべき"
-subtitle: ""
-summary: ""
+title: Eric WitacreのVirtual Choirが凄い！これは日本のアマチュアでも広まるべき
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2010-04-21T21:58:32+00:00
-lastmod: 2010-04-21T21:58:32+00:00
+categories: null
+date: 2010-04-21 21:58:32+00:00
+lastmod: 2010-04-21 21:58:32+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [記事, 体感, whitacre, choir, やばい, オリジナル, はず, 動画, 以前, 実際]
+recommendations: [/post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/,
+  /post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/]
 ---
 [@kunishi](http://twitter.com/kunishi) さんの[ブログの記事](http://blog.chorusroom.org/2010/04/virtual-choir2.html)で知りましたが、WhitacreのVirtual Choirがやばいです。何はともあれ実際の動画を見ていただけば、その凄さを体感できるはずです。
 

@@ -1,21 +1,19 @@
 ---
-title: "なるたる"
-subtitle: ""
-summary: ""
+title: なるたる
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-07-30T21:50:01+00:00
-lastmod: 2008-07-30T21:50:01+00:00
+categories: null
+date: 2008-07-30 21:50:01+00:00
+lastmod: 2008-07-30 21:50:01+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [復旧, 同名, 鬼頭, 莫宏, 原作, アフタヌーン, ぼくらの, レポート, kc, アニメ]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-06-28-vuinrandosaga-6-du-li-shui-shang-19/,
+  /post/2008-06-22-bokurano-alternative/]
 ---
 ![](https://ecx.images-amazon.com/images/I/215CBEG45AL._SL160_.jpg)[なるたる―骸なる星珠たる子 (1) (アフタヌーンKC (186))](http://item.excite.co.jp/detail/ASIN_4063141861)  
 鬼頭 莫宏 / / 講談社  

@@ -1,21 +1,19 @@
 ---
-title: "WILLCOM"
-subtitle: ""
-summary: ""
+title: WILLCOM
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2005-04-23T21:47:38+00:00
-lastmod: 2005-04-23T21:47:38+00:00
+categories: null
+date: 2005-04-23 21:47:38+00:00
+lastmod: 2005-04-23 21:47:38+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [willcom, 通話料, 家計簿, 学割, 最近, 衝動, 痛い, 無性, au, 定額]
+recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/,
+  /post/2009-05-04-ad-es-wojie-yue-surutameni/]
 ---
 最近、無性にWILLCOMにしたい衝動に駆られています。  
 今は、AUの一番高いプランを学割で使っているのですが、10kを越えることもしばしば。  

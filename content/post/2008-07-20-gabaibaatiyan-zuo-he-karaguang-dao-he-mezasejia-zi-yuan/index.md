@@ -1,21 +1,19 @@
 ---
-title: "がばいばあちゃん 佐賀から広島へ めざせ甲子園"
-subtitle: ""
-summary: ""
+title: がばいばあちゃん 佐賀から広島へ めざせ甲子園
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-07-20T21:50:06+00:00
-lastmod: 2008-07-20T21:50:06+00:00
+categories: null
+date: 2008-07-20 21:50:06+00:00
+lastmod: 2008-07-20 21:50:06+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ばあ, エピソード, 要点, ありか, 集英社文庫, 集英社, 抜粋, うれしい, 読者, '45']
+recommendations: [/post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2008-11-06-koredeiinoda/,
+  /post/2008-06-15-gui-cai-xian-ru/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51n-TLbbm8L._SL160_.jpg)[がばいばあちゃん佐賀から広島へめざせ甲子園 (集英社文庫 し 45-1)](http://item.excite.co.jp/detail/ASIN_4087461963)  
 島田 洋七 / / 集英社  

@@ -1,21 +1,19 @@
 ---
-title: "それでもTake6は来日する"
-subtitle: ""
-summary: ""
+title: それでもTake6は来日する
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2011-04-07T22:01:11+00:00
-lastmod: 2011-04-07T22:01:11+00:00
+categories: null
+date: 2011-04-07 22:01:11+00:00
+lastmod: 2011-04-07 22:01:11+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [take, 来日, we, are, to, all, 日本, サイト, 祈り, 地震]
+recommendations: [/post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/,
+  /post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/, /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/]
 ---
 【20110531追記】[オフィシャルサイトによると、Take6の来日は2012年2月に延期されたようです。  
   

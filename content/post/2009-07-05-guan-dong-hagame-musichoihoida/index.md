@@ -1,21 +1,19 @@
 ---
-title: "関東はGame Musicほいほいだ"
-subtitle: ""
-summary: ""
+title: 関東はGame Musicほいほいだ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-07-05T21:54:45+00:00
-lastmod: 2009-07-05T21:54:45+00:00
+categories: null
+date: 2009-07-05 21:54:45+00:00
+lastmod: 2009-07-05 21:54:45+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [fcb, 演奏, 今年, かけ声, ff, 9th, 関東, ニコ動, クロノトリガー, オープニング]
+recommendations: [/post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2008-11-08-liang-ishi-dai-ninatutanee/,
+  /post/2012-10-05-dong-jing-gemusiyodemai-tuteitanosymphonic-fantasies-tokyo-nocdganetutodemai-eru/]
 ---
 [Press Start](http://fami-web.jp/pressstart/)が今年もやってまいりました。今年こそはチケットを購入したので、万全の体制で臨みたいと思います。
 

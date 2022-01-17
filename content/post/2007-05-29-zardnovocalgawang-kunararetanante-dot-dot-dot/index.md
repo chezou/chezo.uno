@@ -1,21 +1,19 @@
 ---
-title: "ZARDのVocalが亡くなられたなんて……"
-subtitle: ""
-summary: ""
+title: ZARDのVocalが亡くなられたなんて……
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2007-05-29T04:05:00+00:00
-lastmod: 2007-05-29T04:05:00+00:00
+categories: null
+date: 2007-05-29 04:05:00+00:00
+lastmod: 2007-05-29 04:05:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ipod, ケーブル, 小物, 酷い, fm, pc, よい, 高校時代, 難点, 祈り]
+recommendations: [/post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/, /post/2006-03-17-uhi/,
+  /post/2005-10-07-tuinikita/]
 ---
 高校時代には、良く聞いたものですが……  
 ご冥福をお祈りいたします。  

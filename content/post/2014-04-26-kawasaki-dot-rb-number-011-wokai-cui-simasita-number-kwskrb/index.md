@@ -1,21 +1,19 @@
 ---
 title: 'kawasaki.rb #011 を開催しました #kwskrb'
-date: 2014-04-26T22:06:31.000Z
+date: 2014-04-26 22:06:31+00:00
 subtitle: ''
 summary: ''
 draft: false
 featured: false
-authors:
-  - aki
-lastmod: 2014-04-26T22:06:31.000Z
+authors: [aki]
+lastmod: 2014-04-26 22:06:31+00:00
 tags: []
 projects: []
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-categories:
-  - ruby
+image: {caption: '', focal_point: '', preview_only: false}
+categories: [ruby]
+keywords: [組込み, snowcrush, 変数, sinatra, rails, 次回, kawasaki, rb, 水曜, 定数]
+recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/,
+  /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/, /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/]
 ---
 4/23に[kawasaki.rb #011](http://kawasakirb.doorkeeper.jp/events/10187)を開催しました。  
 次回で1年になるのかと思うと、感慨深いです。  

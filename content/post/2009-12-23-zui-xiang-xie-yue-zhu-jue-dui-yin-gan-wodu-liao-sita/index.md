@@ -1,21 +1,19 @@
 ---
-title: "最相葉月著「絶対音感」を読了した"
-subtitle: ""
-summary: ""
+title: 最相葉月著「絶対音感」を読了した
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-12-23T08:12:42+00:00
-lastmod: 2009-12-23T08:12:42+00:00
+categories: null
+date: 2009-12-23 08:12:42+00:00
+lastmod: 2009-12-23 08:12:42+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [絶対音感, 言葉, 著者, 教育, 音響, 取材, エピソード, 不足, カテゴリ, 音楽]
+recommendations: [/post/2010-01-01-12yue-nidu-ndaben/, /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
+  /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/]
 ---
 本の大まかな内容は、音楽に素養がない記者が、絶対音感の言葉の響きに惹かれて解明しようとした努力の軌跡である。まとめると、  
 ・絶対音感の定義は曖昧だが、その中でもレベルがある  

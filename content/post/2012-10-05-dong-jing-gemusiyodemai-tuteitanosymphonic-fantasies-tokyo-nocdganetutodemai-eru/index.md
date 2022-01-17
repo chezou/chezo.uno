@@ -1,21 +1,19 @@
 ---
-title: "東京ゲームショーで売っていたのSymphonic Fantasies Tokyo のCDがネットで買える！"
-subtitle: ""
-summary: ""
+title: 東京ゲームショーで売っていたのSymphonic Fantasies Tokyo のCDがネットで買える！
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2012-10-05T09:10:55+00:00
-lastmod: 2012-10-05T09:10:55+00:00
+categories: null
+date: 2012-10-05 09:10:55+00:00
+lastmod: 2012-10-05 09:10:55+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [fantasies, symphonic, 演奏, ドイツ, クオリティ, 素晴らしい, tokyo, cd, via, paypal]
+recommendations: [/post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2009-07-05-guan-dong-hagame-musichoihoida/,
+  /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/]
 ---
 [![](https://i.pinimg.com/originals/f5/f8/7a/f5f87a22d7029a96f44f1fba96c2afed.jpg)](https://pinterest.com/pin/60869032434954296/)
 

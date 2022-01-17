@@ -1,21 +1,19 @@
 ---
-title: "吸盤付きお風呂スピーカーがPodcast聞くのにすごい便利"
-subtitle: ""
-summary: ""
+title: 吸盤付きお風呂スピーカーがPodcast聞くのにすごい便利
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-10-07T23:47:53+00:00
-lastmod: 2015-10-07T23:47:53+00:00
+categories: null
+date: 2015-10-07 23:47:53+00:00
+lastmod: 2015-10-07 23:47:53+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [patech, スピーカー, bluetooth, 防水, 吸盤, '3.0', ブルー, 内蔵, ワイヤレス, 仕様]
+recommendations: [/post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
+  /post/2009-05-30-san-ling-dong-jing-ufjnokorusentagasu-qing-rasii3tunoli-you/]
 ---
 前々からBluetoothのお風呂ラジオをほしいなーと思っていたのですが、昔に比べるとかなり安くなっていたので買いました。
 

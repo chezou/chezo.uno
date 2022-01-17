@@ -1,21 +1,19 @@
 ---
-title: "2015年に買ってよかった物まとめ"
-subtitle: ""
-summary: ""
+title: 2015年に買ってよかった物まとめ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-12-29T20:33:41+00:00
-lastmod: 2015-12-29T20:33:41+00:00
+categories: null
+date: 2015-12-29 20:33:41+00:00
+lastmod: 2015-12-29 20:33:41+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [フィルム, 搭載, synology, nas, スタンド, cs, ds, cm, 内蔵, 出版社]
+recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
+  /post/2019-03-10_business-trip-goods/]
 ---
 書いておくと後から検索できることもあり、今年買ってよかったものを書いていこうと思います。
 

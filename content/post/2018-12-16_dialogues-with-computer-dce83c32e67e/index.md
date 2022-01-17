@@ -4,8 +4,10 @@ description: この記事はpyspa Advenct calenderの17日目です。
 date: '2018-12-16T15:06:00+09:00'
 lastmod: '2018-12-16T15:06:00+09:00'
 categories: []
-keywords: [R]
+keywords: [コンピュータ, programming, lib, 疑問, メッセージ, an, やりとり, 人間, is, pc]
 authors: [aki]
+recommendations: [/post/2018-10-25_RISECamp------ee65c2ef0c9e/, /post/2017-05-25_teach-what-i-dont-know/,
+  /post/2008-06-01-nantoiunu-li-noren/]
 ---
 
 この記事は[pyspa Advenct calender](https://adventar.org/calendars/3018)の17日目です。

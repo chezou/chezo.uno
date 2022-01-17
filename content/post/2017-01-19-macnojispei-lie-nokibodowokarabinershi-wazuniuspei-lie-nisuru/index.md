@@ -1,21 +1,19 @@
 ---
-title: "macのJIS配列のキーボードをKarabiner使わずにUS配列にする"
-subtitle: ""
-summary: ""
+title: macのJIS配列のキーボードをKarabiner使わずにUS配列にする
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2017-01-19T22:17:07+00:00
-lastmod: 2017-01-19T22:17:07+00:00
+categories: null
+date: 2017-01-19 22:17:07+00:00
+lastmod: 2017-01-19 22:17:07+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [キーボード, 配列, us, anker, ウルトラ, cmd, ホワイト, ワイヤレス, bluetooth, android]
+recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
+  /post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/]
 ---
 macOS Sierraに上げる前に、Karabinerが動かない問題をなんとかしたいと思っていました。 El capitanでちゃんと検証してから上げないと、色んな人みたいに死ぬなと思って[Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements)に移行できるか検証しました。
 

@@ -1,21 +1,19 @@
 ---
-title: "DSLite!"
-subtitle: ""
-summary: ""
+title: DSLite!
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2006-05-01T21:46:45+00:00
-lastmod: 2006-05-01T21:46:45+00:00
+categories: null
+date: 2006-05-01 21:46:45+00:00
+lastmod: 2006-05-01 21:46:45+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [秘書, 研究室, ds, 購入, 金曜日, タイ, わけ, 先輩, 先週, lite]
+recommendations: [/post/2006-03-17-uhi/, /post/2008-10-05-hd53r-ver-dot-8wogou-ru/,
+  /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
 ---
 ついに念願のNintendoDS Liteを購入しました！   
 先週の金曜日に研究室の秘書さんがおもむろに   

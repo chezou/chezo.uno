@@ -1,21 +1,19 @@
 ---
 title: 'kawasaki.rb #007 を開催しました #kwskrb'
-date: 2014-01-24T22:05:53.000Z
+date: 2014-01-24 22:05:53+00:00
 subtitle: ''
 summary: ''
 draft: false
 featured: false
-authors:
-  - aki
-lastmod: 2014-01-24T22:05:53.000Z
+authors: [aki]
+lastmod: 2014-01-24 22:05:53+00:00
 tags: []
 projects: []
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-categories:
-  - ruby
+image: {caption: '', focal_point: '', preview_only: false}
+categories: [ruby]
+keywords: [category, create, text, train, line, tagger, self, segment, def, method]
+recommendations: [/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
+  /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/]
 ---
 2013/12/18にkawasaki.rbの第7回を開催しました。  
 この会から、(同じミューザ川崎内ですが)NTT-ATさんに会場をお借りするようになりました。

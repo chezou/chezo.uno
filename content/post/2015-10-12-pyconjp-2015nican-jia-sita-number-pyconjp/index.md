@@ -1,21 +1,19 @@
 ---
-title: "PyConJP 2015に参加した #pyconjp"
-subtitle: ""
-summary: ""
+title: 'PyConJP 2015に参加した #pyconjp'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2015-10-12T16:24:25+00:00
-lastmod: 2015-10-12T16:24:25+00:00
+categories: null
+date: 2015-10-12 16:24:25+00:00
+lastmod: 2015-10-12 16:24:25+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [pandas, データ, hagino, 解析, '3000', pyconjp, python, 技術, slideshare, 形態素解析]
+recommendations: [/post/2017-09-09_PyConJP-2017------5fa5f59b9bde/, /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/,
+  /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/]
 ---
 はじめてPyConJPに参加してきました。
 

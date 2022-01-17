@@ -1,21 +1,19 @@
 ---
-title: "Rajaton"
-subtitle: ""
-summary: ""
+title: Rajaton
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-07-05T21:45:04+00:00
-lastmod: 2008-07-05T21:45:04+00:00
+categories: null
+date: 2008-07-05 21:45:04+00:00
+lastmod: 2008-07-05 21:45:04+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [rajaton, アカペラ, 盆休み, 小難しい, うらやましい, 進行, 系統, メロディー, 韓国, 祭り]
+recommendations: [/post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/, /post/2009-08-12-masa-festazhong-zhi/,
+  /post/2009-03-09-masafestanirajatonga/]
 ---
 うひょ、こういう系統のアカペラはたまらんわぁ。  
 というわけで、[Rajaton](http://acappellavillage.blog103.fc2.com/blog-category-15.html)という、フィンランドのアカペラグループの紹介です。  

@@ -1,21 +1,19 @@
 ---
-title: "B&#39;zのUltra treasureがやばすぎる"
-subtitle: ""
-summary: ""
+title: B&#39;zのUltra treasureがやばすぎる
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-09-28T00:09:00+00:00
-lastmod: 2008-09-28T00:09:00+00:00
+categories: null
+date: 2008-09-28 00:09:00+00:00
+lastmod: 2008-09-28 00:09:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [dvd, treasure, 選曲, ライブ, 素晴らし, style, '001', 熱い, 無く, ファン]
+recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2019-12-24-Python-Custom-scripting/,
+  /post/2005-05-19-vhsnei-zang-dvdpureya/]
 ---
 B&#39;zのUltra treasureの選曲がやばすぎです。  
   

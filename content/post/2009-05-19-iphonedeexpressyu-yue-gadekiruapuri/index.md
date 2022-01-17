@@ -1,21 +1,19 @@
 ---
-title: "iPhoneでExpress予約ができるアプリ"
-subtitle: ""
-summary: ""
+title: iPhoneでExpress予約ができるアプリ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-05-19T12:05:03+00:00
-lastmod: 2009-05-19T12:05:03+00:00
+categories: null
+date: 2009-05-19 12:05:03+00:00
+lastmod: 2009-05-19 12:05:03+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [変更, pc, 手抜き, zero, 遅延, ブックマークレット, 予約, なか, 携帯, ブラウザ]
+recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/,
+  /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/]
 ---
 元々、W-ZERO3から乗り換えた大きな理由として、JR東海のExpress予約ができないからでしたが、そんなとき[iPhoneでExpress予約ができるブックマークレット](http://niw.at/articles/2009/01/16/express-yoyaku-on-iphone/ja)があり感激して乗り換えを決意しました。
 

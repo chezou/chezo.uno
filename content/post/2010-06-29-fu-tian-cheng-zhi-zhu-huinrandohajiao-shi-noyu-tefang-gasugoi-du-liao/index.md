@@ -1,21 +1,20 @@
 ---
-title: "福田誠治著 「フィンランドは教師の育て方がすごい」読了"
-subtitle: ""
-summary: ""
+title: 福田誠治著 「フィンランドは教師の育て方がすごい」読了
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories:
-date: 2010-06-29T21:59:04+00:00
-lastmod: 2010-06-29T21:59:04+00:00
+categories: null
+date: 2010-06-29 21:59:04+00:00
+lastmod: 2010-06-29 21:59:04+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [教育, フィンランド, 教師, 現状, 素養, 市民, 尊敬, 日本, 課程, 国民]
+recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
+  /post/2010-07-05-yi-gu-gang-yan-shan-kou-er-lang-ge-chai-she-hui-tojiao-yu-gai-ge-du-liao/,
+  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
 ---
 [![](https://images-na.ssl-images-amazon.com/images/I/51lAwPopsUL._SX341_BO1,204,203,200_.jpg)](http://www.amazon.co.jp/dp/4750509035)
 フィンランド教育を日本に紹介している福田誠治氏の著書です。

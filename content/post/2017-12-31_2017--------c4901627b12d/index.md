@@ -3,8 +3,10 @@ title: 2017年を振り返って
 description: 昨年に引き続き、振り返っていきます。
 date: '2017-12-31T11:27:50+09:00'
 categories: []
-keywords: []
+keywords: [data, cloudera, science, 家庭, オライリー, 仕事, strata, sparklyr, singapore, 機械学習]
 authors: [aki]
+recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2019-12-04-R-and-TD/,
+  /post/2016-03-30-zhuan-zhi-simasita/]
 ---
 
 2017年を振り返って

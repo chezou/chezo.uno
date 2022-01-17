@@ -1,21 +1,19 @@
 ---
-title: "知らなかった、youtubeが貼り付けられるなんて"
-subtitle: ""
-summary: ""
+title: 知らなかった、youtubeが貼り付けられるなんて
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-08-31T07:08:00+00:00
-lastmod: 2008-08-31T07:08:00+00:00
+categories: null
+date: 2008-08-31 07:08:00+00:00
+lastmod: 2008-08-31 07:08:00+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [テスト, 後ほど, レポ, tone, 教授, try, 講座, トーク, 昨日, メンバー]
+recommendations: [/post/2018-01-17_----------------b63a0763e904/, /post/2009-03-03-sok-bao-masa-festa/,
+  /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
 ---
 やっとかよー。テストテスト。  
   

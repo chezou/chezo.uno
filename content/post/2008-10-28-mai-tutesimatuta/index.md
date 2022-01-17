@@ -1,21 +1,19 @@
 ---
-title: "買ってしまった"
-subtitle: ""
-summary: ""
+title: 買ってしまった
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-10-28T21:52:46+00:00
-lastmod: 2008-10-28T21:52:46+00:00
+categories: null
+date: 2008-10-28 21:52:46+00:00
+lastmod: 2008-10-28 21:52:46+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [hd, hfi, sa, '700', '650', '555', '15', 環境, ライブハウス, マランツ]
+recommendations: [/post/2008-10-05-hd53r-ver-dot-8wogou-ru/, /post/2008-09-14-hetudohonwu-se-sitahi/,
+  /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/]
 ---
 ![](https://ecx.images-amazon.com/images/I/211q7maMp8L._SL160_.jpg)[マランツ シルバー SA-15S1S](http://item.excite.co.jp/detail/ASIN_B000WM8KPI)  
  / マランツ・スーパースコープ  

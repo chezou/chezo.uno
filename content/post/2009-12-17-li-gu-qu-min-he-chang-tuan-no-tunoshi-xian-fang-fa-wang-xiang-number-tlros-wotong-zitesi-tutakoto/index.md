@@ -1,21 +1,19 @@
 ---
-title: "粒谷区民合唱団の一つの実現方法(妄想) - #tlros を通じて思ったこと -"
-subtitle: ""
-summary: ""
+title: '粒谷区民合唱団の一つの実現方法(妄想) - #tlros を通じて思ったこと -'
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-12-17T21:57:33+00:00
-lastmod: 2009-12-17T21:57:33+00:00
+categories: null
+date: 2009-12-17 21:57:33+00:00
+lastmod: 2009-12-17 21:57:33+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [パート, サービス, タグ, 楽しい, 何事, アカペラー, いみ, twitterアカウント, 武満徹, 曲名]
+recommendations: [/post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/, /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/,
+  /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/]
 ---
 最近、twitterで曲を歌うことになりました。なんというか、アカペラーや合唱人との繋がりが楽しくなってきたのですが、まさかこんな展開になるとは思っていなかったので楽しさが増してきました。  
 TLに、三善晃や武満徹の文字が流れる日が来るとは！

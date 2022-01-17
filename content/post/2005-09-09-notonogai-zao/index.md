@@ -1,21 +1,19 @@
 ---
-title: "ノートの改造"
-subtitle: ""
-summary: ""
+title: ノートの改造
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2005-09-09T21:47:11+00:00
-lastmod: 2005-09-09T21:47:11+00:00
+categories: null
+date: 2005-09-09 21:47:11+00:00
+lastmod: 2005-09-09 21:47:11+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [バッテリ, 純正, srx, vaio, 充電, もん, bd, 欲しく, ノート, メモリ]
+recommendations: [/post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/, /post/2009-10-18-vaio-xnixin-tokimeku/,
+  /post/2018-10-28_Thinkpad-X1-Carbon-MacBook-Pro----------USB-Type-C-------f6d8c8e77b36/]
 ---
 今使っているノート（VAIO PCG-SRX 3E/BD)のバッテリがへたってきました。  
 充電してももう1分ももちやしません。  

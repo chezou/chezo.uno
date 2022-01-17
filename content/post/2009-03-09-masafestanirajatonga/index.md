@@ -1,21 +1,19 @@
 ---
-title: "MasaFestaにRajatonが！！"
-subtitle: ""
-summary: ""
+title: MasaFestaにRajatonが！！
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2009-03-09T21:50:44+00:00
-lastmod: 2009-03-09T21:50:44+00:00
+categories: null
+date: 2009-03-09 21:50:44+00:00
+lastmod: 2009-03-09 21:50:44+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [rajaton, masa, festa, 最大規模, コーナー, academy, finland, コンサート, エントリ, やばい]
+recommendations: [/post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/,
+  /post/2009-07-11-masa-festanotiketutogalai-ta/, /post/2009-03-03-sok-bao-masa-festa/]
 ---
 やばい！生で聞きたいと思い、Finlandまで行ってもすれ違いだったRajatonが向こうから来てくれるとは！  
   

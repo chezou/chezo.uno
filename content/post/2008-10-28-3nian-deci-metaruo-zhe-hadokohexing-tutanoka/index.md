@@ -1,21 +1,19 @@
 ---
-title: "3年で辞めた若者はどこへ行ったのか？"
-subtitle: ""
-summary: ""
+title: 3年で辞めた若者はどこへ行ったのか？
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2008-10-28T21:48:41+00:00
-lastmod: 2008-10-28T21:48:41+00:00
+categories: null
+date: 2008-10-28 21:48:41+00:00
+lastmod: 2008-10-28 21:48:41+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [理系, 残業, 筆者, 転職, 研究室, 主張, 比較, 言葉, 転職活動, 誇張]
+recommendations: [/post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/, /post/2008-08-11-mian-bai-ihodoyokufen-karuzhe-xue-si-xiang-nosubete/,
+  /post/2008-06-15-ojin-nomian-qiang/]
 ---
 ![](https://ecx.images-amazon.com/images/I/41nDhvBD5UL._SL160_.jpg)[3年で辞めた若者はどこへ行ったのか―アウトサイダーの時代 (ちくま新書 (708))](http://item.excite.co.jp/detail/ASIN_4480064141)  
 城 繁幸 / / 筑摩書房  

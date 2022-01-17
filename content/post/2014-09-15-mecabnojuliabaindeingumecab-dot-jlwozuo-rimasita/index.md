@@ -1,21 +1,19 @@
 ---
-title: "MeCabのJuliaバインディングMeCab.jlを作りました"
-subtitle: ""
-summary: ""
+title: MeCabのJuliaバインディングMeCab.jlを作りました
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: 
-date: 2014-09-15T12:09:52+00:00
-lastmod: 2014-09-15T12:09:52+00:00
+categories: null
+date: 2014-09-15 12:09:52+00:00
+lastmod: 2014-09-15 12:09:52+00:00
 featured: false
 draft: false
-
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ptr, argv, mecab, void, end, julia, int, 構造体, ポインタ, length]
+recommendations: [/post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/,
+  /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/, /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/]
 ---
 Juliaから日本語形態素解析器として最も有名な[MeCab](https://code.google.com/p/mecab/)を使える[MeCab.jl](https://github.com/chezou/MeCab.jl)を作りました。
 

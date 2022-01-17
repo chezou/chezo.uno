@@ -1,12 +1,12 @@
 ---
 title: Thinkpad X1 Carbon (2017)をWindows 10/Ubuntu 17.04デュアルブートにした
-description: >-
-  前回 Thinkpad X1 Carbon(2017)のWindows周りの設定について書きましたが、今回はUbuntu
-  17.04とのデュアルブートについて書きます。
+description: 前回 Thinkpad X1 Carbon(2017)のWindows周りの設定について書きましたが、今回はUbuntu 17.04とのデュアルブートについて書きます。
 date: '2017-07-10T00:11:00+09:00'
 categories: []
-keywords: []
+keywords: [ubuntu, sudo, install, apt, get, 設定, .com, windows, デュアルブート, キーボード]
 authors: [aki]
+recommendations: [/post/2017-07-08_MBP--Thinkpad-X1-Carbon-2017-------46c374167b79/,
+  /post/2017-08-26_Python------------------dc8d8f2fe989/, /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/]
 ---
 
 前回 [Thinkpad X1 Carbon(2017)のWindows周りの設定](https://medium.com/@chezou/46c374167b79)について書きましたが、今回はUbuntu 17.04とのデュアルブートについて書きます。

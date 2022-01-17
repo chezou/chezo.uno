@@ -1,31 +1,19 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "RとTreasure Data"
-subtitle: ""
-summary: "RTDとRPrstoを使ってRからTreasure Dataにアクセスしてみよう"
+title: RとTreasure Data
+subtitle: ''
+summary: RTDとRPrstoを使ってRからTreasure Dataにアクセスしてみよう
 authors: [aki]
 tags: [R]
 categories: [R, TreasureData]
-date: 2019-12-04T00:00:00+09:00
-lastmod: 2019-12-04T00:00:00+09:00
+date: 2019-12-04 00:00:00+09:00
+lastmod: 2019-12-04 00:00:00+09:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: ["RTD"]
+image: {caption: '', focal_point: '', preview_only: false}
+projects: [RTD]
+keywords: [spark, treasure, client, data, sparklyr, cran, 開発, インストール, サポート, install]
+recommendations: [/post/2019-12-24-Python-Custom-scripting/, /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/,
+  /post/2017-12-31_2017--------c4901627b12d/]
 ---
 
 この記事は、[Arm Treasure Data advent calendar](https://adventar.org/calendars/3932) 3日目です。
