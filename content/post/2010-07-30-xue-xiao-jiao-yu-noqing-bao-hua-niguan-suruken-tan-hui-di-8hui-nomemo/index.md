@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [情報化, 学び, 仮説, 情報, 活用, 日常, 能力, 懇談会, 学校教育, 議論]
-recommendations: [/post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/,
-  /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
+keywords: [委員, 協働, 情報化, 学び, 仮説, 新井, パッシブ, 情報, 活用, 子どもたち]
+recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
+  /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/,
   /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
 ---
 先日7/28に開催された[「学校教育の情報化に関する懇談会」第8回](http://jukugi.mext.go.jp/library_view?library_id=273)の聞きながら書いたメモです。[動画](http://www.elnet.go.jp/elnet_web/file/work1/ondemand/20100729142345/4155420a195d10230f1c146d/4155420a195d10230f1c146d2.asx)はこちらにありますので、きちんとしたものはそちらを参照ください。

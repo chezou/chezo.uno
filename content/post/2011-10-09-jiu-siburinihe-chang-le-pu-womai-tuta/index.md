@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [購入, 楽譜, sings, dobrogosz, steve, rajaton, 作曲, lord, '2008', 編曲]
+keywords: [購入, 楽譜, 曲集, sings, dobrogosz, steve, rajaton, 新刊, キャロル, sulasol]
 recommendations: [/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
   /post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
 ---

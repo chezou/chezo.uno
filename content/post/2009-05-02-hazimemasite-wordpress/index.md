@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [移行, 関係, 技術的, ヘッドホン, 満足, 全部, 面倒, 音楽, 本当, データ]
-recommendations: [/post/2009-05-16-du-shu-metahazimemasita/, /post/2008-09-14-hetudohonwu-se-sitahi/,
-  /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/]
+keywords: [引っ越し, excite, 移行, 関係, 不満, 技術的, ヘッドホン, 満足, 全部, 面倒]
+recommendations: [/post/2009-05-16-du-shu-metahazimemasita/, /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/,
+  /post/2008-09-14-hetudohonwu-se-sitahi/]
 ---
 exciteがちょっと不満になったので、こちらにお引っ越しです。本当はデータも全部お引っ越ししようかと思って、色々試したのですが技術的に可能なことが分かったところで満足して面倒になったので、やめました。
 

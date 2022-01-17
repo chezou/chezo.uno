@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [sings, dobrogosz, steve, 日本, 開演, 開場, 教会, lord, '2008', 作曲家]
-recommendations: [/post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2008-10-28-sings-2008-with-steve-dobrogosz/,
+keywords: [sings, dobrogosz, steve, 共演, スウェーデン, 日本, 集団, 日時, 開演, 開場]
+recommendations: [/post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/,
   /post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/]
 ---
 スウェーデンのJazz Pianistであり作曲家でもあるSteve Dobrogosz氏と、素敵な実力派合唱集団SINGSが日本で再び共演することが決まったようです。

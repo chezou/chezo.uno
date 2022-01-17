@@ -4,7 +4,7 @@ description: さる5/30に『n月刊ラムダノート』創刊記念パーテ�
 date: '2019-06-04T13:33:18+09:00'
 lastmod: '2019-06-04T13:33:18+09:00'
 categories: []
-keywords: [ノート, イベント, 祭り, club, 録音, オペレーション, mametter, 軽い, 手間, ノリ]
+keywords: [ノート, コルーチン, 月刊, 鹿野, 記念, 創刊, イベント, 祭り, club, 録音]
 authors: [aki]
 recommendations: [/post/2019-03-29_ngekkan-lambda-note-article/, /post/2006-07-28-xia-nanode/,
   /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/]

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [pdf, 苦労, 漫画, 作品, 構造, 広告, 日記, 人気, 意見, 基本]
-recommendations: [/post/2008-06-22-bokurano-alternative/, /post/2008-07-19-can-shu-gui-tou-mo-hong/,
-  /post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/]
+keywords: [pdf, 苦労, 漫画, 作品, 許容範囲, 絶版, ラインナップ, ゼミ, みゆき, 構造]
+recommendations: [/post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/,
+  /post/2008-06-22-bokurano-alternative/, /post/2008-07-19-can-shu-gui-tou-mo-hong/]
 ---
 以前、大々的にラブひながPDFで読めると話題になった絶版漫画公開サイト、[Jコミ](http://www.j-comi.jp/)。  
 その後、特に追いかけていなかったのですが、[生駒日記でサラダデイズが読めると聞いて](http://d.hatena.ne.jp/mamoruk/20110717/p1)ホイホイ呼ばれて久しぶりに行ってみました。

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [アドレス, ipad, iphone, 送信, softbank, 複数, メッセージ, 設定, ios, apple]
-recommendations: [/post/2009-05-18-iphonetono1zhou-jian/, /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/,
-  /post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/]
+keywords: [gmail, imessage, アドレス, ipad, iphone, 送信, icloud, softbank, 複数, メッセージ]
+recommendations: [/post/2009-05-18-iphonetono1zhou-jian/, /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/,
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/]
 ---
 iMessageを複数のデバイスで同一Apple IDで使う場合に、どちらか一方に送る方法を検討したらわかりました。
 

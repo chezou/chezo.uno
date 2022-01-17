@@ -8,9 +8,9 @@ featured: false
 authors: [aki]
 tags: []
 projects: []
-keywords: [ゲーム, twitter, 著者, ウェブ, 社会, リアルタイム, '12', '23', '11', 興味]
-recommendations: [/post/2012-11-10-websocketwoshi-tuteriarutaimunixing-tai-su-jie-xi-wosurumorph-websocketwozuo-tutemita/,
-  /post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/, /post/2018-06-27_internet-for-kids/]
+keywords: [読了, ゲーム, twitter, 絶対音感, ikki, 講談社コミックス, キス, ぼくらの, 著者, ウェブ]
+recommendations: [/post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/,
+  /post/2008-07-06-nodamekantabire18-20/, /post/2008-08-11-nodame21juan/]
 ---
 読書メータにこんな機能あったのね。しかも画像付き。便利だわー。ちょっと貼り付けてみる。というか、あまり本読んでなかったのねぇ。twitterに時間を奪われていたのかな。
 

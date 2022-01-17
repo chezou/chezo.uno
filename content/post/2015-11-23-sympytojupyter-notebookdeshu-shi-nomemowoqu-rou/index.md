@@ -11,10 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [数式, kindle, グラフ, .com, メモ, latex, 定額, クーポン, kindle版, ついで]
-recommendations: [/post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/,
-  /post/2016-05-09-ji-jie-xue-xi-nofen-lei-nohua-wosun-shi-guan-shu-tojue-ding-jing-jie-wozhong-xin-nizheng-li-sitemita/,
-  /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/]
+keywords: [packt, instant, 数式, kindle, グラフ, .com, メモ, 月額, センター試験, アンケート]
+recommendations: [/post/2016-05-29-sonomoderu-guo-xue-xi-siteruno-wei-xue-xi-nano-tokun-tutara/,
+  /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/, /post/2017-01-16_fake-news/]
 ---
 [id:meison\_amsl](http://blog.hatena.ne.jp/meison_amsl/) さんによるSympyの紹介がとてもよい感じだったのですが、Sympy Liveわざわざ使わなくてもJupyter notebook使えるのでは！？と思ったので試してみました。\*1わざわざ、というと語弊があると思いますが、手元でメモ＋αとして管理するのにはJupyter notebookの方がいいかなと思っています。
 

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [lan, 安定, バック, ホール, wifi, ソフト, wi-fi, ntt, 会社, 端末]
-recommendations: [/post/2009-10-23-windows7-64bitwodg33tlmninantokadao-ru-sita/, /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/,
-  /post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/]
+keywords: [有線, lan, 工事, 安定, バック, ホール, wifi, メッシュ, ef, ソフト]
+recommendations: [/post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/,
+  /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/, /post/2009-10-23-windows7-64bitwodg33tlmninantokadao-ru-sita/]
 ---
 
 このお話は、[pyspaアドベントカレンダー](https://adventar.org/calendars/5310)の11日目です。昨日はwozozoでした。多分彼はこの記事をチラ見して「長過ぎる。地雷乙」と言うでしょう。

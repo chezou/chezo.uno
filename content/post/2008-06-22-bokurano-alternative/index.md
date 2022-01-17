@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [作品, 最終, 小説, 小学館, 酷い, 漫画, 想像, 納得, 満足, 注意]
-recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
-  /post/2008-08-24-sayonaraituka/]
+keywords: [作品, 漫画版, 最終回, 文庫, 取り扱い, alternative, 対談, 原作, ぼくらの, 最終]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-08-24-sayonaraituka/,
+  /post/2008-07-30-narutaru/]
 ---
 ![](https://ecx.images-amazon.com/images/I/31pUbmOfFVL._SL160_.jpg)[ぼくらの ~alternative~ 5 (ガガガ文庫 お 1-5)](http://item.excite.co.jp/detail/ASIN_4094510753)  
 大樹 連司 / / 小学館  

@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [インチ, '20', 次第, ブランド, 他社, ワイド, 1万, 安く, 来年, 安い]
-recommendations: [/post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
+keywords: [インチ, '20', ほしく, 3万, 決断, 次第, ブランド, 他社, ワイド, 1万]
+recommendations: [/post/2005-08-06-webkamera/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
   /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
 ---
 20インチワイド液晶が3万円で手にはいると聞いて、沸々とほしくなってきた次第です。  

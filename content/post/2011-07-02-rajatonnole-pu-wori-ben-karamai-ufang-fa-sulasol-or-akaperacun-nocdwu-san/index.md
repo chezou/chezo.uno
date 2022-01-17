@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [楽譜, rajaton, メール, 購入, cd, 日本, 確認, 依頼, フォーム, 出版]
+keywords: [mia, 楽譜, rajaton, メール, 購入, sulasol, cd, オーダー, 日本, 確認]
 recommendations: [/post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/,
   /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
 ---

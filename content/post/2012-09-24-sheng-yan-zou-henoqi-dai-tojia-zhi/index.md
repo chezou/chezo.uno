@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [演奏, ライブ, press start, ゲーム音楽, シンポジウム, 期待, バランス, スピーカー, 音楽, 値段]
-recommendations: [/post/2009-07-05-guan-dong-hagame-musichoihoida/, /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/,
-  /post/2012-10-04-finlandnochuan-tong-de-nale-qi-kanterewomodanniyan-zou-suruida-elina/]
+keywords: [演奏, ライブ, press start, skyrim, ゲーム音楽, 良けれ, オケ, シンポジウム, 期待, バランス]
+recommendations: [/post/2009-07-05-guan-dong-hagame-musichoihoida/, /post/2012-10-04-finlandnochuan-tong-de-nale-qi-kanterewomodanniyan-zou-suruida-elina/,
+  /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/]
 ---
 [gallery]
 

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [シリーズ, 続き, 学生, 想像, 大学, 入門, 話題, タイトル, 機会, 先生]
-recommendations: [/post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/,
-  /post/2005-08-17-mazimena-dian-bo-xi-songs/, /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/]
+keywords: [森博嗣, ミステリー, シリーズ, 東野, 嫌い, 圭吾, 読了, 深く, 続き, 学生]
+recommendations: [/post/2008-10-02-pahuekutoburudu-liao/, /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/,
+  /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/]
 ---
 森博嗣の「すべてがFになる」を読了した。  
 タイトルの意味も最初はさっぱり分からなかったのだが、読み終わる頃にはなっとく。  

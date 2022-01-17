@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [最初, 終わり, 描写, 人間, 納得, 作品, 構成, isbn, 意味, 最後]
-recommendations: [/post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/,
-  /post/2008-06-22-bokurano-alternative/]
+keywords: [最初, 浮気, 文庫, 終わり, 描写, 人間, 納得, 作品, 構成, isbn]
+recommendations: [/post/2008-06-22-bokurano-alternative/, /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/,
+  /post/2008-10-10-tiisanatiisanawang-yang/]
 ---
 ![](https://ecx.images-amazon.com/images/I/41KDD053FTL._SL160_.jpg)[サヨナライツカ (幻冬舎文庫)](http://item.excite.co.jp/detail/ASIN_434440257X)  
 辻 仁成 / / 幻冬舎  

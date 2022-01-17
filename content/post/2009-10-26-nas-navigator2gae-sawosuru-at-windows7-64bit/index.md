@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [nas, 追記, ダメ, 管理者, buffalo, 解決方法, time, アイコン, だめ, ネットワーク]
-recommendations: [/post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/, /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/,
-  /post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/]
+keywords: [nas, 追記, ダメ, 下手, 積極的, navigator, map, linkstation, exe, error]
+recommendations: [/post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/,
+  /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/, /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/]
 ---
 091111追記：解決方法は[こちら](http://wp.me/pvR30-d2)。
 

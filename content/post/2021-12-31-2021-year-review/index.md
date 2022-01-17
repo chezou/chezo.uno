@@ -11,9 +11,9 @@ tags: []
 categories: []
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
-keywords: [お金, ops, アニメ, 漫画, 去年, 来年, 執筆, 東京, はず, ml]
-recommendations: [/post/2020-12-31-2020-review/, /post/2018-06-19_goodbye-cloudera/,
-  /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
+keywords: [お金, ops, アニメ, 漫画, 去年, 来年, 執筆, 東京, はず, 毛色]
+recommendations: [/post/2020-12-31-2020-review/, /post/2021-12-18-8-months-after-relocating-Vancouver/,
+  /post/2015-12-30-2015nian-wozhen-rifan-tute/]
 ---
 [去年](https://chezo.uno/post/2020-12-31-2020-review/)に引き続き、年末の振り返りです。まだ西海岸時間は2021年です。
 

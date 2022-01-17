@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [re, 文字列, マッチ, test, string, input, str, パターン, int, 判定]
+keywords: [re, endl, 文字列, cout, マッチ, test, string, input, replace, str]
 recommendations: [/post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita/,
   /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
   /post/2012-02-12-pficommonnopfi-text-jsondesiriaraizu-slash-desiriaraizusitemita/]

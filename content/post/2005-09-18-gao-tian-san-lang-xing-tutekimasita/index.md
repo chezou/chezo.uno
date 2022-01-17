@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [混声, 演奏会, 良かっ, 合唱団, 今日, 開演, 練習, 感動, 堪能, ソロ]
+keywords: [混声, 演奏会, オケ, 男声, コンサートホール, 良かっ, 合唱団, 今日, 合同, 力押し]
 recommendations: [/post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/,
-  /post/2005-07-17-urayamasika/, /post/2008-11-08-liang-ishi-dai-ninatutanee/]
+  /post/2010-09-11-press-start-2010xing-tutekita/, /post/2005-07-17-urayamasika/]
 ---
 今日は、某高田三郎の演奏会に行ってきました。  
   

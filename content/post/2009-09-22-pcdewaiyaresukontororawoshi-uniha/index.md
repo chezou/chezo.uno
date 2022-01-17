@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ワイヤレス, '360', pc, 普通, アダプタ, 程度, 入手, ゲーム, 方法, マウス]
-recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2008-01-18-souiebakokohawu-yu-burogudatuta/,
-  /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/]
+keywords: [コントローラ, ワイヤレス, ps, '360', logicool, pc, 普通, アダプタ, 程度, 入手]
+recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2009-11-14-wu-xian-kontorora/,
+  /post/2019-03-10_business-trip-goods/]
 ---
 ふと思い立って、WiiよろしくPCもワイヤレスコントローラでゲームをやってみたい、と思ったので調べてみた。
 

@@ -11,10 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [調査, 負担, 教員, 業務, 情報, 中間, 授業, 学校, 薄い, 研究]
+keywords: [調査, 負担, 教員, 業務, 文部科学省, 文書, 教育現場, 学校現場, 情報, 成績]
 recommendations: [/post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/,
   /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/,
-  /post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/]
+  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
 ---
 何が教育現場の問題なのかを調べたいと思ったら、この資料にたどり着きました。ざっくりとしたメモです。情報薄いです。
 

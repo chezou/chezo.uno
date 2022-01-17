@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [作品, 子供, リズム, '82', ランキング, at, '06', 表現, '13', 詳細]
-recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2017-05-25_teach-what-i-dont-know/,
-  /post/2008-07-13-lang-toxiang-xin-liao-1/]
+keywords: [絵本, ころ, '81', 作品, 子供, リズム, '82', ランキング, at, '06']
+recommendations: [/post/2017-05-25_teach-what-i-dont-know/, /post/2008-07-19-can-shu-gui-tou-mo-hong/,
+  /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/]
 ---
 この記事は[子育て 読み聞かせ Advent Calendar 2013 - Adventar](http://www.adventar.org/calendars/165)に参加しています。
 

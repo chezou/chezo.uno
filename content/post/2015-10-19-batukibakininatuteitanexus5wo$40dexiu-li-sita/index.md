@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [液晶, 修理, jpg, ブラック, キット, img, 交換, 基盤, 適当, 画面]
-recommendations: [/post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/,
-  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/]
+keywords: [ガラス, ドライバー, 液晶, 修理, nexus, フィルム, jpg, 硬度, 日本製, フレーム]
+recommendations: [/post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
+  /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/]
 ---
 ![](/img/20151018/20151018110109.jpg)
 

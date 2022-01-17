@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ジャパン, best, 注意, cd, スコア, 選択, 感じ, 魅力, 高速, 高校生]
+keywords: [電車, '2006', ミュージック, ジャパン, best, 注意, cd, スコア, 選択, 感じ]
 recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2006-07-28-xia-nanode/,
   /post/2008-09-08-luck-stealer-2/]
 ---

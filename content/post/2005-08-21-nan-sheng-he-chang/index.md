@@ -11,8 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [無性, ポップ, 準備, 一緒, 音楽, 最近, 良い, 魅力, 高速, 高校生]
-recommendations: [/post/2005-08-06-webkamera/, /post/2009-11-26-the-real-album/, /post/2005-05-19-vhsnei-zang-dvdpureya/]
+keywords: [男声, 男声合唱, 松下, 木下, 美しい, 信長, 無性, ポップ, 準備, 一緒]
+recommendations: [/post/2011-12-25-yi-teng-hui-si-ming-dao-qi-tai-liang-shi-noxuan-nda-xue-sheng-he-chang-notameno-sutiyudentosongubutuku-gare-i/,
+  /post/2005-09-18-gao-tian-san-lang-xing-tutekimasita/, /post/2009-11-26-the-real-album/]
 ---
 最近、無性に男声合唱がやりたくなってきました。  
 新年会とかに向けて今から準備すれば曲いっぱいやれないかなぁ……。  

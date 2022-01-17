@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [教育, 意見, 議論, 学校, ict, 懇談会, 文科省, 学校教育, クラウド, 評価]
-recommendations: [/post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/,
-  /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
+keywords: [教育, 意見, 議論, 学校, ict, 懇談会, 校務, 文科省, 学校教育, クラウド]
+recommendations: [/post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
+  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/,
   /post/2010-07-05-yi-gu-gang-yan-shan-kou-er-lang-ge-chai-she-hui-tojiao-yu-gai-ge-du-liao/]
 ---
 文科省が主催する、[学校教育の情報化に関する懇談会](http://www.mext.go.jp/a_menu/shotou/zyouhou/1292783.htm)の[第5回が6/9に開催されました](http://www.mext.go.jp/b_menu/houdou/22/05/1294349.htm)。  

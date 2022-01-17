@@ -12,7 +12,7 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [一言, 感激, 小さく, 主人公, 講談社, 深い, 納得, 文章, isbn, 最初]
-recommendations: [/post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2008-08-24-sayonaraituka/,
+recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
   /post/2008-07-06-nodamekantabire18-20/]
 ---
 ![](https://ecx.images-amazon.com/images/I/411BYQ5N4CL._SL160_.jpg)[ちいさなちいさな王様](http://item.excite.co.jp/detail/ASIN_4062083736)  

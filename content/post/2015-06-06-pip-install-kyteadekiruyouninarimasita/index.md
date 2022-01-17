@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [gem, デビュー, python, rubyist, swig, setup, kytea, パッケージ, 有賀, 康顕]
-recommendations: [/post/2017-08-26_Python------------------dc8d8f2fe989/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
-  /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/]
+keywords: [gem, pypi, デビュー, python, rubyist, documentation, swig, setup, kytea, パッケージ]
+recommendations: [/post/2018-04-17_---PyPI-Markdown-----------14e40d90ff3f/, /post/2017-08-26_Python------------------dc8d8f2fe989/,
+  /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/]
 ---
 先月のkawasaki.rbで、Rubyistなのにgemより先にPypiデビューしましたという話をしました。
 

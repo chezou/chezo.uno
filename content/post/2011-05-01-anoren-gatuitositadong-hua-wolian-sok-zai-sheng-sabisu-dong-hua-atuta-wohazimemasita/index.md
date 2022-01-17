@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [動画, ツイート, 連続, 再生, 検索, 問題点, 上手く, ie, google chrome, da]
-recommendations: [/post/2011-04-06-gatiyapin-sings-rajaton/, /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/,
-  /post/2009-12-05-after-devil-forcewofa-jue-sita/]
+keywords: [動画, ツイート, 連続, 再生, 検索, twitterアカウント, ツイッター, firefox, 問題点, 上手く]
+recommendations: [/post/2011-04-06-gatiyapin-sings-rajaton/, /post/2009-12-05-after-devil-forcewofa-jue-sita/,
+  /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/]
 ---
 [![動画あったー](da_thumb.jpg)](http://tw2tube.appspot.com/)
 

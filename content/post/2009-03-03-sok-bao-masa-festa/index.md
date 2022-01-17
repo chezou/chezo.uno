@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [masa, festa, 男性, real, 来日, リアル, メンバー, アカペラ, 音楽, 開催]
+keywords: [プチヲタ, masa, festa, 男性, real, 来日, リアル, メンバー, アカペラ, 音楽]
 recommendations: [/post/2009-03-09-masafestanirajatonga/, /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/,
   /post/2009-04-13-it-dont-mean-a-thing/]
 ---

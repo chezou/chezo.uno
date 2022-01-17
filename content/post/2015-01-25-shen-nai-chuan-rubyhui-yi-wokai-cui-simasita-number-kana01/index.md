@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ruby, 会議, コミュニティ, 段階, 勉強会, コンセプト, kawasaki, live, rb, 僕自身]
+keywords: [ruby, リージョナル, 会議, コミュニティ, ペアプロ, 段階, 嬉しかっ, 勉強会, コンセプト, kawasaki]
 recommendations: [/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
   /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/, /post/2014-09-21-rubykaigixing-tutekimasita-and-rubyhirobade-shen-nai-chuan-rubyhui-yi-01-gao-zhi-ltsitekimasita-number-rubykaigi-number-rubyhiroba-number-kana01/]
 ---

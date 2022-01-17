@@ -11,10 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [python, usr, so, swig, '2.4', packages, bash, site, 自然言語処理, ラッパー]
+keywords: [python, juman, gcc, usr, so, swig, '2.4', wrap, morphological, bindings]
 recommendations: [/post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
   /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
-  /post/2017-08-26_Python------------------dc8d8f2fe989/]
+  /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/]
 ---
 cJumanという[@kharakawa](http://twitter.com/kharakawa) さんの作成された、形態素解析器Jumanをpythonから使うためのSWIGで作られたラッパーがあります。
 

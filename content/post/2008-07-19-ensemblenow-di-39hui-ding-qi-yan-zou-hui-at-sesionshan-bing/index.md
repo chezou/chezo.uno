@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [団体, 時点, かんじ, 編曲, 曲目, 変態, ノリ, time, 全体的, 予想]
-recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-13-lang-toxiang-xin-liao-1/,
-  /post/2009-03-15-xin-ju-nihakurozetutoganai/]
+keywords: [busto, 団体, 三善, アバウト, scarborough, mäntyjärvi, feel, david, cayabyab, 宗教]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2005-07-17-urayamasika/,
+  /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
 ---
 Bustoの作品を聞きたいと思い行ってきました。  
 といっても、ぼけーっとケーキを食べていたら少し遅れてしまいました(^\_^;  

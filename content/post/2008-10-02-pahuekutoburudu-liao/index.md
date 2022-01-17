@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [店員, 辛く, 指定, 可能性, 納得, 東京, 仕方, いつも, isbn, 展開]
-recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/,
-  /post/2008-06-22-bokurano-alternative/]
+keywords: [店員, 読後感, 王道, 森博嗣, 東野, 感情移入, 圭吾, ミステリー, みゆき, 伏線]
+recommendations: [/post/2008-05-17-subetegafninaru-du-liao/, /post/2008-08-24-sayonaraituka/,
+  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51ZPRX97W0L._SL160_.jpg)[パーフェクト・ブルー (創元推理文庫)](http://item.excite.co.jp/detail/ASIN_4488411010)  
 宮部 みゆき / / 東京創元社  

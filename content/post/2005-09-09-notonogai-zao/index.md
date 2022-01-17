@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [バッテリ, 充電, もん, bd, 欲しく, ノート, メモリ, hdd, 近い, マシン]
-recommendations: [/post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/, /post/2019-06-04_ngekkan-party/,
-  /post/2019-03-29_ngekkan-lambda-note-article/]
+keywords: [バッテリ, 純正, srx, vaio, 充電, もん, bd, 欲しく, ノート, メモリ]
+recommendations: [/post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/, /post/2009-10-18-vaio-xnixin-tokimeku/,
+  /post/2018-10-28_Thinkpad-X1-Carbon-MacBook-Pro----------USB-Type-C-------f6d8c8e77b36/]
 ---
 今使っているノート（VAIO PCG-SRX 3E/BD)のバッテリがへたってきました。  
 充電してももう1分ももちやしません。  

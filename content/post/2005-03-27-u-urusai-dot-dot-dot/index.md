@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [cpu, ファン, ケース, もん, 整理, 原因, ケーブル, 起動, 現在, 以前]
-recommendations: [/post/2009-04-26-tiyanneruhasonomama-vol-dot-1/, /post/2019-03-10_business-trip-goods/,
+keywords: [cpu, ファン, ケース, '320', もん, 整理, 原因, ケーブル, 起動, 現在]
+recommendations: [/post/2019-03-10_business-trip-goods/, /post/2009-04-26-tiyanneruhasonomama-vol-dot-1/,
   /post/2006-03-17-uhi/]
 ---
 現在、CPUはCeleronDの320を使っているんですが、最近長時間起動しているとCPUファンがうるさいのなんのって。。。  

@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [工学, 先生, 表現, 機械学習, スライド, 学習, 変化, 説明, セッション, 議論]
-recommendations: [/post/2020-07-11-MLSE-summer-workshop/, /post/2018-05-17_MLSE-kickoff/,
+keywords: [工学, 先生, 表現, shima, 機械学習, shift, スライド, 学習, effect, '2019']
+recommendations: [/post/2018-05-17_MLSE-kickoff/, /post/2020-07-11-MLSE-summer-workshop/,
   /post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/]
 ---
 

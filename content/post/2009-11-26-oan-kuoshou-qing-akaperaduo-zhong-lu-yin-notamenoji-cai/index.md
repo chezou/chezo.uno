@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [マイク, 重視, 録音, 厳しい, 楽しみ, 機材, 多重, 停止, 生産, 挫折]
+keywords: [マイク, pro, オーディオインターフェース, 重視, 録音, 厳しい, 楽しみ, 本格的, ルネサンス, マイクスタンド]
 recommendations: [/post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
   /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/, /post/2005-10-07-tuinikita/]
 ---

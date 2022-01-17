@@ -11,7 +11,7 @@ tags: []
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 categories: [ruby]
-keywords: [科学, 計算, ライブラリ, 機械学習, python, ruby, 数値計算, シェア, 予約, 余談]
+keywords: [プロジェクター, 科学, 計算, ライブラリ, 機械学習, 現地, 他言, テスト自動化, python, ruby]
 recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/,
   /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
   /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/]

@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [スピーカー, bluetooth, ブルー, 内蔵, ワイヤレス, 仕様, マイク, 風呂, ラジオ, 対応]
-recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
+keywords: [patech, スピーカー, bluetooth, 防水, 吸盤, '3.0', ブルー, 内蔵, ワイヤレス, 仕様]
+recommendations: [/post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
   /post/2009-05-30-san-ling-dong-jing-ufjnokorusentagasu-qing-rasii3tunoli-you/]
 ---
 前々からBluetoothのお風呂ラジオをほしいなーと思っていたのですが、昔に比べるとかなり安くなっていたので買いました。

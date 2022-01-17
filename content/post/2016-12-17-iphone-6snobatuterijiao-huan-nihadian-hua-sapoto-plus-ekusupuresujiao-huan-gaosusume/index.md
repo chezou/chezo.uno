@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [交換, 店舗, 電話, iphone, 在庫, やりとり, バッテリー, mm, inch, '2.5']
+keywords: [交換, 店舗, 電話, 当選, フィルム, iphone, 在庫, やりとり, 硬度, tsuboi]
 recommendations: [/post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/,
-  /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/, /post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/]
+  /post/2015-10-19-batukibakininatuteitanexus5wo$40dexiu-li-sita/, /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/]
 ---
 噂のiPhone 6sのバッテリー交換に当選しました。症状としては、突然電源断が起こるというもので、ちょいちょい突如落ちる現象には悩まされていました。
 

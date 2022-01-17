@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ドイツ, 英語, 購入, 携帯, 通信, 定額, フリー, 事前, インターネット, 店舗]
-recommendations: [/post/2017-01-16_fake-news/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
-  /post/2005-03-03-sugoi/]
+keywords: [sim, チャージ, sms, ドイツ, ユーロ, 英語, 購入, 携帯, day, 通信]
+recommendations: [/post/2015-10-08-iijmiono-outidenanbapotabiritei-shi-tutezi-zhai-demnpsita/,
+  /post/2009-11-14-iphonekesuwomai-ihuan-eta/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/]
 ---
 [![](fonic.jpg)](fonic.jpg)
 

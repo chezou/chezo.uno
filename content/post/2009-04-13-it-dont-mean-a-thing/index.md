@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [foo, real, the real group, アレンジ, cd, of, 音楽, tags, 魅力, 高速]
+keywords: [かっこいい, foo, real, the real group, アレンジ, cd, of, 音楽, tags, ｒｙ]
 recommendations: [/post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
-  /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/, /post/2008-07-10-ris-a-la-malta/]
+  /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/, /post/2008-06-03-er-du-qin-qian/]
 ---
 [この曲](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=79313514&id=79313534&s=143462)がかっこいいです。  
 Fight of Foo Birdsもかっこいいですが。  

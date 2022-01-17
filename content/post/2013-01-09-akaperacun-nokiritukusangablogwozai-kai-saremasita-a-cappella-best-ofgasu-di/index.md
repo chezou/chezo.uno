@@ -11,10 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [the, '39', in, cd, live, it, singers, of, version, so]
-recommendations: [/post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/,
-  /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/,
-  /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/]
+keywords: [the, '39', in, cd, live, it, she, king, du, a cappella]
+recommendations: [/post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/,
+  /post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/,
+  /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
 ---
 素敵なアカペラCDを通販されていたあかぺら村のキリックさんが、この度blogを解説されたようです！
 

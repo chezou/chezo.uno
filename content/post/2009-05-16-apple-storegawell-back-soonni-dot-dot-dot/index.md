@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [nas, mac, 自動, 入手, 方法, 状態, iphone, わけ, 対処, メンテナンス]
-recommendations: [/post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/,
-  /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/, /post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/]
+keywords: [マウント, volume, photo, nas, mac, 自動, 入手, 方法, 状態, iphone]
+recommendations: [/post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/,
+  /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/, /post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/]
 ---
 もうすぐ、新型iPhoneだとかiPod touchの発表なんでしょうね。amazonでも32G touchが20000円引きで売られていることですし。
 

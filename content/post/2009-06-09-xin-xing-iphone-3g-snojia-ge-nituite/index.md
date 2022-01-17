@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [gb, 価格, office, ちなみ, バッテリー, ipod touch, 一括, カメラ, softbank, 限定]
-recommendations: [/post/2009-05-04-ad-es-wojie-yue-surutameni/, /post/2007-05-10-usbdewen-kerufm-slash-amrazio/,
-  /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/]
+keywords: [gb, １６, 価格, office, スパボ, professional, '2007', ちなみ, 機種変, 手っ取り]
+recommendations: [/post/2009-05-04-ad-es-wojie-yue-surutameni/, /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/,
+  /post/2007-05-10-usbdewen-kerufm-slash-amrazio/]
 ---
 [iPhone 3G Sの価格について | SoftBank](http://mb.softbank.jp/mb/iphone/iphone_3g_s/).を見てみるとやばい、やばすぎる。  
 １６GBで11520円、３２GBで23040円って、、、あれ、１６GBをスパボ一括で29800円で買ったのに涙が出てきそうだ……。

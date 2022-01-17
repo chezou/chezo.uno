@@ -5,7 +5,7 @@ date: '2018-10-25T08:01:02+09:00'
 categories: []
 keywords: [処理, ライブラリ, github, jpeg, ml, 実験, python, img, モデル, デプロイ]
 authors: [aki]
-recommendations: [/post/2017-09-09_PyConJP-2017------5fa5f59b9bde/, /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/,
+recommendations: [/post/2017-09-09_PyConJP-2017------5fa5f59b9bde/, /post/2018-12-16_dialogues-with-computer-dce83c32e67e/,
   /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/]
 ---
 

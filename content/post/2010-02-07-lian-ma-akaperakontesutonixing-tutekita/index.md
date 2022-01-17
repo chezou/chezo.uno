@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [和音, rajaton, アレンジ, the, 難しい, オリジナル, アカペラ, リズム, アマチュア, ベース]
+keywords: [和音, rajaton, 曲名, アレンジ, the, tone, try, 難しい, オリジナル, 宗教]
 recommendations: [/post/2008-07-05-rajaton/, /post/2009-03-09-masafestanirajatonga/,
   /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/]
 ---

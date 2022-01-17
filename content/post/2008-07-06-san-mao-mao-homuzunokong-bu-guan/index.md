@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [印象, 理解, 描写, 友人, 人間, 文章, 子供, 流れ, isbn, 最後]
+keywords: [印象, 理解, 箇所, 角川書店, 伏線, 描写, 友人, 人間, 文章, 子供]
 recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/,
-  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
+  /post/2008-09-06-feng-gaqiang-kuchui-iteiru/]
 ---
 ![](https://md.exblog.jp/img/eg/thumb-no-image.gif)[三毛猫ホームズの恐怖館 (角川文庫)](http://item.excite.co.jp/detail/ASIN_4041497876)  
 赤川 次郎 / / 角川書店  

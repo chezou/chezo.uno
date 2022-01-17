@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [アーティスト, リスト, シーン, 楽曲, 影響, 音楽, 凄い, youtube, データベース, 意図]
-recommendations: [/post/2009-08-12-masa-festazhong-zhi/, /post/2008-09-07-chu-yin-mikunokaraokequ/,
-  /post/2008-07-05-rajaton/]
+keywords: [プレイリスト, アーティスト, apple music, レコメンド, リスト, シーン, 楽曲, 影響, 音楽, 凄い]
+recommendations: [/post/2015-10-27-netutohuritukusunoshi-dai-nihakontentunoshan-nimai-morenasasenaitamenohintogajie-matuteita/,
+  /post/2009-08-12-masa-festazhong-zhi/, /post/2008-09-07-chu-yin-mikunokaraokequ/]
 ---
 膨大な音楽というコンテンツの海に放り出された時に、人は何をするだろうか。
 

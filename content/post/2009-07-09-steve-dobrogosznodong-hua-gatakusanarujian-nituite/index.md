@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [合唱曲, ピアノ, sings, lord, 模様, 意図, 変態, 作曲者, free, 本番]
+keywords: [リハーサル, mass, アンコール, かっこいい, 合唱曲, ピアノ, sings, lord, 模様, 意図]
 recommendations: [/post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2012-09-25-singstodobrogoszgazai-bigong-yan/,
-  /post/2011-12-25-yi-teng-hui-si-ming-dao-qi-tai-liang-shi-noxuan-nda-xue-sheng-he-chang-notameno-sutiyudentosongubutuku-gare-i/]
+  /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/]
 ---
 以前[Sings２００８が歌っていた素晴らしい演奏会](http://chezou.wordpress.com/2008/10/28/sings-2008-with-steve-dobrogosz/)の動画がYouTubeにありました。たくさんあるので、一部紹介したいと思います。ちなみに[、彼の作品を提供している人](http://www.youtube.com/user/7609RH)がいるようです。この充実度からするとオフィシャルなのかな？
 

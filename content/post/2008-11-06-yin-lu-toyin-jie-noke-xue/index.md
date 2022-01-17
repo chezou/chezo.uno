@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [音楽, 面白い, 仕方ない, 実験, 講談社, 数学, グラフ, 前提, isbn, ベース]
-recommendations: [/post/2008-11-06-koredeiinoda/, /post/2008-07-06-nodamekantabire18-20/,
+keywords: [音楽, 面白い, 違和感, 曲線, 専門家, ターゲット, 仕方ない, 実験, 講談社, 数学]
+recommendations: [/post/2008-06-25-xin-meng-eruhetudohondu-ben/, /post/2009-04-13-it-dont-mean-a-thing/,
   /post/2008-07-09-press-startdang-xuan-simasita/]
 ---
 ![](https://ecx.images-amazon.com/images/I/512kZfo6lZL._SL160_.jpg)[音律と音階の科学―ドレミ…はどのようにして生まれたか (ブルーバックス 1567)](http://item.excite.co.jp/detail/ASIN_4062575671)  

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [研究室, ds, 購入, わけ, 先輩, 先週, lite, 学会, やつ, 友人]
+keywords: [秘書, 研究室, ds, 購入, 金曜日, タイ, わけ, 先輩, 先週, lite]
 recommendations: [/post/2006-03-17-uhi/, /post/2008-10-05-hd53r-ver-dot-8wogou-ru/,
-  /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/]
+  /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
 ---
 ついに念願のNintendoDS Liteを購入しました！   
 先週の金曜日に研究室の秘書さんがおもむろに   

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [dvd, treasure, 選曲, ライブ, 熱い, 無く, ファン, home, 手元, 作品]
+keywords: [dvd, treasure, 選曲, ライブ, 素晴らし, style, '001', 熱い, 無く, ファン]
 recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2019-12-24-Python-Custom-scripting/,
-  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
+  /post/2005-05-19-vhsnei-zang-dvdpureya/]
 ---
 B&#39;zのUltra treasureの選曲がやばすぎです。  
   

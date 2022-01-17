@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [集英社, 教師, 感じ, はず, 展開, スコア, 選択, tags, 今回, 魅力]
-recommendations: [/post/2008-06-15-gui-cai-xian-ru/, /post/2008-08-01-ono-lisa-best-2002-2006/,
+keywords: [迫力, 膳立て, 猟奇的, 集英社, 教師, 感じ, はず, 展開, スコア, 選択]
+recommendations: [/post/2008-06-15-gui-cai-xian-ru/, /post/2008-09-10-enzieruhato-27/,
   /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/]
 ---
 ![](https://md.exblog.jp/img/eg/thumb-no-image.gif)[Luck Stealer 2 (2) (ジャンプコミックス)](http://item.excite.co.jp/detail/ASIN_408874571X)  

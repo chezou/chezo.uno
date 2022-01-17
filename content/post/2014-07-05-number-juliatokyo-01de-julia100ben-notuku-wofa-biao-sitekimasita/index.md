@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [julia, vs, sorami, juliatokyo, 発表, コミット, learning, 以内, フェーズ, みな]
-recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/,
-  /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/]
+keywords: [julia, vs, sorami, juliatokyo, 発表, 移植, 白熱, オワコン, studio, lighttable]
+recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/,
+  /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/]
 ---
 [JuliaTokyo 01](juliatokyo.connpass.com/event/6891/)で発表してきました。  
 取りまとめをしてくださった [@sorami](https://twitter.com/sorami) さんには感謝です。

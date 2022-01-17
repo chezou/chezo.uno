@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ca, '00', '1600', '1200', jpeg, 曰く, 帰り, ピアノ, 目当て, 満喫]
-recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-08-12-rui-yan-si/,
-  /post/2009-07-23-fujiyama/]
+keywords: [ed, '85', ca, '00', '1600', '1200', jpeg, 音色, 劣化, 曰く]
+recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-07-23-fujiyama/,
+  /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/]
 ---
 初めて赤レンガ倉庫に行ってきました。お目当てはモーションブルーで行われたJAZZピアノ。  
 ちょっと優雅なディナーと洒落込みました。

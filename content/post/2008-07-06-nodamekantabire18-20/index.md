@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [だめ, 講談社, isbn, 周り, スコア, 選択, '20', 物語, 気づき, 妄想]
-recommendations: [/post/2008-08-11-nodame21juan/, /post/2008-06-28-vuinrandosaga-6-du-li-shui-shang-19/,
-  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
+keywords: [講談社コミックス, 知子, 二ノ宮, だめ, 講談社, キス, isbn, 周り, スコア, 選択]
+recommendations: [/post/2008-08-11-nodame21juan/, /post/2008-10-10-tiisanatiisanawang-yang/,
+  /post/2010-01-01-12yue-nidu-ndaben/]
 ---
 ![](https://ecx.images-amazon.com/images/I/41wmOBGeEJL._SL160_.jpg)[のだめカンタービレ (18)(講談社コミックスキス)](http://item.excite.co.jp/detail/ASIN_4063406482)  
 二ノ宮 知子 / / 講談社  

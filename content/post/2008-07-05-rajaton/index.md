@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [rajaton, アカペラ, 韓国, 祭り, アーティスト, 趣味, 和音, フィンランド, the real group, 限り]
+keywords: [rajaton, アカペラ, 盆休み, 小難しい, うらやましい, 進行, 系統, メロディー, 韓国, 祭り]
 recommendations: [/post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/, /post/2009-08-12-masa-festazhong-zhi/,
   /post/2009-03-09-masafestanirajatonga/]
 ---

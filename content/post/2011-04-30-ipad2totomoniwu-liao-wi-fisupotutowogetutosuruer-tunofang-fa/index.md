@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [wi-fi, ソフトバンク, ipad, ビックカメラ, 一部, 店員, モデル, togetter, 自分, 情報]
+keywords: [wi-fi, スポット, ソフトバンク, ipad, ビックカメラ, 一部, 対象外, 店員, モデル, togetter]
 recommendations: [/post/2011-05-01-iphone-for-everybodyno2nian-fu-riwojie-chu-sitarapaketutoding-e-huratutonisikanaranakatuta/,
   /post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/, /post/2020-12-11-wired-LAN-triggers-troubles/]
 ---

@@ -11,7 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [word, ipython, notebook, 可視化, グラフ, iruby, docker, 共有, コード, python]
+keywords: [word, ipython, notebook, 可視化, グラフ, はてなダイアリー, nyaplot, nbviewer, iruby,
+  docker]
 recommendations: [/post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
   /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/, /post/2016-10-29_homebrew-----iRuby---------------6a02e5194ff2/]
 ---

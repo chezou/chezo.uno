@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [プラン, シェア, iphone, ケース, 解約, クリア, エレクトロニクス, '14', パーフェクト, 注意]
-recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-04-ad-es-wojie-yue-surutameni/,
-  /post/2011-05-01-iphone-for-everybodyno2nian-fu-riwojie-chu-sitarapaketutoding-e-huratutonisikanaranakatuta/]
+keywords: [sim, プラン, iijmio, シェア, iphone, パック, ケース, nexus, 素材, pm]
+recommendations: [/post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/,
+  /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-04-ad-es-wojie-yue-surutameni/]
 ---
 IIJmioのファミリーシェアプランにSIMを追加する際に、9/16に始まっていた「おうちでナンバーポータビリティ」を使ってみました。
 

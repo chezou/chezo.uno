@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [テスト, 講座, トーク, 昨日, メンバー, ライブ, アカペラ, 言葉, あと, 音楽]
+keywords: [テスト, 後ほど, レポ, tone, 教授, try, 講座, トーク, 昨日, メンバー]
 recommendations: [/post/2018-01-17_----------------b63a0763e904/, /post/2009-03-03-sok-bao-masa-festa/,
-  /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/]
+  /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
 ---
 やっとかよー。テストテスト。  
   

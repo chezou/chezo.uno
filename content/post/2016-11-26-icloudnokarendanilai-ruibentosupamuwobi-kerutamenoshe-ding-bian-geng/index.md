@@ -11,10 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [calendar, カレンダー, 通知, 設定, 削除, png, img, メール, 追加, .com]
+keywords: [icloud, spam, calendar, カレンダー, 通知, 設定, 削除, png, img, 招待]
 recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
-  /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
-  /post/2005-10-03-su-suge-pin-desuyo/]
+  /post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/, /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/]
 ---
 最近、めちゃくちゃicloudのカレンダーにレイバンのスパムが来るようになってうざいので、通知されないように回避するためのicloudの設定方法を書いておく。
 

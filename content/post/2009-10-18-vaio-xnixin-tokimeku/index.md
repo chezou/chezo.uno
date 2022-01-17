@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [type, 我慢, 軽い, 思想, inch, 軽く, 位置づけ, ノート, 生活, hdd]
-recommendations: [/post/2005-07-17-urayamasika/, /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/,
-  /post/2019-06-04_ngekkan-party/]
+keywords: [type, vaio, 我慢, 薄く, 歓迎, 実機, マリオ, ウィルス, srx, core solo]
+recommendations: [/post/2005-09-09-notonogai-zao/, /post/2005-07-17-urayamasika/,
+  /post/2011-02-05-acer-aspire-1410wocrucial-realssd-c300niwai-fu-kedvdnasinihuan-zhuang-sita/]
 ---
 IYHって単なるマリオ的雄叫びだと思っていたら、衝動買いをしてしまったということだったんですね。これだから、ネットの略語は面白い。
 
