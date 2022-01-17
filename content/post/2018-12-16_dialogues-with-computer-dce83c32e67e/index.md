@@ -18,7 +18,7 @@ recommendations: [/post/2018-10-25_RISECamp------ee65c2ef0c9e/, /post/2017-05-25
 
 Rのtest frameworkのtestthatの煽り力が高い
 
-![**Frustration is a natural part of programming :)**](/img/1__PGBQH3d34YhCCfZ7XtTjSg.png)
+![**Frustration is a natural part of programming :)**](1_PGBQH3d34YhCCfZ7XtTjSg.png)
 **Frustration is a natural part of programming :)**
 
 ちぇぞーさんまた煽られてるの

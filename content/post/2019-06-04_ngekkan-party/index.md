@@ -12,7 +12,7 @@ recommendations: [/post/2019-03-29_ngekkan-lambda-note-article/, /post/2006-07-2
 
 さる5/30に『n月刊ラムダノート』創刊記念パーティーという名のコルーチン祭りを開催しました。
 
-![会の中で一番嬉しそうだった鹿野さん](/img/0__CLb3y5gvRHaBM1Bz.jpg)
+![会の中で一番嬉しそうだった鹿野さん](0_CLb3y5gvRHaBM1Bz.jpg)
 
 会の中で一番嬉しそうだった鹿野さん
 
