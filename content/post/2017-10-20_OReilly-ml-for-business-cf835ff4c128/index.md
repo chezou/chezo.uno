@@ -13,26 +13,25 @@ recommendations: [/post/2018-05-17_MLSE-kickoff/, /post/2014-08-29-detafen-xi-he
 
 【追記】Ebookはこちらから買えます
 
-[**仕事ではじめる機械学習**  
-www.oreilly.co.jp](https://www.oreilly.co.jp/books/9784873118215/ "https://www.oreilly.co.jp/books/9784873118215/")[](https://www.oreilly.co.jp/books/9784873118215/)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://www.oreilly.co.jp//books/9784873118215/" data-iframely-url="//cdn.iframe.ly/MpOBH08"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 【/追記】
 
 【追記2】電子版大好評に付き2018年1月16日に物理版も出ました。Amazonさんで売り切れている場合は、お近くの本屋さんにお問い合わせください。
 
-[**仕事ではじめる機械学習**  
-_Amazonで有賀 康顕, 中山 心太, 西林 孝の仕事ではじめる機械学習。アマゾンならポイント還元本が多数。有賀 康顕, 中山 心太, 西林…_amzn.to](http://amzn.to/2BsHsiw "http://amzn.to/2BsHsiw")[](http://amzn.to/2BsHsiw)
+{{< amazon asin="4873118255" title="仕事ではじめる機械学習" >}}
+
 
 【/追記】
 
-![まえがきより](/img/1__AUW0L2DiM6nuSSGFgHKc2g.png)
+![まえがきより](1_AUW0L2DiM6nuSSGFgHKc2g.png)
 まえがきより
 
 ### どういう本なの？
 
 まえがきのスクリーンショットを貼りましたが、この本は多くの機械学習の本とは異なり、機械学習の実務で使えるようになるために知りたい、機械学習を含めたシステムのアーキテクチャや機械学習プロジェクトの進め方、効果検証をどうするのかということをまとめました。
 
-![めざすところのイメージ](/img/1__W6mM0mI5F6F5vZIogbhIcw.png)
+![めざすところのイメージ](1_W6mM0mI5F6F5vZIogbhIcw.png)
 めざすところのイメージ
 
 既に多く刊行されているTensorFlowやChainerでディープラーニングをしてみようというものでもなければ、機械学習の理論をわかりやすく解説するといった類のものでもありません。[ゼロから作るDeep Learning](http://amzn.to/2yAhn1e)やCourseraの[Machine Learning](https://www.coursera.org/learn/machine-learning)で学んだけど、実際の仕事に活かすにはどうしたら良いだろう？という疑問に答えているつもりです。また、大学の講義などで機械学習は学んだけど、実際仕事で機械学習のプロジェクトを進めるときはどうすればいいんだろう？という人にも得るものがあると思います。もちろん、敢えて数学の基礎には触れないなど、全てのことを網羅的に書けているわけではありませんが、僕やhagino3000さん、tokorotenさんたちの「業務をする上で身についた当たり前」をdumpした本になります。
