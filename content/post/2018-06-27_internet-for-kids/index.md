@@ -14,8 +14,7 @@ recommendations: [/post/2017-05-25_teach-what-i-dont-know/, /post/2017-12-23_---
 
 伊藤淳一さんの以下の記事を読んで、子供にネットの話をどう教えるのがいいのかなぁと悩んでいたので、件の記事で紹介されていた本と、そこから派生して仲間内で紹介してもらった本を読んだので紹介したいと思います。
 
-[**【問題提起】篠原嘉一氏に情報教育の講演を依頼する前に考えていただきたいこと ～ITエンジニアから見た、情報教育のあり方について～ - give IT a try**  
-_要約（僕の主張） 篠原嘉一氏の講演内容には、IT関連の知識がない人にはわかりづらいウソや間違い、極論が多く含まれているため、適切な情報教育だとは言いがたい。よって改善を強く希望する。 ..._blog.jnito.com](http://blog.jnito.com/entry/2018/06/04/053705 "http://blog.jnito.com/entry/2018/06/04/053705")[](http://blog.jnito.com/entry/2018/06/04/053705)
+<div style="left: 0; width: 100%; height: 190px; position: relative;"><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fblog.jnito.com%2Fentry%2F2018%2F06%2F04%2F053705" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no"></iframe></div>
 
 伊藤さんの記事も長いですが、ソフトウェアに携わるエンジニアでかつ子を持つ親として考えさせられる内容でしたので、時間があれば読んでみると良いと思います。
 
