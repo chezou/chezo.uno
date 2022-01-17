@@ -22,7 +22,7 @@ recommendations: [/post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-keta
 
 ## パッケージ登録時にMITの先生からツッコミが入る
 
-Juliaのパッケージは[METADATA.jl](https://github.com/JuliaLang/METADATA.jl)というセントラルなレポジトリで管理されています。 ここに登録されたパッケージは`Pkg.add("TinySegmenter")`とREPLで実行するだけでパッケージが導入できます。\*1
+Juliaのパッケージは[METADATA.jl](https://github.com/JuliaLang/METADATA.jl)というセントラルなレポジトリで管理されています。 ここに登録されたパッケージは`Pkg.add("TinySegmenter")`とREPLで実行するだけでパッケージが導入できます。[^1] 
 
 ここに登録をしようとした時に、「日本語の分かち書きツールなのに、パッケージ名が一般的すぎるのでは」という[指摘](https://github.com/JuliaLang/METADATA.jl/pull/3718#issuecomment-147277044)をMITの[@stevengj](https://github.com/stevengj/)先生(以下、SGJ先生)からいただきます。Juliaのパッケージの命名規則は[ドキュメント](http://docs.julialang.org/en/latest/manual/packages/#guidelines-for-naming-a-package)にもあるのですが、portingの時はそのまま名前を付けても良さそうなので反論をして、翌日マージされました。
 
@@ -41,7 +41,7 @@ Juliaのパッケージは[METADATA.jl](https://github.com/JuliaLang/METADATA.jl
 
 ## 日本語が読めないSGJ先生、オリジナル実装のバグを見つける
 
-面白かったのは、途中で日本語が全くわからないSGJ先生\*2がオリジナルの実装にバグを見つけたところ。半角カタカナの"ｸﾞ"がUnicodeでは二文字になるはずなのに、それを考慮した実装になってないからスコアが反映されてない、という点。工藤さんにも確認しましたが、ご本人も昔のことなので詳細は覚えていないが今の実装は間違っていそうだという事を確認しました。 気づいた原因は、DictのkeyをCharのTupleで表現する関係で、文字数応じた型宣言をしていたからなんです。\*3
+面白かったのは、途中で日本語が全くわからないSGJ先生[^2] がオリジナルの実装にバグを見つけたところ。半角カタカナの"ｸﾞ"がUnicodeでは二文字になるはずなのに、それを考慮した実装になってないからスコアが反映されてない、という点。工藤さんにも確認しましたが、ご本人も昔のことなので詳細は覚えていないが今の実装は間違っていそうだという事を確認しました。 気づいた原因は、DictのkeyをCharのTupleで表現する関係で、文字数応じた型宣言をしていたからなんです。[^3] 
 
 実際には、日本語の中で半角カタカナはほとんど出てこないのでそこまで影響は出ませんが、ASCII圏の力を思い知らされました。なお、ここの議論で日本語知らない人に英語で半角カタカナ全角カタカナの議論をする必要があり、泣きそうでした。 この頃にはPRも来ていたのですが、[半角カタカナの"ｸﾞ"は二文字だから"ｸ"じゃねーの？](https://github.com/chezou/TinySegmenter.jl/pull/6#issuecomment-148142520)とか来ていたのも、今となっては良い思い出です。
 
@@ -93,10 +93,10 @@ Juliaのパッケージは[METADATA.jl](https://github.com/JuliaLang/METADATA.jl
 
 12/19(土)に Julia Tokyoの[第5回ミートアップ](http://juliatokyo.connpass.com/event/21715/)が開催されます！ いつもJuliaはじめて24時間枠の発表もあるので、お気軽に参加・発表しに来て下さい！
 
-\*1:METADATAに登録しないで、githubからcloneすることもできます
+[^1]: METADATAに登録しないで、githubからcloneすることもできます
 
-\*2:なお、ご専門は最適化の様子でNLP関係ない
+[^2]: なお、ご専門は最適化の様子でNLP関係ない
 
-\*3:この頃には、2015年にもなって日本人がChar型のある言語を触るのしんどい心折れそうでした
+[^3]: この頃には、2015年にもなって日本人がChar型のある言語を触るのしんどい心折れそうでした
 
 

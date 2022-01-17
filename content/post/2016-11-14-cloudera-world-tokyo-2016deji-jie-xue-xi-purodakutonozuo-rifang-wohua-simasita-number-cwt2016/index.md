@@ -25,7 +25,7 @@ recommendations: [/post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nom
   **[大規模データに対するデータサイエンスの進め方 #CWT2016](https://www.slideshare.net/Cloudera_jp/data-science-toward-big-data-cwt2016 "大規模データに対するデータサイエンスの進め方 #CWT2016")** from **[Cloudera Japan](http://www.slideshare.net/Cloudera_jp)** 
 <cite class="hatena-citation"><a href="http://www.slideshare.net/Cloudera_jp/data-science-toward-big-data-cwt2016">www.slideshare.net</a></cite>
 
-データの民主化の話、データサイエンティストとデータエンジニアの役割分担とチーム構成、機械学習の業務フロー、Cloud Nativeなデータサイエンスといった盛りだくさんの話をしました\*1。
+データの民主化の話、データサイエンティストとデータエンジニアの役割分担とチーム構成、機械学習の業務フロー、Cloud Nativeなデータサイエンスといった盛りだくさんの話をしました[^1] 。
 
 話の中で特に言いたかったことは2つ、P.16のリスクを取ってくれる責任者を捕まえようという話と、P.29の機械学習込みのプロダクトは改善をし続けないと死ぬという話です。 あとは、できるだけ機械学習をしないで、サンクコストが生まれる開始前に撤退ラインを決めておこうということも言いました。
 
@@ -59,6 +59,6 @@ Cloud Nativeのデータサイエンスの話は、時間の関係でちょっ�
 
 少しずつではありますが、RedshiftやBigQueryに対する第3の選択肢になってくることを期待しています。
 
-\*1:思い返してみると、この手のあるある...辛い...って話MLCTでよくやっていたのであった
+[^1]: 思い返してみると、この手のあるある...辛い...って話MLCTでよくやっていたのであった
 
 

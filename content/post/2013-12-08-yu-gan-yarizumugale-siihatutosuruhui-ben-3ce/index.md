@@ -29,7 +29,7 @@ recommendations: [/post/2017-05-25_teach-what-i-dont-know/, /post/2008-07-19-can
 
   
 
-[![だから、こぶたちゃん (こぶたの赤ちゃんシリーズ)](https://ecx.images-amazon.com/images/I/51k70GIAPpL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4031290101/ref=nosim/)
+{{< amazon asin="4031290101" title="だから、こぶたちゃん (こぶたの赤ちゃんシリーズ)" >}}
 
   
 
@@ -57,7 +57,7 @@ posted with [amazlet](http://www.amazlet.com/ "amazlet") at 13.12.06
 
   
 
-[![ころ ころ ころ (福音館の幼児絵本)](https://ecx.images-amazon.com/images/I/41p1X-ntrtL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4834001113/ref=nosim/)
+{{< amazon asin="4834001113" title="ころ ころ ころ (福音館の幼児絵本)" >}}
 
   
 
@@ -85,7 +85,7 @@ posted with [amazlet](http://www.amazlet.com/ "amazlet") at 13.12.06
 
   
 
-[![たぬきのじどうしゃ (はじめてよむ絵本)](https://ecx.images-amazon.com/images/I/41vODa4tWoL._SL160_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/4032400903/ref=nosim/)
+{{< amazon asin="4032400903" title="たぬきのじどうしゃ (はじめてよむ絵本)" >}}
 
   
 

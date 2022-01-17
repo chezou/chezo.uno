@@ -19,7 +19,7 @@ recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2016-12-17-iphone-
 
 今はThinkpadがIBMからLenovoに移管したので、故障などしたらLenovoに問い合わせる必要があります。 ですが、保証書には3年保証と書いてあるものの、問い合わせ先のドメインがIBMのままで連絡先がわかりません。 そのため、Amazonで買って故障を経験した人が、「次回は修理ができるように通常の販売店で購入します」と書くなど皆さん苦労されているようです。 今回買って3ヶ月（厳密にはWishlistからいただいてから3ヶ月）で壊れたトラックポイントキーボードを修理したので、やり方をメモしておきます。
 
-[![レノボ・ジャパン ThinkPad トラックポイント・キーボード - 英語 0B47190](https://images-fe.ssl-images-amazon.com/images/I/417fJW4gfkL._SL160_.jpg "レノボ・ジャパン ThinkPad トラックポイント・キーボード - 英語 0B47190")](http://www.amazon.co.jp/exec/obidos/ASIN/B00DLK4GN8/chezou-22/)
+{{< amazon asin="B00DLK4GN8" title="レノボ・ジャパン ThinkPad トラックポイント・キーボード - 英語 0B47190" >}}
 
 [レノボ・ジャパン ThinkPad トラックポイント・キーボード - 英語 0B47190](http://www.amazon.co.jp/exec/obidos/ASIN/B00DLK4GN8/chezou-22/)
 

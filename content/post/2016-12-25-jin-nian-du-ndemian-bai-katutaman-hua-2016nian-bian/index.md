@@ -23,7 +23,7 @@ recommendations: [/post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/, /p
 
 # マージナル・オペレーション
 
-[![マージナル・オペレーション（１） (アフタヌーンコミックス)](https://images-fe.ssl-images-amazon.com/images/I/51mowBeDTML._SL160_.jpg "マージナル・オペレーション（１） (アフタヌーンコミックス)")](http://www.amazon.co.jp/exec/obidos/ASIN/B00HD9J0ZW/chezou-22/)
+{{< amazon asin="B00HD9J0ZW" title="マージナル・オペレーション（１） (アフタヌーンコミックス)" >}}
 
 [マージナル・オペレーション（１） (アフタヌーンコミックス)](http://www.amazon.co.jp/exec/obidos/ASIN/B00HD9J0ZW/chezou-22/)
 
@@ -93,7 +93,7 @@ Netflixでアニメも見れる作品です。タイの無法者が集まるロ�
 
 # 盾の勇者の成り上がり
 
-[![盾の勇者の成り上がり　1<盾の勇者の成り上がり> (コミックフラッパー)](https://images-fe.ssl-images-amazon.com/images/I/513MHNM3jCL._SL160_.jpg "盾の勇者の成り上がり　1<盾の勇者の成り上がり> (コミックフラッパー)")](http://www.amazon.co.jp/exec/obidos/ASIN/B00LBPG6QA/chezou-22/)
+{{< amazon asin="B00LBPG6QA" title="盾の勇者の成り上がり　1<盾の勇者の成り上がり> (コミックフラッパー)" >}}
 
 [盾の勇者の成り上がり　1 (コミックフラッパー)](http://www.amazon.co.jp/exec/obidos/ASIN/B00LBPG6QA/chezou-22/)
 
@@ -107,7 +107,7 @@ Netflixでアニメも見れる作品です。タイの無法者が集まるロ�
 
 # 中卒労働者から始める高校生活
 
-[![中卒労働者から始める高校生活 1](https://images-fe.ssl-images-amazon.com/images/I/51EK97ufehL._SL160_.jpg "中卒労働者から始める高校生活 1")](http://www.amazon.co.jp/exec/obidos/ASIN/B00H2A7E9Q/chezou-22/)
+{{< amazon asin="B00H2A7E9Q" title="中卒労働者から始める高校生活 1" >}}
 
 [中卒労働者から始める高校生活 1](http://www.amazon.co.jp/exec/obidos/ASIN/B00H2A7E9Q/chezou-22/)
 
@@ -121,21 +121,14 @@ Netflixでアニメも見れる作品です。タイの無法者が集まるロ�
 
 # ろんぐらいだぁす！
 
-[![ろんぐらいだぁす！: 8 (REXコミックス)](https://ecx.images-amazon.com/images/I/51vWqBnu2-L._SL160_.jpg "ろんぐらいだぁす！: 8 (REXコミックス)")](http://www.amazon.co.jp/exec/obidos/ASIN/B01N44439Z/chezou-22/)
+{{< amazon asin="B089Y3RDHW" title="ろんぐらいだぁす！新装版">}}
 
-[ろんぐらいだぁす！: 8 (REXコミックス)](http://www.amazon.co.jp/exec/obidos/ASIN/B01N44439Z/chezou-22/)
-
-- 作者: 三宅大志
-- 出版社/メーカー: 一迅社
-- 発売日: 2016/11/26
-- メディア: Kindle版
-- [この商品を含むブログ (1件) を見る](http://d.hatena.ne.jp/asin/B01N44439Z/chezou-22)
 
 アニメにもなった自転車漫画です。タイトルの通り、長距離を自転車で走るだけの話ですが、少しずつ乗れるようになって成長していく様が読んでいて楽しいです。のんびりぼーっと読めるので気分転換にはちょうどよいです。なお、読んでいるとどう見ても美少女の中はオッサンにしか見えません。
 
 # Landreaall
 
-[![Landreaall: 1 (ZERO-SUMコミックス)](https://images-fe.ssl-images-amazon.com/images/I/512QXvO%2BvbL._SL160_.jpg "Landreaall: 1 (ZERO-SUMコミックス)")](http://www.amazon.co.jp/exec/obidos/ASIN/B00AIL4DG8/chezou-22/)
+{{< amazon asin="B00AIL4DG8" title="Landreaall: 1 (ZERO-SUMコミックス)" >}}
 
 [Landreaall: 1 (ZERO-SUMコミックス)](http://www.amazon.co.jp/exec/obidos/ASIN/B00AIL4DG8/chezou-22/)
 
@@ -149,21 +142,14 @@ Netflixでアニメも見れる作品です。タイの無法者が集まるロ�
 
 # スティーブズ
 
-[![スティーブズ（５） (ビッグコミックス)](https://images-fe.ssl-images-amazon.com/images/I/51R3uZIBxCL._SL160_.jpg "スティーブズ（５） (ビッグコミックス)")](http://www.amazon.co.jp/exec/obidos/ASIN/B01IEE619W/chezou-22/)
+{{< amazon asin="B079TNHVWX" title="スティーブズ（５） (ビッグコミックス)" >}}
 
-[スティーブズ（５） (ビッグコミックス)](http://www.amazon.co.jp/exec/obidos/ASIN/B01IEE619W/chezou-22/)
-
-- 作者: うめ（小沢高広・妹尾朝子）,松永肇一
-- 出版社/メーカー: 小学館
-- 発売日: 2016/07/29
-- メディア: Kindle版
-- [この商品を含むブログを見る](http://d.hatena.ne.jp/asin/B01IEE619W/chezou-22)
 
 言わずと知れた、スティーブジョブズ、ウォズニアックによるApple創業からのお話。ジョブズの現実歪曲空間やアランケイの東條シーンなど、漫画っぽいアレンジで非常に楽しく表現しています。裏取りをしながらも、伝記を読むよりも話として楽しめるように作られています。
 
 # まおゆう魔王勇者「この我のものとなれ、勇者よ」「断る！」
 
-[![まおゆう魔王勇者　「この我のものとなれ、勇者よ」「断る！」(18)<まおゆう魔王勇者　「この我のものとなれ、勇者よ」「断る！」> (角川コミックス・エース)](https://images-fe.ssl-images-amazon.com/images/I/61Ebquf%2BTOL._SL160_.jpg "まおゆう魔王勇者　「この我のものとなれ、勇者よ」「断る！」(18)<まおゆう魔王勇者　「この我のものとなれ、勇者よ」「断る！」> (角川コミックス・エース)")](http://www.amazon.co.jp/exec/obidos/ASIN/B01K197ZKC/chezou-22/)
+{{< amazon asin="B01K197ZKC" title="まおゆう魔王勇者　「この我のものとなれ、勇者よ」「断る！」(18)<まおゆう魔王勇者　「この我のものとなれ、勇者よ」「断る！」> (角川コミックス・エース)" >}}
 
 [まおゆう魔王勇者　「この我のものとなれ、勇者よ」「断る！」(18) (角川コミックス・エース)](http://www.amazon.co.jp/exec/obidos/ASIN/B01K197ZKC/chezou-22/)
 
@@ -177,7 +163,7 @@ Netflixでアニメも見れる作品です。タイの無法者が集まるロ�
 
 # シドニアの騎士
 
-[![シドニアの騎士（１４） (アフタヌーンコミックス)](https://ecx.images-amazon.com/images/I/61H-GntMxgL._SL160_.jpg "シドニアの騎士（１４） (アフタヌーンコミックス)")](http://www.amazon.co.jp/exec/obidos/ASIN/B00TIFKG70/chezou-22/)
+{{< amazon asin="B00TIFKG70" title="シドニアの騎士（１４） (アフタヌーンコミックス)" >}}
 
 [シドニアの騎士（１４） (アフタヌーンコミックス)](http://www.amazon.co.jp/exec/obidos/ASIN/B00TIFKG70/chezou-22/)
 
@@ -191,7 +177,7 @@ Netflixでアニメも見れる作品です。タイの無法者が集まるロ�
 
 # 市場クロガネは稼ぎたい
 
-[![市場クロガネは稼ぎたい（１） (少年サンデーコミックス)](https://images-fe.ssl-images-amazon.com/images/I/51H2mlDqI7L._SL160_.jpg "市場クロガネは稼ぎたい（１） (少年サンデーコミックス)")](http://www.amazon.co.jp/exec/obidos/ASIN/B00C7Q5NN4/chezou-22/)
+{{< amazon asin="B00C7Q5NN4" title="市場クロガネは稼ぎたい（１） (少年サンデーコミックス)" >}}
 
 [市場クロガネは稼ぎたい（１） (少年サンデーコミックス)](http://www.amazon.co.jp/exec/obidos/ASIN/B00C7Q5NN4/chezou-22/)
 
@@ -205,13 +191,7 @@ Netflixでアニメも見れる作品です。タイの無法者が集まるロ�
 
 # ヴィンランド・サガ
 
-[![[まとめ買い] ヴィンランド・サガ（アフタヌーンコミックス）](https://images-fe.ssl-images-amazon.com/images/I/E1gXnP39omS._SL160_.png "[まとめ買い] ヴィンランド・サガ（アフタヌーンコミックス）")](http://www.amazon.co.jp/exec/obidos/ASIN/B01LVUWG4B/chezou-22/)
-
-[[まとめ買い] ヴィンランド・サガ（アフタヌーンコミックス）](http://www.amazon.co.jp/exec/obidos/ASIN/B01LVUWG4B/chezou-22/)
-
-- 作者: 幸村誠
-- メディア: Kindle版
-- [この商品を含むブログを見る](http://d.hatena.ne.jp/asin/B01LVUWG4B/chezou-22)
+{{< amazon asin="B074C9PB88" title="ヴィンランド・サガ" >}}
 
 プラネテスの幸村誠の作品。ヴァイキングの時代のアイスランドやノルウェー、イギリスなどの戦いの話。血なまぐさい所も多いですが、結構史実も調べた上で作品を書いているようで幸村先生の遅筆さ丁寧さが際立ちます。少しずつ進んでいますが、緊迫感が続いており面白さは変わりません。
 

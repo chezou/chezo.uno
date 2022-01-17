@@ -17,7 +17,7 @@ recommendations: [/post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubek
 ---
 Amazon Fire TV StickをPrime会員割引で\1980で買いました。（定価は\4980)
 
-[![Fire TV Stick](https://ecx.images-amazon.com/images/I/410awytekzL._SL160_.jpg "Fire TV Stick")](http://www.amazon.co.jp/exec/obidos/ASIN/B00ZVNYLS8/chezou-22/)
+{{< amazon asin="B00ZVNYLS8" title="Fire TV Stick" >}}
 
 [Fire TV Stick](http://www.amazon.co.jp/exec/obidos/ASIN/B00ZVNYLS8/chezou-22/)
 
@@ -34,7 +34,7 @@ Amazon Fire TV StickをPrime会員割引で\1980で買いました。（定価�
 
 という3点からです。
 
-[![Amazon Fire TV](https://ecx.images-amazon.com/images/I/31nvZPjRzzL._SL160_.jpg "Amazon Fire TV")](http://www.amazon.co.jp/exec/obidos/ASIN/B00UH6MXT8/chezou-22/)
+{{< amazon asin="B00UH6MXT8" title="Amazon Fire TV" >}}
 
 [Amazon Fire TV](http://www.amazon.co.jp/exec/obidos/ASIN/B00UH6MXT8/chezou-22/)
 
@@ -63,7 +63,7 @@ Amazon Fire TV StickをPrime会員割引で\1980で買いました。（定価�
 
 AirReciever入れるとAirPlayサーバーになります。 ただ、Netflixは飛ばせたり飛ばせなかったりしたので、挙動が怪しいです。 iPhoneのMusicアプリとかの音楽系のアプリは普通に動いたので十分かな、と思います。
 
-[![AirReceiver](https://ecx.images-amazon.com/images/I/51lNGgB2uKL._SL160_.png "AirReceiver")](http://www.amazon.co.jp/exec/obidos/ASIN/B00L5HQRGS/chezou-22/)
+{{< amazon asin="B00L5HQRGS" title="AirReceiver" >}}
 
 [AirReceiver](http://www.amazon.co.jp/exec/obidos/ASIN/B00L5HQRGS/chezou-22/)
 

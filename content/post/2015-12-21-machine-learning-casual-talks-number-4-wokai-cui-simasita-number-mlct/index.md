@@ -16,9 +16,9 @@ recommendations: [/post/2015-05-02-machine-learning-casual-talks-number-3-lue-ch
   /post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/,
   /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/]
 ---
-まさかの一週間内に自分の主催する勉強会が3回重なるデスロードを走ってきたchezouです。\*1
+まさかの一週間内に自分の主催する勉強会が3回重なるデスロードを走ってきたchezouです。[^1] 
 
-前回からだいぶ感覚があきましたが、MLCTを [@yamakatu](https://twitter.com/yamakatu) さんの火付けのもと開催しました。\*2
+前回からだいぶ感覚があきましたが、MLCTを [@yamakatu](https://twitter.com/yamakatu) さんの火付けのもと開催しました。[^2] 
 
 <iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fmlct.connpass.com%2Fevent%2F22192%2F" title="Machine Learning Casual Talks #4 (2015/12/15 19:00〜)" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://mlct.connpass.com/event/22192/">mlct.connpass.com</a></cite>
 
@@ -70,8 +70,8 @@ Gunosyのデータ分析チームの現在の話、LTではもったいない話
 
 残念ながら資料は公開されないということですが、Vision APIの話を中心にTensorFlowなどの話をしていただきました。Vision APIは一般物体認識のタスクではかなり便利そうですね。 特に、手書き文字認識も頑張っていたり、ガリガリ君の立体物の文字認識をきっちり出来ていたのはさすがだなと思いました。
 
-\*1:火曜MLCT, 水曜kawasaki.rb, 土曜JuliaTokyo！！
+[^1]: 火曜MLCT, 水曜kawasaki.rb, 土曜JuliaTokyo！！
 
-\*2:言い出した割にはLTだけだったので後で🍣反省会を開きましょう
+[^2]: 言い出した割にはLTだけだったので後で🍣反省会を開きましょう
 
 

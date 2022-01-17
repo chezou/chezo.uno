@@ -30,17 +30,16 @@ macOS Sierraに上げる前に、Karabinerが動かない問題をなんとか�
 
 1つ目は"Virtual Keyboard"のKeyboard Type: ANSIを設定すること。これで大体USキーボードの配列になります。
 
-![](/img/2017/01/19/221707/20170119221149.png)
+![](20170119221149.png)
 
 2つ目の設定は、"Simple Modifications"で`international3`を`grave_accent_and_tilde`に変えれば行けた。これでかつる！KarabinerのJIS-\>USと揃えるには`international1`も同様に割り当てれば良さそう。
 
-![](/img/2017/01/19/221707/20170119221202.png)
+![](20170119221202.png)
 
 ちなみに、検証はAnkerのBTキーボードで試しました。安いUSキーボードとしてはそこそこ使えます。
 
-[![Anker ウルトラスリム Bluetooth ワイヤレスキーボード iOS/Android/Mac/Windows に対応 ホワイト](https://images-fe.ssl-images-amazon.com/images/I/41WTGFCs1lL._SL160_.jpg "Anker ウルトラスリム Bluetooth ワイヤレスキーボード iOS/Android/Mac/Windows に対応 ホワイト")](http://www.amazon.co.jp/exec/obidos/ASIN/B00U260UR0/chezou-22/)
+{{< amazon asin="B00U260UR0" title="Anker ウルトラスリム Bluetooth ワイヤレスキーボード iOS/Android/Mac/Windows に対応 ホワイト" >}}
 
-[Anker ウルトラスリム Bluetooth ワイヤレスキーボード iOS/Android/Mac/Windows に対応 ホワイト](http://www.amazon.co.jp/exec/obidos/ASIN/B00U260UR0/chezou-22/)
 
 - 出版社/メーカー: Anker
 - メディア: エレクトロニクス

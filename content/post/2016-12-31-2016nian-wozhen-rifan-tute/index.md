@@ -17,25 +17,25 @@ recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2016-12-21
 ---
 ブルガリアンスクワットをして筋肉痛でプルプルしています。大晦日も元旦もほぼDMM英会話の予定しかありません。
 
-2016年は、世界的にも激動の年でしたが、個人的にも色々な大きなことが起こり激動の時代でした。\*1
+2016年は、世界的にも激動の年でしたが、個人的にも色々な大きなことが起こり激動の時代でした。[^1]
 
 昨年の振り返りはこちらです。
 
-<iframe src="https://chezou.hatenablog.com/embed/2015/12/30/214151" title="2015年を振り返って - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2015/12/30/214151">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2015-12-30-2015nian-wozhen-rifan-tute/" data-iframely-url="//cdn.iframe.ly/sfmSt9E"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 # Cookpad TechConf、DS祭り、CWT2016で発表した
 
-<iframe src="https://chezou.hatenablog.com/embed/2016/01/25/000000" title="#CookpadTechConf 2016でクックパッドの研究まわりの取り組みを発表しました - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2016/01/25/000000">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2016-01-25-number-cookpadtechconf-2016dekutukupatudonoyan-jiu-mawarinoqu-rizu-miwofa-biao-simasita/" data-iframely-url="//cdn.iframe.ly/kwflBqk"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script></br>
 
-<iframe src="https://chezou.hatenablog.com/embed/2016/07/26/172738" title="「夏真っ盛り！Spark + Python + Data Science祭り」を開催しました＆Ibisを紹介しました #summerDS - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2016/07/26/172738">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/" data-iframely-url="//cdn.iframe.ly/X2lxekC"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script></br>
 
-<iframe src="https://chezou.hatenablog.com/embed/2016/11/14/230521" title="Cloudera World Tokyo 2016で機械学習プロダクトの作り方を話しました #cwt2016 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2016/11/14/230521">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/" data-iframely-url="//cdn.iframe.ly/vauT4G3"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 どれも自社イベントですが、今年は外で発表する機会を例年より多くいただきました。来年も、[BigData Analytics Tokyo](http://www.bigdatacon.jp/ja/)の発表から幕開けです。
 
 # 転職した
 
-<iframe src="https://chezou.hatenablog.com/embed/2016/03/30/223221" title="転職しました - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2016/03/30/223221">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2016-03-30-zhuan-zhi-simasita/" data-iframely-url="//cdn.iframe.ly/wo8eEYX"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 CookpadからClouderaに転職しました。Sales Engineerというロール、初めての外資ということで慣れない事だらけですが、引き続き、機械学習やデータサイエンス周りでの強みを活かしてやらせていただいています。英語は入社してからDMM英会話をほぼ毎日やったら、最低限社内でやりとりをする力と飲みながら英語話す力は得ることが出来たので、意外となんとかなるかもな、と思っているところです。抵抗感が減ったのと、ちょっと気合を入れれば何かしらの英語はアウトプットできると思えるようになり、瞬発力が前よりはついたなと思えたのが良かったです。
 
@@ -49,7 +49,7 @@ CookpadからClouderaに転職しました。Sales Engineerというロール、
 
 # 川崎Ruby会議01を主催した
 
-<iframe src="https://chezou.hatenablog.com/embed/2016/08/23/222547" title="川崎Ruby会議 01を開催しました #kwsk01 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2016/08/23/222547">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/" data-iframely-url="//cdn.iframe.ly/ynajgyS"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 kawasaki.rbが母体となって主催した地域Ruby会議です。コミッターの方々も参戦していただいたのに、良い意味でRuby色の薄いリージョナルだったと思います。
 
@@ -59,9 +59,9 @@ kawasaki.rbも細く長く続いており、参加してたら転職できた人
 
 naoyaさんに紹介されて、データエンジニアリングとデータサイエンスの違いの話がrebuildデビューしました。自分で聞いてた時に突如現れた時にはお茶吹きそうになりました。rebuildは[サポータープログラム](https://rebuild.fm/supporter/)に入ると文字起こしや一人語り回も聞けますし、本放送とライブ放送直後の配信と二回聞けてお得感満載です。
 
-<iframe src="https://chezou.hatenablog.com/embed/2016/05/05/222046" title="データを一箇所に集めることでデータ活用の民主化が進んだ話 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2016/05/05/222046">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/" data-iframely-url="//cdn.iframe.ly/sP1KpBV"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Frubyist.club%2F9%2F" title="9: Data Engineer, not Data Scientist (joker1007) - rubyist.club" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://rubyist.club/9/">rubyist.club</a></cite>
+<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Frubyistclub.chezo.uno%2F9%2F" title="9: Data Engineer, not Data Scientist (joker1007) - rubyist.club" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe>
 
 # 本を執筆していた
 
@@ -69,9 +69,9 @@ naoyaさんに紹介されて、データエンジニアリングとデータサ
 
 その時の切り出したものがこれらの記事ですが、[はてなの教科書](http://developer.hatenastaff.com/entry/hatena-textbook-machine-learning-02-2016)からも引用されて嬉しかったです。
 
-<iframe src="https://chezou.hatenablog.com/embed/2016/05/09/000639" title="機械学習の分類の話を損失関数と決定境界を中心に整理してみた - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2016/05/09/000639">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2016-05-09-ji-jie-xue-xi-nofen-lei-nohua-wosun-shi-guan-shu-tojue-ding-jing-jie-wozhong-xin-nizheng-li-sitemita/" data-iframely-url="//cdn.iframe.ly/w58SdWY"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-<iframe src="https://chezou.hatenablog.com/embed/2016/05/29/215739" title="そのモデル、過学習してるの？未学習なの？と困ったら - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2016/05/29/215739">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2016-05-29-sonomoderu-guo-xue-xi-siteruno-wei-xue-xi-nano-tokun-tutara/" data-iframely-url="//cdn.iframe.ly/dE4uFBl"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 また、記事を書くに当たって[いくつか](https://github.com/ibayer/fastFM/pull/22)の[Factorization Machine](https://github.com/coreylynch/pyFM/pull/9)のPythonライブラリをPython3対応する人になっていました。
 
@@ -95,6 +95,6 @@ naoyaさんに紹介されて、データエンジニアリングとデータサ
 
 もう一つ、筋肉を付けて加齢に伴う色々な問題を解消していきたいと思います。
 
-\*1:のっけから余談ですが、UKに縁のあるボスが来日中にBrexitの結果を受けて落胆していた様子と、エグゼクティブたちが来日中にトランプの勝利を見てショックを受けているのを見て、波乱の年だったなと思います
+[^1]: のっけから余談ですが、UKに縁のあるボスが来日中にBrexitの結果を受けて落胆していた様子と、エグゼクティブたちが来日中にトランプの勝利を見てショックを受けているのを見て、波乱の年だったなと思います
 
 

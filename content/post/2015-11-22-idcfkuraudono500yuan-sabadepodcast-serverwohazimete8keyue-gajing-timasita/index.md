@@ -15,7 +15,7 @@ keywords: [ストレージ, オブジェクト, rubyist, ノード, idcf, 転送
 recommendations: [/post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/,
   /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/, /post/2018-11-14_subscription-2018/]
 ---
-どうも、最近PSYCHO-PASSを見終わってシュタインズ・ゲートを見ています。 この記事はIDCFクラウド1周年キャンペーンを応援する記事です。\*1
+どうも、最近PSYCHO-PASSを見終わってシュタインズ・ゲートを見ています。 この記事はIDCFクラウド1周年キャンペーンを応援する記事です。[^1] 
 
 Rubyistといろいろなことを話すpodcast [rubyist.club](http://rubyist.club/) をはじめて半年経ちました。 最近リリース前のドタバタでご無沙汰していますが、12月には次回の配信をできると思います。
 
@@ -29,6 +29,6 @@ S1プランは500円で使えるのですが、オブジェクトストレージ
 
 是非、この機会に使ってみるとよいでしょう！
 
-\*1:つまり、宣伝ですね
+[^1]: つまり、宣伝ですね
 
 

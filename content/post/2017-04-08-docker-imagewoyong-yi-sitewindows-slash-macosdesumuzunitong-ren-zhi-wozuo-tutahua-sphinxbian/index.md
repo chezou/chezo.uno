@@ -87,7 +87,7 @@ SphinxのDocker imageの作り方等は過去に書いているのでそちら�
 
 Previewのグレースケール化は信用ならないので、グレースケール化には少なくともmacOSだとAcrobatが必須かもしれません。
 
-fontの埋め込みは、IPA系のフォントだとライセンス的に問題なくコンテナ内で埋め込めるのですが、日本語の太字が綺麗にでなかったので結局MacでSphinxをビルドしてヒラギノを埋め込みました。\*1そのおかげで、tokorotenさんの原稿の画像サイズが少しずれて手直しが入りました。。。dockerベースでフォント埋め込みまでやっていればいけたのに…。無念。
+fontの埋め込みは、IPA系のフォントだとライセンス的に問題なくコンテナ内で埋め込めるのですが、日本語の太字が綺麗にでなかったので結局MacでSphinxをビルドしてヒラギノを埋め込みました。[^1] そのおかげで、tokorotenさんの原稿の画像サイズが少しずれて手直しが入りました。。。dockerベースでフォント埋め込みまでやっていればいけたのに…。無念。
 
 ## 奥付の作り方
 
@@ -113,6 +113,6 @@ fontの埋め込みは、IPA系のフォントだとライセンス的に問題�
 
 それでは、明日は秋葉原UDX2階のアキバ・スクエアで僕と握手！
 
-\*1:ヒラギノは商用利用可能とのことです [http://www.macotakara.jp/blog/support/entry-665.html](http://www.macotakara.jp/blog/support/entry-665.html)
+[^1]: ヒラギノは商用利用可能とのことです [http://www.macotakara.jp/blog/support/entry-665.html](http://www.macotakara.jp/blog/support/entry-665.html)
 
 

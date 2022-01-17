@@ -20,7 +20,7 @@ recommendations: [/post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learn
 
 明日発売の「データサイエンティスト養成読本 機械学習入門編」を著者の一人の福島さん([@sfchaos](https://twitter.com/sfchos))にいただきました。 きっかけは、福島さんが「機械学習ソフトウェアの外観」という特集でJuliaの紹介をしていただいたからでした。
 
-[![データサイエンティスト養成読本 機械学習入門編 (Software Design plus)](https://ecx.images-amazon.com/images/I/61kYbes17OL._SL160_.jpg "データサイエンティスト養成読本 機械学習入門編 (Software Design plus)")](http://www.amazon.co.jp/exec/obidos/ASIN/4774176311/chezou-22/)
+{{< amazon asin="4774176311" title="データサイエンティスト養成読本 機械学習入門編 (Software Design plus)" >}}
 
 [データサイエンティスト養成読本 機械学習入門編 (Software Design plus)](http://www.amazon.co.jp/exec/obidos/ASIN/4774176311/chezou-22/)
 

@@ -23,7 +23,7 @@ recommendations: [/post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita
   - Railsで最低限仕事で迷惑かけない程度のコードが書けるようになった
   - 仕事で機械学習の知識活かしたOutput(レコメンデーション)が出来た
 - 翻訳
-  - 翻訳記事だけど、はじめての[ホットエントリ入り](http://b.hatena.ne.jp/entry/chezou.wordpress.com/2014/01/18/%E7%A7%91%E5%AD%A6%E8%A8%88%E7%AE%97%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%9D%87%E8%B3%AA%E5%8C%96%E3%80%81%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E3%81%AA%E3%81%9Cpython%E3%81%8C%E7%9D%80%E5%AE%9F/) \*1
+  - 翻訳記事だけど、はじめての[ホットエントリ入り](http://b.hatena.ne.jp/entry/chezou.wordpress.com/2014/01/18/%E7%A7%91%E5%AD%A6%E8%A8%88%E7%AE%97%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%9D%87%E8%B3%AA%E5%8C%96%E3%80%81%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E3%81%AA%E3%81%9Cpython%E3%81%8C%E7%9D%80%E5%AE%9F/) [^1] 
   - Jekyllの[ドキュメント翻訳](http://jekyllrb-ja.github.io/)に参戦
   - Lean Analyticsの[翻訳レビューに参戦](https://chezou.hatenablog.com/entry/2014/12/29/014733)
 - コミュニティ
@@ -53,6 +53,6 @@ recommendations: [/post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita
 
 コミュニティ業務ばっかりやっているとたまに不安になるんですが、自分が楽しいことをやる、あわよくば技術で楽しさを生み出す人を増やす、そういうことができればと思っています。
 
-\*1:はてブUTF-8に対応したからか、wordpressのはてブ数壊れてる
+[^1]: はてブUTF-8に対応したからか、wordpressのはてブ数壊れてる
 
 
