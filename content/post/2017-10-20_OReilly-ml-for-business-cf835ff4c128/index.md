@@ -64,16 +64,14 @@ tomo\_makesさんにわかりやすい図解をしていただきました。あ
 
 オライリー・ジャパンのEbook Storeで10/22(日)買えるようになります。物理本については、11/7(火)の[Cloudera World Tokyo](http://www.clouderaworldtokyo.com/)にお越しになっていただければ会場限定でPODのものが買えます。（サイン会も予定しています）
 
-[**仕事ではじめる機械学習**  
-www.oreilly.co.jp](https://www.oreilly.co.jp/books/9784873118215/ "https://www.oreilly.co.jp/books/9784873118215/")[](https://www.oreilly.co.jp/books/9784873118215/)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://www.oreilly.co.jp//books/9784873118215/" data-iframely-url="//cdn.iframe.ly/MpOBH08"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 なお、同日販売の知人の書籍としては [Yoshiki Shibukawa](https://medium.com/u/2e9fa3415c8d)さんの「Goならわかるシステムプログラミング」とtk0miyaさんの「Sphinxをはじめよう」が出ます。とくにお二人には同人誌のときにSphinx方面でのサポートを絶賛していただきました。よければ合わせて読んでみてください。
 
 [**Shibu's Diary: ASCII.jpの連載「Goならわかるシステムプログラミング」がパワーアップして書籍化されます**  
 _My blog about Software Development (Python, Sphinx, JavaScript, etc)_blog.shibu.jp](http://blog.shibu.jp/article/181327596.html "http://blog.shibu.jp/article/181327596.html")[](http://blog.shibu.jp/article/181327596.html)
 
-[**「Sphinxをはじめよう 第二版」が出ます - Hack like a rolling stone**  
-_みなさん、 Sphinx 使ってますか? Python や Linux カーネルのドキュメントでご存知の Sphinx の書籍、「 Sphinx をはじめよう」が改訂されます。 今週末の #技術書典 で僕らが書いた #Sphinxをはじ…_tk0miya.hatenablog.com](http://tk0miya.hatenablog.com/entry/2017/10/18/011012 "http://tk0miya.hatenablog.com/entry/2017/10/18/011012")[](http://tk0miya.hatenablog.com/entry/2017/10/18/011012)
+<div style="left: 0; width: 100%; height: 190px; position: relative;"><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Ftk0miya.hatenablog.com%2Fentry%2F2017%2F10%2F18%2F011012" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no"></iframe></div>
 
 ### 目次
 
