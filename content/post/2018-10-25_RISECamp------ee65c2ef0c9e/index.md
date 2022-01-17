@@ -17,15 +17,13 @@ _RISE Camp ​is ​a bootcamp ​organized ​by ​the ​UC ​Berkeley ​RI
 \[2018/11/29追記\]  
 動画とTutorial用のバイナリが公開されました
 
-[**ucbrise/risecamp**  
-_RISECamp Tutorials. Contribute to ucbrise/risecamp development by creating an account on GitHub._github.com](https://github.com/ucbrise/risecamp/releases/tag/rc18diy-v1 "https://github.com/ucbrise/risecamp/releases/tag/rc18diy-v1")[](https://github.com/ucbrise/risecamp/releases/tag/rc18diy-v1)
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://github.com/ucbrise/risecamp/releases/tag/rc18diy-v1" data-iframely-url="//cdn.iframe.ly/n5P0Qb0"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 \[/追記終わり\]
 
 RISELabはSparkで有名なAMPLabの後継となる研究室で、彼らが作るML関連のライブラリ・フレームワークのハンズオンをするというのが会の趣旨です。
 
-![](/img/1__NZTxwssCMLDZDv2Km1M1Hg.jpeg)
-![RISELabのStack](/img/1__X7a1O3wc38JN97nSzJph7Q.jpeg)
+![RISELabのStack](1_X7a1O3wc38JN97nSzJph7Q.jpeg)
 RISELabのStack
 
 上の図のオレンジと緑の部分が彼らが作っているフレームワークになるのですが、その中でも以下のものについての紹介がありました。
@@ -48,12 +46,11 @@ RISELabのStack
 
 ### RAY, RLlib, Tune
 
-[**ray-project/ray**  
-_A system for parallel and distributed Python that unifies the ML ecosystem. - ray-project/ray_github.com](https://github.com/ray-project/ray "https://github.com/ray-project/ray")[](https://github.com/ray-project/ray)
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://github.com/ray-project/ray" data-iframely-url="//cdn.iframe.ly/1VciO29"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 RAYはこのRISELabのセットの中での基礎となるフレームワークです。READMEにもある通り、以下のようなdecoratorを書くだけでPythonの処理を並列・分散処理できるというコンセプトのものになります。
 
-![](/img/1__FfKig9pDJRJZv4rtEBYyaA.png)
+![](1_FfKig9pDJRJZv4rtEBYyaA.png)
 
 MLの処理をDSLとして抽象化します。特徴としては、
 
@@ -62,23 +59,21 @@ MLの処理をDSLとして抽象化します。特徴としては、
 
 として、Actorモデルを使って並列処理を行います。 `@ray.remote` というデコレータを書くと、その関数はRAYのWorkerで実行されるという仕組みです。
 
-![](/img/1__ZRoARnXmvmlN__SBwDGXhsg.jpeg)
+![](1_ZRoARnXmvmlN_SBwDGXhsg.jpeg)
 
 ポイントとしては、Pythonのobjectをcloudpickleというpackageを使ってserializeしてWorkerに投げてしまうということです。裏側にはノードごとのshared memoryとしてApache Arrowもいるため、Workerの共用メモリとしてオブジェクトを格納します。データの並列化どうするんだろうなと思ったら、ModinというPandas on Rayというライブラリも開発しているようです。”Modin is a DataFrame for datasets from 1KB to 1TB+”と言っているので、皆が困っているサイズ感のDataFrameを扱えるようになるかもしれません。
 
-[**modin-project/modin**  
-_Modin: Speed up your Pandas workflows by changing a single line of code - modin-project/modin_github.com](https://github.com/modin-project/modin "https://github.com/modin-project/modin")[](https://github.com/modin-project/modin)
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://github.com/modin-project/modin" data-iframely-url="//cdn.iframe.ly/2qWqV4n"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-![](/img/1__wNA1IPu9X2ICC9GzIOvzqA.jpeg)
+![](1_wNA1IPu9X2ICC9GzIOvzqA.jpeg)
 
 チュートリアルは、こちらのrepoと同じものを実際にJupyterLabでハンズ・オンしました。
 
-[**ray-project/tutorial**  
-_Contribute to ray-project/tutorial development by creating an account on GitHub._github.com](https://github.com/ray-project/tutorial "https://github.com/ray-project/tutorial")[](https://github.com/ray-project/tutorial)
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://github.com/ray-project/tutorial" data-iframely-url="//cdn.iframe.ly/mx9vN5D"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 RAY自体はなるほど、と思って生々しいコードを書いていたのですが、それをベースにした[RLlib](https://github.com/ray-project/ray/tree/master/python/ray/rllib)という強化学習のライブラリと[Tune](https://github.com/ray-project/ray/tree/master/python/ray/tune)というパラメータチューニング用のライブラリを使ってみて、隠蔽されたアプリケーションとして使うとML用の並列処理を行うのには良いなと感じました。
 
-![](/img/1__Va8PIW3Bx__G5FJas3kDatA.jpeg)
+![](1_Va8PIW3Bx_G5FJas3kDatA.jpeg)
 
 なお、WorkerのPythonのdependencyはあらかじめ解決した上で走らせてねということなので、複数プロジェクト走らせたりするのにはまだまだ自前で頑張る部分がありそうです。
 
@@ -86,8 +81,7 @@ RAY自体はなるほど、と思って生々しいコードを書いていた�
 
 Clipperは、MLの予測のためのAPIサーバを簡単にデプロイできるようにするためのライブラリです。
 
-[**ucbrise/clipper**  
-_A low-latency prediction-serving system. Contribute to ucbrise/clipper development by creating an account on GitHub._github.com](https://github.com/ucbrise/clipper "https://github.com/ucbrise/clipper")[](https://github.com/ucbrise/clipper)
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 80.1068%; padding-top: 120px;"><a href="https://github.com/ucbrise/clipper" data-iframely-url="//cdn.iframe.ly/7IEpzsv"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 コンセプトとしてはData scientistにパフォーマンスが気になる本番のAPI部分のコードを書かせることなく、スケーラブルなAPIサーバをコンテナベースでデプロイできるようにするということです。基本的には対応しているPythonのMLライブラリであれば、Dockerfileも書かないで予測の処理のコードを書いて、それをPythonからデプロイするという流れになります。
 
@@ -97,16 +91,15 @@ _A low-latency prediction-serving system. Contribute to ucbrise/clipper developm
 
 Florは機械学習の実験のトレーサビリティを上げ、再現性を高めるためのライブラリになります。
 
-[**ucbrise/flor**  
-_Build, configure, run, and reproduce experiments with Flor. - ucbrise/flor_github.com](https://github.com/ucbrise/flor "https://github.com/ucbrise/flor")[](https://github.com/ucbrise/flor)
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://github.com/ucbrise/flor" data-iframely-url="//cdn.iframe.ly/xrwbS4d"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 機械学習では、feature engineeringなどのデータの加工をしたり、パラメータの探索をしたりしながらパイプラインを作っていきます。そこで、よくあるのが過去のパイプラインを再現したいのに、既にobjectが上書きされていて戻せないといったことがあります。Florでは、それを再現可能にするために色々と補助をしてくれます。
 
-![](/img/1__NQsxJzTYwsHcRRdCy9SCdQ.jpeg)
+![](1_NQsxJzTYwsHcRRdCy9SCdQ.jpeg)
 
 少しFlor流の書き方をしないといけないのですが、それをすることで実験同士の処理のdiffを見たり、処理のパイプラインを可視化したり、他の人から引き継いだ実験の中間データを後から再度取得したりすることができます。
 
-![](/img/1__esjnYs5wLhZ9VicWXgiivg.jpeg)
+![](1_esjnYs5wLhZ9VicWXgiivg.jpeg)
 
 MLでは実験のreproducibilityをどう作るのかという話がよく話題にあがるため、その一つのアプローチとして良いのではないでしょうか。ただ、大きいデータになったときの中間データを効率的に保存できるかは少し気になりました。
 
@@ -124,19 +117,17 @@ PyWrenに関してはLambdaのアップロードできるイメージ？のサ�
 
 ### Opaque
 
-[**ucbrise/opaque**  
-_A data analytics platform with strong security. Contribute to ucbrise/opaque development by creating an account on…_github.com](https://github.com/ucbrise/opaque "https://github.com/ucbrise/opaque")[](https://github.com/ucbrise/opaque)
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://github.com/mc2-project/opaque-sql" data-iframely-url="//cdn.iframe.ly/bHRiUJo"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 OpaqueはSparkSQLをHardware Enclaves (Intel SGX, AMD SEV etc)の上で走らせて、セキュアな分析を可能にするものとのことです。チュートリアルでは、病気に関するデータセットを使ってSpark DataFrameを処理しましたが、まだScalaでしか動かないようです。
 
-![](/img/1__Oo2duV6e19Vu66svgpU9ZQ.jpeg)
+![](1_Oo2duV6e19Vu66svgpU9ZQ.jpeg)
 
 ### WAVE
 
 IoTのための中央集権型ではない認可のための仕組みです。
 
-[**WAVE - RISE Lab**  
-_WAVE is a global-scale fully-decentralized authorization system that operates with no central authorities yet permits…_rise.cs.berkeley.edu](https://rise.cs.berkeley.edu/projects/wave/ "https://rise.cs.berkeley.edu/projects/wave/")[](https://rise.cs.berkeley.edu/projects/wave/)
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.5%; padding-top: 120px;"><a href="https://rise.cs.berkeley.edu/projects/wave/" data-iframely-url="//cdn.iframe.ly/aQVJuLD"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 RISECamp 2017の動画
 

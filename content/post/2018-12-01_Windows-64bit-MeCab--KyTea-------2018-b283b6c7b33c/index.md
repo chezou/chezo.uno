@@ -41,13 +41,11 @@ PythonでのモダンなNLPの処理向けのライブラリspaCyでは、他の
 
 しかし、３年前のMinGW用の修正が今年になってマージされたときにMSVCでのビルドが壊れてしまいました。一応PRを投げましたが、いつマージされるかはわからない状況です。
 
-[**Make buildable MSVC 64bit by chezou · Pull Request #46 · taku910/mecab**  
-_After #13 merging, the MSVC build has been broken since WPATH\_FORCE is not defined for MSVC…_github.com](https://github.com/taku910/mecab/pull/46 "https://github.com/taku910/mecab/pull/46")[](https://github.com/taku910/mecab/pull/46)
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://github.com/taku910/mecab/pull/46" data-iframely-url="//cdn.iframe.ly/RPQ26Cm"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 また、ikegami-yukinoさんという方が64bit版exeを配布されていますが（windows用wheelも）、CIでexe実行してインストーラ回すのどうすればいいんだっけということで、zipで固められたものがほしいなぁと思いました。
 
-[**Windows で pip で mecab-python をいれる - Qiita**  
-_はじめに ちゃお・・・† 個人的にですが、最近はWindowsでMeCabを使う機会が増えてきました。しかし、Windowsでmecab-pythonを入れるには、ソースをダウンロードしたりsetup.pyを書き換えたりコンパイ..._qiita.com](https://qiita.com/yukinoi/items/990b6933d9f21ba0fb43 "https://qiita.com/yukinoi/items/990b6933d9f21ba0fb43")[](https://qiita.com/yukinoi/items/990b6933d9f21ba0fb43)
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.5%; padding-top: 120px;"><a href="https://qiita.com/yukinoi/items/990b6933d9f21ba0fb43" data-iframely-url="//cdn.iframe.ly/fpQKRoH"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 韓国の先立ちはCIでWindows向け[MeCab](https://github.com/Pusnow/mecab-ko-msvc/)、 辞書（ipadic）、 Python用のwheelをbuildしているのを見つけました。
 
@@ -71,8 +69,7 @@ libmecab.dllを使えばRubyなど別の言語のMeCabバインディングか�
 
 Windows用のPython拡張モジュールを用意するためには、PythonのバージョンにマッチしたVisual Studioのバージョン（あるいはビルドツール）を用意しないといけません。詳しくはPythonコミッター稲田さんの以下の記事をご参照ください。
 
-[**Windows での Python 2.7, 3.4, 3.5 の拡張モジュールビルド環境 - Qiita**  
-_Windows 用に Python のバイナリパッケージを作成するときに知っておいたほうがいい基礎知識や便利情報をまとめて書いていきます。 Windows 上で Python を使っているユーザーは、 Python…_qiita.com](https://qiita.com/methane/items/2210712763b91e75fdf0 "https://qiita.com/methane/items/2210712763b91e75fdf0")[](https://qiita.com/methane/items/2210712763b91e75fdf0)
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.5%; padding-top: 120px;"><a href="https://qiita.com/methane/items/2210712763b91e75fdf0" data-iframely-url="//cdn.iframe.ly/Kbc9R5W"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 考えようによっては、MSVCの環境を用意すればWindowsのバージョンに依存しないバイナリパッケージが用意できるので、非常に楽です。少なくともmacOSはもっと楽なのですが、なぜ楽と言えるのかについてもお話しようと思います。
 
@@ -82,24 +79,20 @@ Linuxにおいては、様々なディストリビューションの違いがあ
 
 作り方等々は稲田さんの記事と、PyPAの[python-manylinux-demo](https://github.com/pypa/python-manylinux-demo)リポジトリが参考になるでしょう。
 
-[**manylinux1 wheel を作ってみる - methaneのブログ**  
-_先日の記事 で紹介した、 manylinux1 wheel を作ってみます。 ビルド環境を Docker image として公開してくれています。 docker pull quay.io/pypa/manylinux1\_x86\_64…_methane.hatenablog.jp](https://methane.hatenablog.jp/entry/trying-manylinux1 "https://methane.hatenablog.jp/entry/trying-manylinux1")[](https://methane.hatenablog.jp/entry/trying-manylinux1)
+<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fmethane.hatenablog.jp%2Fentry%2Ftrying-manylinux1" title="manylinux1 wheel を作ってみる - methaneのブログ" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe>
 
 お気づきの方もいらっしゃるかもしれませんが、CentOS 5ベースのgccで新しいプロダクトのbindingを用意するのは地獄です。現に（非常に議論が沸き起こっているところですが）TensorFlowはmanylinux1というタグを使っているにもかかわらずもっと新しい環境で用意したwheelを用意しています。
 
 これに対してCent OS 5もEOLになることなどを踏まえて、manylinux 2010が準備されています。以下のissueを見る限りでは、次のpipからmanylinux2010を扱えるようになり、そろそろ準備が整ってきているようです。
 
-[**Tracking issue for manylinux2010 rollout · Issue #179 · pypa/manylinux**  
-_I've accepted the manylinux2010 PEP, so that's now an active interoperability standard…_github.com](https://github.com/pypa/manylinux/issues/179 "https://github.com/pypa/manylinux/issues/179")[](https://github.com/pypa/manylinux/issues/179)
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://github.com/pypa/manylinux/issues/179" data-iframely-url="//cdn.iframe.ly/CXLJc1W"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ### KyTeaのWindowsバイナリとPythonバインディング
 
 MeCabで得た知見を生かして、ついでにKyTeaもWindows用バイナリとPythonバインディングをpip installできるようにしました。本家にもPRを送ったんですが、appveyorの設定がまだされていないので、fork版をお使いください。
 
-[**chezou/kytea**  
-_The Kyoto Text Analysis Toolkit for word segmentation and pronunciation estimation, etc. - chezou/kytea_github.com](https://github.com/chezou/kytea/releases "https://github.com/chezou/kytea/releases")[](https://github.com/chezou/kytea/releases)
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://github.com/chezou/kytea/releases" data-iframely-url="//cdn.iframe.ly/iTK56sU"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 なお、 `pip install kytea` で[Windowsも入る](https://pypi.org/project/kytea/#files)ようになっています。（WindowsのPython 2.7は除く）issueがあればこちらにどうぞ。
 
-[**chezou/Mykytea-python**  
-_Python wrapper for KyTea. Contribute to chezou/Mykytea-python development by creating an account on GitHub._github.com](https://github.com/chezou/Mykytea-python "https://github.com/chezou/Mykytea-python")[](https://github.com/chezou/Mykytea-python)
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://github.com/chezou/Mykytea-python" data-iframely-url="//cdn.iframe.ly/Wo1AfW3"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
