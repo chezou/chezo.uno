@@ -52,7 +52,7 @@ backspace.fmのdrikinさんオススメの一品。出張が一週間以内の�
 
 出張用のケーブル類を常にセットしておいて、ぱっと取り出せるようにしています。
 
-![](/img/1__acM__xtEmIFRJbPIc94T7Vw.jpeg)
+![](1_acM_xtEmIFRJbPIc94T7Vw.jpeg)
 
 [**サンワダイレクト ガジェット&デジモノアクセサリ固定ツール GRID-IT A4サイズ ブラック CPG10BK**  
 _Amazon.co.jp： サンワダイレクト ガジェット&デジモノアクセサリ固定ツール GRID-IT A4サイズ ブラック CPG10BK: 家電・カメラ_amzn.to](https://amzn.to/2SUzw2r "https://amzn.to/2SUzw2r")[](https://amzn.to/2SUzw2r)
@@ -116,7 +116,7 @@ _直径 5.5 inch×長さ 4 inch （およそ14cm×10.5cm） 外出の際も気�
 
 以下はマウンテンんビューオフィスへ出張した時の写真ですが、このうち、モニター以外は日本から持って行ったもものです。
 
-![](/img/1__n5Kczhr1MlpjzMNKD5LvTw__2x.jpeg)
+![](1_n5Kczhr1MlpjzMNKD5LvTw_2x.jpeg)
 
 [**_オウルテック Bluetooth 折りたたみ式エルゴノミクスキーボード 英語配列64キー 専用ケース兼スタンド付属 ブラック 1年保証 OWL-BTKB6402-BKAMZ_**  
 オウルテック Bluetooth 折りたたみ式エルゴノミクスキーボード 英語配列64キー 専用ケース兼スタンド付属 ブラック 1年保証 OWL-BTKB6402-BKAMZamzn.to](https://amzn.to/2FVm3o4 "https://amzn.to/2FVm3o4")[](https://amzn.to/2FVm3o4)

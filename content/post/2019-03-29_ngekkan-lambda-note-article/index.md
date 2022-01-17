@@ -60,11 +60,11 @@ _n月刊ラムダノート創刊号へのたくさんの応援ありがとうご
 
 この時点で、GitHubのprivateレポジトリをいただいていたので、issueにまとめていきました。
 
-![](/img/1__3ZOui__R0NW7i64vILEFRlw.png)
+![](1_3ZOui_R0NW7i64vILEFRlw.png)
 
 また、合わせて章立てやコンテンツを考えるためのMindmapを作りました。とはいえ、自分の知っているだけの情報で足りるかがわからないので、3の情報収集と並行してブラッシュアップしていました。
 
-![MLOpsの歩き方のマインドマップ](/img/0__4e4nMKWzAJvRyeHK.png)
+![MLOpsの歩き方のマインドマップ](0_4e4nMKWzAJvRyeHK.png)
 MLOpsの歩き方のマインドマップ
 
 #### 3\. 下調べをする
@@ -75,8 +75,7 @@ MLOpsは産業界でボトムアップに動いている分野なので、まと
 
 [https://www.notion.so/Guide-book-for-MLOps-aab7579e4fe4496aa69f5675d989e64f](https://www.notion.so/Guide-book-for-MLOps-aab7579e4fe4496aa69f5675d989e64f)
 
-![](/img/1__XcQ5S3HBFQLigAc__Gpg0Sw.png)
-![Notionの編集画面](/img/1__XcQ5S3HBFQLigAc__Gpg0Sw.png)
+![Notionの編集画面](1_XcQ5S3HBFQLigAc_Gpg0Sw.png)
 Notionの編集画面
 
 Notionのいいところは、だらだらと1ページで書き始めて一部をくくりだしてsubページにしようと思う場合手軽にできるところです。
@@ -87,7 +86,7 @@ Notionのいいところは、だらだらと1ページで書き始めて一部�
 
 まず目指したのは、[鹿野さんの言うところ](http://note.golden-lucky.net/2016/05/gitgithub.html)の「内容をすべて書き出した」状態です。
 
-![「執筆・編集のためのGit（GitHub）ワークフローを考えてみた」より](/img/0__7wzxICsdv0RXlMtR.jpg)
+![「執筆・編集のためのGit（GitHub）ワークフローを考えてみた」より](0_7wzxICsdv0RXlMtR.jpg)
 「執筆・編集のためのGit（GitHub）ワークフローを考えてみた」より
 
 ちなみに、初稿を書くのもNotionで書いてMarkdownでexportしました。iPad Proで原稿を書いたり、途中で調べたものの追加をPixel 3でやったりといろいろなデバイスや環境でやれるのが楽でした。
@@ -98,7 +97,7 @@ Notionのいいところは、だらだらと1ページで書き始めて一部�
 
 とはいえ、この段階では事例紹介色が強く、課題と解決策の対応が弱いという不安を抱えながらpushしました。この不安はissueとPRをしていただきながら編集によって解消されたのですが、一人では解決できなかったと思います。
 
-![PRベースの編集の様子](/img/1__eXkS__d6qbwoqA6atk73__SA.png)
+![PRベースの編集の様子](1_eXkS_d6qbwoqA6atk73_SA.png)
 PRベースの編集の様子
 
 著者である自分はコンテンツの足し算をしたがるのですが、編集者からは足すことはできないので、構造に手を入れたり引き算をすることで論旨を明確にするのだ、という話を聞いたときには目からウロコでした。
