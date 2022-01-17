@@ -9,8 +9,6 @@ recommendations: [/post/2017-05-26_public-dataset/, /post/2014-08-29-detafen-xi-
   /post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/]
 ---
 
-![](/img/1__JTqxfs____kuzO0CAt9dyQgg.png)
-
 _英語版は_[_こちら_](https://chezo.uno/blog/2017-08-03_why-oss-based-machine-learning-is-good-3ab45a1a5e52/)_
 
 TensorFlowの登場以降、OSSベースの機械学習の盛り上がりは加速しています。Kerasの作者の[François Chollet](https://twitter.com/fchollet)さんの言葉が、この状況を非常に端的に表しています。これだけでも十分だとは思いますが、この記事では、なぜオープンソースの機械学習が強いのか、最近のどういった流れがあるのかを整理したいと思います。

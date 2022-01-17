@@ -34,8 +34,8 @@ The scope of this conference is varied and seems not to be specified yet, even i
 *   Current target of Machine Learning is pattern recognition, but Jordan said decision-making will be the future of ML/AI
 *   Creating a “recommendation market” is the key
 
-![](/img/1__rWIRSVcGYE5uuZ1ISuFMjg.png)
-![](/img/1__eMGR__WfddebwmyheNe3OAg.png)
+![](1_rWIRSVcGYE5uuZ1ISuFMjg.png)
+![](1_eMGR-WfddebwmyheNe3OAg.png)
 
 ### MLOp Lifecycle Scheme for Vision-based Inspection Process in Manufacturing
 
@@ -45,7 +45,7 @@ The scope of this conference is varied and seems not to be specified yet, even i
 *   They need to inference for 3000 GB images/day.
 *   The team structure which involves product inspectors and product managers is interesting
 
-![From [https://www.usenix.org/sites/default/files/conference/protected-files/opml19\_slides\_lim.pdf](https://www.usenix.org/sites/default/files/conference/protected-files/opml19_slides_lim.pdf)](/img/1__5Ab748i__ppe__Lt1DreRiGQ.png)
+![From [https://www.usenix.org/sites/default/files/conference/protected-files/opml19\_slides\_lim.pdf](https://www.usenix.org/sites/default/files/conference/protected-files/opml19_slides_lim.pdf)](1_5Ab748i-ppe-Lt1DreRiGQ.png)
 From [https://www.usenix.org/sites/default/files/conference/protected-files/opml19\_slides\_lim.pdf](https://www.usenix.org/sites/default/files/conference/protected-files/opml19_slides_lim.pdf)
 
 ### AIOps: Challenges and Experiences in Azure
@@ -54,7 +54,7 @@ From [https://www.usenix.org/sites/default/files/conference/protected-files/opml
 *   Anomaly detection and diagnosis with lambda architecture for Azure
 *   Disk failure prediction for Azure which introduces proactively live to migrate the workloads to a healthy disk
 
-![](/img/1__TtMe__If9qvcuUr5__7dnITQ.png)
+![](1_TtMe-If9qvcuUr5_7dnITQ.png)
 
 ### How the Experts Do It: Production ML at Scale
 
@@ -119,7 +119,7 @@ Google
 *   [https://www.usenix.org/conference/opml19/presentation/baylor](https://www.usenix.org/conference/opml19/presentation/baylor)
 *   TFX provides a library for recording and retrieving metadata for ML: ML Metadata [https://www.tensorflow.org/tfx/guide/mlmd](https://www.tensorflow.org/tfx/guide/mlmd)
 
-![From [https://www.usenix.org/system/files/opml19papers-baylor.pdf](https://www.usenix.org/system/files/opml19papers-baylor.pdf)](/img/1__JjjlNJJ7xndhiOSddZv__zA.png)
+![From [https://www.usenix.org/system/files/opml19papers-baylor.pdf](https://www.usenix.org/system/files/opml19papers-baylor.pdf)](1_JjjlNJJ7xndhiOSddZv-zA.png)
 From [https://www.usenix.org/system/files/opml19papers-baylor.pdf](https://www.usenix.org/system/files/opml19papers-baylor.pdf)
 
 ### Disdat: Bundle Data Management for Machine Learning Pipelines
