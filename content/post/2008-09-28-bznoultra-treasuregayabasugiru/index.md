@@ -1,5 +1,5 @@
 ---
-title: B&#39;zのUltra treasureがやばすぎる
+title: B'zのUltra treasureがやばすぎる
 subtitle: ''
 summary: ''
 authors: [aki]
@@ -15,7 +15,7 @@ keywords: [dvd, treasure, 選曲, ライブ, 素晴らし, style, '001', 熱い,
 recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2019-12-24-Python-Custom-scripting/,
   /post/2005-05-19-vhsnei-zang-dvdpureya/]
 ---
-B&#39;zのUltra treasureの選曲がやばすぎです。  
+B'zのUltra treasureの選曲がやばすぎです。  
   
  ![](https://ecx.images-amazon.com/images/I/41AH1c60CpL._SL160_.jpg)[ULTRA Treasure(DVD付)](http://item.excite.co.jp/detail/ASIN_B001CRGVAS)  
 B’z / / VERMILLION RECORDS(J)(M)  
