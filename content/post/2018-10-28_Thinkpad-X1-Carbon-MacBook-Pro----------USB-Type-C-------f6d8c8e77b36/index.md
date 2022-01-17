@@ -9,7 +9,6 @@ recommendations: [/post/2017-12-30_2017------------bbf834e065c5/, /post/2017-01-
   /post/2019-03-10_business-trip-goods/]
 ---
 
-![“two phones on white table” by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](/img/0__jIYyoN2vxlQsPgm5.jpg)
 “two phones on white table” by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 転職をして、業務で使うマシンがMacBook Proになったので、自宅用のThinkpad X1 Carbon (5th Gen, 2017モデル)と共通して使える充電とUSB-Aがはやせるハブ(とかマルチポートアダプタとか色々言われているもの)を探しました。

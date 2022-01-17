@@ -171,7 +171,7 @@ library(ggplot2)
 p <- ggplot(airports\_by\_geo, aes(longitude, latitude)) + geom\_point() + theme\_classic()  
 ggExtra::ggMarginal(p, type = “histogram”)
 
-![](/img/1__SscW2sneYR__lphETyF7y1A.png)
+![](1_SscW2sneYR_lphETyF7y1A.png)
 
 ### Conclusion
 

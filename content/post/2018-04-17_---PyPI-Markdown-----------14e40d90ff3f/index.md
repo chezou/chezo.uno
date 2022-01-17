@@ -49,7 +49,7 @@ long\_description\_content\_type=”text/markdown”,
 $ python setup.py bdist\_wheel  
 $ twine upload dist/\*
 
-![test.pypi.orgのMarkdownのドキュメントの様子](1_dskznp_UI9jw4D9L6gAQLA.png)
+![test.pypi.orgのMarkdownのドキュメントの様子](1_dskznp-UI9jw4D9L6gAQLA.png)
 test.pypi.orgのMarkdownのドキュメントの様子
 
 今回はこれだけのためにpatch versionを上げるのもなぁということで、test.pypi.orgにあげています。

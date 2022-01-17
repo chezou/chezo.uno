@@ -30,7 +30,7 @@ _Amazonで工藤 拓の{ProductTitle}。アマゾンならポイント還元本�
 
 PythonでのモダンなNLPの処理向けのライブラリspaCyでは、他の言語との兼ね合いでPure Python実装のJanomeからUnidicベースのMeCabに[移行されました](https://github.com/explosion/spaCy/pull/1246)。需要は高まっています。
 
-![[https://spacy.io/usage/models](https://spacy.io/usage/models) Spacy depends on MeCab (mecab-python3)](/img/1__nOVgkKYYMbIKaJFKSUEh6Q.png)
+![[https://spacy.io/usage/models](https://spacy.io/usage/models) Spacy depends on MeCab (mecab-python3)](1__nOVgkKYYMbIKaJFKSUEh6Q.png)
 [https://spacy.io/usage/models](https://spacy.io/usage/models) Spacy depends on MeCab (mecab-python3)
 
 また、日本語の機械学習の本が新たに出ていますが、大抵の場合Pythonでmecab-python3を使いましょうとありますが、[現状まだwheelの提供もない](https://github.com/SamuraiT/mecab-python3/issues/16)ためSWIGも用意しsourceからのビルドが前提です。Windowsの人にそれを要求するのはハードルが高いです。

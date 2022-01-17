@@ -28,7 +28,7 @@ According to [the official document](http://livy.io/overview.html), livy has fea
 
 [sparkmagic](https://github.com/jupyter-incubator/sparkmagic) is a client of livy using with Jupyter notebook. When we write Spark code at our local Jupyter client, then sparkmagic runs the Spark job through livy. Using sparkmagic + Jupyter notebook, data scientists can use Spark from their own Jupyter notebook, which is running on their localhost. We don’t need any Spark configuration getting from the CDH cluster. So we can execute Spark job in a cluster like running on a local machine.
 
-![](/img/0____lwKpnEq0Tpi3Tlj.png)
+![](0_lwKpnEq0Tpi3Tlj.png)
 
 diagram from [https://github.com/jupyter-incubator/sparkmagic/raw/master/screenshots/diagram.png](https://github.com/jupyter-incubator/sparkmagic/raw/master/screenshots/diagram.png)
 
@@ -130,7 +130,7 @@ _n MAXROWS: The maximum number of rows of a SQL query that will be pulled from L
 
 In the nbviewer, we can not see the result of SQL, but we can visualize the result of SQL with `%%sql` magic command. That’s awesome :)
 
-![](/img/0__l8PW0TpvVfuoLdVv.png)
+![](0_l8PW0TpvVfuoLdVv.png)
 
 If you use `%%local`, you can use local Python libraries such as scikit-learn, seaborn etc, with received results from PySpark.
 

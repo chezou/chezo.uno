@@ -21,7 +21,6 @@ recommendations: [/post/2018-05-17_MLSE-kickoff/, /post/2014-08-29-detafen-xi-he
 
 {{< amazon asin="4873118255" title="仕事ではじめる機械学習" >}}
 
-
 【/追記】
 
 ![まえがきより](1_AUW0L2DiM6nuSSGFgHKc2g.png)

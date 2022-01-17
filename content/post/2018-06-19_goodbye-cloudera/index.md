@@ -13,7 +13,6 @@ recommendations: [/post/2016-03-30-zhuan-zhi-simasita/, /post/2017-07-30_culture
 
 一部の方にはお伝えしましたが、先週がClouderaでの最終出社でした。2年3ヶ月はあっという間に過ぎて行きました。同僚の [Daisuke Kobayashi](https://medium.com/u/aad6cf2e3329) と [Tatsuo Kawasαki](https://medium.com/u/9fba6aa30d2b) に退職ブログ書いてくださいよと言われたので、初めて書いてみます。
 
-![](1_KqUpw89767H1obV5hN4_Ug_2x.jpeg)
 
 ### はじめての外資で働くということ
 
