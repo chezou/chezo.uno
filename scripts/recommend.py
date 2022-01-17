@@ -2,7 +2,7 @@
 from prelims import StaticSitePostsHandler
 from prelims.processor import Recommender
 
-handler = StaticSitePostsHandler(r"content/blog")
+handler = StaticSitePostsHandler(r"content/blog", ignore_files=['_index.md'])
 handler.register_processor(Recommender(permalink_base="/blog", stop_words="english"))
 handler.execute()
 
