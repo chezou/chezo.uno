@@ -32,7 +32,7 @@ recommendations: [/post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-
 
 Ibisはpandasの作者でもある Wes McKinney([@wesmckinn](https://twitter.com/wesmckinn)) の作っているライブラリです。 ひとことで言うと、pandasのプログラマブルな処理を大規模データにもできるようにします。 大規模データは高速なSQLエンジンにまかせて、pandas likeなDSLでpandasと連携できるようにしており、データがTB以上のデータに対してもSQLを書かずに試行錯誤できます。
 
-なお、日本語の情報はかなり少ないのですが\*1、こちらの[ブログ](http://linux.wwing.net/WordPress/?p=2501)が参考になると思います。 もし、Impalaを試すのであれば[Quick Start VM](http://www.cloudera.com/downloads/quickstart_vms/5-7.html)か、[Cloudera Director](http://www.cloudera.com/downloads/director/2-1-0.html)を使うとブラウザでポチポチするだけでAWS, GCP, Azureに簡単にImpalaクラスターが立てれるのでおすすめです。Director導入方法は[こちら](http://qiita.com/shiumachi/items/90649830cb9b45726d99)が参考になります。
+なお、日本語の情報はかなり少ないのですが[^1] 、こちらの[ブログ](http://linux.wwing.net/WordPress/?p=2501)が参考になると思います。 もし、Impalaを試すのであれば[Quick Start VM](http://www.cloudera.com/downloads/quickstart_vms/5-7.html)か、[Cloudera Director](http://www.cloudera.com/downloads/director/2-1-0.html)を使うとブラウザでポチポチするだけでAWS, GCP, Azureに簡単にImpalaクラスターが立てれるのでおすすめです。Director導入方法は[こちら](http://qiita.com/shiumachi/items/90649830cb9b45726d99)が参考になります。
 
 Ibisの詳細は資料を見ていただければと思いますが、いくつか補足をしたいと思います。
 
@@ -42,11 +42,11 @@ pandasをお使いの方はわかると思いますが、SQLに比べると試�
 
 ## Sparkより7倍速いのは嬉しいの？
 
-大事なのは15TBのデータを4.4秒で処理できる\*2というスピード感です。処理を投げて帰ってくるまでの時間が短いと、思考の中断が減ります。 例えば、ビルドやテストに時間がかかってコーヒーをいれにいく、みたいな経験はあるんじゃないかと思います。その断絶がなくなるので、考えを継続できますし、ポッと思いついたことをどんどん試行錯誤できます。
+大事なのは15TBのデータを4.4秒で処理できる[^2] というスピード感です。処理を投げて帰ってくるまでの時間が短いと、思考の中断が減ります。 例えば、ビルドやテストに時間がかかってコーヒーをいれにいく、みたいな経験はあるんじゃないかと思います。その断絶がなくなるので、考えを継続できますし、ポッと思いついたことをどんどん試行錯誤できます。
 
 ## Sparkとの住み分けは？
 
-Ibisは、WesがPythonでend to endでPythonを使って分析をしたいという想いでスタートしています。 個人的にはJupyterとともに対話的に試行錯誤をする強力なツールになっていると思います。 もともとImpalaとPython/pandasをつなぐものとしてスタートしたのですが、RedshiftやPrestoなども今後対応していきたいということも言及されています。 なので、プロトタイピングにJupyterとIbisを使うというのが良いと思います。プロトタイプ後にSparkSQL\*3でバッチとして安定化をはかるということもできるでしょう。
+Ibisは、WesがPythonでend to endでPythonを使って分析をしたいという想いでスタートしています。 個人的にはJupyterとともに対話的に試行錯誤をする強力なツールになっていると思います。 もともとImpalaとPython/pandasをつなぐものとしてスタートしたのですが、RedshiftやPrestoなども今後対応していきたいということも言及されています。 なので、プロトタイピングにJupyterとIbisを使うというのが良いと思います。プロトタイプ後にSparkSQL[^3] でバッチとして安定化をはかるということもできるでしょう。
 
 もう一つの方向性としては、[NetflixがグローバルモデルをSparkで、国・地域のモデルをRで学習している](https://www.infoq.com/jp/news/2016/07/meson-framework-netflix)ように、大規模な機械学習はSpark + MLlibで、絞った後のデータはIbis + scikit-learnでみたいな使い分けは可能だと思います。
 
@@ -57,7 +57,7 @@ Ibisは、WesがPythonでend to endでPythonを使って分析をしたいとい
   **[Amebaにおけるレコメンデーションシステムの紹介](https://www.slideshare.net/cyberagent/ameba-64381671 "Amebaにおけるレコメンデーションシステムの紹介")** from **[cyberagent](http://www.slideshare.net/cyberagent)** 
 <cite class="hatena-citation"><a href="http://www.slideshare.net/cyberagent/ameba-64381671">www.slideshare.net</a></cite>
 
-Amebaでの協調フィルタリングによるHBaseを使ったリアルタイムレコメンドの話。 Hadoopスタックだとリアルタイム性を出すのにはHBaseを使うのが多いのですが\*4、更にClick数を取得してバンディットアルゴリズムも使っているというのは凄いですね。
+Amebaでの協調フィルタリングによるHBaseを使ったリアルタイムレコメンドの話。 Hadoopスタックだとリアルタイム性を出すのにはHBaseを使うのが多いのですが[^4] 、更にClick数を取得してバンディットアルゴリズムも使っているというのは凄いですね。
 
 単純なA/Bテストをするという話はDMM.comラボの加嵜さんもお話されていましたが、バンディットアルゴリズムを組み合わせることで、レコメンド結果が複数のロジックの中でも良い物に動的に改善されていくという仕組みが入っています。 僕個人としてはこうした取り組みを聞いたことがなかったので、とても驚きました。
 
@@ -92,12 +92,12 @@ DAGを見よう！という話でした。そして、ポケモンGO仲間を募
 
 自分がホストしたイベントの中では過去最大の募集人数だったのですが、大盛況のうちに終わりました。ご協力・ご参加いただいた皆様ありがとうございました。 今回参加できなかった方もたくさんいらっしゃると思いますので、また次回もこういったイベントをできればと考えています。 乞うご期待ください。
 
-\*1:しかし、日本でIbisというと某研究会しか出てこないので非常につらい
+[^1]: しかし、日本でIbisというと某研究会しか出てこないので非常につらい
 
-\*2:[http://blog.cloudera.com/blog/2016/02/new-sql-benchmarks-apache-impala-incubating-2-3-uniquely-delivers-analytic-database-performance/](http://blog.cloudera.com/blog/2016/02/new-sql-benchmarks-apache-impala-incubating-2-3-uniquely-delivers-analytic-database-performance/)
+[^2]: [http://blog.cloudera.com/blog/2016/02/new-sql-benchmarks-apache-impala-incubating-2-3-uniquely-delivers-analytic-database-performance/](http://blog.cloudera.com/blog/2016/02/new-sql-benchmarks-apache-impala-incubating-2-3-uniquely-delivers-analytic-database-performance/)
 
-\*3:こちらもIbisのスコープに入っています
+[^3]: こちらもIbisのスコープに入っています
 
-\*4:リクルートさんも[HBaseを使ったリアルタイムレコメンドをしています](http://www.slideshare.net/recruitcojp/20150625-cloudera)
+[^4]: リクルートさんも[HBaseを使ったリアルタイムレコメンドをしています](http://www.slideshare.net/recruitcojp/20150625-cloudera)
 
 

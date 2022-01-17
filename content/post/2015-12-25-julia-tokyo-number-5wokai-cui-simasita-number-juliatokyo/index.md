@@ -15,7 +15,7 @@ keywords: [julia, jl, .com, mxnet, juliatokyo, github, オンライン, julialan
 recommendations: [/post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/,
   /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/]
 ---
-さる12/19に[JuliaTokyoの第五回](http://juliatokyo.connpass.com/event/21715/)を開催しました。\*1
+さる12/19に[JuliaTokyoの第五回](http://juliatokyo.connpass.com/event/21715/)を開催しました。[^1] 
 
 togetterのまとめはこちら。
 
@@ -41,7 +41,7 @@ togetterのまとめはこちら。
 
 [JuliaTokyo#5 ハンズオン (佐藤建太) · GitHub](https://gist.github.com/bicycle1885/626f59ff9e0375573470)
 
-## oyamadさん QuantEcon.jl の DiscreteDP の紹介\*2
+## oyamadさん QuantEcon.jl の DiscreteDP の紹介[^2] 
 
 <iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2Foyamad%2Fpresentations%2Ftree%2Fmaster%2FJuliaTokyo05" title="oyamad/presentations" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://github.com/oyamad/presentations/tree/master/JuliaTokyo05">github.com</a></cite>
 
@@ -129,8 +129,8 @@ MeCab.jlとTextAnalysis.jlを使ったテキスト分析の話でした。JMW仕
 
 <iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fqiita.com%2Fadvent-calendar%2F2015%2Fjulialang" title="Julia Advent Calendar 2015 - Qiita" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://qiita.com/advent-calendar/2015/julialang">qiita.com</a></cite>
 
-\*1:週3勉強会開催のフィニッシュdayでした
+[^1]: 週3勉強会開催のフィニッシュdayでした
 
-\*2:どうでもいいけど、はてなブログPDFをgithub上の埋め込むすべがないな。。。
+[^2]: どうでもいいけど、はてなブログPDFをgithub上の埋め込むすべがないな。。。
 
 

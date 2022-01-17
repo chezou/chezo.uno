@@ -27,9 +27,9 @@ Clouderaという外資系のHadoop/Sparkを中心としたプラットフォー
 
 機械学習周りを自分の強みとして、いくつかの発表もさせていただきました。
 
-<iframe src="https://chezou.hatenablog.com/embed/2016/07/26/172738" title="「夏真っ盛り！Spark + Python + Data Science祭り」を開催しました＆Ibisを紹介しました #summerDS - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2016/07/26/172738">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/" data-iframely-url="//cdn.iframe.ly/X2lxekC"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script></br>
 
-<iframe src="https://chezou.hatenablog.com/embed/2016/11/14/230521" title="Cloudera World Tokyo 2016で機械学習プロダクトの作り方を話しました #cwt2016 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2016/11/14/230521">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/" data-iframely-url="//cdn.iframe.ly/vauT4G3"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 さらに機械学習の話に加えHadoop/Spark周りの技術やスキル増やしており、考えられることの幅が広がっているのを実感できます。また、会社の新しいプロダクトや大きな変更が3ヶ月毎に起こるので、それを理解し広めるのに終わりがなく、息をつく暇もありません。
 
@@ -37,15 +37,15 @@ Clouderaという外資系のHadoop/Sparkを中心としたプラットフォー
 
 # 英語の話
 
-転職のところでも書きましたが、英語はDMM英会話とiKnow!、podcastで継続して学習しています。DMM英会話の話をkawasaki.rbでLTしたらインタビューもしていただきました\*1。
+転職のところでも書きましたが、英語はDMM英会話とiKnow!、podcastで継続して学習しています。DMM英会話の話をkawasaki.rbでLTしたらインタビューもしていただきました[^1]。
 
 <iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Feikaiwa.dmm.com%2Fblog%2Fenglish%2Fariga-michiaki%2F" title="英会話未経験から外資系に転職したエンジニア有賀康顕さんの英語学習法【ユーザーインタビュー#1】" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://eikaiwa.dmm.com/blog/english/ariga-michiaki/">eikaiwa.dmm.com</a></cite>
 
-DMM英会話は先生のばらつきがありますが、いろいろな国の多くの先生と話せるのが良いです。フィリピンの先生から自分の好きだった合唱団がなくなってしまった話を聞いたときは感慨深いものがありました。また、ニュースの教材が、VOAからよい感じにピックアップしてくれる\*2ので気に入っています。 DMM英会話のスケジュールをGoogle カレンダーに登録してるのですが、最近見つけたこのブックマークレットが非常に便利です。
+DMM英会話は先生のばらつきがありますが、いろいろな国の多くの先生と話せるのが良いです。フィリピンの先生から自分の好きだった合唱団がなくなってしまった話を聞いたときは感慨深いものがありました。また、ニュースの教材が、VOAからよい感じにピックアップしてくれる[^2]ので気に入っています。 DMM英会話のスケジュールをGoogle カレンダーに登録してるのですが、最近見つけたこのブックマークレットが非常に便利です。
 
-[Atsushi&#39;s Homepage ` Google J\_[Ö³­ÁÆo^](http://www.antun.net/tool/quickAddJP/)
+[Atsushi's Homepage - Google カレンダーへさくっと登録](http://www.antun.net/tool/quickAddJP/)
 
-![](/img/2016/12/21/130000/20161219084621.png)
+![](20161219084621.png)
 
 10月はこんな感じです。11月に長らく風邪を引いてしまったので、ちょっとブランク空きましたが、会社からもDMM英会話のお金を出してもらっているので、手を抜くわけにはいきません。
 
@@ -57,7 +57,7 @@ DMM英会話は先生のばらつきがありますが、いろいろな国の�
 
 <iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.gcppodcast.com%2F" title="Google Cloud Platform Podcast" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://www.gcppodcast.com/">www.gcppodcast.com</a></cite>
 
-英語の学習は筋トレみたいなもので、使わなければ衰えていきます。実際、風邪でダウンしたりしてレッスンをしばらくやらないと、lとrの発音周りで舌が回らずに苦労します。あとは、語彙にしろ表現にしろ、引き出しの多さを増やさないとと思っています。 Duolingoの萩原さんも言うとおり、語学学習は継続してやる人が伸びると言いますし、DMM英会話のような低価格で毎日継続するのが一番得な料金体系\*3はペースを作りやすいのが良いです。
+英語の学習は筋トレみたいなもので、使わなければ衰えていきます。実際、風邪でダウンしたりしてレッスンをしばらくやらないと、lとrの発音周りで舌が回らずに苦労します。あとは、語彙にしろ表現にしろ、引き出しの多さを増やさないとと思っています。 Duolingoの萩原さんも言うとおり、語学学習は継続してやる人が伸びると言いますし、DMM英会話のような低価格で毎日継続するのが一番得な料金体系[^3]はペースを作りやすいのが良いです。
 
 <iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fjp.techcrunch.com%2F2016%2F12%2F20%2Fduolingo%2F" title="週末勉強する人は続かない―データから見えた外国語学習に成功する人の3つの特徴 | TechCrunch Japan" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://jp.techcrunch.com/2016/12/20/duolingo/">jp.techcrunch.com</a></cite>
 
@@ -73,13 +73,13 @@ DMM英会話は先生のばらつきがありますが、いろいろな国の�
 
 [kawasaki.rb](http://kawasakirb.github.io/)を月一で開催したり、[川崎Ruby会議](http://regional.rubykaigi.org/kwsk01/)を主催したり、たまに[podcast](https://rubyist.club/)を収録したりしていると、たまに「お子さんがいるのによく時間がとれますね？」と言われる時があります。
 
-確かに、今年は3ヶ月に一回海外出張もしていたので、妻への負荷は上がった面もあります。また、1年位本の執筆に勤しんでいたこともあり、週末に子供を外出させることをサボっていたところもあります。なお、本は諸般の事情により企画がなくなったのですが、レビューいただいたpyspaの面々からはchezou概念本と呼ばれ一部から「まだなの」と定期的にツッコミが続くため、[技術書典2](https://techbookfest.org/)に応募しています\*4。「サークルカットって何？」と妻に聞いたら「カタログに載せるやつじゃん。必要なら作るよ」という心強い環境なので、通ったら技術書典でお会いしましょう。
+確かに、今年は3ヶ月に一回海外出張もしていたので、妻への負荷は上がった面もあります。また、1年位本の執筆に勤しんでいたこともあり、週末に子供を外出させることをサボっていたところもあります。なお、本は諸般の事情により企画がなくなったのですが、レビューいただいたpyspaの面々からはchezou概念本と呼ばれ一部から「まだなの」と定期的にツッコミが続くため、[技術書典2](https://techbookfest.org/)に応募しています[^4]。「サークルカットって何？」と妻に聞いたら「カタログに載せるやつじゃん。必要なら作るよ」という心強い環境なので、通ったら技術書典でお会いしましょう。
 
 DMM英会話も原則毎朝やるようにしていますし、週末にCourseraのコースをまとめて取り組んでいたりしますが、リズムを作って継続するということが良かったのかなと思います。こうしたリズムは、執筆活動を継続していたときに通勤時間に書いたり週末に書いたりという時間を作っていたのでできるだろうなという気はしていました。
 
 今年に入ってゲームをすることが圧倒的に減りました。new 3DS LLも買ったんですがなかなか聖戦の系譜が進まない...。情報の収集等も基本はてブのマイホットエントリーとpodcastを聞き流す程度です。以前に比べてあまり勉強会に行かないようにしています。これは、人から執筆するなら勉強会は行かないほうが良いと言われたのもあってです。場を作る側の意義は認識しているのでkawasaki.rbは継続していますが、参加したのは大きなイベントだとRuby Kaigiくらいでしょうか。有り体に言えば、自分の時間は有限なので取捨選択を意識的にするようにはしています。
 
-ただ、そもそも出社時間に融通がきくこと、お客様とのミーティング等がない限り自宅で働くことも許容されている\*5ので、そこが大きく効いていると思います。また、妻が体調崩したときにも子供の面倒を見ながら家で仕事をすることができる環境なので、そこは助かっています。\*6
+ただ、そもそも出社時間に融通がきくこと、お客様とのミーティング等がない限り自宅で働くことも許容されている[^5]ので、そこが大きく効いていると思います。また、妻が体調崩したときにも子供の面倒を見ながら家で仕事をすることができる環境なので、そこは助かっています。[^6]
 
 あとは、できるだけ継続するためのコストを削減することを意識しています。kawasaki.rbは場所はNTT-ATさんのおかげで悩む必要もなく、ペースメーカーとしての読書会があるので手ぶらで参加もできます。DMM英会話もレッスンが終わったら強制的に翌日のレッスンを予約するルールを適用することで、翌日の時間を選ぶだけの問題に帰着させています。
 
@@ -87,7 +87,7 @@ DMM英会話も原則毎朝やるようにしていますし、週末にCoursera
 
 家庭内/業務での業務効率を上げるために、ルンバ870とPHILIPSの43インチの4kモニタを買いました。
 
-[![iRobot Roomba 自動掃除機ルンバ870 ピューターグレー 870 【日本仕様正規品】](https://images-fe.ssl-images-amazon.com/images/I/415DIQ8iiKL._SL160_.jpg "iRobot Roomba 自動掃除機ルンバ870 ピューターグレー 870 【日本仕様正規品】")](http://www.amazon.co.jp/exec/obidos/ASIN/B00LKQBHVO/chezou-22/)
+{{< amazon asin="B00LKQBHVO" title="iRobot Roomba 自動掃除機ルンバ870 ピューターグレー 870 【日本仕様正規品】" >}}
 
 [iRobot Roomba 自動掃除機ルンバ870 ピューターグレー 870 【日本仕様正規品】](http://www.amazon.co.jp/exec/obidos/ASIN/B00LKQBHVO/chezou-22/)
 
@@ -95,7 +95,7 @@ DMM英会話も原則毎朝やるようにしていますし、週末にCoursera
 - メディア: その他
 - [この商品を含むブログを見る](http://d.hatena.ne.jp/asin/B00LKQBHVO/chezou-22)
 
-[![Philips 43型ワイド液晶ディスプレイ (4K対応/IPSパネル/5年間フル保証) BDM4350UC/11](https://ecx.images-amazon.com/images/I/51cWvwM7alL._SL160_.jpg "Philips 43型ワイド液晶ディスプレイ (4K対応/IPSパネル/5年間フル保証) BDM4350UC/11")](http://www.amazon.co.jp/exec/obidos/ASIN/B01D9FP20A/chezou-22/)
+{{< amazon asin="B01D9FP20A" title="Philips 43型ワイド液晶ディスプレイ (4K対応/IPSパネル/5年間フル保証) BDM4350UC/11" >}}
 
 [Philips 43型ワイド液晶ディスプレイ (4K対応/IPSパネル/5年間フル保証) BDM4350UC/11](http://www.amazon.co.jp/exec/obidos/ASIN/B01D9FP20A/chezou-22/)
 
@@ -129,16 +129,16 @@ DMM英会話も原則毎朝やるようにしていますし、週末にCoursera
 
 明日は@mopemopeさんです。
 
-\*1:英会話未経験とはテクニカルタームですね :)
+[^1]: 英会話未経験とはテクニカルタームですね :)
 
-\*2:[Messengerアプリのセキュリティの話](http://www.voanews.com/a/popular-messaging-apps-fail-protect-users-privacy-security/3573268.html)など、日本人に合いそうな記事がわりと多い
+[^2]: [Messengerアプリのセキュリティの話](http://www.voanews.com/a/popular-messaging-apps-fail-protect-users-privacy-security/3573268.html)など、日本人に合いそうな記事がわりと多い
 
-\*3:1日1回25分で4950円で、レッスンは翌日持ち越しができない
+[^3]: 1日1回25分で4950円で、レッスンは翌日持ち越しができない
 
-\*4:[https://kuyodera.github.io/](https://kuyodera.github.io/)
+[^4]: [https://kuyodera.github.io/](https://kuyodera.github.io/)
 
-\*5:社内ミーティングもビデオ通話でも大丈夫
+[^5]: 社内ミーティングもビデオ通話でも大丈夫
 
-\*6:夫婦で体調崩したりしたときのリカバリー方法をいい方法を見つけたいです。まだ、ファミサポなどは試していません。
+[^6]: 夫婦で体調崩したりしたときのリカバリー方法をいい方法を見つけたいです。まだ、ファミサポなどは試していません。
 
 

@@ -26,49 +26,68 @@ Sphinxでmarkdown拡張を扱うためのrecommonmarkというライブラリが
 
 conf.pyの上の方に以下をimportし、
 
-    import recommonmark from recommonmark.parser import CommonMarkParser from recommonmark.transform import AutoStructify
+```py
+import recommonmark from recommonmark.parser
+import CommonMarkParser from recommonmark.transform
+import AutoStructify
+```
 
 `source_suffix`の修正、`source_parsers`の追加
 
-    source\_suffix = [&#39;.rst&#39;, &#39;.md&#39;] #source\_suffix = &#39;.rst&#39; source\_parsers = { &#39;.md&#39; : &#39;recommonmark.parser.CommonMarkParser&#39; }
+```py
+source_suffix = [".rst", ".md"]
+#source_suffix = ".rst"
+source_parsers = { ".md" : "recommonmark.parser.CommonMarkParser" }
+```
 
 最後尾に以下を追加します。
 
-    def setup(app): app.add\_config\_value(&#39;recommonmark\_config&#39;, { &#39;enable\_math&#39;: True, &#39;enable\_inline\_math&#39;: True, }, True) app.add\_transform(AutoStructify)
+```py
+def setup(app):
+    app.add_config_value(
+        "recommonmark_config",
+        { "enable_math": True, "enable_inline_math": True, },
+        True)
+    app.add_transform(AutoStructify)
+```
 
 すると、
 
-     ```math (a + b)^2 = a^2 + 2ab + b^2 ```
+$$
+(a + b)^2 = a^2 + 2ab + b^2
+$$
 
 とかくと、以下の数式の部分のようになります。([document](http://recommonmark.readthedocs.io/en/latest/auto_structify.html?highlight=language#math-formula))
 
-![](/img/2017/01/22/161124/20170122160632.png)
+![](20170122160632.png)
 
 また、inlineの数式も以下のように書けます。 ([document](http://recommonmark.readthedocs.io/en/latest/auto_structify.html?highlight=language#inline-math))
 
-    This formula `$ y=\sum_{i=1}^n g(x_i) $`
+```rst
+This formula `$ y=\sum_{i=1}^n g(x_i) $`
+```
 
 ただ、残念ながら式番号を出す方法はわかりませんでした。
 
 [追記]
 
-> [@chezou](https://twitter.com/chezou) 数式番号ですが、conf.py に math\_number\_all = True を入れるとどうなりますか [https://t.co/tH2ouf7Hk6](https://t.co/tH2ouf7Hk6)
-> 
-> — shirou - しろう (@r\_rudi) [2017年1月22日](https://twitter.com/r_rudi/status/823117959572832257)
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet user="r_rudi" id="823117959572832257" >}}
 
 conf.pyに`math_number_all = True`を足せば数式がでました。ですが、参照はできないと思うので参照が必要な場合はreSTで書く必要があると思います。
 
-[![](https://bot.gyazo.com/c1685a433683cd99590bba5cb6748bae.png)](https://bot.gyazo.com/c1685a433683cd99590bba5cb6748bae.png)<cite class="hatena-citation"><a href="https://gyazo.com/c1685a433683cd99590bba5cb6748bae">gyazo.com</a></cite>
+[![](https://bot.gyazo.com/c1685a433683cd99590bba5cb6748bae.png)](https://bot.gyazo.com/c1685a433683cd99590bba5cb6748bae.png)
 
 [/追記]
 
-    $ make latexpdfja
+```sh
+$ make latexpdfja
+```
 
 とすれば、PDFが、
 
-    $ make html
+```sh
+$ make html
+```
 
 とすればhtmlが生成されます。
 
@@ -81,4 +100,3 @@ Sphinxとlatex環境を用意するのが面倒な人向けに、docker imageも
 ### 参考
 
 - [MoreCat Web](http://morec.at/blog/2015/02/24/sphinx-on-docker)
-

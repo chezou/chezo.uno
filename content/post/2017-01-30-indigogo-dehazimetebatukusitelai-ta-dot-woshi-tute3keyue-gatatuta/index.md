@@ -19,11 +19,11 @@ recommendations: [/post/2018-10-28_Thinkpad-X1-Carbon-MacBook-Pro----------USB-T
 
 dotは一言で言うと、AirPodsみたいな小さいBluetoothイヤホンです。
 
-[https://www.indiegogo.com/projects/dot-world-s-smallest-bluetooth-headset#/](https://www.indiegogo.com/projects/dot-world-s-smallest-bluetooth-headset#/)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.indiegogo.com/projects/dot-world-s-smallest-bluetooth-headset" data-iframely-url="//cdn.iframe.ly/eUbZ83H?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ## はじめての Indigogo
 
-![](/img/2017/01/30/220242/20170130213220.png)
+![](20170130213220.png)
 
 僕がバックしたのは、miyagawaさんがdotみたいなイヤホンをinstagramか何かで買ったというのを見て、これかな？と勘違いしたからだったんですが、2015年12月にindigogoでバックしてたみたいです。ステレオで$79+$29のシッピングコストです。最初の申込みから少し遅れていたのですが、当時は2016年4月に届く予定と言っていて、結局届いたのは2016年の10月でした。
 
@@ -49,7 +49,7 @@ dotは一言で言うと、AirPodsみたいな小さいBluetoothイヤホンで�
 
 大きさは小さめの腕時計よりも更に小さい感じ。AnkerのIE20と比べて見ても小さいのがわかります。
 
-Bluetoothのペアリングは、JabraよりはいいけどAnkerのIE20と同じくらいかなという印象です。めちゃくちゃ安定はしてなくて、街なかでちょこちょこ切れる感じだけど、我慢できる範囲です。最近のiOSのアップグレードで接続は安定してきましたが、一度ペアリングが切れかけると片方ずつ接続が復帰するので同期するまでに少し時間がかかります。\*1
+Bluetoothのペアリングは、JabraよりはいいけどAnkerのIE20と同じくらいかなという印象です。めちゃくちゃ安定はしてなくて、街なかでちょこちょこ切れる感じだけど、我慢できる範囲です。最近のiOSのアップグレードで接続は安定してきましたが、一度ペアリングが切れかけると片方ずつ接続が復帰するので同期するまでに少し時間がかかります。[^1]
 
 音については、個人的にはIE20の方がクリアで好きかなという印象です。個人的には、こもった感じがしてそんなにいい音だとは思いませんでした。遮音性に関してはIE20よりもよく、うっかりすると周りの音を聞き逃す感じです。
 
@@ -59,6 +59,4 @@ Bluetoothのペアリングは、JabraよりはいいけどAnkerのIE20と同じ
 
 今となってはAirPodsが安定していると評判なので、そちらのほうが良いかもしれませんが、$100で手に入ったということではいい買い物をしたな、と思っています。
 
-\*1:前のiOSのときはブチブチ切れていて本当に辛かったけど、最近は良い
-
-
+[^1]: 前のiOSのときはブチブチ切れていて本当に辛かったけど、最近は良い

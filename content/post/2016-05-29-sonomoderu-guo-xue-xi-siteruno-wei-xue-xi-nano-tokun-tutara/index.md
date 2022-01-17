@@ -23,7 +23,7 @@ recommendations: [/post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/
 
 この辺は、PRMLなんかから伝統的に説明される、回帰モデルに対して高次のモデルをフィットさせていくと、やり過ぎになるよねみたいな話が書いてあります。
 
-[![パターン認識と機械学習 上](https://images-fe.ssl-images-amazon.com/images/I/41O0QFyTHJL._SL160_.jpg "パターン認識と機械学習 上")](http://www.amazon.co.jp/exec/obidos/ASIN/4621061224/chezou-22/)
+{{< amazon asin="4621061224" title="パターン認識と機械学習 上" >}}
 
 [パターン認識と機械学習 上](http://www.amazon.co.jp/exec/obidos/ASIN/4621061224/chezou-22/)
 
@@ -37,11 +37,11 @@ recommendations: [/post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/
 では、どういう時に過学習が起こるかというと、これもざっくり言うと以下の時に起こります。
 
 - データが少ない時
-- モデル\*1が、問題に対して複雑すぎる時
+- モデル[^1] が、問題に対して複雑すぎる時
 
 書いていて表裏一体な気がしましたが、「じゃあこれどうやって気づけばいいの？」ということを思うと思います。 その答えが、今度日本語版が出る"Python Machine Learning"に分かりやすく書いてありました。日本語版も6月に出るので楽しみですね！
 
-[![Python Machine Learning](https://images-fe.ssl-images-amazon.com/images/I/51KGnFRB-zL._SL160_.jpg "Python Machine Learning")](http://www.amazon.co.jp/exec/obidos/ASIN/B00YSILNL0/chezou-22/)
+{{< amazon asin="B00YSILNL0" title="Python Machine Learning" >}}
 
 [Python Machine Learning](http://www.amazon.co.jp/exec/obidos/ASIN/B00YSILNL0/chezou-22/)
 
@@ -51,7 +51,7 @@ recommendations: [/post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/
 - メディア: Kindle版
 - [この商品を含むブログを見る](http://d.hatena.ne.jp/asin/B00YSILNL0/chezou-22)
 
-[![Python機械学習プログラミング 達人データサイエンティストによる理論と実践 (impress top gear)](https://images-fe.ssl-images-amazon.com/images/I/51YzbphP0JL._SL160_.jpg "Python機械学習プログラミング 達人データサイエンティストによる理論と実践 (impress top gear)")](http://www.amazon.co.jp/exec/obidos/ASIN/4844380605/chezou-22/)
+{{< amazon asin="4844380605" title="Python機械学習プログラミング 達人データサイエンティストによる理論と実践 (impress top gear)" >}}
 
 [Python機械学習プログラミング 達人データサイエンティストによる理論と実践 (impress top gear)](http://www.amazon.co.jp/exec/obidos/ASIN/4844380605/chezou-22/)
 
@@ -71,7 +71,7 @@ recommendations: [/post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/
 
 これだけだと、ナンノコッチャって感じなので言葉で説明すると、横軸をデータサイズとした時に、過学習（High Variance (+ Low bias)）の時は訓練データに対する精度( 図中のtraining accuracy。なお、ここでの精度とは？という話は詳しく言及しないですが、詳しくは[朱鷺の杜の記事](http://ibisforest.org/index.php?F%E5%80%A4)参照。個人的には、accuracyでもprecisionでも指標はケースバイケースで良いと思います)がとても高く、検証データに対する精度(図中のvalidation accuracy)は低いです。なお、訓練データは学習に使ったデータ、検証データは元のデータから訓練データを除いておいた検証用のデータと思ってください。
 
-それに対して未学習(High bias (+Low variance))の時は、データサイズを増やしても訓練データと検証データに対する精度が共に低い状況です。\*2
+それに対して未学習(High bias (+Low variance))の時は、データサイズを増やしても訓練データと検証データに対する精度が共に低い状況です。[^2] 
 
 ポイントとなるのは
 
@@ -82,7 +82,7 @@ recommendations: [/post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/
 
 ## learning curveを描く
 
-では、どうやってこれらの状況に気づけば良いのでしょうか？もう既に少し書いていますが、learning curve（学習曲線）とvalidation curve\*3を書けば良いのです。
+では、どうやってこれらの状況に気づけば良いのでしょうか？もう既に少し書いていますが、learning curve（学習曲線）とvalidation curve[^3] を書けば良いのです。
 
 ![](/img/2016/05/29/215739/20160529212335.jpg)
 
@@ -110,10 +110,10 @@ recommendations: [/post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/
 
 また、この辺の話はPython Machine Learningに丁寧にコードとともに書かれているので、是非発売されたら買うといいと思います。訳の監督もsfchaosさんなので期待が高まりますね！
 
-\*1:学習アルゴリズムと読み替えてもOK
+[^1]: 学習アルゴリズムと読み替えてもOK
 
-\*2:以前、AI学会の研究会で[@shima\_\_shima](https://twitter.com/shima__shima/)先生が「それは未学習なのでは？」というツッコミをしていたのが、意外と未学習を気にしないのではという思いに至った端緒です
+[^2]: 以前、AI学会の研究会で[@shima\_\_shima](https://twitter.com/shima__shima/)先生が「それは未学習なのでは？」というツッコミをしていたのが、意外と未学習を気にしないのではという思いに至った端緒です
 
-\*3:訳語わからない⇨検証曲線と訳しているそうです
+[^3]: 訳語わからない⇨検証曲線と訳しているそうです
 
 

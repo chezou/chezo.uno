@@ -19,7 +19,7 @@ recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/
 
 ## 1. 防水Bluetoothスピーカー
 
-[![Patech　Bluetooth 3.0　ワイヤレススピーカー　内蔵マイク付　吸盤式対応　防水仕様　（ブラック）](https://ecx.images-amazon.com/images/I/51JLR-L6mWL._SL160_.jpg "Patech　Bluetooth 3.0　ワイヤレススピーカー　内蔵マイク付　吸盤式対応　防水仕様　（ブラック）")](http://www.amazon.co.jp/exec/obidos/ASIN/B00NFGRM48/chezou-22/)
+{{< amazon asin="B00NFGRM48" title="Patech　Bluetooth 3.0　ワイヤレススピーカー　内蔵マイク付　吸盤式対応　防水仕様　（ブラック）" >}}
 
 [Patech　Bluetooth 3.0　ワイヤレススピーカー　内蔵マイク付　吸盤式対応　防水仕様　（ブラック）](http://www.amazon.co.jp/exec/obidos/ASIN/B00NFGRM48/chezou-22/)
 
@@ -33,7 +33,7 @@ recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/
 
 ## 2. 二重窓フィルム
 
-[![窓ガラス透明断熱フィルム 【二重窓構造が作れる! 超透明断熱フィルム】 E0590](https://ecx.images-amazon.com/images/I/315Zl1cu0FL._SL160_.jpg "窓ガラス透明断熱フィルム 【二重窓構造が作れる! 超透明断熱フィルム】 E0590")](http://www.amazon.co.jp/exec/obidos/ASIN/B00476HMHC/chezou-22/)
+{{< amazon asin="B00476HMHC" title="窓ガラス透明断熱フィルム 【二重窓構造が作れる! 超透明断熱フィルム】 E0590" >}}
 
 [窓ガラス透明断熱フィルム 【二重窓構造が作れる! 超透明断熱フィルム】 E0590](http://www.amazon.co.jp/exec/obidos/ASIN/B00476HMHC/chezou-22/)
 
@@ -47,7 +47,7 @@ recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/
 
 ## 3. Synology DiskStation DS215j
 
-[![Synology DiskStation DS215j デュアルコアCPU搭載多機能2ベイNASキット CS5029 DS215j](https://ecx.images-amazon.com/images/I/31t3mhYoTlL._SL160_.jpg "Synology DiskStation DS215j デュアルコアCPU搭載多機能2ベイNASキット CS5029 DS215j")](http://www.amazon.co.jp/exec/obidos/ASIN/B00PRXT088/chezou-22/)
+{{< amazon asin="B00PRXT088" title="Synology DiskStation DS215j デュアルコアCPU搭載多機能2ベイNASキット CS5029 DS215j" >}}
 
 [Synology DiskStation DS215j デュアルコアCPU搭載多機能2ベイNASキット CS5029 DS215j](http://www.amazon.co.jp/exec/obidos/ASIN/B00PRXT088/chezou-22/)
 
@@ -56,7 +56,7 @@ recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/
 - メディア: Personal Computers
 - [この商品を含むブログ (1件) を見る](http://d.hatena.ne.jp/asin/B00PRXT088/chezou-22)
 
-本当はこれ単品でレビュー書きたかったんですが、結果としてここでの紹介になってしまいました。 もともとQNAPに入っていたディスクが壊れたので、いい機会だから2枚刺さるNASにしようと思い選びました。 僕が買った当時はSynologyしかbox.comとのsyncに対応しておらず\*1、必然的にSynologyを選ばざるを得なかったのですが、使い勝手は割と良いです。
+本当はこれ単品でレビュー書きたかったんですが、結果としてここでの紹介になってしまいました。 もともとQNAPに入っていたディスクが壊れたので、いい機会だから2枚刺さるNASにしようと思い選びました。 僕が買った当時はSynologyしかbox.comとのsyncに対応しておらず[^1] 、必然的にSynologyを選ばざるを得なかったのですが、使い勝手は割と良いです。
 
 そもそも、シングルコアからデュアルコアのCPUに変わったことも有り、転送速度もかなり改善したのが大きいですが、アプリ周りも良い感じです。 ただ、家の外からアクセスする際に結構細かくファイアーウォールなどを設定できる反面、どれが設定に必要なのかが少しわかりにくいので玄人向けという印象です。
 
@@ -66,7 +66,7 @@ NASは4年くらいに一回買い換えるのがいいかもしれません。
 
 ディスクはNAS用途の24時間稼働を想定した赤いやつを買っています。
 
-[![WD HDD 内蔵ハードディスク 3.5インチ 3TB Red WD30EFRX / IntelliPower / SATA 6Gb/s / 3年保証](https://ecx.images-amazon.com/images/I/51I6hfSzvyL._SL160_.jpg "WD HDD 内蔵ハードディスク 3.5インチ 3TB Red WD30EFRX / IntelliPower / SATA 6Gb/s / 3年保証")](http://www.amazon.co.jp/exec/obidos/ASIN/B008P56QEQ/chezou-22/)
+{{< amazon asin="B008P56QEQ" title="WD HDD 内蔵ハードディスク 3.5インチ 3TB Red WD30EFRX / IntelliPower / SATA 6Gb/s / 3年保証" >}}
 
 [WD HDD 内蔵ハードディスク 3.5インチ 3TB Red WD30EFRX / IntelliPower / SATA 6Gb/s / 3年保証](http://www.amazon.co.jp/exec/obidos/ASIN/B008P56QEQ/chezou-22/)
 
@@ -77,7 +77,7 @@ NASは4年くらいに一回買い換えるのがいいかもしれません。
 
 ## 4. サイクルロッカー
 
-[![サイクルロッカー(CycleLocker)　室内用縦置き自転車スタンド　クランクストッパースタンド　CS-650 (RED)](https://ecx.images-amazon.com/images/I/31Vs5lmqSAL._SL160_.jpg "サイクルロッカー(CycleLocker)　室内用縦置き自転車スタンド　クランクストッパースタンド　CS-650 (RED)")](http://www.amazon.co.jp/exec/obidos/ASIN/B00TD128N4/chezou-22/)
+{{< amazon asin="B00TD128N4" title="サイクルロッカー(CycleLocker)　室内用縦置き自転車スタンド　クランクストッパースタンド　CS-650 (RED)" >}}
 
 [サイクルロッカー(CycleLocker)　室内用縦置き自転車スタンド　クランクストッパースタンド　CS-650 (RED)](http://www.amazon.co.jp/exec/obidos/ASIN/B00TD128N4/chezou-22/)
 
@@ -89,7 +89,7 @@ NASは4年くらいに一回買い換えるのがいいかもしれません。
 
 ## 5. Panasonic LEDかしこいテールライト SKL090
 
-[![Panasonic(パナソニック) LEDかしこいテールライト SKL090 ブラック](https://ecx.images-amazon.com/images/I/41mwQdHSbyL._SL160_.jpg "Panasonic(パナソニック) LEDかしこいテールライト SKL090 ブラック")](http://www.amazon.co.jp/exec/obidos/ASIN/B006L09B0I/chezou-22/)
+{{< amazon asin="B006L09B0I" title="Panasonic(パナソニック) LEDかしこいテールライト SKL090 ブラック" >}}
 
 [Panasonic(パナソニック) LEDかしこいテールライト SKL090 ブラック](http://www.amazon.co.jp/exec/obidos/ASIN/B006L09B0I/chezou-22/)
 
@@ -103,7 +103,7 @@ NASは4年くらいに一回買い換えるのがいいかもしれません。
 
 ## 6. サンシェードとDCモーター扇風機
 
-[![UVカット オーニング スクリーン 幅180cmタイプ グリーン](https://ecx.images-amazon.com/images/I/519mbHY5tRL._SL160_.jpg "UVカット オーニング スクリーン 幅180cmタイプ グリーン")](http://www.amazon.co.jp/exec/obidos/ASIN/B00C56VL14/chezou-22/)
+{{< amazon asin="B00C56VL14" title="UVカット オーニング スクリーン 幅180cmタイプ グリーン" >}}
 
 [UVカット オーニング スクリーン 幅180cmタイプ グリーン](http://www.amazon.co.jp/exec/obidos/ASIN/B00C56VL14/chezou-22/)
 
@@ -111,7 +111,7 @@ NASは4年くらいに一回買い換えるのがいいかもしれません。
 - メディア: Tools & Hardware
 - [この商品を含むブログを見る](http://d.hatena.ne.jp/asin/B00C56VL14/chezou-22)
 
-[![山善(YAMAZEN) (DCモーター搭載)30cmリビング扇風機(静音モード搭載)(リモコン)(風量4段階)入切タイマー付 ホワイト YLX-LD302(W)](https://ecx.images-amazon.com/images/I/31CksmIlExL._SL160_.jpg "山善(YAMAZEN) (DCモーター搭載)30cmリビング扇風機(静音モード搭載)(リモコン)(風量4段階)入切タイマー付 ホワイト YLX-LD302(W)")](http://www.amazon.co.jp/exec/obidos/ASIN/B00TZ9W8FW/chezou-22/)
+{{< amazon asin="B00TZ9W8FW" title="山善(YAMAZEN) (DCモーター搭載)30cmリビング扇風機(静音モード搭載)(リモコン)(風量4段階)入切タイマー付 ホワイト YLX-LD302(W)" >}}
 
 [山善(YAMAZEN) (DCモーター搭載)30cmリビング扇風機(静音モード搭載)(リモコン)(風量4段階)入切タイマー付 ホワイト YLX-LD302(W)](http://www.amazon.co.jp/exec/obidos/ASIN/B00TZ9W8FW/chezou-22/)
 
@@ -125,6 +125,6 @@ DCモーター扇風機もほとんどお値段しないわりに、静かだっ
 
 というわけで、今年は色々なものを買いました。dotとか[final audio designのheaven IV](http://amzn.to/1NTKFHz)は来年レビューを書こうと思います...。
 
-\*1:今はQNAPも対応したようです
+[^1]: 今はQNAPも対応したようです
 
 

@@ -64,7 +64,7 @@ IIJmioのファミリーシェアプランに音声通話プランを追加す�
 
 IIJmioの契約は日割り計算されないため、3のタイミングには注意が必要です。 僕の場合は、解約タイミングを失敗して1ヶ月使わないSIMが遊ぶはめになりましたのでお気をつけ下さい。。。
 
-[![IIJ IIJmio SIM ウェルカムパック microSIM 版 <開通期限2016年3月31日まで> IM-B054](https://ecx.images-amazon.com/images/I/51JS3OUjtVL._SL160_.jpg "IIJ IIJmio SIM ウェルカムパック microSIM 版 <開通期限2016年3月31日まで> IM-B054")](http://www.amazon.co.jp/exec/obidos/ASIN/B00PLIDFTO/chezou-22/)
+{{< amazon asin="B00PLIDFTO" title="IIJ IIJmio SIM ウェルカムパック microSIM 版 <開通期限2016年3月31日まで> IM-B054" >}}
 
 [IIJ IIJmio SIM ウェルカムパック microSIM 版 IM-B054](http://www.amazon.co.jp/exec/obidos/ASIN/B00PLIDFTO/chezou-22/)
 
@@ -73,7 +73,7 @@ IIJmioの契約は日割り計算されないため、3のタイミングには�
 - メディア: エレクトロニクス
 - [この商品を含むブログ (2件) を見る](http://d.hatena.ne.jp/asin/B00PLIDFTO/chezou-22)
 
-[![IIJ BIC SIM音声通話パック](https://ecx.images-amazon.com/images/I/41fBpAaKaxL._SL160_.jpg "IIJ BIC SIM音声通話パック")](http://www.amazon.co.jp/exec/obidos/ASIN/B00IUFBHQS/chezou-22/)
+{{< amazon asin="B00IUFBHQS" title="IIJ BIC SIM音声通話パック" >}}
 
 [IIJ BIC SIM音声通話パック](http://www.amazon.co.jp/exec/obidos/ASIN/B00IUFBHQS/chezou-22/)
 
@@ -89,7 +89,7 @@ spigenのハイブリッド系のケースだったのですが、画面保護�
 
 結局僕はTPUの柔らかいケースを買ったのですが、非常に満足しています。
 
-[![ELECOM iPhone6S iPhone6 ソフトケース TPU素材 パーフェクトクリア PM-A14UCTCR](https://ecx.images-amazon.com/images/I/31pgK%2BlN0nL._SL160_.jpg "ELECOM iPhone6S iPhone6 ソフトケース TPU素材 パーフェクトクリア PM-A14UCTCR")](http://www.amazon.co.jp/exec/obidos/ASIN/B00N797VZ8/chezou-22/)
+{{< amazon asin="B00N797VZ8" title="ELECOM iPhone6S iPhone6 ソフトケース TPU素材 パーフェクトクリア PM-A14UCTCR" >}}
 
 [ELECOM iPhone6S iPhone6 ソフトケース TPU素材 パーフェクトクリア PM-A14UCTCR](http://www.amazon.co.jp/exec/obidos/ASIN/B00N797VZ8/chezou-22/)
 

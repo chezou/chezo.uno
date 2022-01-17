@@ -79,7 +79,7 @@ recommendations: [/post/2014-06-07-machine-learning-casual-talks-wokai-cui-simas
 
 こういうモチベーションなので、「これから入門したい！」という人にはお互い不幸になることが容易に想像できました。 「機械学習」というとはやりの言葉として追いかけようとしている人も増えているとは思いますが、最低限[Andrew Ngの機械学習コース](https://www.coursera.org/course/ml)を終えている人をターゲットにしたいという思いはありました。
 
-ただ、どうすればそういう人にリーチするかという解がわからなかったのと、connpassの抽選機能は[自分が強く希望を出して実現してもらった](https://twitter.com/chezou/status/502342379857145856)ので、一度は試さないといけないなと思い、rand()の神様にすべてを託しました\*1。
+ただ、どうすればそういう人にリーチするかという解がわからなかったのと、connpassの抽選機能は[自分が強く希望を出して実現してもらった](https://twitter.com/chezou/status/502342379857145856)ので、一度は試さないといけないなと思い、rand()の神様にすべてを託しました[^1] 。
 
 結果としては、GWに突入している人も多かったのかガチな人が多かった印象です。こちらとしてはあまり言いたくないけど、「ドタキャンした人は今後お断りする可能性があります」という事を書いておくのは大事だと認識しました。
 
@@ -89,6 +89,6 @@ recommendations: [/post/2014-06-07-machine-learning-casual-talks-wokai-cui-simas
 
 次回は"DevData"というテーマがいいというお話をtokorotenさん方面からいただいています。
 
-\*1:[help](http://help.connpass.com/organizers/event-lottery)にある通り、指名もできるが今回は運営意外は指名しなかった
+[^1]: [help](http://help.connpass.com/organizers/event-lottery)にある通り、指名もできるが今回は運営意外は指名しなかった
 
 

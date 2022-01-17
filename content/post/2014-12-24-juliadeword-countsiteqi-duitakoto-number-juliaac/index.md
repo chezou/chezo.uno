@@ -24,7 +24,7 @@ recommendations: [/post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebook
 
 このお話は、自分が[julia-usersで質問したこと](https://groups.google.com/d/topic/julia-users/uIotqx3M12g/discussion)の回答をまとめたものです。
 
-気軽にコミッターから斧が飛んでくるのがいいですね。さすが、Karpinskiさん\*1
+気軽にコミッターから斧が飛んでくるのがいいですね。さすが、Karpinskiさん[^1] 
 
 # Ruby脳のWord count
 

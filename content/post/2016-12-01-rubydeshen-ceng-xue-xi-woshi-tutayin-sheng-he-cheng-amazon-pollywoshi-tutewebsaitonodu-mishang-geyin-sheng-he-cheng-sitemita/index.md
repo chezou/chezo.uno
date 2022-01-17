@@ -20,23 +20,17 @@ recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2016-12-17
 
 今日のre:InventでDeep Learningを使った音声合成サービスのAmazon Pollyが発表されました。 正直、DLを使ったの音声合成が話題になったのなんて今年に入ってからだと思っていたのに、もう商用化したんか！という気持ちでいっぱいです。
 
-[Amazon Polly – 文章から音声へ、47の声と24の言語 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/polly-text-to-speech-in-47-voices-and-24-languages/)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://aws.amazon.com/jp/blogs/news/polly-text-to-speech-in-47-voices-and-24-languages/" data-iframely-url="//cdn.iframe.ly/2rv5lYs?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script></br>
 
-[Amazon Polly – Lifelike Text-to-Speech](https://aws.amazon.com/jp/polly/)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://aws.amazon.com/jp/polly/" data-iframely-url="//cdn.iframe.ly/mY21nZH?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-**[2016/12/02追記]**PollyがDLベースという話は [https://aws.amazon.com/jp/polly/](https://aws.amazon.com/jp/polly/) に、"Polly is an Amazon AI service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. "と書かれていますが、DNNを一部のモジュールとして使っている波形接続型じゃないの？とのことです。なので、「DLを使った」という表現に修正しました。
+**[2016/12/02追記]**
 
-> Amazon Polly sounds like concatenative TTS, neither parametric nor WaveNet. I can hear concatenation glitches in its samples.
-> 
-> — Heiga Zen (@heiga\_zen) [2016年12月1日](https://twitter.com/heiga_zen/status/804202482780008448)
+PollyがDLベースという話は [https://aws.amazon.com/jp/polly/](https://aws.amazon.com/jp/polly/) に、"Polly is an Amazon AI service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. "と書かれていますが、DNNを一部のモジュールとして使っている波形接続型じゃないの？とのことです。なので、「DLを使った」という表現に修正しました。
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet user="heiga_zen" id="804202482780008448" >}}
 
-> [@chezou](https://twitter.com/chezou) [@ballforest](https://twitter.com/ballforest) 多分DNNをどこかのモジュールで使ってる単位選択型です。Appleもそうだったりします。
-> 
-> — Heiga Zen (@heiga\_zen) [2016年12月2日](https://twitter.com/heiga_zen/status/804503598675750913)
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet user="heiga_zen" id="804503598675750913" >}}
 
 なので、[DeepMindのWaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)のように音声を直接生成しているわけではなさそうです。
 
@@ -48,7 +42,12 @@ Pollyが凄いのは、AWS CLIで簡単に音声合成がされるというこ�
 
 AWS CLIを使ったbashのサンプルコードはこんな感じです。かんたんでしょ？
 
-    $ aws polly synthesize-speech \ --output-format mp3 --voice-id Joanna \ --text "Hello my name is Joanna." \ joanna.mp3
+```sh
+$ aws polly synthesize-speech \
+  --output-format mp3 --voice-id Joanna \
+  --text "Hello my name is Joanna." \
+  joanna.mp3
+```
 
 また、サポートしている言語数も2016/12/01現在で、ヨーロッパ言語を中心に以下の24言語をサポートしています。
 
@@ -94,7 +93,7 @@ AWS CLIを使ったbashのサンプルコードはこんな感じです。かん
 
 ポイントとしては、幾つか重要な制約があります。
 
-- API一回あたりの文字数が1500字\*1（なので、catでmp3を結合している）
+- API一回あたりの文字数が1500字[^1]（なので、catでmp3を結合している）
 - 長い音声は、5分以降が切り捨てられる
 
 詳細は以下を参考にしてください。<iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fdocs.aws.amazon.com%2Fpolly%2Flatest%2Fdg%2Flimits.html" title="Limits in Amazon Polly - Amazon Polly" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://docs.aws.amazon.com/polly/latest/dg/limits.html">docs.aws.amazon.com</a></cite>
@@ -107,6 +106,4 @@ AWS CLIを使ったbashのサンプルコードはこんな感じです。かん
 
 正直、安くて多言語でそれなりに自然で何よりAPIが使いやすいということで、既存の日本の音声合成を頑張ってきた企業は大変だなぁという気持ちになりますが、いろいろな使い方ができそうで楽しみです。
 
-\*1:厳密には、"1500 billed characters (3000 total characters)"と書いてあるけど"billed characters"がわからない
-
-
+[^1]: 厳密には、"1500 billed characters (3000 total characters)"と書いてあるけど"billed characters"がわからない

@@ -40,7 +40,7 @@ recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-
 
 神奈川の時はペアプロあり、パネルディスカッションありのもりもりだったのですが、今回は「できるだけ楽をする」ということに徹しました。 東京Ruby会議11は[かなりの額を動かす](http://magazine.rubyist.net/?0054-TokyoRubyKaigi11OrganizeReport)のでかなり重い感じだったのと対象的に、我々は
 
-- 手間を掛けない\*1
+- 手間を掛けない[^1] 
 - お金をかけない
 
 という方式で行きました。
@@ -80,7 +80,7 @@ recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-
 - 世界をまたにかける話
 - Rubyと思ったら数学の話で終わってしまったでござる
 
-[![プログラミングElixir](https://ecx.images-amazon.com/images/I/518jex9rmIL._SL160_.jpg "プログラミングElixir")](http://www.amazon.co.jp/exec/obidos/ASIN/4274219151/chezou-22/)
+{{< amazon asin="4274219151" title="プログラミングElixir" >}}
 
 [プログラミングElixir](http://www.amazon.co.jp/exec/obidos/ASIN/4274219151/chezou-22/)
 
@@ -92,7 +92,7 @@ recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-
 
 また、パーフェクトRubyの読書会も続けているためか、「Ruby初心者です」という方もちょこちょこ来ていただいています。kawasaki.rbがきっかけで今回発表された蓑島さんのように一人エンジニアの環境で独学で業務でコードを書くようになった人、転職した人、Herokuのイベントに登壇した人、Railsを学び始めて起業した人など様々な人がいるのも特徴です。 正直、Rubyにとても詳しい人には物足りない側面もあるのかもしれないとは思うのですが、asakusa.rbなどとはまた違った路線で来ているのかなと思っています。 「ここに来れば困ったことを質問できる」とか「ここに来れば自分の知見を気軽に発表できる」という場所を続けてきたかいがあって、今回のregionalにつながったのだと思います。
 
-[![パーフェクトRuby (PERFECT SERIES 6)](https://ecx.images-amazon.com/images/I/51K0jUf%2BiEL._SL160_.jpg "パーフェクトRuby (PERFECT SERIES 6)")](http://www.amazon.co.jp/exec/obidos/ASIN/4774158798/chezou-22/)
+{{< amazon asin="4774158798" title="パーフェクトRuby (PERFECT SERIES 6)" >}}
 
 [パーフェクトRuby (PERFECT SERIES 6)](http://www.amazon.co.jp/exec/obidos/ASIN/4774158798/chezou-22/)
 
@@ -112,6 +112,6 @@ recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-
 
 なお、[明日はいつものkawasaki.rb](https://kawasakirb.doorkeeper.jp/events/50947)を開催しますので、興味を持たれた方は是非ご参加ください :)
 
-\*1:Tokyuリスペクト
+[^1]: Tokyuリスペクト
 
 

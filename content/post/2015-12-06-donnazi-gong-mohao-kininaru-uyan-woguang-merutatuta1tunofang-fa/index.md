@@ -21,7 +21,7 @@ recommendations: [/post/2015-12-21-xiao-saizi-gong-gazi-fen-karayao-woyin-mitaku
 
 うどんです。
 
-![](/img/uyan-dominates-the-world/20151205171506.jpg)
+![](20151205171506.jpg)
 
 本の正式名称は「うどんのうーやん」です。
 
@@ -29,7 +29,7 @@ recommendations: [/post/2015-12-21-xiao-saizi-gong-gazi-fen-karayao-woyin-mitaku
 
 働き者のうどんです。
 
-![](/img/uyan-dominates-the-world/20151205171532.jpg)
+![](20151205171532.jpg)
 
 人手不足の煽りを受けて、自分自身で配達に行きます。  
 世が世なら、世界中の仕事が人工知能によって奪われて「うーやん」は自ら配達に行く必要は無かったのかもしれません。
@@ -38,15 +38,15 @@ recommendations: [/post/2015-12-21-xiao-saizi-gong-gazi-fen-karayao-woyin-mitaku
 
 哲学です。
 
-![](/img/uyan-dominates-the-world/20151205171619.jpg)
+![](20151205171619.jpg)
 
 そこに川があるから渡り、
 
-![](/img/uyan-dominates-the-world/20151205171645.jpg)
+![](20151205171645.jpg)
 
 そこに山があるから登ります。
 
-さらに、食べてしまおうと迫り来る鳥との戦いでは、唐辛子さんとの熱い友情も見ることが出来ます。 子供の情操教育にぴったりですね。 さらに、前編関西弁で記述されているため、関東地方に住む子供にとっては方言を通じて「地域によって言葉が違う」という多様性を学ぶことができます。\*1
+さらに、食べてしまおうと迫り来る鳥との戦いでは、唐辛子さんとの熱い友情も見ることが出来ます。 子供の情操教育にぴったりですね。 さらに、前編関西弁で記述されているため、関東地方に住む子供にとっては方言を通じて「地域によって言葉が違う」という多様性を学ぶことができます。[^1] 
 
 # 「うーやん」を広める唯一の方法
 
@@ -62,7 +62,7 @@ recommendations: [/post/2015-12-21-xiao-saizi-gong-gazi-fen-karayao-woyin-mitaku
 
 小さいお子さんをお持ちで、まだうーやんを持っていない方は是非一度手にとって見るとよいでしょう。
 
-[![うどんのうーやん](https://ecx.images-amazon.com/images/I/61nkvFNt59L._SL160_.jpg "うどんのうーやん")](http://www.amazon.co.jp/exec/obidos/ASIN/4893095501/chezou-22/)
+{{< amazon asin="4893095501" title="うどんのうーやん" >}}
 
 [うどんのうーやん](http://www.amazon.co.jp/exec/obidos/ASIN/4893095501/chezou-22/)
 
@@ -77,28 +77,9 @@ recommendations: [/post/2015-12-21-xiao-saizi-gong-gazi-fen-karayao-woyin-mitaku
 
 # あわせて読みたい
 
-[![ちくわのわーさん](https://ecx.images-amazon.com/images/I/51i05FC%2BzaL._SL160_.jpg "ちくわのわーさん")](http://www.amazon.co.jp/exec/obidos/ASIN/4893095285/chezou-22/)
+{{< amazon asin="4893095285" title="ちくわのわーさん" >}}
 
-[ちくわのわーさん](http://www.amazon.co.jp/exec/obidos/ASIN/4893095285/chezou-22/)
-
-- 作者: 岡田よしたか
-- 出版社/メーカー: ブロンズ新社
-- 発売日: 2011/10
-- メディア: ハードカバー
-- 購入: 1人 クリック: 218回
-- [この商品を含むブログ (19件) を見る](http://d.hatena.ne.jp/asin/4893095285/chezou-22)
-
-[![こんぶのぶーさん](https://ecx.images-amazon.com/images/I/51UiqizmxwL._SL160_.jpg "こんぶのぶーさん")](http://www.amazon.co.jp/exec/obidos/ASIN/4893095617/chezou-22/)
-
-[こんぶのぶーさん](http://www.amazon.co.jp/exec/obidos/ASIN/4893095617/chezou-22/)
-
-- 作者: 岡田よしたか
-- 出版社/メーカー: ブロンズ新社
-- 発売日: 2013/03/22
-- メディア: 単行本
-- クリック: 1回
-- [この商品を含むブログ (3件) を見る](http://d.hatena.ne.jp/asin/4893095617/chezou-22)
-
-\*1:なお、私は似非関西弁を話すと刺される名古屋文化圏で育ったため、できるだけ妻に読んでもらっています
+{{< amazon asin="4893095617" title="こんぶのぶーさん" >}}
 
 
+[^1]: なお、私は似非関西弁を話すと刺される名古屋文化圏で育ったため、できるだけ妻に読んでもらっています

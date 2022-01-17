@@ -19,7 +19,7 @@ recommendations: [/post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-meru
 
 前日は、[@_ksss_](https://twitter.com/_ksss_)さんの[子育てしながらリモートで働いた半年間 - スペクトラム](http://ksss9.hatenablog.com/entry/2015/12/20/144329)でした。
 
-今回はまったくテクノロジーの話をしません。\*1
+今回はまったくテクノロジーの話をしません。[^1] 
 
 # 1行で
 
@@ -31,7 +31,7 @@ recommendations: [/post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-meru
 
 おくすり飲めたねとは、龍角散が出している薬を包むゼリーです。
 
-[![龍角散 おくすり飲めたね いちご 200g](https://ecx.images-amazon.com/images/I/51H9ymXkDqL._SL160_.jpg "龍角散 おくすり飲めたね いちご 200g")](http://www.amazon.co.jp/exec/obidos/ASIN/B0074ZFJ3W/chezou-22/)
+{{< amazon asin="B0074ZFJ3W" title="龍角散 おくすり飲めたね いちご 200g" >}}
 
 [龍角散 おくすり飲めたね いちご 200g](http://www.amazon.co.jp/exec/obidos/ASIN/B0074ZFJ3W/chezou-22/)
 
@@ -56,7 +56,7 @@ recommendations: [/post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-meru
 味が複数ありますが、いちごはAmazonのお急ぎ便対応なので重宝します。我が家のメインはこれです。  
 そして、たまにでる抗生物質なんかはチョコレート味で包まないと、恐ろしく苦くなってしまい出してしまうので注意が必要です。
 
-[![龍角散 おくすり飲めたね チョコレート味 100g](https://ecx.images-amazon.com/images/I/31E2DQk5ggL._SL160_.jpg "龍角散 おくすり飲めたね チョコレート味 100g")](http://www.amazon.co.jp/exec/obidos/ASIN/B000FQUF9K/chezou-22/)
+{{< amazon asin="B000FQUF9K" title="龍角散 おくすり飲めたね チョコレート味 100g" >}}
 
 [龍角散 おくすり飲めたね チョコレート味 100g](http://www.amazon.co.jp/exec/obidos/ASIN/B000FQUF9K/chezou-22/)
 
@@ -68,6 +68,6 @@ recommendations: [/post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-meru
 
 明日はzuzuさんのエントリです。
 
-\*1:ひどい
+[^1]: ひどい
 
 

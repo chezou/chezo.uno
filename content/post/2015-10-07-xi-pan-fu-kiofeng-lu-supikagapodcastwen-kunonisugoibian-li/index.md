@@ -17,7 +17,7 @@ recommendations: [/post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/, /post/
 ---
 前々からBluetoothのお風呂ラジオをほしいなーと思っていたのですが、昔に比べるとかなり安くなっていたので買いました。
 
-[![Patech　Bluetooth 3.0　ワイヤレススピーカー　内蔵マイク付　吸盤式対応　防水仕様　（ブルー）](https://ecx.images-amazon.com/images/I/51LFxG6wCzL._SL160_.jpg "Patech　Bluetooth 3.0　ワイヤレススピーカー　内蔵マイク付　吸盤式対応　防水仕様　（ブルー）")](http://www.amazon.co.jp/exec/obidos/ASIN/B00NFGTRNC/chezou-22/)
+{{< amazon asin="B00NFGTRNC" title="Patech　Bluetooth 3.0　ワイヤレススピーカー　内蔵マイク付　吸盤式対応　防水仕様　（ブルー）" >}}
 
 [Patech　Bluetooth 3.0　ワイヤレススピーカー　内蔵マイク付　吸盤式対応　防水仕様　（ブルー）](http://www.amazon.co.jp/exec/obidos/ASIN/B00NFGTRNC/chezou-22/)
 
@@ -27,7 +27,7 @@ recommendations: [/post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/, /post/
 
 Amazonで2000円を切っているので勢い余って買ってしまったのですが、非常に重宝しています。 お風呂では鏡につければ安定しますし、音量もそれなりに大きいです。
 
-この商品を選んだ決め手は、「ロードバイクのトップチューブにもつきます」って書いてあったからなのですが、 よくよく読んでみると大分無茶してる使い方でした...。\*1
+この商品を選んだ決め手は、「ロードバイクのトップチューブにもつきます」って書いてあったからなのですが、 よくよく読んでみると大分無茶してる使い方でした...。[^1] 
 
 一番嬉しいのが、冷蔵庫にくっつくということ。
 
@@ -39,6 +39,6 @@ Amazonで2000円を切っているので勢い余って買ってしまったの�
 
 肝心の音は、モノラルだけど値段に比べると少しマシかなという印象です。普通にpopsとか流しても昔のラジオっぽい雰囲気がでてよいです。
 
-\*1:カラビナついてるから、どこかにぶら下げるのは良いかも
+[^1]: カラビナついてるから、どこかにぶら下げるのは良いかも
 
 
