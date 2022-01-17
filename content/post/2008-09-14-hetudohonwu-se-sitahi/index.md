@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ヘッドホン, 次第, 無線, アンプ, 視聴, 決定, 欲しく, '2000', hd, '25']
-recommendations: [/post/2008-10-05-hd53r-ver-dot-8wogou-ru/, /post/2008-01-18-souiebakokohawu-yu-burogudatuta/,
-  /post/2008-10-28-mai-tutesimatuta/]
+keywords: [ヘッドホン, rock, 大須, pop, 次第, 無線, アンプ, 視聴, 決定, 欲しく]
+recommendations: [/post/2008-10-05-hd53r-ver-dot-8wogou-ru/, /post/2005-08-24-hetudohon-hetudohon/,
+  /post/2008-01-18-souiebakokohawu-yu-burogudatuta/]
 ---
 J-POPやROCKが聞けるヘッドホンが欲しくなってきたので、メモメモ。  
   

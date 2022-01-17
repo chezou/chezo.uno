@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [julia, jl, .com, juliatokyo, github, オンライン, julialang, gpu, 分類, from]
+keywords: [julia, jl, .com, mxnet, juliatokyo, github, オンライン, julialang, gpu, 分類]
 recommendations: [/post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/,
   /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/]
 ---

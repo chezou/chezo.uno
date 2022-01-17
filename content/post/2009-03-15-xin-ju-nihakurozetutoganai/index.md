@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [全般的, カバー, 精度, 二人, やつ, アマゾン, 値段, 場所, おかげ, 一人]
-recommendations: [/post/2008-07-19-ensemblenow-di-39hui-ding-qi-yan-zou-hui-at-sesionshan-bing/,
-  /post/2005-07-17-urayamasika/, /post/2008-08-26-akihabara-at-deep/]
+keywords: [ｒｙ, 始末, ラック, ハンガー, 全般的, カバー, 精度, 二人, やつ, アマゾン]
+recommendations: [/post/2005-07-17-urayamasika/, /post/2008-10-05-hd53r-ver-dot-8wogou-ru/,
+  /post/2016-05-29-sonomoderu-guo-xue-xi-siteruno-wei-xue-xi-nano-tokun-tutara/]
 ---
 押し入れはあってもクローゼットがありません！  
 箪笥は置く場所がありません！というか引越の時にも大変そうです。お値段も（ｒｙ  

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [モデル, ポップ, なじみ, comics, 小学館, チャンネル, ファン, テレビ, そのまま, オススメ]
-recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2005-08-21-nan-sheng-he-chang/,
-  /post/2008-09-08-luck-stealer-2/]
+keywords: [どうでしょう, モデル, special, 北海道, すばらしい, ポップ, なじみ, comics, 小学館, チャンネル]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2005-03-27-u-urusai-dot-dot-dot/,
+  /post/2008-09-10-enzieruhato-27/]
 ---
 [![](https://ecx.images-amazon.com/images/I/51DmEVIjTzL._SL160_.jpg) 
 

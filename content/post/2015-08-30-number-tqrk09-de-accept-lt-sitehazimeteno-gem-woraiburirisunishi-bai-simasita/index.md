@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [surface, kytea, tags, str, 今日, tokyu, リリース, gem, ruby, 記号]
-recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
-  /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/]
+keywords: [tag, surface, kytea, '100.0', 名詞, tags, 天気, 語尾, str, working]
+recommendations: [/post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
+  /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/]
 ---
 Tokyu Ruby Kaigi 09 でAccept LTのトリで話しました。 3分だってのに盛りすぎ、かつDEMOで接続が悪くなるという前回もあった失敗を重ねてはじめてのGemをライブリリースすることに失敗しました。
 

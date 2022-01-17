@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ポップ, 印象, 変態, me, 全体的, jazz, 活躍, メンバー, これから, 楽しみ]
-recommendations: [/post/2005-08-21-nan-sheng-he-chang/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
+keywords: [アルバム, ポップ, 印象, pass, 変態, me, 全体的, jazz, 活躍, メンバー]
+recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
   /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/]
 ---
 Pass Me the Jazzがすてきなアルバムです！

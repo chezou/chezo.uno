@@ -11,10 +11,9 @@ tags: []
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 categories: [ruby]
-keywords: [科学, 計算, ruby, ベンチマーク, numpy, 翻訳, python, パーフェクト, '2014', あと]
-recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/,
-  /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
-  /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/]
+keywords: ['383', 科学, 計算, '382', ruby, ベンチマーク, numpy, 翻訳, python, パーフェクト]
+recommendations: [/post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/,
+  /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/]
 ---
 2014/1/22にkawasaki.rbの第8回ミートアップを開催しました。
 

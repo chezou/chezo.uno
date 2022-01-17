@@ -12,7 +12,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [数値計算, ruby, julia, '2.1', よかっ, jekyll, android, 質問, '01', in]
+keywords: [数値計算, ruby, profile, inside, julia, '2.1', よかっ, jekyll, android, 質問]
 recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/,
   /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/]
 ---

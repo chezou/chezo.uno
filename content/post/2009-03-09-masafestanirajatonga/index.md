@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [rajaton, masa, festa, コンサート, エントリ, やばい, あか, 過去, アカペラ, 世界]
-recommendations: [/post/2009-07-11-masa-festanotiketutogalai-ta/, /post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/,
-  /post/2009-03-03-sok-bao-masa-festa/]
+keywords: [rajaton, masa, festa, 最大規模, コーナー, academy, finland, コンサート, エントリ, やばい]
+recommendations: [/post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/,
+  /post/2009-07-11-masa-festanotiketutogalai-ta/, /post/2009-03-03-sok-bao-masa-festa/]
 ---
 やばい！生で聞きたいと思い、Finlandまで行ってもすれ違いだったRajatonが向こうから来てくれるとは！  
   

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [mykytea, swig, kytea, python, タグ, ruby, ラッパー, usr, インストール, '2011']
+keywords: [mykytea, '100.0', swig, kytea, python, 名詞, タグ, '0.0', ruby, ラッパー]
 recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
-  /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/]
+  /post/2015-08-30-number-tqrk09-de-accept-lt-sitehazimeteno-gem-woraiburirisunishi-bai-simasita/]
 ---
 **[2011/07/23追記]  
 SWIGで生成したmykytea\_wrap.cxxをgithubに追加したので、SWIGのインストールは必要なくなりました。それに伴い実行すべき事が当初と変わっています。**

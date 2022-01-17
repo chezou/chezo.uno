@@ -3,10 +3,10 @@ title: Treasure Dataに入りました&Plazma tech talkで話しました
 description: 気づけば入社して2ヶ月ほど経ってしまいましたが、Treasure Dataに入ったと思ったらArmに入社していました。
 date: '2018-10-19T01:12:26+09:00'
 categories: [life]
-keywords: [td, ml, お客様, treasure, tech, 整理, 強い, 予測, ヶ月, スライド]
+keywords: [入社, td, ml, 開発中, エッジ, operator, 広がり, team, talk, iot]
 authors: [aki]
 recommendations: [/post/2019-12-24-Python-Custom-scripting/, /post/2019-12-04-R-and-TD/,
-  /post/2018-06-19_goodbye-cloudera/]
+  /post/jupyter-notebook-labsをmlのどのフェーズで使うのか？/]
 ---
 
 気づけば入社して2ヶ月ほど経ってしまいましたが、Treasure Dataに入ったと思ったらArmに入社していました。

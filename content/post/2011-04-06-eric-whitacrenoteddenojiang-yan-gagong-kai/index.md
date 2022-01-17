@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [choir, whitacre, 動画, 合唱, youtube, 説明, '12', 紹介, 少年, download]
+keywords: [virtual, choir, whitacre, 動画, ted, 合唱, youtube, 説明, '12', 紹介]
 recommendations: [/post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/,
   /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
   /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/]

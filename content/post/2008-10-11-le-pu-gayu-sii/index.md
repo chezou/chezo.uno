@@ -11,8 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [出版, アカペラ, 無理, 分散, 比較的, 方々, オリジナル, ネット, 欲しい, 英語]
-recommendations: [/post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/, /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/,
+keywords: [出版, アカペラ, 自信, 無理, 分散, 比較的, 方々, オリジナル, ネット, 欲しい]
+recommendations: [/post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/,
+  /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/,
   /post/2009-01-18-try-tonegamy-spacetoyou-tubeni/]
 ---
 出版されている物を、取り寄せるのは比較的なんとかなるとわかりました。  

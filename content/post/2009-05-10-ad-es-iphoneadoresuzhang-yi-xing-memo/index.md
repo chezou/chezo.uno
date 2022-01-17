@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [iphone, 幸せ, 下記, 移行, '100', よかっ, 問題, 方法, 分割, 一括]
-recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/,
-  /post/2009-05-18-iphonetono1zhou-jian/]
+keywords: [アドレス帳, iphone, 幸せ, 下記, 移行, '100', よかっ, 覚え書き, 添付, フリガナ]
+recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2009-05-18-iphonetono1zhou-jian/,
+  /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/]
 ---
 - 
   - 090510 2145追記--

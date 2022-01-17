@@ -11,10 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [通知, slack, url, '03', '04', フォーム, スクリプト, 設定, '2015', png]
-recommendations: [/post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
-  /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/,
-  /post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/]
+keywords: [var, 通知, slack, url, '03', channel, break, '04', フォーム, スクリプト]
+recommendations: [/post/2012-01-07-mercurialtoqin-he-xing-nogao-iripozitoriburauzarhodecodewoinsutorusitemita/,
+  /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
+  /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/]
 ---
 Slackは連絡先を知っている人が参加することが多いですが、ゲームのコミュニティ等相手の連絡先がわからない場合もあると思います。(IngressとかIngressとかIngressとか)
 

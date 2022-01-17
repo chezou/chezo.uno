@@ -11,9 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [物語, 前作, kc, 描写, more, 講談社, 視点, 主張, 作品, 期待]
-recommendations: [/post/2008-07-30-narutaru/, /post/2008-07-06-nodamekantabire18-20/,
-  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
+keywords: [幸村誠, 幸村, 山場, プラネテス, アフタヌーン, すばらしい, 物語, 前作, kc, 描写]
+recommendations: [/post/2008-07-30-narutaru/, /post/2008-08-24-sayonaraituka/, /post/2008-07-19-can-shu-gui-tou-mo-hong/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51mg-ma5Z9L._SL160_.jpg)[ヴィンランド・サガ 6 (6) (アフタヌーンKC)](http://item.excite.co.jp/detail/ASIN_4063145107)  
 幸村 誠 / / 講談社  

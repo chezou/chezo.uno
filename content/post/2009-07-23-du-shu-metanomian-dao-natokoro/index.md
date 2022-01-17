@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [コメント, 殆ど, 明示, エントリー, モチベーション, 雑感, 当初, wordpress, 多少, 評価]
-recommendations: [/post/2008-10-28-utukusiizi-domo/, /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/,
-  /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/]
+keywords: [コメント, ライフログ, 読書メーター, 殆ど, 見た目, excite, 明示, エントリー, モチベーション, 雑感]
+recommendations: [/post/2009-05-16-du-shu-metahazimemasita/, /post/2009-05-02-hazimemasite-wordpress/,
+  /post/2008-10-28-utukusiizi-domo/]
 ---
 なんか、あれを始めてから殆ど本を読んでいないのであまり参考にはならないかもしれませんが、使ってみた雑感を。
 

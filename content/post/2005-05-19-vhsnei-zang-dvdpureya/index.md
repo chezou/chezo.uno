@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [無性, 搭載, 修理, プレーヤー, dvd, 両方, 発想, ほしい, 安い, 面倒]
+keywords: [ありか, dvdプレーヤー, 需要, 無性, 搭載, 修理, プレーヤー, dvd, 両方, 発想]
 recommendations: [/post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/,
-  /post/2005-08-21-nan-sheng-he-chang/, /post/2005-08-06-webkamera/]
+  /post/2008-09-28-bznoultra-treasuregayabasugiru/, /post/2005-08-06-webkamera/]
 ---
 最近、無性にほしいのがVHS搭載DVDプレーヤーなのです。  
 なにせ、いつの間にか壊れてしまったVHSデッキがうちにほったらかしにしてあり、さらにDVDの需要がこのところ高まってきています。両方ともめちゃくちゃ安いプレーヤーにするのもありかとは思いますが、壊れて修理に出しに行くのが面倒なので一体型を買っちゃえという発想です。（なんか矛盾してる気がする）  

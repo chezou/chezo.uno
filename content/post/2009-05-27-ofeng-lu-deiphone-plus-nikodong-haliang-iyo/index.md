@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ロック, iphone, 風呂, 満喫, ニコニコ動画, 悩み, 交換, 今日, 先日, 大きい]
-recommendations: [/post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
-  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/]
+keywords: [zabady, ロック, iphone, stage, back, 風呂, 満喫, ニコニコ動画, 悩み, 交換]
+recommendations: [/post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
+  /post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/]
 ---
 [Back\_stage: お風呂でiPhone](http://openart.de-blog.jp/back_stage/2008/12/iphone_78ab.html).  
 こちらのサイトと同様にうちでもZABADYでiPhone突っ込んでニコニコ動画を満喫していました。久しくニコ動を見ていなかったので、歌ってみたとかフルボイスドラクエ3とか色々漁って楽しんでおりました。

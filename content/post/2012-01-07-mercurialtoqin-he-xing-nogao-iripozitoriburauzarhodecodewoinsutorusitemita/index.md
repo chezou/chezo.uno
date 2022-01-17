@@ -11,9 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [www, sudo, venv, production, bin, ユーザ, リポジトリ, 運用, ブラウザ, cd]
-recommendations: [/post/2017-07-10_Thinkpad-X1-Carbon--2017--Windows-10-Ubuntu-17-04-----------9f73d89073c3/,
-  /post/2017-08-26_Python------------------dc8d8f2fe989/, /post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/]
+keywords: [var, hg, www, init, sudo, venv, sh, production, bin, ユーザ]
+recommendations: [/post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
+  /post/2017-07-10_Thinkpad-X1-Carbon--2017--Windows-10-Ubuntu-17-04-----------9f73d89073c3/,
+  /post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita/]
 ---
 [![](rhodecode.png)](http://rhodecode.org/)
 

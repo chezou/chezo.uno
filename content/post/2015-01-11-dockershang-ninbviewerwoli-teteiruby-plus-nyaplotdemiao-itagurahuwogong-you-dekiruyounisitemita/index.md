@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [docker, notebook, ipython, 可視化, iruby, ruby, mac, gist, グラフ, run]
+keywords: [docker, nbviewer, notebook, ipython, nyaplot, 描画, 可視化, iruby, ruby, mac]
 recommendations: [/post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebookkarajian-reruyounisita/,
   /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
   /post/2016-10-29_homebrew-----iRuby---------------6a02e5194ff2/]

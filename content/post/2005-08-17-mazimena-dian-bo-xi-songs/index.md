@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [解釈, 三善晃, シリーズ, 明日, 先生, ほう, 普通, 実際, わけ, 魅力]
-recommendations: [/post/2008-05-17-subetegafninaru-du-liao/, /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/,
-  /post/2008-06-03-er-du-qin-qian/]
+keywords: [解釈, 連想, 宇宙, 妥当, 三善晃, シリーズ, 明日, 先生, ほう, 普通]
+recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/,
+  /post/2008-05-17-subetegafninaru-du-liao/]
 ---
 [素数の歌](http://homepage2.nifty.com/hougi/contents/prime.html)らしいですよ。
 

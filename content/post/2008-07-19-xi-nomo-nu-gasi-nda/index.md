@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [主人公, 良い, 作品, isbn, スコア, 選択, tags, 魅力, 高速, 高校生]
-recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-08-24-sayonaraituka/,
-  /post/2008-06-15-gui-cai-xian-ru/]
+keywords: [感情移入, 女の子, アイ, 目線, 新潮社, ばあ, 主人公, 良い, 作品, isbn]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
+  /post/2008-09-10-enzieruhato-27/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51K6B7P3PQL._SL160_.jpg)[西の魔女が死んだ (新潮文庫)](http://item.excite.co.jp/detail/ASIN_4101253323)  
 梨木 香歩 / / 新潮社  

@@ -3,10 +3,10 @@ title: ワンオペ育児がやってきたヤァ！ヤァ！ヤァ！
 description: この記事はpyspaアドベントカレンダーの24日目です。昨日はしぶかわさんのローンの話でした。車のローンも繰り上げ返済できるから印税で返済しましょう！という話はしびれますね。
 date: '2017-12-23T15:01:03+09:00'
 categories: [kids, life]
-keywords: [依頼, 設置, 子供, 週間, 時間, 状況, amzn, to, mm, '300']
+keywords: [依頼, 食洗機, 設置, 子供, マッチング, 週間, 食器洗い乾燥機, 時間, パナソニック, 状況]
 authors: [aki]
-recommendations: [/post/2017-05-25_teach-what-i-dont-know/, /post/2018-06-27_internet-for-kids/,
-  /post/2017-12-30_2017------------bbf834e065c5/]
+recommendations: [/post/2017-12-30_2017------------bbf834e065c5/, /post/2017-05-25_teach-what-i-dont-know/,
+  /post/2018-06-27_internet-for-kids/]
 ---
 
 この記事は[pyspaアドベントカレンダー](https://adventar.org/calendars/2258)の24日目です。昨日は[しぶかわさんのローンの話](http://blog.shibu.jp/article/181920655.html)でした。車のローンも繰り上げ返済できるから印税で返済しましょう！という話はしびれますね。

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [アカペラ, '30', 会員, オフィシャルサイト, take, チケット, '31', セット, '2011', 演奏]
+keywords: [公演, 初日, フィル, ナイト, ゴスペル, クラブ, r&b, アカペラ, '30', 会員]
 recommendations: [/post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/,
-  /post/2011-04-07-soredemotake6halai-ri-suru/, /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/]
+  /post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2011-04-07-soredemotake6halai-ri-suru/]
 ---
 [オフィシャルサイト](http://jp.take6.com/)が非常にださいのですが、Take6が東京にて来日公演するようです。  
 5/30(月),5/31(火)の二日公演で、初日がアカペラのゴスペル、R&Bの演奏、二日目が新日本フィルとの共演Jazz、Classicalの演奏のようです。アカペラが良い人は初日の夜でしょうか。  

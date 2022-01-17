@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [武器, 要素, 以前, 衣良, 石田, キャラクター, 反応, デジタル, ただ, 日記]
-recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-06-15-gui-cai-xian-ru/,
-  /post/2008-09-06-feng-gaqiang-kuchui-iteiru/]
+keywords: [秋葉原, 武器, 要素, 以前, 読後感, 素晴らし, 石田衣良, はやり, 直後, 春秋]
+recommendations: [/post/2008-10-28-utukusiizi-domo/, /post/2008-11-06-koredeiinoda/,
+  /post/2008-09-10-enzieruhato-27/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51TWV8568SL._SL160_.jpg)[アキハバラ@DEEP (文春文庫)](http://item.excite.co.jp/detail/ASIN_4167174111)  
 石田 衣良 / / 文藝春秋  

@@ -11,10 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [netflix, コンテンツ, テレビ, 時代, 配信, ラジオ, スマホ, ネット, サービス, 自動]
-recommendations: [/post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/,
+keywords: [netflix, プレイリスト, spotify, コンテンツ, レコメンデーション, 方式, 未来, 反復, テレビ, 時代]
+recommendations: [/post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/,
   /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/,
-  /post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/]
+  /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/]
 ---
 backspace.fmでもよくゲストに出ている西田宗千佳さん([@mnishi41](https://twitter.com/mnishi41))の書かれた、「ネットフリックスの時代−配信とスマホがテレビを変える」読んだ。
 

@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['27', キャラクター, comics, 描写, 行動, やばい, 家族, isbn, 良かっ, 展開]
-recommendations: [/post/2008-09-06-feng-gaqiang-kuchui-iteiru/, /post/2008-07-19-can-shu-gui-tou-mo-hong/,
+keywords: ['27', 新潮社, キャラクター, comics, 描写, 行動, やばい, 家族, isbn, 良かっ]
+recommendations: [/post/2008-09-06-feng-gaqiang-kuchui-iteiru/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
   /post/2008-06-03-gao-wu-nai-yue/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51zZTyM4gmL._SL160_.jpg)[エンジェル・ハート 27 (27) (BUNCH COMICS)](http://item.excite.co.jp/detail/ASIN_4107714209)  

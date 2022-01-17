@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [キーボード, thinkpad, トラック, ポイント, amazon, 修理, 交換, 電話, 場合, 購入]
+keywords: [キーボード, thinkpad, トラック, ポイント, センター, lenovo, amazon, 修理, 交換, 電話]
 recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
   /post/2017-01-19-macnojispei-lie-nokibodowokarabinershi-wazuniuspei-lie-nisuru/]
 ---

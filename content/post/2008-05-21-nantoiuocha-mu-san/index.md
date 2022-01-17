@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [more, 'no', '2000', 魅力, 高速, 高校生, 高校, 高く, 高い, 驚き]
-recommendations: [/post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/, /post/2008-06-28-vuinrandosaga-6-du-li-shui-shang-19/,
-  /post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/]
+keywords: [songs, more, 'no', 茶目, '1984', 馬鹿, life, jaakko, even, '2000']
+recommendations: [/post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/,
+  /post/2008-06-28-vuinrandosaga-6-du-li-shui-shang-19/, /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/]
 ---
 [Jaakko Mantyjarvi さんったら。 - “No choice, no life.”](http://d.hatena.ne.jp/yose/20040718/p1)  
   

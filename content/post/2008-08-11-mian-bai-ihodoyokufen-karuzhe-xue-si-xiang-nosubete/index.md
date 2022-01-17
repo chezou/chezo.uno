@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [酷い, 教科書, 単語, 筆者, 思想, 具合, 本質, 本文, スペース, 研究会]
+keywords: [酷い, 教科書, 単語, 言い回し, 文芸社, 哲学, 倫理, おかしい, キーワード, 筆者]
 recommendations: [/post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/,
   /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/, /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/]
 ---

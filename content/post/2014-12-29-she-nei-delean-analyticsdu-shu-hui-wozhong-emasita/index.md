@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [that, 行動, 翻訳, 意味, 施策, yokohama, lean, ディレクター, me, the]
-recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/,
-  /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
+keywords: [指標, that, book, 行動, 翻訳, 意味, 一時期, matters, harupong, one]
+recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/,
+  /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/]
 ---
 ![](/img/2014/12/29/014733/20141226161201.jpg)
 

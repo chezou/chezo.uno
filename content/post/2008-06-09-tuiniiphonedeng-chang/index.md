@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [欲しい, 周り, 欲しく, ok, 自分, 魅力, 高速, 高校生, 高校, 高く]
-recommendations: [/post/2008-09-06-feng-gaqiang-kuchui-iteiru/, /post/2008-10-11-le-pu-gayu-sii/,
+keywords: [欲しい, アップル, 周り, 欲しく, ok, 自分, ｒｙ, １６, １０, 黒板]
+recommendations: [/post/2008-10-11-le-pu-gayu-sii/, /post/2008-09-06-feng-gaqiang-kuchui-iteiru/,
   /post/2008-07-06-nodamekantabire18-20/]
 ---
 [アップル](http://www.apple.com/jp/)のページが素敵なことになっています。  

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [アクセス, iphone, music, 移行, 結局, 今年, office, ログ, 苦労, なか]
+keywords: [アクセス, simplify, iphone, music, 移行, 結局, 今年, 統計情報, 数ヶ月, 段々]
 recommendations: [/post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/,
   /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/]
 ---

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ケーブル, lite, hdd, usb, わけ, 外付け, バック, '600', ケース, 本当]
-recommendations: [/post/2011-02-05-acer-aspire-1410wocrucial-realssd-c300niwai-fu-kedvdnasinihuan-zhuang-sita/,
-  /post/2019-03-10_business-trip-goods/, /post/2006-05-01-dslite/]
+keywords: [ケーブル, lite, hdd, usb, キャスター, 秋葉原, ide, わけ, 外付け, バック]
+recommendations: [/post/2006-05-01-dslite/, /post/2019-03-10_business-trip-goods/,
+  /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/]
 ---
 全く持って卒論の筆が進みません。卒論締めは月曜午後5時。  
 間に合うのか俺。  

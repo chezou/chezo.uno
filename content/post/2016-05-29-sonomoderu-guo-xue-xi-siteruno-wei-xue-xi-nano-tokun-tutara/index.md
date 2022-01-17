@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [データ, 精度, learning, 学習, モデル, python, 機械学習, 検証, '05', サイズ]
-recommendations: [/post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
-  /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
+keywords: [データ, validation, 精度, learning, 学習, モデル, python, 機械学習, 検証, '05']
+recommendations: [/post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/,
+  /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/]
 ---
 # Q: うわっ...ワタシのモデル過学習してる…？
 

@@ -11,10 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [yahoo!, カレンダー, url, 情報, クエリ, アドレス, more, 精度, 表示, api]
+keywords: [googleカレンダー, yahoo!, カレンダー, url, 地図, xml, 情報, マップ, options, google calendar]
 recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
   /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
-  /post/2005-10-03-su-suge-pin-desuyo/]
+  /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
 ---
 [アカペラ/合唱イベントカレンダー](https://www.google.com/calendar/b/0/embed?src=YWNhcHBlbGxhLmV2ZW50QGdtYWlsLmNvbQ&gsessionid=OK)に登録していると、ふとイベント情報の開催地を地図上に表示したくなりました。
 

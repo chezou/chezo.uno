@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [サービス, タグ, 楽しい, 面白, 各自, 三善晃, ログイン, up, cc, 編曲]
-recommendations: [/post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/, /post/2011-12-25-yi-teng-hui-si-ming-dao-qi-tai-liang-shi-noxuan-nda-xue-sheng-he-chang-notameno-sutiyudentosongubutuku-gare-i/,
-  /post/2014-04-03-tokyurubyhui-yi-07deltsitekimasita-number-tqrk07/]
+keywords: [パート, サービス, タグ, 楽しい, 何事, アカペラー, いみ, twitterアカウント, 武満徹, 曲名]
+recommendations: [/post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/, /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/,
+  /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/]
 ---
 最近、twitterで曲を歌うことになりました。なんというか、アカペラーや合唱人との繋がりが楽しくなってきたのですが、まさかこんな展開になるとは思っていなかったので楽しさが増してきました。  
 TLに、三善晃や武満徹の文字が流れる日が来るとは！

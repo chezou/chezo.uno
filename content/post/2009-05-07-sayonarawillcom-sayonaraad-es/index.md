@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [結論, 魅力, es, 感謝, ad, iphone, 苦痛, 維持, 機種, 不安定]
-recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/,
-  /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/]
+keywords: [アップデート, 結論, 魅力, es, 感謝, ad, iphone, 総合, 決め手, 不満]
+recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/,
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/]
 ---
 GW中ずっと悩んでいた案件に解を出しました。友人たちには感謝感謝。
 

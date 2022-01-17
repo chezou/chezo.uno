@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [コミュニティ, ingress, 活動, レベル, 地域, 今日, cf, 戦い, チャット, 毎日]
+keywords: [エージェント, コミュニティ, ingress, ポータル, 活動, レベル, darsana, 地域, 今日, cf]
 recommendations: [/post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
-  /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/, /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/]
+  /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/, /post/2015-12-30-2015nian-wozhen-rifan-tute/]
 ---
 この記事は[Ingress Advent Calendar](http://www.adventar.org/calendars/375)の15日目の記事です。 昨日は[@kwappa](https://twitter.com/kwappa)さんの [#ingress のイベント #Darsana XM Anomaly Tokyo に参加してきたよ！ - かっぱラクガキ帳](http://kwappa.hatenablog.com/entry/2014/12/14/111225) でした。
 

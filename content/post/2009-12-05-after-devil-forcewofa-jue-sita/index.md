@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [プレイ, クリア, 動画, ゲーム, ニコニコ動画, 最後, 強く, 作品, 最終, ある意味]
+keywords: [プレイ, クリア, 動画, ゲーム, 力押し, ニコニコ動画, 最後, 強く, 作品, １０]
 recommendations: [/post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/,
   /post/2008-06-22-bokurano-alternative/, /post/2011-04-06-gatiyapin-sings-rajaton/]
 ---

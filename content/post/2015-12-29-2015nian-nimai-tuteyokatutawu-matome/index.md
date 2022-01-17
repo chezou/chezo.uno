@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [搭載, nas, ds, cm, 内蔵, 出版社, メーカー, ブラック, 商品, メディア]
+keywords: [フィルム, 搭載, synology, nas, スタンド, cs, ds, cm, 内蔵, 出版社]
 recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
-  /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/]
+  /post/2019-03-10_business-trip-goods/]
 ---
 書いておくと後から検索できることもあり、今年買ってよかったものを書いていこうと思います。
 

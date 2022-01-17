@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [kindle版, 作者, 商品, メディア, 作品, ブログ, 発売日, 出版社, メーカー, チャンス]
-recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/,
-  /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/]
+keywords: [コミックス, まとめ買い, kindle版, 勇者, 作者, 商品, メディア, 作品, アフタヌーン, ブログ]
+recommendations: [/post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
+  /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/]
 ---
 海外出張の移動やKindle Unlimitedとかもあって結構漫画を読む機会が多かったのですが、今年読んだ漫画のオススメを書いていきます。
 

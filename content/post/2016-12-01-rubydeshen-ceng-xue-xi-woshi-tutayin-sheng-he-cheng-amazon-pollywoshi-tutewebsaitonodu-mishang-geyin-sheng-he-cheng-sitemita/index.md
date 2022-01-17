@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [amazon, 音声, '2016', aws, 英語, mp, '12', dl, 言語, api]
-recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2017-07-08_MBP--Thinkpad-X1-Carbon-2017-------46c374167b79/,
-  /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
+keywords: [polly, amazon, 音声, '2016', aws, 英語, mp, '12', dl, 言語]
+recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
+  /post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/]
 ---
 
 ![](/img/amazon-polly-with-ruby/20161201230818.png)

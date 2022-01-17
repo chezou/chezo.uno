@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [willcom, 最近, 痛い, 無性, au, 定額, 通話, プラン, ネック, 多少]
-recommendations: [/post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/, /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/,
+keywords: [willcom, 通話料, 家計簿, 学割, 最近, 衝動, 痛い, 無性, au, 定額]
+recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/,
   /post/2009-05-04-ad-es-wojie-yue-surutameni/]
 ---
 最近、無性にWILLCOMにしたい衝動に駆られています。  

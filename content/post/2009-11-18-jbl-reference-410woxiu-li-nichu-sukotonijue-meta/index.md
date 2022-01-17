@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [修理, 値段, 場合, 問い合わせ, プラグ, 生産, 完了, 使い, なさ, '45']
+keywords: [修理, jbl, '410', reference, 値段, 場合, 一時期, レポ, width, '7000']
 recommendations: [/post/2015-10-19-batukibakininatuteitanexus5wo$40dexiu-li-sita/,
   /post/2005-05-19-vhsnei-zang-dvdpureya/, /post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/]
 ---

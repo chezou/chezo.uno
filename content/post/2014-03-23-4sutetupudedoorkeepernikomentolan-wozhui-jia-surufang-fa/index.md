@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['22', '03', '2014', doorkeeper, '23', png, 画像, site, your, 入力]
-recommendations: [/post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
-  /post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/, /post/2014-06-21-julia100ben-notuku/]
+keywords: ['383', '382', bce, afe, aae, '38388', '38383', '22', '03', '2014']
+recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/,
+  /post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/, /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/]
 ---
 [![画像](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-22-17.png)](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-22-17.png)
 

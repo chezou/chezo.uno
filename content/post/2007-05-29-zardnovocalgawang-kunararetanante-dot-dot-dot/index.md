@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ipod, ケーブル, 小物, 酷い, fm, pc, よい, チューナー, 風呂, ステレオ]
+keywords: [ipod, ケーブル, 小物, 酷い, fm, pc, よい, 高校時代, 難点, 祈り]
 recommendations: [/post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/, /post/2006-03-17-uhi/,
   /post/2005-10-07-tuinikita/]
 ---

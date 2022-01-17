@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [機械学習, 活用, 素人, データ, ポイント, 業務, pfi, deep learning, 発表, 性能]
-recommendations: [/post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/,
-  /post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/]
+keywords: [機械学習, 活用, 素人, データ, ポイント, グノシー, 業務, 比戸, pfi, deep learning]
+recommendations: [/post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/,
+  /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/]
 ---
 先週火曜日に [Machine Learning Casual Talks #2](http://mlct.connpass.com/event/8036/) を開催しました。  
 発表は、グノシー関さん、PFI比戸さん([@sla](https://twitter.com/sla))、[@motivic\_](https://twitter.com/motivic_)さん、カメリオから柴田さん、[@SamuraiT01](https://twitter.com/SamuraiT01)さんに発表頂きました。  

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ll, 勉強会, セッション, as, トラック, 参加, 開催, メリット, 指摘, コスト]
-recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
-  /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/]
+keywords: [ll, 勉強会, アンチパターン, セッション, as, トラック, deploy, プレゼンテーション, 参加, 開催]
+recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
+  /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/]
 ---
 年に一度の軽量言語のイベント、LLまつりに行ってきました。
 

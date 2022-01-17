@@ -11,9 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [カレンダー, やり方, 合唱, 登録, アカペラ, url, iphone, 自動的, 告知, 前日]
-recommendations: [/post/2005-10-03-su-suge-pin-desuyo/, /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/,
-  /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/]
+keywords: [カレンダー, appbank, やり方, 合唱, 登録, アカペラ, url, iphone, 標準, 募集中]
+recommendations: [/post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/,
+  /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
+  /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
 ---
 AppBankで話題になっていたこのカレンダーの記事を見て、気づきました。[アカペラ/合唱カレンダー](http://bit.ly/caTSPZ)もiPhoneでみられるじゃないか！
 

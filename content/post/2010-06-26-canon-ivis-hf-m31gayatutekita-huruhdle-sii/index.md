@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['1600', '1200', バッテリ, jpeg, youtube, 実家, '82', '47', cf, 評判]
+keywords: ['1600', '1200', バッテリ, jpeg, youtube, フルhd, aee, 予備, 実家, '82']
 recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2010-03-22-shi-jie-bian-ge-noshi-ravuosunotatuta-tunomai-ifang/,
   /post/2009-08-07-pokemonxin-gan-xian/]
 ---

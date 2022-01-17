@@ -10,9 +10,9 @@ lastmod: 2021-12-04 14:50:35-08:00
 tags: []
 categories: []
 image: {caption: 秋の紅葉, focal_point: Top, preview_only: false}
-keywords: [jpg, img, 子供, 今年, 前後, 移住, 小学校, 高い, 日本, 部屋]
+keywords: [jpg, img, summer, 子供, 今年, スーパー, カナダ, bc, 前後, 移住]
 recommendations: [/post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/,
-  /post/2015-10-19-batukibakininatuteitanexus5wo$40dexiu-li-sita/, /post/2017-12-23_----------------------701333a45696/]
+  /post/2017-12-23_----------------------701333a45696/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
 ---
 この記事は[pyspa Advent Calender 2021](https://adventar.org/calendars/6234)の18日目です。昨日は[@golden_lucky](https://twitter.com/golden_lucky)のリンゴの話でした。
 

@@ -1,4 +1,4 @@
-# pip install git+https://github.com/chezou/prelims.git@followup
+# pip install -r requirements.txt -c constraints.txt
 from prelims import StaticSitePostsHandler
 from prelims.processor import Recommender
 
@@ -21,7 +21,7 @@ def tokenize(text):
     ]
 
 
-tfidf_opts = {"tokenizer": tokenize, "stop_words": STOP_WORDS, "max_df": 0.95, "min_df": 4}
+tfidf_opts = {"tokenizer": tokenize, "stop_words": STOP_WORDS, "max_df": 0.95, "min_df": 2}
 
 post_handler = StaticSitePostsHandler(r"content/post", ignore_files=['_index.md'])
 post_handler.register_processor(Recommender(permalink_base="/post", **tfidf_opts))

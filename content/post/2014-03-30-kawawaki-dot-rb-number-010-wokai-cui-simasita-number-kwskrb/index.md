@@ -12,7 +12,7 @@ projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 categories: [ruby]
 keywords: [翻訳, jekyll, ドキュメント, リポジトリ, kawasaki, '300', rb, 本家, ariga, 記事]
-recommendations: [/post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/,
+recommendations: [/post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2014-04-26-kawasaki-dot-rb-number-011-wokai-cui-simasita-number-kwskrb/,
   /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/]
 ---
 kawasaki.rbもいよいよ10回目を開催してきました。\

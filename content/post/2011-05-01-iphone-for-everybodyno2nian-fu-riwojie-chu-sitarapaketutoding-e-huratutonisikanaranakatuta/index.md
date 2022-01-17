@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [for, 契約, 縛り, iphone, 選択肢, ソフトバンク, 段階, 変更, 定額, 電話]
-recommendations: [/post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/,
-  /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2015-10-08-iijmiono-outidenanbapotabiritei-shi-tutezi-zhai-demnpsita/]
+keywords: [パケットし放題, スマートフォン, パケット定額, for, 契約, 縛り, iphone, 選択肢, ソフトバンク, 段階]
+recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2011-04-30-ipad2totomoniwu-liao-wi-fisupotutowogetutosuruer-tunofang-fa/,
+  /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---
 一言で言うと、iPhone for everybodyを使ってパケット定額フル([参考](http://www.softbankmobile.co.jp/ja/news/press/2009/20090225_05/))で契約したら、パケット定額forスマートフォンに変更できなかったという話です。  
 現在、パケット定額forスマートフォンやパケット定額フルで契約されている方は対象外かと思われます。

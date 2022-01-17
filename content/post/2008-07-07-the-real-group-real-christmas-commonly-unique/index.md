@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ライフ, リアル, グループ, スコア, 選択, ノリ, アカペラグループ, アレンジ, ライブ, 合唱]
-recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
+keywords: [オブ, ライフ, リアル, グループ, スコア, 選択, talking, ハーモニー, song, christmas]
+recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2009-03-03-sok-bao-masa-festa/,
   /post/2009-01-18-try-tonegamy-spacetoyou-tubeni/]
 ---
 おいおい、書いていたら消えてたよ。  

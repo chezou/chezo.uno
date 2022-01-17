@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [物語, キャラクター, 運動, 通勤, トレーニング, うれしい, 瞬間, 行動, つもり, 自分]
+keywords: [スポーツ, ゴール, 新潮社, 共感, 伏線, 物語, キャラクター, 運動, 通勤, トレーニング]
 recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
-  /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/]
+  /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/]
 ---
 ![](https://ecx.images-amazon.com/images/I/51TKQG1885L._SL160_.jpg)[風が強く吹いている](http://item.excite.co.jp/detail/ASIN_4104541044)  
 三浦 しをん / / 新潮社  

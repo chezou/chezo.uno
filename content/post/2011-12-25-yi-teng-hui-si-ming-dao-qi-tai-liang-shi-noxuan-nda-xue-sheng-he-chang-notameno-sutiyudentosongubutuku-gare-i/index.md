@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [合唱曲, 学生, 欲しい, 合唱, 編曲, 日本, 全て, 演奏, 新しい, 三善晃]
+keywords: [合唱曲, 曲集, 学生, ブック, 松下, 合同, 収録曲, victoria, ich, dir]
 recommendations: [/post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/,
-  /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/, /post/2008-10-28-sings-2008-with-steve-dobrogosz/]
+  /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2005-08-21-nan-sheng-he-chang/]
 ---
 結構良い仕事をしている、合唱楽譜販売店[パナムジカ](http://www.panamusica.co.jp/)の[新刊案内](http://www.panamusica.co.jp/ja/new/index.html)ですが、その良質なコンテンツとは裏腹に中々Webに情報が流れていないのが玉に瑕だったりします。
 

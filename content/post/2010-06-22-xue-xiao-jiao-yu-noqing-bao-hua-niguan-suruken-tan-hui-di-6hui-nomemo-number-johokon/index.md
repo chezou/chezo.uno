@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [教育, ict, 普及, 世紀, 教員, 支援, 仕組み, コンテンツ, '21', 活用]
+keywords: [教育, ict, 研修, 普及, 世紀, 教員, 支援, 仕組み, コンテンツ, '21']
 recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
   /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
   /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/]

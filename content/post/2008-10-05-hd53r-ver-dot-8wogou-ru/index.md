@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [hd, 購入, アンプ, ヘッドホン, わけ, 現在, 合唱, アカペラ, 良い, ちなみ]
+keywords: ['53', hd, ノイズ, hfi, sa, '700', 購入, アンプ, ヘッドホン, わけ]
 recommendations: [/post/2008-10-28-mai-tutesimatuta/, /post/2008-09-14-hetudohonwu-se-sitahi/,
-  /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
+  /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/]
 ---
 2chではとことん評判のよろしくないC.E.Cの[HD53R Ver.8](http://www.cec-web.co.jp/products/amp/hd53r/hd53r.html)を購入しました。  
 しかし、JBLのReference410といい、今のマシンの電源といい（ｒｙ  

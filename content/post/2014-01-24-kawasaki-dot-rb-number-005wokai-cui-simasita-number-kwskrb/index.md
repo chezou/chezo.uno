@@ -11,7 +11,7 @@ tags: []
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 categories: [ruby]
-keywords: [言語, 解説, お金, 制限, rb, 問題, 諸般の事情, reddit, print, mametter]
+keywords: [quine, relay, 言語, 解説, お金, 制限, rb, 果て, 基準, quora]
 recommendations: [/post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
   /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/]
 ---

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [フィンランド, 演奏, この先, 楽器, how, 近い, 東京, ライブ, is, 楽しみ]
+keywords: [ida, elina, 札幌, finland, フィンランド, 演奏, 留学, 暖かく, 押尾コータロー, カンテレ]
 recommendations: [/post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2009-07-05-guan-dong-hagame-musichoihoida/,
   /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/]
 ---

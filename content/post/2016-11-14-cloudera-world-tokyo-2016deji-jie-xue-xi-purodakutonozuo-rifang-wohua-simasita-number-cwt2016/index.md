@@ -11,10 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['2016', データ, cloudera, 機械学習, hadoop, データ分析, プロダクト, テスト, チーム, slideshare]
+keywords: [cwt, '2016', データ, native, データサイエンス, cloudera, 機械学習, hadoop, データ分析, プロダクト]
 recommendations: [/post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
-  /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/,
-  /post/2016-03-30-zhuan-zhi-simasita/]
+  /post/2016-03-30-zhuan-zhi-simasita/, /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/]
 ---
 さる11/8に、自社の主催する[Cloudera World Tokyo 2016](http://www.clouderaworldtokyo.com/)で、機械学習プロダクトの作り方について話をしました。
 

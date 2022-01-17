@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [airplay, デバイス, 停止, google chrome, appletv, 規格, エラー, 我が家, サーバ, 生活]
+keywords: [airplay, デバイス, server, dac, 停止, google chrome, appletv, 規格, エラー, 我が家]
 recommendations: [/post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/,
   /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/,
   /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/]

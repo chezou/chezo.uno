@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [勉強, わけ, 我慢, 昨日, 演奏会, 良かっ, 魅力, 高速, 高校生, 高校]
-recommendations: [/post/2005-08-06-webkamera/, /post/2009-05-16-du-shu-metahazimemasita/,
-  /post/2005-09-18-gao-tian-san-lang-xing-tutekimasita/]
+keywords: [勉強, わけ, cayabyab, 風景, 我慢, 昨日, 演奏会, 良かっ, ｒｙ, １６]
+recommendations: [/post/2005-08-06-webkamera/, /post/2005-09-18-gao-tian-san-lang-xing-tutekimasita/,
+  /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/]
 ---
 昨日は家で勉強をしようとしていたわけですが、行きたかった演奏会があったわけで。  
 マートラの風景という曲がとても聴きたかったわけですよ。  

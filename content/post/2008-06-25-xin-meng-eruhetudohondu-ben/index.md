@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [表紙, 半分, 趣味, つもり, 詳しく, ヘッドホン, ページ, 期待, 音楽, web]
-recommendations: [/post/2008-09-14-hetudohonwu-se-sitahi/, /post/2008-01-18-souiebakokohawu-yu-burogudatuta/,
-  /post/2008-11-06-yin-lu-toyin-jie-noke-xue/]
+keywords: [違和感, 後日, 表紙, 半分, 趣味, つもり, 詳しく, ヘッドホン, ページ, 期待]
+recommendations: [/post/2008-11-06-yin-lu-toyin-jie-noke-xue/, /post/2008-09-14-hetudohonwu-se-sitahi/,
+  /post/2008-01-18-souiebakokohawu-yu-burogudatuta/]
 ---
 ついつい買ってしまいました。  
 アマゾンギフト券があったので、0円で買ってしまいました。  

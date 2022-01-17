@@ -13,7 +13,7 @@ tags: [Python]
 categories: [Python, TreasureData]
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
-keywords: [treasure, 開発, イメージ, data, python, docker, 公式, 環境, ローカル, 関数]
+keywords: [treasure, 開発, タスク, digdag, イメージ, data, python, docker, 公式, 粒度]
 recommendations: [/post/2019-12-04-R-and-TD/, /post/2008-09-28-bznoultra-treasuregayabasugiru/,
   /post/2018-10-19_Treasure-Data-------Plazma-tech-talk-------3c901d92e973/]
 ---

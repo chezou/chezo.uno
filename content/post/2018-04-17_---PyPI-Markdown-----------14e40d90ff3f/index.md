@@ -3,10 +3,10 @@ title: 新しいPyPIでMarkdownのドキュメントを使う
 description: 長い間、Pythonでパッケージを作った場合、構造化されたドキュメントを使う場合は、reStructuredText (reST)でドキュメントを書く必要がありました。
 date: '2018-04-17T12:55:15+09:00'
 categories: [python]
-keywords: [markdown, pip, description, wheel, py, tabula, org, test, ドキュメント, version]
+keywords: [pypi, markdown, long, pip, description, wheel, py, tabula, org, upgrade]
 authors: [aki]
-recommendations: [/post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/,
-  /post/2018-12-01_Windows-64bit-MeCab--KyTea-------2018-b283b6c7b33c/, /post/2017-08-26_Python------------------dc8d8f2fe989/]
+recommendations: [/post/2015-06-06-pip-install-kyteadekiruyouninarimasita/, /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/,
+  /post/2018-12-01_Windows-64bit-MeCab--KyTea-------2018-b283b6c7b33c/]
 ---
 
 長い間、Pythonでパッケージを作った場合、構造化されたドキュメントを使う場合は、[reStructuredText](http://www.sphinx-doc.org/ja/master/usage/restructuredtext/basics.html) (reST)でドキュメントを書く必要がありました。

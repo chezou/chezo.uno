@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [take, 来日, are, to, all, 日本, サイト, オフィシャルサイト, ご覧, この先]
+keywords: [take, 来日, we, are, to, all, 日本, サイト, 祈り, 地震]
 recommendations: [/post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/,
   /post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/, /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/]
 ---

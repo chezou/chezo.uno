@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [子供, world, 同僚, jpg, the, クリック, img, 発売日, 作者, 出版社]
-recommendations: [/post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/,
-  /post/2021-12-18-8-months-after-relocating-Vancouver/, /post/2015-12-21-xiao-saizi-gong-gazi-fen-karayao-woyin-mitakunaru-okusuriyin-metane-number-childadvent/]
+keywords: [お子さん, 子供, world, 同僚, よし, たか, jpg, the, クリック, img]
+recommendations: [/post/2015-12-21-xiao-saizi-gong-gazi-fen-karayao-woyin-mitakunaru-okusuriyin-metane-number-childadvent/,
+  /post/2021-12-18-8-months-after-relocating-Vancouver/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/]
 ---
 このエントリは、[お子さん、どんな本読んでる？ Advent Calendar 2015 - Adventar](http://www.adventar.org/calendars/773) の6日目です。
 

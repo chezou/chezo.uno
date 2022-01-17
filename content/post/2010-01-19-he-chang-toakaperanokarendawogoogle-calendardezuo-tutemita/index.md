@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [登録, カレンダー, 嬉しい, 情報, 妄想, bot, add, 実現, 自分, 基本]
+keywords: [登録, カレンダー, 嬉しい, 随時, 複数人, 余地, ぴあ, plus, 情報, 募集中]
 recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
   /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
   /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/]

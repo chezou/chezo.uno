@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [教科書, 韓国, アメリカ, 試験, 使用, 中国, ドイツ, フィンランド, 部分, 情報化]
+keywords: [教科書, イギリス, 義務, フランス, 韓国, アメリカ, 欧米, 台湾, カナダ, 試験]
 recommendations: [/post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/,
   /post/2008-08-11-mian-bai-ihodoyokufen-karuzhe-xue-si-xiang-nosubete/, /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/]
 ---

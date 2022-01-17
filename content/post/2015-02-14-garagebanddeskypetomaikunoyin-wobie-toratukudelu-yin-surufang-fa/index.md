@@ -11,9 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ch, skype, マイク, トラック, output, png, img, 自分, '64', 出力]
-recommendations: [/post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
-  /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/, /post/2005-08-06-webkamera/]
+keywords: [soundflower, ch, skype, linein, マイク, トラック, output, channel, png, img]
+recommendations: [/post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/,
+  /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
+  /post/2005-08-06-webkamera/]
 ---
 最近、rebuild.fmやwada.fmを聞いていると、自分もpodcastをはじめてみたいという気持ちが強くなってきました。
 

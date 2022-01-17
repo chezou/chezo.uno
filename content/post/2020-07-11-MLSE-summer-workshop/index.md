@@ -10,9 +10,9 @@ lastmod: 2020-07-11 18:00:00+09:00
 featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
-keywords: [モデル, 議論, oss, 学習, mlse, 機械学習, 予測, 話題, 難しい, システム]
-recommendations: [/post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/2019-12-05-IBIS2019-MLSE/,
-  /post/2018-05-17_MLSE-kickoff/]
+keywords: [モデル, リネージ, 討論会, 議論, oss, 夏合宿, wg, 学習, mlse, 機械学習]
+recommendations: [/post/2020-11-10-mlse-conference/, /post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/,
+  /post/2020-12-31-2020-review/]
 ---
 
 [@masaru_dobashi](https://twitter.com/masaru_dobashi)さんとMLSEの夏合宿で、本番適用のためのインフラと運用WGの討論会を開催しました。

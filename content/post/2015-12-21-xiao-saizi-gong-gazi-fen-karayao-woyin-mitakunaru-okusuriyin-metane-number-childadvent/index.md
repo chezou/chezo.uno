@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['200', 我が家, '100', 注意, 子供, 出版社, メーカー, 商品, メディア, ブログ]
+keywords: ['200', 我が家, ケア, '100', 注意, 子供, 出版社, メーカー, 商品, メディア]
 recommendations: [/post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/,
   /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/]
 ---

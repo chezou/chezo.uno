@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [キーボード, 配列, us, anker, cmd, ホワイト, ワイヤレス, bluetooth, android, ios]
+keywords: [キーボード, 配列, us, anker, ウルトラ, cmd, ホワイト, ワイヤレス, bluetooth, android]
 recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
   /post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/]
 ---

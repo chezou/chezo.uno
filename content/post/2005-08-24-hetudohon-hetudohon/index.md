@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [曰く, カナル型, 是非, イヤホン, 研究室, ヘッドホン, 入手, ネット, 明日, 通り]
-recommendations: [/post/2008-01-18-souiebakokohawu-yu-burogudatuta/, /post/2008-09-14-hetudohonwu-se-sitahi/,
+keywords: [er, 大須, 同期, 曰く, カナル型, 是非, イヤホン, 研究室, ヘッドホン, 入手]
+recommendations: [/post/2008-09-14-hetudohonwu-se-sitahi/, /post/2008-01-18-souiebakokohawu-yu-burogudatuta/,
   /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/]
 ---
 いや、厳密に言うとヘッドホンではないのかもしれません。カナル型イヤホンのER-6iです。  
