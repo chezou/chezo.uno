@@ -11,7 +11,7 @@ recommendations: [/blog/2019-06-04_The-first-conference-of-Operational-Machine-L
 ---
 
 
-_This article is translation of_ [_Japanese version_](https://medium.com/@chezou/oss%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%8C%E5%BC%B7%E3%81%84%E7%90%86%E7%94%B1-48807bbbf13f)_._
+_This article is translation of_ [_Japanese version_](https://chezo.uno/post/2017-08-03_oss-48807bbbf13f/)_._
 
 After releasing of TensorFlow, the movement of OSS-based machine learning is accelerating. [François Chollet](https://twitter.com/fchollet), the creator of Keras, says the essential point of this change. I think his phrase is enough, but in this article, I would like to organize why open source machine learning is great, and what recent trends are.
 

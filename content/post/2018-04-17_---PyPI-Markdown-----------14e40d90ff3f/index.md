@@ -40,8 +40,7 @@ long\_description\_content\_type=”text/markdown”,
 
 実際のPRはこちらです。
 
-[**Handle markdown long description for Pypi by chezou · Pull Request #85 · chezou/tabula-py**  
-_Thanks for PEP 566, as of setuptools v38.6.0, PyPI can render long description written in markdown. This PR allows…_github.com](https://github.com/chezou/tabula-py/pull/85 "https://github.com/chezou/tabula-py/pull/85")[](https://github.com/chezou/tabula-py/pull/85)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://github.com/chezou/tabula-py/pull/85" data-iframely-url="//cdn.iframe.ly/HWuHFUO?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ### wheelを作ってtwineでアップロードする
 
@@ -50,13 +49,12 @@ _Thanks for PEP 566, as of setuptools v38.6.0, PyPI can render long description 
 $ python setup.py bdist\_wheel  
 $ twine upload dist/\*
 
-![test.pypi.orgのMarkdownのドキュメントの様子](/img/1__dskznp__UI9jw4D9L6gAQLA.png)
+![test.pypi.orgのMarkdownのドキュメントの様子](1_dskznp_UI9jw4D9L6gAQLA.png)
 test.pypi.orgのMarkdownのドキュメントの様子
 
 今回はこれだけのためにpatch versionを上げるのもなぁということで、test.pypi.orgにあげています。
 
-[**tabula-py**  
-_Simple wrapper for tabula, read tables from PDF into DataFrame_test.pypi.org](https://test.pypi.org/project/tabula-py/1.0.0/ "https://test.pypi.org/project/tabula-py/1.0.0/")[](https://test.pypi.org/project/tabula-py/1.0.0/)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://test.pypi.org/project/tabula-py/" data-iframely-url="//cdn.iframe.ly/NCS5gmm"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ### 参考文献
 

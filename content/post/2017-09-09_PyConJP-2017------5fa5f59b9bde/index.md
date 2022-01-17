@@ -17,8 +17,7 @@ pandasとdaskのコミッターの[shinhrks](https://twitter.com/sinhrks)さん�
 
 特に印象的だったのが、pandasの中ではAirspeed Velocityを使ってCIでベンチマークを取りコミット間の処理速度が低下していないかを検出しているという点です。Pythonのパッケージなので、他の言語では難しいかもしれないということです。ともすると速度のデグレは気づきにくいことも多いですが、OSSでそこまできっちり見ているのは素晴らしいと思いました。
 
-[**spacetelescope/asv**  
-_asv — Airspeed Velocity: A simple Python benchmarking tool with web-based reporting_github.com](https://github.com/spacetelescope/asv "https://github.com/spacetelescope/asv")[](https://github.com/spacetelescope/asv)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://github.com/airspeed-velocity/asv" data-iframely-url="//cdn.iframe.ly/u7lLP8Q?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 なお、pandasやビジュアライズに入門するには昨日でたJupyter本が良いです。
 
@@ -33,18 +32,15 @@ Cookpadの[ayemos\_y](https://twitter.com/ayemos_y)さんの発表。自分が�
 
 解決方法はまだまだ発展途上だなというか、PySparkでETLしてS3上にHive形式のテーブル作ってそれをImpalaでもPrestoでも叩けばええやんという気持ちでいっぱいだったのですが、問題自体は重要な話であり、Googleなんかはどうにかしてクリアしているポイントのようなので、僕自身もなんとかしたいと思っている場所だったりします。良い解決方法考えていきたいところです。
 
-[**プレゼンテーション：Why you should do text analysis with Python (even if you don't want to) | PyCon JP 2017…**  
-_The explosion in Artificial Intelligence and Machine Learning is unprecedented now - and text analysis is likely the…_pycon.jp](https://pycon.jp/2017/ja/schedule/presentation/5/ "https://pycon.jp/2017/ja/schedule/presentation/5/")[](https://pycon.jp/2017/ja/schedule/presentation/5/)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://pycon.jp/2017/ja/schedule/presentation/5/" data-iframely-url="//cdn.iframe.ly/2KVfLfr?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 もう一件、テキスト処理をPythonでやる話がありました。話の殆どは知ってる話だったのですが、spaCyが日本語対応したらしいよという話を聞いて、実はjanomeがTokenizerに使われているのをしりました。
 
-[**explosion/spaCy**  
-_spaCy - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython_github.com](https://github.com/explosion/spaCy "https://github.com/explosion/spaCy")[](https://github.com/explosion/spaCy)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://github.com/explosion/spaCy" data-iframely-url="//cdn.iframe.ly/ECM6Oez?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 なお、RからもspacyRというwrapperを使えるようでopenNLPとrJavaに疲弊している人は使うと良いようです。
 
-[**kbenoit/spacyr**  
-_spacyr - R wrapper to spaCy NLP_github.com](https://github.com/kbenoit/spacyr "https://github.com/kbenoit/spacyr")[](https://github.com/kbenoit/spacyr)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://github.com/quanteda/spacyr" data-iframely-url="//cdn.iframe.ly/Sm0nxaE?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ### 感想
 

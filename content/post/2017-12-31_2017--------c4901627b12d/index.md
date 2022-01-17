@@ -23,7 +23,7 @@ recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2019-12-04-R-and-TD/
 
 {{< amazon asin="4873118255" title="仕事ではじめる機械学習" >}}
 
-[オライリーから「仕事ではじめる機械学習」が出版されます](https://medium.com/@chezou/%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%AA%E3%83%BC%E3%81%8B%E3%82%89-%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92-%E3%81%8C%E5%87%BA%E7%89%88%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99-cf835ff4c128)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/" data-iframely-url="//cdn.iframe.ly/tf0JDFS"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 きっかけは、pyspaのチャットでお蔵入りした原稿を供養しようぜといって [ところてん](https://medium.com/u/dcded7eecf08) さん [Takashi Nishibayashi](https://medium.com/u/1f02a92f1898) さん両氏と同人誌を書くことにしたのですが、日頃考えていること、話していることが皆様の手元に届けられてよかったです。特に、機械学習に関連する泥臭いエンジニアリングまわりのところは、最近でこそ話題になるようになりましたが、あまり論文にもならず論点にもならなかったのですが、これが一つの議論のたたき台として使えればなぁと思っています。
 

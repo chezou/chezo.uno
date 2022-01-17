@@ -13,7 +13,7 @@ Google Homeを発売日に買ってから色々と試行錯誤をして来まし
 
 下の図が大まかな構成です。
 
-![](/img/1__IR6HHihMDdt3X8YeT4V__jg__2x.png)
+![](1_IR6HHihMDdt3X8YeT4V_jg_2x.png)
 
 図中のSPはスマートプラグの略です。
 

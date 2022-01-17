@@ -9,9 +9,9 @@ recommendations: [/post/2017-07-08_MBP--Thinkpad-X1-Carbon-2017-------46c374167b
   /post/2017-08-26_Python------------------dc8d8f2fe989/, /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/]
 ---
 
-前回 [Thinkpad X1 Carbon(2017)のWindows周りの設定](https://medium.com/@chezou/46c374167b79)について書きましたが、今回はUbuntu 17.04とのデュアルブートについて書きます。
+前回 [Thinkpad X1 Carbon(2017)のWindows周りの設定](https://chezo.uno/post/2017-07-08_mbp-thinkpad-x1-carbon-2017-46c374167b79/)について書きましたが、今回はUbuntu 17.04とのデュアルブートについて書きます。
 
-![Ubuntu 17.04 on 4k monitor](/img/0__3JDXsLhEggqGGeR__.jpg)
+![Ubuntu 17.04 on 4k monitor](0_3JDXsLhEggqGGeR_.jpg)
 Ubuntu 17.04 on 4k monitor
 
 基本的に、X1 Carbonに最初から入っているWindows 10がBitlockerが有効化されていてセキュアなので、以下を参照しながらデュアルブートにしました。（とはいってもうっかりUbuntu側をセキュアにし忘れた）

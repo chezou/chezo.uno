@@ -11,7 +11,7 @@ recommendations: [/post/2017-05-26_public-dataset/, /post/2014-08-29-detafen-xi-
 
 ![](/img/1__JTqxfs____kuzO0CAt9dyQgg.png)
 
-_英語版は_[_こちら_](https://blog.chezo.uno/why-oss-based-machine-learning-is-good-3ab45a1a5e52)_。_
+_英語版は_[_こちら_](https://chezo.uno/blog/2017-08-03_why-oss-based-machine-learning-is-good-3ab45a1a5e52/)_
 
 TensorFlowの登場以降、OSSベースの機械学習の盛り上がりは加速しています。Kerasの作者の[François Chollet](https://twitter.com/fchollet)さんの言葉が、この状況を非常に端的に表しています。これだけでも十分だとは思いますが、この記事では、なぜオープンソースの機械学習が強いのか、最近のどういった流れがあるのかを整理したいと思います。
 
@@ -42,27 +42,23 @@ TensorFlow, Chainer, MXNet, Caffe2, PyTorchなどの数々のDeep Learningのフ
 
 以下の記事に、arxivに投稿された機械学習関連（特にDeep Learning）の論文投稿数について記述があります。こちらの記事によれば、機械学習関連の論文の投稿数が、2017年には5年前に比べて4倍以上になっているという指摘がされています。
 
-[**A Peek at Trends in Machine Learning**  
-_Have you looked at Google Trends? It’s pretty cool — you enter some keywords and see how Google Searches of that term…_medium.com](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106 "https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106")[](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)
+<script async src="https://static.medium.com/embed.js"></script><a class="m-story" href="https://karpathy.medium.com/a-peek-at-trends-in-machine-learning-ab8a1085a106">A Peek at Trends in Machine Learning</a>
 
 arxivの論文は、（査読がないこともあり）日々新しい論文が投稿されます。つまり、Google、Facebook、Microsoftなどの先端の取り組みが、査読前にどんどん論文として公開されています。これは、特に1年や半年単位で目標を設定して取り組むような従来型の大企業の中央研究所にとっては、機械学習の先端のアルゴリズム自体を研究開発するのはかなりのチャレンジになってきていると感じています。これについては「ただ部品を足しているだけ」という批判もありますが、牧歌的な時代のスピード感から目まぐるしく変わってきているのは明らかです。
 
 最近では、日夜新しいarxivの論文を読み漁る人のために、新着論文をより良くチェックするための[ariXiv Times](https://arxivtimes.herokuapp.com/)という取り組みもされています。
 
-[**arXivTimesのダッシュボードをリリースしました**  
-_arXivTimesに投稿される論文の量、また品質を向上させていくために、この度arXivTimes Indicatorというサイトをオープンしました。_medium.com](https://medium.com/@arxivtimes/arxivtimes%E3%81%AE%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-4f2f7190b7e8 "https://medium.com/@arxivtimes/arxivtimes%E3%81%AE%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-4f2f7190b7e8")[](https://medium.com/@arxivtimes/arxivtimes%E3%81%AE%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-4f2f7190b7e8)
+<script async src="https://static.medium.com/embed.js"></script><a class="m-story" href="https://medium.com/@arxivtimes/arxivtimes%E3%81%AE%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-4f2f7190b7e8">arXivTimesのダッシュボードをリリースしました</a>
 
 ### オープンな論文が加速するオープンソースの機械学習
 
 今年の3月にDeep Forestという論文がarxivで公開され、”Deep Learningよりも性能が良い”という主張もあって話題になりました。日本でもQiitaに訳が公開されるなど話題になったので記憶に残っている人もいるかと思います。
 
-[**\[1702.08835\] Deep Forest: Towards An Alternative to Deep Neural Networks**  
-_Abstract: In this paper, we propose gcForest, a decision tree ensemble approach with performance highly competitive to…_arxiv.org](https://arxiv.org/abs/1702.08835 "https://arxiv.org/abs/1702.08835")[](https://arxiv.org/abs/1702.08835)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://arxiv.org/abs/1702.08835v4" data-iframely-url="//cdn.iframe.ly/kjxpnMP"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 実はこの論文で提案された手法は、論文が出た日（2017/2/28）の約一週間後（2017/3/5）にはR実装がでてきて、その後Python実装も出てきました。このやり取りは、以下のLightGBMのissueでなされ、論文の再現性がないのではないか（謳われているような性能が出なかった）という話になりました。
 
-[**Support gcForest · Issue #331 · Microsoft/LightGBM**  
-_LightGBM - A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on…_github.com](https://github.com/Microsoft/LightGBM/issues/331 "https://github.com/Microsoft/LightGBM/issues/331")[](https://github.com/Microsoft/LightGBM/issues/331)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://github.com/microsoft/LightGBM/issues/331" data-iframely-url="//cdn.iframe.ly/bve0cNQ?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 arxivで公開された論文のOSS実装が1週間後には実装が出てきてコミュニティの議論が始まる、というスピードの時代になっている象徴的な出来事です。
 

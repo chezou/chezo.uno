@@ -16,7 +16,7 @@ recommendations: [/post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazep
 
 書き始めてから思ったんですが、ぶっちゃけPythonコミッターのmethaneさんの以下の記事を読めば十分な気もしてきましたが、一例としてお読みいただければと思います。
 
-[**Rubyist が pyenv を使うときに知っておいてほしいこと - Qiita**](http://qiita.com/methane/items/5afdabd513a18049c34f)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://qiita.com/methane/items/5afdabd513a18049c34f" data-iframely-url="//cdn.iframe.ly/7whUOpn?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ### 私の立ち位置
 
