@@ -12,13 +12,11 @@ recommendations: [/post/2019-06-04_ngekkan-party/, /post/2017-08-03_OSS---------
 
 先日、ラムダノートから創刊された「n月刊ラムダノート」に「MLOpsの歩き方」を寄稿しました。
 
-[**『n月刊ラムダノート』創刊のお知らせ**
-_このたびラムダノートでは、計算機全般を扱う新しい不定期刊行誌『n月刊ラムダノート』（n-monthly Lambda…_www.lambdanote.com](https://www.lambdanote.com/blogs/news/n "https://www.lambdanote.com/blogs/news/n")[](https://www.lambdanote.com/blogs/news/n)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 170px; padding-bottom: 0;"><a href="https://www.lambdanote.com/blogs/news/n" data-iframely-url="//cdn.iframe.ly/Oysk1z9"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 他の著者の記事などでいろいろと話題になっていますが、「TCPの再送制御機構」から『「コルーチン」とは何だったのか？』、そして僕の書いたMLOpsの話までと、幅広いテーマが取り扱われています。
 
-[**新雑誌「n月刊ラムダノート」の『「コルーチン」とは何だったのか？』の草稿を公開します - まめめも**
-_『Ruby でつくる Ruby』などでお世話になっているラムダノートが、新しい雑誌 「n月刊ラムダノート」 を創刊しました。 コンピュータ関係の技術情報の記事だけが載るそうです。創刊号は、『 TCP…_mametter.hatenablog.com](https://mametter.hatenablog.com/entry/2019/03/27/211140 "https://mametter.hatenablog.com/entry/2019/03/27/211140")[](https://mametter.hatenablog.com/entry/2019/03/27/211140)
+<div style="left: 0; width: 100%; height: 190px; position: relative;"><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fmametter.hatenablog.com%2Fentry%2F2019%2F03%2F27%2F211140" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no"></iframe></div>
 
 個人的には、[グルドンで宣伝したおかげ](https://mstdn.guru/@chezou/101792759121359160)か[ITmedia NEWSデビュー](https://www.itmedia.co.jp/news/articles/1903/25/news070.html)したのでちょっと嬉しかったです。
 
@@ -28,8 +26,7 @@ _『Ruby でつくる Ruby』などでお世話になっているラムダノー
 
 「n月刊ラムダノート」は皆様の記事の寄稿を受け付けています。詳しくは以下の記事をお読みいただければと思います。
 
-[**『n月刊ラムダノート』への寄稿をお待ちしています**
-_n月刊ラムダノート創刊号へのたくさんの応援ありがとうございます。n月刊ラムダノートは、1号分の記事が集まったら次号が発行される不定期刊行の技術解説誌です。…_www.lambdanote.com](https://www.lambdanote.com/blogs/news/n-1 "https://www.lambdanote.com/blogs/news/n-1")[](https://www.lambdanote.com/blogs/news/n-1)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.lambdanote.com/blogs/news/n-1" data-iframely-url="//cdn.iframe.ly/XIU2ivN"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ターゲットとしている記事は、上記の記事から抜粋すると
 
