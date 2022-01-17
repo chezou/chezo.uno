@@ -16,7 +16,7 @@ recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2016-12-17
   /post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/]
 ---
 
-![](/img/amazon-polly-with-ruby/20161201230818.png)
+![](20161201230818.png)
 
 今日のre:InventでDeep Learningを使った音声合成サービスのAmazon Pollyが発表されました。 正直、DLを使ったの音声合成が話題になったのなんて今年に入ってからだと思っていたのに、もう商用化したんか！という気持ちでいっぱいです。
 
@@ -82,7 +82,7 @@ AWS CLIを使ったbashのサンプルコードはこんな感じです。かん
 [http://chezou.tumblr.com/post/153883804175/amazon](http://chezou.tumblr.com/post/153883804175/amazon)
 <script async src="https://assets.tumblr.com/post.js"></script><cite class="hatena-citation"><a href="http://chezou.tumblr.com/post/153883804175/amazon">chezou.tumblr.com</a></cite>
 
-[2016/12/02追記] Google翻訳に手伝ってもらって[英語版をMediumに書きました](https://medium.com/@chezou/text-to-speech-for-web-site-using-amazon-polly-and-ruby-adc1923212cb#.3qioau2o4)。それの生成した音声も貼っておきます。
+[2016/12/02追記] Google翻訳に手伝ってもらって[英語版をMediumに書きました](https://chezo.uno/blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/)。それの生成した音声も貼っておきます。
 
 <iframe width="100%" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F295800373&amp;show_artwork=true"></iframe><cite class="hatena-citation"><a href="https://soundcloud.com/chezou/amazon-polly-tts-demo-from-medium-article">soundcloud.com</a></cite>
 
