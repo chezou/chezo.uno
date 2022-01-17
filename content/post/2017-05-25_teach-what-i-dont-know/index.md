@@ -21,7 +21,7 @@ _Amazonでリンダ・リウカス, 鳥井 雪のルビィのぼうけん こん
 ルビィのぼうけんの訳者のとりいさんはpodcastでも笹田さんと共にインタビューさせていただいたのだけれど、訳語に対してとても丁寧に考えてらっしゃるなというのが読んでても伝わってくる。True/Falseは英語的には簡単な語だけど、真偽という言葉は難しい、などと当たり前だけど大事な子供の目線で言葉選びをきちんとされている。
 
 [**11: Translating is the best way to master a programming language (\_ko1, yotii23, 1syo) -…**  
-_A Podcast by chezou for Rubyist_rubyist.club](https://rubyist.club/11/ "https://rubyist.club/11/")[](https://rubyist.club/11/)
+_A Podcast by chezou for Rubyist_rubyist.club](https://rubyistclub.chezo.uno/11/)
 
 そんな娘が、最近ルビィのぼうけんの続編とスクラッチの本にハマっている。
 
@@ -45,6 +45,8 @@ _ナンジャモンジャ・ミドリの通販ならアマゾン。おもちゃ,
 #### セサミストリートに学ぶ知らない概念を教えるということ
 
 以前どこかでも言及をしたが、セサミストリートでは俳優などに一つの英単語を説明してもらう動画を公開している。
+
+{{< youtube GxCplsdCwxY >}}
 
 この動画は、ロードオブザリングのガンダルフことイアンマッケランがクッキーモンスターに **resist** という単語を教えている。最初は欲しいものを我慢することだよ、とか、この宝物である指輪（もちろん例の指輪）が欲しくても手に入れないことだよ、とかいっても通じないわけである。（いとしいしとなのに！）
 

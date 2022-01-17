@@ -13,8 +13,7 @@ recommendations: [/post/2019-03-10_business-trip-goods/, /post/2018-10-28_Thinkp
 
 去年のものはこちらです。
 
-[**2016年買ってよかったもの 10選 - once upon a time,**  
-chezou.hatenablog.com](https://chezou.hatenablog.com/entry/2016/12/30/232713 "https://chezou.hatenablog.com/entry/2016/12/30/232713")[](https://chezou.hatenablog.com/entry/2016/12/30/232713)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/" data-iframely-url="//cdn.iframe.ly/na9dePo"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 *   [Thinkpad X1 Carbon 5th Gen](https://www3.lenovo.com/jp/ja/notebooks/thinkpad/x-series/ThinkPad-X1-Carbon-5th-Gen/p/22TP2TXX15G)
 
@@ -22,8 +21,7 @@ chezou.hatenablog.com](https://chezou.hatenablog.com/entry/2016/12/30/232713 "ht
 
 詳しくは以下の記事を読んで下さい。
 
-[**MBPからThinkpad X1 Carbon(2017)に移行した**  
-_joker1007さんも煽っていることもあり、MacBook Pro Retina(2015) 15インチが重すぎてしんどいので、Thinkpad X1 Carbon(2017)を買いました。2.04kgから1.13kgへと大幅軽量化し…_medium.com](https://medium.com/@chezou/mbp%E3%81%8B%E3%82%89thinkpad-x1-carbon-2017-%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%9F-46c374167b79 "https://medium.com/@chezou/mbp%E3%81%8B%E3%82%89thinkpad-x1-carbon-2017-%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%9F-46c374167b79")[](https://medium.com/@chezou/mbp%E3%81%8B%E3%82%89thinkpad-x1-carbon-2017-%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%97%E3%81%9F-46c374167b79)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2017-07-08_mbp-thinkpad-x1-carbon-2017-46c374167b79/" data-iframely-url="//cdn.iframe.ly/z770iaF"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 *   ゼンハイザー MOMENTUM On-Ear Wireless
 
@@ -74,8 +72,7 @@ _■ガンコな油汚れをすっきり洗浄「パワフルコース」 ■深
 
 諸般の事情で食洗機を導入しました。前職ではオフィスに食洗機があったので威力は知っていたのですが、拭かなくて良いのと油汚れを任せられるのは楽ですね。事情の詳細は下記を御覧ください。
 
-[**ワンオペ育児がやってきたヤァ！ヤァ！ヤァ！**  
-_この記事はpyspaアドベントカレンダーの24日目です。昨日はしぶかわさんのローンの話でした。車のローンも繰り上げ返済できるから印税で返済しましょう！という話はしびれますね。_medium.com](https://medium.com/@chezou/%E3%83%AF%E3%83%B3%E3%82%AA%E3%83%9A%E8%82%B2%E5%85%90%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%83%A4%E3%82%A1-%E3%83%A4%E3%82%A1-%E3%83%A4%E3%82%A1-701333a45696 "https://medium.com/@chezou/%E3%83%AF%E3%83%B3%E3%82%AA%E3%83%9A%E8%82%B2%E5%85%90%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%83%A4%E3%82%A1-%E3%83%A4%E3%82%A1-%E3%83%A4%E3%82%A1-701333a45696")[](https://medium.com/@chezou/%E3%83%AF%E3%83%B3%E3%82%AA%E3%83%9A%E8%82%B2%E5%85%90%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%83%A4%E3%82%A1-%E3%83%A4%E3%82%A1-%E3%83%A4%E3%82%A1-701333a45696)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2017-12-23_-701333a45696/" data-iframely-url="//cdn.iframe.ly/j6ZnF5g"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 *   Ergohuman Fit
 
@@ -84,7 +81,6 @@ _Amazon.co.jp： Ergohuman新シリーズ！ Ergohuman Fit アジャスタブル
 
 腰を痛めているのでErgohuman Fitを買いました。Workaholicというお店で試し座りした上で買ったのですが、的確にアドバイスをしてくれるので是非店に行くといいと思います。
 
-[**WORKAHOLIC オフィスファニチャーセレクトショップ**  
-_WORKAHOLICは、高機能オフィスチェアをメインに扱うセレクトショップです。国内外15ブランド60脚のチェアを座り比べられるフロアには、チェアコンシェルジュが常駐。正しい姿勢やワーク環境に合った一脚をお選びいただけます。_www.iamworkaholic.jp](https://www.iamworkaholic.jp/ "https://www.iamworkaholic.jp/")[](https://www.iamworkaholic.jp/)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.iamworkaholic.jp/" data-iframely-url="//cdn.iframe.ly/sQVymUl"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 しかし、今年は物入りな年だったなぁ。。。

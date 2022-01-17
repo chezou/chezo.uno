@@ -13,18 +13,15 @@ recommendations: [/post/2017-08-03_OSS--------------48807bbbf13f/, /post/2016-05
 
 なお、以下のまとめの片方はコンテンツ提供側に、片方が学術的な立場に偏ったものになっています。今回、これに対して一つの解決策になるかもしれないと思い、自分の考えを書きます。
 
-[**立命館大学の論文がBLを含むpixivのR-18小説を無許可で有害な情報のサンプルとして晒し上げてして炎上**  
-_まとめました。 更新日:5月25日22時25分_togetter.com](https://togetter.com/li/1113766 "https://togetter.com/li/1113766")[](https://togetter.com/li/1113766)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://togetter.com/li/1113766" data-iframely-url="//cdn.iframe.ly/9KD1PsY"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-[**立命館Pixiv事件、学問の自由が抑圧されるのを憂慮する意見**  
-_立命館Pixiv事件、「私たちが不快になることをするな！」「論文を撤回しろ！」という声が大きいけど、それに憂慮する意見もtwitter上で散見され、大変興味深かったので、まとめてみました。_togetter.com](https://togetter.com/li/1113936 "https://togetter.com/li/1113936")[](https://togetter.com/li/1113936)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://togetter.com/li/1113936" data-iframely-url="//cdn.iframe.ly/lxFu7im"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ### 企業によるデータ公開の嬉しさ
 
 私は、前職で主に大学などの公的な研究機関向けに自社のコンテンツを学術目的で提供するという取り組みを行っていました。詳細は、以下のブログを読んでいただければと思いますが、論文を書くためのデータを提供しますよ、という話でした。
 
-[**クックパッドのデータを研究者に公開します - クックパッド開発者ブログ**  
-_こんにちは。検索・編成部の原島です。 大学の研究者にお会いすると、「クックパッドのデータを研究に使用したいんですが...」と相談されることがあります。料理に関する研究をしているけれど、実際のデータがないため、なかなか研究が進まないという…_techlife.cookpad.com](https://techlife.cookpad.com/entry/2015/02/24/161915 "https://techlife.cookpad.com/entry/2015/02/24/161915")[](https://techlife.cookpad.com/entry/2015/02/24/161915)
+<div style="left: 0; width: 100%; height: 190px; position: relative;"><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Ftechlife.cookpad.com%2Fentry%2F2015%2F02%2F24%2F161915" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no"></iframe></div>
 
 【2017/05/27追記】  
 こちらで[コメント](http://b.hatena.ne.jp/entry/338933854/comment/Agrius_Akita)いただいたのですが、Pixivさんは[fastTextの学習済みモデルを公開](http://inside.pixiv.net/entry/2016/09/13/161454)していますが、学習済みのモデルは利用できる用途が非常に限定されるので、多くの研究者にとってはあまり嬉しくありません。  

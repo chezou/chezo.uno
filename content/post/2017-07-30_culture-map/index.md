@@ -9,7 +9,7 @@ recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2010-05-12-jiao-ke-s
   /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/]
 ---
 
-![](/img/1__XqRaeeRpBtmUfBRcCPBVjw.png)
+![](1_XqRaeeRpBtmUfBRcCPBVjw.png)
 
 同僚の [Daisuke Kobayashi](https://medium.com/u/aad6cf2e3329) から勧められて、エリン・メイヤーの「異文化理解力」を読んだ。グローバル企業で働く人間として非常に示唆に富んだ良い本だった。
 

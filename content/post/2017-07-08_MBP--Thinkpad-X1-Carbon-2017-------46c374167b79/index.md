@@ -49,14 +49,13 @@ _オンライン通販のAmazon公式サイトなら、Nintendo Switch ACアダ�
 
 Ubuntuのデュアルブートはちょこっとハマりどころはあったのですが、また別途詳細を書こうと思います。
 
-_\[追記\]書きました_ [_https://medium.com/@chezou/9f73d89073c3_](https://medium.com/@chezou/thinkpad-x1-carbon-2017-%E3%82%92windows-10-ubuntu-17-04%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%96%E3%83%BC%E3%83%88%E3%81%AB%E3%81%97%E3%81%9F-9f73d89073c3)_\[/追記\]_
+_\[追記\]書きました_ [https://chezo.uno/post/2017-07-10_thinkpad-x1-carbon-2017-windows-10-ubuntu-17-04-9f73d89073c3/]()_\[/追記\]_
 
 ### Windowsの開発環境周りの設定
 
 基本的にはymotongpooさんのまとまった記事を参考にしました。
 
-[**Windows 10の開発環境を整えた - YAMAGUCHI::weblog**  
-_こんにちは、 大正デモクラシーです。年末年始に実家に帰るにあたって、 Windows 10がインストールされている XPS 13を持って行ったんですが、実家で庭木の剪定以外にやることがなかったので、それ以外の時間はずっとコード書いてまし…_ymotongpoo.hatenablog.com](http://ymotongpoo.hatenablog.com/entry/2017/01/05/101233 "http://ymotongpoo.hatenablog.com/entry/2017/01/05/101233")[](http://ymotongpoo.hatenablog.com/entry/2017/01/05/101233)
+<div style="left: 0; width: 100%; height: 190px; position: relative;"><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fymotongpoo.hatenablog.com%2Fentry%2F2017%2F01%2F05%2F101233" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no"></iframe></div>
 
 Powershellをベースに、以下のものをいれました。
 
@@ -75,8 +74,7 @@ choco isntall python3
 
 特にこだわりはなかったので、RictyDiminishedを使いました。
 
-[**mzyy94/RictyDiminished-for-Powerline**  
-_RictyDiminished-for-Powerline - Ricty Diminished with Powerline patched --- fonts for programming_github.com](https://github.com/mzyy94/RictyDiminished-for-Powerline "https://github.com/mzyy94/RictyDiminished-for-Powerline")[](https://github.com/mzyy94/RictyDiminished-for-Powerline)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://github.com/mzyy94/RictyDiminished-for-Powerline" data-iframely-url="//cdn.iframe.ly/2p1vIji?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 #### Python 3とjupyter環境の導入
 
@@ -86,8 +84,7 @@ chocolateyでpython3を入れれば、 `python` で起動します。簡単で�
 
 今回は、下記のブログを参考に導入を勧めていきました。
 
-[**Windows 64bit で python を chocolatey でインストール - Edifying Soil**  
-_タイトルそのままです． Chocolatey を使用して， python を Windows にインストールしてみたいと思います． Chocolatey ってなんじゃらほい？と思われる方は，下記のリンク先を参照して下さい． では，さっそ…_rinor.hatenablog.com](http://rinor.hatenablog.com/entry/2015/07/11/105210 "http://rinor.hatenablog.com/entry/2015/07/11/105210")[](http://rinor.hatenablog.com/entry/2015/07/11/105210)
+<div style="left: 0; width: 100%; height: 190px; position: relative;"><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Frinor.hatenablog.com%2Fentry%2F2015%2F07%2F11%2F105210" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no"></iframe></div>
 
 といっても、厄介なのは様々な事情でscipyが `pip install scipy` では入らないので、[こちら](http://www.lfd.uci.edu/~gohlke/pythonlibs/)からWindows用のwhlをダウンロードしてきて、pipで入れます。ついでに、numpyもmkl最適化されたものを入れます。（なお、良い子はvenv使って仮想環境activateしてから使いましょう）
 
@@ -100,25 +97,24 @@ pip install jupyter notebook
 
 jupyter notebook
 
-![jupyter notebook on Windows 10](/img/0__fKbgSjEf0bSSnsUV.)
+![jupyter notebook on Windows 10](0_fKbgSjEf0bSSnsUV_.jpg)
 jupyter notebook on Windows 10
 
 #### irubyのインストール
 
 chocolateyからRubyをインストールしたんですが、MSYSへの依存があるからダメだ！みたいなことを怒られたので、Ruby InstallerからRubyを入れ直しました。
 
-![](/img/1__XZBLeryhSifN__qyyhjQIFg.png)
+![](1_XZBLeryhSifN_qyyhjQIFg.png)
 
 後は以下の方法を使いiRubyを入れました。
 
-[**Windows10でiRuby Notebookを確実に動作させる手順(2016/8/16版) - Qiita**  
-_iRuby Notebookは非常に強力なツールなのですが、LinuxおよびMacユーザーには知名度が高いものの、Windowsユーザーはインストールにおけるハードルの高さから利用者が少ないという現状があるようです。 そこ…_qiita.com](http://qiita.com/mix_dvd/items/3e4305d31e7a6785fbb0 "http://qiita.com/mix_dvd/items/3e4305d31e7a6785fbb0")[](http://qiita.com/mix_dvd/items/3e4305d31e7a6785fbb0)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://qiita.com/mix_dvd/items/3e4305d31e7a6785fbb0" data-iframely-url="//cdn.iframe.ly/0BvB6wB?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 が、後から調べてみると、[ZeroMQも手動で入れる必要はないという話](http://qiita.com/kozo2/items/4bfbc9524b302b06710b)もあるみたいです。まぁ、今回はいいか。
 
 #### Sphinxでの執筆環境
 
-![](/img/1__oTl5ZTAqQZ0JL3__rRVOIMQ.png)
+![](1_oTl5ZTAqQZ0JL3_rRVOIMQ.png)
 
 以前blogにも書いたとおり、Dockerベースでやっています。
 
@@ -135,25 +131,21 @@ docker run -it -v ${PWD}:/documents chezou/sphinx-recommonmark:latest make latex
 
 しばらくmacを使っていたので、ctrl+f/b/p/n/a/eなどで移動がしないとテキストを書くときの生産性が下がってしまいます。ここは、keyhacとfakeymacsを使って、対応しました。
 
-[**Keyhac - Pythonによる柔軟なキーカスタマイズツール - craftware**  
-_Edit description_sites.google.com](https://sites.google.com/site/craftware/keyhac-ja "https://sites.google.com/site/craftware/keyhac-ja")[](https://sites.google.com/site/craftware/keyhac-ja)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://sites.google.com/site/craftware/keyhac-ja" data-iframely-url="//cdn.iframe.ly/HxZeq7t"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-[**smzht/fakeymacs**  
-_fakeymacs - Emacs-like key bindings for Keyhac_github.com](https://github.com/smzht/fakeymacs "https://github.com/smzht/fakeymacs")[](https://github.com/smzht/fakeymacs)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://github.com/smzht/fakeymacs" data-iframely-url="//cdn.iframe.ly/RT5rM2B?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 ただ、そこまでEmacsの制約強い環境が必要というわけでもないゆるふわなので、結構fakeymacsよりはゆるくしています。config.pyは[こちら](https://gist.github.com/chezou/b8a45f57c3ec08e0d232dbf7d9a23bee)です。
 
 Ctrl-Capsはお好みの方法で入れ替えてください。僕は普通にレジストリで入れ替えてしまいました。
 
-[**Windows10 CapsLockキーをCtrlキーに割りあててしまおう！**  
-_WindowsのPC使っていると、ショートカットキーで Ctrl+C（コピー） Ctrl＋X（切り取り） Ctrl+V（貼り付け） Shift+Ctrl+V（書式無視して値だけ貼り付け） Ctrl+A（全部選択） Ctrl+D（ファイル…_www.shin-tan.com](http://www.shin-tan.com/swapKey "http://www.shin-tan.com/swapKey")[](http://www.shin-tan.com/swapKey)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.shin-tan.com/swapKey" data-iframely-url="//cdn.iframe.ly/Mx99niK?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 #### 右AltでIME on、左AltでIME off
 
 macのときもUSキーボードで右cmdでIME on、左cmdでIME offにしていたのですが、これはalt-ime-ahkを使っています。（人間はIMEの状態を覚えたくない）
 
-[**WindowsのAlt空打ちで日本語入力(IME)を切り替えるツールを作った**  
-_Windows にて、左右 Alt キーの空打ちで IME を OFF/ON するツールを作ってみました。英語キーボードで使うと幸せになれるかもしれません。 このツールで以下のことができます。 左 Alt キーの空打ちで IME を「英…_www.karakaram.com](http://www.karakaram.com/alt-ime-on-off "http://www.karakaram.com/alt-ime-on-off")[](http://www.karakaram.com/alt-ime-on-off)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.karakaram.com/alt-ime-on-off/" data-iframely-url="//cdn.iframe.ly/gcQgbaP?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 本当はkeyhac一つでやろうと思ったんですが、alt空打ちの設定をすると、他のAltと同時押し全パターンを記述しないといけない臭いがしたので諦めました。
 
@@ -165,16 +157,14 @@ _Windows にて、左右 Alt キーの空打ちで IME を OFF/ON するツー�
 
 また、DMM英会話用にはChrome Extensionで以下の2つを使っています。Google Dictionaryの方は日本語を出すことで、ダブルクリックで選択すると英日と英英が同時に出ます。記事を読みながらの辞書引きには良いです。
 
-[**Google Dictionary (by Google)**  
-_View definitions easily as you browse the web._chrome.google.com](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja "https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja")[](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja" data-iframely-url="//cdn.iframe.ly/SwcfKz8"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 [**English dictionary translate pronunciation**  
 _Best free online chrome app english dictionaries for translation selected word pronunciation loud language pronounce…_chrome.google.com](https://chrome.google.com/webstore/detail/english-dictionary-transl/neomigpibafpboiknmijddgnncengfnm "https://chrome.google.com/webstore/detail/english-dictionary-transl/neomigpibafpboiknmijddgnncengfnm")[](https://chrome.google.com/webstore/detail/english-dictionary-transl/neomigpibafpboiknmijddgnncengfnm)
 
 なお、英文を書くときには文法をチェックしてくれるGrammarlyにもお世話になっています。Grammarlyは同僚のスコットランド人も使っていると聞いて有料会員になっていますが、海外のカンファレンスのproposalを書くときも、Businessの固めのチェックモードに切り替えることで対応ができて良いです。
 
-[**Grammarly**  
-_Edit description_app.grammarly.com](https://app.grammarly.com/ "https://app.grammarly.com/")[](https://app.grammarly.com/)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.grammarly.com/" data-iframely-url="//cdn.iframe.ly/qul5udp?card=small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 #### メモアプリ
 
