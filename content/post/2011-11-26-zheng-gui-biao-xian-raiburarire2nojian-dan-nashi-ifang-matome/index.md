@@ -51,7 +51,7 @@ re2を扱う上で知っておいた方が良さそうなポイントです。
 
 > RE2 supports submatch extraction, but not backreferences.
 > 
-> If you absolutely need backreferences and generalized assertions, then RE2 is not for you, but you might be interested in [irregexp](http://blog.chromium.org/2009/02/irregexp-google-chromes-new-regexp.html), Google Chrome&#39;s regular expression engine.  
+> If you absolutely need backreferences and generalized assertions, then RE2 is not for you, but you might be interested in [irregexp](http://blog.chromium.org/2009/02/irregexp-google-chromes-new-regexp.html), Google Chrome's regular expression engine.  
 > ( from [http://code.google.com/p/re2/](http://code.google.com/p/re2/) )
 
 ここで言う後方参照とは、"(.n)\1"というパターンで"anan"という文字列にマッチさせるというように、マッチした文字列を使ってパターンを作りたいという場合の事だと思います。単にgroupにマッチする文字列を抽出するだけならば可能です。  

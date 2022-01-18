@@ -15,7 +15,7 @@ keywords: [金融, 入門書, 和代, 勝間, 入り口, 筆者, 傾向, 実践,
 recommendations: [/post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/,
   /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/, /post/2008-06-28-vuinrandosaga-6-du-li-shui-shang-19/]
 ---
-![](https://ecx.images-amazon.com/images/I/31HNjoN4EPL._SL160_.jpg)[お金は銀行に預けるな 金融リテラシーの基本と実践 (光文社新書)](http://item.excite.co.jp/detail/ASIN_433403425X)  
+{{< amazon asin="433403425X" title="お金は銀行に預けるな 金融リテラシーの基本と実践 (光文社新書)" >}}
 勝間 和代 / / 光文社  
 ISBN : 433403425X  
 スコア選択: ※※※※

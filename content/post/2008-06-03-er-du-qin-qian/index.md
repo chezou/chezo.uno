@@ -18,7 +18,7 @@ recommendations: [/post/2009-04-13-it-dont-mean-a-thing/, /post/2008-08-01-ono-l
 9時前に寝てしまい、気が付けば11時。  
 でも、朝の4時かと思うくらい長い夢を見ていた気がする。苦しい夢だった。  
   
- ![](https://ecx.images-amazon.com/images/I/51JMRGZZ6AL._SL160_.jpg)[yours](http://item.excite.co.jp/detail/ASIN_B000A0H5CG)  
+ {{< amazon asin="B000A0H5CG" title="yours" >}}
 溝口肇 / / バップ  
 スコア選択: ★★★★★  
   
@@ -28,7 +28,7 @@ recommendations: [/post/2009-04-13-it-dont-mean-a-thing/, /post/2008-08-01-ono-l
   
 のんびーりしたいときにはお勧め。  
   
- ![](https://ecx.images-amazon.com/images/I/410G9M3125L._SL160_.jpg)[The Best of Barber](http://item.excite.co.jp/detail/ASIN_B0000DG01K)  
+ {{< amazon asin="B0000DG01K" title="The Best of Barber" >}}
  / Telarc  
 スコア選択: ★★★★  
   

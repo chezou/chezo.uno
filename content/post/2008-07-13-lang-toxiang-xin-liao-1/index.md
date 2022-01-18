@@ -15,7 +15,7 @@ keywords: [漢字, 文章, 作品, フリガナ, 刺激, 手順, ライト, 続�
 recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-10-10-luo-yu-bai-xuan-xia/,
   /post/2008-08-24-sayonaraituka/]
 ---
-![](https://ecx.images-amazon.com/images/I/51NGJS1A0ZL._SL160_.jpg)[狼と香辛料 (電撃文庫)](http://item.excite.co.jp/detail/ASIN_4840233020)  
+{{< amazon asin="4840233020" title="狼と香辛料 (電撃文庫)" >}}
 支倉 凍砂 / / メディアワークス  
 ISBN : 4840233020  
 スコア選択: ※※※※  

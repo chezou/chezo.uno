@@ -14,7 +14,7 @@ projects: []
 keywords: [幸村誠, 幸村, 山場, プラネテス, アフタヌーン, すばらしい, 物語, 前作, kc, 描写]
 recommendations: [/post/2008-07-30-narutaru/, /post/2008-08-24-sayonaraituka/, /post/2008-07-19-can-shu-gui-tou-mo-hong/]
 ---
-![](https://ecx.images-amazon.com/images/I/51mg-ma5Z9L._SL160_.jpg)[ヴィンランド・サガ 6 (6) (アフタヌーンKC)](http://item.excite.co.jp/detail/ASIN_4063145107)  
+{{< amazon asin="4063145107" title="ヴィンランド・サガ 6 (6) (アフタヌーンKC)" >}}
 幸村 誠 / / 講談社  
 ISBN : 4063145107  
 スコア選択: ※※※※※  

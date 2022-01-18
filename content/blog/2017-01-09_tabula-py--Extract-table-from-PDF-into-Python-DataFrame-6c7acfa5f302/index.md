@@ -28,7 +28,7 @@ pip install tabula-py
 
 With tabula-py, you can get DataFrame with `read_pdf()` method.
 
-![example of read\_pdf()](1_w0uPTg2qfvBbmHYEYxqjYw.png)
+![example of read_pdf()](1_w0uPTg2qfvBbmHYEYxqjYw.png)
 example of read\_pdf()
 
 You can also extract tables as JSON format:

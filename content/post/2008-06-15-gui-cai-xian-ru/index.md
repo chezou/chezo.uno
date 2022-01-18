@@ -15,7 +15,7 @@ keywords: [衝撃, 喜び, 現実, 悲しみ, ショック, 集英社文庫, 衣
 recommendations: [/post/2008-11-18-ai-gainaibu-wu/, /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/,
   /post/2008-10-28-utukusiizi-domo/]
 ---
-![](https://ecx.images-amazon.com/images/I/519BgTth8PL._SL160_.jpg)[エンジェル (集英社文庫)](http://item.excite.co.jp/detail/ASIN_4087474763)  
+{{< amazon asin="4087474763" title="エンジェル (集英社文庫)" >}}
 石田 衣良 / / 集英社  
 ISBN : 4087474763  
 スコア選択: ※※※※※  

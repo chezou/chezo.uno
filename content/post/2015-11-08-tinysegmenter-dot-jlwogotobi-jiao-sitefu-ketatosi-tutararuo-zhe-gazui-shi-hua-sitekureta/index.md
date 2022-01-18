@@ -30,7 +30,7 @@ recommendations: [/post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sh
 
 それと比較するために、とりあえず[Julia templateをPR](https://github.com/shogo82148/TinySegmenterMaker/pull/10)して比較しました。
 
-![](/img/2015/11/08/190000/20151108175610.png)
+![](20151108175610.png)
 
 | Ruby | Perl | Python | Node.js | C++ | Go | Julia | Julia (hash optimized) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -41,5 +41,3 @@ recommendations: [/post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sh
 ちなみに、SGJ先生は「実は言語間の比較ではなくて最適化の比較になっていたんだけどね（てへぺろ）」[みたいなこと](https://github.com/chezou/TinySegmenter.jl/issues/8#issuecomment-154558591)を告白しており、ikawahaさんの目の付け所は正しかったようです。
 
 そういう意味では、Stringとしても処理できるし頑張れば最適化できるJuliaは楽しいですね、という気持ちになりました。今時のコンパイル型の言語だと突き詰めれば似たような性能になるんでしょうね。
-
-

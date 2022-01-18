@@ -20,7 +20,7 @@ recommendations: [/post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufan
 一回だけなんですが、Nas Navigator2がRun time errorを出してくれました。
 
 で、調べてみると[こんな記事が  
-Note - imatakutin&#39;s Mind Map: NasNavi.exe で Runtime Error!](http://imatakutin.blogspot.com/2008/05/nasnaviexe-runtime-error.html)
+Note - imatakutin's Mind Map: NasNavi.exe で Runtime Error!](http://imatakutin.blogspot.com/2008/05/nasnaviexe-runtime-error.html)
 
 どうも、管理者モードでインストールしないとダメみたいです。  
 で、改めてアンインストールしようとしたら、それができない。コンパネからもスタートメニューからも、ダメ。BuffaloはWindows7（というか64bit？）対応があまり積極的でないとも聞きます。そろそろio-dataに切り替え時なのかなぁ。

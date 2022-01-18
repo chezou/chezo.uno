@@ -15,7 +15,7 @@ keywords: [女性, 全て, 良かっ, 最初, 気分, 毛色, ポンド, フェ�
 recommendations: [/post/2008-06-15-gui-cai-xian-ru/, /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/,
   /post/2008-08-24-sayonaraituka/]
 ---
-![](https://ecx.images-amazon.com/images/I/41Tyfb9Ys6L._SL160_.jpg)[愛がいない部屋 (集英社文庫 い 47-5)](http://item.excite.co.jp/detail/ASIN_4087463044)  
+{{< amazon asin="4087463044" title="愛がいない部屋 (集英社文庫 い 47-5)" >}}
 石田 衣良 / / 集英社  
 ISBN : 4087463044  
 スコア選択: ※※  

@@ -15,7 +15,7 @@ keywords: [理系, 残業, 本書, 日本, 文章, 素晴らしい, 通用, 社�
 recommendations: [/post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/,
   /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/, /post/2008-08-11-mian-bai-ihodoyokufen-karuzhe-xue-si-xiang-nosubete/]
 ---
-![](https://ecx.images-amazon.com/images/I/51qiCnniYVL._SL160_.jpg)[「残業ゼロ」の仕事力](http://item.excite.co.jp/detail/ASIN_4820717138)  
+{{< amazon asin="4820717138" title="「残業ゼロ」の仕事力" >}}
 吉越 浩一郎 / / 日本能率協会マネジメント 出版情報事業  
 ISBN : 4820717138  
 スコア選択: ※※  

@@ -28,7 +28,7 @@ LT1本目は、Tokudaさん([@snowcrush](https://twitter.com/snowcrush))によ�
 
 Rack Hijacking APIを使って、ソケットを横取りしてSinatraでWebsocketの通信をしよう！というライブラリです。
 
-    require &#39;sinatra/hijacker&#39;class YourApp \< Sinatra::Base register Sinatra::Hijacker websocket &#39;/ws&#39; do ws.onopen{ws.send\_data "hello"} endend
+    require 'sinatra/hijacker'class YourApp \< Sinatra::Base register Sinatra::Hijacker websocket '/ws' do ws.onopen{ws.send\_data "hello"} endend
 
 こんなかんじで、シンプルにwebsocketの通信ができるようになります。お手軽ですね。
 

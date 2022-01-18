@@ -15,7 +15,7 @@ keywords: [講談社コミックス, 知子, 二ノ宮, だめ, 講談社, キ�
 recommendations: [/post/2008-08-11-nodame21juan/, /post/2008-10-10-tiisanatiisanawang-yang/,
   /post/2010-01-01-12yue-nidu-ndaben/]
 ---
-![](https://ecx.images-amazon.com/images/I/41wmOBGeEJL._SL160_.jpg)[のだめカンタービレ (18)(講談社コミックスキス)](http://item.excite.co.jp/detail/ASIN_4063406482)  
+{{< amazon asin="4063406482" title="のだめカンタービレ (18)(講談社コミックスキス)" >}}
 二ノ宮 知子 / / 講談社  
 ISBN : 4063406482  
 スコア選択: ※※※※※  
@@ -24,7 +24,7 @@ ISBN : 4063406482
   
 テルミン演奏するとか、すげーと思うよ。そして、フランクの立ち位置と気持ちの変化が、素朴にいいなぁと思います。  
   
- ![](https://ecx.images-amazon.com/images/I/51MAH-ANm5L._SL160_.jpg)[のだめカンタービレ (19) (講談社コミックスKiss (673巻))](http://item.excite.co.jp/detail/ASIN_4063406733)  
+ {{< amazon asin="4063406733" title="のだめカンタービレ (19) (講談社コミックスKiss (673巻))" >}}
 二ノ宮 知子 / / 講談社  
 ISBN : 4063406733  
 スコア選択: ※※※※※  
@@ -34,7 +34,7 @@ ISBN : 4063406733
 それぞれ目的を持っていて、それに向かって邁進しているのがいいんでしょうね。  
   
 妄想の中で、裏軒にてはたらくキヨラは笑えましたけど（笑）  
- ![](https://ecx.images-amazon.com/images/I/51aBEkhsYQL._SL160_.jpg)[のだめカンタービレ #20 (20) (講談社コミックスキス)](http://item.excite.co.jp/detail/ASIN_4063406911)  
+ {{< amazon asin="4063406911" title="のだめカンタービレ #20 (20) (講談社コミックスキス)" >}}
 二ノ宮 知子 / / 講談社  
 ISBN : 4063406911  
 スコア選択: ※※※※※  

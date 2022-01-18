@@ -38,7 +38,7 @@ wafはmakeの代わりのビルドシステムで、pythonでビルドします�
 
 例としてsrcディレクトリにあるwscriptをのせます。
 
-    def build(bld): bld.program( source = &#39;json-test.cpp&#39;, target = &#39;json-test&#39;, includes = &#39;. ../include&#39;, lib = &#39;pficommon\_text pficommon\_data&#39;, use = &#39;JSON TEST&#39; )
+    def build(bld): bld.program( source = 'json-test.cpp', target = 'json-test', includes = '. ../include', lib = 'pficommon\_text pficommon\_data', use = 'JSON TEST' )
 
 見れば分かると思いますが、sourceにソースとなるファイル、targetにビルドした後の実行ファイル名、includesにヘッダーファイルの場所を書きます。libにはライブラリ名を列挙します。このとき、複数の場合はスペースで区切ればOKです。
 

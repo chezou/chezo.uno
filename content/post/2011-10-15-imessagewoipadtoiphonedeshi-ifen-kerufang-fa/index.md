@@ -21,7 +21,7 @@ iMessageを複数のデバイスで同一Apple IDで使う場合に、どちら�
 
 **20111016追記**  
 iCloudを同一AppleIDで夫婦で使い分ける方法がmacjさんから紹介されてしました。合わせてどうぞ。  
-[[iOS5] 夫婦でAppleIDを共有している場合のiCloudアカウント | macj&#39;s Log](http://www.macj-log.com/article/sharing-appleid-without-sharing-icloud.html)
+[[iOS5] 夫婦でAppleIDを共有している場合のiCloudアカウント | macj's Log](http://www.macj-log.com/article/sharing-appleid-without-sharing-icloud.html)
 
 で、本題です。
 

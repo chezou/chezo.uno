@@ -15,7 +15,7 @@ keywords: [感情移入, 女の子, アイ, 目線, 新潮社, ばあ, 主人公
 recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
   /post/2008-09-10-enzieruhato-27/]
 ---
-![](https://ecx.images-amazon.com/images/I/51K6B7P3PQL._SL160_.jpg)[西の魔女が死んだ (新潮文庫)](http://item.excite.co.jp/detail/ASIN_4101253323)  
+{{< amazon asin="4101253323" title="西の魔女が死んだ (新潮文庫)" >}}
 梨木 香歩 / / 新潮社  
 ISBN : 4101253323  
 スコア選択: ※※  

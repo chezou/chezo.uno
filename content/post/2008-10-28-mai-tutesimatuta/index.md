@@ -15,7 +15,7 @@ keywords: [hd, hfi, sa, '700', '650', '555', '15', 環境, ライブハウス, �
 recommendations: [/post/2008-10-05-hd53r-ver-dot-8wogou-ru/, /post/2008-09-14-hetudohonwu-se-sitahi/,
   /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/]
 ---
-![](https://ecx.images-amazon.com/images/I/211q7maMp8L._SL160_.jpg)[マランツ シルバー SA-15S1S](http://item.excite.co.jp/detail/ASIN_B000WM8KPI)  
+{{< amazon asin="B000WM8KPI" title="マランツ シルバー SA-15S1S" >}}
  / マランツ・スーパースコープ  
 ISBN : B000WM8KPI  
 スコア選択: ※※※※※  

@@ -18,7 +18,7 @@ recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2009-03-03-sok-bao-mas
 おいおい、書いていたら消えてたよ。  
 というわけで、書き直しです。  
   
- ![](https://ecx.images-amazon.com/images/I/31tc12IqgZL._SL160_.jpg)[コモンリー・ユニーク[スペシャル・エディション]](http://item.excite.co.jp/detail/ASIN_B000NIVMRE)  
+ {{< amazon asin="B000NIVMRE" title="コモンリー・ユニーク[スペシャル・エディション]" >}}
 ザ・リアル・グループ / / スパイス・オブ・ライフ  
 スコア選択: ★★★★  
   
@@ -28,7 +28,7 @@ recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2009-03-03-sok-bao-mas
 ハーモニーも楽しければ、ノリもいいのです。ライブいきたいわぁ  
 Telepone Talkingが大好きです。  
   
- ![](https://md.exblog.jp/img/eg/thumb-no-image.gif)[リアル・クリスマス](http://item.excite.co.jp/detail/ASIN_B000VZE0NW)  
+ {{< amazon asin="B000VZE0NW" title="リアル・クリスマス" >}}
 ザ・リアル・グループ / / スパイス・オブ・ライフ  
 スコア選択: ★★★★  
   

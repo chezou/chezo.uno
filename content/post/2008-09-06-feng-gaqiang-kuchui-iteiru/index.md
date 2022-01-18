@@ -15,7 +15,7 @@ keywords: [スポーツ, ゴール, 新潮社, 共感, 伏線, 物語, キャラ
 recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
   /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/]
 ---
-![](https://ecx.images-amazon.com/images/I/51TKQG1885L._SL160_.jpg)[風が強く吹いている](http://item.excite.co.jp/detail/ASIN_4104541044)  
+{{< amazon asin="4104541044" title="風が強く吹いている" >}}
 三浦 しをん / / 新潮社  
 ISBN : 4104541044  
 スコア選択: ※※※※※  
