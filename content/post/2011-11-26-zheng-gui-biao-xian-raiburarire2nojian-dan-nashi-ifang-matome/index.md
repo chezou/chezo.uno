@@ -16,7 +16,8 @@ recommendations: [/post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-
   /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
   /post/2012-02-12-pficommonnopfi-text-jsondesiriaraizu-slash-desiriaraizusitemita/]
 ---
-先日、[インストールして試してみた](http://chezou.wordpress.com/2011/11/25/google%e8%a3%bd%e3%81%ae%e6%ad%a3%e8%a6%8f%e8%a1%a8%e7%8f%be%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3re2%e3%82%92%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%a7%e8%a9%a6%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f/ "Google製の正規表現エンジンRe2を日本語で試してみた")Google製正規表現エンジン[re2](http://code.google.com/p/re2/)。
+
+先日、[インストールして試してみた](https://chezo.uno/post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita)Google製正規表現エンジン[re2](http://code.google.com/p/re2/)。
 
 シンプルな使い方は、前の記事を見ていただければ分かると思うのですが、色々やってみようと思った時に、意外と独特の癖があってやりたいことをやるのに少し手間取ったので、メモがてらまとめておきます。  
 本家の[ドキュメント](http://code.google.com/p/re2/wiki/CplusplusAPI)は思ったよりあっさりしていて、基本的には[ヘッダーにあるサンプル](http://code.google.com/p/re2/source/browse/re2/re2.h)を見るのが良いのですが、それもいまいちわかりにくいところがあったので、[テストコード](http://code.google.com/p/re2/source/browse/re2/testing/re2_test.cc)を見ながら試したことを書きます。詳細が知りたい人はテストコード見た方が早いかもしれません。
@@ -56,20 +57,41 @@ re2を扱う上で知っておいた方が良さそうなポイントです。
 
 ここで言う後方参照とは、"(.n)\1"というパターンで"anan"という文字列にマッチさせるというように、マッチした文字列を使ってパターンを作りたいという場合の事だと思います。単にgroupにマッチする文字列を抽出するだけならば可能です。  
 また、どういうシンタックスが使えるかは確認しておくと良いと思います。
-### 1.FullMatch:文全体にマッチするかを判定(boost::regex\_match)
+### 1.FullMatch:文全体にマッチするかを判定(boost::regex_match)
 FullMatchという関数で、あるパターンが一文全体にマッチするかを判定します。  
 マッチすればtrueを返し、groupを作っていれば引数として用意したstringやintにそのグループに該当する値を返します。
 
-    string s,t; string str("あぶらかたぶら"); re2::StringPiece input(str); re2::RE2 re("(.ら).(.ぶ)");if(re2::RE2::FullMatch(input, re , &s, &t)) cout \<\< "s:"\<\< s \<\< " t:"\<\< t \<\< endl;elsecout \<\< "Not match." \<\< endl;if(re2::RE2::FullMatch(input, ".(.ら).(.ぶ)." , &s, &t)) cout \<\< "s:"\<\< s \<\< " t:"\<\< t \<\< endl;elsecout \<\< "Not match." \<\< endl;
+```cpp
+string s,t;
+string str("あぶらかたぶら");
+re2::StringPiece input(str);
+re2::RE2 re("(.ら).(.ぶ)");
+if(re2::RE2::FullMatch(input, re , &s, &t))
+  cout << "s:"<< s << " t:"<< t << endl;
+else
+  cout << "Not match." << endl;
+
+if(re2::RE2::FullMatch(input, ".(.ら).(.ぶ)." , &s, &t))
+  cout << "s:"<< s << " t:"<< t << endl;
+else
+  cout << "Not match." << endl;
+```
 
 出力結果は以下のようになります。
 
     Not match. s:ぶら t:たぶ
 
-### 2.PartialMatch:文の一部分にマッチするかを判定(boost::regex\_search)
+### 2.PartialMatch:文の一部分にマッチするかを判定(boost::regex_search)
 先ほどは、一つの文字列全体を考慮したパターンを考えましたが、今回は部分文字列で一致すればOKという関数です。
 
-     string s,t; string str("あぶらかたぶら"); re2::StringPiece input(str); re2::RE2 re("(.ら).(.ぶ)"); if(re2::RE2::PartialMatch(input, re , &s, &t)) cout \<\< "s:"\<\< s \<\< " t:"\<\< t \<\< endl;
+```cpp
+string s,t;
+string str("あぶらかたぶら");
+re2::StringPiece input(str);
+re2::RE2 re("(.ら).(.ぶ)");
+if(re2::RE2::PartialMatch(input, re , &s, &t))
+  cout << "s:"<< s << " t:"<< t << endl;
+```
 
 出力結果は以下のようになります。
 
@@ -83,26 +105,57 @@ FullMatchという関数で、あるパターンが一文全体にマッチす�
 
 このやり方は[@unnonouno](http://twitter.com/unnonouno)さんに教えていただいた方法です。[@unnnonounoさんの記事](http://unnonouno.blogspot.com/2011/11/re2xxxn.html)も参考にしてください。(教えていただきありがとうございます！)
 
-     string str("abcadca"); re2::RE2 re("((a.)(..))"); re2::StringPiece input(str); int groupSize = re.NumberOfCapturingGroups(); vector\<re2::RE2::Arg\> argv(groupSize); vector\<re2::RE2::Arg\*\> args(groupSize); vector\<re2::StringPiece\> ws(groupSize); for (int i = 0; i \< groupSize; ++i) { args[i] = &argv[i]; argv[i] = &ws[i]; } re2::RE2::PartialMatchN(input, re, &(args[0]), groupSize); cout \<\< groupSize \<\< endl; string s; for (int i = 0; i \< groupSize; ++i){ cout \<\< ws[i] \<\< endl;
+```cpp
+string str("abcadca");
+re2::RE2 re("((a.)(..))");
+re2::StringPiece input(str);
+int groupSize = re.NumberOfCapturingGroups();
+vector<re2::RE2::Arg> argv(groupSize);
+vector<re2::RE2::Arg*> args(groupSize);
+vector<re2::StringPiece> ws(groupSize);
+
+for (int i = 0; i < groupSize; ++i) {
+  args[i] = &argv[i];
+  argv[i] = &ws[i];
+}
+re2::RE2::PartialMatchN(input, re, &(args[0]), groupSize);
+cout << groupSize << endl; string s;
+
+for (int i = 0; i < groupSize; ++i){
+  cout << ws[i] << endl;
+```
 
 出力結果
 
     3 abca ab ca
 
-### 4.FindAndConsume:部分マッチする文字列を繰り返し取得したい時に(boost::regex\_regex相当？)
+### 4.FindAndConsume:部分マッチする文字列を繰り返し取得したい時に(boost::regex_regex相当？)
 パターンにマッチしている文字列が何回出てくるか分からない場合に、この関数を利用するといいと思います。
 
-    string str("あぶらかたぶら"); RE2 re("(.ぶ)"); re2::StringPiece input(str); string r;while(re2::RE2::FindAndConsume(&input, re, &r) ){ cout \<\< r \<\< endl; }
+```cpp
+string str("あぶらかたぶら");
+RE2 re("(.ぶ)");
+re2::StringPiece input(str);
+string r;
+
+while(re2::RE2::FindAndConsume(&input, re, &r) ){
+  cout << r << endl;
+}
+```
 
 出力結果
 
     あぶ たぶ
 
-### 5.Replace:パターンにマッチする最初の文字列を一置換(boost::regex\_replace)
+### 5.Replace:パターンにマッチする最初の文字列を一置換(boost::regex_replace)
 パターンに一致した文字列のうち、最初に出てきた文字列のみを置換する場合、Replaceを使います。  
 全てのマッチする文字列を置換したい場合は、GlobalReplaceを使います。
 
-    string s = "PerlRubyPython"; re2::RE2::Replace(&s, "P", "D"); cout \<\< s \<\< endl;
+```cpp
+string s = "PerlRubyPython";
+re2::RE2::Replace(&s, "P", "D");
+cout << s << endl;
+```
 
 出力結果
 
@@ -113,7 +166,11 @@ Replaceの全ての文字列を置換する場合です。
 ただし、文字列"banana"に対するパターン"ana"のようにオーバーラップする場合は対応しません。  
 この場合は、一回のみマッチするようです。
 
-    string s = "PerlRubyPython"; re2::RE2::GlobalReplace(&s, "P", "D"); cout \<\< s \<\< endl;
+```cpp
+string s = "PerlRubyPython";
+re2::RE2::GlobalReplace(&s, "P", "D");
+cout << s << endl;
+```
 
 出力結果
 
@@ -123,7 +180,11 @@ Replaceの全ての文字列を置換する場合です。
 Replaceはどちらかというと、入力された文字列の一部を変える時が多いと思いますが、  
 Extractはマッチしたgroupを抽出して、新たに文字列を生成したい場合に使える関数です。
 
-    string s; RE2::Extract("foo@bar.com", "(.\*)@([^.]\*)", "In domain \"\\2\", user \"\\1\" is exist!", &s); cout \<\< s \<\< endl;
+```cpp
+string s;
+RE2::Extract("foo@bar.com", "(.*)@([^.]*)", "In domain \"\\2\", user \"\\1\" is exist!", &s);
+cout << s << endl;
+```
 
 出力結果
 
@@ -134,15 +195,129 @@ Extractはマッチしたgroupを抽出して、新たに文字列を生成し�
 
 コンパイルはこんな感じ。
 
-    g++ -Wall re2testbasic.cpp -o re2all.out -lre2 -lpthread
+```sh
+g++ -Wall re2testbasic.cpp -o re2all.out -lre2 -lpthread
+```
 
 ソースは以下。
 
-    #include \<iostream\> #include \<string\> #include \<re2/re2.h\> #include \<vector\>using namespace std;void test\_fullmatch(){ string s,t; string str("あぶらかたぶら"); re2::StringPiece input(str); re2::RE2 re("(.ら).(.ぶ)"); if(re2::RE2::FullMatch(input, re , &s, &t)) cout \<\< "s:"\<\< s \<\< " t:"\<\< t \<\< endl; else cout \<\< "Not match." \<\< endl; if(re2::RE2::FullMatch(input, ".(.ら).(.ぶ)." , &s, &t)) cout \<\< "s:"\<\< s \<\< " t:"\<\< t \<\< endl; else cout \<\< "Not match." \<\< endl; }void test\_partialmatch(){ string s,t; string str("あぶらかたぶら"); re2::StringPiece input(str); re2::RE2 re("(.ら).(.ぶ)"); if(re2::RE2::PartialMatch(input, re , &s, &t)) cout \<\< "s:"\<\< s \<\< " t:"\<\< t \<\< endl; }void test\_partialmatchn(){ string str("abcadca"); re2::RE2 re("((a.)(..))"); re2::StringPiece input(str); int groupSize = re.NumberOfCapturingGroups(); vector\<re2::RE2::Arg\> argv(groupSize); vector\<re2::RE2::Arg\*\> args(groupSize); vector\<re2::StringPiece\> ws(groupSize); for (int i = 0; i \< groupSize; ++i) { args[i] = &argv[i]; argv[i] = &ws[i]; } re2::RE2::PartialMatchN(input, re, &(args[0]), groupSize); cout \<\< groupSize \<\< endl; string s; for (int i = 0; i \< groupSize; ++i){ cout \<\< ws[i] \<\< endl; } }void test\_findandconsume(){ string str("あぶらかたぶら"); RE2 re("(.ぶ)"); re2::StringPiece input(str); string r; while(re2::RE2::FindAndConsume(&input, re, &r) ){ cout \<\< r \<\< endl; } }void test\_replace(){ string s = "PerlRubyPython"; re2::RE2::Replace(&s, "P", "D"); cout \<\< s \<\< endl; }void test\_globalreplace(){ string s = "PerlRubyPython"; re2::RE2::GlobalReplace(&s, "P", "D"); cout \<\< s \<\< endl; }void test\_extract(){ string s; RE2::Extract("foo@bar.com", "(.\*)@([^.]\*)", "In domain \"\\2\", user \"\\1\" is exist!", &s); cout \<\< s \<\< endl; }int main(int argc, char \*\*argv){ cout \<\< "test FullMatch" \<\< endl; test\_fullmatch(); cout \<\< "test PartialMatch" \<\< endl; test\_partialmatch(); cout \<\< "test PartialMatchN" \<\< endl; test\_partialmatchn(); cout \<\< "test FindAndConsume" \<\< endl; test\_findandconsume(); cout \<\< "test Replace" \<\< endl; test\_replace(); cout \<\< "test GlobalReplace" \<\< endl; test\_globalreplace(); cout \<\< "test Extract" \<\< endl; test\_extract(); return 0; }
+```cpp
+#include <iostream>
+#include <string> 
+#include <re2/re2.h> 
+#include <vector>
+
+using namespace std;
+
+void test_fullmatch(){
+  string s,t;
+  string str("あぶらかたぶら");
+  re2::StringPiece input(str);
+  re2::RE2 re("(.ら).(.ぶ)");
+  if(re2::RE2::FullMatch(input, re , &s, &t))
+    cout << "s:"<< s << " t:"<< t << endl;
+  else
+    cout << "Not match." << endl;
+  if(re2::RE2::FullMatch(input, ".(.ら).(.ぶ)." , &s, &t))
+    cout << "s:"<< s << " t:"<< t << endl;
+  else cout << "Not match." << endl;
+}
+
+void test_partialmatch(){
+  string s,t;
+  string str("あぶらかたぶら");
+  re2::StringPiece input(str);
+  re2::RE2 re("(.ら).(.ぶ)");
+
+  if(re2::RE2::PartialMatch(input, re , &s, &t))
+    cout << "s:"<< s << " t:"<< t << endl;
+}
+
+void test_partialmatchn(){
+  string str("abcadca");
+  re2::RE2 re("((a.)(..))");
+  re2::StringPiece input(str);
+  int groupSize = re.NumberOfCapturingGroups();
+  vector<re2::RE2::Arg> argv(groupSize);
+  vector<re2::RE2::Arg\*> args(groupSize);
+  vector<re2::StringPiece> ws(groupSize);
+
+  for (int i = 0; i < groupSize; ++i) {
+    args[i] = &argv[i];
+    argv[i] = &ws[i];
+  }
+  re2::RE2::PartialMatchN(input, re, &(args[0]), groupSize);
+  cout << groupSize << endl;
+
+  string s;
+  for (int i = 0; i < groupSize; ++i){
+    cout << ws[i] << endl;
+  }
+}
+
+void test_findandconsume(){
+  string str("あぶらかたぶら");
+  RE2 re("(.ぶ)");
+  re2::StringPiece input(str);
+  string r;
+  while(re2::RE2::FindAndConsume(&input, re, &r) ){
+    cout << r << endl;
+  }
+}
+
+void test_replace(){
+  string s = "PerlRubyPython";
+  re2::RE2::Replace(&s, "P", "D");
+  cout << s << endl;
+}
+
+void test_globalreplace(){
+  string s = "PerlRubyPython";
+  re2::RE2::GlobalReplace(&s, "P", "D");
+  cout << s << endl;
+}
+
+void test_extract(){ 
+  string s;
+  RE2::Extract("foo@bar.com", "(.\*)@([^.]\*)", "In domain \"\\2\", user \"\\1\" is exist!", &s);
+  cout << s << endl;
+}
+int main(int argc, char \*\*argv){
+  cout << "test FullMatch" << endl;
+  test_fullmatch();
+  cout << "test PartialMatch" << endl;
+  test_partialmatch();
+  cout << "test PartialMatchN" << endl;
+  test_partialmatchn();
+  cout << "test FindAndConsume" << endl;
+  test_findandconsume();
+  cout << "test Replace" << endl;
+  test_replace();
+  cout << "test GlobalReplace" << endl;
+  test_globalreplace();
+  cout << "test Extract" << endl;
+  test_extract();
+  return 0;
+}
+```
 
 出力結果
 
-    test FullMatch Not match. s:ぶら t:たぶ test PartialMatch s:ぶら t:たぶ test PartialMatchN 3 abca ab ca test FindAndConsume あぶ たぶ test Replace DerlRubyPython test GlobalReplace DerlRubyDython test Extract
+```text
+test FullMatch
+Not match.
+s:ぶら t:たぶ
+test PartialMatch
+s:ぶら t:たぶ
+test PartialMatchN
+3 abca ab ca
+test FindAndConsume
+あぶ たぶ
+test Replace
+DerlRubyPython
+test GlobalReplace DerlRubyDython
+test Extract
+```
 
 ### おわりに
 駆け足で説明したので、分かりにくい点や間違いがあるかと思います。  
