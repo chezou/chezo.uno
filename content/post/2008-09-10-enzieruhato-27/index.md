@@ -15,7 +15,7 @@ keywords: ['27', 新潮社, キャラクター, comics, 描写, 行動, やば�
 recommendations: [/post/2008-09-06-feng-gaqiang-kuchui-iteiru/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
   /post/2008-06-03-gao-wu-nai-yue/]
 ---
-![](https://ecx.images-amazon.com/images/I/51zZTyM4gmL._SL160_.jpg)[エンジェル・ハート 27 (27) (BUNCH COMICS)](http://item.excite.co.jp/detail/ASIN_4107714209)  
+{{< amazon asin="4107714209" title="エンジェル・ハート 27 (27) (BUNCH COMICS)" >}}
 北条 司 / / 新潮社  
 ISBN : 4107714209  
 スコア選択: ※※※※※  

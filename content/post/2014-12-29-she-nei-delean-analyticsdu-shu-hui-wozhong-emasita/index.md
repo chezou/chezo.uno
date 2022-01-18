@@ -15,7 +15,7 @@ keywords: [指標, that, book, 行動, 翻訳, 意味, 一時期, matters, harup
 recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/,
   /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/]
 ---
-![](/img/2014/12/29/014733/20141226161201.jpg)
+![](20141226161201.jpg)
 
 # 社内でLean Analytics読書会をやった
 
@@ -64,5 +64,3 @@ recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2014-08-29
 [^2]: 本文中では一時期2ページに1回くらい、意味のない指標だと否定されている
 
 [^3]: 一時期harupong砲がgmailの通知を爆発させていた
-
-

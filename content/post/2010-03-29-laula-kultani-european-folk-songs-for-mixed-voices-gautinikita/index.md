@@ -40,7 +40,7 @@ Webをみたら、演奏団体が曲ごとに書いてあるところが見あ�
 > 12    IE    Irish Traditional     The Star of the County Down, folk song     Madrigal 75  
 > 13    IS    Jón Asgeirsson     Vísur Vatnsenda-Rósu, song for chorus     The Hamrahlíð Choir  
 > 14    NO    Norwegian Traditional     Poul sine høns i haven lod flyve (Paul and His Hens), folk song     Bergen Domkantori  
-> 15    DK    Danish Traditional     Jeg gik mig ud en sommerdag (I went out on a summer&#39;s day), folk song     Tritonus  
+> 15    DK    Danish Traditional     Jeg gik mig ud en sommerdag (I went out on a summer's day), folk song     Tritonus  
 > 16    SE    David Wikander     Kristallen den fina (The Fine Crystal), song     Örebro Chamber choir Sweden  
 > 17    UA    Mykola Dmytrovich Leontovych     Ščedryk, song for chorus     National Music Academy Kiev  
 > 18    PL    Jozef Swider     Góralu czy ci nie zal, song for chorus     Absolwent aus Cieszyn  
@@ -48,8 +48,8 @@ Webをみたら、演奏団体が曲ごとに書いてあるところが見あ�
 > 20    SK    Czech Traditional     Janicko, zltovlas (Golden-Haired Johnny), folk song     OZVENA Vranov n.T.  
 > 21    SI    Oskar Dev     Ribce po murjici pvavajo, song for chorus in G major     Slovenia Chamber Choir AVE  
 > 22    HR    Croatian Traditional     Vehni, vehni fijolica, folk song     Academic Choir Ivan Goran Kovačić  
-> 23    CS    Croatian Traditional     S&#39;one strane Dunava, folk song     Trinity Church Choir Zemun, Beograd  
-> 24    BG    Fillip Koutev     Polegnala e Toudora (Todora&#39;s Dream)     St. St. Cyril and Methodius&#39; Chamber Choir  
+> 23    CS    Croatian Traditional     S'one strane Dunava, folk song     Trinity Church Choir Zemun, Beograd  
+> 24    BG    Fillip Koutev     Polegnala e Toudora (Todora's Dream)     St. St. Cyril and Methodius' Chamber Choir  
 > 25    MK    Macedonian Traditional     Ajde, slusaj, Angjo, folk song     Slovenia Chamber Choir Megaron  
 > 26    IT-Germ    Paolo Bon     Lu guarracino, song for chorus     Coro Vox Cordis, Arezzo  
 > 27    CH-Ital    Hansreudi Willisegger     Scià, scià Peppina, song for chorus     Scheweizer Jugendchor  

@@ -15,7 +15,7 @@ keywords: [角川, コミックス, エース, '80', オリジナル, '16', isbn
 recommendations: [/post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/,
   /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/, /post/2008-07-06-nodamekantabire18-20/]
 ---
-![](https://ecx.images-amazon.com/images/I/51H3jiLrJ1L._SL160_.jpg)[機動戦士ガンダムTHE ORIGIN 16 オデッサ編・後 (16) (角川コミックス・エース 80-19)](http://item.excite.co.jp/detail/ASIN_4047139874)  
+{{< amazon asin="4047139874" title="機動戦士ガンダムTHE ORIGIN 16 オデッサ編・後 (16) (角川コミックス・エース 80-19)" >}}
 安彦 良和 / / 角川書店  
 ISBN : 4047139874  
 スコア選択: ※※※※  
@@ -24,7 +24,7 @@ ISBN : 4047139874
   
 オリジナルのTV版では、もう少しねちっこい奴だったと思うが。エノラゲイについての話を引き合いに出した、核爆弾を投げに来た兵士の話には少し残念な気分になった。そこまでピンポイントにする必要はないんではないの？後々の話では核は非常に重要な存在とされているのに、今回は少し軽々しい感じがしました。  
   
- ![](https://ecx.images-amazon.com/images/I/51sF3Gn2YkL._SL160_.jpg)[機動戦士ガンダム THE ORIGIN (17) ララァ編・前 (角川コミックス・エース 80-20)](http://item.excite.co.jp/detail/ASIN_4047150754)  
+ {{< amazon asin="4047150754" title="機動戦士ガンダム THE ORIGIN (17) ララァ編・前 (角川コミックス・エース 80-20)" >}}
 安彦 良和 / / 角川グループパブリッシング  
 ISBN : 4047150754  
 スコア選択: ※※※※  

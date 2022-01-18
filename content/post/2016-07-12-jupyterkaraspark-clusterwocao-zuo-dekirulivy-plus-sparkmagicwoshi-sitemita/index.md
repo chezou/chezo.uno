@@ -123,7 +123,7 @@ notebookの例はこちら
 
 gistには出てませんが、こんな感じでSparkに対してSQLで処理した結果を簡単にvisualiseできます。sparkmagicすごい！
 
-![](/img/2016/07/12/115000/20160712155306.png)
+![](20160712155306.png)
 
 `%%local`でlocalのcontextに行ったりするのがまだなれないですが、magic commandの `%%sql`で実行した結果をDataFrameで受け取れたりと、いろいろ便利そうです。
 
@@ -133,4 +133,3 @@ gistには出てませんが、こんな感じでSparkに対してSQLで処理�
 - [cloudera/livy: Livy is an open source REST interface for interacting with Apache Spark from anywhere](https://github.com/cloudera/livy)
 - [jupyter-incubator/sparkmagic: Jupyter magics and kernels for working with remote Spark clusters](https://github.com/jupyter-incubator/sparkmagic)
 - [How to use the Livy Spark REST Job Server API for doing some interactive Spark with curl | Hue - Hadoop User Experience - The Apache Hadoop UI](http://gethue.com/how-to-use-the-livy-spark-rest-job-server-for-interactive-spark-2-2/)
-

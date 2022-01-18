@@ -17,7 +17,7 @@ recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/
 ---
 B'zのUltra treasureの選曲がやばすぎです。  
   
- ![](https://ecx.images-amazon.com/images/I/41AH1c60CpL._SL160_.jpg)[ULTRA Treasure(DVD付)](http://item.excite.co.jp/detail/ASIN_B001CRGVAS)  
+ {{< amazon asin="B001CRGVAS" title="ULTRA Treasure(DVD付)" >}}
 B’z / / VERMILLION RECORDS(J)(M)  
 ISBN : B001CRGVAS  
 スコア選択: ※※※※※  

@@ -15,7 +15,7 @@ keywords: [電車, '2006', ミュージック, ジャパン, best, 注意, cd, �
 recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2006-07-28-xia-nanode/,
   /post/2008-09-08-luck-stealer-2/]
 ---
-![](https://ecx.images-amazon.com/images/I/41dAkG37TML._SL160_.jpg)[Ono Lisa best 2002-2006](http://item.excite.co.jp/detail/ASIN_B0015YEKBU)  
+{{< amazon asin="B0015YEKBU" title="Ono Lisa best 2002-2006" >}}
 小野リサ / / EMIミュージック・ジャパン  
 スコア選択: ★★★★  
   

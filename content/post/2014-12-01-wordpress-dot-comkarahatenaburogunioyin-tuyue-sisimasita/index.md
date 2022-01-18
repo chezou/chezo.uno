@@ -21,7 +21,7 @@ Tokyuのあれとか書こうと思っていたのですが、irubyの良さに�
 
 基本的に参考にしたのはこのサイトです。
 
-- [Wordpressからはてなブログへ移行 - Deutschina&#39;s Tech Diary](http://deutschina.hatenablog.com/entry/2013/07/06/180717)
+- [Wordpressからはてなブログへ移行 - Deutschina's Tech Diary](http://deutschina.hatenablog.com/entry/2013/07/06/180717)
 
 まさか、syntax highlightを移行するためにはてなダイアリーを経由しないといけないとか、はてなダイアリーの作成場所が巧妙に小さく分かりにくくされていたりとか、はてダ作ると緑スターもらえたりとか辛かったです。
 

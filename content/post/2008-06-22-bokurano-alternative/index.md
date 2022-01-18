@@ -15,7 +15,7 @@ keywords: [作品, 漫画版, 最終回, 文庫, 取り扱い, alternative, 対�
 recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-08-24-sayonaraituka/,
   /post/2008-07-30-narutaru/]
 ---
-![](https://ecx.images-amazon.com/images/I/31pUbmOfFVL._SL160_.jpg)[ぼくらの ~alternative~ 5 (ガガガ文庫 お 1-5)](http://item.excite.co.jp/detail/ASIN_4094510753)  
+{{< amazon asin="4094510753" title="ぼくらの ~alternative~ 5 (ガガガ文庫 お 1-5)" >}}
 大樹 連司 / / 小学館  
 ISBN : 4094510753  
 スコア選択: ※※※※※  

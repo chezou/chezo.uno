@@ -47,7 +47,7 @@ recommendations: [/post/2008-07-05-rajaton/, /post/2009-03-09-masafestanirajaton
 
 ○ASTERISK  
 ・Poison Tree ( **Rajaton** )  
-・The Wishing tree (The King&#39;s Singers)  
+・The Wishing tree (The King's Singers)  
 ・Butterfly ( **Rajaton** )
 
 ○むらさきのうえ♪  

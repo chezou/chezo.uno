@@ -35,7 +35,7 @@ J RiceのDroid versionはこちら。
 歌詞もYouTubeで見れるのですが、相変わらずのApple信者とそれをDisるDroidファンという構図になっています。
 
 > It just works  
-> it doesn&#39;t matter what the specs are  
+> it doesn't matter what the specs are  
 > iphone 5  
 > might even trade my wife for
 > 
@@ -55,7 +55,7 @@ J RiceのDroid versionはこちら。
 > no navigation  
 > no public transportation  
 > no steve to fix it  
-> you&#39;ll never find youre way back home
+> you'll never find youre way back home
 > 
 > (ナビもない、交通機関もない、直すSteveもいない。家に帰ることだってできやしない)
 

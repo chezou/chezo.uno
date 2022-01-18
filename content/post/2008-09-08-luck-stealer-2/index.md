@@ -15,7 +15,7 @@ keywords: [迫力, 膳立て, 猟奇的, 集英社, 教師, 感じ, はず, 展�
 recommendations: [/post/2008-06-15-gui-cai-xian-ru/, /post/2008-09-10-enzieruhato-27/,
   /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/]
 ---
-![](https://md.exblog.jp/img/eg/thumb-no-image.gif)[Luck Stealer 2 (2) (ジャンプコミックス)](http://item.excite.co.jp/detail/ASIN_408874571X)  
+{{< amazon asin="408874571X" title="Luck Stealer 2 (2) (ジャンプコミックス)" >}}
 かず はじめ / / 集英社  
 スコア選択: ★★★  
   

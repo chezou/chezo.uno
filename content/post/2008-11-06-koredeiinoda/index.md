@@ -15,7 +15,7 @@ keywords: [昭和, 戦時, 戦後, 春秋, 文藝, 文春文庫, 子どもたち
 recommendations: [/post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
   /post/2008-08-26-akihabara-at-deep/]
 ---
-![](https://ecx.images-amazon.com/images/I/51I31EYUk6L._SL160_.jpg)[これでいいのだ―赤塚不二夫自叙伝 (文春文庫 あ 50-1)](http://item.excite.co.jp/detail/ASIN_4167753278)  
+{{< amazon asin="4167753278" title="これでいいのだ―赤塚不二夫自叙伝 (文春文庫 あ 50-1)" >}}
 赤塚 不二夫 / / 文藝春秋  
 ISBN : 4167753278  
 スコア選択: ※※※※  

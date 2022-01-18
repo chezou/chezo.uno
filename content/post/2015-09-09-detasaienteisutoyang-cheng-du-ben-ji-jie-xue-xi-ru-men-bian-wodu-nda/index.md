@@ -16,7 +16,7 @@ recommendations: [/post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learn
   /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/,
   /post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/]
 ---
-![](/img/2015/09/09/221409/20150906164556.jpg)
+![](20150906164556.jpg)
 
 明日発売の「データサイエンティスト養成読本 機械学習入門編」を著者の一人の福島さん([@sfchaos](https://twitter.com/sfchos))にいただきました。 きっかけは、福島さんが「機械学習ソフトウェアの外観」という特集でJuliaの紹介をしていただいたからでした。
 
@@ -71,5 +71,3 @@ recommendations: [/post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learn
 この本の内容自体は、僕自身は知っていることも多かったのですが、普段あまりscikit-learnを使わずにRや素のlibsvmなど他のフレームワークで機械学習をしている人にとっても、「今どきの機械学習のフレームワークが交差検定やグリッドサーチなど何を標準で提供しているのか」、そして「今どれを選ぶのが良いのか」、ということを見つめなおす材料としてとても良くまとまっていると思います。
 
 また、いきなり流行りに乗ろうとして「[深層学習 (機械学習プロフェッショナルシリーズ)](http://d.hatena.ne.jp/asin/4061529021/chezou-22)」や「[オンライン機械学習 (機械学習プロフェッショナルシリーズ)](http://d.hatena.ne.jp/asin/406152903X/chezou-22)」を買ってしまって積んでしまった人にはこちらの本で入門するのが良いと思います。 初級者から中級者に向けて書かれた良書だと思います。本書が機械学習入門の羅針盤となることでしょう。
-
-

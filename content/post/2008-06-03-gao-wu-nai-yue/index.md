@@ -18,7 +18,7 @@ recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-09-10-en
 胃が凄い荒れ狂っているのがわかります。  
 紹興酒まずかったorz
 
-![](https://ecx.images-amazon.com/images/I/51aDg7uTQVL._SL160_.jpg)[星は歌う 1 (1) (花とゆめCOMICS)](http://item.excite.co.jp/detail/ASIN_459218601X)  
+{{< amazon asin="459218601X" title="星は歌う 1 (1) (花とゆめCOMICS)" >}}
 高屋 奈月 / / 白泉社  
 ISBN : 459218601X  
 スコア選択: ※※※

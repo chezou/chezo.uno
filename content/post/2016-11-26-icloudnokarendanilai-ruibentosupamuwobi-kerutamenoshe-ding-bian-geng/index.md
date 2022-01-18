@@ -19,22 +19,22 @@ recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-
 
 # 1. PCのブラウザでiCloud.com へ行きカレンダーを開く
 
-![](/img/prevent-icloud-calendar-spam/20161126130933.png)
+![](20161126130933.png)
 
 # 2. 左下の歯車から環境設定を開く
 
-![](/img/prevent-icloud-calendar-spam/20161126130701.png)
+![](20161126130701.png)
 
 # 3. 「詳細設定」の「イベント参加依頼の受信方法」の設定を「xxxx@yyyy.comへメールを送信」にする
 
-![](/img/prevent-icloud-calendar-spam/20161126130707.png)
+![](20161126130707.png)
 
 この設定にすると、設定したメールアドレスに通知が来るのでメールを削除するだけになる。
 
 # 補足
 
 追加された予定を通知しないように削除するには、icloudに新規カレンダーを追加してそちらに移動してから、カレンダーごと削除すると招待した輩に通知をすることなく消せる
-![](/img/prevent-icloud-calendar-spam/20161126131353.png)
+![](20161126131353.png)
 
 ## 参考サイト
 

@@ -15,7 +15,7 @@ keywords: [印象, 理解, 箇所, 角川書店, 伏線, 描写, 友人, 人間,
 recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/,
   /post/2008-09-06-feng-gaqiang-kuchui-iteiru/]
 ---
-![](https://md.exblog.jp/img/eg/thumb-no-image.gif)[三毛猫ホームズの恐怖館 (角川文庫)](http://item.excite.co.jp/detail/ASIN_4041497876)  
+{{< amazon asin="4041497876" title="三毛猫ホームズの恐怖館 (角川文庫)" >}}
 赤川 次郎 / / 角川書店  
 ISBN : 4041497876  
 スコア選択: ※※  
@@ -27,5 +27,5 @@ ISBN : 4041497876
   
 同じ次郎なら、浅田次郎の方が向いてるんだろうなぁ
 
-Tags:[本](http://mrk0369.exblog.jp/tags/%E6%9C%AC/) 
+
 

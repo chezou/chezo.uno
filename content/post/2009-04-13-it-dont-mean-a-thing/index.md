@@ -1,5 +1,5 @@
 ---
-title: It don&#39;t mean a thing.
+title: It don't mean a thing.
 subtitle: ''
 summary: ''
 authors: [aki]

@@ -15,7 +15,7 @@ keywords: [一言, 感激, 小さく, 主人公, 講談社, 深い, 納得, 文�
 recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
   /post/2008-07-06-nodamekantabire18-20/]
 ---
-![](https://ecx.images-amazon.com/images/I/411BYQ5N4CL._SL160_.jpg)[ちいさなちいさな王様](http://item.excite.co.jp/detail/ASIN_4062083736)  
+{{< amazon asin="4062083736" title="ちいさなちいさな王様" >}}
 アクセル ハッケ / / 講談社  
 ISBN : 4062083736  
 スコア選択: ※※※※  

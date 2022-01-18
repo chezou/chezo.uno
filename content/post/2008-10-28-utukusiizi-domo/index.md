@@ -15,7 +15,7 @@ keywords: [石田衣良, 主人公, 悪く, コメント, 印象, 題材, 閑話
 recommendations: [/post/2008-08-26-akihabara-at-deep/, /post/2008-11-06-koredeiinoda/,
   /post/2008-06-15-gui-cai-xian-ru/]
 ---
-石田衣良の「うつくしい子ども」です。 ![](https://ecx.images-amazon.com/images/I/51E361PZKAL._SL160_.jpg)[うつくしい子ども (文春文庫)](http://item.excite.co.jp/detail/ASIN_4167174057)  
+石田衣良の「うつくしい子ども」です。 {{< amazon asin="4167174057" title="うつくしい子ども (文春文庫)" >}}
 石田 衣良 / / 文藝春秋  
 スコア選択: ★★★★  
   

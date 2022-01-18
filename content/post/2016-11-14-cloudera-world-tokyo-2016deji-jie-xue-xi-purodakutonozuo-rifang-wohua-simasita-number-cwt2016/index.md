@@ -17,7 +17,7 @@ recommendations: [/post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nom
 ---
 さる11/8に、自社の主催する[Cloudera World Tokyo 2016](http://www.clouderaworldtokyo.com/)で、機械学習プロダクトの作り方について話をしました。
 
-![](/img/2016/11/14/230521/20161108182005.jpg)
+![](20161108182005.jpg)
 図: Hadoopの生みの親 Doug ([@cutting](https://twitter.com/cutting))と握力王新沼さん ([@hiroki_niinuma](https://twitter.com/hiroki_niinuma)) の対談イベントの様子
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/B8ylsXGU1Awlts" width="427" height="356" frameborder="0" marginwidth="0"; marginheight="0" scrolling="n" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>

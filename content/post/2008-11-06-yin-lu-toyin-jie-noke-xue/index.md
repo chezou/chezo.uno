@@ -15,7 +15,7 @@ keywords: [音楽, 面白い, 違和感, 曲線, 専門家, ターゲット, 仕
 recommendations: [/post/2008-06-25-xin-meng-eruhetudohondu-ben/, /post/2009-04-13-it-dont-mean-a-thing/,
   /post/2008-07-09-press-startdang-xuan-simasita/]
 ---
-![](https://ecx.images-amazon.com/images/I/512kZfo6lZL._SL160_.jpg)[音律と音階の科学―ドレミ…はどのようにして生まれたか (ブルーバックス 1567)](http://item.excite.co.jp/detail/ASIN_4062575671)  
+{{< amazon asin="4062575671" title="音律と音階の科学―ドレミ…はどのようにして生まれたか (ブルーバックス 1567)" >}}
 小方 厚 / / 講談社  
 ISBN : 4062575671  
 スコア選択: ※※※※※  

@@ -77,7 +77,7 @@ Dokcer上でnbviewerを動かすには、用意されているdocker imageを使
 
 基本的にgistやgithubのレポジトリに置いたipynbを表示するのに使うので、予めgithubでapi tokenを取得しておきましょう。
 
-    docker pull jupyter/nbviewer docker run -p 8080:8080 jupyter/nbviewer -e &#39;GITHUB\_API\_TOKEN=YOUR\_API\_TOKEN&#39;
+    docker pull jupyter/nbviewer docker run -p 8080:8080 jupyter/nbviewer -e 'GITHUB\_API\_TOKEN=YOUR\_API\_TOKEN'
 
 # nbviewerを起動する
 
@@ -85,13 +85,13 @@ Dokcer上でnbviewerを動かすには、用意されているdocker imageを使
 
 これで、あなたのブラウザにdocker上のnbviewerが見れるはずです！
 
-![](/img/2015/01/11/031931/20150111031411.png)
+![](20150111031411.png)
 
 以下のURLを入れて試してみました。
 
 [https://github.com/chezou/iruby-example/blob/master/nyaplot-example.ipynb](https://github.com/chezou/iruby-example/blob/master/nyaplot-example.ipynb)
 
-![](/img/2015/01/11/031931/20150111031415.png)
+![](20150111031415.png)
 
 Nyaplot 3Dのグラフはマウスでグリグリ動かせるので楽しいですね。
 
@@ -111,12 +111,10 @@ nbviewerで見る場合は[こちら](https://nbviewer.ipython.org/gist/chezou/3
 
 こんな感じでipython notebookが無事見れるようになりました。
 
-![](/img/2015/01/11/031931/20150111031419.png)
+![](20150111031419.png)
 
 # 雑感
 
 今回、GHEでの検証まではしていませんが、概ねGHE上のgistやレポジトリのipython notebookを描画することはできそうな目処が経ちました。
 
 しかし、MikonとNyaplotを使ったグラフ描画は別途サーバサイドで用意する必要がありそうです。 Nyaplot自体は依存関係は薄いのですが、Mikonを使おうと思うとするとNMatrixのビルドが大変だったりするのでdocker上のiruby notebookを立ちあげなければなりません。 この状況だと、手元にあるcsvなどを食わせようとした時は、dockerで立ち上げたipythonサーバにデータを移して食わせる必要があるなど、社内で普及を促すのにハードルが高い印象を受けました。
-
-

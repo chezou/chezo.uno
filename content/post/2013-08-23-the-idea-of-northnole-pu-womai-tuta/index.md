@@ -19,7 +19,7 @@ recommendations: [/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sula
 混声4人のアカペラグループで、オリジナルやアレンジなどいい曲を書いています。  
 何より、SATB4人だと集めやすい。
 
-こんな感じの曲を歌います。これはIsn&#39;t She lovely?のアカペラアレンジ。  
+こんな感じの曲を歌います。これはIsn't She lovely?のアカペラアレンジ。  
 {{< youtube onHTTy0Gp9k >}}
 
 少し手間はかかりますが、[オフィシャル](http://www.idea.com.au/our_music/scores)からクレジットカード(Paypal)を使いネットで決済ができてPDFで送ってもらえるので、Rajatonの時に比べるとだいぶ楽です。
@@ -34,7 +34,7 @@ scores@idea.com.auにメールします。
 
 > Hi,
 > 
-> I&#39;d like to purchase following scores in PDF format.
+> I'd like to purchase following scores in PDF format.
 > 
 > - 楽譜A
 > - 楽譜B

@@ -23,13 +23,21 @@ recommendations: [/post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimas
 
 ベンチマーク結果を見ると、gcを切ったらRにはなんとかかっています。
 
-![](/img/2014/12/06/181820/20141206160009.png)
+![](20141206160009.png)
 
 当日の[デモ内容のnotebook](https://nbviewer.ipython.org/gist/chezou/a68cfa3d9abc0e7f669d)はこれです。 ベンチマークに使用したコードはこちら[https://gist.github.com/chezou/1f947423c6655c266e0a](https://gist.github.com/chezou/1f947423c6655c266e0a)
 
 各言語のversionはこんな感じです。
 
-    $ ruby -v ruby 2.1.0p0 (2013-12-25 revision 44422) [x86\_64-darwin13.0] $ julia --version julia version 0.4.0-dev+1752 $ r --version R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet" Copyright (C) 2014 The R Foundation for Statistical Computing Platform: x86\_64-apple-darwin13.4.0 (64-bit) R is free software and comes with ABSOLUTELY NO WARRANTY. You are welcome to redistribute it under the terms of the GNU General Public License versions 2 or 3. For more information about these matters see http://www.gnu.org/licenses/.
+```sh
+$ ruby -v ruby
+2.1.0p0 (2013-12-25 revision 44422) [x86_64-darwin13.0]
+$ julia --version
+julia version 0.4.0-dev+1752
+$ r --version
+R version 3.1.2 (2014-10-31)
+-- "Pumpkin Helmet" Copyright (C) 2014 The R Foundation for Statistical Computing Platform: x86_64-apple-darwin13.4.0 (64-bit) R is free software and comes with ABSOLUTELY NO WARRANTY. You are welcome to redistribute it under the terms of the GNU General Public License versions 2 or 3. For more information about these matters see http://www.gnu.org/licenses/.
+```
 
 やる前はRに対して圧勝！とかならないかなぁとか思っていたのですが、そもそもMeCabをバインディングしてるだけじゃん、と気づいた時には甘かった。 敵は、Rではなかったのです。Cだったのです...。
 
@@ -61,5 +69,3 @@ Rubyに対して遅いのは、ちょっと検証してみます。
 `mecab_node_path_t`は使っていないので捨てています。
 
 Cの場合、headerに構造体を先に宣言すれば、お互いが依存する構造体を記述できますが、Juliaの場合はそれができないため`Ptr{Void}`で受けています。
-
-

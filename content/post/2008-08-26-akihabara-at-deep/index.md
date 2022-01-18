@@ -15,7 +15,7 @@ keywords: [秋葉原, 武器, 要素, 以前, 読後感, 素晴らし, 石田衣
 recommendations: [/post/2008-10-28-utukusiizi-domo/, /post/2008-11-06-koredeiinoda/,
   /post/2008-09-10-enzieruhato-27/]
 ---
-![](https://ecx.images-amazon.com/images/I/51TWV8568SL._SL160_.jpg)[アキハバラ@DEEP (文春文庫)](http://item.excite.co.jp/detail/ASIN_4167174111)  
+{{< amazon asin="4167174111" title="アキハバラ@DEEP (文春文庫)" >}}
 石田 衣良 / / 文藝春秋  
 ISBN : 4167174111  
 スコア選択: ※※※※※  

@@ -55,7 +55,7 @@ Rajatonの楽曲はおよそ[こちら](http://www.sulasol.fi/en/sheet/mixed/raj
 > Makaroff, Mia: Were You There (S1038)  
 > Makaroff, Mia: Mitä kaikatat kivonen (S1039)  
 > Makaroff, Mia: Armottoman osa (S1040)  
-> Makaroff, Mia: You can&#39;t stop me! (S1041)  
+> Makaroff, Mia: You can't stop me! (S1041)  
 > Makaroff, Mia: Lintu lauleli lehdossa (S1074)  
 > Makaroff, Mia: Kaikki maat te riemuitkaatte (S1189)  
 > Chydenius, Jussi - Wuorela, Essi: Kaipaava (S1217)  
@@ -67,7 +67,7 @@ Rajatonの楽曲はおよそ[こちら](http://www.sulasol.fi/en/sheet/mixed/raj
 
 およそというのは、購入できる楽譜の全リストと価格は[こちらにあるExcel](http://www.sulasol.fi/en/sheet/)には先ほどのRajatonのページに無い曲も一部あります(PakkanenとかはExcelにしかありませんでした)。
 
-なお、残念ながらDobbin&#39;s Flowery Valeは作曲者が「もう二度と出版したくない」と思っているらしく、絶版のようです。(Sulasolの担当者からメールで聞きました。)
+なお、残念ながらDobbin's Flowery Valeは作曲者が「もう二度と出版したくない」と思っているらしく、絶版のようです。(Sulasolの担当者からメールで聞きました。)
 
 ## 2. あかぺら村のCD屋さんから購入する
 国内でなかなか手に入らないアカペラのCDを販売してくださっている、[あかぺら村のCD屋さん](http://acappellacd.cart.fc2.com/)というサイトがあります。こちらは、[あかぺら村](http://acappellavillage.blog103.fc2.com/)という世界の様々なアカペラを紹介するサイトのキリックさんが販売をされています。多少手数料がかかってしまいますが、日本語で郵便振込で購入できるのが嬉しいところです。

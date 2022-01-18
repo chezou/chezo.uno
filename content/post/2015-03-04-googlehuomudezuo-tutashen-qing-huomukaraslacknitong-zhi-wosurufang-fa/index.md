@@ -39,23 +39,23 @@ Slackの[Incoming Webhook](https://my.slack.com/services/new/incoming-webhook)�
 
 フォームの`ツール -> スクリプト エディタ`を開く
 
-![](/img/2015/03/04/003131/20150304002603.png)
+![](20150304002603.png)
 
 通知するためのコードを書く。 以下の例では、public channel(`#public_notify`)にメールアドレス以外の情報を、private group(`private`)にすべての情報を通知しています。
 
 urlのところには先ほど取得した`Webhook URL`を設定します。
 
-    function sendToSlack(body, channel) { var url = "https://hooks.slack.com/services/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"; var data = { "channel" : channel, "username" : "invitation bot", "text" : body, "icon\_emoji" : ":gohst:" }; var payload = JSON.stringify(data); var options = { "method" : "POST", "contentType" : "application/json", "payload" : payload }; var response = UrlFetchApp.fetch(url, options); } function test() { sendToSlack("It&#39;s a test message", "#public\_notify") } function onFormSubmit(e){ var body = "公開版申請が来たよ\n"; var introducer = ""; var applicant = ""; var plusUrl = ""; var itemResponse = e.response.getItemResponses(); for (var j = 0; j \< itemResponse.length; j++){ var formData = itemResponse[j]; var title = formData.getItem().getTitle(); var response = formData.getResponse(); body += "【" + title + "】\n"; body += response + "\n\n"; switch (title) { case "紹介者名": introducer = response; break; case "名前": applicant = response; break; case "あなたのG+プロフィールページ": plusUrl = response; break; default: break; } } var bodyPublic = "@" + introducer + "さ〜ん\n" + applicant + "さんがお呼びよ！\n"; bodyPublic += "確認したら「" + applicant + "さん確認しました！」と発言してね\n【Google+】" + plusUrl; sendToSlack(bodyPublic, "#public\_notify"); sendToSlack(body, "private"); }
+    function sendToSlack(body, channel) { var url = "https://hooks.slack.com/services/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"; var data = { "channel" : channel, "username" : "invitation bot", "text" : body, "icon\_emoji" : ":gohst:" }; var payload = JSON.stringify(data); var options = { "method" : "POST", "contentType" : "application/json", "payload" : payload }; var response = UrlFetchApp.fetch(url, options); } function test() { sendToSlack("It's a test message", "#public\_notify") } function onFormSubmit(e){ var body = "公開版申請が来たよ\n"; var introducer = ""; var applicant = ""; var plusUrl = ""; var itemResponse = e.response.getItemResponses(); for (var j = 0; j \< itemResponse.length; j++){ var formData = itemResponse[j]; var title = formData.getItem().getTitle(); var response = formData.getResponse(); body += "【" + title + "】\n"; body += response + "\n\n"; switch (title) { case "紹介者名": introducer = response; break; case "名前": applicant = response; break; case "あなたのG+プロフィールページ": plusUrl = response; break; default: break; } } var bodyPublic = "@" + introducer + "さ〜ん\n" + applicant + "さんがお呼びよ！\n"; bodyPublic += "確認したら「" + applicant + "さん確認しました！」と発言してね\n【Google+】" + plusUrl; sendToSlack(bodyPublic, "#public\_notify"); sendToSlack(body, "private"); }
 
 Slackへの通知が動くかどうかは、`test()`を実行してみると良い。
 
 最後に、フォームが送信された時にこのスクリプトが動くように`onFormSubmit()`のトリガーを設定します。
 
-![](/img/2015/03/04/003131/20150304002636.png)
+![](20150304002636.png)
 
-![](/img/2015/03/04/003131/20150304002721.png)
+![](20150304002721.png)
 
-![](/img/2015/03/04/003131/20150304002736.png)
+![](20150304002736.png)
 
 このとき、スクリプトからドキュメントへのアクセス権限を求められるので承認します。(これがないと、設定できない)
 
@@ -63,7 +63,7 @@ Slackへの通知が動くかどうかは、`test()`を実行してみると良�
 
 うまくいけば、こういう通知がでることになります。
 
-![](/img/2015/03/04/003131/20150304002942.png)
+![](20150304002942.png)
 
 ## 参考URL
 

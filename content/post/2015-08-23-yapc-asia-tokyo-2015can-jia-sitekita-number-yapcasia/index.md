@@ -28,7 +28,7 @@ recommendations: [/post/2008-07-16-rockapella-channel/, /post/2015-12-30-2015nia
 - [我々にできるOSSとそのコミュニティの育てかた - YAPC::Asia Tokyo 2015](http://yapcasia.org/2015/talk/show/5f5cad74-004a-11e5-acf4-89c77d574c3a)
 - [DeepLearning の前に知っておくことがある！ 再帰型のニューラルネットワークや自己組織化マップについて語ろう - YAPC::Asia Tokyo 2015](http://yapcasia.org/2015/talk/show/f283a924-fddc-11e4-90cd-bdc07d574c3a)
 - [TBD - YAPC::Asia Tokyo 2015](http://yapcasia.org/2015/talk/show/cc0ec485-1879-11e5-aca1-525412004261)
-- [Conway&#39;s Law of Distributed Work - YAPC::Asia Tokyo 2015](http://yapcasia.org/2015/talk/show/a06d9970-0d7b-11e5-aaf9-67dc7d574c3a)
+- [Conway's Law of Distributed Work - YAPC::Asia Tokyo 2015](http://yapcasia.org/2015/talk/show/a06d9970-0d7b-11e5-aaf9-67dc7d574c3a)
 - [Podcastを支える技術、エンジニアのためのWebメディア、そしてCPAN - YAPC::Asia Tokyo 2015](http://yapcasia.org/2015/talk/show/cf39f7fc-ff44-11e4-9264-66c47d574c3a)
 - [NASA主催の世界最大級ハッカソンSpaceAppsを運営した話 - YAPC::Asia Tokyo 2015](http://yapcasia.org/2015/talk/show/93eaf068-faec-11e4-a8fd-8ab37d574c3a)
 - [Docker３兄弟について - YAPC::Asia Tokyo 2015](http://yapcasia.org/2015/talk/show/5ea2630a-133d-11e5-8cbb-d9f87d574c3a)

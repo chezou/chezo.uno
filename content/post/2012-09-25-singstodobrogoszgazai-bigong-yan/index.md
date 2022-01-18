@@ -24,7 +24,7 @@ recommendations: [/post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2011-
 開場：17：30 開演：18：00  
 チケット：全席自由 2000円
 
-個人的には、Lord I&#39;m Freeの演奏がまた聴けるのかと思うとワクワクします。
+個人的には、Lord I'm Freeの演奏がまた聴けるのかと思うとワクワクします。
 
 {{< youtube 5lXbMbvqD-U >}}
 

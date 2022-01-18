@@ -154,7 +154,7 @@ rebuild.fmのようなリンク付きのshow notesを表示させるためには
 
 の3条件を満たす必要があります。
 
-今回、feed burnerを使っているのですが、設定の途中で"I&#39;m a podcaster"みたいな選択肢を選ぶと"SmartCast"というオプションが選ばれます。 しかし、これを選ぶとfeedburnerがitunesタグを勝手に付与しようとします。今回はJekyllのtemplateで生成するデータの方を使いたいので、下記の画面でSmartCastのチェックを外し停止します。
+今回、feed burnerを使っているのですが、設定の途中で"I'm a podcaster"みたいな選択肢を選ぶと"SmartCast"というオプションが選ばれます。 しかし、これを選ぶとfeedburnerがitunesタグを勝手に付与しようとします。今回はJekyllのtemplateで生成するデータの方を使いたいので、下記の画面でSmartCastのチェックを外し停止します。
 
 ![スクリーンショット 2015-02-19 23.43.57.png](https://qiita-image-store.s3.amazonaws.com/0/11143/5bb84257-38ab-d5d2-9230-dca181e47633.png "スクリーンショット 2015-02-19 23.43.57.png")
 

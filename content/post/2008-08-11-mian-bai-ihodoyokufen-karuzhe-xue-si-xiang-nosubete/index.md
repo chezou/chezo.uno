@@ -15,7 +15,7 @@ keywords: [酷い, 教科書, 単語, 言い回し, 文芸社, 哲学, 倫理, �
 recommendations: [/post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/,
   /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/, /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/]
 ---
-![](https://ecx.images-amazon.com/images/I/51OitSh47wL._SL160_.jpg)[面白いほどよくわかる哲学・思想のすべて―人類が共有する「知」の絶対真理を読み解く (学校で教えない教科書)](http://item.excite.co.jp/detail/ASIN_4537255889)  
+{{< amazon asin="4537255889" title="面白いほどよくわかる哲学・思想のすべて―人類が共有する「知」の絶対真理を読み解く (学校で教えない教科書)" >}}
 湯浅 赳男 / / 日本文芸社  
 ISBN : 4537255889  
 スコア選択: ※  

@@ -1,5 +1,5 @@
 ---
-title: Apple storeがWe&#39;ll back soonに……
+title: Apple storeがWe'll back soonに……
 subtitle: ''
 summary: ''
 authors: [aki]
