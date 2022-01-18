@@ -16,7 +16,7 @@ recommendations: [/post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazep
   /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/,
   /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/]
 ---
-[Julia vs Python: ビットコインオプションのモンテカルロシミュレーション](http://chezou.wordpress.com/2014/05/07/julia-vs-python-bitcoin-option/)に引き続き、[100 numpy exercises](http://www.loria.fr/~rougier/teaching/numpy.100/)という、面白いnumpyの練習問題があったのでそれのJulia版を作成しました。  
+[Julia vs Python: ビットコインオプションのモンテカルロシミュレーション](https://chezo.uno/post/2014-05-07-julia-vs-python-bitcoin-option)に引き続き、[100 numpy exercises](http://www.loria.fr/~rougier/teaching/numpy.100/)という、面白いnumpyの練習問題があったのでそれのJulia版を作成しました。  
 実際には46個しかないのと、numpyの便利関数がなくて挫折したものとかいくつかありますが、pythonistaな方々はオリジナルと比較してJuliaの世界に来ていただければ楽しいのではないかと思います。
 
 この話で得たものをまとめて、[JuliaTokyo #1 - connpass](http://juliatokyo.connpass.com/event/6891/)で発表してこようと思います。  

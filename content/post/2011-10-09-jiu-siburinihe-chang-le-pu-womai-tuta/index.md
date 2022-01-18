@@ -27,6 +27,6 @@ recommendations: [/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sula
 3. [Carols for Choirs 5](http://www.panamusica.co.jp/ja/product/13530/)  
 ボブ・チルコットとデイヴィッド・ブラックウェル編纂のキャロル集。トラディショナルな曲を新しい作曲家が編曲しているという感じのようです。
 4. [Steve Dobrogosz:Gospels](http://www.panamusica.co.jp/ja/product/7651/)  
-[SINGSとの来日演奏](http://chezou.wordpress.com/2008/10/28/sings-2008-with-steve-dobrogosz/ "SINGS 2008 with Steve Dobrogosz")以来歌いたかった、Lord I'm freeなどの曲が入っている楽譜です。歌いたい！  
+[SINGSとの来日演奏](https://chezo.uno/post/2008-10-28-sings-2008-with-steve-dobrogosz "SINGS 2008 with Steve Dobrogosz")以来歌いたかった、Lord I'm freeなどの曲が入っている楽譜です。歌いたい！  
 {{< youtube 5lXbMbvqD-U >}}
 どれも楽しみですねー。

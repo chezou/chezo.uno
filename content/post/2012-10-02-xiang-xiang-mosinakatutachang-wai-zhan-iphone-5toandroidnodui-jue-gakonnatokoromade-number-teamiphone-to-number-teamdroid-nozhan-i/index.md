@@ -65,6 +65,6 @@ J RiceのDroid versionはこちら。
 
 ●当ブログのPeter Hollensの記事はこちら
 
-[Peter Hollensの”Firework”一人アカペラが格好いい](http://chezou.wordpress.com/2011/04/08/peter-hollens-firework/ "Peter Hollensの”Firework”一人アカペラが格好いい")
+[Peter Hollensの”Firework”一人アカペラが格好いい](https://chezo.uno/post/2011-04-08-peter-hollens-firework "Peter Hollensの”Firework”一人アカペラが格好いい")
 
 

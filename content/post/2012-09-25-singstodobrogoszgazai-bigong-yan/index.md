@@ -28,6 +28,6 @@ recommendations: [/post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2011-
 
 {{< youtube 5lXbMbvqD-U >}}
 
-[過去の演奏会の記事はこちら](http://chezou.wordpress.com/2008/10/28/sings-2008-with-steve-dobrogosz/ "SINGS 2008 with Steve Dobrogosz")
+[過去の演奏会の記事はこちら](https://chezo.uno/post/2008-10-28-sings-2008-with-steve-dobrogosz "SINGS 2008 with Steve Dobrogosz")
 
 
