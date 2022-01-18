@@ -15,7 +15,7 @@ keywords: [リハーサル, mass, アンコール, かっこいい, 合唱曲, �
 recommendations: [/post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2012-09-25-singstodobrogoszgazai-bigong-yan/,
   /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/]
 ---
-以前[Sings２００８が歌っていた素晴らしい演奏会](http://chezou.wordpress.com/2008/10/28/sings-2008-with-steve-dobrogosz/)の動画がYouTubeにありました。たくさんあるので、一部紹介したいと思います。ちなみに[、彼の作品を提供している人](http://www.youtube.com/user/7609RH)がいるようです。この充実度からするとオフィシャルなのかな？
+以前[Sings２００８が歌っていた素晴らしい演奏会](https://chezo.uno/post/2008-10-28-sings-2008-with-steve-dobrogosz)の動画がYouTubeにありました。たくさんあるので、一部紹介したいと思います。ちなみに[、彼の作品を提供している人](http://www.youtube.com/user/7609RH)がいるようです。この充実度からするとオフィシャルなのかな？
 
 {{< youtube aYiIBqxuPLo >}}  
 一番有名な合唱曲MASSからKyrie。この演奏もそうですが作曲者の意図が分かるというか、なるほどそう言うイメージで作ったんだ！と驚きです。ピアノが歌っている。

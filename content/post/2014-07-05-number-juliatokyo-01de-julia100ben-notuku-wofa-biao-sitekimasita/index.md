@@ -18,13 +18,14 @@ recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /p
 [JuliaTokyo 01](juliatokyo.connpass.com/event/6891/)で発表してきました。  
 取りまとめをしてくださった [@sorami](https://twitter.com/sorami) さんには感謝です。
 
-事の発端は、[Julia vs Python](http://chezou.wordpress.com/2014/05/07/julia-vs-python-bitcoin-option/)を読んだ[@bicycle1885](https://twitter.com/bicycle1885)と[Machine Learning Casual Talks](http://chezou.wordpress.com/2014/06/07/machine-learning-casual-talks/)で「Julia勉強会やりましょう！」といったことでした。  
+事の発端は、[Julia vs Python](https://chezo.uno/post/2014-05-07-julia-vs-python-bitcoin-option)を読んだ[@bicycle1885](https://twitter.com/bicycle1885)と[Machine Learning Casual Talks](https://chezo.uno/post/2014-06-07-machine-learning-casual-talks)で「Julia勉強会やりましょう！」といったことでした。  
 そこで、[Tokyo.RでRをdisっ紹介してきた](https://speakerdeck.com/sorami/tokyor-number-39-lt-rtojulia) [@sorami](https://twitter.com/sorami)とコンタクトをとり、始まりました。
 
 まさか、本家のJuliaConの半分の40人近くの参加者が集う場になりました！(Julia歴24時間以内の人も多かったですが...)  
 togetterは[こちら](http://togetter.com/li/689039)
 
-先日公開した、[Julia100本ノック](https://github.com/chezou/julia-100-exercises)の発表をしてきました。[その時の記事](http://chezou.wordpress.com/2014/06/22/julia100%e6%9c%ac%e3%83%8e%e3%83%83%e3%82%af/)
+
+先日公開した、[Julia100本ノック](https://github.com/chezou/julia-100-exercises)の発表をしてきました。[その時の記事](https://chezo.uno/post/2014-06-21-julia100ben-notuku)
 
 [http://www.slideshare.net/chezou/julia-100-exercises-juliatokyo](http://www.slideshare.net/chezou/julia-100-exercises-juliatokyo)
 
@@ -37,10 +38,9 @@ togetterは[こちら](http://togetter.com/li/689039)
 パッケージの作り方とか、C++のバインディングどうしたらいいの...な話とかが聞けて個人的には大満足でした。  
 また、IDEどうしたらいいんだよ！問題は非常に白熱をして、Julia Studioはオワコン説、IJulia最高！いやいや[LightTable](http://www.lighttable.com/)素晴らしいだろ。グローバル変数書いたら負けだからIJuliaとかどうなの、REPLの補完最高では？みたいな熱い戦いが繰り広げられました。
 
-[https://twitter.com/chezou/status/485465372695339009](https://twitter.com/chezou/status/485465372695339009)
+{{< tweet id="485465372695339009" user="chezou" >}}
+
 
 さて、第二回は？という話が出ていましたが、きっと発表者ドリブンだと思いますが、おそらくフェーズとしてはカンファレンススタイルよりもくもくする会を定期的に開催するのが良さそうですねーという話をしていました。
 
 みなさん、Scikit-learnをpure julia移植すればワンチャンありますよ
-
-
