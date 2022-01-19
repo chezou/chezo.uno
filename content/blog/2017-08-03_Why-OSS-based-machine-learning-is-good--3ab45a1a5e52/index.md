@@ -7,7 +7,7 @@ keywords: [learning, machine, paper, papers, deep, arxiv, algorithms, implementa
   open, algorithm]
 authors: [aki]
 aliases:
-  - /blog/why-oss-based-machine-learning-is-good--3ab45a1a5e52
+  - /blog/why-oss-based-machine-learning-is-good-3ab45a1a5e52
   - /blog/3ab45a1a5e52
 recommendations: [/blog/2019-06-04_The-first-conference-of-Operational-Machine-Learning--OpML--19-308baad36108/,
   /blog/2019-04-24_Ruby-for-Data-Science-and-Machine-Learning-9f03e99125e0/, /blog/2017-08-30_Python-basics--package-management-462918458f96/]
