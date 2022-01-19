@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [昭和, 戦時, 戦後, 春秋, 文藝, 文春文庫, 子どもたち, ばあ, 子ども, '50']
-recommendations: [/post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
-  /post/2008-08-26-akihabara-at-deep/]
+keywords: [昭和, 戦時, 戦後, 春秋, 文藝, 子どもたち, ばあ, 子ども, 時代, 面白い]
+recommendations: [/post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
+  /post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---
 {{< amazon asin="4167753278" title="これでいいのだ―赤塚不二夫自叙伝 (文春文庫 あ 50-1)" >}}
 赤塚 不二夫 / / 文藝春秋  

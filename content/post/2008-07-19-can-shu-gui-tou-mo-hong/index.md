@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [作品, 鬼頭, ikki, 莫宏, この先, comics, 小学館, 世界観, 存在, 期待]
+keywords: [作品, 鬼頭, 莫宏, この先, 小学館, 世界観, 存在, 期待, isbn, 展開]
 recommendations: [/post/2008-07-30-narutaru/, /post/2008-06-22-bokurano-alternative/,
-  /post/2008-06-03-gao-wu-nai-yue/]
+  /post/2008-07-13-lang-toxiang-xin-liao-1/]
 ---
 {{< amazon asin="4091885012" title="残暑―鬼頭莫宏短編集 (IKKI COMICS)" >}}
 鬼頭 莫宏 / / 小学館  

@@ -11,10 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [word, ipython, notebook, 可視化, グラフ, はてなダイアリー, nyaplot, nbviewer, iruby,
-  docker]
+keywords: [word, ipython, notebook, 可視化, はてなダイアリー, グラフ, コード, 要領, 空間, 引き算]
 recommendations: [/post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
-  /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/, /post/2016-10-29_homebrew-----iRuby---------------6a02e5194ff2/]
+  /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/, /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/]
 ---
 オライリーから出てる、[word2vec本](http://www.oreilly.co.jp/books/9784873116839/)の付録についてくる [id:nishiohirokazu](http://blog.hatena.ne.jp/nishiohirokazu/) さんが書いた可視化のコードがあります。
 

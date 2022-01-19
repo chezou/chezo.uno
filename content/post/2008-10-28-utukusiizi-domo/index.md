@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [石田衣良, 主人公, 悪く, コメント, 印象, 題材, 閑話休題, 追求, 猟奇的, ブックマーク]
-recommendations: [/post/2008-08-26-akihabara-at-deep/, /post/2008-11-06-koredeiinoda/,
-  /post/2008-06-15-gui-cai-xian-ru/]
+recommendations: [/post/2008-08-26-akihabara-at-deep/, /post/2008-06-15-gui-cai-xian-ru/,
+  /post/2008-11-06-koredeiinoda/]
 ---
 石田衣良の「うつくしい子ども」です。 {{< amazon asin="4167174057" title="うつくしい子ども (文春文庫)" >}}
 石田 衣良 / / 文藝春秋  

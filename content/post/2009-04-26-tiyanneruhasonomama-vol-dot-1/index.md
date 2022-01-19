@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [どうでしょう, モデル, special, 北海道, すばらしい, ポップ, なじみ, comics, 小学館, チャンネル]
-recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2005-03-27-u-urusai-dot-dot-dot/,
-  /post/2008-09-10-enzieruhato-27/]
+keywords: [どうでしょう, モデル, special, 北海道, すばらしい, ポップ, なじみ, 小学館, チャンネル, ファン]
+recommendations: [/post/2005-03-27-u-urusai-dot-dot-dot/, /post/2009-11-26-the-real-album/,
+  /post/2020-07-11-mlse-summer-workshop/]
 ---
 [![](https://ecx.images-amazon.com/images/I/51DmEVIjTzL._SL160_.jpg) 
 

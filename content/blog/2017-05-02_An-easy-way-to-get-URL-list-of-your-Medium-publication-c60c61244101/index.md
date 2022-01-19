@@ -4,14 +4,12 @@ description: I imported blog posts from own Wordpress but I have to redirect old
   to Medium manually. There is Wordpress plugin which enables…
 date: '2017-05-02T11:01:01+09:00'
 categories: []
-keywords: [publication, articles, list, url, medium, wordpress, redirect, posts, showing,
-  scrolling]
 authors: [aki]
-aliases:
-  - /blog/an-easy-way-to-get-url-list-of-your-Medium-publication-c60c61244101
-  - /blog/c60c61244101
-recommendations: [/blog/2017-05-28_tabula-py-now-able-to-extract-remote-PDF-and-multiple-tables-at-once-6108e24ac07c/,
-  /blog/2016-12-01_Text-to-speech-based-on-deep-learning-for-Web-site-using-Amazon-Polly-and-Ruby-adc1923212cb/,
+aliases: [/blog/an-easy-way-to-get-url-list-of-your-Medium-publication-c60c61244101,
+  /blog/c60c61244101]
+keywords: [publication, articles, list, url, medium, old, manually, huge, tried, script]
+recommendations: [/blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/,
+  /blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/,
   /blog/py-operator-development-guide-for-python-users/]
 ---
 

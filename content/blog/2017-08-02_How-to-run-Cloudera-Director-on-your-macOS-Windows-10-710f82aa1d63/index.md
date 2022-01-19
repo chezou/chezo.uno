@@ -4,15 +4,14 @@ description: Cloudera Director is a provisioning tool for CDH and Cloudera Enter
   We can launch cluster with Web GUI or CLI tool. Using Cloudera…
 date: '2017-08-02T12:12:31+09:00'
 categories: []
-keywords: [cloudera, director, server, windows, launch, install, homebrew, '10', docker,
-  stop]
 authors: [aki]
-aliases:
-  - /blog/how-to-run-cloudera-director-on-your-macos-windows-10-710f82aa1d63
-  - /blog/710f82aa1d63
-recommendations: [/blog/2017-03-26_How-to-connect-secure-Impala-cluster-from-RStudio-on-macOS-with-implyr-213c6536e4c7/,
-  /blog/2017-07-24_Simple-way-to-distribute-your-private-Python-packages-within-your-organization-fb7af5dbd4c9/,
-  /blog/2017-08-30_Python-basics--package-management-462918458f96/]
+aliases: [/blog/how-to-run-cloudera-director-on-your-macos-windows-10-710f82aa1d63,
+  /blog/710f82aa1d63]
+keywords: [cloudera, director, server, windows, launch, install, homebrew, '10', docker,
+  tool]
+recommendations: [/blog/2017-03-26_how-to-connect-secure-impala-cluster-from-rstudio-on-macos-with-implyr-213c6536e4c7/,
+  /blog/2016-12-30_livy---jupyter-notebook---sparkmagic---powerful---easy-notebook-for-data-scientist-a8b72345ea2d/,
+  /blog/2017-08-30_python-basics--package-management-462918458f96/]
 ---
 
 

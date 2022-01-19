@@ -4,15 +4,12 @@ description: Redash is a famous OSS visualization tool, which enables to visuali
   your data with SQL. It supports Apache Impala (incubating), fast…
 date: '2017-02-11T14:14:44+09:00'
 categories: []
-keywords: [impala, redash, query, data, set, hiveserver2, admin, database, visualize,
-  result]
 authors: [aki]
-aliases:
-  - /blog/visualize-your-massive-data-with-impala-and-redash-afe31133c644
-  - /blog/afe31133c644
-recommendations: [/blog/2017-03-26_How-to-connect-secure-Impala-cluster-from-RStudio-on-macOS-with-implyr-213c6536e4c7/,
-  /blog/2016-10-15_Building-predictive-Model-with-Ibis--Impala-and-scikit-learn-356b41f404e0/,
-  /blog/2019-04-24_Ruby-for-Data-Science-and-Machine-Learning-9f03e99125e0/]
+aliases: [/blog/visualize-your-massive-data-with-impala-and-redash-afe31133c644, /blog/afe31133c644]
+keywords: [impala, query, data, set, database, visualize, result, default, add, sql]
+recommendations: [/blog/2017-03-26_how-to-connect-secure-impala-cluster-from-rstudio-on-macos-with-implyr-213c6536e4c7/,
+  /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
+  /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/]
 ---
 
 [Redash](https://redash.io/) is a famous OSS visualization tool, which enables to visualize your data with SQL. It supports [Apache Impala (incubating)](http://impala.apache.org/), fast SQL-on-Hadoop suitable for BI tools and exploratory analysis. With Impala, you can [query SQLs to tables on Amazon S3](http://blog.cloudera.com/blog/2016/08/analytics-and-bi-on-amazon-s3-with-apache-impala-incubating/).

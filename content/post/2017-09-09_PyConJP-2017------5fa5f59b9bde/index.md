@@ -3,10 +3,10 @@ title: PyConJP 2017に参加した
 description: 2年ぶりにPyConJPに参加しました。2日間参加してきたので、メモがてら書いていきます。
 date: '2017-09-09T12:24:23+09:00'
 categories: [conference]
-keywords: [spacy, python, データ, track, pycon, 発表, analysis, jupyter, 更新, pandas]
 authors: [aki]
+keywords: [データ, track, 発表, python, 更新, jupyter, pandas, 入門, pycon, 編成]
 recommendations: [/post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
-  /post/2018-10-25_RISECamp------ee65c2ef0c9e/]
+  /post/2018-10-25_risecamp------ee65c2ef0c9e/]
 ---
 
 2年ぶりにPyConJPに参加しました。2日間参加してきたので、メモがてら書いていきます。

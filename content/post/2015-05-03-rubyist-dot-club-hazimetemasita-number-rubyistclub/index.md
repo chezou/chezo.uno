@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [会議, 地域, ruby, podcast, オフライン, miyohide, 人数, club, ミート, アップ]
+keywords: [会議, 地域, ruby, podcast, オフライン, miyohide, club, 人数, ミート, アップ]
 recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
-  /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/, /post/2015-12-30-2015nian-wozhen-rifan-tute/]
+  /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/]
 ---
 [rubyist.club](http://rubyist.club/) というドメインが勢い余ってとれたので、podcastを始めました。[rebuild.fm](http://rebuild.fm/)でも話題になっていた、静的ファイルを置くためだけにIDCFクラウドにインスタンス立てて、nginx立ててっていう無駄なことをやっています。[^1] 
 

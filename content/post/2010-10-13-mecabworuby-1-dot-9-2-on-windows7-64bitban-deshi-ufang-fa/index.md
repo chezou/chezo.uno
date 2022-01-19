@@ -11,9 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [mecab, nil, node, prev, '39', sparse, version, str, next, char]
-recommendations: [/post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/,
-  /post/2018-12-01_Windows-64bit-MeCab--KyTea-------2018-b283b6c7b33c/, /post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/]
+keywords: [mecab, dll, 本日, 名詞, libmecab, cpp, break, '64', makefile, case]
+recommendations: [/post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/,
+  /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/,
+  /post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/]
 ---
 Windows7の開発環境を構築するに当たって、なんとなくRubyを1.8.7から1.9.2にしてみました。  
 そしたら意外とx64でMeCabを使えるようになるまでにハマったのでメモしておきます。  

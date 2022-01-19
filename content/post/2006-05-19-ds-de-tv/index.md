@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [tv, すごい, 高校時代, 国語, 教授, 招待, 重さ, チューナー, 高校生, もん]
 recommendations: [/post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
-  /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/, /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/]
+  /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---
 [[N] ニンテンドーDS用「TVチューナー」](http://netafull.net/toy/013718.html)なるものがでてるようです。  
 しっかし、このサイズにこの重さはどうなんだろうなー。  

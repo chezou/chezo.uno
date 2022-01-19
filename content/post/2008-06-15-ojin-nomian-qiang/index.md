@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [金融, 入門書, 和代, 勝間, 入り口, 筆者, 傾向, 実践, 基本, 比較的]
+keywords: [入門書, 金融, 和代, 勝間, 入り口, 筆者, 傾向, 比較的, 主張, isbn]
 recommendations: [/post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/,
-  /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/, /post/2008-06-28-vuinrandosaga-6-du-li-shui-shang-19/]
+  /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---
 {{< amazon asin="433403425X" title="お金は銀行に預けるな 金融リテラシーの基本と実践 (光文社新書)" >}}
 勝間 和代 / / 光文社  

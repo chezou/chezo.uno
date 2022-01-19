@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['00', 開演, 開場, 応募, '2012', '18', 会場, ホール, 日程, '12']
+keywords: ['00', 開演, 開場, 応募, '2012', '18', 会場, ホール, '12', 日程]
 recommendations: [/post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/,
   /post/2009-09-24-motion-blue-yokohama/]
 ---

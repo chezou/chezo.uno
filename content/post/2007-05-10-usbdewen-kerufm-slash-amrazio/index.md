@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [登場, 価格, 連動, ラジオ, ｒｙ, １６, １０, 黒板, 鹿野, 鳥肌]
 recommendations: [/post/2005-10-07-tuinikita/, /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/,
-  /post/2015-10-27-netutohuritukusunoshi-dai-nihakontentunoshan-nimai-morenasasenaitamenohintogajie-matuteita/]
+  /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/]
 ---
 [http://japanese.engadget.com/2007/05/10/thanko-usb-am-fm-radio/](http://japanese.engadget.com/2007/05/10/thanko-usb-am-fm-radio/)  
   

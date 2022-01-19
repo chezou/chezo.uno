@@ -8,9 +8,10 @@ featured: false
 authors: [aki]
 tags: []
 projects: []
-keywords: [読了, ゲーム, twitter, 絶対音感, ikki, 講談社コミックス, キス, ぼくらの, 著者, ウェブ]
+keywords: [読了, ゲーム, twitter, 絶対音感, ぼくらの, 著者, ウェブ, '12', 社会, リアルタイム]
 recommendations: [/post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/,
-  /post/2008-07-06-nodamekantabire18-20/, /post/2008-08-11-nodame21juan/]
+  /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/,
+  /post/2008-07-30-narutaru/]
 ---
 読書メータにこんな機能あったのね。しかも画像付き。便利だわー。ちょっと貼り付けてみる。というか、あまり本読んでなかったのねぇ。twitterに時間を奪われていたのかな。
 

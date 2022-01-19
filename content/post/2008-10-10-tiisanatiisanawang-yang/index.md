@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [一言, 感激, 小さく, 主人公, 講談社, 深い, 納得, 文章, isbn, 最初]
-recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
-  /post/2008-07-06-nodamekantabire18-20/]
+recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-07-06-nodamekantabire18-20/,
+  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
 ---
 {{< amazon asin="4062083736" title="ちいさなちいさな王様" >}}
 アクセル ハッケ / / 講談社  

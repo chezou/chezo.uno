@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [いつも, isbn, スコア, 選択, 生々しい, 村山, コーヒー, 2nd, 刺激, 不思議]
 recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-11-18-ai-gainaibu-wu/,
-  /post/2008-06-15-gui-cai-xian-ru/]
+  /post/2008-09-10-enzieruhato-27/]
 ---
 {{< amazon asin="4087463036" title="おいしいコーヒーのいれ方 (10) 夢のあとさき (集英社文庫)" >}}
 村山 由佳 / / 集英社  

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [soundflower, ch, skype, linein, マイク, トラック, output, channel, png, img]
+keywords: [soundflower, ch, skype, linein, マイク, トラック, output, channel, png, 自分]
 recommendations: [/post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/,
   /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
   /post/2005-08-06-webkamera/]

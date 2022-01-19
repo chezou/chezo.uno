@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [julia, path, 計算, python, np, time, '39', end, ベクトル化, in]
+keywords: [julia, path, 計算, python, np, time, end, ベクトル化, in, オプション]
 recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
   /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/]
 ---

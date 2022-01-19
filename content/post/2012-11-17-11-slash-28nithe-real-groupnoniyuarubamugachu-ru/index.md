@@ -14,7 +14,7 @@ projects: []
 keywords: [christmas, the real group, '28', '11', the world, 自分たち, real, 本人, facebook,
   '2012']
 recommendations: [/post/2009-04-13-it-dont-mean-a-thing/, /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
-  /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
+  /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/]
 ---
 2012/11/28にThe Real Groupのニューアルバム、["The World of Christmas"](http://www.amazon.co.jp/dp/B009OALBF0 "11/28にThe Real Groupのニューアルバムが出る！")がでるようです。
 

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [icloud, spam, calendar, カレンダー, 通知, 設定, 削除, png, img, 招待]
+keywords: [icloud, カレンダー, 通知, 設定, 削除, png, spam, 招待, calendar, メール]
 recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
   /post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/, /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/]
 ---

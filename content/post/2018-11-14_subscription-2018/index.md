@@ -3,8 +3,8 @@ title: 加入しているサブスクリプションサービス 2018
 description: 以前、 V. の人が書いていた気がするのだけど、 wozozoに聞かれたのでメモがてら書いていく。
 date: '2018-11-14T13:11:53+09:00'
 categories: []
-keywords: [契約, 必須, サービス, 移行, 解約, 英会話, キャンペーン, youtube, 良い, 子供]
 authors: [aki]
+keywords: [契約, 必須, サービス, 移行, 解約, 英会話, キャンペーン, youtube, 良い, 子供]
 recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
   /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/]
 ---

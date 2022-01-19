@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [patech, スピーカー, bluetooth, 防水, 吸盤, '3.0', ブルー, 内蔵, ワイヤレス, 仕様]
+keywords: [スピーカー, patech, 風呂, bluetooth, ラジオ, 安定, 商品, 防水, 無茶, 決め手]
 recommendations: [/post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
   /post/2009-05-30-san-ling-dong-jing-ufjnokorusentagasu-qing-rasii3tunoli-you/]
 ---

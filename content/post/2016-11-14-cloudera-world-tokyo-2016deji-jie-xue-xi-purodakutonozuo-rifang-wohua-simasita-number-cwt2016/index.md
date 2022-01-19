@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [cwt, '2016', データ, native, データサイエンス, cloudera, 機械学習, hadoop, データ分析, プロダクト]
+keywords: [cwt, データ, '2016', native, データサイエンス, cloudera, 機械学習, hadoop, データ分析, プロダクト]
 recommendations: [/post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
   /post/2016-03-30-zhuan-zhi-simasita/, /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/]
 ---

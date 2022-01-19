@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [工学, 先生, 表現, shima, 機械学習, shift, スライド, 学習, effect, '2019']
-recommendations: [/post/2018-05-17_MLSE-kickoff/, /post/2020-07-11-MLSE-summer-workshop/,
-  /post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/]
+recommendations: [/post/2018-05-17_mlse-kickoff/, /post/2020-07-11-mlse-summer-workshop/,
+  /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
 ---
 
 

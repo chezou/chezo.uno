@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [mac, nas, windows, 共有, ドライバ, mp, 印刷, トライ, mac os x, canon]
+keywords: [mac, windows, nas, 共有, ドライバ, mp, 印刷, トライ, mac os x, canon]
 recommendations: [/post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/, /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/,
   /post/2009-10-26-memo-windows7yong-dong-zuo-que-ren-xi-rinku/]
 ---

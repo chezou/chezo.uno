@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [酷い, 教科書, 単語, 言い回し, 文芸社, 哲学, 倫理, おかしい, キーワード, 筆者]
-recommendations: [/post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/,
-  /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/, /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/]
+keywords: [酷い, 単語, 文芸社, 哲学, 倫理, おかしい, 言い回し, キーワード, 筆者, 思想]
+recommendations: [/post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/, /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/,
+  /post/2008-10-10-luo-yu-bai-xuan-xia/]
 ---
 {{< amazon asin="4537255889" title="面白いほどよくわかる哲学・思想のすべて―人類が共有する「知」の絶対真理を読み解く (学校で教えない教科書)" >}}
 湯浅 赳男 / / 日本文芸社  

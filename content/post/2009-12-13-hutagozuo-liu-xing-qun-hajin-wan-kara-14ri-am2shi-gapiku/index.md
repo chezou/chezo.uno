@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [あたたかい, 難しい, 留学生, 特集, ピーク, 類似, 曇り, 午前, 発音, '2009']
+keywords: [あたたかい, 難しい, 留学生, 特集, ピーク, 類似, 発音, 曇り, 午前, '2009']
 recommendations: [/post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/,
   /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/, /post/2010-08-22-oomurasakinoyu-hua-wocanon-ivis-hf-m31decuo-ying-sitemita/]
 ---

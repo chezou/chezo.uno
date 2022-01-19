@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [絶対音感, 言葉, 著者, 教育, 音響, 取材, エピソード, 不足, カテゴリ, 音楽]
+keywords: [絶対音感, 言葉, 著者, 教育, 音楽, 音響, 取材, エピソード, 不足, カテゴリ]
 recommendations: [/post/2010-01-01-12yue-nidu-ndaben/, /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
-  /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/]
+  /post/2008-11-06-yin-lu-toyin-jie-noke-xue/]
 ---
 本の大まかな内容は、音楽に素養がない記者が、絶対音感の言葉の響きに惹かれて解明しようとした努力の軌跡である。まとめると、  
 ・絶対音感の定義は曖昧だが、その中でもレベルがある  

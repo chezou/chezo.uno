@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [julia, 入門, 読本, 外観, dplyr, 興味, 基礎, データサイエンティスト, 養成, '12']
+keywords: [julia, 入門, 読本, 外観, dplyr, 興味, 基礎, データサイエンティスト, 養成, オススメ]
 recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
   /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/]
 ---

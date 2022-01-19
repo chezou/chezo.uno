@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [充電, dot, instagram, 感じ, 片方, ie, ケース, バック, イヤホン, '20']
-recommendations: [/post/2018-10-28_Thinkpad-X1-Carbon-MacBook-Pro----------USB-Type-C-------f6d8c8e77b36/,
+keywords: [充電, dot, instagram, 感じ, 片方, ie, ケース, バック, イヤホン, www]
+recommendations: [/post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/,
   /post/2010-11-07-instagr-dot-amgamian-bai-i/, /post/2019-03-10_business-trip-goods/]
 ---
 最近のbackspace.fm でdotが「来る来る詐欺」でAir podsに完全に飲み込まれたという話が出ていたので、きちんとレビューしてなかったのを思い出したのでレビューします。

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [http, 扱い, fork, client, request, 早い, pull, そのまま, オリジナル, 特徴]
-recommendations: [/post/2019-12-04-R-and-TD/, /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/,
-  /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/]
+keywords: [http, 扱い, fork, request, client, pull, 早い, そのまま, オリジナル, 特徴]
+recommendations: [/post/2019-12-04-r-and-td/, /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/,
+  /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---
 [Qiita](http://qiita.com/items/ce9a52030aad51591121)にも書いたけど、Ruby向けAutopagerizeをMechanize対応してみた。
 

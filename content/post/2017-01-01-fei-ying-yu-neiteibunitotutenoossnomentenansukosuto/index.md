@@ -12,7 +12,7 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [oss, issue, 丸山, コード, 英語, 開発, メンテナンス, ネイティブ, プロダクト, 会社]
-recommendations: [/post/2016-03-30-zhuan-zhi-simasita/, /post/2020-07-11-MLSE-summer-workshop/,
+recommendations: [/post/2016-03-30-zhuan-zhi-simasita/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
   /post/2018-06-19_goodbye-cloudera/]
 ---
 _disclaimer: この記事を書いている人はClouderaというHadoop/Sparkのディストリビューターの会社にいます。_

@@ -3,10 +3,10 @@ title: 2017年に買ってよかったもの
 description: 今年もあと少しで終わりですね。というわけで、今年買ってよかったものを書き連ねていきたいと思います。
 date: '2017-12-30T13:31:43+09:00'
 categories: []
-keywords: [amzn, 対応, マット, ear, to, wireless, mini, usb, ブラック, aptx]
 authors: [aki]
-recommendations: [/post/2019-03-10_business-trip-goods/, /post/2018-10-28_Thinkpad-X1-Carbon-MacBook-Pro----------USB-Type-C-------f6d8c8e77b36/,
-  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/]
+keywords: [amzn, 対応, マット, ear, to, wireless, mini, usb, ブラック, aptx]
+recommendations: [/post/2019-03-10_business-trip-goods/, /post/2018-01-03_google-home--------------------------17607a9cc2b8/,
+  /post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/]
 ---
 
 今年もあと少しで終わりですね。というわけで、今年買ってよかったものを書き連ねていきたいと思います。

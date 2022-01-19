@@ -4,14 +4,12 @@ description: Testing workflow runnability would be important when we build a com
   workflow. digdag is a workflow engine which syntax is simple and…
 date: '2019-10-06T05:17:30+09:00'
 categories: []
-keywords: [digdag, docker, circleci, executor, workflow, run, image, volume, tab,
-  signed]
 authors: [aki]
-aliases:
-  - /blog/how-to-test-a-new-Docker-image-for-digdag-workflow-on-circleci-c8bb92987877
-  - /blog/c8bb92987877
-recommendations: [/blog/py-operator-development-guide-for-python-users/, /blog/2019-11-26_How-to-release-Python-package-from-GitHub-Actions-d5a1d8edba6e/,
-  /blog/2017-08-02_How-to-run-Cloudera-Director-on-your-macOS-Windows-10-710f82aa1d63/]
+aliases: [/blog/how-to-test-a-new-Docker-image-for-digdag-workflow-on-circleci-c8bb92987877,
+  /blog/c8bb92987877]
+keywords: [docker, workflow, run, image, machine, tmp, ll, container, unsplash, photo]
+recommendations: [/blog/py-operator-development-guide-for-python-users/, /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
+  /blog/2017-08-02_how-to-run-cloudera-director-on-your-macos-windows-10-710f82aa1d63/]
 ---
 
 ![Photo by [Campaign Creators](https://unsplash.com/@campaign_creators?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](./0__Sj4niOaDd__W4bydD.jpg)

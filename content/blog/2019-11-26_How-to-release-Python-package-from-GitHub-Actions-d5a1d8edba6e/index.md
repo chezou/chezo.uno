@@ -4,13 +4,12 @@ description: Recently, I changed my CI from Travis to GitHub Actions. GitHub Act
   is handy and useful for testing, publishing Python packages.
 date: '2019-11-26T01:42:11+09:00'
 categories: [Python]
-keywords: [pypi, github, travis, actions, token, secrets, workflow, api, python, package]
 authors: [aki]
-aliases:
-  - /blog/how-to-release-python-package-from-github-actions-d5a1d8edba6e/
-  - /blog/d5a1d8edba6e/
-recommendations: [/blog/2017-08-30_Python-basics--package-management-462918458f96/,
-  /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/, /blog/2017-07-24_Simple-way-to-distribute-your-private-Python-packages-within-your-organization-fb7af5dbd4c9/]
+aliases: [/blog/how-to-release-python-package-from-github-actions-d5a1d8edba6e/, /blog/d5a1d8edba6e/]
+keywords: [pypi, github, workflow, api, python, package, testing, syntax, recently,
+  uses]
+recommendations: [/blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/,
+  /blog/2017-08-30_python-basics--package-management-462918458f96/, /blog/2019-10-06_how-to-test-a-new-docker-image-for-digdag-workflow-on-circleci--c8bb92987877/]
 ---
 
 ![](./0__hOksODxf9TX1BkS0.jpg)
