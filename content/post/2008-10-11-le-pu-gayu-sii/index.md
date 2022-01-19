@@ -25,5 +25,5 @@ recommendations: [/post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de
   
 しっかし、前から思うのが自分が求めるアカペラ情報って、結構ネットに分散していてまとまってるところないのね。ちょこちょこ集めていくしかないかなぁ。
 
-Tags:[音楽](http://mrk0369.exblog.jp/tags/%E9%9F%B3%E6%A5%BD/) [アカペラ](http://mrk0369.exblog.jp/tags/%E3%82%A2%E3%82%AB%E3%83%9A%E3%83%A9/) 
+
 

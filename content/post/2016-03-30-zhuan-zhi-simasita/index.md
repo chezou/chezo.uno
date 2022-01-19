@@ -51,7 +51,7 @@ kawasaki.rbやMachine Learning Casual Talks、Julia Tokyoなどのミートア�
 
 一時期、優秀なエンジニアがいれば何でもできると思ってた時があったのですが、一緒に仕事していたディレクターが、それこそ我々が技術書を買い漁るように、大学の頃からレシピ本を買い続けている、という人で、逆立ちしてもこの人の愛を持ったプロダクトにはかなわん、と思いながら一緒に仕事できたのもまたいい経験でした。
 
-最後1年は、[Tech Confでも話しましたが](https://chezou.hatenablog.com/entry/2016/01/25/000000)研究開発を加速するべく、データの学術公開やアカデミアとのリレーションシップの構築にも携わらせていただきました。特に、データ公開やハッカソンのおかげで、それまでバイトでRails書いてました！みたいな、プロの新卒がほとんどだったところに、データ系の能力を持った学生への門戸を開けたのは良かったと思っています。
+最後1年は、[Tech Confでも話しましたが](https://chezo.uno/post/2016-01-25-number-cookpadtechconf-2016dekutukupatudonoyan-jiu-mawarinoqu-rizu-miwofa-biao-simasita/)研究開発を加速するべく、データの学術公開やアカデミアとのリレーションシップの構築にも携わらせていただきました。特に、データ公開やハッカソンのおかげで、それまでバイトでRails書いてました！みたいな、プロの新卒がほとんどだったところに、データ系の能力を持った学生への門戸を開けたのは良かったと思っています。
 
 あとは、終盤は[Jupyter notebook](https://techlife.cookpad.com/entry/write-once-share-anywhare)のエバンジェリスト業を社内で勝手にやっていました。クックパッドに不本意ながらPythonを広めたのはワタシです。
 
@@ -73,7 +73,7 @@ kawasaki.rbやMachine Learning Casual Talks、Julia Tokyoなどのミートア�
 - メディア: Kindle版
 - [この商品を含むブログ (3件) を見る](http://d.hatena.ne.jp/asin/B01626P712/chezou-22)
 
-そんな中で、[shiumachiさんの記事](http://shiumachi.hatenablog.com/entry/2016/01/03/213850)を読んで、「なるほど、英語で仕事をするという選択肢は自分のキャリアにとっても重要だな」という想いが強くなった時に、一緒に飲む機会があって誘われて面接を受けて入ることになりました。[^5] 
+そんな中で、[shiumachiさんの記事](http://shiumachi.hatenablog.com/entry/2016/01/03/213850)を読んで、「なるほど、英語で仕事をするという選択肢は自分のキャリアにとっても重要だな」という想いが強くなった時に、一緒に飲む機会があって誘われて面接を受けて入ることになりました。[^5]
 
 前々からセールスエンジニアは、ユーザーに価値をどうやったら届けられるかを考える点で、BtoBにおけるプロダクトエンジニアだなとshiumachiさんの言葉を読んで感じていました。
 
@@ -85,7 +85,7 @@ kawasaki.rbやMachine Learning Casual Talks、Julia Tokyoなどのミートア�
 
 会社が変わって、社内の機械学習チャットルームがなくなった分情報少なくなるかなと少し心配していたのですが、Data Science系のMLがあってそこを眺めてテンション上がっています。 自分の強みを活かしつつ、少しでも多くのデータが価値を生み出せるように貢献していきたいです。
 
-ちなみに、1社目を転職するきっかけとなったApache Nutch, Luceneを[Doug Cutting](https://en.wikipedia.org/wiki/Doug_Cutting)[^7] が作っていたということを、今更ながら知り、なるほどこれは必然だったかという想いでいっぱいです。[^8] 
+ちなみに、1社目を転職するきっかけとなったApache Nutch, Luceneを[Doug Cutting](https://en.wikipedia.org/wiki/Doug_Cutting)[^7] が作っていたということを、今更ながら知り、なるほどこれは必然だったかという想いでいっぱいです。[^8]
 
 [^1]: 念のため補足すると、簡単なSolr検索のデモアプリをRails2系で書いて、後はSinatraでAPIサーバー書いてたり、OSS活動はしてたけど、他の人からするとほぼ0レベルだった
 
@@ -102,5 +102,3 @@ kawasaki.rbやMachine Learning Casual Talks、Julia Tokyoなどのミートア�
 [^7]: Hadoopの生みの親。今はClouderaのChief Architectをしている
 
 [^8]: 1社目を出るきっかけがRubyとSolr,Nutch,Hadoopだったので、MatzとDougが僕の人生を変えたと言っても過言ではない
-
-

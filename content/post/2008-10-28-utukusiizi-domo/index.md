@@ -30,5 +30,5 @@ recommendations: [/post/2008-08-26-akihabara-at-deep/, /post/2008-11-06-koredeii
   
 でも、二回目は読みたくない本です。食欲がなくなるので……。
 
-Tags:[本](http://mrk0369.exblog.jp/tags/%E6%9C%AC/) 
+
 

@@ -24,5 +24,5 @@ recommendations: [/post/2009-04-13-it-dont-mean-a-thing/, /post/2008-07-16-rocka
   
 BGM:The Real Group "Substitute For Life"
 
-Tags:[音楽](http://mrk0369.exblog.jp/tags/%E9%9F%B3%E6%A5%BD/) [合唱](http://mrk0369.exblog.jp/tags/%E5%90%88%E5%94%B1/) 
+
 

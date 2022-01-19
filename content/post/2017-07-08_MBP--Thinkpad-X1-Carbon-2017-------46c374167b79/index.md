@@ -118,8 +118,7 @@ chocolateyからRubyをインストールしたんですが、MSYSへの依存�
 
 以前blogにも書いたとおり、Dockerベースでやっています。
 
-[**Docker imageを用意してWindows/macOSでスムーズに同人誌を作った話（Sphinx編） - once upon a time,**  
-_こんにちは、 ハイラル に移住したchezouです。最近は、Rから始まりRで終わる言語をよく書いています。 いよいよ明日に迫ってきた 技術書典2ですが、お-13で 技術書供養寺として頒布を行います。 内容は、僕の 機械学習の実務にお…_chezou.hatenablog.com](https://chezou.hatenablog.com/entry/2017/04/08/164729 "https://chezou.hatenablog.com/entry/2017/04/08/164729")[](https://chezou.hatenablog.com/entry/2017/04/08/164729)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/" data-iframely-url="//iframely.net/CsslNL8"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
 注意しないといけないのが、current directoryの指定のしかたが、 `$(pwd)` から `${PWD}` にPowerShellだと変わることくらいです。
 

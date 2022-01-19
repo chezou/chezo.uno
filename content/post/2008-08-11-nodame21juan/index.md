@@ -32,5 +32,5 @@ ISBN : 4063407128
   
 でも、続きが気になっちゃいます。
 
-Tags:[本](http://mrk0369.exblog.jp/tags/%E6%9C%AC/) 
+
 

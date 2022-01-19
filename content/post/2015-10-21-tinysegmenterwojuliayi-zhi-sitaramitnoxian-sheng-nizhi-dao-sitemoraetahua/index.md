@@ -98,5 +98,3 @@ Juliaのパッケージは[METADATA.jl](https://github.com/JuliaLang/METADATA.jl
 [^2]: なお、ご専門は最適化の様子でNLP関係ない
 
 [^3]: この頃には、2015年にもなって日本人がChar型のある言語を触るのしんどい心折れそうでした
-
-

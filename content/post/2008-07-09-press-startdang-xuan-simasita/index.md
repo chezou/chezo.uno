@@ -19,6 +19,3 @@ recommendations: [/post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing
 いやっほぅぅぅぅ！  
   
 これで、オーチャードホールが堪能できるぜ！ゲーム音楽を生で聴くのは久々なので楽しみですわ。
-
-Tags:[音楽](http://mrk0369.exblog.jp/tags/%E9%9F%B3%E6%A5%BD/) 
-

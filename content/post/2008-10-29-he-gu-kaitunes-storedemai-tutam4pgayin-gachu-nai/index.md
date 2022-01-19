@@ -39,5 +39,5 @@ recommendations: [/post/2011-04-07-soredemotake6halai-ri-suru/, /post/2011-02-08
 ----081031追記  
 どうやら、iGainをm4pにかけると-100%にされて文字化けしてしまっているのがダメらしい。納得。
 
-Tags:[アカペラ](http://mrk0369.exblog.jp/tags/%E3%82%A2%E3%82%AB%E3%83%9A%E3%83%A9/) [合唱](http://mrk0369.exblog.jp/tags/%E5%90%88%E5%94%B1/) 
+
 

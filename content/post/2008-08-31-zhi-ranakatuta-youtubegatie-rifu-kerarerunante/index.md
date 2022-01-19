@@ -24,5 +24,5 @@ recommendations: [/post/2018-01-17_----------------b63a0763e904/, /post/2009-03-
 言葉ではよーかかんですけどね。  
 また、後ほど。
 
-Tags:[音楽](http://mrk0369.exblog.jp/tags/%E9%9F%B3%E6%A5%BD/) 
+
 

@@ -22,5 +22,5 @@ recommendations: [/post/2009-07-05-guan-dong-hagame-musichoihoida/, /post/2010-0
   
 任天堂メドレーが楽しめました。いや、他も聴きたいし次は生で聴きたいです。本当に。
 
-Tags:[音楽](http://mrk0369.exblog.jp/tags/%E9%9F%B3%E6%A5%BD/) [ゲーム](http://mrk0369.exblog.jp/tags/%E3%82%B2%E3%83%BC%E3%83%A0/) 
+
 

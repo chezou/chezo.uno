@@ -32,5 +32,5 @@ ISBN : B000WM8KPI
 SA-15S1→HD53R Ver.8→HD650,HD555,K240S,HFI-700です。  
 HD555とHFI-700はまだ試してないや。
 
-Tags:[音楽](http://mrk0369.exblog.jp/tags/%E9%9F%B3%E6%A5%BD/) [ヘッドホン](http://mrk0369.exblog.jp/tags/%E3%83%98%E3%83%83%E3%83%89%E3%83%9B%E3%83%B3/) 
+
 

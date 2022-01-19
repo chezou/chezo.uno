@@ -16,7 +16,7 @@ recommendations: [/post/2015-11-22-idcfkuraudono500yuan-sabadepodcast-serverwoha
   /post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa/,
   /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/]
 ---
-[rubyist.club](http://rubyist.club/)というpodcastをやっているのですが、[IDCFクラウド](http://www.idcf.jp/cloud/)の上で動いています。
+[rubyist.club](http://rubyistclub.chezo.uno/)というpodcastをやっているのですが、[IDCFクラウド](http://www.idcf.jp/cloud/)の上で動いています。
 
 # tl;dr
 
@@ -40,7 +40,7 @@ IDCF自体の障害はちょこちょこ発生しているようですが、今�
 
 # 録音環境
 
-ついでですが、以前にも少し[書きました](https://chezou.hatenablog.com/entry/2015/02/14/235008)が、ソフトウェア構成が変わったので書きます。
+ついでですが、以前にも少し[書きました](https://chezo.uno/post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa)が、ソフトウェア構成が変わったので書きます。
 
 - Skype
   - [Ecamm Call recorder for skype](http://www.ecamm.com/mac/callrecorder/)でバックアップ用に会話を録音
@@ -63,5 +63,3 @@ IDCF自体の障害はちょこちょこ発生しているようですが、今�
 [^1]: たしか、rebuild.fmは[linode](https://www.linode.com/pricing)使ってて2~3TB無料なので、それくらいなら大丈夫かと踏んでいる
 
 [^2]: 🐸の声も入ってしまった
-
-

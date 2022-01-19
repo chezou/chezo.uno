@@ -15,7 +15,9 @@ keywords: [最適化, julia, hash, 比較, go, 言語, sgj, repeatedly, hateblo,
 recommendations: [/post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/,
   /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/, /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/]
 ---
-先日、[TinySegmenter.jlの話](https://chezou.hatenablog.com/entry/2015/10/21/234317)を書いたら各方面から反響を頂きました。
+
+先日、[TinySegmenter.jlの話](https://chezo.uno/post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua
+)を書いたら各方面から反響を頂きました。
 
 <iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Frepeatedly.github.io%2Fja%2F2015%2F10%2Ftinysegmenter-benchmark-and-d%2F" title="TinySegmenterのベンチマーク + D言語版 - Go ahead!" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://repeatedly.github.io/ja/2015/10/tinysegmenter-benchmark-and-d/">repeatedly.github.io</a></cite>
 
