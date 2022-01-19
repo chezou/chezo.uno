@@ -8,7 +8,7 @@ keywords: [ml, learning, production, opml, linkedin, airbnb, machine, conference
   operational, manager]
 authors: [aki]
 aliases:
-  - /blog/the-first-conference-of-Operational-Machine-Learning--OpML--19-308baad36108
+  - /blog/the-first-conference-of-pperational-machine-learning--opml--19-308baad36108
   - /blog/308baad36108
 recommendations: [/blog/2017-08-03_Why-OSS-based-machine-learning-is-good--3ab45a1a5e52/,
   /blog/2019-04-24_Ruby-for-Data-Science-and-Machine-Learning-9f03e99125e0/, /blog/2017-08-30_Python-basics--package-management-462918458f96/]
