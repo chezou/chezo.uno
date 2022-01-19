@@ -2,8 +2,9 @@
 from prelims import StaticSitePostsHandler
 from prelims.processor import Recommender
 
+tfidf_opts_en = {"stop_words": "english", "max_df": 0.95, "min_df": 2}
 handler = StaticSitePostsHandler(r"content/blog", ignore_files=['_index.md'])
-handler.register_processor(Recommender(permalink_base="/blog", stop_words="english"))
+handler.register_processor(Recommender(permalink_base="/blog", **tfidf_opts_en))
 handler.execute()
 
 from sudachipy import tokenizer
