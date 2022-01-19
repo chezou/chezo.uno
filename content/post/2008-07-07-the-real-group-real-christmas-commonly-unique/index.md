@@ -35,5 +35,5 @@ Telepone Talkingが大好きです。
 なじみ深いChristmas Songをアカペラアレンジしたものから、かの国の曲まで。あー、Jul, julってこんな曲だったんだね。のーんびりしたいときに聞くのが良いと思います。  
 るどるふー、大好きだー
 
-Tags:[音楽](http://mrk0369.exblog.jp/tags/%E9%9F%B3%E6%A5%BD/) [合唱](http://mrk0369.exblog.jp/tags/%E5%90%88%E5%94%B1/) 
+
 

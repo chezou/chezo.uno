@@ -26,5 +26,5 @@ recommendations: [/post/2005-07-17-urayamasika/, /post/2008-10-05-hd53r-ver-dot-
   
 全般的に買って良かったなと思います。アマゾン的には☆４つかな。二人で組み立てれれば５つになったかなと。
 
-Tags:[雑談](http://mrk0369.exblog.jp/tags/%E9%9B%91%E8%AB%87/) 
+
 

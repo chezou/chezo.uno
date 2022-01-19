@@ -20,5 +20,5 @@ Fight of Foo Birdsもかっこいいですが。
   
 この辺のThe Real Groupが歌っているような曲の元曲やら、アレンジ曲を集めてみたいなぁと、思ってRealのCDをニマニマしながら聞いております。
 
-Tags:[音楽](http://mrk0369.exblog.jp/tags/%E9%9F%B3%E6%A5%BD/) 
+
 

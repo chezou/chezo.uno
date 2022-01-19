@@ -22,10 +22,5 @@ recommendations: [/post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita
   
 過去のエントリ  
 ○Masa Festa  
-[世界最大規模のアカペラ祭が日本で](http://mrk0369.exblog.jp/10997281/)  
-[続報Masa Festa](http://mrk0369.exblog.jp/11016522/)  
-  
-○Rajaton  
-[http://mrk0369.exblog.jp/9172651](http://mrk0369.exblog.jp/9172651)
-
-
+[世界最大規模のアカペラ祭が日本で](https://chezo.uno/post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/)  
+[続報Masa Festa](https://chezo.uno/post/2009-03-03-sok-bao-masa-festa/)  

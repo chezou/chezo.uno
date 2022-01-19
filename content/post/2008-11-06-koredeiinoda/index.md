@@ -24,5 +24,5 @@ ISBN : 4167753278
   
 気楽に読める一冊です。
 
-Tags:[本](http://mrk0369.exblog.jp/tags/%E6%9C%AC/) 
+
 

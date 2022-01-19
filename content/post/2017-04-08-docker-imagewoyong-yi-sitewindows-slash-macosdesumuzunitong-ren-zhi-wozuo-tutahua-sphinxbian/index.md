@@ -34,7 +34,7 @@ recommendations: [/post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-do
 
 SphinxのDocker imageの作り方等は過去に書いているのでそちらを参考にしてください。
 
-<iframe src="https://chezou.hatenablog.com/embed/2017/01/23/123835" title="Gitlab CIを使ってSphinxのドキュメントを自動でPDFにビルドする - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2017/01/23/123835">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/" data-iframely-url="//iframely.net/zOVIEuy"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
 ## なぜDocker imageを用意したか？
 

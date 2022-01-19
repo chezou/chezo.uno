@@ -31,5 +31,5 @@ Joseph fill Davidは懐かしかった。でも、全体的に内声がとけな
 そして、Bob ChilcotのEvery time I feel the spiritも良かった。  
 ノリの良い曲の方があう団体でした。
 
-Tags:[音楽](http://mrk0369.exblog.jp/tags/%E9%9F%B3%E6%A5%BD/) 
+
 

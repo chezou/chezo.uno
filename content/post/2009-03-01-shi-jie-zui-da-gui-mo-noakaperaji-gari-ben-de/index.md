@@ -24,5 +24,5 @@ recommendations: [/post/2009-03-03-sok-bao-masa-festa/, /post/2009-03-09-masafes
   
 とりあえず、The Real Groupとかが来るわけではないみたいですが、ほいほい行ってしまいそうなタイミングです。お盆休みをそこでとれば良いんですね、分かります。
 
-Tags:[アカペラ](http://mrk0369.exblog.jp/tags/%E3%82%A2%E3%82%AB%E3%83%9A%E3%83%A9/) [音楽](http://mrk0369.exblog.jp/tags/%E9%9F%B3%E6%A5%BD/) 
+
 

@@ -22,7 +22,7 @@ gitlab.comは自前でDocker image登録できたり、CI持っていたりと�
 
 前回の記事では、数式入りのmarkdownからPDFを生成するDocker imageを作りましたが、それを使うと簡単にGitlab-CIでPDFが生成できます。
 
-<iframe src="https://chezou.hatenablog.com/embed/2017/01/22/161124" title="数式入りのmarkdownをSphinxを使ってhtml/pdfにする - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2017/01/22/161124">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/" data-iframely-url="//iframely.net/7zd0Evy"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
 やり方は簡単、あなたのSphinxのプロジェクトに、以下のような`.gitlab-ci.yml`を書くだけ。もちろん、必要に応じてpathsは変更してください。
 

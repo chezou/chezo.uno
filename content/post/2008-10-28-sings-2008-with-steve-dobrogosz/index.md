@@ -23,5 +23,5 @@ recommendations: [/post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2009
   
 総じて素晴らしい演奏会でした。機会があれば参加してみたいです、SINGS。
 
-Tags:[音楽](http://mrk0369.exblog.jp/tags/%E9%9F%B3%E6%A5%BD/) [合唱](http://mrk0369.exblog.jp/tags/%E5%90%88%E5%94%B1/) 
+
 

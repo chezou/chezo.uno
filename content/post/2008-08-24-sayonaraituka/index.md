@@ -26,5 +26,5 @@ ISBN : 434440257X
   
 良い作品です。
 
-Tags:[本](http://mrk0369.exblog.jp/tags/%E6%9C%AC/) 
+
 

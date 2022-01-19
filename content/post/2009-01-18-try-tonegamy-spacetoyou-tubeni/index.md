@@ -19,5 +19,5 @@ recommendations: [/post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de
   
 1/18付けで一番上にある約束が、どうみても先日のLAZONA川崎のクリスマスライブな気がして仕方がないんですが。あの客周辺の女の子の声とか、後ろのグループ名の投影の仕方が、特に。
 
-Tags:[アカペラ](http://mrk0369.exblog.jp/tags/%E3%82%A2%E3%82%AB%E3%83%9A%E3%83%A9/) [音楽](http://mrk0369.exblog.jp/tags/%E9%9F%B3%E6%A5%BD/) 
+
 

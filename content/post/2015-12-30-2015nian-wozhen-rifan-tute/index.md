@@ -49,11 +49,11 @@ recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2016-05-05
 
 [神奈川Ruby会議01 - Home](http://regional.rubykaigi.org/kana01/)
 
-<iframe src="https://chezou.hatenablog.com/embed/2015/01/25/004103" title="神奈川Ruby会議を開催しました #kana01 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2015/01/25/004103">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/" data-iframely-url="//iframely.net/Uv6RBE8"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
 ## podcast
 
-[rubyist.club](http://rubyist.club/)というPodcastを[rebuild.fm](http://rebuild.fm/)にあこがれてはじめました。
+[rubyist.club](http://rubyistclub.chezo.uno/)というPodcastを[rebuild.fm](http://rebuild.fm/)にあこがれてはじめました。
 
 きっかけは神奈川Ruby会議のパネルディスカッションをもっと深掘りしたいという気持ちだったのですが、最近では"Rubyist"という縛りが厳しすぎたかなぁという気持ちになっています😅
 
@@ -114,7 +114,7 @@ MLCTはスピーカーのアサインとテーマ設定がなかなか難しく�
 
 一年に3回開催することが出来ました。 だんだんとDeep Learningな話が増えてきており、楽しい限りです。言語縛りは有りますが最適化や機械学習が好きな人が集まってきてトークする流れが定着しているのは良いなぁと思います。
 
-<iframe src="https://chezou.hatenablog.com/embed/2015/12/25/210248" title="Julia Tokyo #5を開催しました #JuliaTokyo - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2015/12/25/210248">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/" data-iframely-url="//iframely.net/BMSZcWF"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
 # プライベートな開発
 
@@ -122,11 +122,11 @@ MLCTはスピーカーのアサインとテーマ設定がなかなか難しく�
 
 個人的にもJuliaの一年でした。特にTinySegmenter.jlを時差を最大限に活用した高速化をしたのはいい思い出です。
 
-<iframe src="https://chezou.hatenablog.com/embed/2015/04/26/222518" title="#JuliaTokyo で #juliaわからん という雑なレポジトリを立てた話をしたら julia.tokyo ができてた - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2015/04/26/222518">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/" data-iframely-url="//iframely.net/6fTO8dS"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script></br>
 
-<iframe src="https://chezou.hatenablog.com/embed/2015/09/23/021608" title="MeCab.jlをJulia v0.4.0-rc2に対応した - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2015/09/23/021608">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/" data-iframely-url="//iframely.net/aeV1LVa"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
-<iframe src="https://chezou.hatenablog.com/embed/2015/10/21/234317" title="TinySegmenterをJulia移植したらMITの先生に指導してもらえた話 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2015/10/21/234317">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/" data-iframely-url="//iframely.net/Xo3BkWN"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
 MeCab.jlとTinySegmenter.jlで少しずつ日本語のテキスト解析事例が増えてきたので嬉しい限りです。来年はもっときちんとしたものを作りたいなぁと思っています。
 
@@ -166,7 +166,7 @@ Lean Analyticsの日本語版の翻訳のお手伝いをしたのですが、今
 
 もともと、昨年社内で読書会をしていたのですが、データ分析をするものの心構えとして大事なことが詰まっている本です。
 
-<iframe src="https://chezou.hatenablog.com/embed/2014/12/29/014733" title="社内でLean Analytics読書会を終えました - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://chezou.hatenablog.com/entry/2014/12/29/014733">chezou.hatenablog.com</a></cite>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/" data-iframely-url="//iframely.net/1KyO1VQ"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
 harupongさんみたいに翻訳をゴリゴリやっている人とのレベル差も知ることが出来て良い経験でした。
 
@@ -193,5 +193,3 @@ harupongさんみたいに翻訳をゴリゴリやっている人とのレベル
 [^1]: ただし、LINEのアカウントは交換していない
 
 [^2]: 成長している人の側で仕事するのは楽しいですね！
-
-

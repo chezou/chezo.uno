@@ -44,9 +44,9 @@ Ingress専門のPodcastなんて国内にはないだろう!?と思って始め�
 
 ソフトウェア的な構成は前のエントリで書きました。
 
-<iframe src="https://chezou.hatenablog.com/embed/2015/02/14/235008" title="Garagebandでskypeとマイクの音を別トラックで録音する方法 - once upon a time," class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"><a href="https://chezou.hatenablog.com/entry/2015/02/14/235008">Garagebandでskypeとマイクの音を別トラックで録音する方法 - once upon a time,</a></iframe>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa/" data-iframely-url="//iframely.net/dE2f2FZ"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
-[Garagebandでskypeとマイクの音を別トラックで録音する方法 - once upon a time,](https://chezou.hatenablog.com/entry/2015/02/14/235008)
+[Garagebandでskypeとマイクの音を別トラックで録音する方法 - once upon a time,](https://chezo.uno/post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa)
 
 ただ、この構成少し無駄があったり複雑だったりする(LineInは2つもいらなさそう)ので、次回はmiyagawaさんおすすめの [ecamm Call Recorder](http://www.ecamm.com/mac/callrecorder/)を使ってシンプルにしてみようと思います。
 
@@ -63,7 +63,7 @@ Ingress専門のPodcastなんて国内にはないだろう!?と思って始め�
 
 大昔に多重録音向けに買った機材が役に立っています。
 
-[https://chezou.hatenablog.com/entry/20091126/1416661036](https://chezou.hatenablog.com/entry/20091126/1416661036)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/" data-iframely-url="//iframely.net/RYvUmRr"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
 - マイク: BEHRINGER XM500
 - AudioIF: m-audio fast track usb

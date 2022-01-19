@@ -58,7 +58,7 @@ recommendations: [/post/2015-12-21-xiao-saizi-gong-gazi-fen-karayao-woyin-mitaku
 
 こうして、普段自分の子供の話すらしたことがない同僚からも「うーやん見てみたいんですけど」と言われるまでになります。
 
-2歳位のお子さんをお持ちの同僚と話をしていると、思った以上に「どういう絵本を読めばいいのかわからない」と困っている人が多いように感じました。[2013年のAdvent Calendar](https://chezou.hatenablog.com/entry/20131208/1416661536)でも紹介した、[メルヘンハウスのブッククラブ](https://bookclub.meruhenhouse.co.jp/)のように、 おまかせで毎月届けてくれるサービスを使うのも良いかもしれません。
+2歳位のお子さんをお持ちの同僚と話をしていると、思った以上に「どういう絵本を読めばいいのかわからない」と困っている人が多いように感じました。[2013年のAdvent Calendar](https://chezo.uno/post/2013-12-08-yu-gan-yarizumugale-siihatutosuruhui-ben-3ce)でも紹介した、[メルヘンハウスのブッククラブ](https://bookclub.meruhenhouse.co.jp/)のように、 おまかせで毎月届けてくれるサービスを使うのも良いかもしれません。
 
 小さいお子さんをお持ちで、まだうーやんを持っていない方は是非一度手にとって見るとよいでしょう。
 

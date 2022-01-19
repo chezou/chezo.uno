@@ -28,5 +28,5 @@ ISBN : B001CRGVAS
   
 しかも、一緒に着いてくるライブDVDが熱い！これはDVDまであわせて一つの作品ととらえるしか。ライブ行きたくなってしまいました。
 
-Tags:[音楽](http://mrk0369.exblog.jp/tags/%E9%9F%B3%E6%A5%BD/) 
+
 
