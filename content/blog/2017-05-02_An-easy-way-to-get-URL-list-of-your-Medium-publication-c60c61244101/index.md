@@ -7,6 +7,9 @@ categories: []
 keywords: [publication, articles, list, url, medium, wordpress, redirect, posts, showing,
   scrolling]
 authors: [aki]
+aliases:
+  - /blog/an-easy-way-to-get-url-list-of-your-Medium-publication-c60c61244101
+  - /blog/c60c61244101
 recommendations: [/blog/2017-05-28_tabula-py-now-able-to-extract-remote-PDF-and-multiple-tables-at-once-6108e24ac07c/,
   /blog/2016-12-01_Text-to-speech-based-on-deep-learning-for-Web-site-using-Amazon-Polly-and-Ruby-adc1923212cb/,
   /blog/py-operator-development-guide-for-python-users/]

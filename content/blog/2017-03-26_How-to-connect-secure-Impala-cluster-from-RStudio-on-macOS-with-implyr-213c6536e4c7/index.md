@@ -7,6 +7,9 @@ categories: []
 keywords: [odbc, impala, sasl, ini, authentication, airports, implyr, driver, setting,
   cloudera]
 authors: [aki]
+aliases:
+  - /blog/how-to-connect-secure-impala-cluster-from-rstudio-on-macos-with-implyr-213c6536e4c7
+  - /blog/213c6536e4c7
 recommendations: [/blog/2017-02-11_Visualize-your-massive-data-with-Impala-and-Redash-afe31133c644/,
   /blog/2017-08-02_How-to-run-Cloudera-Director-on-your-macOS-Windows-10-710f82aa1d63/,
   /blog/2016-10-15_Building-predictive-Model-with-Ibis--Impala-and-scikit-learn-356b41f404e0/]

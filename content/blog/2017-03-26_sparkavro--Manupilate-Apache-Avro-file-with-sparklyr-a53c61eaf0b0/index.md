@@ -6,6 +6,9 @@ date: '2017-03-26T21:02:01+09:00'
 categories: []
 keywords: [avro, spark, sparklyr, sparkavro, sc, df, devtools, _avro, simple, library]
 authors: [aki]
+aliases:
+  - /blog/sparkavro-manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0
+  - /blog/a53c61eaf0b0
 recommendations: [/blog/2016-12-30_Livy---Jupyter-Notebook---Sparkmagic---Powerful---Easy-Notebook-for-Data-Scientist-a8b72345ea2d/,
   /blog/2016-10-15_Building-predictive-Model-with-Ibis--Impala-and-scikit-learn-356b41f404e0/,
   /blog/2017-01-09_tabula-py--Extract-table-from-PDF-into-Python-DataFrame-6c7acfa5f302/]

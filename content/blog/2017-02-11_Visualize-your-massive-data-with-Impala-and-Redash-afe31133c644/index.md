@@ -7,6 +7,9 @@ categories: []
 keywords: [impala, redash, query, data, set, hiveserver2, admin, database, visualize,
   result]
 authors: [aki]
+aliases:
+  - /blog/visualize-your-massive-data-with-impala-and-redash-afe31133c644
+  - /blog/afe31133c644
 recommendations: [/blog/2017-03-26_How-to-connect-secure-Impala-cluster-from-RStudio-on-macOS-with-implyr-213c6536e4c7/,
   /blog/2016-10-15_Building-predictive-Model-with-Ibis--Impala-and-scikit-learn-356b41f404e0/,
   /blog/2019-04-24_Ruby-for-Data-Science-and-Machine-Learning-9f03e99125e0/]
