@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [アプリ, chromecast, airplay, 発売日, 音声認識, pros, cons, cast, 出版社, メーカー]
-recommendations: [/post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/,
-  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/]
+recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/,
+  /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/]
 ---
 Amazon Fire TV StickをPrime会員割引で\1980で買いました。（定価は\4980)
 

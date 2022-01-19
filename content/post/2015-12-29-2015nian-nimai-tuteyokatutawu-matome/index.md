@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [フィルム, 搭載, synology, nas, スタンド, cs, ds, cm, 内蔵, 出版社]
+keywords: [出版社, メーカー, synology, 商品, メディア, フィルム, nas, ブログ, panasonic, サイクル]
 recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
-  /post/2019-03-10_business-trip-goods/]
+  /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/]
 ---
 書いておくと後から検索できることもあり、今年買ってよかったものを書いていこうと思います。
 

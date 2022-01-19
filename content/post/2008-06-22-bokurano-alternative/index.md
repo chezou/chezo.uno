@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [作品, 漫画版, 最終回, 文庫, 取り扱い, alternative, 対談, 原作, ぼくらの, 最終]
-recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-08-24-sayonaraituka/,
-  /post/2008-07-30-narutaru/]
+keywords: [作品, 漫画版, 最終回, 取り扱い, 対談, 原作, ぼくらの, 最終, 小説, 小学館]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-30-narutaru/,
+  /post/2008-08-24-sayonaraituka/]
 ---
 {{< amazon asin="4094510753" title="ぼくらの ~alternative~ 5 (ガガガ文庫 お 1-5)" >}}
 大樹 連司 / / 小学館  

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['27', 新潮社, キャラクター, comics, 描写, 行動, やばい, 家族, isbn, 良かっ]
+keywords: [新潮社, キャラクター, 描写, 行動, やばい, 家族, isbn, 良かっ, 展開, スコア]
 recommendations: [/post/2008-09-06-feng-gaqiang-kuchui-iteiru/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
-  /post/2008-06-03-gao-wu-nai-yue/]
+  /post/2008-08-24-sayonaraituka/]
 ---
 {{< amazon asin="4107714209" title="エンジェル・ハート 27 (27) (BUNCH COMICS)" >}}
 北条 司 / / 新潮社  

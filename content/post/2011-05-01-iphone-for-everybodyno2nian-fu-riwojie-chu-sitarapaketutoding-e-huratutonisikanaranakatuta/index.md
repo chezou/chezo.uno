@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [パケットし放題, スマートフォン, パケット定額, for, 契約, 縛り, iphone, 選択肢, ソフトバンク, 段階]
+keywords: [パケットし放題, スマートフォン, for, パケット定額, 契約, 縛り, iphone, 選択肢, ソフトバンク, 段階]
 recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2011-04-30-ipad2totomoniwu-liao-wi-fisupotutowogetutosuruer-tunofang-fa/,
   /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---

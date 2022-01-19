@@ -3,13 +3,14 @@ title: Building predictive Model with Ibis, Impala and scikit-learn
 description: tl;dr
 date: '2016-10-15T06:10:31+09:00'
 categories: [ibis]
-keywords: [ibis, notebook, data, model, spark, demo, pandas, port, x10, movie]
 authors: [aki]
-aliases:
-  - /blog/building-predictive-model-with-ibis-impala-and-scikit-learn-356b41f404e0
-  - /blog/356b41f404e0
-recommendations: [/blog/2016-12-30_Livy---Jupyter-Notebook---Sparkmagic---Powerful---Easy-Notebook-for-Data-Scientist-a8b72345ea2d/,
-  /blog/2019-04-24_Ruby-for-Data-Science-and-Machine-Learning-9f03e99125e0/, /blog/2017-02-11_Visualize-your-massive-data-with-Impala-and-Redash-afe31133c644/]
+aliases: [/blog/building-predictive-model-with-ibis-impala-and-scikit-learn-356b41f404e0,
+  /blog/356b41f404e0]
+keywords: [notebook, data, model, spark, pandas, port, rails, predictive, netflix,
+  known]
+recommendations: [/blog/2016-12-30_livy---jupyter-notebook---sparkmagic---powerful---easy-notebook-for-data-scientist-a8b72345ea2d/,
+  /blog/2017-03-26_sparkavro--manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0/,
+  /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/]
 ---
 
 ### tl;dr

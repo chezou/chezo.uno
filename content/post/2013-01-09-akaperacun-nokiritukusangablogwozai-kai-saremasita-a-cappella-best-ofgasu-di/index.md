@@ -11,10 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [the, '39', in, cd, live, it, she, king, du, a cappella]
-recommendations: [/post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/,
-  /post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/,
-  /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
+keywords: [the, in, cd, live, she, king, du, a cappella, of, singers]
+recommendations: [/post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/, /post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/,
+  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
 ---
 素敵なアカペラCDを通販されていたあかぺら村のキリックさんが、この度blogを解説されたようです！
 

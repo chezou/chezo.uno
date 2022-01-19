@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [教科書, イギリス, 義務, フランス, 韓国, アメリカ, 欧米, 台湾, カナダ, 試験]
+keywords: [教科書, イギリス, 義務, フランス, 韓国, アメリカ, 欧米, 台湾, カナダ, 使用]
 recommendations: [/post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/,
-  /post/2008-08-11-mian-bai-ihodoyokufen-karuzhe-xue-si-xiang-nosubete/, /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/]
+  /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/, /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/]
 ---
 [第３期科学技術基本計画  
 のフォローアップ「理数教育部分」に係る調査研究](http://www.nier.go.jp/seika_kaihatsu_2/)という国立教育政策研究所の報告書を読んだメモです。2009年3月の報告書です。  

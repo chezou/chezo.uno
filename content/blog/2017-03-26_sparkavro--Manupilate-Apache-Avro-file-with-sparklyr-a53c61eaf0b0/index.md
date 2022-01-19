@@ -4,14 +4,13 @@ description: I created a simple sparklyr extension to handle Apache Avro file. I
   is just a simple wrapper of DataBrick’s spark-avro. It is listed in…
 date: '2017-03-26T21:02:01+09:00'
 categories: []
-keywords: [avro, spark, sparklyr, sparkavro, sc, df, devtools, _avro, simple, library]
 authors: [aki]
-aliases:
-  - /blog/sparkavro-manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0
-  - /blog/a53c61eaf0b0
-recommendations: [/blog/2016-12-30_Livy---Jupyter-Notebook---Sparkmagic---Powerful---Easy-Notebook-for-Data-Scientist-a8b72345ea2d/,
-  /blog/2016-10-15_Building-predictive-Model-with-Ibis--Impala-and-scikit-learn-356b41f404e0/,
-  /blog/2017-01-09_tabula-py--Extract-table-from-PDF-into-Python-DataFrame-6c7acfa5f302/]
+aliases: [/blog/sparkavro-manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0,
+  /blog/a53c61eaf0b0]
+keywords: [spark, simple, library, file, test, chezou, install, tmp, load, foo]
+recommendations: [/blog/2016-12-30_livy---jupyter-notebook---sparkmagic---powerful---easy-notebook-for-data-scientist-a8b72345ea2d/,
+  /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
+  /blog/2017-08-30_python-basics--package-management-462918458f96/]
 ---
 
 I created a simple [sparklyr](http://spark.rstudio.com/) extension to handle Apache Avro file. It is just a simple wrapper of DataBrick’s [spark-avro](https://github.com/databricks/spark-avro). It is listed in [the official document of sparklyr extensions](http://spark.rstudio.com/extensions.html).

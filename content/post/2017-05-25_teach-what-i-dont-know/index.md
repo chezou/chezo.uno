@@ -3,10 +3,10 @@ title: 体験したことのない概念を教えるということ
 description: 最近、子供にルビィのぼうけんやスクラッチの本を買ったら子供が読んでとよくせがまれるようになった。
 date: '2017-05-25T10:07:52+09:00'
 categories: [kids, life]
-keywords: [子供, センサー, コンピュータ, プログラミング, スクラッチ, アマゾン, amzn, 獲得, 概念, to]
 authors: [aki]
-recommendations: [/post/2018-06-27_internet-for-kids/, /post/2017-12-23_----------------------701333a45696/,
-  /post/2013-12-08-yu-gan-yarizumugale-siihatutosuruhui-ben-3ce/]
+keywords: [子供, センサー, コンピュータ, プログラミング, スクラッチ, アマゾン, amzn, to, 獲得, 概念]
+recommendations: [/post/2018-06-27_internet-for-kids/, /post/2013-12-08-yu-gan-yarizumugale-siihatutosuruhui-ben-3ce/,
+  /post/2017-12-23_----------------------701333a45696/]
 ---
 
 最近、子供にルビィのぼうけんやスクラッチの本を買ったら子供が読んでとよくせがまれるようになった。

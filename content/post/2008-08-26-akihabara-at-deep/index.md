@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [秋葉原, 武器, 要素, 以前, 読後感, 素晴らし, 石田衣良, はやり, 直後, 春秋]
-recommendations: [/post/2008-10-28-utukusiizi-domo/, /post/2008-11-06-koredeiinoda/,
-  /post/2008-09-10-enzieruhato-27/]
+recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-10-28-utukusiizi-domo/,
+  /post/2008-11-06-koredeiinoda/]
 ---
 {{< amazon asin="4167174111" title="アキハバラ@DEEP (文春文庫)" >}}
 石田 衣良 / / 文藝春秋  

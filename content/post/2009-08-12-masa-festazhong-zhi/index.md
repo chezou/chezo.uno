@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [招聘, house, アーティスト, 来日, 海外, 影響, the real group, rajaton, 悪い, 今後]
 recommendations: [/post/2008-07-05-rajaton/, /post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/,
-  /post/2009-03-09-masafestanirajatonga/]
+  /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
 ---
 なんということか。RAJATONが、THE REAL GROUPが…。  
 残念でなりません。そして、今後の海外アーティスト招聘に悪い影響が出ないと良いのですが。

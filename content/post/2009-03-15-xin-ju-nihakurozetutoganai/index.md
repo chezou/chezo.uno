@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [ｒｙ, 始末, ラック, ハンガー, 全般的, カバー, 精度, 二人, やつ, アマゾン]
-recommendations: [/post/2005-07-17-urayamasika/, /post/2008-10-05-hd53r-ver-dot-8wogou-ru/,
-  /post/2016-05-29-sonomoderu-guo-xue-xi-siteruno-wei-xue-xi-nano-tokun-tutara/]
+recommendations: [/post/2005-07-17-urayamasika/, /post/2016-05-29-sonomoderu-guo-xue-xi-siteruno-wei-xue-xi-nano-tokun-tutara/,
+  /post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/]
 ---
 押し入れはあってもクローゼットがありません！  
 箪笥は置く場所がありません！というか引越の時にも大変そうです。お値段も（ｒｙ  

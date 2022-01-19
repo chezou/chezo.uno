@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [メドレー, トリガー, クロノ, 演奏会, メロディ, 演奏, 素晴らしい, ファイアーエムブレム, カエル, かけ声]
 recommendations: [/post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/,
-  /post/2008-11-08-liang-ishi-dai-ninatutanee/, /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/]
+  /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/]
 ---
 本日、[PRESS START2010 -SYMPHONY OF GAMES-@東京芸術劇場 大ホール](http://www.famitsu.com/famiweb/pressstart/)に行ってまいりました。  
 (写真はプログラム、この演奏会にあわせて発売した[CD](http://ebten.jp/famitsu/p/4541993016235/?aid=prc)、フリーペーパー2083)  

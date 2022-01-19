@@ -11,10 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [json, optional, price, pfi, data, max, string, js, '39', ss]
-recommendations: [/post/2011-11-26-zheng-gui-biao-xian-raiburarire2nojian-dan-nashi-ifang-matome/,
-  /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/,
-  /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/]
+keywords: [json, optional, price, pfi, data, max, string, js, ss, name]
+recommendations: [/post/2017-12-31_2017--------c4901627b12d/, /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/,
+  /post/2019-12-04-r-and-td/]
 ---
 [@unnonounoさんが紹介してくださったpficommon](http://unnonouno.blogspot.com/2011/10/pficommon.html)のjsonライブラリを試してみました。  
 pficommonのjsonライブラリはboostみたいにjsonと自分で作ったクラスのオブジェクトとのシリアライズ/デシリアライズができるのがとても魅力です。  

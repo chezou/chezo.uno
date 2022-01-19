@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [仕方, アカペラ, 女の子, 約束, 周辺, 付け, 後ろ, グループ, '18', blog]
-recommendations: [/post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/,
-  /post/2008-10-11-le-pu-gayu-sii/, /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
+keywords: [仕方, 女の子, 約束, 周辺, 付け, 後ろ, グループ, '18', blog, 先日]
+recommendations: [/post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2008-07-07-the-real-group-real-christmas-commonly-unique/,
+  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
 ---
 [マイスペース](http://www.myspace.com/trytonejapan)にいつの間にかTRY-TONEのオフィシャルページが出来てました。(Thanks! [アカペラおとぎblog館](http://a-cappella.seesaa.net/article/112766870.html)さん)  
   

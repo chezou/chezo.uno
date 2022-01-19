@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [エンジニア, プロダクト, 仕事, 転職, hadoop, 機械学習, データ, 面接, 対策, ポエム]
+keywords: [プロダクト, 仕事, エンジニア, 転職, hadoop, 機械学習, データ, ポエム, solr, rails]
 recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
   /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/]
 ---

@@ -4,14 +4,13 @@ description: Python is a very famous programming language for machine learning. 
   this article, I will introduce basic Python environment.
 date: '2017-08-30T11:31:15+09:00'
 categories: [python]
-keywords: [conda, python, package, install, virtualenv, venv, pip, packages, windows,
-  management]
 authors: [aki]
-aliases:
-  - /blog/python-basics-package-management-462918458f96
-  - /blog/462918458f96
-recommendations: [/blog/2017-07-24_Simple-way-to-distribute-your-private-Python-packages-within-your-organization-fb7af5dbd4c9/,
-  /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/, /blog/2019-11-26_How-to-release-Python-package-from-GitHub-Actions-d5a1d8edba6e/]
+aliases: [/blog/python-basics-package-management-462918458f96, /blog/462918458f96]
+keywords: [python, package, install, virtualenv, venv, pip, packages, windows, management,
+  tool]
+recommendations: [/blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/,
+  /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/,
+  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]
 ---
 
 Python is a very famous programming language for machine learning. In this article, I will introduce basic Python environment.

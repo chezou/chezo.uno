@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['21', 衝撃, 千秋, 講談社コミックス, 結婚, 知子, 二ノ宮, キス, 翌朝, スルー]
-recommendations: [/post/2008-07-06-nodamekantabire18-20/, /post/2010-01-01-12yue-nidu-ndaben/,
-  /post/2008-06-15-gui-cai-xian-ru/]
+keywords: [衝撃, 千秋, 結婚, 知子, 二ノ宮, 翌朝, スルー, 続き, だめ, その後]
+recommendations: [/post/2008-07-06-nodamekantabire18-20/, /post/2008-06-15-gui-cai-xian-ru/,
+  /post/2008-10-10-tiisanatiisanawang-yang/]
 ---
 {{< amazon asin="4063407128" title="のだめカンタービレ #21 (21) (講談社コミックスキス)" >}}
 二ノ宮 知子 / / 講談社  

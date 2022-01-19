@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [キーボード, thinkpad, トラック, ポイント, センター, lenovo, amazon, 修理, 交換, 電話]
-recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
-  /post/2017-01-19-macnojispei-lie-nokibodowokarabinershi-wazuniuspei-lie-nisuru/]
+keywords: [キーボード, thinkpad, トラック, センター, lenovo, amazon, 修理, ポイント, 交換, 電話]
+recommendations: [/post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
+  /post/2008-06-01-nantoiunu-li-noren/, /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/]
 ---
 みんな大好きトラックポイントキーボードですが、僕も昔使っていて最近miyagawaさんが使っていると知って再び使うようになりました。
 

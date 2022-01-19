@@ -12,7 +12,7 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [物語, mlse, 配信, 活動, 漫画, あと, オンライン, oss, マイク, '2020']
-recommendations: [/post/2020-11-10-mlse-conference/, /post/2020-07-11-MLSE-summer-workshop/,
+recommendations: [/post/2020-11-10-mlse-conference/, /post/2020-07-11-mlse-summer-workshop/,
   /post/2021-12-31-2021-year-review/]
 ---
 

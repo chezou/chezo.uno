@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [角川, コミックス, エース, '80', オリジナル, '16', isbn, スコア, 選択, 気分]
-recommendations: [/post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/,
-  /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/, /post/2008-07-06-nodamekantabire18-20/]
+keywords: [オリジナル, isbn, スコア, 選択, 角川, 気分, 引き合い, 角川書店, 後々, 瞬間]
+recommendations: [/post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/, /post/2008-09-10-enzieruhato-27/,
+  /post/2008-08-24-sayonaraituka/]
 ---
 {{< amazon asin="4047139874" title="機動戦士ガンダムTHE ORIGIN 16 オデッサ編・後 (16) (角川コミックス・エース 80-19)" >}}
 安彦 良和 / / 角川書店  

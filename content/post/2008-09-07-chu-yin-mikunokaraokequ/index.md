@@ -11,9 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [はず, 登録, 無念, 歌い手, pop, 作曲者, アーティスト, ネット, 無い, 名前]
-recommendations: [/post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/,
-  /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/, /post/2008-09-08-luck-stealer-2/]
+keywords: [はず, 登録, 無念, 歌い手, pop, 作曲者, アーティスト, 無い, 名前, 検索]
+recommendations: [/post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/,
+  /post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/,
+  /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/]
 ---
 JOY SOUNDならなんとかしてくれるはず！と信じて、初音ミクで検索しても二曲しか出なかった。  
   

@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [dvd, アルバム, cd, rajaton, 前者, aee, butterfly, '71', '35', 映像]
-recommendations: [/post/2008-09-28-bznoultra-treasuregayabasugiru/, /post/2009-11-26-the-real-album/,
-  /post/2009-03-09-masafestanirajatonga/]
+recommendations: [/post/2009-11-26-the-real-album/, /post/2008-09-28-bznoultra-treasuregayabasugiru/,
+  /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
 ---
 [![](p_1466_1100_a35c0282-e71c-40aa-ad01-4952aee2124c.jpeg)](p_1466_1100_a35c0282-e71c-40aa-ad01-4952aee2124c.jpeg)
 

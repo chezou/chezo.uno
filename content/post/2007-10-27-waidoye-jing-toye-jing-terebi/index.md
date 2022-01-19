@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [インチ, '20', ほしく, 3万, 決断, 次第, ブランド, 他社, ワイド, 1万]
+keywords: [インチ, '20', ほしく, 3万, 決断, ブランド, 次第, 他社, ワイド, 1万]
 recommendations: [/post/2005-08-06-webkamera/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
-  /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
+  /post/2008-09-14-hetudohonwu-se-sitahi/]
 ---
 20インチワイド液晶が3万円で手にはいると聞いて、沸々とほしくなってきた次第です。  
 20インチワイド液晶テレビが6万円で手に入りそうなのを見て、少しときめくわけですよ。  

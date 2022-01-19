@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [クロノトリガー, アレンジ, 康典, 光田, 音質, 原曲, 作曲, メドレー, シーン, time]
 recommendations: [/post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/,
-  /post/2008-06-03-er-du-qin-qian/, /post/2009-04-13-it-dont-mean-a-thing/]
+  /post/2009-04-13-it-dont-mean-a-thing/, /post/2008-06-03-er-du-qin-qian/]
 ---
 あまりそう思ってなかったんですが、聞いてみてどのシーンで使われていたのか思い出せず検索してみたら、こんな動画が出てきました。  
 クロノトリガー『時の回廊』全部俺の声（CHRONO TRIGGER Corridors of Time）

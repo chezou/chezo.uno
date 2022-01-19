@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [キャロル, soundcloud, iframe, panamusica, 格好, 'true', url, 興奮, フェア, クリスマス]
-recommendations: [/post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2012-09-25-singstodobrogoszgazai-bigong-yan/,
-  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
+recommendations: [/post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
+  /post/2012-09-25-singstodobrogoszgazai-bigong-yan/]
 ---
 [Panamusicaのクリスマスフェア](https://www.panamusica.co.jp/ja/campaign/index.php?img=3)で[Ola Gjeilo](http://olagjeilo.com/)さんのキャロルが特集されていました。
 

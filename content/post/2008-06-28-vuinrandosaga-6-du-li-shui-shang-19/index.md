@@ -11,8 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [幸村誠, 幸村, 山場, プラネテス, アフタヌーン, すばらしい, 物語, 前作, kc, 描写]
-recommendations: [/post/2008-07-30-narutaru/, /post/2008-08-24-sayonaraituka/, /post/2008-07-19-can-shu-gui-tou-mo-hong/]
+keywords: [必然, 幸村誠, 幸村, 山場, プラネテス, すばらしい, 物語, 前作, more, 描写]
+recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-07-06-nodamekantabire18-20/,
+  /post/2008-07-19-can-shu-gui-tou-mo-hong/]
 ---
 {{< amazon asin="4063145107" title="ヴィンランド・サガ 6 (6) (アフタヌーンKC)" >}}
 幸村 誠 / / 講談社  

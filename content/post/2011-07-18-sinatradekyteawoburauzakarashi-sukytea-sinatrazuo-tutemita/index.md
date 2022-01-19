@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [sinatra, kytea, 結果, mykytea, 解析, ruby, ブラウザ, mecab, seikichi, 出力]
+keywords: [sinatra, kytea, 結果, mykytea, 解析, ruby, ブラウザ, mecab, 出力, seikichi]
 recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
   /post/2012-11-10-websocketwoshi-tuteriarutaimunixing-tai-su-jie-xi-wosurumorph-websocketwozuo-tutemita/]
 ---

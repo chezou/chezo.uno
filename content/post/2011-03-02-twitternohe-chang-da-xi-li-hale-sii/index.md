@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [合唱, ネタ, twitter, 面白い, chorus, 盛り上がり, 発声, 広がり, 自動的, de]
 recommendations: [/post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
-  /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/]
+  /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2007-07-02-minnanohe-chang/]
 ---
 Twitterでしばしば見かけるのですが、誰からともなく大喜利が始まることがあります。たとえば、何かの「あるあるネタ」なんかの広がりも面白いです。
 

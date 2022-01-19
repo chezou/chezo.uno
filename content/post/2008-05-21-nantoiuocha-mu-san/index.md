@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [songs, more, 'no', 茶目, '1984', 馬鹿, life, jaakko, even, '2000']
+keywords: [songs, 'no', more, 茶目, even, '1984', 馬鹿, life, jaakko, '2000']
 recommendations: [/post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/,
   /post/2008-06-28-vuinrandosaga-6-du-li-shui-shang-19/, /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/]
 ---

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [東芝, cb, '71', '51', da, 映画, デモ, テレビ, スピーカー, ad]
+keywords: [東芝, cb, '71', '51', da, 映画, デモ, テレビ, スピーカー, '27']
 recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-11-14-wu-xian-kontorora/,
   /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/]
 ---

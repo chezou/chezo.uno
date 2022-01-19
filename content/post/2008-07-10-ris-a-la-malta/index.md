@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [トライ, bgm, 青木, life, rockapella, もう一度, the real group, ライブ, 合唱, for]
-recommendations: [/post/2009-04-13-it-dont-mean-a-thing/, /post/2008-07-16-rockapella-channel/,
+keywords: [トライ, bgm, 青木, life, rockapella, もう一度, the real group, ライブ, for, ｒｙ]
+recommendations: [/post/2008-07-16-rockapella-channel/, /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/,
   /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
 ---
 [トライトーンのライブ](http://www.tasaku.com/sb/schedule.cgi?mode=detail&y=2008&m=08&id=12)に行ってきます。  

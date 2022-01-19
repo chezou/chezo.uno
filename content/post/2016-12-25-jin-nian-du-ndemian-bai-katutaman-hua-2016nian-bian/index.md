@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [コミックス, まとめ買い, kindle版, 勇者, 作者, 商品, メディア, 作品, アフタヌーン, ブログ]
-recommendations: [/post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
-  /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/]
+keywords: [まとめ買い, kindle版, 作品, 作者, 商品, メディア, 勇者, ブログ, チャンス, 主人公]
+recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
+  /post/2008-06-22-bokurano-alternative/]
 ---
 海外出張の移動やKindle Unlimitedとかもあって結構漫画を読む機会が多かったのですが、今年読んだ漫画のオススメを書いていきます。
 

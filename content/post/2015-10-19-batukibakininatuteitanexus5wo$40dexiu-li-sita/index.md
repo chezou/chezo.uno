@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ガラス, ドライバー, 液晶, 修理, nexus, フィルム, jpg, 硬度, 日本製, フレーム]
-recommendations: [/post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
-  /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/]
+keywords: [ドライバー, ガラス, 液晶, 修理, jpg, nexus, フィルム, 適当, 画面, 途中]
+recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
+  /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/]
 ---
 ![](20151018110109.jpg)
 

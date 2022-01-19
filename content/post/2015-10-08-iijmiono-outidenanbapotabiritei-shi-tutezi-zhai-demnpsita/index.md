@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [sim, プラン, iijmio, シェア, iphone, パック, ケース, nexus, 素材, pm]
+keywords: [sim, プラン, iijmio, シェア, ケース, iphone, nexus, 解約, エレクトロニクス, 注意]
 recommendations: [/post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/,
   /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-04-ad-es-wojie-yue-surutameni/]
 ---

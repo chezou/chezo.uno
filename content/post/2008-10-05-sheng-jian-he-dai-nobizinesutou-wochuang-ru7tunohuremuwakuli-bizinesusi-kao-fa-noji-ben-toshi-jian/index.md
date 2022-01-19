@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [論文, 著者, おすすめ, 要点, 拙著, 思考力, 和代, 勝間, 読了, 欲しかっ]
-recommendations: [/post/2008-06-15-ojin-nomian-qiang/, /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
-  /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/]
+recommendations: [/post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
+  /post/2008-06-15-ojin-nomian-qiang/, /post/2019-03-29_ngekkan-lambda-note-article/]
 ---
 {{< amazon asin="4887596391" title="勝間和代のビジネス頭を創る7つのフレームワーク力 ビジネス思考法の基本と実践" >}}
 勝間 和代 / / ディスカヴァー・トゥエンティワン  

@@ -10,7 +10,7 @@ lastmod: 2021-12-04 14:50:35-08:00
 tags: []
 categories: []
 image: {caption: 秋の紅葉, focal_point: Top, preview_only: false}
-keywords: [jpg, img, summer, 子供, 今年, スーパー, カナダ, bc, 前後, 移住]
+keywords: [jpg, summer, 子供, 今年, スーパー, カナダ, bc, 移住, 前後, 小学校]
 recommendations: [/post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/,
   /post/2017-12-23_----------------------701333a45696/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
 ---

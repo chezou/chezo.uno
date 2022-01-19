@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [変更, pc, 手抜き, zero, 遅延, ブックマークレット, 予約, なか, 携帯, ブラウザ]
+keywords: [変更, pc, 手抜き, zero, ブックマークレット, 遅延, 予約, なか, 携帯, ブラウザ]
 recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/,
   /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/]
 ---

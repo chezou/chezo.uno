@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ライブハウス, アカペラ, 渋谷, 開場, 周り, アカペラグループ, more, メイン, 方々, 体験]
-recommendations: [/post/2008-10-11-le-pu-gayu-sii/, /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/,
-  /post/2009-01-18-try-tonegamy-spacetoyou-tubeni/]
+keywords: [ライブハウス, 渋谷, 開場, 周り, アカペラグループ, more, メイン, 方々, 体験, 今日]
+recommendations: [/post/2008-10-28-mai-tutesimatuta/, /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/,
+  /post/2008-06-09-tuiniiphonedeng-chang/]
 ---
 渋谷にあるライブハウス「[多作](http://www.tasaku.com/)」にて行われたTRY-TONEのライブに行ってきました。  
 多作というかライブハウス自体が初めての体験だったので、開場時間に少し遅れて行ったらすでにたくさん並んでいました。しかも、周りの方々が「今日はアカペラグループ皆で来ましたー」とか言ってるのを聞いて、一人でやりおるわぁとニヤニヤしていました。さすが、アカペラメインのライブハウスだなぁと。  

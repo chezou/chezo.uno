@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [講談社コミックス, 知子, 二ノ宮, だめ, 講談社, キス, isbn, 周り, スコア, 選択]
+keywords: [知子, 二ノ宮, だめ, 講談社, isbn, 周り, スコア, 選択, 素朴, 最新刊]
 recommendations: [/post/2008-08-11-nodame21juan/, /post/2008-10-10-tiisanatiisanawang-yang/,
-  /post/2010-01-01-12yue-nidu-ndaben/]
+  /post/2008-06-28-vuinrandosaga-6-du-li-shui-shang-19/]
 ---
 {{< amazon asin="4063406482" title="のだめカンタービレ (18)(講談社コミックスキス)" >}}
 二ノ宮 知子 / / 講談社  

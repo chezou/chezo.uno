@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [修理, jbl, '410', reference, 値段, 場合, 一時期, レポ, width, '7000']
-recommendations: [/post/2015-10-19-batukibakininatuteitanexus5wo$40dexiu-li-sita/,
-  /post/2005-05-19-vhsnei-zang-dvdpureya/, /post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/]
+recommendations: [/post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/,
+  /post/2015-10-19-batukibakininatuteitanexus5wo$40dexiu-li-sita/, /post/2008-10-05-hd53r-ver-dot-8wogou-ru/]
 ---
 いつからか、片方の音が出なくなったうちのJBL reference 410だったのですが、ふらっと調べてみたら意外と修理にお金がかからなさそうというのが分かったので、修理に出すことにしました。（ちなみに、多分[これ](http://www.amazon.co.jp/dp/B000AOAB2S)に巻き付けてたから悪くなっちゃったのかも、と思っています。。。）
 

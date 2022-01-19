@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [c4, dc, '69', '34', masa, '41', 目当て, festa, da, コンサート]
-recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-03-09-masafestanirajatonga/,
-  /post/2009-08-12-rui-yan-si/]
+recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-08-12-rui-yan-si/,
+  /post/2009-03-09-masafestanirajatonga/]
 ---
 最近、とみにコンサートに通っていますが、八月に行われるMASA FESTAのチケットが届きました。  
 お目当ては最終日のRAJATONです。今から楽しみ。

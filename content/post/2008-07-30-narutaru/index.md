@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [復旧, 同名, 鬼頭, 莫宏, 原作, アフタヌーン, ぼくらの, レポート, kc, アニメ]
-recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-06-28-vuinrandosaga-6-du-li-shui-shang-19/,
-  /post/2008-06-22-bokurano-alternative/]
+keywords: [復旧, 同名, 鬼頭, 莫宏, 原作, ぼくらの, レポート, アニメ, ハードル, お勧め]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-06-22-bokurano-alternative/,
+  /post/2008-07-06-nodamekantabire18-20/]
 ---
 {{< amazon asin="4063141861" title="なるたる―骸なる星珠たる子 (1) (アフタヌーンKC (186))" >}}
 鬼頭 莫宏 / / 講談社  

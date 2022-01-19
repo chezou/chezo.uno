@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['71', '86', '1600', '1200', jpeg, '30', コントローラ, 新作, 無線, プレイ]
+keywords: ['86', '71', '1600', '1200', jpeg, '30', コントローラ, 新作, 遅延, 無線]
 recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/,
   /post/2009-08-07-pokemonxin-gan-xian/]
 ---

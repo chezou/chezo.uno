@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [behringer, audio, usb, podcast, 録音, 通信, skype, マイクスタンド, track, feed]
-recommendations: [/post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/,
-  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/]
+keywords: [behringer, podcast, 通信, feed, audio, 録音, skype, miyagawa, itunes, エレクトロニクス]
+recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
+  /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/]
 ---
 こっそりと、いつぞやの[川崎40重CF](http://ingress.blog.jp/archives/13616218.html)を仕掛けたBersergaさんとingressニュースを紹介するpodcastを始めました。
 

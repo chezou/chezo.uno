@@ -3,10 +3,10 @@ title: Google Homeはスマートプラグと「部屋」でグルーピング�
 description: Google Homeを発売日に買ってから色々と試行錯誤をして来ましたが、だいたい構成が固まって来たので書き残しておきます。
 date: '2018-01-03T10:40:14+09:00'
 categories: []
-keywords: [hdmi, 対応, モニター, プラグ, 切替, philips, hz, '60', google home, 液晶ディスプレイ]
 authors: [aki]
-recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2017-12-30_2017------------bbf834e065c5/,
-  /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
+keywords: [hdmi, 対応, モニター, プラグ, 切替, philips, hz, '60', google home, 液晶ディスプレイ]
+recommendations: [/post/2017-12-30_2017------------bbf834e065c5/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
+  /post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/]
 ---
 
 Google Homeを発売日に買ってから色々と試行錯誤をして来ましたが、だいたい構成が固まって来たので書き残しておきます。

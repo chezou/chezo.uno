@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [polly, amazon, 音声, '2016', aws, 英語, mp, '12', dl, 言語]
-recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
-  /post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/]
+keywords: [音声, amazon, 英語, dl, aws, api, 話題, 追記, 記事, .com]
+recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
+  /post/2015-12-30-2015nian-wozhen-rifan-tute/]
 ---
 
 ![](20161201230818.png)

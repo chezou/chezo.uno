@@ -3,11 +3,10 @@ title: サイバー攻撃としてのフェイクニュース
 description: このポストは、最近もやもやっと思っていることを吐き出したポエムである。厳格なファクトチェックを経たものと期待しないで欲しい。
 date: '2017-01-16T14:55:32+09:00'
 categories: []
-keywords: [ニュース, 攻撃, ロシア, facebook, 記事, ドイツ, instant, 情報, アメリカ, 指摘]
 authors: [aki]
-recommendations: [/post/2015-11-23-sympytojupyter-notebookdeshu-shi-nomemowoqu-rou/,
-  /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
-  /post/2014-12-15-number-ingress-dehurutaimunopuroezientotochu-hui-tutahua/]
+keywords: [ニュース, 攻撃, ロシア, facebook, 記事, ドイツ, instant, 情報, アメリカ, 指摘]
+recommendations: [/post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
+  /post/2014-12-15-number-ingress-dehurutaimunopuroezientotochu-hui-tutahua/, /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/]
 ---
 
 _このポストは、最近もやもやっと思っていることを吐き出したポエムである。厳格なファクトチェックを経たものと期待しないで欲しい。_

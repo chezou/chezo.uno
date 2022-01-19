@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ed, '85', ca, '00', '1600', '1200', jpeg, 音色, 劣化, 曰く]
+keywords: ['85', ed, ca, '00', '1600', '1200', jpeg, 音色, 劣化, 曰く]
 recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-07-23-fujiyama/,
   /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/]
 ---

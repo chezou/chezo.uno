@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['53', hd, ノイズ, hfi, sa, '700', 購入, アンプ, ヘッドホン, わけ]
+keywords: ['53', hd, ノイズ, hfi, sa, '700', 購入, アンプ, わけ, 合唱]
 recommendations: [/post/2008-10-28-mai-tutesimatuta/, /post/2008-09-14-hetudohonwu-se-sitahi/,
   /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/]
 ---

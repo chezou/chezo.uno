@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [syntax, 置換, highlight, wordpress, はてなダイアリー, 移行, 記法, はてなブログ, julia, 引っ越し]
+keywords: [syntax, 置換, highlight, wordpress, はてなダイアリー, 移行, 記法, はてなブログ, julia, .com]
 recommendations: [/post/2012-11-12-pawapointonise-dukesitasosukodowojian-dan-nitie-rufang-fa/,
   /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/, /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/]
 ---

@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [印象, 理解, 箇所, 角川書店, 伏線, 描写, 友人, 人間, 文章, 子供]
-recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/,
-  /post/2008-09-06-feng-gaqiang-kuchui-iteiru/]
+recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/,
+  /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/]
 ---
 {{< amazon asin="4041497876" title="三毛猫ホームズの恐怖館 (角川文庫)" >}}
 赤川 次郎 / / 角川書店  

@@ -14,7 +14,7 @@ projects: []
 keywords: [原稿, docker, sphinx, 執筆, image, 変換, view, re, tokoroten, macos]
 recommendations: [/post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/,
   /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
-  /post/2017-07-08_MBP--Thinkpad-X1-Carbon-2017-------46c374167b79/]
+  /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/]
 ---
 こんにちは、ハイラルに移住したchezouです。最近は、Rから始まりRで終わる言語をよく書いています。
 
