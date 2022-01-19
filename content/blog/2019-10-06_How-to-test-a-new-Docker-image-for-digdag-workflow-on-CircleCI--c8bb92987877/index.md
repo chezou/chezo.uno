@@ -8,7 +8,7 @@ keywords: [digdag, docker, circleci, executor, workflow, run, image, volume, tab
   signed]
 authors: [aki]
 aliases:
-  - /blog/how-to-test-a-new-Docker-image-for-digdag-workflow-on-CircleCI--c8bb92987877
+  - /blog/how-to-test-a-new-Docker-image-for-digdag-workflow-on-circleci--c8bb92987877
   - /blog/c8bb92987877
 recommendations: [/blog/py-operator-development-guide-for-python-users/, /blog/2019-11-26_How-to-release-Python-package-from-GitHub-Actions-d5a1d8edba6e/,
   /blog/2017-08-02_How-to-run-Cloudera-Director-on-your-macOS-Windows-10-710f82aa1d63/]
