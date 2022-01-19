@@ -6,6 +6,9 @@ date: '2016-12-30T15:15:23+09:00'
 categories: []
 keywords: [livy, spark, jupyter, sparkmagic, notebook, rest, local, client, job, scientists]
 authors: [aki]
+aliases:
+  - /blog/livy-jupyter-notebook-sparkmagic-powerful-easy-notebook-for-data-scientist-a8b72345ea2d
+  - /blog/a8b72345ea2d
 recommendations: [/blog/2017-03-26_sparkavro--Manupilate-Apache-Avro-file-with-sparklyr-a53c61eaf0b0/,
   /blog/2016-10-15_Building-predictive-Model-with-Ibis--Impala-and-scikit-learn-356b41f404e0/,
   /blog/2017-08-02_How-to-run-Cloudera-Director-on-your-macOS-Windows-10-710f82aa1d63/]

@@ -7,6 +7,9 @@ categories: []
 keywords: [cloudera, director, server, windows, launch, install, homebrew, '10', docker,
   stop]
 authors: [aki]
+aliases:
+  - /blog/how-to-run-cloudera-director-on-your-macos-windows-10-710f82aa1d63
+  - /blog/710f82aa1d63
 recommendations: [/blog/2017-03-26_How-to-connect-secure-Impala-cluster-from-RStudio-on-macOS-with-implyr-213c6536e4c7/,
   /blog/2017-07-24_Simple-way-to-distribute-your-private-Python-packages-within-your-organization-fb7af5dbd4c9/,
   /blog/2017-08-30_Python-basics--package-management-462918458f96/]
