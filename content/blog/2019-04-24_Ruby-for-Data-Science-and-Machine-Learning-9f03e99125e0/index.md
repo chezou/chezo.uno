@@ -6,6 +6,9 @@ date: '2019-04-24T12:10:28+09:00'
 categories: [machine_learning, ruby]
 keywords: [ruby, arrow, data, red, cumo, science, learning, apache, chainer, deep]
 authors: [aki]
+aliases:
+  - /blog/ruby-for-data-science-and-machine-learning-9f03e99125e0
+  - /blog/9f03e99125e0
 recommendations: [/blog/2017-08-03_Why-OSS-based-machine-learning-is-good--3ab45a1a5e52/,
   /blog/2016-10-15_Building-predictive-Model-with-Ibis--Impala-and-scikit-learn-356b41f404e0/,
   /blog/2019-06-04_The-first-conference-of-Operational-Machine-Learning--OpML--19-308baad36108/]

@@ -7,6 +7,9 @@ categories: [python]
 keywords: [conda, python, package, install, virtualenv, venv, pip, packages, windows,
   management]
 authors: [aki]
+aliases:
+  - /blog/python-basics--package-management-462918458f96
+  - /blog/462918458f96
 recommendations: [/blog/2017-07-24_Simple-way-to-distribute-your-private-Python-packages-within-your-organization-fb7af5dbd4c9/,
   /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/, /blog/2019-11-26_How-to-release-Python-package-from-GitHub-Actions-d5a1d8edba6e/]
 ---

@@ -6,6 +6,9 @@ date: '2017-01-09T14:09:08+09:00'
 categories: [OSS, tabula]
 keywords: [tabula, py, extract, json, java, pdf, tables, table, dataframe, png]
 authors: [aki]
+aliases:
+  - /blog/tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302
+  - /blog/6c7acfa5f302
 recommendations: [/blog/2017-05-28_tabula-py-now-able-to-extract-remote-PDF-and-multiple-tables-at-once-6108e24ac07c/,
   /blog/2019-02-18_A-recent-update-of-tabula-py-a923d2ab667b/, /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/]
 ---
