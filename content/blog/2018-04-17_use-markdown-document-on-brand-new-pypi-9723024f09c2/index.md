@@ -7,6 +7,9 @@ categories: [python]
 keywords: [markdown, pypi, pip, upgrade, description, long, twine, setuptools, rendered,
   pep]
 authors: [aki]
+aliases:
+  - /blog/use-markdown-document-on-brand-new-pypi-9723024f09c2
+  - /blog/9723024f09c2
 recommendations: [/blog/2017-08-30_Python-basics--package-management-462918458f96/,
   /blog/2019-11-26_How-to-release-Python-package-from-GitHub-Actions-d5a1d8edba6e/,
   /blog/2017-07-24_Simple-way-to-distribute-your-private-Python-packages-within-your-organization-fb7af5dbd4c9/]

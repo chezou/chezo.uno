@@ -7,6 +7,9 @@ categories: [python]
 keywords: [directory, server, wheelhouse, packages, http, foo, _this, pip, package,
   option]
 authors: [aki]
+aliases:
+  - /blog/simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9
+  - /blog/fb7af5dbd4c9
 recommendations: [/blog/2017-08-30_Python-basics--package-management-462918458f96/,
   /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/, /blog/2017-08-02_How-to-run-Cloudera-Director-on-your-macOS-Windows-10-710f82aa1d63/]
 ---
