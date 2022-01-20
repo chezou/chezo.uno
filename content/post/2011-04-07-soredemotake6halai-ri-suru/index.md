@@ -21,7 +21,7 @@ recommendations: [/post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-
 
 先に断っておくと、推測混じりのお話です。
 
-以前、[当サイト](http://chezou.wordpress.com/2011/02/08/take6%e3%81%8c2011053031%e3%81%ab%e6%9d%a5%e6%97%a5%e5%85%ac%e6%bc%94%ef%bc%81/ "Take6が2011/05/30,31に来日公演！")でも来日すると紹介したアカペラグループTake6ですが、多分来日するみたいです。
+以前、[当サイト](https://chezo.uno/post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/)でも来日すると紹介したアカペラグループTake6ですが、多分来日するみたいです。
 
 FacebookのTake6のページに[こんな素敵な動画](http://www.facebook.com/video/video.php?v=10150206884947846)があります。
 

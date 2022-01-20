@@ -15,7 +15,7 @@ keywords: [airplay, サーバ, mac, オフ, windows, ターミナル, raspberry 
 recommendations: [/post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/, /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/,
   /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/]
 ---
-先日、WindowsマシンをAirPlayサーバにする[Shairport4wの話を書きました](http://chezou.wordpress.com/2013/01/09/windows%e3%81%a7airplay%e3%82%92%e4%bd%bf%e3%81%86%e3%81%aa%e3%82%89shairport4w/ "WindowsでAirPlayを使うならShairport4w")が、  
+先日、WindowsマシンをAirPlayサーバにする[Shairport4wの話を書きました](https://chezo.uno/post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/)が、
 その後[Raspberry piをAirPlayサーバにする方法](http://www.lifehacker.jp/2013/03/130306raspberry_piairplay.html)など各所でAirPlayサーバが盛り上がっています。
 
 しかし、実際に使っていると、iPhoneからは飛ばせるのにMacのiTunesからだとAirPlayサーバにつながらない事態が頻発しました。(AppleTVでも同様でした)

@@ -26,7 +26,7 @@ togetterは[こちら](http://togetter.com/li/648447)
 
 ## はじめて翻訳記事を書いたら300ブクマ超えた話 (chezou)
 
-\[前々回の話](http://chezou.wordpress.com/2014/01/18/%e7%a7%91%e5%ad%a6%e8%a8%88%e7%ae%97%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e5%9d%87%e8%b3%aa%e5%8c%96%e3%80%81%e3%81%82%e3%82%8b%e3%81%84%e3%81%af%e3%81%aa%e3%81%9cpython%e3%81%8c%e7%9d%80%e5%ae%9f/)を翻訳した時に思ったことを書きました。
+[前々回の話](https://chezo.uno/post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/)を翻訳した時に思ったことを書きました。
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/bQD8lAbyLDM2WL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/chezou/rails-32784327" title="はじめて翻訳記事を書いたら300ブクマ超えた話" target="_blank">はじめて翻訳記事を書いたら300ブクマ超えた話</a> </strong> from <strong><a href="https://www.slideshare.net/chezou" target="_blank">Aki Ariga</a></strong> </div>
 
