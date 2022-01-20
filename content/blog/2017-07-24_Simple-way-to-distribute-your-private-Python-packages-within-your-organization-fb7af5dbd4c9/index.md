@@ -12,7 +12,7 @@ recommendations: [/blog/2017-08-30_python-basics--package-management-462918458f9
   /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/, /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]
 ---
 
-![[https://www.irasutoya.com/2017/05/blog-post\_22.html](https://www.irasutoya.com/2017/05/blog-post_22.html)](0_YSlLMz01REAp_q_y.png)
+{{< figure src="0_YSlLMz01REAp_q_y.png" title="[https://www.irasutoya.com/2017/05/blog-post\_22.html](https://www.irasutoya.com/2017/05/blog-post_22.html)" >}}
 [https://www.irasutoya.com/2017/05/blog-post\_22.html](http://www.irasutoya.com/2017/05/blog-post_22.html)
 
 _This article is a translation of_ [_this article_](https://gist.github.com/aodag/9a8118d06998b674e2d9597c6d02a6db)_, originally written by_ [_aodag_](https://github.com/aodag) _in Japanese. I translated it with his permission. This article is aimed to know simple ways to prepare internal Python package host like a_ [_local gem server on Ruby_](http://guides.rubygems.org/run-your-own-gem-server/)_._

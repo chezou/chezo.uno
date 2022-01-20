@@ -19,7 +19,7 @@ recommendations: [/post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitah
 
 # Darsana参加してきたよ
 
-![頒布会戦利品の皆さん。にゃんぐれすかわいい](https://cdn-ak.f.st-hatena.com/images/fotolife/c/chezou/20141214/20141214223041.jpg "頒布会戦利品の皆さん。にゃんぐれすかわいい")
+{{< figure src="20141214223041.jpg" title="頒布会戦利品の皆さん。にゃんぐれすかわいい" >}}
 
 Darsana参加された皆さん、お疲れ様でした！ ResistanceのゆるふわA10[^1] なので負けて悔しい気持ちもありましたが、初めての公式イベントに参加できてとても楽しかったです。
 
@@ -96,5 +96,3 @@ Ingressやってると、あれな人と絡まれたりすることもありま�
 [^8]: リアルキャプチャー。エージェントにリアルで会うこと
 
 [^9]: その後攻撃通知を切った
-
-

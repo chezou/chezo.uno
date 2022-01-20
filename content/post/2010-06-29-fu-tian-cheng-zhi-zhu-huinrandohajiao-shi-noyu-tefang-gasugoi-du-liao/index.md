@@ -16,7 +16,9 @@ recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruke
   /post/2010-07-05-yi-gu-gang-yan-shan-kou-er-lang-ge-chai-she-hui-tojiao-yu-gai-ge-du-liao/,
   /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
 ---
-[![](https://images-na.ssl-images-amazon.com/images/I/51lAwPopsUL._SX341_BO1,204,203,200_.jpg)](http://www.amazon.co.jp/dp/4750509035)
+
+{{< amazon asin="4750509035" title="フィンランドは教師の育て方がすごい" >}}
+
 フィンランド教育を日本に紹介している福田誠治氏の著書です。
 フィンランドの教育が現状の形になった理由を、教員養成課程を中心に分析。著者は一貫して構成主義的な教育が重要と主張しています。
 

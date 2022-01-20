@@ -15,7 +15,8 @@ keywords: ['383', '382', bce, afe, aae, '38388', '38383', '22', '03', '2014']
 recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/,
   /post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/, /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/]
 ---
-[![画像](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-22-17.png)](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-22-17.png)
+
+![画像](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-22-17.png)
 
 Doorkeeperはコミュニティなどのイベントを行うのに便利ですよね。  
 そんなDoorkeeperですが、他のzusaarなどのサイトと比較してコメント欄がデフォルトでついていないので、  
@@ -34,7 +35,7 @@ Disqusと連携してコメント欄を追加する方法を書きます。
 
 ログインした後のtop右下の"Add Disqus to Your Site"をクリックする
 
-![画像](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-18-30.png)
+{{< figure src="e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-18-30.png" title="" >}}
 
 # 3. 必要な情報を埋めていく
 
@@ -47,16 +48,14 @@ Disqusと連携してコメント欄を追加する方法を書きます。
 
 その後に出てくるscriptの生成画面はdoorkeeperには関係ないので、気にしなくて良い。
 
-[![画像](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-00-36.png)](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-00-36.png)
+[{{< figure src="e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-00-36.png)](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-00-36.png" title="" >}}
 
 # 4. Doorkeeperのコミュニティ管理画面の"連携機能"を開く
 
 "Disqus shortname"に、さっき作ったDisqus URLの`.disqus.com`の前の文字列を入れる。  
 今回の例だと"kawasakirbtest"を入れて保存する
 
-[![画像](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-04-25.png)](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-04-25.png)
+[{{< figure src="e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-04-25.png)](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-04-25.png" title="" >}}
 
 
 これで、冒頭のようなコメント欄がイベントページの下部にできます！
-
-

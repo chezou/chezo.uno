@@ -38,6 +38,32 @@ recommendations: [/post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2009-
   
 演奏曲目の詳細は続きに書きます。  
   
-[More](http://mrk0369.exblog.jp/9262046/#9262046_1)
+【1st Stage】
+聖週間の応唱集より　作曲：Tomas Luis de Victoria
+　指揮：山脇卓也
+・Iudas mercator pessimus（恥知らずの商人ユダは）
+・Tenebrae factae sunt（暗闇となりぬ）
+・O vos omnes（おお　汝らすべての人よ）
 
+【2nd Stage】
+男声合唱とピアノのための「新しい歌」(2台ピアノ版) 作曲：信長貴富
+　指揮：山脇卓也　ピアノ：斎木ユリ 須永真美
 
+～ intermission ～
+「となりのトトロ」編曲：信長貴富
+
+【3rd Stage】海のア・ラ・カルト
+・Gryning vid havet （海の夜明け）作曲：Hugo Alfven
+・Muistse mere laulud （古代の海の歌）作曲：Veljo Tormis
+・内なる怪魚シーラカンス 作曲：廣瀬量平
+・鮪組 作曲：多田武彦
+・THE DRUNKEN SAILOR(酔いどれ水夫)　編曲：Robert Sund
+　指揮：山脇卓也　村田雅之　ピアノ：村田雅之
+
+【4th Stage】
+二群の男声合唱とピアノのための「路標のうた」
+作詩：木島始　作曲：三善晃
+-ピアノのための無窮連祷による-「生きる」＊
+作詩：谷川俊太郎　作曲：三善晃
+　指揮：栗山文昭(客演)　ピアノ：寺嶋陸也
+　＊作曲者の許諾のもと、女声版楽譜を使用して演奏いたします。

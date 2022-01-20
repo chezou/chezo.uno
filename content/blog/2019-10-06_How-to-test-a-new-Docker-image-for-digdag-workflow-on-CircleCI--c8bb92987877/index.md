@@ -12,7 +12,7 @@ recommendations: [/blog/py-operator-development-guide-for-python-users/, /blog/2
   /blog/2017-08-02_how-to-run-cloudera-director-on-your-macos-windows-10-710f82aa1d63/]
 ---
 
-![Photo by [Campaign Creators](https://unsplash.com/@campaign_creators?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](./0__Sj4niOaDd__W4bydD.jpg)
+{{< figure src="./0__Sj4niOaDd__W4bydD.jpg" title="Photo by [Campaign Creators](https://unsplash.com/@campaign_creators?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)" >}}
 Photo by [Campaign Creators](https://unsplash.com/@campaign_creators?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 Testing workflow runnability would be important when we build a complex workflow. [digdag](https://www.digdag.io) is a workflow engine which syntax is simple and is able to run tasks with SQL, Python, Ruby, shell script, etc. digdag has Docker executor and it works like a charm with `py>`, `rb>`, and `sh>` operators.

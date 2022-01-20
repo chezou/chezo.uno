@@ -83,14 +83,14 @@ _Between fake news and publishers struggling to keep a loyal connection to their
 > （筆者抄訳）  
 > しかし、隠された2次効果は、出版社がアイデンティティを無菌化したということだった。 出版社のカスタムブランド、ユニークなビジュアルスタイル、そして他の関連ストーリーの重い宣伝が付いたウェブサイトの代わりに、FacebookがホストしているInstant Articlesは様々な出版社の記事がそっくりな見た目になった。
 
-![Instant Articlesの例（画像は[公式blog](https://media.fb.com/2016/04/12/instant-articles-now-open/)から）](1__XlSdHvipcZOOpYGLAPD28A.png)
+{{< figure src="1__XlSdHvipcZOOpYGLAPD28A.png" title="Instant Articlesの例（画像は[公式blog](https://media.fb.com/2016/04/12/instant-articles-now-open/)から）" >}}
 Instant Articlesの例（画像は[公式blog](https://media.fb.com/2016/04/12/instant-articles-now-open/)から）
 
 確かに、一番左の画像を見てもらうとわかるが、情報源がどこかがわかりにくい。右二つの開いたあとの記事も、ロゴなどはできるだけ少なくなるようになっている。Facebookのアプリからニュースを見る比率が高くなると、ソースを意識的に気にしないと、どこのニュースか見失ってしまいやすいのも頷ける。
 
 対象的に、Googleも似たような目的で検索結果から高速に記事を見ることができるAMPでは、配信元が大きく出るようになっており、比較的誤解はしづらいデザインとなっているようにうつる。
 
-![GoogleのAMPの例（画像は[公式ブログ](https://japan.googleblog.com/2016/02/blog-post_25.html)から）](1__Y68oZLKS9EO43X7hV3gR__g.png)
+{{< figure src="1__Y68oZLKS9EO43X7hV3gR__g.png" title="GoogleのAMPの例（画像は[公式ブログ](https://japan.googleblog.com/2016/02/blog-post_25.html)から）" >}}
 GoogleのAMPの例（画像は[公式ブログ](https://japan.googleblog.com/2016/02/blog-post_25.html)から）
 
 加えて、FacebookなどのSNSを通じたニュースを、何度も同じタイトルを見るうちに自分の頭のなかに刷り込まれて、興味を持って開いてしまうという経験はないだろうか。僕自身は複数回見たら「そろそろ読むかな」という気になることが多い。一度見たものや聞いた音楽は、二回目以降に出会うと親近感が湧くのと似ているかもしれない。

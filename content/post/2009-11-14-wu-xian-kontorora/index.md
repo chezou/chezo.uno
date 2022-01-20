@@ -20,4 +20,4 @@ recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-06-20-c
 そういえば、[以前調べていた無線コントローラ](https://chezo.uno/post/2009-09-22-pcdewaiyaresukontororawoshi-uniha) を買った。っていってもけっこう前ですが。思ったような遅延は感じられない。そんなにシビアなゲームはやってないからか。  
 ただ、最近プレイするのがCoD4だから、全く意味ないという‥[CODの新作](http://www.modernwarfare2.jp/)はWindows版は12/23と遅いのが残念すぎる。待てないので、もう少し今のバージョンで練習しよう。
 
-[![](p_1600_1200_fddd2f30-f71b-4f86-bbae-7095a4841fbd.jpeg)](p_1600_1200_fddd2f30-f71b-4f86-bbae-7095a4841fbd.jpeg)
+{{< figure src="p_1600_1200_fddd2f30-f71b-4f86-bbae-7095a4841fbd.jpeg" title="" >}}

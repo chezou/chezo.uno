@@ -17,7 +17,8 @@ recommendations: [/post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noy
   /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
 ---
 社会教育学者の苅谷剛彦氏と政治学者の山口二郎氏の対談による、格差社会についての議論をまとめた本です。  
-[![](https://ecx.images-amazon.com/images/I/41ImOM4lmnL._SL500_AA300_.jpg)](http://www.amazon.co.jp/%E6%A0%BC%E5%B7%AE%E7%A4%BE%E4%BC%9A%E3%81%A8%E6%95%99%E8%82%B2%E6%94%B9%E9%9D%A9-%E5%B2%A9%E6%B3%A2%E3%83%96%E3%83%83%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88-%E8%8B%85%E8%B0%B7-%E5%89%9B%E5%BD%A6/dp/4000094262)
+
+{{< amazon asin="4000094262" titile="格差社会と教育改革 (岩波ブックレット)" >}}
 
 本書の主張するところを簡単にまとめると、教育とは公共性を持つものであり、ある意味押しつけである。新自由主義のもと規制緩和・自由化をしていってサービス化をするのは格差を拡大する、というところだと思います。
 

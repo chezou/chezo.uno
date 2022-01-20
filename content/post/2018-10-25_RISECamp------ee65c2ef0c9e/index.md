@@ -23,8 +23,7 @@ _RISE Camp ​is ​a bootcamp ​organized ​by ​the ​UC ​Berkeley ​RI
 
 RISELabはSparkで有名なAMPLabの後継となる研究室で、彼らが作るML関連のライブラリ・フレームワークのハンズオンをするというのが会の趣旨です。
 
-![RISELabのStack](1_X7a1O3wc38JN97nSzJph7Q.jpeg)
-RISELabのStack
+{{< figure src="1_X7a1O3wc38JN97nSzJph7Q.jpeg" title="RISELabのStack" >}}
 
 上の図のオレンジと緑の部分が彼らが作っているフレームワークになるのですが、その中でも以下のものについての紹介がありました。
 

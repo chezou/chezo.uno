@@ -97,8 +97,7 @@ pip install jupyter notebook
 
 jupyter notebook
 
-![jupyter notebook on Windows 10](0_fKbgSjEf0bSSnsUV_.jpg)
-jupyter notebook on Windows 10
+{{< figure src="0_fKbgSjEf0bSSnsUV_.jpg" title="jupyter notebook on Windows 10" >}}
 
 #### irubyのインストール
 

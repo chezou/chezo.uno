@@ -126,7 +126,7 @@ _これ以降のほとんどのPythonコードはDr. Hilpischのもので彼に�
 
 くだらないミスがないか確認するために、matplotlibで簡単なグラフを描く。
 
-[![bitcoin_plot](bitcoin_plot.png)](bitcoin_plot.png)
+{{< figure src="bitcoin_plot.png" title="bitcoin_plot" >}}
 
 もし、ビットコインの価値が凄い大きさになっていたり0になっていたら、間違いなく調べ直すべきだ。
 

@@ -28,19 +28,19 @@ recommendations: [/post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-meru
 
 春はあちこちに植えられた桜がお出迎えしてくれましたが、（熱波も来たけど）30度を超えることがまずない乾燥した爽やかな夏、色とりどりの紅葉がきれいな秋、たまに雪が降る冬と、とても変化がはっきりしています。東京より少し寒い地域にいるのとあまり変わらない感じですね。
 
-![Spring](./spring.jpg)
-![Summer 1](./summer_1.jpg)
-![Summer 2](./summer_2.jpg)
-![Fall 1](./fall_1.jpg)
-![Fall 2](./fall_2.jpg)
-![Winter](./winter.jpg)
+{{< figure src="./spring.jpg" title="Spring" >}}
+{{< figure src="./summer_1.jpg" title="Summer 1" >}}
+{{< figure src="./summer_2.jpg" title="Summer 2" >}}
+{{< figure src="./fall_1.jpg" title="Fall 1" >}}
+{{< figure src="./fall_2.jpg" title="Fall 2" >}}
+{{< figure src="./winter.jpg" title="Winter" >}}
 
 ## インターネットは速い
 
 Shawというケーブルテレビ系のネットを使っていますが、1GBの契約で900Mbps前後出るので結構速いです。
 先日、gfx氏の奥さんのお勧めするtp-linkのdeco AX3000にしたら無線でも800Mbps台出ました。
 
-![deco AX3000](./IMG_0625.jpg)
+{{< figure src="./IMG_0625.jpg" title="deco AX3000" >}}
 
 {{< amazon asin="B0873HWX1W" title="TP-Link WiFi 無線LANルーター Wi-Fi6 2402 + 574 Mbps メッシュWi-Fiシステム 3年保証 Deco X60 1ユニット" >}}
 
@@ -73,23 +73,23 @@ basukeさんがお勧めしてるノンアルコールビールAthletic Brewing�
 
 {{< tweet user="chezou" id="1426724362736918529" >}}
 
-![Tortia Pizza](./IMG_0567.jpg)
+{{< figure src="./IMG_0567.jpg" title="Tortia Pizza" >}}
 
 トルティーヤ記事を使ったピザ([レシピ](https://www.allrecipes.com/recipe/258013/easy-tortilla-pizza/))。サルサソースやワカモレ、トルティーヤチップなどメキシカンの食材も豊富なのが楽しい。
 
-![Sanma](./IMG_0535.jpg)
+{{< figure src="./IMG_0535.jpg" title="Sanma" >}}
 
 日系スーパーでサンマを買って焼いた様子([レシピ](https://gacham.hatenablog.com/entry/sanma_bake_broil))。これもガスオーブンでいい感じに焼ける。
 
-![Home made humburger](./IMG_0207.jpg)
+{{< figure src="./IMG_0207.jpg" title="Home made humburger" >}}
 
 チーズをとけさせるのを忘れたお手製ハンバーガー。ハンバーガー用の冷凍パティとパンを買ってきて挟むだけのお手軽品。
 
-![karaage](./IMG_0622.jpg)
+{{< figure src="./IMG_0622.jpg" title="karaage" >}}
 
 エアフライヤーで揚げた唐揚げ([レシピ](https://airfryd.com/air-fryer-chicken-karaage-japanese-fried-chicken/))。こっちだと肉は塊でドンと売ってることや、油を固める製品が高いので、エアフライヤーでトンカツや唐揚げをしてる
 
-![Air fryer](./IMG_0621.jpg)
+{{< figure src="./IMG_0621.jpg" title="Air fryer" >}}
 
 ティファールのエアフライヤー。中を見てみると電熱線とファン、そしてアナログタイマーというシンプルな一品。
 
@@ -135,7 +135,7 @@ https://memo.chezo.uno/0ecc87e6ad574defa8136a568e5fdd4a
 
 ## 夏は日が長く冬は短い
 
-![Deer lake](./IMG_0470.jpg)
+{{< figure src="./IMG_0470.jpg" title="Deer lake" >}}
 
 緯度が高いけれど、夏の気温は30度いかない程度、冬も下は0度前後とカナダの中でも過ごしやすいVancouverですが、日照時間はかなり変化が激しいです。
 
@@ -143,7 +143,7 @@ https://memo.chezo.uno/0ecc87e6ad574defa8136a568e5fdd4a
 
 外に積極的に散歩に出かけるようになったり、公園や山に子供と一緒にハイキングをするようになったりと、今までとは違うことをいろいろチャレンジして楽しいです。そして、今になって夏の大切さをかみしめています。
 
-![Light house park](./IMG_9697.jpg)
+{{< figure src="./IMG_9697.jpg" title="Light house park" >}}
 
 とはいえ、今年は夏の40度近くまであがるheat waveや、先月にBC州内陸部で起こった洪水など、今までとは違うことがいろいろと起こっているのを感じます。
 

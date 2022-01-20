@@ -23,15 +23,13 @@ recommendations: [/post/2018-05-17_mlse-kickoff/, /post/2014-08-29-detafen-xi-he
 
 【/追記】
 
-![まえがきより](1_AUW0L2DiM6nuSSGFgHKc2g.png)
-まえがきより
+{{< figure src="1_AUW0L2DiM6nuSSGFgHKc2g.png" title="まえがきより" >}}
 
 ### どういう本なの？
 
 まえがきのスクリーンショットを貼りましたが、この本は多くの機械学習の本とは異なり、機械学習の実務で使えるようになるために知りたい、機械学習を含めたシステムのアーキテクチャや機械学習プロジェクトの進め方、効果検証をどうするのかということをまとめました。
 
-![めざすところのイメージ](1_W6mM0mI5F6F5vZIogbhIcw.png)
-めざすところのイメージ
+{{< figure src="1_W6mM0mI5F6F5vZIogbhIcw.png" title="めざすところのイメージ" >}}
 
 既に多く刊行されているTensorFlowやChainerでディープラーニングをしてみようというものでもなければ、機械学習の理論をわかりやすく解説するといった類のものでもありません。[ゼロから作るDeep Learning](http://amzn.to/2yAhn1e)やCourseraの[Machine Learning](https://www.coursera.org/learn/machine-learning)で学んだけど、実際の仕事に活かすにはどうしたら良いだろう？という疑問に答えているつもりです。また、大学の講義などで機械学習は学んだけど、実際仕事で機械学習のプロジェクトを進めるときはどうすればいいんだろう？という人にも得るものがあると思います。もちろん、敢えて数学の基礎には触れないなど、全てのことを網羅的に書けているわけではありませんが、僕やhagino3000さん、tokorotenさんたちの「業務をする上で身についた当たり前」をdumpした本になります。
 
