@@ -1,3 +1,23 @@
+a.btn-bmc {
+  display: inline-block;
+  padding: 0.2em 0.75em;
+  background-color: rgb(154, 210, 255);
+  border-radius: 4px;
+  text-decoration: none;
+
+  &:hover {
+    background-color: darken(rgb(112, 189, 252), 2%);
+  }
+}
+
+.dark a.btn-bmc {
+  background-color: rgb(29, 89, 168);
+
+  &:hover {
+    background-color: darken(rgb(112, 189, 252), 2%);
+  }
+}
+
 .amazon-widget {
   margin: 2rem 0;
   max-width: 480px;
