@@ -225,7 +225,7 @@ def print_env():
 
 Treasure Workflowではセキュアな情報を扱うためにdigdagの `secrets` を格納するデータベースを提供しています。
 
-![Digdag Secretsの設定フロー](digdag_secrets.png)
+{{< figure src="digdag_secrets.png" title="Digdag Secretsの設定フロー" >}}
 
 1. Projectを `td workflow push` でプッシュする
 2. secretsを `td workflow secrets` でデータベースに格納する

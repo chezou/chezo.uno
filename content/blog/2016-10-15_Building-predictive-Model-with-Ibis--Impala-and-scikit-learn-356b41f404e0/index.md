@@ -23,7 +23,7 @@ recommendations: [/blog/2016-12-30_livy---jupyter-notebook---sparkmagic---powerf
 
 Ibis is a bridge between Python and Big Data. Ibis enables pandas handling Big Data.
 
-![architecture of Ibis](1_pLXvJbXk8kJU09iwc4Dbdg.png)
+{{< figure src="1_pLXvJbXk8kJU09iwc4Dbdg.png" title="architecture of Ibis" >}}
 architecture of Ibis
 
 For more detail, see Wes’s presentation.

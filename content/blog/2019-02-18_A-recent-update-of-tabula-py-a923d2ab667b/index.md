@@ -12,7 +12,7 @@ recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python
   /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/]
 ---
 
-![Photo by [Joshua Rawson-Harris](https://unsplash.com/@joshrh19?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](./0__9HRqzqcWldOqKJCK.jpg)
+{{< figure src="./0__9HRqzqcWldOqKJCK.jpg" title="Photo by [Joshua Rawson-Harris](https://unsplash.com/@joshrh19?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)" >}}
 Photo by [Joshua Rawson-Harris](https://unsplash.com/@joshrh19?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 _This article is_ [_a repost of Patreon article_](https://www.patreon.com/posts/23407263) _published last December. I’m planning to bump up the next version of tabula-py within few weeks._

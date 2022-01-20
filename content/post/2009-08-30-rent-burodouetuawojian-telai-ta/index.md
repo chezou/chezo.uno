@@ -23,4 +23,4 @@ recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-06-20-c
 
 一度生で見れたのは幸せでした。二回目もみたくなったくらい。
 
-[![](p_1600_1200_d07a4775-6c1b-4fe7-8a6f-91034d676bc0.jpeg)](p_1600_1200_d07a4775-6c1b-4fe7-8a6f-91034d676bc0.jpeg)
+[{{< figure src="p_1600_1200_d07a4775-6c1b-4fe7-8a6f-91034d676bc0.jpeg" title="](p_1600_1200_d07a4775-6c1b-4fe7-8a6f-91034d676bc0.jpeg)" >}}

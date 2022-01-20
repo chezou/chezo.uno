@@ -17,9 +17,9 @@ recommendations: [/post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-pot
 ---
 もともと、[クリスタルジャケット](http://www.amazon.co.jp/gp/product/B001F70X2W/)を使っていたのですが、先日開けようと思ったら接続部の薄いところが折れているのに気付いて買い換えました。6月に買ってわずか5ヶ月の命でした。iPhone本体は傷など付いておらず、気に入っていただけに残念です。
 
-で、そんな折に[この記事](http://www.appbank.net/2009/11/12/iphone-news/60764.php)を見て良い機会だから買い換えました。  
-[iPhone 3G / 3GS ID Case with Screen Protector, Matte Royal Blue アイ・ディ ケース (液晶保護シート つき) マット・ロイヤル・ブルー IPH3GID-BRBLU](http://www.amazon.co.jp/gp/product/B002STWZU4/)  
-[![](https://ecx.images-amazon.com/images/I/21y077dNHKL._SS400_.jpg "Case Mate")](http://www.amazon.co.jp/gp/product/B002STWZU4/)
+で、そんな折に[この記事](http://www.appbank.net/2009/11/12/iphone-news/60764.php)を見て良い機会だから買い換えました。
+
+{{< amazon asin="B002STWZU4" title="iPhone 3G / 3GS ID Case with Screen Protector, Matte Royal Blue アイ・ディ ケース (液晶保護シート つき) マット・ロイヤル・ブルー IPH3GID-BRBLU">}}
 
 ちょっとはめて使ってみた感想ですが、
 

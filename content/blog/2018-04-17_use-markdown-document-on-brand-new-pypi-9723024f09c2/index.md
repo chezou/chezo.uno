@@ -38,8 +38,10 @@ wheel             0.31.0
 
 If you’ve already used README.md as a long description on PyPI, all you have to do is to add `long_description_content_type` to setup.py as follows:
 
-long\_description=open('README.md').read(),  
-long\_description\_content\_type=”text/markdown”,
+```py
+long_description=open('README.md').read(),
+long_description_content_type="text/markdown",
+```
 
 You can see the full description of the PR :
 
@@ -50,10 +52,12 @@ _Thanks for PEP 566, as of setuptools v38.6.0, PyPI can render long description 
 
 Now, you can build a wheel and upload with twine.
 
-$ python setup.py bdist\_wheel  
-$ twine upload dist/\*
+```sh
+$ python setup.py bdist_wheel  
+$ twine upload dist/*
+```
 
-![The Markdown document was rendered!](/img/1__TsTQiTt6wOa5zxTxQzpTsQ.png)
+{{< figure src="1__TsTQiTt6wOa5zxTxQzpTsQ.png" title="The Markdown document was rendered!" >}}
 The Markdown document was rendered!
 
 CAVEAT: I didn’t upgrade PyPI because it is too much to bump up for just rendering Markdown. I [tested on test.pypi.org](https://test.pypi.org/project/tabula-py/1.0.0/).

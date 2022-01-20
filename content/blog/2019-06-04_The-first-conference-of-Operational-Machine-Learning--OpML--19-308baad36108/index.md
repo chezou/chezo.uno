@@ -47,7 +47,7 @@ The scope of this conference is varied and seems not to be specified yet, even i
 *   They need to inference for 3000 GB images/day.
 *   The team structure which involves product inspectors and product managers is interesting
 
-![From [https://www.usenix.org/sites/default/files/conference/protected-files/opml19\_slides\_lim.pdf](https://www.usenix.org/sites/default/files/conference/protected-files/opml19_slides_lim.pdf)](1_5Ab748i-ppe-Lt1DreRiGQ.png)
+{{< figure src="1_5Ab748i-ppe-Lt1DreRiGQ.png" title="From [https://www.usenix.org/sites/default/files/conference/protected-files/opml19\_slides\_lim.pdf](https://www.usenix.org/sites/default/files/conference/protected-files/opml19_slides_lim.pdf)" >}}
 From [https://www.usenix.org/sites/default/files/conference/protected-files/opml19\_slides\_lim.pdf](https://www.usenix.org/sites/default/files/conference/protected-files/opml19_slides_lim.pdf)
 
 ### AIOps: Challenges and Experiences in Azure
@@ -121,7 +121,7 @@ Google
 *   [https://www.usenix.org/conference/opml19/presentation/baylor](https://www.usenix.org/conference/opml19/presentation/baylor)
 *   TFX provides a library for recording and retrieving metadata for ML: ML Metadata [https://www.tensorflow.org/tfx/guide/mlmd](https://www.tensorflow.org/tfx/guide/mlmd)
 
-![From [https://www.usenix.org/system/files/opml19papers-baylor.pdf](https://www.usenix.org/system/files/opml19papers-baylor.pdf)](1_JjjlNJJ7xndhiOSddZv-zA.png)
+{{< figure src="1_JjjlNJJ7xndhiOSddZv-zA.png" title="From [https://www.usenix.org/system/files/opml19papers-baylor.pdf](https://www.usenix.org/system/files/opml19papers-baylor.pdf)" >}}
 From [https://www.usenix.org/system/files/opml19papers-baylor.pdf](https://www.usenix.org/system/files/opml19papers-baylor.pdf)
 
 ### Disdat: Bundle Data Management for Machine Learning Pipelines

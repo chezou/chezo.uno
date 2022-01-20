@@ -15,7 +15,7 @@ keywords: [東芝, cb, '71', '51', da, 映画, デモ, テレビ, スピーカ�
 recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-11-14-wu-xian-kontorora/,
   /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/]
 ---
-[![](p_1600_1200_eeff51ad-5f1c-4cb3-9c71-f5f1b3da8a27.jpeg)](p_1600_1200_eeff51ad-5f1c-4cb3-9c71-f5f1b3da8a27.jpeg)
+[{{< figure src="p_1600_1200_eeff51ad-5f1c-4cb3-9c71-f5f1b3da8a27.jpeg" title="](p_1600_1200_eeff51ad-5f1c-4cb3-9c71-f5f1b3da8a27.jpeg)" >}}
 
 去年と比べると少し勢いが薄れたかな、という印象でした。写真は海浜幕張駅の様子。あさから、階段を降りるという行列を楽しんで来ました。  
 個人的には音響よりのメーカーが出展していなかったので、残念でした。昨年はVictorやPioneerがスピーカーやイヤホンを試聴させてくれたのに。。  

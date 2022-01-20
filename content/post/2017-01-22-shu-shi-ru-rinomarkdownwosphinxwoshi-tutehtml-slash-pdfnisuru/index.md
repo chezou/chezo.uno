@@ -74,7 +74,7 @@ This formula `$ y=\sum_{i=1}^n g(x_i) $`
 
 conf.pyに`math_number_all = True`を足せば数式がでました。ですが、参照はできないと思うので参照が必要な場合はreSTで書く必要があると思います。
 
-[![](https://bot.gyazo.com/c1685a433683cd99590bba5cb6748bae.png)](https://bot.gyazo.com/c1685a433683cd99590bba5cb6748bae.png)
+{{< figure src="https://bot.gyazo.com/c1685a433683cd99590bba5cb6748bae.png" title="math_number_all=True" >}}
 
 [/追記]
 

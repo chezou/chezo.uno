@@ -26,7 +26,7 @@ After clicking Database icon, you can add data sources.
 
 This time, I set configurations as follows:
 
-![Example configuration](1_gMPHyBohg3nZKTDxtm_b_w.png)
+{{< figure src="1_gMPHyBohg3nZKTDxtm_b_w.png" title="Example configuration" >}}
 Example configuration
 
 *   Type: Impala
@@ -40,5 +40,5 @@ Example configuration
 
 Now, you can select Impala as a data source.
 
-![Result of Impala query](1_Kk90BhI7L42fmIXPAn_mgg.png)
+{{< figure src="1_Kk90BhI7L42fmIXPAn_mgg.png" title="Result of Impala query" >}}
 Result of Impala query
