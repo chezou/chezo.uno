@@ -1,21 +1,37 @@
 ---
 title: CEATECいってきた
-subtitle: ''
-summary: ''
-authors: [aki]
+summary: ""
+draft: false
+authors:
+  - aki
+keywords:
+  - 東芝
+  - cb
+  - "71"
+  - "51"
+  - da
+  - 映画
+  - デモ
+  - テレビ
+  - スピーカー
+  - "27"
+lastmod: 2009-10-10 21:55:54+00:00
+subtitle: ""
+date: 2009-10-10 21:55:54+00:00
+featured: false
 tags: []
 categories: null
-date: 2009-10-10 21:55:54+00:00
-lastmod: 2009-10-10 21:55:54+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [東芝, cb, '71', '51', da, 映画, デモ, テレビ, スピーカー, '27']
-recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-11-14-wu-xian-kontorora/,
-  /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/]
+recommendations:
+  - /post/2010-09-04-tun-zu-xing-tutekimasita/
+  - /post/2009-11-14-wu-xian-kontorora/
+  - /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 ---
-[{{< figure src="p_1600_1200_eeff51ad-5f1c-4cb3-9c71-f5f1b3da8a27.jpeg" title="](p_1600_1200_eeff51ad-5f1c-4cb3-9c71-f5f1b3da8a27.jpeg)" >}}
+{{< figure src="p_1600_1200_eeff51ad-5f1c-4cb3-9c71-f5f1b3da8a27.jpeg" title="" >}}
 
 去年と比べると少し勢いが薄れたかな、という印象でした。写真は海浜幕張駅の様子。あさから、階段を降りるという行列を楽しんで来ました。  
 個人的には音響よりのメーカーが出展していなかったので、残念でした。昨年はVictorやPioneerがスピーカーやイヤホンを試聴させてくれたのに。。  
