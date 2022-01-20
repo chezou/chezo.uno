@@ -15,7 +15,7 @@ keywords: [sinatra, kytea, 結果, mykytea, 解析, ruby, ブラウザ, mecab, �
 recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
   /post/2012-11-10-websocketwoshi-tuteriarutaimunixing-tai-su-jie-xi-wosurumorph-websocketwozuo-tutemita/]
 ---
-先日のエントリで書いたとおり[Mykytea-ruby](http://chezou.wordpress.com/2011/07/15/kytea%e3%82%92ruby-python%e3%81%8b%e3%82%89%e4%bd%bf%e3%81%88%e3%82%8bmykytea%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f/ "KyTea:京都テキスト解析ツールキット をRuby, Pythonから使えるMykyteaを作ってみた")を使って、試しにブラウザから解析結果をみられるkytea-sinatraを作りました。
+先日のエントリで書いたとおり[Mykytea-ruby](https://chezo.uno/post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/)を使って、試しにブラウザから解析結果をみられるkytea-sinatraを作りました。
 
 ![](screenshot.png)
 
@@ -54,4 +54,3 @@ ruby kytea\_sinatra.rb
 - [_Sinatra_: README (Japanese)](http://www.sinatrarb.com/intro-jp.html)
 - [ウノウラボ by Zynga Japan: _Sinatra_気に入った](http://labs.unoh.net/2009/05/sinatra.html)
 - [ウノウラボ by Zynga Japan: 5分で分かる_Haml_](http://labs.unoh.net/2009/05/5haml.html)
- 

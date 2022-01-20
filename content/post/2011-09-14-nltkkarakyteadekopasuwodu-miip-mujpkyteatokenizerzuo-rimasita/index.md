@@ -33,7 +33,7 @@ KyteaをPythonから使うMykytea-pythonを使って、NLTKラッパーを書い
 ソースはいつも通りgithubにあります。  
 [github:JPKyteaTokenizer](https://github.com/chezou/JPKyteaTokenizer)
 
-あらかじめ[KyTea](http://www.phontron.com/kytea/index-ja.html)と[Mykytea-python](http://chezou.wordpress.com/2011/07/15/kytea%e3%82%92ruby-python%e3%81%8b%e3%82%89%e4%bd%bf%e3%81%88%e3%82%8bmykytea%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f/ "KyTea:京都テキスト解析ツールキット をRuby, Pythonから使えるMykyteaを作ってみた")をインストールしてください。  
+あらかじめ[KyTea](http://www.phontron.com/kytea/index-ja.html)と[Mykytea-python](https://chezo.uno/post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/)をインストールしてください。  
 使い方は、test\_kyteatokenizer.pyを見ればだいたいわかるとは思いますが、青空文庫の[銀河鉄道の夜](http://www.aozora.gr.jp/cards/000081/files/456_15050.html)をdata/ginga.txtに保存してTokeizeしています。
 
     #!/usr/bin/env python# -\*- coding: utf-8 -\*-from nltk\_jp import \*from nltk.corpus.reader import \*from nltk.corpus.reader.util import \*import kyteatokenizer jp\_sent\_tokenizer = nltk.RegexpTokenizer(u'[^ 「」！？。]\*[！？。]') reader = PlaintextCorpusReader("data/",r"ginga.txt", encoding = 'utf-8', para\_block\_reader = read\_line\_block, sent\_tokenizer = jp\_sent\_tokenizer, word\_tokenizer = kyteatokenizer.JPKyteaTokenizer())print ' '.join(reader.words()[20:80])

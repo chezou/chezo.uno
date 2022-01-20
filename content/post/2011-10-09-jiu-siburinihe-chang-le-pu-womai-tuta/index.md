@@ -15,7 +15,7 @@ keywords: [購入, 楽譜, 曲集, sings, dobrogosz, steve, rajaton, 新刊, キ
 recommendations: [/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
   /post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
 ---
-最後に購入したのは、[Rajatonの楽譜を個人輸入した時](http://chezou.wordpress.com/2011/07/02/rajaton%e3%81%ae%e6%a5%bd%e8%ad%9c%e3%82%92%e6%97%a5%e6%9c%ac%e3%81%8b%e3%82%89%e8%b2%b7%e3%81%86%e6%96%b9%e6%b3%95-sulasol-or-%e3%81%82%e3%81%8b%e3%81%ba%e3%82%89%e6%9d%91%e3%81%aecd%e5%b1%8b/ "Rajatonの楽譜を日本から買う方法 – Sulasol or あかぺら村のCD屋さん?")だなぁと思いながら、ふっとpanamusicaから新刊案内が来たので久しぶりに購入することにしました。
+最後に購入したのは、[Rajatonの楽譜を個人輸入した時](https://chezo.uno/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/)だなぁと思いながら、ふっとpanamusicaから新刊案内が来たので久しぶりに購入することにしました。
 
 今回購入したのはこちら。
 

@@ -33,9 +33,7 @@ togetterは[こちら](http://togetter.com/li/595791)
 
 [http://www.slideshare.net/chezou/ruby-28923469](http://www.slideshare.net/chezou/ruby-28923469)
 
-タイトルは大分大きく出ていますが、最近訳した[記事](http://chezou.wordpress.com/2014/01/18/%e7%a7%91%e5%ad%a6%e8%a8%88%e7%ae%97%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e5%9d%87%e8%b3%aa%e5%8c%96%e3%80%81%e3%81%82%e3%82%8b%e3%81%84%e3%81%af%e3%81%aa%e3%81%9cpython%e3%81%8c%e7%9d%80%e5%ae%9f/ "科学計算における均質化、あるいはなぜPythonが着実に他言語のシェアを奪っているか")の興味のベースになっている話でも有ります。  
+タイトルは大分大きく出ていますが、最近訳した[記事](https://chezo.uno/post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/)の興味のベースになっている話でも有ります。
 なぜ、PythonではRubyに比べて、科学計算が活発に行われているか？という点に対して、NumPyやSciPyといった数値計算のライブラリが活発に利用されているから、Railsで機械学習を扱えるライブラリがあまりないから、という話をしました。
 
 余談ですが、会場に使ったお店は、予約の段階でプロジェクターを使えると聞いていたのですが、当日現地に行ったら、「持参したプロジェクターを使えます」という話にすり替わっていました。。。
-
-

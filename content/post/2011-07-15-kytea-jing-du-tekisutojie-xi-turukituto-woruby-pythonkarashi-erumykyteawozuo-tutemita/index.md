@@ -168,7 +168,7 @@ KyTeaのRuby,PythonラッパーMykyteaを作りました。結局は、KyTeaに�
 コメントなどありましたら、当ブログまたは[@chezou](http://twitter.com/chezou)までご連絡ください。
 
 今後の予定としては、sinatraで簡単なWebアプリとの連携をさらっと書いてみたいです。  
-**【2011/07/20追記】[sinatraで動くkytea\_sinatra書きました](http://chezou.wordpress.com/2011/07/18/sinatra%e3%81%a7kytea%e3%82%92%e3%83%96%e3%83%a9%e3%82%a6%e3%82%b6%e3%81%8b%e3%82%89%e8%a9%a6%e3%81%99kytea-sinatra%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f/ "sinatraでKyTeaをブラウザから試すkytea-sinatra作ってみた")**
+**【2011/07/20追記】[sinatraで動くkytea\_sinatra書きました](https://chezo.uno/post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/)**
 
 ## 参考URL
 [睡眠不足？：](http://d.hatena.ne.jp/sleepy_yoshi/20091123/p1)[SWIGでPythonラッパを書いてみる](http://d.hatena.ne.jp/sleepy_yoshi/20091123/p1)
