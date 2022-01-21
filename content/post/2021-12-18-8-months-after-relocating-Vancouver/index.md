@@ -129,7 +129,8 @@ Greater Vancouver Areaは海に近いVancouver City, North Vancouver, West Vanco
 家の値段はずっと横這いだったのが上昇し始めたので、できればさっさと買ってしまいたいものです。が、戸建ては8 Bed Rooms 10 Bath Roomsとかで1M CAD以上からスタート、マンション的なコンドも900K CAD前後が多いので、まとまったお金を得ないと厳しそうです。
 
 家を借りるのに保険が必要です。うちはSquare Oneを使っていますが安くて良いです。
-https://www.squareone.ca/ref/UQUSE5
+こちらの[リンク](https://www.squareone.ca/ref/UQUSE5
+)から見積もりをすると$10のアマゾンギフト券が手に入るそうです。
 
 
 
