@@ -1,18 +1,34 @@
 ---
 title: バンクーバーに移住して8か月が経った
-subtitle: ''
+subtitle: ""
 date: 2021-12-18 00:00:00+09:00
-summary: ''
+summary: ""
 draft: false
 featured: false
-authors: [aki]
+authors:
+  - aki
+keywords:
+  - jpg
+  - summer
+  - 子供
+  - 今年
+  - スーパー
+  - カナダ
+  - bc
+  - 移住
+  - 前後
+  - 小学校
 lastmod: 2021-12-04 14:50:35-08:00
 tags: []
+recommendations:
+  - /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/
+  - /post/2017-12-23_----------------------701333a45696/
+  - /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/
 categories: []
-image: {caption: 秋の紅葉, focal_point: Top, preview_only: false}
-keywords: [jpg, summer, 子供, 今年, スーパー, カナダ, bc, 移住, 前後, 小学校]
-recommendations: [/post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/,
-  /post/2017-12-23_----------------------701333a45696/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
+image:
+  caption: 秋の紅葉
+  focal_point: Top
+  preview_only: false
 ---
 この記事は[pyspa Advent Calender 2021](https://adventar.org/calendars/6234)の18日目です。昨日は[@golden_lucky](https://twitter.com/golden_lucky)のリンゴの話でした。
 
@@ -111,6 +127,11 @@ Greater Vancouver Areaは海に近いVancouver City, North Vancouver, West Vanco
 そもそも、賃貸では2BRまでの物件が多いことに加えて、コロナ下で郊外の広めの家の需要が増えたため、家族住まいによい部屋を探すのが大変です。
 
 家の値段はずっと横這いだったのが上昇し始めたので、できればさっさと買ってしまいたいものです。が、戸建ては8 Bed Rooms 10 Bath Roomsとかで1M CAD以上からスタート、マンション的なコンドも900K CAD前後が多いので、まとまったお金を得ないと厳しそうです。
+
+家を借りるのに保険が必要です。うちはSquare Oneを使っていますが安くて良いです。
+https://www.squareone.ca/ref/UQUSE5
+
+
 
 ## 医療費は基本タダ
 
