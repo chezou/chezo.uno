@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [wi-fi, スポット, ソフトバンク, ipad, ビックカメラ, 一部, 対象外, 店員, モデル, togetter]
 recommendations: [/post/2011-05-01-iphone-for-everybodyno2nian-fu-riwojie-chu-sitarapaketutoding-e-huratutonisikanaranakatuta/,
-  /post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/, /post/2020-12-11-wired-lan-triggers-troubles/]
+  /post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/, /post/2020-12-11-wired-LAN-triggers-troubles/]
 ---
 ## 1.3Gモデルを買いましょう。
 自動的にソフトバンクWi-Fiスポット(i)が二年間無料で付いてきます。

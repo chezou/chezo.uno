@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [演奏会, 一昔, fcb, 9th, 関東, 任天堂, ニコ動, 著作権, メドレー, up]
+keywords: [演奏会, 一昔, fcb, 9th, 関東, 任天堂, ニコ動, 著作権, メドレー, リソース]
 recommendations: [/post/2009-07-05-guan-dong-hagame-musichoihoida/, /post/2010-09-11-press-start-2010xing-tutekita/,
   /post/2005-09-18-gao-tian-san-lang-xing-tutekimasita/]
 ---

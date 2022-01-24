@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [福島, 祭典, hanagoro, 希望, 作曲家, '2011', 方々, 素晴らしい, 合唱, ｒｙ]
+keywords: [福島, 祭典, hanagoro, 希望, 作曲家, '2011', 方々, 素晴らしい, 合唱, こと]
 recommendations: [/post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/, /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/,
   /post/2012-01-01-2011-in-review/]
 ---

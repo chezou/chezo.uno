@@ -5,9 +5,9 @@ date: '2019-03-10T09:01:03+09:00'
 lastmod: '2019-03-10T09:01:03+09:00'
 categories: [散財]
 authors: [aki]
-keywords: [ケーブル, usb, amzn, to, 通販, ブラック, bluetooth, ケース, 便利, サイズ]
-recommendations: [/post/2017-12-30_2017------------bbf834e065c5/, /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/,
-  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/]
+keywords: [ケーブル, usb, amzn, 通販, ブラック, bluetooth, ケース, 便利, サイズ, スタンド]
+recommendations: [/post/2017-12-30_2017------------bbf834e065c5/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
+  /post/2017-07-08_MBP--Thinkpad-X1-Carbon-2017-------46c374167b79/]
 ---
 
 ちょくちょく人に海外に行くときに持って行った方が良いものを聞かれるので、メモがてら書いておきたいと思います。首や肩を痛めてから、色々と試行錯誤をしているのですが、ある程度形になってきたかなと思うので愛用品を紹介したいと思います。

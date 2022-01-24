@@ -6,10 +6,10 @@ date: '2018-04-17T13:21:33+09:00'
 categories: [python]
 authors: [aki]
 aliases: [/blog/use-markdown-document-on-brand-new-pypi-9723024f09c2, /blog/9723024f09c2]
-keywords: [pypi, pip, description, long, py, wheel, upload, setup, document, python]
-recommendations: [/blog/2017-08-30_python-basics--package-management-462918458f96/,
-  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
-  /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/]
+keywords: [pip, pypi, packages, py, document, aodag, python, site, setup, description]
+recommendations: [/blog/2017-08-30_Python-basics--package-management-462918458f96/,
+  /blog/2019-11-26_How-to-release-Python-package-from-GitHub-Actions-d5a1d8edba6e/,
+  /blog/2017-07-24_Simple-way-to-distribute-your-private-Python-packages-within-your-organization-fb7af5dbd4c9/]
 ---
 
 Yesterday, PyPI was renewed to the next-generation site. It is modern and stylish one.

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [julia, 言語, 情報, 開催, エヴァンジェリスト, advent, juliatokyo, 日本語, 負荷, calendar]
+keywords: [julia, 言語, 開催, 情報, エヴァンジェリスト, advent, juliatokyo, 日本語, 負荷, こと]
 recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/,
-  /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/]
+  /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/]
 ---
 この記事は[Julia Advent Calender 2015](http://qiita.com/advent-calendar/2015/julialang)の最終日です。
 

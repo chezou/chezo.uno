@@ -11,9 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [和音, rajaton, 曲名, the, アレンジ, try, tone, 難しい, オリジナル, 宗教]
-recommendations: [/post/2008-07-05-rajaton/, /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/,
-  /post/2009-04-13-it-dont-mean-a-thing/]
+keywords: [和音, rajaton, 曲名, アレンジ, try, tone, 難しい, オリジナル, 宗教, パート]
+recommendations: [/post/2008-07-05-rajaton/, /post/2008-06-03-er-du-qin-qian/, /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
 ---
 2/6に開催された[練馬区のアカペラコンテスト](http://www.neribun.or.jp/nerima/ichiran.cgi?mode=1&t=1&no=1845)に行ってきました。
 

@@ -14,8 +14,8 @@ categories: [Python, TreasureData]
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 keywords: [treasure, 開発, タスク, digdag, イメージ, data, python, docker, 公式, 粒度]
-recommendations: [/post/2019-12-04-r-and-td/, /post/2018-10-19_treasure-data-------plazma-tech-talk-------3c901d92e973/,
-  /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/]
+recommendations: [/post/2019-12-04-R-and-TD/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
+  /post/2018-10-19_Treasure-Data-------Plazma-tech-talk-------3c901d92e973/]
 ---
 
 {{% toc %}}

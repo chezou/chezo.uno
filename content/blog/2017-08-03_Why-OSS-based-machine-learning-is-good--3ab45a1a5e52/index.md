@@ -5,10 +5,10 @@ date: '2017-08-03T12:56:59+09:00'
 categories: [machine_learning, OSS]
 authors: [aki]
 aliases: [/blog/why-oss-based-machine-learning-is-good-3ab45a1a5e52, /blog/3ab45a1a5e52]
-keywords: [learning, machine, deep, algorithms, open, research, performance, source,
+keywords: [learning, machine, deep, open, algorithms, research, performance, source,
   companies, year]
-recommendations: [/blog/2019-06-04_the-first-conference-of-operational-machine-learning--opml--19-308baad36108/,
-  /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/, /blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/]
+recommendations: [/blog/2019-06-04_The-first-conference-of-Operational-Machine-Learning--OpML--19-308baad36108/,
+  /blog/2019-04-24_Ruby-for-Data-Science-and-Machine-Learning-9f03e99125e0/, /blog/2016-12-01_Text-to-speech-based-on-deep-learning-for-Web-site-using-Amazon-Polly-and-Ruby-adc1923212cb/]
 ---
 
 

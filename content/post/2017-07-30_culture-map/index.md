@@ -4,9 +4,9 @@ description: 同僚の Daisuke Kobayashi から勧められて、エリン・メ
 date: '2017-07-30T11:45:33+09:00'
 categories: [book]
 authors: [aki]
-keywords: [アメリカ人, 中国, 文化, 日本人, 日本, 相対的, 時間, 認識, 直線, 対立]
-recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/,
-  /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/]
+keywords: [アメリカ人, 中国, 文化, 日本人, 日本, こと, 相対的, 時間, 認識, 直線]
+recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/,
+  /post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/]
 ---
 
 ![](1_XqRaeeRpBtmUfBRcCPBVjw.png)

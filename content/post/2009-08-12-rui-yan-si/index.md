@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['1600', '1200', jpeg, ef, bf, '74', '52', 風景, 温泉, fa]
+keywords: ['1600', '1200', jpeg, bf, '52', 風景, 温泉, fa, ea, c4]
 recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/,
   /post/2009-08-07-pokemonxin-gan-xian/]
 ---

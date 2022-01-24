@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [違和感, 後日, 表紙, 半分, 趣味, つもり, ヘッドホン, 詳しく, ページ, 期待]
+keywords: [違和感, 後日, アマゾンギフト券, 表紙, 半分, 趣味, つもり, ヘッドホン, 詳しく, ページ]
 recommendations: [/post/2008-01-18-souiebakokohawu-yu-burogudatuta/, /post/2008-09-14-hetudohonwu-se-sitahi/,
-  /post/2008-11-06-yin-lu-toyin-jie-noke-xue/]
+  /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---
 ついつい買ってしまいました。  
 アマゾンギフト券があったので、0円で買ってしまいました。  

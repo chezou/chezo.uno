@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [女性, 全て, 良かっ, 最初, 気分, 毛色, ポンド, フェア, エンターテイメント, きつかっ]
-recommendations: [/post/2008-06-15-gui-cai-xian-ru/, /post/2008-08-24-sayonaraituka/,
-  /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/]
+keywords: [女性, 全て, 良かっ, うち, 最初, 気分, 毛色, ポンド, フェア, エンターテイメント]
+recommendations: [/post/2008-06-15-gui-cai-xian-ru/, /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/,
+  /post/2008-08-24-sayonaraituka/]
 ---
 {{< amazon asin="4087463044" title="愛がいない部屋 (集英社文庫 い 47-5)" >}}
 石田 衣良 / / 集英社  

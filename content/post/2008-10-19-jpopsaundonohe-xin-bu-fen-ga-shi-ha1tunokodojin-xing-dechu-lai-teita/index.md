@@ -11,8 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [進行, マイナー, メジャー, コード, 投稿者, never, knows, 感心, メロディ, サウンド]
-recommendations: [/post/2008-07-05-rajaton/, /post/2010-11-13-ye-novuenetuia/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
+keywords: [進行, マイナー, メジャー, コード, 投稿者, knows, 感心, メロディ, サウンド, なじみ]
+recommendations: [/post/2008-07-05-rajaton/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
+  /post/2010-11-13-ye-novuenetuia/]
 ---
 [JPOPサウンドの核心部分が、実は1つのコード進行で出来ていた - エクサの口に戸は建たない](http://d.hatena.ne.jp/EXA/20081018/1224310523)をやっと読んだ。というか見た。  
 なるほどなー、と感心する反面どうもTommorow never knowsにしか聞こえない罠。  

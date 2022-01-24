@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [take, 来日, we, are, to, all, 日本, サイト, 祈り, 地震]
-recommendations: [/post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/,
-  /post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/, /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/]
+keywords: [来日, 日本, サイト, 祈り, 地震, あたたかい, sure, special, point, message]
+recommendations: [/post/2009-12-13-hutagozuo-liu-xing-qun-hajin-wan-kara-14ri-am2shi-gapiku/,
+  /post/2009-08-12-masa-festazhong-zhi/, /post/2009-03-03-sok-bao-masa-festa/]
 ---
 【20110531追記】[オフィシャルサイトによると、Take6の来日は2012年2月に延期されたようです。  
   

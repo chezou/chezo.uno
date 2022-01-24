@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [suica, ビック, チャージ, スイカ, ジャケット, カード, view, case, 携帯, 大きい]
+keywords: [suica, ビック, チャージ, スイカ, ジャケット, カード, view, 携帯, 大きい, 基本的]
 recommendations: [/post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/,
-  /post/2005-03-03-sugoi/, /post/2009-05-12-konnitiha-iphone/]
+  /post/2005-03-03-sugoi/, /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---
 もともと、[クリスタルジャケット](http://www.amazon.co.jp/gp/product/B001F70X2W/)を使っていたのですが、先日開けようと思ったら接続部の薄いところが折れているのに気付いて買い換えました。6月に買ってわずか5ヶ月の命でした。iPhone本体は傷など付いておらず、気に入っていただけに残念です。
 
