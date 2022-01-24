@@ -4,16 +4,17 @@ handlers:
       - _index.md
     processors:
       - permalink_base: "/blog"
+        type: recommender
         tfidf_options:
           stop_words: english
           max_df: 0.95
           min_df: 2
-        tokenizer: null
   - target_path: "content/post"
     ignore_files:
       - _index.md
     processors:
       - permalink_base: "/post"
+        type: recommender
         tfidf_options:
           max_df: 0.95
           min_df: 2
