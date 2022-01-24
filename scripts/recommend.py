@@ -11,7 +11,7 @@ from sudachipy import tokenizer
 from sudachipy import dictionary
 from spacy.lang.ja.stop_words import STOP_WORDS
 
-tokenizer_obj = dictionary.Dictionary(dict_type="full").create()
+tokenizer_obj = dictionary.Dictionary(dict="full").create()
 mode = tokenizer.Tokenizer.SplitMode.C
 
 def tokenize(text):
