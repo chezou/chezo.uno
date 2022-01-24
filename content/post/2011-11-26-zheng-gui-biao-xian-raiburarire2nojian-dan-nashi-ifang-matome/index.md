@@ -11,10 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [マッチ, 文字列, re, パターン, 判定, fullmatch, 参照, 全体, you, 置換]
+keywords: [マッチ, 文字列, パターン, 判定, fullmatch, 参照, 全体, 置換, win, 抽出]
 recommendations: [/post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita/,
-  /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
-  /post/2008-10-28-sings-2008-with-steve-dobrogosz/]
+  /post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/]
 ---
 
 先日、[インストールして試してみた](https://chezo.uno/post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita)Google製正規表現エンジン[re2](http://code.google.com/p/re2/)。

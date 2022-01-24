@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [選曲, dvd, ライブ, 素晴らし, b'z, style, '001', treasure, 熱い, 無く]
 recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2008-07-19-can-shu-gui-tou-mo-hong/,
-  /post/2019-12-24-python-custom-scripting/]
+  /post/2019-12-24-Python-Custom-scripting/]
 ---
 B'zのUltra treasureの選曲がやばすぎです。  
   

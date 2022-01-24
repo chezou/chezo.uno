@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [マイク, pro, オーディオインターフェース, 重視, 録音, 厳しい, 楽しみ, 本格的, ルネサンス, マイクスタンド]
 recommendations: [/post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
-  /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/, /post/2005-10-07-tuinikita/]
+  /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/, /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/]
 ---
 本格的に始めよう、というわけではなく、とりあえずアカペラで多重録音を始めてみようと思ったため、機材を簡単にそろえてみました。
 

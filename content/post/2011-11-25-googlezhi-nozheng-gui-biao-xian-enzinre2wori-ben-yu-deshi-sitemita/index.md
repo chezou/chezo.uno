@@ -11,10 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [re, regex, マッチ, mercurial, unnonouno, ubuntu, '2011', インストール, 使い方, '11']
+keywords: [regex, マッチ, mercurial, unnonouno, ubuntu, '2011', インストール, 使い方, '11', 追記]
 recommendations: [/post/2011-11-26-zheng-gui-biao-xian-raiburarire2nojian-dan-nashi-ifang-matome/,
-  /post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/,
-  /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/]
+  /post/2017-07-10_Thinkpad-X1-Carbon--2017--Windows-10-Ubuntu-17-04-----------9f73d89073c3/,
+  /post/2012-01-01-2011-in-review/]
 ---
 C++で正規表現を使う時、boost::regexを使うことが多いと思っていたのですが、何故か1.46.1以降(といっても1.48.0しか試していませんが)、regex\_search,regex\_matchがNullPointerExceptionぽく落ちるので、解決方法を探していました。
 
