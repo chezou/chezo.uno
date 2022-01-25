@@ -19,7 +19,8 @@ recommendations: [/post/2019-03-29_ngekkan-lambda-note-article/, /post/2006-07-2
 
 僕は『「MLOpsの歩き方」を書いた話』というタイトルで、n月刊ラムダノートに寄稿する方法について話しました。
 
+{{< gslides src="https://docs.google.com/presentation/d/e/2PACX-1vQgiC5eK2b1Fms-L1tk167dYnzPGXTE1Uv-ZZBp9IdxfZTsOaFvLovUtuP4LhvH47jfkt2cMESpp1hJ/embed?start=false&loop=false&delayms=3000" >}}
+
 また、僕の話は前座だったのですが、本命のコルーチンの話は大いに盛り上がりました。座談会の様子を録音してPodcastとしてリリースしたのでよければこちらもお楽しみください。
 
-[**2\. ラムダノート主催「コルーチン」祭り (mametter, moriyoshit, bonotake, golden\_lucky) | Random Facts Club**  
-_『n月刊ラムダノート』創刊記念パーティーで行われた「コルーチン」の座談会のライブ録音です_randomfacts.club](https://randomfacts.club/2 "https://randomfacts.club/2")[](https://randomfacts.club/2)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://randomfacts.club/2" data-iframely-url="//iframely.net/0YD4Idm"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
