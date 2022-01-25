@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [プレイ, クリア, 動画, ゲーム, 力押し, ニコニコ動画, 最後, 強く, 作品, １０]
-recommendations: [/post/2009-11-14-wu-xian-kontorora/, /post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/,
-  /post/2008-06-22-bokurano-alternative/]
+recommendations: [/post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/,
+  /post/2008-06-22-bokurano-alternative/, /post/2009-11-14-wu-xian-kontorora/]
 ---
 昔々、Compileというゲーム会社があったのだが（中略）、実家に帰ったら晩年の作品であるAfterDevilForceを発見してしまいました。当時、中学生だった自分には、最終面だけはクリアできなくて諦めた記憶があります。
 

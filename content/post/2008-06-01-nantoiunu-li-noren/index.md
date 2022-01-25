@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [キーボード, pc, ｒｙ, １６, １０, 黒板, 鳥肌, 魔王, 魅力, 魅了]
+keywords: [キーボード, pc, ｒｙ, １６, １０, 黒板, 鹿野, 鳥肌, 魔王, 魅力]
 recommendations: [/post/2017-01-19-macnojispei-lie-nokibodowokarabinershi-wazuniuspei-lie-nisuru/,
   /post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/, /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
 ---

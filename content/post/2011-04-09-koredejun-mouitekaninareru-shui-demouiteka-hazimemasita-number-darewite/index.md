@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [woo, choir, whitacre, virtual, ツイート, '2.0', 頻度, twitter, eric, nltk]
+keywords: [woo, choir, whitacre, virtual, the, ツイート, '2.0', 頻度, twitter, eric]
 recommendations: [/post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
   /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/]
 ---

@@ -11,7 +11,7 @@ tags: []
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 categories: [ruby]
-keywords: [websocket, sinatra, lt, ws, kytea, morph, 通信, バインディング, phpapp, doc]
+keywords: [websocket, sinatra, lt, morph, ws, 形態素解析, kytea, 通信, リアルタイム, バインディング]
 recommendations: [/post/2012-11-10-websocketwoshi-tuteriarutaimunixing-tai-su-jie-xi-wosurumorph-websocketwozuo-tutemita/,
   /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/, /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/]
 ---

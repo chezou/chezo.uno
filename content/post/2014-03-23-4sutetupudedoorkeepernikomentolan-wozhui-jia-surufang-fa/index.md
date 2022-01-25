@@ -11,10 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [doorkeeper, '383', '382', site, 入力, 情報, add, アカウント, クリック, '22']
+keywords: ['383', '382', bce, afe, aae, '38388', '38383', '22', '03', '2014']
 recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/,
-  /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
-  /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/]
+  /post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/, /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/]
 ---
 
 ![画像](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-22-17.png)

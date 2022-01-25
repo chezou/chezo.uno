@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [テスト, 後ほど, レポ, トランペット, try, tone, 教授, 講座, トーク, 昨日]
+keywords: [テスト, 後ほど, レポ, try, tone, 教授, 講座, トーク, 昨日, メンバー]
 recommendations: [/post/2018-01-17_----------------b63a0763e904/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
   /post/2005-07-17-urayamasika/]
 ---

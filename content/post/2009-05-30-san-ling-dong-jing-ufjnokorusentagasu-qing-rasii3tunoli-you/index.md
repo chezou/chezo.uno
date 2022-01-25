@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [コール, 対応, モード, スピーカー, 階層, 案内, 平日, 土曜, ボタン, たか]
+keywords: [コール, 対応, モード, スピーカー, 階層, 平日, 土曜, 案内, ボタン, たか]
 recommendations: [/post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
   /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/, /post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/]
 ---

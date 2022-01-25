@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [合唱, ネタ, twitter, 面白い, chorus, 盛り上がり, 発声, 広がり, 自動的, 漏れ]
+keywords: [合唱, ネタ, twitter, 面白い, chorus, 盛り上がり, 発声, 広がり, 自動的, de]
 recommendations: [/post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
   /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2007-07-02-minnanohe-chang/]
 ---

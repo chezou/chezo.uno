@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [電話, phs, au, 通話, 発想, 面白い, うち, わけ, いい, ｒｙ]
+keywords: [電話, phs, au, 通話, 発想, 面白い, わけ, ｒｙ, １６, １０]
 recommendations: [/post/2005-09-27-willcomxin-ji-zhong-kita/, /post/2005-04-23-willcom/,
   /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/]
 ---

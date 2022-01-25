@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [仕組み, '2016', カテゴリ, ため, 情報, techconf, 推薦, ありがたい, 開催, 機械学習]
-recommendations: [/post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
-  /post/2016-03-30-zhuan-zhi-simasita/]
+keywords: [仕組み, '2016', カテゴリ, 情報, techconf, 推薦, ありがたい, 開催, 機械学習, 神奈川]
+recommendations: [/post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
+  /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
 ---
 1/23に開催された[Cookpad TechConf 2016](http://techconf.cookpad.com/)で、クックパッドの研究開発に関する取り組みを紹介させていただきました。
 

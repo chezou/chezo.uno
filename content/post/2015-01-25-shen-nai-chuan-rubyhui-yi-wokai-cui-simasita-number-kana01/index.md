@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ruby, リージョナル, 会議, こと, コミュニティ, ペアプロ, 段階, 嬉しかっ, 勉強会, コンセプト]
+keywords: [ruby, リージョナル, 会議, コミュニティ, ペアプロ, 段階, 嬉しかっ, 勉強会, コンセプト, kawasaki]
 recommendations: [/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
   /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/, /post/2015-12-30-2015nian-wozhen-rifan-tute/]
 ---

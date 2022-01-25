@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [event, acappella, 合唱, アカペラ, リツイート, 情報, bot, カレンダー, 予定, 検索]
+keywords: [event, acappella, 合唱, or, アカペラ, リツイート, 情報, bot, カレンダー, 予定]
 recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
   /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
   /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/]

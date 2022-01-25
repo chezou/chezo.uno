@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [アレンジ, 満足, cd, スコア, 選択, テンポ, shaw, robert, festival, 苦しい]
-recommendations: [/post/2009-04-13-it-dont-mean-a-thing/, /post/2008-08-01-ono-lisa-best-2002-2006/,
-  /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/]
+keywords: [アレンジ, 満足, cd, スコア, 選択, テンポ, shaw, festival, 苦しい, singers]
+recommendations: [/post/2009-04-13-it-dont-mean-a-thing/, /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/,
+  /post/2008-07-07-the-real-group-real-christmas-commonly-unique/]
 ---
 9時前に寝てしまい、気が付けば11時。  
 でも、朝の4時かと思うくらい長い夢を見ていた気がする。苦しい夢だった。  

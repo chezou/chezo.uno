@@ -11,9 +11,9 @@ tags: []
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 categories: [ruby]
-keywords: [ruby, mruby, 数値計算, デモ, numpy, fortran, kishima, メソッド, scipy, js]
+keywords: [ruby, mruby, 数値計算, numpy, デモ, fortran, kishima, メソッド, scipy, js]
 recommendations: [/post/2014-09-21-rubykaigixing-tutekimasita-and-rubyhirobade-shen-nai-chuan-rubyhui-yi-01-gao-zhi-ltsitekimasita-number-rubykaigi-number-rubyhiroba-number-kana01/,
-  /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/, /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/]
+  /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/]
 ---
 大分遅くなりましたが、去る8/28(水)にKawasaki.rbの第3回ミートアップを開催しました。
 

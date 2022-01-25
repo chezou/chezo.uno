@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ライブハウス, 会場, 青木, メドレー, 男性, 友人, 方々, メンバー, 名前, 面々]
-recommendations: [/post/2010-09-11-press-start-2010xing-tutekita/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
-  /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/]
+keywords: [ライブハウス, 渋谷, 開場, 周り, アカペラグループ, more, メイン, 方々, 体験, 今日]
+recommendations: [/post/2008-10-28-mai-tutesimatuta/, /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/,
+  /post/2008-06-09-tuiniiphonedeng-chang/]
 ---
 
 渋谷にあるライブハウス「[多作](http://www.tasaku.com/)」にて行われたTRY-TONEのライブに行ってきました。

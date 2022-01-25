@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [交換, 店舗, 電話, 当選, 在庫, tsuboi, やりとり, ため, バッテリー, iphone]
+keywords: [交換, 店舗, 電話, 当選, 在庫, やりとり, tsuboi, バッテリー, iphone, サポート]
 recommendations: [/post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/,
-  /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/, /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/]
+  /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/, /post/2005-07-11-w-sim/]
 ---
 噂のiPhone 6sのバッテリー交換に当選しました。症状としては、突然電源断が起こるというもので、ちょいちょい突如落ちる現象には悩まされていました。
 

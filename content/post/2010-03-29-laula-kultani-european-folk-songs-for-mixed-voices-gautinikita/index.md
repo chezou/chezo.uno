@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [chorus, song, choir, es, musica, 演奏, 紹介, vocal, songs, pana]
-recommendations: [/post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/,
-  /post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/]
+keywords: [chorus, song, choir, for, es, the, musica, de, 演奏, in]
+recommendations: [/post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/,
+  /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/]
 ---
 
 [Pana Musicaで紹介](http://www.panamusica.co.jp/ja/product/12542/)されていた[CD](http://www.artistdirect.com/nad/store/artist/album/0,,4453385,00.html)を衝動的に買ってしまいました。だって、Folk Songsって書いてあるんだもの(Pana Musicaの紹介文は[こちら](http://www.panamusica.co.jp/ja/new/2010/02/)。しかし、Pana Musicaはいい紹介記事を書くのに、パーマリンクがないため紹介しづらいなぁ。今時パーマリンクなし、RSSなしだとGoogle先生などに補足されづらいので辛いと思います。勿体ない。)ヨーロッパの様々な合唱団がお国のFolk Songsを歌うコンピレーションアルバムという位置づけのようです。

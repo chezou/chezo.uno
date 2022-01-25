@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [対応, iphone, 辛いです, appbank, fc, 自動的, ipod touch, flash, rss, とき]
-recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/,
-  /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/]
+keywords: [対応, iphone, 辛いです, appbank, 自動的, ipod touch, flash, fc, rss, wordpress]
+recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
+  /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/]
 ---
 昔探したときはまったく情報がなかったものですが、いつの間にか[Wordpress.comにwptouchが対応](http://ja.blog.wordpress.com/2009/10/22/the-hero-is-in-your-pocket/)していました。って、10/22ってすごい最近だし。
 

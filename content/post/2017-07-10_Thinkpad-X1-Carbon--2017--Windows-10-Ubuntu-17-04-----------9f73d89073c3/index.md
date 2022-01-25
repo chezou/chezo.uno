@@ -4,9 +4,9 @@ description: 前回 Thinkpad X1 Carbon(2017)のWindows周りの設定につい�
 date: '2017-07-10T00:11:00+09:00'
 categories: []
 authors: [aki]
-keywords: [ubuntu, sudo, install, apt, 設定, .com, windows, デュアルブート, tool, キーボード]
-recommendations: [/post/2017-07-08_MBP--Thinkpad-X1-Carbon-2017-------46c374167b79/,
-  /post/2017-08-26_Python------------------dc8d8f2fe989/, /post/2012-01-07-mercurialtoqin-he-xing-nogao-iripozitoriburauzarhodecodewoinsutorusitemita/]
+keywords: [ubuntu, sudo, install, apt, get, 設定, .com, windows, デュアルブート, tool]
+recommendations: [/post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/,
+  /post/2017-08-26_python------------------dc8d8f2fe989/, /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/]
 ---
 
 前回 [Thinkpad X1 Carbon(2017)のWindows周りの設定](https://chezo.uno/post/2017-07-08_mbp-thinkpad-x1-carbon-2017-46c374167b79/)について書きましたが、今回はUbuntu 17.04とのデュアルブートについて書きます。
