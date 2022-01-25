@@ -6,7 +6,7 @@ categories: [life, kids]
 authors: [aki]
 keywords: [ネット, 炎上, 子供, 伊藤, 正しく, ルール, インターネット, 学校, 正しい, 大人]
 recommendations: [/post/2017-05-25_teach-what-i-dont-know/, /post/2008-10-11-le-pu-gayu-sii/,
-  /post/2017-12-23_----------------------701333a45696/]
+  /post/2021-12-18-8-months-after-relocating-vancouver/]
 ---
 
 “Two young girls stand reading from a book outdoors in the sun” by [Ben White](https://unsplash.com/@benwhitephotography?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

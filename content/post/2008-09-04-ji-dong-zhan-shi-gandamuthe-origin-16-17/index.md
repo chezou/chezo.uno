@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [オリジナル, isbn, スコア, 選択, 角川, 気分, 引き合い, 角川書店, 後々, 瞬間]
+keywords: [オリジナル, isbn, スコア, 選択, 角川, 気分, 引き合い, 角川書店, 後々, ない]
 recommendations: [/post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/, /post/2008-09-10-enzieruhato-27/,
-  /post/2008-08-24-sayonaraituka/]
+  /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/]
 ---
 {{< amazon asin="4047139874" title="機動戦士ガンダムTHE ORIGIN 16 オデッサ編・後 (16) (角川コミックス・エース 80-19)" >}}
 安彦 良和 / / 角川書店  

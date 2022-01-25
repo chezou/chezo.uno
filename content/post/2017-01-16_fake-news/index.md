@@ -4,9 +4,9 @@ description: このポストは、最近もやもやっと思っていること�
 date: '2017-01-16T14:55:32+09:00'
 categories: []
 authors: [aki]
-keywords: [ニュース, 攻撃, ロシア, facebook, 記事, ドイツ, instant, 情報, アメリカ, 指摘]
-recommendations: [/post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
-  /post/2014-12-15-number-ingress-dehurutaimunopuroezientotochu-hui-tutahua/, /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/]
+keywords: [ニュース, 攻撃, ロシア, facebook, 記事, ドイツ, こと, 情報, instant, アメリカ]
+recommendations: [/post/2014-12-15-number-ingress-dehurutaimunopuroezientotochu-hui-tutahua/,
+  /post/2019-03-29_ngekkan-lambda-note-article/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
 ---
 
 _このポストは、最近もやもやっと思っていることを吐き出したポエムである。厳格なファクトチェックを経たものと期待しないで欲しい。_

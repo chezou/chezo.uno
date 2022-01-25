@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [解約, willcom, iphone, コスト, キャンペーン, es, ad, 月額, gw, 端末]
+keywords: [解約, willcom, iphone, ad, es, 月額, コスト, gw, キャンペーン, 端末]
 recommendations: [/post/2009-05-04-ad-es-wojie-yue-surutameni/, /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/,
   /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
 ---

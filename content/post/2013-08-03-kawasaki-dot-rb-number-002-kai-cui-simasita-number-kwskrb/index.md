@@ -11,7 +11,7 @@ tags: []
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 categories: [ruby]
-keywords: [焼肉, ruby, lt, プロジェクター, ニコニコ動画, kwskrb, コメント, kawasaki, rb, 紹介]
+keywords: [焼肉, ruby, lt, プロジェクター, kwskrb, ニコニコ動画, コメント, kawasaki, rb, 紹介]
 recommendations: [/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
   /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/, /post/2013-06-29-kawasaki-dot-rb-number-001-di-1hui-mitoatupuwokai-cui-simasita-number-kwskrb/]
 ---

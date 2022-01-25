@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [絶対音感, 言葉, 著者, 教育, 音楽, 音響, 取材, エピソード, 不足, カテゴリ]
+keywords: [絶対音感, 言葉, こと, ない, 著者, 教育, 音楽, 音響, 取材, エピソード]
 recommendations: [/post/2010-01-01-12yue-nidu-ndaben/, /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
   /post/2008-11-06-yin-lu-toyin-jie-noke-xue/]
 ---

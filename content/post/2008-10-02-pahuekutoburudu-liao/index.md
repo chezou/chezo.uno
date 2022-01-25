@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [店員, 読後感, 王道, 森博嗣, 東野, 感情移入, 圭吾, ミステリー, みゆき, 伏線]
 recommendations: [/post/2008-05-17-subetegafninaru-du-liao/, /post/2008-08-24-sayonaraituka/,
-  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
+  /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/]
 ---
 {{< amazon asin="4488411010" title="パーフェクト・ブルー (創元推理文庫)" >}}
 宮部 みゆき / / 東京創元社  
