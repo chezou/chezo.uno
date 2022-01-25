@@ -4,7 +4,7 @@ subtitle: ''
 summary: ''
 authors: [aki]
 tags: []
-categories: []
+categories: ['Year review']
 date: 2020-12-31 22:06:15+09:00
 lastmod: 2020-12-31 22:06:15+09:00
 featured: false

@@ -8,7 +8,7 @@ featured: false
 authors: [aki]
 lastmod: 2021-12-31 16:05:03-08:00
 tags: []
-categories: []
+categories: ['Year review']
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 keywords: [お金, ops, アニメ, 漫画, 去年, 来年, 執筆, 東京, はず, 毛色]

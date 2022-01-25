@@ -7,9 +7,8 @@ draft: false
 featured: true
 authors: [aki]
 lastmod: 2021-04-24 16:48:57-07:00
-markup.goldmark.render: {unsafe: true}
 tags: [book]
-categories: []
+categories: [publish]
 projects: []
 image: {caption: 仕事ではじめる機械学習 第2版 表紙, focal_point: Smart, preview_only: false}
 keywords: [目次, tokoroten, 実務, hagino, '3000', 数式, 機械学習, ebook, 書籍, 前回]

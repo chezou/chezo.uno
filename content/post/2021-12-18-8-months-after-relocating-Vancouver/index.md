@@ -24,7 +24,7 @@ recommendations:
   - /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/
   - /post/2017-12-23_----------------------701333a45696/
   - /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/
-categories: []
+categories: ['daily life']
 image:
   caption: 秋の紅葉
   focal_point: Top
