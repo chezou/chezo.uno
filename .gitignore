@@ -3,3 +3,4 @@ public/
 .DS_Store
 .venv
 outputs/
+resources/_gen
