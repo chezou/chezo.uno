@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ピアノ, 作曲, ステージ, 指揮, stage, 男声合唱, st, 演奏, victoria, 信長貴富]
+keywords: [ステージ, st, 演奏, 演奏会, 良い, 意味, 男声合唱, 柔らかく, victoria, 信長]
 recommendations: [/post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/,
-  /post/2009-09-24-motion-blue-yokohama/]
+  /post/2010-09-11-press-start-2010xing-tutekita/]
 ---
 良い演奏会でした。男声合唱に対するイメージが良い意味で変化しました。  
 細々と書いていくとあれなので、簡単に。  

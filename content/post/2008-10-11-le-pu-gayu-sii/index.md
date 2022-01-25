@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [出版, ない, 自信, 無理, 分散, 比較的, 方々, ネット, オリジナル, 欲しい]
-recommendations: [/post/2008-06-09-tuiniiphonedeng-chang/, /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/,
-  /post/2018-06-27_internet-for-kids/]
+keywords: [出版, 自信, 無理, 分散, 比較的, 方々, ネット, オリジナル, 欲しい, アカペラ]
+recommendations: [/post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/,
+  /post/2008-06-09-tuiniiphonedeng-chang/, /post/2018-06-27_internet-for-kids/]
 ---
 出版されている物を、取り寄せるのは比較的なんとかなるとわかりました。  
 今欲しいのは、[このこ](http://www.panamusica.co.jp/ja/product/6903/)。Dulamanが歌いたいわー。  

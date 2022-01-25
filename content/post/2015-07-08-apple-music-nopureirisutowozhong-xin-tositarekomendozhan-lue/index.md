@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [プレイリスト, アーティスト, apple music, レコメンド, リスト, 音楽, シーン, 楽曲, 影響, こと]
+keywords: [プレイリスト, アーティスト, apple music, レコメンド, リスト, 音楽, シーン, 楽曲, 影響, 凄い]
 recommendations: [/post/2015-10-27-netutohuritukusunoshi-dai-nihakontentunoshan-nimai-morenasasenaitamenohintogajie-matuteita/,
   /post/2009-08-12-masa-festazhong-zhi/, /post/2008-09-07-chu-yin-mikunokaraokequ/]
 ---

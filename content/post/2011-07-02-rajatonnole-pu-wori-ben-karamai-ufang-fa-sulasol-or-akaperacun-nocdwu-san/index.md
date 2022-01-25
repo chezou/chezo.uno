@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [mia, 楽譜, rajaton, メール, 購入, cd, オーダー, 日本, 確認, 依頼]
-recommendations: [/post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/, /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
-  /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
+keywords: [mia, 楽譜, rajaton, メール, 購入, sulasol, cd, オーダー, 日本, 確認]
+recommendations: [/post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/,
+  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
 ---
 当ブログでも何度か紹介しているフィンランドのヴォーカルアンサンブル Rajatonの楽譜を購入しました。購入したのは、Nouse lauluni等の曲です。この曲は良い曲ですよ！詩は一部カレワラからとられているようです。
 

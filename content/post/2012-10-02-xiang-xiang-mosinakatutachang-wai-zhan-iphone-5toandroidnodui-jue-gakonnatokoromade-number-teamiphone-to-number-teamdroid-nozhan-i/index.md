@@ -11,10 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [peter, hollens, iphone, version, 歌詞, firework, 反論, アカペラ, 対決, 格好]
+keywords: [peter, hollens, iphone, version, 'no', it, 歌詞, firework, 反論, アカペラ]
 recommendations: [/post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/,
-  /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
-  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/]
+  /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/,
+  /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/]
 ---
 一度は聞いたことがあるiPhoneの着信音のあの音から、こんな曲ができるなんて！
 

@@ -1,19 +1,35 @@
 ---
 title: CEATECいってきた
-summary: ''
+summary: ""
 draft: false
-authors: [aki]
+authors:
+  - aki
+keywords:
+  - 東芝
+  - cb
+  - "71"
+  - "51"
+  - da
+  - 映画
+  - デモ
+  - テレビ
+  - スピーカー
+  - "27"
 lastmod: 2009-10-10 21:55:54+00:00
-subtitle: ''
+subtitle: ""
 date: 2009-10-10 21:55:54+00:00
 featured: false
 tags: []
 categories: null
 projects: []
-image: {caption: '', focal_point: '', preview_only: false}
-keywords: [東芝, 映画, デモ, テレビ, スピーカー, 一方, 違い, 先生, 音響, 抑制]
-recommendations: [/post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
-  /post/2008-10-28-mai-tutesimatuta/, /post/2009-05-30-san-ling-dong-jing-ufjnokorusentagasu-qing-rasii3tunoli-you/]
+recommendations:
+  - /post/2010-09-04-tun-zu-xing-tutekimasita/
+  - /post/2009-11-14-wu-xian-kontorora/
+  - /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 ---
 {{< figure src="p_1600_1200_eeff51ad-5f1c-4cb3-9c71-f5f1b3da8a27.jpeg" title="" >}}
 

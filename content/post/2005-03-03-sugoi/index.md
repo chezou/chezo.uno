@@ -9,8 +9,8 @@ authors: [aki]
 tags: []
 projects: []
 keywords: [ca, 携帯, 機種変, ポイント, 学割, ボタン, 友達, '3000', そもそも, 写真]
-recommendations: [/post/2010-01-14-hueraranoziyosukan-vuokaruansanburu-kaperading-qi-gong-yan/,
-  /post/2005-09-27-willcomxin-ji-zhong-kita/, /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
+recommendations: [/post/2009-09-24-motion-blue-yokohama/, /post/2010-01-14-hueraranoziyosukan-vuokaruansanburu-kaperading-qi-gong-yan/,
+  /post/2005-09-27-willcomxin-ji-zhong-kita/]
 ---
 [これ](http://VGA640.exblog.jp/1640846)を見て、携帯のカメラのすごさを思い知った。しょせんは付属物とかいってなめてちゃいかんのね。\
 ちなみに、この写真はA5406CAだそうです。\

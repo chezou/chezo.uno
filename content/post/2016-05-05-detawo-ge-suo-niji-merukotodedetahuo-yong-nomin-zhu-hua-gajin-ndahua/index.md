@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [sql, データ, 箇所, こと, ディレクター, 分析, エンジニア, データ分析, クエリ, 民主化]
+keywords: [sql, データ, 箇所, ディレクター, 分析, エンジニア, データ分析, クエリ, 民主化, 活用]
 recommendations: [/post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
-  /post/2016-03-30-zhuan-zhi-simasita/, /post/2015-12-30-2015nian-wozhen-rifan-tute/]
+  /post/2016-03-30-zhuan-zhi-simasita/, /post/2017-05-26_public-dataset/]
 ---
 先日、この記事を読んで分析のハードルを下げること大事だよね、というのを思い出したのでつらつらと書いてみようと思います。
 

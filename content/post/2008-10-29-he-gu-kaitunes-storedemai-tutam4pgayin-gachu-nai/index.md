@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ファイル, 公演, プチヲタ, 名古屋, アカペラグループ, 日本語, 日程, '27', マシン, '11']
-recommendations: [/post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
-  /post/2009-03-03-sok-bao-masa-festa/]
+keywords: [ファイル, 公演, プチヲタ, 名古屋, アカペラグループ, 日本語, 日程, take, '27', マシン]
+recommendations: [/post/2011-04-07-soredemotake6halai-ri-suru/, /post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/,
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/]
 ---
 そうなのだ。しかも、その症状が出たファイルは、前のマシンでバックアップして新しいマシンに復元した日本語のファイルばかり。ファイルも日本語の部分だけ文字化けしていて(日本語がアンダーバーになっていた)、QuickTimeでは再生できるというなぞっぷり。  
 仕方がないので、問題のファイルをライブラリからいったん消して、m4pのファイルをもう一度追加したら大丈夫になった。iPodに入っていたファイルも、無音が曲の長さ分発生していたので、気持ち悪かったが……。よかった。  

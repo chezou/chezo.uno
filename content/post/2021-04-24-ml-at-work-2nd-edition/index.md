@@ -13,7 +13,7 @@ categories: []
 projects: []
 image: {caption: 仕事ではじめる機械学習 第2版 表紙, focal_point: Smart, preview_only: false}
 keywords: [目次, tokoroten, 実務, hagino, '3000', 数式, 機械学習, ebook, 書籍, 前回]
-recommendations: [/post/2017-10-20_OReilly-ml-for-business-cf835ff4c128/, /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
+recommendations: [/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
   /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
 ---
 {{< toc >}}

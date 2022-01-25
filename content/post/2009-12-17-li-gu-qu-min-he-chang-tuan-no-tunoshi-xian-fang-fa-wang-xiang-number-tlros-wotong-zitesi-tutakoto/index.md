@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [パート, サービス, タグ, なけれ, 楽しい, 何事, アカペラー, いみ, twitterアカウント, summer]
-recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
-  /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/]
+keywords: [パート, サービス, タグ, 楽しい, 何事, アカペラー, いみ, twitterアカウント, 武満徹, 曲名]
+recommendations: [/post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/, /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/,
+  /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/]
 ---
 最近、twitterで曲を歌うことになりました。なんというか、アカペラーや合唱人との繋がりが楽しくなってきたのですが、まさかこんな展開になるとは思っていなかったので楽しさが増してきました。  
 TLに、三善晃や武満徹の文字が流れる日が来るとは！

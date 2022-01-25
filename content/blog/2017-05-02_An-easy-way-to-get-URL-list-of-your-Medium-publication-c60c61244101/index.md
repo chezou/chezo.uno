@@ -8,8 +8,8 @@ authors: [aki]
 aliases: [/blog/an-easy-way-to-get-url-list-of-your-Medium-publication-c60c61244101,
   /blog/c60c61244101]
 keywords: [publication, articles, list, url, medium, old, manually, huge, tried, script]
-recommendations: [/blog/2016-12-01_Text-to-speech-based-on-deep-learning-for-Web-site-using-Amazon-Polly-and-Ruby-adc1923212cb/,
-  /blog/2017-05-28_tabula-py-now-able-to-extract-remote-PDF-and-multiple-tables-at-once-6108e24ac07c/,
+recommendations: [/blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/,
+  /blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/,
   /blog/py-operator-development-guide-for-python-users/]
 ---
 

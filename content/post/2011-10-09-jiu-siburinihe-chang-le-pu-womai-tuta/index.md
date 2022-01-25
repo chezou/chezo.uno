@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [曲集, 購入, sings, dobrogosz, steve, 楽譜, キャロル, hanagoro, acapuluco, 相澤直人]
-recommendations: [/post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2008-10-28-sings-2008-with-steve-dobrogosz/,
-  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
+keywords: [購入, 楽譜, 曲集, sings, dobrogosz, steve, rajaton, 新刊, キャロル, sulasol]
+recommendations: [/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
+  /post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
 ---
 最後に購入したのは、[Rajatonの楽譜を個人輸入した時](https://chezo.uno/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/)だなぁと思いながら、ふっとpanamusicaから新刊案内が来たので久しぶりに購入することにしました。
 

@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [臭い, テイスト, 相変わらず, ダメ, ok, 凄い, シリーズ, 作品, 新しい, isbn]
-recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-13-lang-toxiang-xin-liao-1/,
-  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-08-24-sayonaraituka/,
+  /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---
 胃が凄い荒れ狂っているのがわかります。  
 紹興酒まずかったorz

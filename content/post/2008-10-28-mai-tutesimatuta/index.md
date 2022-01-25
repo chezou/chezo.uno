@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [hd, hfi, '700', '650', '555', 環境, ライブハウス, マランツ, プラネテス, ジャズ]
+keywords: [hd, hfi, '700', '650', '555', 環境, ライブハウス, マランツ, ジャズ, クラシック]
 recommendations: [/post/2008-10-05-hd53r-ver-dot-8wogou-ru/, /post/2008-09-14-hetudohonwu-se-sitahi/,
-  /post/2009-10-10-ceatecitutekita/]
+  /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/]
 ---
 {{< amazon asin="B000WM8KPI" title="マランツ シルバー SA-15S1S" >}}
  / マランツ・スーパースコープ  

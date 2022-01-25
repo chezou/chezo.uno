@@ -7,9 +7,9 @@ categories: [machine_learning, ruby]
 authors: [aki]
 aliases: [/blog/ruby-for-data-science-and-machine-learning-9f03e99125e0, /blog/9f03e99125e0]
 keywords: [ruby, data, red, science, learning, chainer, apache, deep, tools, jpg]
-recommendations: [/blog/2017-08-03_Why-OSS-based-machine-learning-is-good--3ab45a1a5e52/,
-  /blog/2016-10-15_Building-predictive-Model-with-Ibis--Impala-and-scikit-learn-356b41f404e0/,
-  /blog/2019-06-04_The-first-conference-of-Operational-Machine-Learning--OpML--19-308baad36108/]
+recommendations: [/blog/2017-08-03_why-oss-based-machine-learning-is-good--3ab45a1a5e52/,
+  /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
+  /blog/2019-06-04_the-first-conference-of-operational-machine-learning--opml--19-308baad36108/]
 ---
 
 I attended [RubyKaigi 2019](https://rubykaigi.org/2019) held at Fukuoka from Apr 18 to Apr 21. This year’s RubyKaigi was a really great opportunity for me to know the possibility of Data Science and Machine Learning for Ruby.

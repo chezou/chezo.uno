@@ -11,10 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [楽譜, the real group, 展開, シンガー, cappella, acapuluco, それから, a cappella, 今回,
-  real]
-recommendations: [/post/2009-04-13-it-dont-mean-a-thing/, /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
-  /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
+keywords: [楽譜, the real group, in, 展開, シンガー, cappella, acapuluco, それから, a cappella,
+  but]
+recommendations: [/post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
+  /post/2009-04-13-it-dont-mean-a-thing/]
 ---
 [a-cappella.com](http://www.a-cappella.com)  
 名前の通り、アカペラのCDやら楽譜が入手できるサイト。  

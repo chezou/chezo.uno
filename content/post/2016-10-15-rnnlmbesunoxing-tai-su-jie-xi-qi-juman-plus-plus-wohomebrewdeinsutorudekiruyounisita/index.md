@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [juman, homebrew, core, jumanpp, issue, formula, mecab, コーパス, 部分, 辞書]
 recommendations: [/post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/,
-  /post/2018-12-01_Windows-64bit-MeCab--KyTea-------2018-b283b6c7b33c/, /post/2016-12-31-2016nian-wozhen-rifan-tute/]
+  /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/, /post/2016-12-31-2016nian-wozhen-rifan-tute/]
 ---
 京大の黒橋・河原研から最近出た[JUMAN++](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN++)をmacOSのhomebrewでinstallできるようにしました。
 

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [airplay, サーバ, mac, オフ, ターミナル, raspberry pi, 対処法, この先, client, appletv]
+keywords: [airplay, サーバ, mac, オフ, windows, ターミナル, raspberry pi, 対処法, この先, client]
 recommendations: [/post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/, /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/,
   /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/]
 ---

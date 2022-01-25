@@ -12,7 +12,7 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [ssd, ドライブ, sata, hdd, 領域, windows, ケーブル, バックアップ, ランダム, ディスク]
-recommendations: [/post/2017-07-08_MBP--Thinkpad-X1-Carbon-2017-------46c374167b79/,
+recommendations: [/post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/,
   /post/2006-03-17-uhi/, /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/]
 ---
 ## ●せっかちな人のための結論

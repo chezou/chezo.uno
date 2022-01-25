@@ -1,19 +1,35 @@
 ---
 title: RENT ブロードウェーツアーを見て来た
-summary: ''
+summary: ""
 draft: false
-authors: [aki]
+authors:
+  - aki
+keywords:
+  - bc
+  - "07"
+  - "1600"
+  - "1200"
+  - jpeg
+  - マーク
+  - ロック
+  - バンド
+  - 低い
+  - 映画
 lastmod: 2009-08-30 08:08:13+00:00
-subtitle: ''
+subtitle: ""
 date: 2009-08-30 08:08:13+00:00
 featured: false
 tags: []
 categories: null
 projects: []
-image: {caption: '', focal_point: '', preview_only: false}
-keywords: [マーク, ロック, バンド, 低い, 映画, 日程, 思い, 日本人, 感謝, 幸せ]
-recommendations: [/post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2017-07-30_culture-map/,
-  /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
+recommendations:
+  - /post/2010-09-04-tun-zu-xing-tutekimasita/
+  - /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
+  - /post/2009-08-07-pokemonxin-gan-xian/
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 ---
 今更ながら、報告です。  
 行ける日程が急遽変更になったのですが、運良く譲っていただいていけることとなりました。  

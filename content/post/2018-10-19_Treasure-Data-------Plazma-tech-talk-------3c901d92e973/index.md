@@ -5,7 +5,7 @@ date: '2018-10-19T01:12:26+09:00'
 categories: [life]
 authors: [aki]
 keywords: [入社, td, ml, 開発中, エッジ, operator, 広がり, team, talk, iot]
-recommendations: [/post/2019-12-24-Python-Custom-scripting/, /post/2019-12-04-R-and-TD/,
+recommendations: [/post/2019-12-24-python-custom-scripting/, /post/2019-12-04-r-and-td/,
   /post/jupyter-notebook-labsをmlのどのフェーズで使うのか？/]
 ---
 

@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [cd, 軽快, 節約, zero, 元気, ギター, 感じ, 視聴, 欲しく, 方向]
-recommendations: [/post/2008-08-01-ono-lisa-best-2002-2006/, /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/,
-  /post/2009-04-13-it-dont-mean-a-thing/]
+recommendations: [/post/2008-08-01-ono-lisa-best-2002-2006/, /post/2009-04-13-it-dont-mean-a-thing/,
+  /post/2006-08-26-nabinabi/]
 ---
 ノートをたちあげっぱにしておくと，熱で手が低温やけどしそうな今日この頃，いかがお過ごしでしょうか．  
   

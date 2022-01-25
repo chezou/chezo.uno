@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [channel, rockapella, 楽しみ, youtube, tokyo, ｒｙ, １６, １０, 黒板, 鳥肌]
+keywords: [channel, rockapella, 楽しみ, youtube, tokyo, ｒｙ, １６, １０, 黒板, 鹿野]
 recommendations: [/post/2008-07-10-ris-a-la-malta/, /post/2015-08-23-yapc-asia-tokyo-2015can-jia-sitekita-number-yapcasia/,
   /post/2011-04-06-gatiyapin-sings-rajaton/]
 ---

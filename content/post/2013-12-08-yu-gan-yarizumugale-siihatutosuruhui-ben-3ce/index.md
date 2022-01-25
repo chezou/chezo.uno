@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [絵本, ころ, '81', 作品, 子供, リズム, '82', ランキング, '13', '06']
+keywords: [絵本, ころ, '81', 作品, 子供, リズム, '82', ランキング, at, '13']
 recommendations: [/post/2017-05-25_teach-what-i-dont-know/, /post/2008-07-19-can-shu-gui-tou-mo-hong/,
   /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/]
 ---

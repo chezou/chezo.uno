@@ -8,8 +8,8 @@ authors: [aki]
 aliases: [/blog/tabula-py-now-able-to-extract-remote-PDF-and-multiple-tables-at-once-6108e24ac07c,
   /blog/6108e24ac07c]
 keywords: [tabula, pdf, py, extract, add, java, tables, method, path, option]
-recommendations: [/blog/2017-01-09_tabula-py--Extract-table-from-PDF-into-Python-DataFrame-6c7acfa5f302/,
-  /blog/2019-02-18_A-recent-update-of-tabula-py-a923d2ab667b/, /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/]
+recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/,
+  /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/, /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/]
 ---
 
 _(Note: Oct 7th, 2019)  

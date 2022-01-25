@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ruby, kawasaki, rb, 発表, 会議, 川崎, tシャツ, rails, 都内, いつも]
+keywords: [ruby, kawasaki, 発表, rb, 会議, 川崎, tシャツ, rails, 都内, いつも]
 recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
   /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/, /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/]
 ---

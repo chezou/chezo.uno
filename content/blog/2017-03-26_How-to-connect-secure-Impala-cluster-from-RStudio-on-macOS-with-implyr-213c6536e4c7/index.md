@@ -9,9 +9,9 @@ aliases: [/blog/how-to-connect-secure-impala-cluster-from-rstudio-on-macos-with-
   /blog/213c6536e4c7]
 keywords: [impala, cloudera, set, configuration, install, replace, connect, setup,
   description, library]
-recommendations: [/blog/2017-02-11_Visualize-your-massive-data-with-Impala-and-Redash-afe31133c644/,
-  /blog/2017-08-02_How-to-run-Cloudera-Director-on-your-macOS-Windows-10-710f82aa1d63/,
-  /blog/2016-10-15_Building-predictive-Model-with-Ibis--Impala-and-scikit-learn-356b41f404e0/]
+recommendations: [/blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/,
+  /blog/2017-08-02_how-to-run-cloudera-director-on-your-macos-windows-10-710f82aa1d63/,
+  /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/]
 ---
 
 Impala is very fast SQL-on-Hadoop, and it will enhance your R experience with [implyr](https://github.com/ianmcook/implyr), a [dplyr](https://cran.r-project.org/package=dplyr) based interface for [Apache Impala (incubating)](https://impala.apache.org/) created by [Ian Cook](https://medium.com/u/d7dc303a303b). I will show you how to setup connection to Kerberized Impala cluster with implyr from local macOS. You can find my GitHub repo as follows:

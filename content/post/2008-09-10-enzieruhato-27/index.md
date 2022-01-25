@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [新潮社, キャラクター, 描写, 行動, やばい, 家族, isbn, 展開, 良かっ, スコア]
+keywords: [新潮社, キャラクター, 描写, 行動, やばい, 家族, isbn, 良かっ, 展開, スコア]
 recommendations: [/post/2008-09-06-feng-gaqiang-kuchui-iteiru/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
   /post/2008-08-24-sayonaraituka/]
 ---
