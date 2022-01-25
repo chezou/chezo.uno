@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [新刊, css, サイト, カレンダー, マシン, twitter, 移行, windows, 随時, ほしかっ]
-recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
-  /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
+keywords: [css, サイト, カレンダー, マシン, twitter, 移行, windows, 随時, ほしかっ, sass]
+recommendations: [/post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
+  /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
   /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
 ---
 ## 何を作ったか？

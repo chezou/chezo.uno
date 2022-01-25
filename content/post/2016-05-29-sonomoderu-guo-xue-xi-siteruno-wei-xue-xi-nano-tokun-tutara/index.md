@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [データ, validation, 精度, learning, 学習, モデル, 検証, サイズ, high, パラメータ]
 recommendations: [/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/,
-  /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/]
+  /post/2018-05-17_mlse-kickoff/]
 ---
 # Q: うわっ...ワタシのモデル過学習してる…？
 

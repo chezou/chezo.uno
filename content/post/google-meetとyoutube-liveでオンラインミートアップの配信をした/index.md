@@ -2,20 +2,12 @@
 title: Google MeetとYouTube Liveでオンラインミートアップの配信をした
 date: 2020-05-29 08:54:07.362000+00:00
 draft: false
-image:
-  filename: image-from-ios.jpg
-  caption: Streamingの様子
-  focal_point: Smart
-  preview_only: false
-categories:
-  - Streaming
-tags:
-  - YouTube Live
-  - Streaming
-  - Gadget
-keywords: [meet, 配信, zoom, マイク, 音量, 発表, 画像, 画面, youtube live, do]
-recommendations: [/post/2020-12-31-2020-review/, /post/2020-11-10-mlse-conference/,
-  /post/2020-07-11-mlse-summer-workshop/]
+image: {filename: image-from-ios.jpg, caption: Streamingの様子, focal_point: Smart, preview_only: false}
+categories: [Streaming]
+tags: [YouTube Live, Streaming, Gadget]
+keywords: [meet, 配信, zoom, マイク, 音量, 発表, 画像, 画面, youtube live, 接続]
+recommendations: [/post/2020-12-31-2020-review/, /post/2020-07-11-mlse-summer-workshop/,
+  /post/2020-11-10-mlse-conference/]
 ---
 
 先日、[Machine Learning Casual Talks #12](https://mlct.connpass.com/event/172550/)というイベントの配信担当をした。

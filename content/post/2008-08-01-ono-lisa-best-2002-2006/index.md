@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [電車, ミュージック, ジャパン, 注意, cd, スコア, 選択, 感じ, ｒｙ, １６]
-recommendations: [/post/2006-07-28-xia-nanode/, /post/2008-06-03-er-du-qin-qian/,
-  /post/2008-09-08-luck-stealer-2/]
+keywords: [電車, ミュージック, ジャパン, 注意, cd, スコア, 選択, 感じ, とき, ない]
+recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2008-09-08-luck-stealer-2/,
+  /post/2006-07-28-xia-nanode/]
 ---
 {{< amazon asin="B0015YEKBU" title="Ono Lisa best 2002-2006" >}}
 小野リサ / / EMIミュージック・ジャパン  

@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [メール, 送信, 問題, 登録, メモ, iphone, 障壁, 着信, つらい, files]
 recommendations: [/post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/,
-  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2005-07-11-w-sim/]
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
 ---
 はじめて生で小夏ちゃんを見た。梅雨くん（ちゃん？）も見てしまった。それをiPhoneの[Baloo](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=292171561&mt=8)で実況板を見ていたのですが、流れが速くて追いつかないという現象を見てしまいました。すごいわー
 

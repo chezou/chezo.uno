@@ -12,7 +12,7 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [コントローラ, ワイヤレス, ps, '360', logicool, pc, 普通, アダプタ, 程度, 入手]
-recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2009-11-14-wu-xian-kontorora/,
+recommendations: [/post/2009-11-14-wu-xian-kontorora/, /post/2008-06-01-nantoiunu-li-noren/,
   /post/2019-03-10_business-trip-goods/]
 ---
 ふと思い立って、WiiよろしくPCもワイヤレスコントローラでゲームをやってみたい、と思ったので調べてみた。

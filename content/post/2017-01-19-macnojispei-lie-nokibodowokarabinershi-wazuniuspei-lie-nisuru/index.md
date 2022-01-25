@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [配列, us, キーボード, cmd, 英数, 単体, jis, keyboard, ime, anker]
+keywords: [配列, キーボード, cmd, 英数, 単体, jis, keyboard, ime, anker, 設定]
 recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2012-10-31-amazonno1gb-slash-1yuan-sutoreziglacierwokomandoraindeshi-uglacier-cmdnoshi-ifang/,
-  /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/]
+  /post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/]
 ---
 macOS Sierraに上げる前に、Karabinerが動かない問題をなんとかしたいと思っていました。 El capitanでちゃんと検証してから上げないと、色んな人みたいに死ぬなと思って[Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements)に移行できるか検証しました。
 

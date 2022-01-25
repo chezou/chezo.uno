@@ -4,9 +4,9 @@ description: 10/11–12にUC BerkeleyのRISELabが主催していたbootcampに�
 date: '2018-10-25T08:01:02+09:00'
 categories: []
 authors: [aki]
-keywords: [処理, ライブラリ, 実験, モデル, jpeg, ml, python, デプロイ, フレームワーク, ハンズオン]
+keywords: [処理, ライブラリ, ため, 実験, モデル, ml, python, デプロイ, jpeg, フレームワーク]
 recommendations: [/post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
-  /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/]
+  /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/]
 ---
 
 10/11–12にUC Berkeleyの[RISELab](https://rise.cs.berkeley.edu/)が主催していたbootcampに参加しました。kawasaki.rbでも少し話しましたが、参加報告です。雰囲気は[公式FBの写真](https://www.facebook.com/media/set/?set=ms.c.eJw9U1mSxUAIutGUtvv9Lzb1RPJJEVGg4~_2TEtYZz~%3BP9~_WIrnY5W4BjwkcSui8vJO3i9~_ZjffI0cVl0968NTYTrSQb388SN2fK2~_O~%3BRTXVZP5vi3~_v0~_~%3BQf9Ouzz01ez06~%3Bd94T7Avfnp7~%3B~_rOhvZnnN08vVr6b~_C~_znvMXON~_95CZ5~_5EHvsIqvnsfhB3~_P~%3BgzzyvsTuKk3jvwuT9Xl6~%3BM7sv6HftLWv1K~%3BsL~_YRwXyob~%3BC~%3BPWfqujT5L7vgv43jz7q~%3BGvW5uG8L9~%3Be~_~%3BXljX74fjzQP~%3BOM3S~%3B27Qf~_~_kmHH76nXn0V6lsjP2XegXn6a~_SV7MMf~_idGXvLlNcBN3Mh~%3BuD8N7yN5v~_J~_~%3Bg~%3BS2z~%3BzXbYjh98b3peSN8F7Yr6N~_cf7Be9X~%3BR8UQsUf.bps.a.484959355319247&type=1&__xts__[0]=68.ARC6fIHVyfA7Xo3m9MzK2UMK_5zPf7En9IKyoKfHS5TQdrIuAzVUbJoUgpHWUZKeqdawRdSIrPnRNmbTg3T-ctW0exs9E36ZRfaKxMXZzrKNfSKL6EOL86ibYKlGnCixYo3CJ79fiz8o6sJaGW6WRAHtrKr9zWeRhjQgHa0c7Vh6dlvEPe4ZaVqhJ4wYl-UdU0gH5W11AA&__tn__=HH-R)がわかりやすいです。

@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [er, 大須, 同期, 曰く, カナル型, 是非, イヤホン, 研究室, ヘッドホン, 入手]
 recommendations: [/post/2008-01-18-souiebakokohawu-yu-burogudatuta/, /post/2008-09-14-hetudohonwu-se-sitahi/,
-  /post/2018-06-27_internet-for-kids/]
+  /post/2008-10-11-le-pu-gayu-sii/]
 ---
 いや、厳密に言うとヘッドホンではないのかもしれません。カナル型イヤホンのER-6iです。  
 てか、色々ネットで調べてる内にこれしかない、という状況にまで来てしまいました。  

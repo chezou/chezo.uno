@@ -6,8 +6,8 @@ draft: false
 featured: {placement: 1, caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/5fNmWej4tAA)',
   focal_point: Center, filename: featured.jpg}
 keywords: [プロダクション, ml, 用途, 結果, jupyter, 全部, アンケート, 愛用, プロトタイプ, ops]
-recommendations: [/post/2016-10-29_homebrew-----iruby---------------6a02e5194ff2/,
-  /post/2018-10-19_treasure-data-------plazma-tech-talk-------3c901d92e973/, /post/2018-10-25_risecamp------ee65c2ef0c9e/]
+recommendations: [/post/2018-10-25_risecamp------ee65c2ef0c9e/, /post/2018-10-19_treasure-data-------plazma-tech-talk-------3c901d92e973/,
+  /post/2016-10-29_homebrew-----iruby---------------6a02e5194ff2/]
 ---
 
 
