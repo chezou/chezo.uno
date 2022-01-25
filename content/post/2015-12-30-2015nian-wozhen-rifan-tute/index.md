@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [今年, 神奈川, 会議, mlct, 開催, 言葉, 仕事, rubyist, 勉強会, fm]
-recommendations: [/post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
-  /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/]
+keywords: [こと, 今年, 神奈川, 会議, mlct, 開催, いい, 言葉, 仕事, rubyist]
+recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
+  /post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2016-12-31-2016nian-wozhen-rifan-tute/]
 ---
 今年は色々と挑戦をし、成功したもの失敗したもの多くの体験ができました。
 

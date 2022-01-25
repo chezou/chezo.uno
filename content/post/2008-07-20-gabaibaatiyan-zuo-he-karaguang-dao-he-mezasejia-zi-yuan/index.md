@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ばあ, エピソード, 要点, ありか, 集英社, 抜粋, うれしい, 読者, 薄い, 文章]
-recommendations: [/post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2008-11-06-koredeiinoda/,
+keywords: [ばあ, エピソード, 要点, ありか, 集英社, 抜粋, うれしい, 読者, 薄い, こと]
+recommendations: [/post/2008-11-06-koredeiinoda/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
   /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/]
 ---
 {{< amazon asin="4087461963" title="がばいばあちゃん佐賀から広島へめざせ甲子園 (集英社文庫 し 45-1)" >}}

@@ -6,7 +6,7 @@ categories: []
 authors: [aki]
 keywords: [充電, 充電器, x1, carbon, '60', usb, macbook pro, ポート, hdmi, power]
 recommendations: [/post/2017-01-30-indigogo-dehazimetebatukusitelai-ta-dot-woshi-tute3keyue-gatatuta/,
-  /post/2017-12-30_2017------------bbf834e065c5/, /post/2019-03-10_business-trip-goods/]
+  /post/2019-03-10_business-trip-goods/, /post/2017-12-30_2017------------bbf834e065c5/]
 ---
 
 “two phones on white table” by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [パワーポイント, source, gist, 形式, 方法, syntax, 保持, html, with, コード]
+keywords: [パワーポイント, source, gist, 形式, 方法, syntax, 保持, html, コード, 覚え書き]
 recommendations: [/post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/,
-  /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/, /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/]
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/]
 ---
 パワーポイントに色づけしたコードを貼るのって、皆どうやってるのか不思議に思っていたのですが、どれもちょっと面倒だなという感じでした。
 

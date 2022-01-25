@@ -14,7 +14,7 @@ projects: []
 keywords: [特集, 機械学習, 入門, 読本, 比戸, データサイエンティスト, 養成, 福島, ソフトウェア, シリーズ]
 recommendations: [/post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/,
   /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/,
-  /post/2017-08-03_oss--------------48807bbbf13f/]
+  /post/2018-05-17_mlse-kickoff/]
 ---
 ![](20150906164556.jpg)
 

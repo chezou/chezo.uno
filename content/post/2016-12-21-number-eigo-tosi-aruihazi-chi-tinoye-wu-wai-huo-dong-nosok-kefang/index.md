@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [英会話, dmm, モニタ, 英語, chromecast, 継続, 転職, 子供, ルンバ, podcast]
+keywords: [英会話, dmm, モニタ, 英語, chromecast, 継続, こと, 転職, 子供, ルンバ]
 recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
-  /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/]
+  /post/2015-12-30-2015nian-wozhen-rifan-tute/]
 ---
 こんにちは、温泉行きたいです。この記事は、[pyspaアドベントカレンダー2016](http://www.adventar.org/calendars/1435)の21日目です。1日前は、[渋川さん](http://blog.shibu.jp/article/178099358.html)の保険の話でした。
 

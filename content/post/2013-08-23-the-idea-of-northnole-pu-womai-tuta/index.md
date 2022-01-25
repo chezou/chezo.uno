@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [楽譜, paypal, 返信, ライセンス, メール, pdf, 支払い, idea, アカペラグループ, アレンジ]
+keywords: [paypal, 楽譜, 返信, ライセンス, メール, pdf, 支払い, idea, アカペラグループ, アレンジ]
 recommendations: [/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
   /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/, /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
 ---

@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [yapc, tokyo, '2015', org, はてなブックマーク, トピック, php, podcast, 処理, 技術]
 recommendations: [/post/2008-07-16-rockapella-channel/, /post/2015-12-30-2015nian-wozhen-rifan-tute/,
-  /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/]
+  /post/2016-03-30-zhuan-zhi-simasita/]
 ---
 初参加にして最後のYAPC::ASIA Tokyoに行ってきた。
 
