@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['1600', '1200', バッテリ, jpeg, youtube, フルhd, aee, 予備, '47', 実家]
-recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2010-03-22-shi-jie-bian-ge-noshi-ravuosunotatuta-tunomai-ifang/,
-  /post/2009-08-07-pokemonxin-gan-xian/]
+keywords: ['1600', '1200', jpeg, バッテリ, youtube, フルhd, aee, 予備, '47', 実家]
+recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-08-07-pokemonxin-gan-xian/,
+  /post/2010-03-22-shi-jie-bian-ge-noshi-ravuosunotatuta-tunomai-ifang/]
 ---
 [![](p_1600_1200_a0c82b14-8d7b-47c1-afc3-cf1903a121a6.jpeg)](p_1600_1200_a0c82b14-8d7b-47c1-afc3-cf1903a121a6.jpeg)
 

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [入門書, 金融, 和代, 勝間, 入り口, 筆者, 傾向, 比較的, 主張, isbn]
+keywords: [入門書, 金融, 和代, 勝間, 入り口, 筆者, 傾向, 主張, 比較的, isbn]
 recommendations: [/post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/,
   /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---

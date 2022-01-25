@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [インターネット, 体験, 記憶, 難しい, 実際, 祖父母, 撮影, フルhd, ストーリー, canon]
-recommendations: [/post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/, /post/2009-12-05-after-devil-forcewofa-jue-sita/,
-  /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/]
+keywords: [インターネット, 体験, 記憶, 難しい, こと, 実際, 祖父母, 撮影, フルhd, ストーリー]
+recommendations: [/post/2012-01-01-2012nian-nobao-fu/, /post/2018-06-27_internet-for-kids/,
+  /post/2017-05-25_teach-what-i-dont-know/]
 ---
 [Canon iVIS HF M31を買った](https://chezo.uno/post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/)ので、それを使って動画をとってみました。
 なかなか写真と違ってどういうストーリーでとるのかとかを考えないといけないのが難しいところです。

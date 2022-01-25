@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [いつも, isbn, スコア, 選択, 生々しい, 村山, コーヒー, 2nd, 刺激, 不思議]
+keywords: [いつも, isbn, スコア, 選択, 生々しい, 村山, コーヒー, 刺激, 不思議, 2nd]
 recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-11-18-ai-gainaibu-wu/,
   /post/2008-09-10-enzieruhato-27/]
 ---
