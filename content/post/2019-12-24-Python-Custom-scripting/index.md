@@ -3,7 +3,6 @@ summary: ''
 draft: false
 authors: [aki]
 toc: true
-markup: blackfriday
 lastmod: 2019-12-24 00:00:00+09:00
 title: Pythonistaのためのdigdag py> operator開発ガイド
 subtitle: ''
@@ -18,7 +17,7 @@ recommendations: [/post/2019-12-04-r-and-td/, /post/2018-10-19_treasure-data----
   /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/]
 ---
 
-{{% toc %}}
+{{< toc >}}
 
 この記事は、[Arm Treasure Data Advent Calendar 2019](https://adventar.org/calendars/3932)の24日目です。
 
