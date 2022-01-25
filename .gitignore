@@ -4,3 +4,5 @@ public/
 .venv
 outputs/
 resources/_gen
+.hugo_build.lock
+assets/jsconfig.json
