@@ -1,31 +1,22 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "3 configs add recommend articles into your Hugo blog by GitHub Actions"
-subtitle: "Leverage prelims to do content-based recommendations"
-summary: ""
+title: 3 configs add recommend articles into your Hugo blog by GitHub Actions
+subtitle: Leverage prelims to do content-based recommendations
+summary: ''
 authors: [aki]
 tags: [recommendation, hugo, github actions]
 categories: [tech, ML]
-date: 2022-01-25T19:37:52-08:00
-lastmod: 2022-01-25T19:37:52-08:00
+date: 2022-01-25 19:37:52-08:00
+lastmod: 2022-01-25 19:37:52-08:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: "Recommendation example of https://chezo.uno/blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/"
-  focal_point: "Smart"
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: 'Recommendation example of https://chezo.uno/blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/',
+  focal_point: Smart, preview_only: false}
 projects: []
+keywords: [articles, blog, recommendation, cli, based, write, post, need, writing,
+  recommended]
+recommendations: [/blog/2017-05-02_an-easy-way-to-get-url-list-of-your-medium-publication-c60c61244101/,
+  /blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/,
+  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]
 ---
 
 Hugo has a feature to show keyword based related articles.

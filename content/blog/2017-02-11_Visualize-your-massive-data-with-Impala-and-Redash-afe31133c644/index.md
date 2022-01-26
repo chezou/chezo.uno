@@ -6,7 +6,7 @@ date: '2017-02-11T14:14:44+09:00'
 categories: []
 authors: [aki]
 aliases: [/blog/visualize-your-massive-data-with-impala-and-redash-afe31133c644, /blog/afe31133c644]
-keywords: [impala, data, set, query, database, visualize, default, add, sql, source]
+keywords: [impala, data, set, query, database, visualize, default, sql, port, add]
 recommendations: [/blog/2017-03-26_how-to-connect-secure-impala-cluster-from-rstudio-on-macos-with-implyr-213c6536e4c7/,
   /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
   /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/]
