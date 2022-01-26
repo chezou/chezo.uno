@@ -1,34 +1,21 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "3ファイル追加してGitHub ActionsでHugoにレコメンド記事を表示する"
-subtitle: "prelimsを使ってコンテンツベースのレコメンドをしてみよう"
-summary: "prelimsとGitHub Actionsを使うことで、Hugoの自分の記事にレコメンド記事を表示できるようになります"
+title: 3ファイル追加してGitHub ActionsでHugoにレコメンド記事を表示する
+subtitle: prelimsを使ってコンテンツベースのレコメンドをしてみよう
+summary: prelimsとGitHub Actionsを使うことで、Hugoの自分の記事にレコメンド記事を表示できるようになります
 authors: [aki]
-tags:
-  - recommendation
-  - hugo
-  - github actions
+tags: [recommendation, hugo, github actions]
 categories: [tech, ML]
-date: 2022-01-25T18:41:33-08:00
-lastmod: 2022-01-25T18:41:33-08:00
+date: 2022-01-25 18:41:33-08:00
+lastmod: 2022-01-25 18:41:33-08:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: "https://chezo.uno/post/2021-04-24-ml-at-work-2nd-edition/ へのレコメンドの例"
-  focal_point: "Smart"
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: 'https://chezo.uno/post/2021-04-24-ml-at-work-2nd-edition/ へのレコメンドの例',
+  focal_point: Smart, preview_only: false}
 projects: []
+keywords: [レコメンド, 記事, 関連, hugo, cli, キーワード, yaml, matter, content, 自分]
+recommendations: [/post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/,
+  /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
+  /post/2019-03-29_ngekkan-lambda-note-article/]
 ---
 
 こんにちは、早いものでもう40の大台が迫ってくる誕生日を迎えました。前日にブースターショットを打ったので、一日中ほとんど寝込んでいました。必要な人のために、[例のリスト](https://www.amazon.jp/hz/wishlist/ls/FH3MHL6LTE02?ref_=wl_share)を置いておきます。

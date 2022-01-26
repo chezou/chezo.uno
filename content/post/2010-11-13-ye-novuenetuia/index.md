@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [街中, 若い, 歴代, 感心, 不思議, 歴史的, 位置, 雰囲気, 準備, 最初]
-recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/,
-  /post/2008-10-19-jpopsaundonohe-xin-bu-fen-ga-shi-ha1tunokodojin-xing-dechu-lai-teita/]
+recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-10-19-jpopsaundonohe-xin-bu-fen-ga-shi-ha1tunokodojin-xing-dechu-lai-teita/,
+  /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/]
 ---
 ![](https://lh6.ggpht.com/_fY4jPztBNxw/TN4m-vk9IWI/AAAAAAAAAkM/FBrhsjGXKUY/s400/DSCF6149.JPG)
 
