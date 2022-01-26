@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [音声, amazon, 英語, dl, aws, api, 話題, 記事, 追記, .com]
+keywords: [音声, amazon, 英語, dl, aws, api, 話題, 追記, 記事, .com]
 recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
-  /post/2015-12-30-2015nian-wozhen-rifan-tute/]
+  /post/2022-01-25-hugo-content-based-recommendation/]
 ---
 
 ![](20161201230818.png)

@@ -10,7 +10,7 @@ lastmod: 2020-07-11 18:00:00+09:00
 featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
-keywords: [モデル, リネージ, 討論会, 議論, oss, 夏合宿, wg, 学習, mlse, 機械学習]
+keywords: [モデル, リネージ, 討論会, 議論, oss, 夏合宿, wg, 学習, 機械学習, mlse]
 recommendations: [/post/2018-05-17_mlse-kickoff/, /post/2020-11-10-mlse-conference/,
   /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/]
 ---

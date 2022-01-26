@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [記事, 体感, whitacre, choir, やばい, オリジナル, はず, 動画, 以前, 実際]
 recommendations: [/post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/,
-  /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/]
+  /post/2022-01-25-hugo-content-based-recommendation/]
 ---
 [@kunishi](http://twitter.com/kunishi) さんの[ブログの記事](http://blog.chorusroom.org/2010/04/virtual-choir2.html)で知りましたが、WhitacreのVirtual Choirがやばいです。何はともあれ実際の動画を見ていただけば、その凄さを体感できるはずです。
 

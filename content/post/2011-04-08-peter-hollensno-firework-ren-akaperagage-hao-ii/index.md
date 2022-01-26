@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [アレンジ, hollens, 原曲, アカペラ, イントロ, vocal, the house, pact, jacks, firework]
 recommendations: [/post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/,
-  /post/2009-05-24-kuronotorigano-shi-nohui-lang-gaming-qu-sugiru/, /post/2008-06-03-er-du-qin-qian/]
+  /post/2008-06-03-er-du-qin-qian/, /post/2009-05-24-kuronotorigano-shi-nohui-lang-gaming-qu-sugiru/]
 ---
 [あかぺら村の記事](http://acappellavillage.blog103.fc2.com/blog-entry-789.html)で知ったのですが、Peter Hollensという人の一人アカペラアレンジがカッコいいです。
 
