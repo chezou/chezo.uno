@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [ipod, 用途, マイク, iphone, 高性能, wav, khz, '44', 機種, ステレオ]
 recommendations: [/post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
-  /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/, /post/jupyter-notebook-labsをmlのどのフェーズで使うのか？/]
+  /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/, /post/2020-02-10-jupyter-notebook-labsをmlのどのフェーズで使うのか？/]
 ---
 [ボイスレコーダー iPod用高性能ステレオマイク - LIC-iREC03P - ロジテック](http://www.logitec.co.jp/products/recadpt/licirec03/index.html)
 
