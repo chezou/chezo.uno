@@ -71,7 +71,7 @@ MLOpsは産業界でボトムアップに動いている分野なので、まと
 
 [https://www.notion.so/Guide-book-for-MLOps-aab7579e4fe4496aa69f5675d989e64f](https://www.notion.so/Guide-book-for-MLOps-aab7579e4fe4496aa69f5675d989e64f)
 
-{{< figure src="1_XcQ5S3HBFQLigAc_Gpg0Sw.png" title="Notionの編集画面" >}}
+{{< figure src="1_XcQ5S3HBFQLigAc-Gpg0Sw.png" title="Notionの編集画面" >}}
 
 Notionのいいところは、だらだらと1ページで書き始めて一部をくくりだしてsubページにしようと思う場合手軽にできるところです。
 
@@ -91,7 +91,7 @@ Notionのいいところは、だらだらと1ページで書き始めて一部�
 
 とはいえ、この段階では事例紹介色が強く、課題と解決策の対応が弱いという不安を抱えながらpushしました。この不安はissueとPRをしていただきながら編集によって解消されたのですが、一人では解決できなかったと思います。
 
-{{< figure src="1_eXkS_d6qbwoqA6atk73_SA.png" title="PRベースの編集の様子" >}}
+{{< figure src="1_eXkS-d6qbwoqA6atk73_SA.png" title="PRベースの編集の様子" >}}
 
 著者である自分はコンテンツの足し算をしたがるのですが、編集者からは足すことはできないので、構造に手を入れたり引き算をすることで論旨を明確にするのだ、という話を聞いたときには目からウロコでした。
 

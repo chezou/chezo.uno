@@ -5,15 +5,15 @@ date: '2019-06-04T13:33:18+09:00'
 lastmod: '2019-06-04T13:33:18+09:00'
 categories: []
 authors: [aki]
+image:
+  caption: '会の中で一番嬉しそうだった鹿野さん'
+  focal_point: Smart
 keywords: [ノート, コルーチン, 月刊, イベント, 記念, 寄稿, 創刊, お世話になりました, mlops, 祭り]
 recommendations: [/post/2019-03-29_ngekkan-lambda-note-article/, /post/2006-07-28-xia-nanode/,
   /post/2018-10-19_treasure-data-------plazma-tech-talk-------3c901d92e973/]
 ---
 
 さる5/30に『n月刊ラムダノート』創刊記念パーティーという名のコルーチン祭りを開催しました。
-
-{{< figure src="0_CLb3y5gvRHaBM1Bz.jpg" title="会の中で一番嬉しそうだった鹿野さん" >}}
-
 
 同僚の [Toru Takahashi](https://medium.com/u/6435ab79ba27) さんからふらっとトレジャーデータ東京オフィスにイベントスペースができたので、エンジニア向けイベントやりませんか？と振られたので、軽いノリでやってみました。同会場でほぼはじめての100人近くに向けたイベントで、Envoyのオペレーション等々参加者の皆様にもお手間をおかけしましたが、無事できてよかったです。（TDマーケチームの皆様、ラムダノートたかお様、とてもとてもお世話になりました）
 
