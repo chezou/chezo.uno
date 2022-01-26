@@ -6,11 +6,10 @@ draft: false
 featured: false
 tags: [digdag]
 categories: [Python, workflow]
+aliases: [/blog/py-operator-development-guide-for-python-users]
 keywords: [operator, task, env, local, image, docker, create, huge, python, tasks]
 recommendations: [/blog/2019-10-06_how-to-test-a-new-docker-image-for-digdag-workflow-on-circleci--c8bb92987877/,
   /blog/2017-08-30_python-basics--package-management-462918458f96/, /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/]
-aliases:
-  - /blog/py-operator-development-guide-for-python-users
 ---
 [Japanese version is here](https://chezo.uno/post/2019-12-24-python-custom-scripting/)
 
