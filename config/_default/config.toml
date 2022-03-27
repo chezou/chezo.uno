@@ -84,3 +84,7 @@ disableAliases = false
 
 [params]
   mainSections = ['post', 'blog']
+
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^WC_']
