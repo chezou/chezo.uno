@@ -84,3 +84,8 @@ disableAliases = false
 
 [params]
   mainSections = ['post', 'blog']
+
+# Work around for Hugo 0.91 change. See: https://github.com/wowchemy/wowchemy-hugo-themes/discussions/2559#discussioncomment-1840591
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^WC_']
