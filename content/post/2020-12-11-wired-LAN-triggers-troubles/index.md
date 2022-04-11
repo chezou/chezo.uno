@@ -65,7 +65,7 @@ recommendations: [/post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-w
 
 事前にわかっていたのだが、我が家には壁コンセントの裏に[CD管という壁内を通す管](https://techabe.com/re_cd.htm)がほとんどなかった。「ほとんど」というのは2階と3階にはついていたが、肝心の2階と1階にはなかったため、壁に穴を開けて屋外配線をすることにした。
 
-{{< figure src="7F99C8FC-7296-48C8-B808-C3CB9B644EF3.jpeg" title="壁のLANコンセント" >}}
+{{< figure src="7F99C8FC-7296-48C8-B808-C3CB9B644EF3.webp" title="壁のLANコンセント" >}}
 
 TVのアンテナはないのにアンテナ線だけ張り巡らされていたが、壁からCAT 6aが生えてきた
 
@@ -113,7 +113,7 @@ NETGEARのサポートに問い合わせても、Orbi一式を初期化してく
 
 おかげで今はすこぶる調子が良い。
 
-{{< figure src="AD778B04-7038-4332-9EF1-E62D74BB2656.jpeg" title="天井の配線" >}}
+{{< figure src="AD778B04-7038-4332-9EF1-E62D74BB2656.webp" title="天井の配線" >}}
 
 ついでに天井にも有線LANの配線をした。
 
