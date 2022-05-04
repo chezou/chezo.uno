@@ -89,3 +89,15 @@ disableAliases = false
 [security]
   [security.funcs]
     getenv = ['^HUGO_', '^WC_']
+
+[[cascade]]
+  share = true
+  show_related = true
+[cascade._target]
+  path = "/post/**"
+
+[[cascade]]
+  share = true
+  show_related = true
+[cascade._target]
+  path = "/blog/**"
