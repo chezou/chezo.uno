@@ -75,6 +75,13 @@ digdaglog2sql --session-id 12345 --site us --output output.sql
 
 Note that, as of May 5, 2022, sqllineage and sqlparse, which is an important backend of sqllineage, are not fully compatible with Trino and Hive queries.
 
+These are the PRs that approaches the issues:
+
+- https://github.com/reata/sqllineage/pull/252
+- https://github.com/reata/sqllineage/pull/255
+- https://github.com/andialbrecht/sqlparse/pull/662
+- https://github.com/andialbrecht/sqlparse/pull/664
+
 Don't worry about it. I prepared patched branches on GitHub. You can install sqllineage and sqlparse as the following:
 
 ```sh
