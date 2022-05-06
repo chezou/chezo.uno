@@ -1,31 +1,22 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Create data lineage from Trino/Hive queries in digdag log with Python"
-subtitle: "sqllineage visualize your query log into lineage"
-summary: ""
+title: Create data lineage from Trino/Hive queries in digdag log with Python
+subtitle: sqllineage visualize your query log into lineage
+summary: ''
 authors: [aki]
 tags: []
 categories: [digdag, lineage, sql]
-date: 2022-05-05T20:31:05-07:00
-lastmod: 2022-05-05T20:31:05-07:00
+date: 2022-05-05 20:31:05-07:00
+lastmod: 2022-05-05 20:31:05-07:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: "An example lineage of Treasure Workflow with sqllineage"
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: An example lineage of Treasure Workflow with sqllineage, focal_point: '',
+  preview_only: false}
 projects: []
+keywords: [data, sqls, treasure, workflow, level, visualize, python, visualizing,
+  overview, needs]
+recommendations: [/blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
+  /blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/,
+  /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/]
 ---
 
 ## What's data lineage?

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [レコメンド, ibis, spark, pandas, ラボ, エンジン, チューニング, .com, sql, dmm]
+keywords: [レコメンド, ibis, spark, pandas, ラボ, エンジン, チューニング, .com, dmm, sql]
 recommendations: [/post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/,
   /post/2022-01-25-hugo-content-based-recommendation/, /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/]
 ---

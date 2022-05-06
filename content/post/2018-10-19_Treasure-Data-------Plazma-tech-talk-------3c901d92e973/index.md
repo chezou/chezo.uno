@@ -5,8 +5,8 @@ date: '2018-10-19T01:12:26+09:00'
 categories: [life]
 authors: [aki]
 keywords: [入社, td, ml, 開発中, エッジ, operator, 広がり, team, talk, iot]
-recommendations: [/post/2019-12-24-python-custom-scripting/, /post/2019-12-04-r-and-td/,
-  /post/2020-02-10-jupyter-notebook-labsをmlのどのフェーズで使うのか？/]
+recommendations: [/post/2022-05-05-sqllineage-with-digdag-log/, /post/2019-12-04-r-and-td/,
+  /post/2019-12-24-python-custom-scripting/]
 ---
 
 気づけば入社して2ヶ月ほど経ってしまいましたが、Treasure Dataに入ったと思ったらArmに入社していました。

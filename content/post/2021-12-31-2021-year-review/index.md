@@ -11,7 +11,7 @@ tags: []
 categories: [Year review]
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
-keywords: [お金, ops, アニメ, 漫画, 去年, 来年, 執筆, こと, 東京, はず]
+keywords: [お金, ops, アニメ, 漫画, 来年, 去年, 執筆, こと, 東京, はず]
 recommendations: [/post/2020-12-31-2020-review/, /post/2015-12-30-2015nian-wozhen-rifan-tute/,
   /post/2021-12-18-8-months-after-relocating-vancouver/]
 ---
