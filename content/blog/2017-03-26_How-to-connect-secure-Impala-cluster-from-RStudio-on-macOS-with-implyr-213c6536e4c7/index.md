@@ -7,7 +7,7 @@ categories: []
 authors: [aki]
 aliases: [/blog/how-to-connect-secure-impala-cluster-from-rstudio-on-macos-with-implyr-213c6536e4c7,
   /blog/213c6536e4c7]
-keywords: [impala, cloudera, set, configuration, install, replace, connect, setup,
+keywords: [impala, set, cloudera, configuration, install, replace, connect, setup,
   description, library]
 recommendations: [/blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/,
   /blog/2017-08-02_how-to-run-cloudera-director-on-your-macos-windows-10-710f82aa1d63/,
