@@ -76,7 +76,14 @@ digdaglog2sql --session-id 12345 --site us --output output.sql
 
 注意点としては、2022/05/05現在のPyPIにある sqllineage とその裏側で依存している sqlparse の最新バージョンでは、 Trino やHiveなどの一部の機能がうまくColumnレベルのlineageの解析ができません。
 
-そこで、パッチを当てたbranchをGitHubに用意したので、nodeをインストールした環境で以下のようにインストールしてください。
+今、Pull Requestを出しているところなので、これらがリリースされれば解決されると思います。
+
+- https://github.com/reata/sqllineage/pull/252
+- https://github.com/reata/sqllineage/pull/255
+- https://github.com/andialbrecht/sqlparse/pull/662
+- https://github.com/andialbrecht/sqlparse/pull/664
+
+ひとまず、パッチを当てたbranchをGitHubに用意したので、nodeをインストールした環境で以下のようにインストールしてください。
 
 ```sh
 pip install git+https://github.com/chezou/sqlparse.git@trino#egg=sqlparse==0.4.3.dev0
