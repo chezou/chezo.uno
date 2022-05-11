@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [cmd, aws, upload, test, 利用, domain, コマンド, アーカイブ, データ, download]
+keywords: [cmd, aws, upload, test, 利用, domain, アーカイブ, データ, コマンド, download]
 recommendations: [/post/2017-01-19-macnojispei-lie-nokibodowokarabinershi-wazuniuspei-lie-nisuru/,
   /post/2017-05-26_public-dataset/, /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/]
 ---

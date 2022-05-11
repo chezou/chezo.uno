@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [実行, exe, nas, ショートカット, mac os x, スタートアップ, navigator, 管理者, パケット, setup]
+keywords: [実行, exe, nas, ショートカット, mac os x, スタートアップ, 管理者, navigator, パケット, setup]
 recommendations: [/post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/,
   /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/, /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/]
 ---

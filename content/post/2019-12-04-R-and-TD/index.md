@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: [RTD]
-keywords: [spark, treasure, client, data, sparklyr, cran, 開発, インストール, install, サポート]
+keywords: [spark, client, treasure, data, sparklyr, cran, 開発, インストール, install, サポート]
 recommendations: [/post/2019-12-24-python-custom-scripting/, /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/,
   /post/2017-12-31_2017--------c4901627b12d/]
 ---
