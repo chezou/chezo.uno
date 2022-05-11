@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [スピーカー, patech, 風呂, bluetooth, ラジオ, 安定, 商品, 防水, 無茶, 決め手]
 recommendations: [/post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
-  /post/2009-05-30-san-ling-dong-jing-ufjnokorusentagasu-qing-rasii3tunoli-you/]
+  /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/]
 ---
 前々からBluetoothのお風呂ラジオをほしいなーと思っていたのですが、昔に比べるとかなり安くなっていたので買いました。
 

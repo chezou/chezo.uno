@@ -1,31 +1,20 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "sqllineage を使って digdag のログから Treasure Data のクエリのリネージを作ってみた"
-subtitle: "オープンソースを使って Hive や Trino のクエリからリネージを作ろう"
-summary: ""
+title: sqllineage を使って digdag のログから Treasure Data のクエリのリネージを作ってみた
+subtitle: オープンソースを使って Hive や Trino のクエリからリネージを作ろう
+summary: ''
 authors: [aki]
 tags: []
 categories: [digdag, lineage, sql]
-date: 2022-05-05T19:58:10-07:00
-lastmod: 2022-05-05T19:58:10-07:00
+date: 2022-05-05 19:58:10-07:00
+lastmod: 2022-05-05 19:58:10-07:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: "sqllineage で Treasure Workflow のリネージを出してみた例"
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: sqllineage で Treasure Workflow のリネージを出してみた例, focal_point: '', preview_only: false}
 projects: []
+keywords: [sql, 可視化, td, 実装, digdag, データ, python, レベル, 流れ, 実行]
+recommendations: [/post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
+  /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
+  /post/2019-12-24-python-custom-scripting/]
 ---
 
 データリネージとは、DBなどでどのデータがどこから来てどこに行った、という「来歴」とも呼ばれる情報です。

@@ -10,7 +10,7 @@ keywords: [notebook, model, data, spark, pandas, port, rails, predictive, netfli
   known]
 recommendations: [/blog/2016-12-30_livy---jupyter-notebook---sparkmagic---powerful---easy-notebook-for-data-scientist-a8b72345ea2d/,
   /blog/2017-03-26_sparkavro--manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0/,
-  /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/]
+  /blog/2022-05-05-sqllineage-with-digdag-log/]
 ---
 
 ### tl;dr

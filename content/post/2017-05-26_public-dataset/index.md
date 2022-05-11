@@ -6,7 +6,7 @@ categories: [data]
 authors: [aki]
 keywords: [データ, 公開, 企業, 提供, ユーザ, 論文, コンテンツ, 研究者, 学術, 研究]
 recommendations: [/post/2017-08-03_oss--------------48807bbbf13f/, /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
-  /post/2016-05-29-sonomoderu-guo-xue-xi-siteruno-wei-xue-xi-nano-tokun-tutara/]
+  /post/2019-03-29_ngekkan-lambda-note-article/]
 ---
 
 人工知能学会（以下JSAI）で発表された論文が、Pixivのデータを「晒した」ということで盛り上がっています。詳細は、以下のtogetterを見ていただければと思いますが、ざっくり言うとPixivで公開されていた女性向けランキングトップ10の二次創作小説（R-18）に対して「有害表現」を分類するという目的で、作者名とURLを論文に書いて炎上したということになります。
