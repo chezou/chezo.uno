@@ -73,23 +73,34 @@ export TD_API_KEY=1234XXX/YYYYYYYY
 digdaglog2sql --session-id 12345 --site us --output output.sql
 ```
 
-Note that, as of May 5, 2022, sqllineage and sqlparse, which is an important backend of sqllineage, are not fully compatible with Trino and Hive queries.
+You can fetch SQLs from your hosted digdag as the following:
+
+```sh
+digdaglog2sql --session-id 12345 --endpoint digdag.example.com --output output.sql
+```
+
+~~Note that, as of May 5, 2022, sqllineage and sqlparse, which is an important backend of sqllineage, are not fully compatible with Trino and Hive queries.~~
+
+{{% notice info %}}
+As of 2022/05/11, the issues in sqllineage around Hive/Trino were fixed and it is available in 1.3.5 on PyPI.
+It means, you don't have to have node for sqllineage installation from source.
+{{% /notice %}}
 
 These are the PRs that approaches the issues:
 
-- https://github.com/reata/sqllineage/pull/252
-- https://github.com/reata/sqllineage/pull/255
-- https://github.com/andialbrecht/sqlparse/pull/662
-- https://github.com/andialbrecht/sqlparse/pull/664
+- ✅ https://github.com/reata/sqllineage/pull/252 -> Released in 1.3.5
+- ✅ https://github.com/reata/sqllineage/pull/255 -> Released in 1.3.5
+- \[WIP\] https://github.com/andialbrecht/sqlparse/pull/662
+- \[WIP\] https://github.com/andialbrecht/sqlparse/pull/664
 
 Don't worry about it. I prepared patched branches on GitHub. You can install sqllineage and sqlparse as the following:
 
 ```sh
 pip install git+https://github.com/chezou/sqlparse.git@trino#egg=sqlparse==0.4.3.dev0
-pip install git+https://github.com/chezou/sqllineage.git@trino#egg=sqllineage==1.3.4
+pip install sqllineage
 ```
 
-If you see some error on installation of sqllineage, double-check if you have node installed.
+~~If you see some error on installation of sqllineage, double-check if you have node installed.~~
 
 Then, you can visualize your SQL file as:
 

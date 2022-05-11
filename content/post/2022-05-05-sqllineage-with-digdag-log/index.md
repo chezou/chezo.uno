@@ -74,20 +74,31 @@ export TD_API_KEY=1234XXX/YYYYYYYY
 digdaglog2sql --session-id 12345 --site us --output output.sql
 ```
 
-注意点としては、2022/05/05現在のPyPIにある sqllineage とその裏側で依存している sqlparse の最新バージョンでは、 Trino やHiveなどの一部の機能がうまくColumnレベルのlineageの解析ができません。
+また、endpointオプションを使えば自前でホストしたdigdagからもSQLを取得できます。
+
+```sh
+digdaglog2sql --session-id 12345 --endpoint digdag.example.com --output output.sql
+```
+
+注意点としては、2022/05/05現在のPyPIにある ~~sqllineage と~~ その裏側で依存している sqlparse の最新バージョンでは、 Trino やHiveなどの一部の機能がうまくColumnレベルのlineageの解析ができません。
+
+{{% notice info %}}
+2022/05/11 現在、sqllineageの Hive, Trino に関する問題は修正され 1.3.5 でリリースされました。
+これに伴い、sqllineageをsourceからインストールする際に必要だったnodeも不要になりました。
+{{% /notice %}}
 
 今、Pull Requestを出しているところなので、これらがリリースされれば解決されると思います。
 
-- https://github.com/reata/sqllineage/pull/252
-- https://github.com/reata/sqllineage/pull/255
-- https://github.com/andialbrecht/sqlparse/pull/662
-- https://github.com/andialbrecht/sqlparse/pull/664
+- ✅ https://github.com/reata/sqllineage/pull/252 -> 1.3.5 でリリース済み
+- ✅ https://github.com/reata/sqllineage/pull/255 -> 1.3.5 でリリース済み
+- \[WIP\] https://github.com/andialbrecht/sqlparse/pull/662
+- \[WIP\] https://github.com/andialbrecht/sqlparse/pull/664
 
-ひとまず、パッチを当てたbranchをGitHubに用意したので、nodeをインストールした環境で以下のようにインストールしてください。
+ひとまず、パッチを当てたbranchをGitHubに用意したので、 ~~nodeをインストールした環境で~~ 以下のようにインストールしてください。
 
 ```sh
 pip install git+https://github.com/chezou/sqlparse.git@trino#egg=sqlparse==0.4.3.dev0
-pip install git+https://github.com/chezou/sqllineage.git@trino#egg=sqllineage==1.3.4
+pip install sqllineage
 ```
 
 sqllineageをインストールした後は、出力したSQLファイルを指定すれば、可視化できます。
