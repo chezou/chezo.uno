@@ -20,7 +20,6 @@ As of Oct. 2019, I launched a [documentation site](https://tabula-py.readthedocs
 Screenshots in this article is based on the old version interface. See the latest version example in the Colab notebook.
 {{% /callout %}}
 
-
 Today, I released tabula-py 0.3.0, which extracts table from PDF into Python pandas’s DataFrame.
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://github.com/chezou/tabula-py" data-iframely-url="//iframely.net/0WmgXWY?card=small"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>

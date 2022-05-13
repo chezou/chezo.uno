@@ -18,8 +18,10 @@ Photo by [Joshua Rawson-Harris](https://unsplash.com/@joshrh19?utm_source=medium
 
 _This article is_ [_a repost of Patreon article_](https://www.patreon.com/posts/23407263) _published last December. I’m planning to bump up the next version of tabula-py within few weeks._
 
-_(Note: Oct 7th, 2019)  
-As of Oct. 2019, I launched_ [_a documentation site_](https://tabula-py.readthedocs.io/en/latest/) _and_ [_Google Colab notebook_](https://colab.research.google.com/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb) _for tabula-py. The FAQ would be good place to execute accurate extraction._
+{{% callout note %}}
+(Note: Oct 7th, 2019)
+As of Oct. 2019, I launched [a documentation site](https://tabula-py.readthedocs.io/en/latest/) and [Google Colab notebook](https://colab.research.google.com/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb) for tabula-py. The FAQ would be good place to execute accurate extraction.
+{{% /callout %}}
 
 This is my first post on patreon. Apologies for delayed announcement of recent update of tabula-py. I will introduce the key features of updates.
 
