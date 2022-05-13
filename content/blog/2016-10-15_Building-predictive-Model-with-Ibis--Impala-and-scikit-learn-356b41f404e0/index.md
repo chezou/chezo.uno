@@ -6,11 +6,10 @@ categories: [ibis]
 authors: [aki]
 aliases: [/blog/building-predictive-model-with-ibis-impala-and-scikit-learn-356b41f404e0,
   /blog/356b41f404e0]
-keywords: [notebook, model, data, spark, pandas, port, rails, predictive, netflix,
+keywords: [model, data, notebook, spark, pandas, port, rails, predictive, netflix,
   known]
 recommendations: [/blog/2016-12-30_livy---jupyter-notebook---sparkmagic---powerful---easy-notebook-for-data-scientist-a8b72345ea2d/,
-  /blog/2017-03-26_sparkavro--manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0/,
-  /blog/2022-05-05-sqllineage-with-digdag-log/]
+  /blog/2022-05-05-sqllineage-with-digdag-log/, /blog/2017-03-26_sparkavro--manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0/]
 ---
 
 ### tl;dr
