@@ -12,13 +12,17 @@ recommendations: [/blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-
   /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/, /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/]
 ---
 
-_(Note: Oct 7th, 2019)  
-As of Oct. 2019, I launched_ [_a documentation site_](https://tabula-py.readthedocs.io/en/latest/) _and_ [_Google Colab notebook_](https://colab.research.google.com/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb) _for tabula-py. The FAQ would be good place to execute accurate extraction._
+{{% callout note %}}
+(Oct 7th, 2019)
+As of Oct. 2019, I launched a [documentation site](https://tabula-py.readthedocs.io/en/latest/) and [Google Colab notebook](https://colab.research.google.com/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb) for tabula-py. The FAQ would be good place to execute accurate extraction.
+
+Screenshots in this article is based on the old version interface. See the latest version example in the Colab notebook.
+{{% /callout %}}
+
 
 Today, I released tabula-py 0.3.0, which extracts table from PDF into Python pandas’s DataFrame.
 
-[**chezou/tabula-py**  
-_tabula-py - Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame_github.com](https://github.com/chezou/tabula-py "https://github.com/chezou/tabula-py")[](https://github.com/chezou/tabula-py)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://github.com/chezou/tabula-py" data-iframely-url="//iframely.net/0WmgXWY?card=small"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
 It is simple wrapper of [tabula-java](https://github.com/tabulapdf/tabula-java) and it enables you to extract table into DataFrame or JSON with Python. You also can extract tables from PDF into CSV, TSV or JSON file.
 
@@ -26,12 +30,14 @@ It is simple wrapper of [tabula-java](https://github.com/tabulapdf/tabula-java) 
 
 You can install tabula-py via pip:
 
+```sh
 pip install tabula-py
+```
 
 With tabula-py, you can get DataFrame with `read_pdf()` method.
 
 {{< figure src="1_w0uPTg2qfvBbmHYEYxqjYw.png" title="example of read_pdf()" >}}
-example of read\_pdf()
+example of `read_pdf()`
 
 You can also extract tables as JSON format:
 
@@ -45,8 +51,7 @@ You can extract tables into a file like JSON, CSV or TSV with `convert_into()` m
 
 You can see more examples in Jupyter notebook.
 
-[**chezou/tabula-py**  
-_tabula-py - Simple wrapper of tabula-java: extract table from PDF into pandas DataFrame_github.com](https://github.com/chezou/tabula-py/blob/master/examples/tabula_example.ipynb "https://github.com/chezou/tabula-py/blob/master/examples/tabula_example.ipynb")[](https://github.com/chezou/tabula-py/blob/master/examples/tabula_example.ipynb)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://github.com/chezou/tabula-py/blob/master/examples/tabula_example.ipynb" data-iframely-url="//iframely.net/yCWTraF?card=small"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
 I hope you will enjoy data wrangling with tabula-py. Any feedback would be welcome!
 
