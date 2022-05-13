@@ -46,6 +46,7 @@ authors:
   - aki
 bio:
   Interested in Machine Learning, ML Ops, and Data driven business.
+  If you like my blog post, I'm glad if you can buy me a tea 😉
   <p><a href="https://www.buymeacoffee.com/chezou" class="btn-bmc" target="_blank" rel="noopener"><i class="fa fa-coffee"></i>&nbsp;&nbsp;Gift a cup of Tea</a></p>
 ---
 

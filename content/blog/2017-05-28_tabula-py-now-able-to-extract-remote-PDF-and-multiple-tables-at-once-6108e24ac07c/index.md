@@ -13,13 +13,14 @@ recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python
   /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/, /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/]
 ---
 
-_(Note: Oct 7th, 2019)  
-As of Oct. 2019, I launched_ [_a documentation site_](https://tabula-py.readthedocs.io/en/latest/) _and_ [_Google Colab notebook_](https://colab.research.google.com/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb) _for tabula-py. The FAQ would be good place to execute accurate extraction._
+{{% callout note %}}
+(Note: Oct 7th, 2019)
+As of Oct. 2019, I launched [a documentation site](https://tabula-py.readthedocs.io/en/latest/) and [Google Colab notebook](https://colab.research.google.com/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb) for tabula-py. The FAQ would be good place to execute accurate extraction.
+{{% /callout %}}
 
 tabula-py is a Python library which enables you to extract tables from PDF into pandas DataFrames. Today, I released v0.8.0. In this post, I will introduce improvements after previous post of tabula-py. If you don’t familiar with tabula-py, you can see previous one.
 
-[**tabula-py: Extract table from PDF into Python DataFrame**  
-_Today, I released tabula-py 0.3.0, which extracts table from PDF into Python pandas’s DataFrame._blog.chezo.uno](https://blog.chezo.uno/tabula-py-extract-table-from-pdf-into-python-dataframe-6c7acfa5f302 "https://blog.chezo.uno/tabula-py-extract-table-from-pdf-into-python-dataframe-6c7acfa5f302")[](https://blog.chezo.uno/tabula-py-extract-table-from-pdf-into-python-dataframe-6c7acfa5f302)
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://chezo.uno/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/" data-iframely-url="//iframely.net/WEoEyU7"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>
 
 ### Change Notes
 
@@ -36,13 +37,17 @@ I will explain important features.
 
 If you want extract a DataFrame from the internet, you can extract remote PDF without downloading it manually.
 
-dread\_pdf("https://github.com/tabulapdf/tabula-java/raw/master/src/test/resources/technology/tabula/12s0324.pdf")
+```py
+read_pdf("https://github.com/tabulapdf/tabula-java/raw/master/src/test/resources/technology/tabula/12s0324.pdf")
+```
 
 #### \[Experimental\] Add "`multiple_tables"` mode
 
 tabula-py is a simple wrapper of tabula-java, it was hard to handle multiple tables in a page. But now, you can extract multiple tables in a page using `multiple_tables` option.
 
-read\_pdf('tests/resources/data.pdf', pages=2, multiple\_tables=True)
+```py
+read_pdf('tests/resources/data.pdf', pages=2, multiple\_tables=True)
+```
 
 This function create a list of DataFrames via JSON from tabula-java, so if tabula-java’s JSON format will change, the output could be broken. If you see `CParserError` , try to set `multiple_tables` option.
 
@@ -50,7 +55,9 @@ This function create a list of DataFrames via JSON from tabula-java, so if tabul
 
 After tabula-java v0.9.2, we can extract tables from PDF by batch. You can use this function through `convert_into_by_batch()` method.
 
-convert\_into\_by\_batch(path\_to\_dir, output\_format='csv')
+```py
+convert_into_by_batch(path_to_dir, output_format='csv')
+```
 
 You should set directory path of PDFs, not the specific pdf path.
 
