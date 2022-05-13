@@ -3,8 +3,9 @@ title: A recent update of tabula-py
 description: This article is a repost of Patreon article published last December.
   I’m planning to bump up next version of tabula-py within few weeks.
 date: '2019-02-18T01:26:00+09:00'
-categories: [OSS]
+categories: [OSS, tabula]
 authors: [aki]
+projects: [tabula-py]
 aliases: [/blog/a-recent-update-of-tabula-py-a923d2ab667b, /blog/a923d2ab667b]
 keywords: [tabula, py, template, oct, extraction, _a, '2019', recent, load, december]
 recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/,

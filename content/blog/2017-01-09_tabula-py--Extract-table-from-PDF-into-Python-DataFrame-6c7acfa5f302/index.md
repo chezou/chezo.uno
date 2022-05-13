@@ -5,6 +5,7 @@ description: '(Note: Oct 7th, 2019)As of Oct. 2019, I launched a documentation s
 date: '2017-01-09T14:09:08+09:00'
 categories: [OSS, tabula]
 authors: [aki]
+projects: [tabula-py]
 aliases: [/blog/tabula-py-extract-table-from-pdf-into-python-dataframe-6c7acfa5f302,
   /blog/6c7acfa5f302]
 keywords: [tabula, py, extract, json, java, pdf, tables, table, dataframe, wrapper]
