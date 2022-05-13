@@ -6,7 +6,7 @@ date: '2019-02-18T01:26:00+09:00'
 categories: [OSS]
 authors: [aki]
 aliases: [/blog/a-recent-update-of-tabula-py-a923d2ab667b, /blog/a923d2ab667b]
-keywords: [tabula, py, template, oct, extraction, _a, '2019', recent, load, december]
+keywords: [tabula, py, template, _a, oct, extraction, '2019', site_, recent, notebook_]
 recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/,
   /blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/,
   /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/]
