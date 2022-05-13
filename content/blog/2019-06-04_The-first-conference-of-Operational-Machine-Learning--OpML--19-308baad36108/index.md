@@ -7,7 +7,7 @@ categories: [mlops, machine_learning]
 authors: [aki]
 aliases: [/blog/the-first-conference-of-operational-machine-learning-opml-19-308baad36108,
   /blog/308baad36108]
-keywords: [ml, learning, production, machine, conference, google, facebook, prediction,
+keywords: [ml, learning, production, machine, conference, facebook, google, prediction,
   management, engineering]
 recommendations: [/blog/2017-08-03_why-oss-based-machine-learning-is-good--3ab45a1a5e52/,
   /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/, /blog/2017-08-30_python-basics--package-management-462918458f96/]
