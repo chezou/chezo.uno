@@ -46,7 +46,7 @@ read_pdf("https://github.com/tabulapdf/tabula-java/raw/master/src/test/resources
 tabula-py is a simple wrapper of tabula-java, it was hard to handle multiple tables in a page. But now, you can extract multiple tables in a page using `multiple_tables` option.
 
 ```py
-read_pdf('tests/resources/data.pdf', pages=2, multiple\_tables=True)
+read_pdf('tests/resources/data.pdf', pages=2, multiple_tables=True)
 ```
 
 This function create a list of DataFrames via JSON from tabula-java, so if tabula-java’s JSON format will change, the output could be broken. If you see `CParserError` , try to set `multiple_tables` option.
