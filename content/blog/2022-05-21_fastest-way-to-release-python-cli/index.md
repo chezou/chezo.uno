@@ -1,32 +1,20 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-
-title: "4 Steps to Release a CLI in Python"
-subtitle: ""
-summary: ""
+title: 4 Steps to Release a CLI in Python
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: [python, poetry]
 categories: [python]
-date: 2022-05-20T23:32:41-07:00
-lastmod: 2022-05-20T23:32:41-07:00
+date: 2022-05-20 23:32:41-07:00
+lastmod: 2022-05-20 23:32:41-07:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: "Photo by Marc-Olivier Jodoin on Unsplash"
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: Photo by Marc-Olivier Jodoin on Unsplash, focal_point: '', preview_only: false}
 projects: []
+keywords: [project, cli, pypi, create, token, dependency, written, package, python,
+  need]
+recommendations: [/blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
+  /blog/2017-08-30_python-basics--package-management-462918458f96/, /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/]
 ---
 
 This is what I learned from creating a Python CLI ([digdaglog2sql](https://github.com/chezou/digdaglog2sql)) in a day.
