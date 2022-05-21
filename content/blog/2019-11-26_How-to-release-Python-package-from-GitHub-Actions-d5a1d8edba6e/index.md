@@ -6,10 +6,10 @@ date: '2019-11-26T01:42:11+09:00'
 categories: [Python]
 authors: [aki]
 aliases: [/blog/how-to-release-python-package-from-github-actions-d5a1d8edba6e/, /blog/d5a1d8edba6e/]
-keywords: [pypi, github, actions, api, workflow, python, package, testing, syntax,
-  recently]
-recommendations: [/blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/,
-  /blog/2017-08-30_python-basics--package-management-462918458f96/, /blog/2022-01-25_hugo-content-based-recommendation/]
+keywords: [pypi, github, actions, token, api, workflow, python, package, testing,
+  syntax]
+recommendations: [/blog/2022-05-21_fastest-way-to-release-python-cli/, /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/,
+  /blog/2017-08-30_python-basics--package-management-462918458f96/]
 ---
 
 ![](./0__hOksODxf9TX1BkS0.jpg)
