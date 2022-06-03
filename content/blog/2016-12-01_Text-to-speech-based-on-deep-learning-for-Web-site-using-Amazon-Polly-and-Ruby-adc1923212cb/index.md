@@ -7,8 +7,8 @@ categories: []
 authors: [aki]
 aliases: [/blog/text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb,
   /blog/adc1923212cb]
-keywords: [amazon, english, aws, languages, cli, api, following, article, articles,
-  japanese]
+keywords: [amazon, english, aws, languages, following, cli, api, article, articles,
+  services]
 recommendations: [/blog/2022-01-25_hugo-content-based-recommendation/, /blog/2017-05-02_an-easy-way-to-get-url-list-of-your-medium-publication-c60c61244101/,
   /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/]
 ---

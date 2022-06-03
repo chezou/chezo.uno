@@ -9,7 +9,7 @@ aliases: [/blog/simple-way-to-distribute-your-private-python-packages-within-you
   /blog/fb7af5dbd4c9]
 keywords: [server, directory, packages, http, foo, _this, pip, option, package, repository]
 recommendations: [/blog/2017-08-30_python-basics--package-management-462918458f96/,
-  /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/, /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]
+  /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/, /blog/2022-05-21_fastest-way-to-release-python-cli/]
 ---
 
 {{< figure src="0_YSlLMz01REAp_q_y.png" title="[https://www.irasutoya.com/2017/05/blog-post\_22.html](https://www.irasutoya.com/2017/05/blog-post_22.html)" >}}
