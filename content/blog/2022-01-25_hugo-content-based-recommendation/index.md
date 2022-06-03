@@ -12,11 +12,11 @@ draft: false
 image: {caption: 'Recommendation example of https://chezo.uno/blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/',
   focal_point: Smart, preview_only: false}
 projects: []
-keywords: [articles, blog, recommendation, cli, based, write, post, need, writing,
-  recommended]
+keywords: [articles, blog, recommendation, cli, based, write, post, writing, recommended,
+  named]
 recommendations: [/blog/2017-05-02_an-easy-way-to-get-url-list-of-your-medium-publication-c60c61244101/,
   /blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/,
-  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]
+  /blog/2022-05-21_fastest-way-to-release-python-cli/]
 ---
 
 Hugo has a feature to show keyword based related articles.
