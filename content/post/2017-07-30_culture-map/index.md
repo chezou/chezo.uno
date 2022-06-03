@@ -13,8 +13,7 @@ recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2008-09-08-can-ye-ze
 
 同僚の [Daisuke Kobayashi](https://medium.com/u/aad6cf2e3329) から勧められて、エリン・メイヤーの「異文化理解力」を読んだ。グローバル企業で働く人間として非常に示唆に富んだ良い本だった。
 
-[**異文化理解力 ― 相手と自分の真意がわかる ビジネスパーソン必須の教養**  
-_Amazonでエリン・メイヤー, 田岡恵, 樋口武志の{ProductTitle}。アマゾンならポイント還元本が多数。一度購入いただいた電子書籍は、KindleおよびFire端末、スマートフォンやタブレットなど、様々な端末でもお楽しみい…_amzn.to](http://amzn.to/2hdMNpj "http://amzn.to/2hdMNpj")[](http://amzn.to/2hdMNpj)
+{{< amazon asin="B013WB5BJS" title="異文化理解力 ― 相手と自分の真意がわかる ビジネスパーソン必須の教養">}}
 
 よく「日本は」「海外は」という議論が巻き起こることがあるが、これはそもそもナンセンスだなとぼんやりと思っていたことを明確にしてくれた。それは、文化は国によって相対的なのだ、ということである。
 
