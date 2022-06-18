@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [ライセンス, 感じ, 場合, 危険, ラップ, ベーコン, tokyuruby, 自作, 持ち込み, 無限]
-recommendations: [/post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/,
-  /post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/, /post/2014-09-21-rubykaigixing-tutekimasita-and-rubyhirobade-shen-nai-chuan-rubyhui-yi-01-gao-zhi-ltsitekimasita-number-rubykaigi-number-rubyhiroba-number-kana01/]
+recommendations: [/post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
+  /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/]
 ---
 無限プレモルが出るという危険な楽しいイベント、[TokyuRuby会議07](http://regional.rubykaigi.org/tokyu07)で[rubyistokei](http://rubyistokei.herokuapp.com/)の[timer](https://speakerdeck.com/kwappa/rubyistimer)にドラの音を付けたよ！という話をしました。
 
