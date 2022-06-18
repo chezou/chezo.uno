@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [channel, rockapella, 楽しみ, youtube, tokyo, ｒｙ, １６, １０, 黒板, 鳥肌]
 recommendations: [/post/2008-07-10-ris-a-la-malta/, /post/2015-08-23-yapc-asia-tokyo-2015can-jia-sitekita-number-yapcasia/,
-  /post/2011-04-06-gatiyapin-sings-rajaton/]
+  /post/2008-07-09-press-startdang-xuan-simasita/]
 ---
 [YoutubeにRockapella Channel](http://jp.youtube.com/user/RockapellaDotCom)なるものがありました。  
 この、プロモが素敵すぎます！  
