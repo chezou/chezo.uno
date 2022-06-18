@@ -11,7 +11,7 @@ tags: []
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 categories: [ruby]
-keywords: [翻訳, jekyll, ドキュメント, リポジトリ, kawasaki, '300', rb, 本家, ariga, 記事]
+keywords: [翻訳, jekyll, ドキュメント, リポジトリ, kawasaki, aki, '300', rb, 本家, ariga]
 recommendations: [/post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/,
   /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/]
 ---
