@@ -24,16 +24,26 @@ recommendations: [/post/2012-11-10-websocketwoshi-tuteriarutaimunixing-tai-su-ji
 ## LT1: Sinatra Hijackerと （Rack Hijacking API）の紹介 (Minori Tokudaさん)
 LT1本目は、Tokudaさん([@snowcrush](https://twitter.com/snowcrush))による[Sinatra Hijacker](https://github.com/minoritea/sinatra-hijacker)のご紹介。
 
-[slideshare id=26556881&doc=sinatrahijacker-130925182715-phpapp01]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BSA3YyJloFxpdA" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/minoritokuda/sinatra-hijacker" title="Sinatra hijacker" target="_blank">Sinatra hijacker</a> </strong> from <strong><a href="//www.slideshare.net/minoritokuda" target="_blank">Minori Tokuda</a></strong> </div>
 
 Rack Hijacking APIを使って、ソケットを横取りしてSinatraでWebsocketの通信をしよう！というライブラリです。
 
-    require 'sinatra/hijacker'class YourApp \< Sinatra::Base register Sinatra::Hijacker websocket '/ws' do ws.onopen{ws.send\_data "hello"} endend
+```rb
+require 'sinatra/hijacker'
+
+class YourApp < Sinatra::Base
+  register Sinatra::Hijacker
+
+  websocket '/ws' do
+    ws.onopen{ws.send_data "hello"}
+  end
+end
+```
 
 こんなかんじで、シンプルにwebsocketの通信ができるようになります。お手軽ですね。
 
 ## LT2: リアルタイム形態素解析 morph-websocket (@chezou)
-[slideshare id=26540388&doc=kawasaki04-mw-130925093600-phpapp01]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/mUUmC2lBKEjKIP" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/chezou/morphwebsocket" title="リアルタイム形態素解析 morph-websocket / kawasaki.rb #004" target="_blank">リアルタイム形態素解析 morph-websocket / kawasaki.rb #004</a> </strong> from <strong><a href="//www.slideshare.net/chezou" target="_blank">Aki Ariga</a></strong> </div>
 
 LT2本目は、自分の[morph-websocket](https://chezo.uno/post/2012-11-10-websocketwoshi-tuteriarutaimunixing-tai-su-jie-xi-wosurumorph-websocketwozuo-tutemita/)のご紹介とデモでした。websocketつながりということで紹介させていただきました。
 

@@ -20,7 +20,7 @@ recommendations: [/post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-s
 [http://rubyistokei.herokuapp.com/timer?limit=1&gong=on](http://rubyistokei.herokuapp.com/timer?limit=1&gong=on)  
 こんな感じでご家庭でもドラの音を楽しみながらLTできます！
 
-[slideshare id=32880449&doc=gonganyware-140329043143-phpapp01]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/KjmDwsdbPmj7Lk" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/chezou/gong-anyware" title="Gong anyware" target="_blank">Gong anyware</a> </strong> from <strong><a href="//www.slideshare.net/chezou" target="_blank">Aki Ariga</a></strong> </div>
 
 本当はデモをするつもりだったのですが、いい感じに出来上がっていたので肝心の音を鳴らすことができませんでした。せっかく、iPhone, iPad, Androidで動作確認をして会場で準備までしてたのに！
 

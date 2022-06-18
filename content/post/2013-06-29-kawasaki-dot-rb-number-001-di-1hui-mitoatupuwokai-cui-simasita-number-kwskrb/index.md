@@ -31,7 +31,8 @@ Doorkeeperの参加者を見ていただくとわかるのですが、予想以�
 ## 01. NKT77さん 「Hadoop with Ruby-僕がPythonを選んだ理由」
 このタイトル自体は僕が付けた釣り仮題なのですが、内容としてはRubyをHadoop Streamingで使うときにHashが遅いという事例の紹介でした。([モリスさんを釣ってしまって](http://b.hatena.ne.jp/entry/kawasakirb.doorkeeper.jp/events/4115)恐縮したのはここだけの話)
 
-[slideshare id=23692953&doc=20130630kawasaki-130630003650-phpapp01]  
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/qNf9UAatermiB5" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nkt77/20130626-kawasakirb-nkt-23692953" title="20130626 kawasaki.rb NKT77" target="_blank">20130626 kawasaki.rb NKT77</a> </strong> from <strong><a href="//www.slideshare.net/nkt77" target="_blank">nkt77</a></strong> </div>
+
 (2013/07/04 資料を追加しました)
 
 ざっくりまとめると
@@ -48,7 +49,8 @@ Doorkeeperの参加者を見ていただくとわかるのですが、予想以�
 3. rehashの際の閾値がRubyの方が保守的
 といった理由が考えられるとのことでした。(間違いがあればご指摘ください)
 ## 02. たるいさん(@taru) 「メモリアロケーションからみた拡張ライブラリに大切なこと」
-[slideshare id=23517958&doc=random-130626101518-phpapp02]
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/1rv0A73MvVSEjR" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/tarui/ss-23517958" title="メモリアロケーションからみた拡張ライブラリに大切なこと" target="_blank">メモリアロケーションからみた拡張ライブラリに大切なこと</a> </strong> from <strong><a href="//www.slideshare.net/tarui" target="_blank">Masaya TARUI</a></strong> </div>
 
 資料を見ていただければ内容はわかると思います。
 
