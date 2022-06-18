@@ -23,7 +23,7 @@ recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /p
 
 また、「Juliaを使った機械学習」という釣り気味のタイトルでLTしてきました。  
   
-[slideshare id=31342831&doc=hajipata-julia-140218091943-phpapp01]  
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/id5bCJ0TGlgji6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/chezou/hajipata-julia" title="Juliaを使った機械学習" target="_blank">Juliaを使った機械学習</a> </strong> from <strong><a href="//www.slideshare.net/chezou" target="_blank">Aki Ariga</a></strong> </div>
   
 実際には、[Gadfly](https://github.com/dcjones/Gadfly.jl)使うとおしゃれなグラフが書けますよーというレベルでしかなかったのですが、D3.jsなんかとも親和性高い描画エンジンなのでよければ使ってみると楽しいですよ。
 

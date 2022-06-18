@@ -28,6 +28,8 @@ Quineの解説は以下の資料が詳しいです。
 
 [http://www.slideshare.net/mametter/ruby-2012](http://www.slideshare.net/mametter/ruby-2012)
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/HSa6r0tKylPW2z" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mametter/ruby-2012" title="Ruby を用いた超絶技巧プログラミング（夏のプログラミングシンポジウム 2012）" target="_blank">Ruby を用いた超絶技巧プログラミング（夏のプログラミングシンポジウム 2012）</a> </strong> from <strong><a href="//www.slideshare.net/mametter" target="_blank">mametter</a></strong> </div>
+
 ポイントとしては、"いかに次の言語の文字列をprintするか"というところが大きいようです。  
 特に、エスケープが増えてしまうと、様々な言語の制限(主に文字数制限)に引っかかってしまい実行できなくなるという問題があるようで、takesakoさんの[ppencode](http://www.namazu.org/~takesako/diary/?date=20050831)やら文字列圧縮などを使い工夫することで、それらをうまく回避しているとのことです。
 

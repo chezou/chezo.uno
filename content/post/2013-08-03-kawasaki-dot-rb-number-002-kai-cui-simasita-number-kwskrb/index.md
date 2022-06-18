@@ -38,7 +38,8 @@ Capistranoの基本的な部分を紹介していただきました。
 レシピを用意すれば、後からdeployする人はあまり意識しなくていいんですよね。
 
 スライドはこちら  
-[slideshare id=24865371&doc=capistrano-130802055931-phpapp01]
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pDYE31FqFWqMeW" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/TsubasaYumura/capistrano-at" title="Capistrano紹介 at kawasaki.rb #002 #kwskrb" target="_blank">Capistrano紹介 at kawasaki.rb #002 #kwskrb</a> </strong> from <strong><a href="//www.slideshare.net/TsubasaYumura" target="_blank">Tsubasa Yumura</a></strong> </div>
 
 ## [@aflc\_jp](http://twitter.com/aflc_jp) さんgroongaの紹介の話
 資料は[こちら](http://aflc.github.io/kawasaki.rb/1-groonga/index.html#/title)  

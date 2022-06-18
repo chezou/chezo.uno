@@ -36,7 +36,7 @@ recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-
 
   - Jekyll in another Jekyll辛かったけど、会期中に解決できてよかった
 
-[slideshare id=39335806&doc=hiroba2014-140921015201-phpapp01]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FB5cOKqxtDfcLH" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/chezou/introduction-to-kanagawa-ruby" title="Introduction to Kanagawa Ruby Kaigi01 #kana01" target="_blank">Introduction to Kanagawa Ruby Kaigi01 #kana01</a> </strong> from <strong><a href="//www.slideshare.net/chezou" target="_blank">Aki Ariga</a></strong> </div>
 
 - iruby notebookの紹介は東急できちんと準備してやりなおそうと思います
 - [rubima](https://github.com/rubima/rubima/issues)にコミュニティ紹介の記事を書いて投稿するとよいと@muryoimplさんに言われました

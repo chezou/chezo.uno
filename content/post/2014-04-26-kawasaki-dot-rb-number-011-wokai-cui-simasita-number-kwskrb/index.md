@@ -31,7 +31,7 @@ recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-
 
 # AngularJS+SinatraでTurbolinks: [@snowcrush](https://twitter.com/snowcrush) さん
 
-[slideshare id=33852359&doc=angularjssinatraturbolinks-140423094625-phpapp01]
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4x7qUwiCK5o84T" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/minoritokuda/angular-jssinatraturbolinks" title="Angular jsとsinatraでturbolinks" target="_blank">Angular jsとsinatraでturbolinks</a> </strong> from <strong><a href="//www.slideshare.net/minoritokuda" target="_blank">Minori Tokuda</a></strong> </div>
 
 @snowcrush さんのblogは、AngularJS + Sinatraで構成されているそうですが、  
 google botsはJSで動的に生成されたページにindexを貼ってくれないので、  
