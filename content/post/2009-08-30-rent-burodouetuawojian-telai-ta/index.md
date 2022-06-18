@@ -12,7 +12,7 @@ categories: null
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 keywords: [マーク, ロック, バンド, 低い, 映画, 日程, 思い, 日本人, 感謝, 幸せ]
-recommendations: [/post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2017-07-30_culture-map/,
+recommendations: [/post/2017-07-30_culture-map/, /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/,
   /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
 ---
 今更ながら、報告です。  
