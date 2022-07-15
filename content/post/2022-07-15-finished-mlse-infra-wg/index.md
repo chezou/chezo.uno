@@ -1,31 +1,19 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "機械学習工学研究会夏合宿2022でMLインフラ運用WGを終了しました"
-subtitle: ""
-summary: "MLSE の本番適用のためのインフラと運用WGの活動を終了しました。"
+title: 機械学習工学研究会夏合宿2022でMLインフラ運用WGを終了しました
+subtitle: ''
+summary: MLSE の本番適用のためのインフラと運用WGの活動を終了しました。
 authors: [aki]
 tags: []
 categories: [conference]
-date: 2022-07-15T15:16:04-07:00
-lastmod: 2022-07-15T15:16:04-07:00
+date: 2022-07-15 15:16:04-07:00
+lastmod: 2022-07-15 15:16:04-07:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [課題, 基盤, 夏合宿, 作り, チーム, 運用, 難しさ, 変化, mlops, 議論]
+recommendations: [/post/2020-11-10-mlse-conference/, /post/2020-07-11-mlse-summer-workshop/,
+  /post/2020-12-31-2020-review/]
 ---
 
 2019年から土橋さん ([@masaru_dobashi](https://twitter.com/masaru_dobashi)) と共同幹事をしていた、機械学習工学研究会 (MLSE) の「本番適用のためのインフラと運用WG」を、今月頭の夏合宿で終了しました。
