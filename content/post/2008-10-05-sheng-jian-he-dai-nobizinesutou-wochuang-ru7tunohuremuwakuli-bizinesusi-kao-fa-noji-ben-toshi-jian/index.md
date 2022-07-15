@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [論文, 著者, おすすめ, 要点, 拙著, 思考力, 和代, 勝間, 読了, 欲しかっ]
+keywords: [論文, 著者, おすすめ, 長期的, 要点, 拙著, 思考力, 和代, 勝間, 読了]
 recommendations: [/post/2019-03-29_ngekkan-lambda-note-article/, /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
   /post/2008-06-15-ojin-nomian-qiang/]
 ---

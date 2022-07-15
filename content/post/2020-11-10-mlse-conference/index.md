@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [基盤, 機械学習, 本番, 適用, 運用, 事例, 当日, 知見, 要件, アーキテクチャ]
-recommendations: [/post/2020-12-31-2020-review/, /post/2020-07-11-mlse-summer-workshop/,
-  /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
+recommendations: [/post/2022-07-15-finished-mlse-infra-wg/, /post/2020-12-31-2020-review/,
+  /post/2020-07-11-mlse-summer-workshop/]
 ---
 
 

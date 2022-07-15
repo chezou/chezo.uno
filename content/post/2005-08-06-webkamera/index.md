@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [駆使, ほしく, tsukumo, 無性, 友達, skype, 勉強, チャット, 最近, '10']
+keywords: [ほしく, tsukumo, 駆使, 無性, 友達, skype, 勉強, チャット, 最近, '10']
 recommendations: [/post/2005-07-17-urayamasika/, /post/2005-04-23-willcom/, /post/2005-05-19-vhsnei-zang-dvdpureya/]
 ---
 最近、MSNやらYahooやらSkypeやらを駆使して、あの手この手でボイスチャットやお絵かきチャットしながら友達と勉強をしていたわけですが、  

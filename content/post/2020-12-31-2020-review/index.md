@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [物語, mlse, 配信, 活動, 漫画, あと, オンライン, oss, マイク, '2020']
-recommendations: [/post/2020-11-10-mlse-conference/, /post/2020-07-11-mlse-summer-workshop/,
-  /post/2021-12-31-2021-year-review/]
+keywords: [物語, mlse, 配信, 活動, 漫画, オンライン, あと, oss, マイク, '2020']
+recommendations: [/post/2020-11-10-mlse-conference/, /post/2022-07-15-finished-mlse-infra-wg/,
+  /post/2020-07-11-mlse-summer-workshop/]
 ---
 
 久しぶりの年末の振り返りです。振り返ってみると[2017年以来](https://chezo.uno/post/2017-12-31_2017-c4901627b12d/)みたいですね。
