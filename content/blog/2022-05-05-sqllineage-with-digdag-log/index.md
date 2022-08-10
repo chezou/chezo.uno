@@ -81,8 +81,8 @@ These are the PRs that approaches the issues:
 
 - ✅ https://github.com/reata/sqllineage/pull/252 -> Released in 1.3.5
 - ✅ https://github.com/reata/sqllineage/pull/255 -> Released in 1.3.5
-- \[WIP\] https://github.com/andialbrecht/sqlparse/pull/662
-- \[WIP\] https://github.com/andialbrecht/sqlparse/pull/664
+- ✅ https://github.com/andialbrecht/sqlparse/pull/662 -> Monkey patch was provided as a part of sqllineage 1.3.5 https://github.com/reata/sqllineage/pull/258
+- \[WIP\] https://github.com/andialbrecht/sqlparse/pull/664 -> Will be released in 0.4.3
 
 Don't worry about it. I prepared patched branches on GitHub. You can install sqllineage and sqlparse as the following:
 
