@@ -2,37 +2,19 @@
 title: sqllineage を使って digdag のログから Treasure Data のクエリのリネージを作ってみた
 subtitle: オープンソースを使って Hive や Trino のクエリからリネージを作ろう
 date: 2022-05-05 19:58:10-07:00
-summary: ""
+summary: ''
 draft: false
 featured: false
-authors:
-  - aki
-keywords:
-  - sql
-  - 可視化
-  - td
-  - 実装
-  - digdag
-  - データ
-  - python
-  - レベル
-  - 流れ
-  - 実行
+authors: [aki]
 lastmod: 2022-05-05 19:58:10-07:00
 tags: []
-categories:
-  - digdag
-  - lineage
-  - sql
+categories: [digdag, lineage, sql]
 projects: []
-recommendations:
-  - /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/
-  - /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/
-  - /post/2019-12-24-python-custom-scripting/
-image:
-  caption: sqllineage で Treasure Workflow のリネージを出してみた例
-  focal_point: ""
-  preview_only: false
+image: {caption: sqllineage で Treasure Workflow のリネージを出してみた例, focal_point: '', preview_only: false}
+keywords: [sql, 可視化, td, 実装, digdag, データ, python, レベル, 流れ, 実行]
+recommendations: [/post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
+  /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
+  /post/2019-12-24-python-custom-scripting/]
 ---
 データリネージとは、DBなどでどのデータがどこから来てどこに行った、という「来歴」とも呼ばれる情報です。
 
