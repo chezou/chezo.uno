@@ -79,7 +79,7 @@ digdaglog2sql --session-id 12345 --endpoint digdag.example.com --output output.s
 
 * ✅ https://github.com/reata/sqllineage/pull/252 -> 1.3.5 でリリース済み
 * ✅ https://github.com/reata/sqllineage/pull/255 -> 1.3.5 でリリース済み
-* \[WIP] https://github.com/andialbrecht/sqlparse/pull/662 -> sqllineage 1.3.5 のmonkey patchで回避済み https://github.com/reata/sqllineage/pull/258
+* ✅ https://github.com/andialbrecht/sqlparse/pull/662 -> sqllineage 1.3.5 のmonkey patchで回避済み https://github.com/reata/sqllineage/pull/258
 * \[WIP] https://github.com/andialbrecht/sqlparse/pull/664 -> 0.4.3 でリリース予定
 
 ひとまず、パッチを当てたbranchをGitHubに用意したので、 ~~nodeをインストールした環境で~~ 以下のようにインストールしてください。
