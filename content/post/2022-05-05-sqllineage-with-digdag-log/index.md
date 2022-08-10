@@ -1,22 +1,39 @@
 ---
 title: sqllineage を使って digdag のログから Treasure Data のクエリのリネージを作ってみた
 subtitle: オープンソースを使って Hive や Trino のクエリからリネージを作ろう
-summary: ''
-authors: [aki]
-tags: []
-categories: [digdag, lineage, sql]
 date: 2022-05-05 19:58:10-07:00
-lastmod: 2022-05-05 19:58:10-07:00
-featured: false
+summary: ""
 draft: false
-image: {caption: sqllineage で Treasure Workflow のリネージを出してみた例, focal_point: '', preview_only: false}
+featured: false
+authors:
+  - aki
+keywords:
+  - sql
+  - 可視化
+  - td
+  - 実装
+  - digdag
+  - データ
+  - python
+  - レベル
+  - 流れ
+  - 実行
+lastmod: 2022-05-05 19:58:10-07:00
+tags: []
+categories:
+  - digdag
+  - lineage
+  - sql
 projects: []
-keywords: [sql, 可視化, td, 実装, digdag, データ, python, レベル, 流れ, 実行]
-recommendations: [/post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
-  /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
-  /post/2019-12-24-python-custom-scripting/]
+recommendations:
+  - /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/
+  - /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/
+  - /post/2019-12-24-python-custom-scripting/
+image:
+  caption: sqllineage で Treasure Workflow のリネージを出してみた例
+  focal_point: ""
+  preview_only: false
 ---
-
 データリネージとは、DBなどでどのデータがどこから来てどこに行った、という「来歴」とも呼ばれる情報です。
 
 自分がこの言葉を知ったのは、前職でCloudera Navigatorという製品を扱ったときにこの機能が実装されていることを知りました。
@@ -78,10 +95,10 @@ digdaglog2sql --session-id 12345 --endpoint digdag.example.com --output output.s
 
 今、Pull Requestを出しているところなので、これらがリリースされれば解決されると思います。
 
-- ✅ https://github.com/reata/sqllineage/pull/252 -> 1.3.5 でリリース済み
-- ✅ https://github.com/reata/sqllineage/pull/255 -> 1.3.5 でリリース済み
-- \[WIP\] https://github.com/andialbrecht/sqlparse/pull/662
-- \[WIP\] https://github.com/andialbrecht/sqlparse/pull/664
+* ✅ https://github.com/reata/sqllineage/pull/252 -> 1.3.5 でリリース済み
+* ✅ https://github.com/reata/sqllineage/pull/255 -> 1.3.5 でリリース済み
+* \[WIP] https://github.com/andialbrecht/sqlparse/pull/662 -> sqllineage 1.3.5 のmonkey patchで回避済み https://github.com/reata/sqllineage/pull/258
+* \[WIP] https://github.com/andialbrecht/sqlparse/pull/664 -> 0.4.3 でリリース予定
 
 ひとまず、パッチを当てたbranchをGitHubに用意したので、 ~~nodeをインストールした環境で~~ 以下のようにインストールしてください。
 
