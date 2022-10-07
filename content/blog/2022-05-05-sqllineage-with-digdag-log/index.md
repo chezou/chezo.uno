@@ -75,16 +75,18 @@ digdaglog2sql --session-id 12345 --endpoint digdag.example.com --output output.s
 {{% callout note %}}
 As of 2022/05/11, the issues in sqllineage around Hive/Trino were fixed and it is available in 1.3.5 on PyPI.
 It means, you don't have to have node for sqllineage installation from source.
+
+As of 2022/10/06, the issue in sqlparse was resolved in 0.4.3.
 {{% /callout %}}
 
-These are the PRs that approaches the issues:
+~~These are the PRs that approaches the issues:~~
 
 - ✅ https://github.com/reata/sqllineage/pull/252 -> Released in 1.3.5
 - ✅ https://github.com/reata/sqllineage/pull/255 -> Released in 1.3.5
-- ✅ https://github.com/andialbrecht/sqlparse/pull/662 -> Monkey patch was provided as a part of sqllineage 1.3.5 https://github.com/reata/sqllineage/pull/258
-- \[WIP\] https://github.com/andialbrecht/sqlparse/pull/664 -> Will be released in 0.4.3
+- ✅ https://github.com/andialbrecht/sqlparse/pull/662 -> Released in 0.4.3
+- ✅ https://github.com/andialbrecht/sqlparse/pull/664 -> Released in 0.4.3
 
-Don't worry about it. I prepared patched branches on GitHub. You can install sqllineage and sqlparse as the following:
+~~Don't worry about it. I prepared patched branches on GitHub. You can install sqllineage and sqlparse as the following:~~
 
 ```sh
 pip install git+https://github.com/chezou/sqlparse.git@trino#egg=sqlparse==0.4.3.dev0
