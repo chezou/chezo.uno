@@ -150,7 +150,7 @@ show_related = {page = false, post = true, project = false, publication = false,
 
 # Get user avatars from Gravatar.com? (true/false)
 [avatar]
-  gravatar = true
+  gravatar = false
   shape = "circle"
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.

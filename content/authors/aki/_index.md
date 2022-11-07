@@ -1,6 +1,6 @@
 ---
 title: Aki Ariga
-role: Machine Learning Engineer
+role: Staff Software Engineer
 interests:
   - Machine Learning
   - ML Ops
@@ -50,7 +50,7 @@ bio:
   <p><a href="https://www.buymeacoffee.com/chezou" class="btn-bmc" target="_blank" rel="noopener"><i class="fa fa-coffee"></i>&nbsp;&nbsp;Gift a cup of Tea</a></p>
 ---
 
-Aki Ariga is a Machine Learning Engineer at Treasure Data. His interests include developing peroduction Machien Learning systems, Machine Learning products, and ML Ops. He aims to leverage Machine Learning powers and technologies for business and social good.
+Aki Ariga is a Staff Software Engineer at Treasure Data based on Vancouver area. His interests include developing peroduction Machien Learning systems, Machine Learning products, and ML Ops. He aims to leverage Machine Learning powers and technologies for business and social good.
 
 He lead several communities at Tokyo such as Machine Learning Casual Talks, kawasaki.rb, and he is also one of the organizers of "Working Group of Machine Learning systems and operations for productionization" in Special Interest Group on Machine Learning System Engineering.
 
