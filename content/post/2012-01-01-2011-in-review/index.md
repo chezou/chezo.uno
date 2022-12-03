@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['2011', レポート, 統計, ブログ, report, コンサートホール, 概要, コンサート, wordpress, 年間]
-recommendations: [/post/2011-04-09-eritukuuitekashi-yu-ding-tong-rilai-ri/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
-  /post/2015-12-30-2015nian-wozhen-rifan-tute/]
+keywords: [レポート, 統計, ブログ, '2011', コンサートホール, 概要, コンサート, wordpress, 年間, 去年]
+recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2008-07-30-narutaru/,
+  /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/]
 ---
 あけましておめでとうございます。  
 去年のブログの統計を出してくれるんですね。
