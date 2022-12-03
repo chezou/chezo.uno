@@ -267,8 +267,9 @@ plugins_js  = []
   google_tag_manager = ""
 
 # Content Management System
-[extensions.cms]
+[cms]
  # Enable the admin panel. See https://wowchemy.com/docs/install/
+ netlify_cms = true
  branch = "master"
 
 # Icon Pack Extensions
