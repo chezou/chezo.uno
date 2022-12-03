@@ -1,9 +1,9 @@
 ---
 title: Aki Ariga
-role: Machine Learning Engineer
+role: Staff Software Engineer
 interests:
   - Machine Learning
-  - ML Ops
+  - MLOps
   - Natural Language Processing
 social:
   - icon: envelope
