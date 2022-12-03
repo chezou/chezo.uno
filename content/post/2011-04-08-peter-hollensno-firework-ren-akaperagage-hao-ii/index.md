@@ -11,6 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+aliases: [2011-04-08-peter-hollens-firework]
 keywords: [アレンジ, hollens, 原曲, アカペラ, イントロ, vocal, the house, pact, jacks, firework]
 recommendations: [/post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/,
   /post/2008-06-03-er-du-qin-qian/, /post/2009-05-24-kuronotorigano-shi-nohui-lang-gaming-qu-sugiru/]

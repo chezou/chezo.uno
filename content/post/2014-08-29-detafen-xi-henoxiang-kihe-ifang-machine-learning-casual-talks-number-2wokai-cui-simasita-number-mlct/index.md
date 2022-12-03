@@ -75,7 +75,7 @@ Gunosy関さんのスライドが落ちていたので追加しました。
 
 内容もさることながら、初心者向けの機械学習おすすめ本の提示がよかったです。[わかパタ](http://www.amazon.co.jp/dp/4274131491)は読みやすくていい本ですね。
 
-本文抽出といえば、 [@shuyo](https://twitter.com/shuyo) さんのExtractContent([slide]([http://www.slideshare.net/shuyo/web-using-crf](http://www.slideshare.net/shuyo/web-using-crf)),[Ruby1.9対応版](https://github.com/mono0x/extractcontent))を使っていた記憶が蘇りました。
+本文抽出といえば、 [@shuyo](https://twitter.com/shuyo) さんのExtractContent([slide](http://www.slideshare.net/shuyo/web-using-crf),[Ruby1.9対応版](https://github.com/mono0x/extractcontent))を使っていた記憶が蘇りました。
 
 ### Akira Shibataさん「カメリオ精度向上に使った学習アプローチ」
 

@@ -11,6 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+aliases: [/post/2014-05-07-julia-vs-python-bitcoin-option]
 keywords: [julia, path, 計算, python, np, time, end, ベクトル化, オプション, 価格]
 recommendations: [/post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
   /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/]

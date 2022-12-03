@@ -15,10 +15,10 @@ keywords: [julia, vs, sorami, juliatokyo, 発表, 移植, 白熱, オワコン, 
 recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/,
   /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/]
 ---
-[JuliaTokyo 01](juliatokyo.connpass.com/event/6891/)で発表してきました。  
+[JuliaTokyo 01](https://juliatokyo.connpass.com/event/6891/)で発表してきました。  
 取りまとめをしてくださった [@sorami](https://twitter.com/sorami) さんには感謝です。
 
-事の発端は、[Julia vs Python](https://chezo.uno/post/2014-05-07-julia-vs-python-bitcoin-option)を読んだ[@bicycle1885](https://twitter.com/bicycle1885)と[Machine Learning Casual Talks](https://chezo.uno/post/2014-06-07-machine-learning-casual-talks)で「Julia勉強会やりましょう！」といったことでした。  
+事の発端は、[Julia vs Python](https://chezo.uno/post/2014-05-07-julia-vs-python-bitcoin-option)を読んだ[@bicycle1885](https://twitter.com/bicycle1885)と[Machine Learning Casual Talks](https://chezo.uno/post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/)で「Julia勉強会やりましょう！」といったことでした。  
 そこで、[Tokyo.RでRをdisっ紹介してきた](https://speakerdeck.com/sorami/tokyor-number-39-lt-rtojulia) [@sorami](https://twitter.com/sorami)とコンタクトをとり、始まりました。
 
 まさか、本家のJuliaConの半分の40人近くの参加者が集う場になりました！(Julia歴24時間以内の人も多かったですが...)  

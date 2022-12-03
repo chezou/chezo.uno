@@ -4,7 +4,7 @@ description: This article is translation of Japanese version.
 date: '2017-08-03T12:56:59+09:00'
 categories: [machine_learning, OSS]
 authors: [aki]
-aliases: [/blog/why-oss-based-machine-learning-is-good-3ab45a1a5e52, /blog/3ab45a1a5e52]
+aliases: [/blog/why-oss-based-machine-learning-is-good-3ab45a1a5e52, /blog/3ab45a1a5e52, /blog/2017-08-03_Why-OSS-based-machine-learning-is-good-3ab45a1a5e52/]
 keywords: [learning, machine, deep, algorithms, open, implementation, research, performance,
   companies, source]
 recommendations: [/blog/2019-06-04_the-first-conference-of-operational-machine-learning--opml--19-308baad36108/,
