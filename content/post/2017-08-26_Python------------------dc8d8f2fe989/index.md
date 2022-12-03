@@ -4,6 +4,7 @@ description: 先日、 kawasaki.rb の懇親会で「AWS LambdaのためにPytho
 date: '2017-08-26T13:58:07+09:00'
 categories: [python]
 authors: [aki]
+aliases: [/post/2017-08-26_Python-dc8d8f2fe989/]
 keywords: [python, conda, パッケージ, venv, anaconda, 環境, virtualenv, ruby, windows, os]
 recommendations: [/post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
   /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/, /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/]
