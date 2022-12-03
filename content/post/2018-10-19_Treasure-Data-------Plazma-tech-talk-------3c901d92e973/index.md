@@ -4,6 +4,7 @@ description: 気づけば入社して2ヶ月ほど経ってしまいましたが
 date: '2018-10-19T01:12:26+09:00'
 categories: [life]
 authors: [aki]
+aliases: [/post/2018-10-19_Treasure-Data-Plazma-tech-talk-3c901d92e973/]
 keywords: [入社, td, ml, 開発中, エッジ, operator, 広がり, team, talk, iot]
 recommendations: [/post/2022-05-05-sqllineage-with-digdag-log/, /post/2019-12-04-r-and-td/,
   /post/2019-12-24-python-custom-scripting/]

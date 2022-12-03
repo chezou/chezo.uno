@@ -4,6 +4,7 @@ description: 転職をして、業務で使うマシンがMacBook Proになっ�
 date: '2018-10-28T13:11:26+09:00'
 categories: []
 authors: [aki]
+aliases: [/post/2018-10-28_Thinkpad-X1-Carbon-MacBook-Pro-USB-Type-C-f6d8c8e77b36/]
 keywords: [充電, 充電器, x1, carbon, '60', usb, macbook pro, ポート, hdmi, power]
 recommendations: [/post/2017-01-30-indigogo-dehazimetebatukusitelai-ta-dot-woshi-tute3keyue-gatatuta/,
   /post/2019-03-10_business-trip-goods/, /post/2017-12-30_2017------------bbf834e065c5/]

@@ -4,6 +4,7 @@ description: 「初めての自動テスト」をご恵贈いただきました�
 date: '2018-01-17T12:54:23+09:00'
 categories: [book]
 authors: [aki]
+aliases: [/post/2018-01-17_-b63a0763e904/]
 keywords: [テスト, 自動, ui, 経験, ユニットテスト, spotify, 基礎, web, 開発者, 両方]
 recommendations: [/post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/,
   /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/]

@@ -4,6 +4,7 @@ description: Google Homeを発売日に買ってから色々と試行錯誤を�
 date: '2018-01-03T10:40:14+09:00'
 categories: []
 authors: [aki]
+aliases: [/post/2018-01-03_Google-Home-17607a9cc2b8/]
 keywords: [hdmi, 対応, モニター, プラグ, 切替, philips, hz, '60', google home, 液晶ディスプレイ]
 recommendations: [/post/2017-12-30_2017------------bbf834e065c5/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
   /post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/]
