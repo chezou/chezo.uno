@@ -18,7 +18,9 @@ recommendations: [/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/
 {{< toc >}}
 
 4/23に「仕事ではじめる機械学習 第2版」を[tokoroten](https://twitter.com/torkoroten)さんと[hagino3000](https://twitter.com/hagino3000)さんとともに出版しました。
-電子版は、Kindleでは購入できない[^2](https://twitter.com/chezou/status/1385414782396747779)のでぜひ[オライリー・ジャパンのサイト](https://www.oreilly.co.jp/books/9784873119472/)からDRMフリーのPDF、EPUBをご購入ください。
+電子版は、Kindleでは購入できない [^2] のでぜひ[オライリー・ジャパンのサイト](https://www.oreilly.co.jp/books/9784873119472/)からDRMフリーのPDF、EPUBをご購入ください。
+
+[^2]: https://twitter.com/chezou/status/1385414782396747779
 
 {{< amazon asin="4873119472" title="仕事ではじめる機械学習 第2版" >}}
 
