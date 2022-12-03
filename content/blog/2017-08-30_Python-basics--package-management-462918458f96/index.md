@@ -220,4 +220,4 @@ Original Japanese document:
 
 - [Pythonの環境構築を自分なりに整理してみる](https://chezo.uno/post/2017-08-26_python-dc8d8f2fe989/)
 - [pip - pip 9.0.1 documentation](https://pip.pypa.io/en/stable/)
-- [Simple way to distribute your private Python packages within your organization](https://chezo.uno/post/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/)
+- [Simple way to distribute your private Python packages within your organization](https://chezo.uno/blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/)
