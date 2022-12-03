@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [アクセス, simplify, iphone, music, 移行, 結局, 今年, 統計情報, 数ヶ月, 段々]
+keywords: [music, iphone, アクセス, simplify, post, '2009', ad, es, '05', 移行]
 recommendations: [/post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/,
-  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/]
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
 ---
 あけましておめでとうございます。今年もよろしくお願いします。
 

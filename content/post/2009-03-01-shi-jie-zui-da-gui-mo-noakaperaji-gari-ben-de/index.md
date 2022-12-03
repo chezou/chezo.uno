@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [コンテスト, アカペラ, 講師, 盆休み, 申込み, 最大規模, 全国, お祭り, スルー, '2009']
+keywords: [コンテスト, アカペラ, 講師, 盆休み, 申込み, 最大規模, 全国, お祭り, スルー, 以内]
 recommendations: [/post/2009-03-09-masafestanirajatonga/, /post/2008-07-05-rajaton/,
   /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/]
 ---
