@@ -29,7 +29,7 @@ recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruke
 つまり、デジタル教科書を始めとする授業への情報端末の活用、情報機器を活用した採点業務などの効率化、情報端末を先生が使えるようにすること、について話が為されるようです。この懇談会への流れは、どうも原口総務大臣が[原口ビジョン](http://www.soumu.go.jp/main_content/000048728.pdf)として「2015年までに全ての小中学校全生徒にデジタル教科書を」という目標を掲げていることが大きいようです。([こちらの記事](http://blogs.itmedia.co.jp/business20/2009/12/post-3f88.html)が詳しいです)  
 本当は、懇談会の傍聴をしたかったのですが、既に満席とのことでライブ配信の恩恵にあずかろうと思います。(しかし、この時間は現場の先生見られるのでしょうか)
 
-デジタル教科書と言えば、ソフトバンクの孫さん始めとした方々がデジタル教科書協議会の設立目指して動いているようです([ITProの記事](http://itpro.nikkeibp.co.jp/article/NEWS/20100405/346678/),[PDF](www.yougolab.jp/mpc/d-text1004.pdf))。また、従来の教科書会社も[生き残りをかけて取り組んでいる](http://www.asahi.com/business/topics/economy/OSK200908010170.html)ようです。twitterでも[#e\_textbook](http://hashtagsjp.appspot.com/tag/e_textbook)で盛り上がっており、今とても熱い分野だと思います。紙の教科書からデジタルの教科書へ、大きなパラダイムシフトが起こる可能性があり技術者としてとてもワクワクします。
+デジタル教科書と言えば、ソフトバンクの孫さん始めとした方々がデジタル教科書協議会の設立目指して動いているようです([ITProの記事](http://itpro.nikkeibp.co.jp/article/NEWS/20100405/346678/),[PDF](http://www.yougolab.jp/mpc/d-text1004.pdf))。また、従来の教科書会社も[生き残りをかけて取り組んでいる](http://www.asahi.com/business/topics/economy/OSK200908010170.html)ようです。twitterでも[#e\_textbook](http://hashtagsjp.appspot.com/tag/e_textbook)で盛り上がっており、今とても熱い分野だと思います。紙の教科書からデジタルの教科書へ、大きなパラダイムシフトが起こる可能性があり技術者としてとてもワクワクします。
 
 しかし、デジタル教科書についてもビジネス的に興味深いとは思いますが、個人的には上記懇談会の2,3番目の項目が気になります。特に、3についてかなり重要になってくるのではないかと思っています。
 

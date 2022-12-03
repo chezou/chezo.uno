@@ -16,7 +16,7 @@ recommendations: [/post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/
   /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/, /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/]
 ---
 
-[以前、動かないと言っていたNas Navigator2](https://chezo.uno/post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit\index.md)ですが、なんとか動かすことに成功しました。グラフィックボードのドライバ関係もあって、再インストールした後に行いました。
+[以前、動かないと言っていたNas Navigator2](https://chezo.uno/post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/)ですが、なんとか動かすことに成功しました。グラフィックボードのドライバ関係もあって、再インストールした後に行いました。
 
 1．管理者権限で、setupを実行する  
 2.nassvc.exeを管理者権限で実行できるようスタートアップにショートカットを置く
