@@ -232,9 +232,9 @@ plugins_js  = []
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
   [search.algolia]
-    app_id = "O9V1BB9FYG"
-    api_key = "e4e07404330def963bff39747c796ad9"
-    index_name = "chezouno"
+    app_id = "6ZVPP4OGVW"
+    api_key = "fa54722ba653c1033fc3839b9265c73b"
+    index_name = "netlify_be30f3d5-7dc2-49a6-81b7-2227ebc87591_master_all"
     show_logo = true
 
 ############################
