@@ -116,6 +116,8 @@ address_format = "en-us"
 
 [features.syntax_highlighter]
   enable = true
+  theme_light = "github-light"
+  theme_dark = "github-dark"
   extra_languages = ["r", "latex"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
