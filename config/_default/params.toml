@@ -227,14 +227,14 @@ plugins_js  = []
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  provider = "algolia"
+  provider = "wowchemy"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
   [search.algolia]
-    app_id = "O9V1BB9FYG"
-    api_key = "e4e07404330def963bff39747c796ad9"
-    index_name = "chezouno"
+    app_id = ""
+    api_key = ""
+    index_name = ""
     show_logo = true
 
 ############################
