@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ケーブル, lite, hdd, usb, キャスター, 秋葉原, ide, わけ, 外付け, バック]
+keywords: [ケーブル, lite, hdd, usb, キャスター, 秋葉原, ide, 外付け, バック, わけ]
 recommendations: [/post/2006-05-01-dslite/, /post/2019-03-10_business-trip-goods/,
   /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/]
 ---

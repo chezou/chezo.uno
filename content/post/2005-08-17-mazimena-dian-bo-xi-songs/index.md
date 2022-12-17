@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [解釈, 連祷, 連想, 宇宙, 妥当, 三善晃, シリーズ, 明日, ほう, 先生]
-recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/,
-  /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/]
+keywords: [解釈, 連祷, 連想, 宇宙, 妥当, 三善晃, シリーズ, 明日, 先生, ほう]
+recommendations: [/post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/,
+  /post/2008-06-03-er-du-qin-qian/, /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/]
 ---
 [素数の歌](http://homepage2.nifty.com/hougi/contents/prime.html)らしいですよ。
 

@@ -5,7 +5,7 @@ date: '2019-03-29T04:01:40+09:00'
 lastmod: '2019-03-29T04:01:40+09:00'
 categories: [book, writing]
 authors: [aki]
-keywords: [論文, 記事, 寄稿, 編集, mlops, ノート, 月刊, 自分, notion, 著者]
+keywords: [論文, 記事, 寄稿, 編集, mlops, ノート, 月刊, 自分, 著者, pdf]
 recommendations: [/post/2017-08-03_oss--------------48807bbbf13f/, /post/2019-06-04_ngekkan-party/,
   /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/]
 ---

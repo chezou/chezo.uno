@@ -1,31 +1,19 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Wowchemyをv5.5.0からv5.7.0に上げた"
-subtitle: "そしてAlgoliaを諦めた"
-summary: ""
+title: Wowchemyをv5.5.0からv5.7.0に上げた
+subtitle: そしてAlgoliaを諦めた
+summary: ''
 authors: [aki]
 tags: [hugo]
 categories: []
-date: 2022-12-16T17:23:22-08:00
-lastmod: 2022-12-16T17:23:22-08:00
+date: 2022-12-16 17:23:22-08:00
+lastmod: 2022-12-16 17:23:22-08:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [検索, yaml, 変更, hugo, 設定, 構造, アドベントカレンダー, config, バージョン, 記載]
+recommendations: [/post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/, /post/2022-01-25-hugo-content-based-recommendation/,
+  /post/2009-06-11-iphoneniwang-mukoto/]
 ---
 
 毎年アドベントカレンダーの時期にHugoのテーマであるWowchemy (旧 Academic) のバージョンを上げています。
