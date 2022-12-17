@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [pdf, 苦労, 漫画, 作品, 許容範囲, 絶版, ラインナップ, ゼミ, みゆき, 構造]
+keywords: [pdf, 苦労, 漫画, 作品, 許容範囲, 絶版, ラインナップ, ゼミ, みゆき, 広告]
 recommendations: [/post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/,
   /post/2008-06-22-bokurano-alternative/, /post/2008-07-19-can-shu-gui-tou-mo-hong/]
 ---

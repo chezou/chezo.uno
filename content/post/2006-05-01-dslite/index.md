@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [秘書, 研究室, ds, 購入, 金曜日, タイ, わけ, 先輩, 先週, lite]
+keywords: [秘書, 研究室, ds, 購入, 金曜日, タイ, 先輩, わけ, 先週, lite]
 recommendations: [/post/2006-03-17-uhi/, /post/2008-10-05-hd53r-ver-dot-8wogou-ru/,
   /post/2005-07-17-urayamasika/]
 ---

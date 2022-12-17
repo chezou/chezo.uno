@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [packt, 数式, instant, kindle, .com, グラフ, メモ, 月額, センター試験, アンケート]
+keywords: [packt, 数式, starter, instant, kindle, .com, グラフ, メモ, 月額, センター試験]
 recommendations: [/post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/,
   /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/]
 ---

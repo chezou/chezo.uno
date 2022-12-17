@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [アクセス, nas, simplify, music, 機能, 設定, web, 音楽, linkstation, buffalo]
+keywords: [アクセス, nas, simplify, music, 機能, web, 設定, 音楽, linkstation, buffalo]
 recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/,
   /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/]
 ---
