@@ -11,9 +11,9 @@ tags: []
 categories: [Year review]
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
-keywords: [お金, ops, アニメ, 漫画, 去年, 来年, 執筆, こと, 東京, はず]
-recommendations: [/post/2020-12-31-2020-review/, /post/2015-12-30-2015nian-wozhen-rifan-tute/,
-  /post/2021-12-18-8-months-after-relocating-vancouver/]
+keywords: [お金, ops, アニメ, 漫画, 執筆, 去年, 来年, こと, 東京, はず]
+recommendations: [/post/2020-12-31-2020-review/, /post/2022-12-30-2022-year-in-review/,
+  /post/2015-12-30-2015nian-wozhen-rifan-tute/]
 ---
 [去年](https://chezo.uno/post/2020-12-31-2020-review/)に引き続き、年末の振り返りです。まだ西海岸時間は2021年です。
 

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [music, iphone, アクセス, simplify, post, '2009', ad, es, '05', 移行]
+keywords: [music, iphone, アクセス, simplify, '2009', post, ad, es, '05', 移行]
 recommendations: [/post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/,
   /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
 ---
