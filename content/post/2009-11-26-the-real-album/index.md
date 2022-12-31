@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [アルバム, ポップ, 印象, pass, 変態, 全体的, jazz, 活躍, メンバー, これから]
+keywords: [アルバム, ポップ, 印象, pass, 変態, 全体的, jazz, 活躍, これから, 楽しみ]
 recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/,
   /post/2005-08-21-nan-sheng-he-chang/]
 ---

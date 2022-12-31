@@ -7,7 +7,7 @@ authors: [aki]
 aliases: [/post/2018-01-17_-b63a0763e904/]
 keywords: [テスト, 自動, ui, 経験, ユニットテスト, spotify, 基礎, web, 開発者, 両方]
 recommendations: [/post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/,
-  /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/]
+  /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2019-12-05-ibis2019-mlse/]
 ---
 
 「初めての自動テスト」をご恵贈いただきました。発売してからだいぶ経ってしまいましたが、良い本だったので紹介したいと思います。
