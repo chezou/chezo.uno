@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [キャロル, soundcloud, iframe, panamusica, 格好, 'true', url, 興奮, フェア, クリスマス]
+keywords: [キャロル, soundcloud, iframe, panamusica, 格好, 'true', url, 興奮, フェア, mass]
 recommendations: [/post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
   /post/2012-09-25-singstodobrogoszgazai-bigong-yan/]
 ---

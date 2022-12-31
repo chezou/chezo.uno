@@ -5,7 +5,7 @@ date: '2017-09-09T12:24:23+09:00'
 categories: [conference]
 authors: [aki]
 aliases: [/post/2017-09-09_PyConJP-2017-5fa5f59b9bde/]
-keywords: [データ, track, 発表, python, 更新, jupyter, pandas, 入門, pycon, 編成]
+keywords: [データ, track, 発表, python, jupyter, 更新, pandas, 入門, pycon, 編成]
 recommendations: [/post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
   /post/2018-10-25_risecamp------ee65c2ef0c9e/]
 ---

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [sinatra, kytea, 結果, mykytea, mecab, 出力, ruby, seikichi, haml, japan]
+keywords: [sinatra, kytea, 結果, mykytea, mecab, 出力, seikichi, ruby, haml, 解析]
 recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
   /post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/]
 ---

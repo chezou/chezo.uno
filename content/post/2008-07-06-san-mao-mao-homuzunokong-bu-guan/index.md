@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [印象, 理解, 箇所, 角川書店, 伏線, 描写, 友人, 人間, 文章, 子供]
+keywords: [印象, 理解, 箇所, 角川書店, 伏線, 描写, 人間, 友人, 文章, 子供]
 recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/,
   /post/2008-09-10-enzieruhato-27/]
 ---

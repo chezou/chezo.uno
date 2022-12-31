@@ -1,31 +1,19 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "2022年を振り返って"
-subtitle: ""
-summary: ""
+title: 2022年を振り返って
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
 categories: [Year review]
-date: 2022-12-30T14:59:13-08:00
-lastmod: 2022-12-30T14:59:13-08:00
+date: 2022-12-30 14:59:13-08:00
+lastmod: 2022-12-30 14:59:13-08:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [post, 活動, cms, チーム, 副業, バンクーバー, キャリア, netlify, 有賀, 康顕]
+recommendations: [/post/2021-12-31-2021-year-review/, /post/2021-12-18-8-months-after-relocating-vancouver/,
+  /post/2016-03-30-zhuan-zhi-simasita/]
 ---
 
 [去年](https://chezo.uno/post/2021-12-31-2021-year-review/)に引き続き、2022年の振り返りです。
