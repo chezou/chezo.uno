@@ -6,8 +6,8 @@ lastmod: '2019-06-04T13:33:18+09:00'
 categories: []
 authors: [aki]
 image: {caption: 会の中で一番嬉しそうだった鹿野さん, focal_point: Smart}
-keywords: [ノート, コルーチン, 月刊, イベント, 記念, 寄稿, 創刊, お世話になりました, 祭り, オペレーション]
-recommendations: [/post/2019-03-29_ngekkan-lambda-note-article/, /post/2006-07-28-xia-nanode/,
+keywords: [ノート, コルーチン, イベント, 月刊, 記念, 寄稿, 創刊, お世話になりました, 祭り, オペレーション]
+recommendations: [/post/2019-03-29_ngekkan-lambda-note-article/, /post/2022-12-30-2022-year-in-review/,
   /post/2018-10-19_treasure-data-------plazma-tech-talk-------3c901d92e973/]
 ---
 

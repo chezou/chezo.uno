@@ -12,7 +12,7 @@ categories: [daily life]
 image: {caption: 秋の紅葉, focal_point: Top, preview_only: false}
 keywords: [子供, 保険, bc, 今年, スーパー, カナダ, 移住, 前後, 小学校, 高い]
 recommendations: [/post/2017-12-23_----------------------701333a45696/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
-  /post/2021-12-31-2021-year-review/]
+  /post/2022-12-30-2022-year-in-review/]
 ---
 この記事は[pyspa Advent Calender 2021](https://adventar.org/calendars/6234)の18日目です。昨日は[@golden_lucky](https://twitter.com/golden_lucky)のリンゴの話でした。
 

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [こと, 定着, 公開, スキル, mykytea, 生活, 昨年, 子ども, 解析, rajaton]
+keywords: [こと, 定着, 公開, スキル, mykytea, 子ども, 解析, 生活, 昨年, rajaton]
 recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
   /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/]
 ---
