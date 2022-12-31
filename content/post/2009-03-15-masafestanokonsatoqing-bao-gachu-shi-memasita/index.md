@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [値段, the house, pact, jacks, 通し, masa, festa, rajaton, '22', 一回]
+keywords: [値段, the house, pact, jacks, 通し, masa, festa, rajaton, 一回, '22']
 recommendations: [/post/2009-03-09-masafestanirajatonga/, /post/2009-03-03-sok-bao-masa-festa/,
   /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/]
 ---

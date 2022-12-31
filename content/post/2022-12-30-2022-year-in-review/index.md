@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [post, バンクーバー, 活動, cms, podcast, チーム, 副業, キャリア, netlify, 有賀]
-recommendations: [/post/2021-12-31-2021-year-review/, /post/2016-03-30-zhuan-zhi-simasita/,
-  /post/2021-12-18-8-months-after-relocating-vancouver/]
+recommendations: [/post/2021-12-31-2021-year-review/, /post/2021-12-18-8-months-after-relocating-vancouver/,
+  /post/2016-03-30-zhuan-zhi-simasita/]
 ---
 
 [去年](https://chezo.uno/post/2021-12-31-2021-year-review/)に引き続き、2022年の振り返りです。
