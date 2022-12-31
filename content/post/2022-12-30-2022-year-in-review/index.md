@@ -61,6 +61,18 @@ https://www.youtube.com/watch?v=XMM08z9yG3Q&t=1795s
 
 しかしこのチーム、Rubyコミッタが現旧4人いてすごいですね...。n月刊ラムダノート著者も2人います。すごい。
 
+## Podcast
+
+ご縁があってSennaさんとYuyaさんのホストしている、バンクーバーのえんじに屋 Podcastに出演させていただきました。
+
+- https://www.vancouver-engineers.com/81
+- https://www.vancouver-engineers.com/82
+- https://www.vancouver-engineers.com/93
+
+また、久しぶりに自分のPodcastも更新しました。ニュージーランドでCGアーティストをしているTahkoさんとの海外トークをさせていただきました。Avatarの続編は映画館で見たほうが良い美しい映像となっているようなので、是非。
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://randomfacts.club/6" data-iframely-url="//iframely.net/RW84IV1"></a></div></div><script async src="//iframely.net/embed.js"></script>
+
 ## プライベート
 
 詳細は別途まとめようと思いますが、ひとまずeCoPRが出ました。これで永住権（≠市民権）を獲得したことになるので、5年更新で滞在することができます。よかった。
