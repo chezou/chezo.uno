@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [はず, 登録, 無念, 歌い手, pop, アーティスト, 作曲者, 無い, 名前, 検索]
+keywords: [はず, 登録, 無念, 歌い手, pop, 作曲者, アーティスト, 無い, 名前, 検索]
 recommendations: [/post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/,
   /post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/,
   /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/]

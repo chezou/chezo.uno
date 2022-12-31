@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [男声, 男声合唱, 松下, 木下, 美しい, 信長, 無性, ポップ, 音楽, 準備]
+keywords: [男声, 男声合唱, 松下, 木下, 信長, 美しい, 無性, ポップ, 音楽, 準備]
 recommendations: [/post/2011-12-25-yi-teng-hui-si-ming-dao-qi-tai-liang-shi-noxuan-nda-xue-sheng-he-chang-notameno-sutiyudentosongubutuku-gare-i/,
   /post/2005-09-18-gao-tian-san-lang-xing-tutekimasita/, /post/2009-11-26-the-real-album/]
 ---

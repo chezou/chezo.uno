@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [instagram, 写真, 悩ましい, 活躍, 最大, 特徴, 無い, iphone, 方法, なく]
 recommendations: [/post/2017-01-30-indigogo-dehazimetebatukusitelai-ta-dot-woshi-tute3keyue-gatatuta/,
-  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2022-12-30-2022-year-in-review/]
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2016-12-31-2016nian-wozhen-rifan-tute/]
 ---
 ![](https://lh4.ggpht.com/_fY4jPztBNxw/TNa7URH8ORI/AAAAAAAAAjc/ZRSFiOyC6vc/s400/DSCF6018.JPG)
 
