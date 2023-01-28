@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [臭い, テイスト, 相変わらず, ダメ, ok, 凄い, シリーズ, 作品, 新しい, isbn]
+keywords: [臭い, テイスト, 相変わらず, ダメ, 凄い, シリーズ, ok, 作品, 新しい, isbn]
 recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-13-lang-toxiang-xin-liao-1/,
   /post/2008-07-19-xi-nomo-nu-gasi-nda/]
 ---

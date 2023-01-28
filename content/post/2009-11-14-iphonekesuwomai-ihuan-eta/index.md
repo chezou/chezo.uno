@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [suica, ビック, チャージ, スイカ, ジャケット, カード, view, 携帯, 大きい, 基本的]
+keywords: [suica, ビック, チャージ, スイカ, ジャケット, view, カード, 携帯, 大きい, 基本的]
 recommendations: [/post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/,
   /post/2005-03-03-sugoi/, /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---
