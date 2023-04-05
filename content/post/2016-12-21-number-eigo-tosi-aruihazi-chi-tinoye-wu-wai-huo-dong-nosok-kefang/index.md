@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [英会話, dmm, モニタ, chromecast, 英語, 継続, こと, 子供, ルンバ, 転職]
+keywords: [英会話, dmm, モニタ, chromecast, 英語, 継続, こと, ルンバ, 子供, 転職]
 recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
   /post/2015-12-30-2015nian-wozhen-rifan-tute/]
 ---
