@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [post, バンクーバー, 活動, cms, podcast, チーム, 副業, キャリア, netlify, 有賀]
+keywords: [post, バンクーバー, 活動, hezou, cms, podcast, チーム, 副業, キャリア, netlify]
 recommendations: [/post/2021-12-31-2021-year-review/, /post/2021-12-18-8-months-after-relocating-vancouver/,
-  /post/2023-01-27-age++/]
+  /post/2023-04-05-first-time-skiing-in-25-years/]
 ---
 
 [去年](https://chezo.uno/post/2021-12-31-2021-year-review/)に引き続き、2022年の振り返りです。

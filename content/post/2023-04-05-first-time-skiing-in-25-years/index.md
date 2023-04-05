@@ -1,31 +1,19 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "25年ぶりにスキーを再開した"
-subtitle: ""
-summary: ""
+title: 25年ぶりにスキーを再開した
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: [ski]
 categories: [outdoor]
-date: 2023-04-05T13:38:23-07:00
-lastmod: 2023-04-05T13:38:23-07:00
+date: 2023-04-05 13:38:23-07:00
+lastmod: 2023-04-05 13:38:23-07:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [スキー, 子供, 後半, 投稿, '30', 長期間, 休み, シーズン, hezou, 日間]
+recommendations: [/post/2017-05-25_teach-what-i-dont-know/, /post/2022-12-30-2022-year-in-review/,
+  /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/]
 ---
 
 バンクーバーは、最寄りのスキー場まで車で30分で行けるので有名です。30分圏内にスキー場が三つ(Grouse, Cypress, Seymour)もあるので気軽に行けます。
