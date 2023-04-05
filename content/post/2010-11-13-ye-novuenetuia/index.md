@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [街中, 歴代, 若い, 感心, 不思議, 歴史的, 位置, 雰囲気, 準備, 最初]
+keywords: [街中, 歴代, 若い, 感心, 歴史的, 位置, 不思議, 雰囲気, 準備, 最初]
 recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-10-19-jpopsaundonohe-xin-bu-fen-ga-shi-ha1tunokodojin-xing-dechu-lai-teita/,
   /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/]
 ---
