@@ -6,8 +6,8 @@ categories: [kids, life]
 authors: [aki]
 aliases: [/post/2017-12-23_-701333a45696/]
 keywords: [依頼, 食洗機, 設置, 子供, マッチング, 週間, 食器洗い乾燥機, 時間, パナソニック, 状況]
-recommendations: [/post/2017-12-30_2017------------bbf834e065c5/, /post/2017-05-25_teach-what-i-dont-know/,
-  /post/2021-12-18-8-months-after-relocating-vancouver/]
+recommendations: [/post/2017-12-30_2017------------bbf834e065c5/, /post/2021-12-18-8-months-after-relocating-vancouver/,
+  /post/2017-05-25_teach-what-i-dont-know/]
 ---
 
 この記事は[pyspaアドベントカレンダー](https://adventar.org/calendars/2258)の24日目です。昨日は[しぶかわさんのローンの話](http://blog.shibu.jp/article/181920655.html)でした。車のローンも繰り上げ返済できるから印税で返済しましょう！という話はしびれますね。
