@@ -9,9 +9,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:aki@chezo.uno
-  - icon: twitter
+  - icon: mastodon
     icon_pack: fab
-    link: https://twitter.com/chezou
+    link: https://mastodon.social/@chezou
     display:
       header: true
   - icon: google-scholar
@@ -48,6 +48,7 @@ bio:
   Interested in Machine Learning, ML Ops, and Data driven business.
   If you like my blog post, I'm glad if you can buy me a tea 😉
   <p><a href="https://www.buymeacoffee.com/chezou" class="btn-bmc" target="_blank" rel="noopener"><i class="fa fa-coffee"></i>&nbsp;&nbsp;Gift a cup of Tea</a></p>
+  <a href="https://mastodon.social/@chezou" rel="me"><i class="fa-brands fa-mastodon"></i></a>
 ---
 
 Aki Ariga is a Machine Learning Engineer at Treasure Data. His interests include developing peroduction Machien Learning systems, Machine Learning products, and ML Ops. He aims to leverage Machine Learning powers and technologies for business and social good.
