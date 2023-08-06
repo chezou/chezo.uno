@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [オブ, ライフ, リアル, グループ, スコア, 選択, talking, ハーモニー, song, christmas]
-recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2008-08-01-ono-lisa-best-2002-2006/,
-  /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
+recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/,
+  /post/2008-08-01-ono-lisa-best-2002-2006/]
 ---
 おいおい、書いていたら消えてたよ。  
 というわけで、書き直しです。  

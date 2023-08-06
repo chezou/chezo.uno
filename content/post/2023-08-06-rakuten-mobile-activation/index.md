@@ -11,6 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [sms, アクティベーション, 海外, 料金, iphone, 請求, 回線, imessage, 番号, 仕様]
+recommendations: [/post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/,
+  /post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/, /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---
 
 ## tl;dr
