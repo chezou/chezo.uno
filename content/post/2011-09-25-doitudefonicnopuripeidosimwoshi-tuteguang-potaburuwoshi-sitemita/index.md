@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [sim, チャージ, sms, ドイツ, ユーロ, 英語, 購入, 携帯, day, 通信]
+keywords: [sim, チャージ, アクティベーション, ドイツ, sms, ユーロ, 英語, 購入, 携帯, day]
 recommendations: [/post/2015-10-08-iijmiono-outidenanbapotabiritei-shi-tutezi-zhai-demnpsita/,
-  /post/2009-11-14-iphonekesuwomai-ihuan-eta/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/]
+  /post/2023-08-06-rakuten-mobile-activation/, /post/2009-11-14-iphonekesuwomai-ihuan-eta/]
 ---
 [![](fonic.jpg)](fonic.jpg)
 
