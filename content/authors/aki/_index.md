@@ -9,9 +9,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:aki@chezo.uno
-  - icon: twitter
+  - icon: mastodon
     icon_pack: fab
-    link: https://twitter.com/chezou
+    link: https://mastodon.social/@chezou
     display:
       header: true
   - icon: google-scholar
@@ -55,3 +55,5 @@ Aki Ariga is a Machine Learning Engineer at Treasure Data. His interests include
 He lead several communities at Tokyo such as Machine Learning Casual Talks, kawasaki.rb, and he is also one of the organizers of "Working Group of Machine Learning systems and operations for productionization" in Special Interest Group on Machine Learning System Engineering.
 
 - [Memorandom (in Japanese)](https://memo.chezo.uno)
+
+<a href="https://mastodon.social/@chezou" rel="me"><i class="fa-brands fa-mastodon"></i></a>

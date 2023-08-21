@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [カレンダー, appbank, やり方, 合唱, アカペラ, 登録, url, iphone, 標準, 募集中]
+keywords: [カレンダー, appbank, やり方, 合唱, アカペラ, 登録, url, iphone, 募集中, googleカレンダー]
 recommendations: [/post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/,
   /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
   /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
