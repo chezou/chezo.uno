@@ -86,7 +86,6 @@ address_format = "en-us"
   branch = "master"
 
 [features.avatar]
-  gravatar = true
   shape = "circle"
 
 # Configuration of publication pages.
