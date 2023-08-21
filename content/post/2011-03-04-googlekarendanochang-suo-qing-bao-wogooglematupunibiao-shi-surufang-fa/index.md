@@ -11,7 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [googleカレンダー, yahoo!, カレンダー, url, 地図, xml, 情報, マップ, options, google calendar]
+keywords: [yahoo!, googleカレンダー, カレンダー, url, 地図, xml, マップ, options, google calendar,
+  情報]
 recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
   /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
   /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/]

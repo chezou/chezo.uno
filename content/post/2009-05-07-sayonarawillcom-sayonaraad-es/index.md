@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [アップデート, 結論, ad, es, 魅力, 感謝, iphone, 総合, 決め手, 不満]
+keywords: [アップデート, 結論, ad, es, 魅力, 感謝, iphone, 総合, 不満, フリーズ]
 recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/,
   /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---

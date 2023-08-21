@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [oss, issue, 丸山, コード, 英語, 開発, メンテナンス, ネイティブ, プロダクト, 会社]
+keywords: [oss, issue, 丸山, コード, 英語, 開発, メンテナンス, ネイティブ, プロダクト, codelunch]
 recommendations: [/post/2016-03-30-zhuan-zhi-simasita/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
   /post/2018-06-19_goodbye-cloudera/]
 ---

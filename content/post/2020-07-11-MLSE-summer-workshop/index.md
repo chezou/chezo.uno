@@ -10,7 +10,7 @@ lastmod: 2020-07-11 18:00:00+09:00
 featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
-keywords: [モデル, リネージ, 討論会, 議論, oss, 夏合宿, wg, 学習, 機械学習, mlse]
+keywords: [モデル, リネージ, 討論会, 議論, discord, oss, 夏合宿, wg, 学習, 機械学習]
 recommendations: [/post/2022-07-15-finished-mlse-infra-wg/, /post/2018-05-17_mlse-kickoff/,
   /post/2020-11-10-mlse-conference/]
 ---

@@ -1,31 +1,20 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "携帯からSlackを消した"
-subtitle: ""
-summary: ""
+title: 携帯からSlackを消した
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
 categories: []
-date: 2023-08-20T17:44:43-07:00
-lastmod: 2023-08-20T17:44:43-07:00
+date: 2023-08-20 17:44:43-07:00
+lastmod: 2023-08-20 17:44:43-07:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [通知, 会社, 仕事, モード, slack, スマホ, 対応, とき, こと, ない]
+recommendations: [/post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
+  /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
+  /post/2018-06-19_goodbye-cloudera/]
 ---
 
 休みの時の仕事の通知をコントロールする術をずっと模索していた。

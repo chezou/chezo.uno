@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ファイル, 公演, プチヲタ, 名古屋, アカペラグループ, 日程, 日本語, '27', マシン, '11']
+keywords: [ファイル, 公演, プチヲタ, 名古屋, アカペラグループ, 日本語, 日程, '27', マシン, '11']
 recommendations: [/post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
   /post/2008-07-10-ris-a-la-malta/]
 ---

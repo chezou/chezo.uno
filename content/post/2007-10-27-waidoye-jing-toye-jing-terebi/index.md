@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [インチ, '20', ほしく, 3万, 決断, ブランド, 次第, 他社, ワイド, 1万]
 recommendations: [/post/2005-08-06-webkamera/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
-  /post/2017-07-30_culture-map/]
+  /post/2023-08-20-removed-slack-from-mobile/]
 ---
 20インチワイド液晶が3万円で手にはいると聞いて、沸々とほしくなってきた次第です。  
 20インチワイド液晶テレビが6万円で手に入りそうなのを見て、少しときめくわけですよ。  
