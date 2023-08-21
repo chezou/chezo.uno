@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [有線, lan, 工事, 安定, バック, ホール, wifi, メッシュ, ソフト, wi-fi]
 recommendations: [/post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/,
-  /post/2017-12-23_----------------------701333a45696/, /post/2009-10-23-windows7-64bitwodg33tlmninantokadao-ru-sita/]
+  /post/2017-12-23_----------------------701333a45696/, /post/2023-08-20-removed-slack-from-mobile/]
 ---
 
 このお話は、[pyspaアドベントカレンダー](https://adventar.org/calendars/5310)の11日目です。昨日はwozozoでした。多分彼はこの記事をチラ見して「長過ぎる。地雷乙」と言うでしょう。

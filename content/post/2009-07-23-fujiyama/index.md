@@ -12,7 +12,7 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: ['1600', '1200', jpeg, km, '59', '36', '56', 帰り, '43', '45']
-recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/,
+recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2010-09-04-tun-zu-xing-tutekimasita/,
   /post/2009-08-07-pokemonxin-gan-xian/]
 ---
 先日行ってきた河口湖です。貸別荘から見える富士山が素敵でした。  

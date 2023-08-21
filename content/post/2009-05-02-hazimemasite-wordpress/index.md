@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [引っ越し, excite, 移行, 関係, 不満, 技術的, ヘッドホン, 全部, 満足, 音楽]
+keywords: [引っ越し, excite, 移行, 関係, 不満, 技術的, ヘッドホン, 満足, 全部, 音楽]
 recommendations: [/post/2009-05-16-du-shu-metahazimemasita/, /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/,
   /post/2008-11-06-yin-lu-toyin-jie-noke-xue/]
 ---

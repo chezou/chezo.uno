@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [迫力, 膳立て, 猟奇的, ない, 感じ, 集英社, 教師, はじめ, はず, ほとんど]
+keywords: [迫力, 膳立て, 猟奇的, ない, 集英社, 教師, 感じ, はじめ, はず, ほとんど]
 recommendations: [/post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/, /post/2008-08-01-ono-lisa-best-2002-2006/,
   /post/2008-09-10-enzieruhato-27/]
 ---

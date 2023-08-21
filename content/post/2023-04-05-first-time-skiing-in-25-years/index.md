@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [スキー, 子供, 後半, 投稿, '30', 長期間, 休み, シーズン, hezou, 日間]
+keywords: [スキー, 子供, 後半, 投稿, '30', 長期間, シーズン, hezou, 日間, 休み]
 recommendations: [/post/2017-05-25_teach-what-i-dont-know/, /post/2022-12-30-2022-year-in-review/,
   /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/]
 ---

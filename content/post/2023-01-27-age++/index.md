@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [work permit, 誕生日, カナダ, カ月, 永住権, '2021', pr, 社内, 仕事, 会社]
 recommendations: [/post/2021-12-18-8-months-after-relocating-vancouver/, /post/2022-12-30-2022-year-in-review/,
-  /post/2016-12-31-2016nian-wozhen-rifan-tute/]
+  /post/2023-08-20-removed-slack-from-mobile/]
 ---
 
 2023年も1月があっという間に過ぎてしまいました。

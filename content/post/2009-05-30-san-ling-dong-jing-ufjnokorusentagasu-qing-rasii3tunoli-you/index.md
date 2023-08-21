@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [オペレータ, コール, 対応, モード, スピーカー, 階層, 案内, 平日, 土曜, ボタン]
-recommendations: [/post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
-  /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/, /post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/]
+keywords: [オペレータ, コール, 対応, スピーカー, モード, 階層, 案内, 平日, 土曜, ボタン]
+recommendations: [/post/2023-08-20-removed-slack-from-mobile/, /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
+  /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---
 今日、UFJ Directの関係でコールセンターに電話をしたのですが、過去のSoftbankやWillcom、新生銀行とは比べものにならないくらいの対応で驚きました。
 
