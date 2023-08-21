@@ -122,7 +122,7 @@ address_format = "en-us"
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
 [features.math]
-  enable = true
+  enable = false
 
 [features.privacy_pack]
   enable = true
