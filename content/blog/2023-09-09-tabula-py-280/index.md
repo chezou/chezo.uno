@@ -92,3 +92,23 @@ It is 17 times faster than the previous version!
 ## Caveats
 
 Since [jpype doesn't allow to reboot JVM](https://jpype.readthedocs.io/en/latest/api.html#jpype.shutdownJVM), you can pass `java_options` for the first time only. If you want to change `java_options`, you need to restart Python process.
+
+## Challenges for releasing v2.8.0
+
+I had to solve several challenges to release this version.
+
+### The test issue with different `java_options`
+
+As I mentioned, jpype doesn't allow to reboot JVM. This causes unit test with different `java_options` to fail. I solved this by separating run with nox session.
+
+See https://github.com/chezou/tabula-py/pull/356/files#r1306600161 for details.
+
+This limitation is not a big deal for tabula-py users because tabula-py users don't need to change `java_options` frequently.
+
+### Read the docs default behavior change
+
+Read the docs changed the default installation packages for Sphinx. I didn't declared the dependency for Sphinx, so it caused the build failure.
+
+The default behavior of RTD was just installing the latest version of Sphinx and sphinx-rtd-theme, however, now it installs very old version of them like: https://github.com/readthedocs/readthedocs.org/issues/10670#issuecomment-1694761746
+
+I solved this by pinning the versions of dependency for Sphinx and sphinx-rtd-theme.
