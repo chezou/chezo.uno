@@ -8,9 +8,9 @@ authors: [aki]
 projects: [tabula-py]
 aliases: [/blog/tabula-py-extract-table-from-pdf-into-python-dataframe-6c7acfa5f302,
   /blog/6c7acfa5f302, /blog/2017-01-09_tabula-py-extract-table-from-pdf-into-python-dataframe-6c7acfa5f302]
-keywords: [tabula, py, extract, tables, java, dataframe, notebook, file, based, pdf]
+keywords: [tabula, py, extract, tables, dataframe, java, notebook, file, based, pdf]
 recommendations: [/blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/,
-  /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/, /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/]
+  /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/, /blog/2023-09-09-tabula-py-280/]
 ---
 
 {{% callout note %}}

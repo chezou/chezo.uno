@@ -10,7 +10,7 @@ aliases: [/blog/tabula-py-now-able-to-extract-remote-PDF-and-multiple-tables-at-
   /blog/6108e24ac07c]
 keywords: [tabula, pdf, py, add, remote, extract, url, path, oct, callout]
 recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/,
-  /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/, /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/]
+  /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/, /blog/2023-09-09-tabula-py-280/]
 ---
 
 {{% callout note %}}

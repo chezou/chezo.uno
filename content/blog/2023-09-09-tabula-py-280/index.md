@@ -1,31 +1,20 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "tabula-py 2.8.0 has now uses jpype to launch JVM"
-subtitle: ""
-summary: ""
+title: tabula-py 2.8.0 has now uses jpype to launch JVM
+subtitle: ''
+summary: ''
 authors: []
 tags: []
 categories: []
-date: 2023-09-09T17:13:08-07:00
-lastmod: 2023-09-09T17:13:08-07:00
+date: 2023-09-09 17:13:08-07:00
+lastmod: 2023-09-09 17:13:08-07:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [time, java_options, times, process, means, launch, java, tabula, previous,
+  version]
+recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/,
+  /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/, /blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/]
 ---
 
 Recently, I released tabula-py 2.8.0. It is a major release because it uses [jpype](https://jpype.readthedocs.io/en/latest/) to launch JVM. This means that it reduces JVM launch time since jpype reuse JVM via JNI.
