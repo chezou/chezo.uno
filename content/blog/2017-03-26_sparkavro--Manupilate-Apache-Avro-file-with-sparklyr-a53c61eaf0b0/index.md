@@ -7,7 +7,7 @@ categories: []
 authors: [aki]
 aliases: [/blog/sparkavro-manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0,
   /blog/a53c61eaf0b0]
-keywords: [spark, simple, library, test, file, chezou, install, tmp, output, load]
+keywords: [spark, simple, library, file, chezou, test, install, tmp, output, load]
 recommendations: [/blog/2016-12-30_livy---jupyter-notebook---sparkmagic---powerful---easy-notebook-for-data-scientist-a8b72345ea2d/,
   /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
   /blog/2022-05-05-sqllineage-with-digdag-log/]
