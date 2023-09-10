@@ -1,5 +1,5 @@
 ---
-title: tabula-py 2.8.0 has now uses jpype to launch JVM
+title: tabula-py 2.8.0 now uses jpype to launch JVM
 subtitle: ''
 summary: ''
 authors: []
