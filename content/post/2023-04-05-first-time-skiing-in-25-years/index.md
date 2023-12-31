@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [スキー, 子供, 後半, 投稿, '30', 長期間, シーズン, hezou, 日間, 休み]
-recommendations: [/post/2017-05-25_teach-what-i-dont-know/, /post/2022-12-30-2022-year-in-review/,
-  /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/]
+keywords: [スキー, 子供, 後半, 投稿, '30', 長期間, 滑り, パラレル, シーズン, whistler]
+recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2017-05-25_teach-what-i-dont-know/,
+  /post/2022-12-30-2022-year-in-review/]
 ---
 
 バンクーバーは、最寄りのスキー場まで車で30分で行けるので有名です。30分圏内にスキー場が三つ(Grouse, Cypress, Seymour)もあるので気軽に行けます。

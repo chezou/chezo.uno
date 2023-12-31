@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [markdown, recommonmark, html, sphinx, 3rd, conf, 拡張, rest, latex, tech]
+keywords: [markdown, recommonmark, html, sphinx, 3rd, conf, 拡張, rest, latex, 以下]
 recommendations: [/post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/,
   /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
   /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/]

@@ -11,6 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [vancouver, social, 仕事, プロジェクト, あと, コールセンター, cad, accent, 炎上, 投入]
+recommendations: [/post/2021-12-18-8-months-after-relocating-vancouver/, /post/2022-12-30-2022-year-in-review/,
+  /post/2023-04-05-first-time-skiing-in-25-years/]
 ---
 
 今年もあと一日になりましたが、[昨年同様](https://chezo.uno/post/2022-12-30-2022-year-in-review/)一年を振り返っていきたいと思います。

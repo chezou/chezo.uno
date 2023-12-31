@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [漢字, 文章, 作品, フリガナ, 刺激, 手順, ライト, 続き, 世界観, 事実]
+keywords: [漢字, 文章, 作品, フリガナ, 手順, 刺激, ライト, 続き, 世界観, 事実]
 recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-06-03-gao-wu-nai-yue/,
   /post/2008-10-10-luo-yu-bai-xuan-xia/]
 ---

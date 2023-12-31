@@ -4,7 +4,7 @@ description: この記事は、最近流行りのWork From Sentoで有名なRAKU
 date: '2018-06-19T09:06:01+09:00'
 categories: [life]
 authors: [aki]
-keywords: [セールスエンジニア, 仕事, 自分, 企業, 外資, コントリビュート, 違い, 日本, エンジニア, 英語]
+keywords: [セールスエンジニア, 自分, 仕事, 企業, 外資, コントリビュート, 違い, 日本, エンジニア, 英語]
 recommendations: [/post/2016-03-30-zhuan-zhi-simasita/, /post/2017-12-31_2017--------c4901627b12d/,
   /post/2015-12-30-2015nian-wozhen-rifan-tute/]
 ---
