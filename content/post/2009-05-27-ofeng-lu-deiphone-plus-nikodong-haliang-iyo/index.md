@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [zabady, ロック, iphone, stage, 風呂, 満喫, ニコニコ動画, 悩み, ところ, 交換]
+keywords: [zabady, ロック, iphone, stage, 風呂, 満喫, ニコニコ動画, ところ, 悩み, 交換]
 recommendations: [/post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
   /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/]
 ---

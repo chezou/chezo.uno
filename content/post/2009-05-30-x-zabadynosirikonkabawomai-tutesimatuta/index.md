@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [送料, 取り扱い, ドラクエ, zabady, '630', '4000', ポスト, 痛感, 次第, rockapella]
+keywords: [送料, 取り扱い, ドラクエ, zabady, '630', '4000', ポスト, 痛感, rockapella, 風呂]
 recommendations: [/post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/, /post/2008-01-18-souiebakokohawu-yu-burogudatuta/,
   /post/2008-07-16-rockapella-channel/]
 ---
