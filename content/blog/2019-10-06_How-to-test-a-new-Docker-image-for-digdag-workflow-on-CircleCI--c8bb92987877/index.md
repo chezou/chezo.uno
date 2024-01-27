@@ -7,10 +7,9 @@ categories: []
 authors: [aki]
 aliases: [/blog/how-to-test-a-new-Docker-image-for-digdag-workflow-on-circleci-c8bb92987877,
   /blog/c8bb92987877]
-keywords: [docker, run, workflow, image, machine, tmp, ll, container, existing, repo]
+keywords: [docker, run, workflow, image, tmp, ll, container, machine, existing, repo]
 recommendations: [/blog/2020-03-05_py-operator-development-guide-for-python-users/,
-  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
-  /blog/2017-08-02_how-to-run-cloudera-director-on-your-macos-windows-10-710f82aa1d63/]
+  /blog/2024-01-26_scrape-notion-to-pdf/, /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]
 ---
 
 {{< figure src="./0__Sj4niOaDd__W4bydD.jpg" title="Photo by [Campaign Creators](https://unsplash.com/@campaign_creators?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)" >}}

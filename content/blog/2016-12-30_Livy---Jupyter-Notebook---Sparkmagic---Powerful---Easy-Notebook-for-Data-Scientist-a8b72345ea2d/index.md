@@ -8,7 +8,7 @@ authors: [aki]
 aliases: [/blog/livy-jupyter-notebook-sparkmagic-powerful-easy-notebook-for-data-scientist-a8b72345ea2d,
   /blog/a8b72345ea2d]
 keywords: [spark, jupyter, notebook, local, client, server, multiple, job, cluster,
-  running]
+  sql]
 recommendations: [/blog/2017-03-26_sparkavro--manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0/,
   /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
   /blog/2022-05-05-sqllineage-with-digdag-log/]
