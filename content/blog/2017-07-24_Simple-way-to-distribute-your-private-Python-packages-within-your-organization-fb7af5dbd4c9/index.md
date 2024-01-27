@@ -7,7 +7,7 @@ categories: [python]
 authors: [aki]
 aliases: [/blog/simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9,
   /blog/fb7af5dbd4c9]
-keywords: [server, directory, packages, http, foo, _this, pip, option, package, repository]
+keywords: [server, directory, packages, http, foo, _this, pip, option, git, simple]
 recommendations: [/blog/2017-08-30_python-basics--package-management-462918458f96/,
   /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/, /blog/2022-05-21_fastest-way-to-release-python-cli/]
 ---
