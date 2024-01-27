@@ -50,9 +50,9 @@ bio:
   <p><a href="https://www.buymeacoffee.com/chezou" class="btn-bmc" target="_blank" rel="noopener"><i class="fa fa-coffee"></i>&nbsp;&nbsp;Gift a cup of Tea</a></p>
 ---
 
-Aki Ariga is a Machine Learning Engineer at Treasure Data. His interests include developing peroduction Machien Learning systems, Machine Learning products, and ML Ops. He aims to leverage Machine Learning powers and technologies for business and social good.
+Aki Ariga is a Machine Learning Engineer at Treasure Data. His interests include developing production Machine Learning systems, Machine Learning products, and ML Ops. He aims to leverage Machine Learning powers and technologies for business and social good.
 
-He lead several communities at Tokyo such as Machine Learning Casual Talks, kawasaki.rb, and he is also one of the organizers of "Working Group of Machine Learning systems and operations for productionization" in Special Interest Group on Machine Learning System Engineering.
+He leads several communities in Tokyo, such as Machine Learning Casual Talks, and Kawasaki.rb, and he was also one of the organizers of the "Working Group of Machine Learning Systems and Operations for Productionization" in the [Special Interest Group on Machine Learning System Engineering](https://sites.google.com/view/sig-mlse).
 
 - [Memorandom (in Japanese)](https://memo.chezo.uno)
 
