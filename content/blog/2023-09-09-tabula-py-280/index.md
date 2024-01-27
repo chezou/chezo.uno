@@ -4,7 +4,7 @@ subtitle: ''
 summary: ''
 authors: []
 tags: []
-categories: []
+categories: [python]
 date: 2023-09-09 17:13:08-07:00
 lastmod: 2023-09-09 17:13:08-07:00
 featured: false
