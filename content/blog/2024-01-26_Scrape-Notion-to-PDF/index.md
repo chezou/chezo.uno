@@ -48,7 +48,9 @@ Originally, I thought I had to prepare a Docker image, but I was aware it was no
 
 Currently, I scheduled the [GitHub Actions workflow](https://github.com/chezou/vangohan-pdf/blob/main/.github/workflows/selenium_action.yaml). It will update the PDFs on the repository automatically.
 
-https://github.com/chezou/vangohan-pdf/tree/main/results
+https://github.com/chezou/vangohan-pdf/tree/main/docs
+
+Edit: Now I use Cloudflare Pages to host the PDFs. You can check at https://vangohan.chezo.uno/.
 
 No Python environment on a local machine is needed anymore.
 
