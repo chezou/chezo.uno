@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [provide, japanese, originally, actions, github, script, repository, easy,
-  image, docker]
+keywords: [provide, japanese, pdfs, originally, actions, github, script, repository,
+  easy, image]
 recommendations: [/blog/2019-10-06_how-to-test-a-new-docker-image-for-digdag-workflow-on-circleci--c8bb92987877/,
   /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
   /blog/2017-08-30_python-basics--package-management-462918458f96/]
