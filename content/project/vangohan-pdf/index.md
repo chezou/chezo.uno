@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "tabula-py"
-summary: "Extract you tables in PDF into pandas DataFrame"
+title: "VanGohan PDF"
+summary: "Notion scraper to generate PDFs of VanGohan's printable recipes"
 authors: [aki]
-tags: [data, python, pandas, pdf, tabula]
-categories: ["OSS"]
-date: 2019-12-01T19:00:00+09:00
+tags: [python, notion, selenium]
+categories: [OSS]
+date: 2023-09-01T18:00:00-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://tabula-py.readthedocs.io/en/latest/"
+external_link: "https://github.com/chezou/vangohan-pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/chezou/tabula-py/"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
