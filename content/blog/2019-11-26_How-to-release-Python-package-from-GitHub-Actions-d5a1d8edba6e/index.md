@@ -7,8 +7,8 @@ categories: [Python]
 authors: [aki]
 aliases: [/blog/how-to-release-python-package-from-github-actions-d5a1d8edba6e/, /blog/d5a1d8edba6e/]
 keywords: [pypi, github, actions, token, api, workflow, python, testing, syntax, package]
-recommendations: [/blog/2022-05-21_fastest-way-to-release-python-cli/, /blog/2024-01-26_scrape-notion-to-pdf/,
-  /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/]
+recommendations: [/blog/2022-05-21_fastest-way-to-release-python-cli/, /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/,
+  /blog/2024-01-26_scrape-notion-to-pdf/]
 ---
 
 ![](./0__hOksODxf9TX1BkS0.jpg)
