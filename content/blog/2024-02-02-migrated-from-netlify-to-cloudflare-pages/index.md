@@ -1,31 +1,20 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Migrated From Netlify to Cloudflare Pages"
-subtitle: ""
-summary: ""
+title: Migrated From Netlify to Cloudflare Pages
+subtitle: ''
+summary: ''
 authors: []
 tags: []
 categories: []
-date: 2024-02-02T16:42:14-08:00
-lastmod: 2024-02-02T16:42:14-08:00
+date: 2024-02-02 16:42:14-08:00
+lastmod: 2024-02-02 16:42:14-08:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [pages, netlify, cloudflare, blog, insights, hugo, set, migration, font,
+  cache]
+recommendations: [/blog/2022-01-25_hugo-content-based-recommendation/, /blog/2024-01-26_scrape-notion-to-pdf/,
+  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]
 ---
 
 Netlify is a great service, but it is also known as slowness in Japan. I have been using Netlify for my blog hosting for a long time, but I decided to migrate to Cloudflare Pages to improve the speed of access to my blog from Japan.
