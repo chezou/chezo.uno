@@ -100,7 +100,7 @@ summaryLength = 40
 [[cascade]]
   share = true
   show_related = true
-  reading_time = true  
-  pager = true  
+  reading_time = true
+  pager = true
 [cascade._target]
   path = "/blog/**"
