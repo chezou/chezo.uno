@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [最初, 浮気, 描写, 終わり, 人間, こと, 納得, 作品, すべて, 構成]
+keywords: [最初, 浮気, 描写, 終わり, 人間, 納得, こと, 作品, すべて, 構成]
 recommendations: [/post/2008-10-10-tiisanatiisanawang-yang/, /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/,
   /post/2008-09-10-enzieruhato-27/]
 ---
