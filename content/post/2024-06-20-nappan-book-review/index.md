@@ -30,7 +30,7 @@ projects: []
 
 @nappan23 さんの「海外生活経験ゼロからカナダでソフトウェアエンジニアになった話〜英語勉強＆就活対策〜」を読みました。
 
-https://techbookfest.org/product/5keNij6GAFVNvZyNwUJQ72?productVariantID=bRRRzGuf8wc7HrTqnpLc1s&card=small
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://techbookfest.org/product/5keNij6GAFVNvZyNwUJQ72?productVariantID=bRRRzGuf8wc7HrTqnpLc1s&card=small" data-iframely-url="//iframely.net/iyP3Wvo?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
 この同人誌は、nappan23さんがカナダでソフトウェアエンジニアになるまでに、どういう取り組みをしてきたのか、という話が書かれています。
 
