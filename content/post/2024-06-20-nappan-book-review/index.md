@@ -1,31 +1,19 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "「海外生活経験ゼロからカナダでソフトウェアエンジニアになった話〜英語勉強＆就活対策〜」を読んだ"
-subtitle: ""
-summary: ""
+title: 「海外生活経験ゼロからカナダでソフトウェアエンジニアになった話〜英語勉強＆就活対策〜」を読んだ
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
-categories: ["book review"]
-date: 2024-06-20T16:46:46-07:00
-lastmod: 2024-06-20T16:46:46-07:00
+categories: [book review]
+date: 2024-06-20 16:46:46-07:00
+lastmod: 2024-06-20 16:46:46-07:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [ビザ, カナダ, 英語, 海外, 就職, 目次, 同人誌, 本文, tech, メッセージ]
+recommendations: [/post/2021-04-24-ml-at-work-2nd-edition/, /post/2021-12-18-8-months-after-relocating-vancouver/,
+  /post/2023-01-27-age++/]
 ---
 
 @nappan23 さんの「海外生活経験ゼロからカナダでソフトウェアエンジニアになった話〜英語勉強＆就活対策〜」を読みました。

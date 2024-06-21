@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [エージェント, コミュニティ, ingress, ポータル, 活動, レベル, darsana, 地域, cf, 今日]
+keywords: [エージェント, ingress, コミュニティ, ポータル, 活動, レベル, darsana, 地域, cf, 今日]
 recommendations: [/post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
   /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/, /post/2015-12-30-2015nian-wozhen-rifan-tute/]
 ---

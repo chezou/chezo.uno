@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [こと, 今年, 神奈川, 会議, mlct, 開催, いい, 言葉, rubyist, 仕事]
+keywords: [こと, 今年, 神奈川, 会議, mlct, 開催, 言葉, いい, rubyist, 仕事]
 recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
   /post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/]
 ---
