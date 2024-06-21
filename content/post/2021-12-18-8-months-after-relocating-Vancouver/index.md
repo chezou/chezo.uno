@@ -10,7 +10,7 @@ lastmod: 2021-12-04 14:50:35-08:00
 tags: []
 categories: [daily life]
 image: {caption: 秋の紅葉, focal_point: Top, preview_only: false}
-keywords: [vancouver, cad, 子供, 保険, br, bc, 今年, スーパー, 前後, カナダ]
+keywords: [vancouver, cad, 子供, 保険, br, bc, 今年, スーパー, 前後, 移住]
 recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2023-01-27-age++/,
   /post/2017-12-23_----------------------701333a45696/]
 ---
