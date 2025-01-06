@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ナビ, おもちゃ, hdd, やつ, 録音, 子供, 状態, cd, 新しい, うち]
+keywords: [ナビ, おもちゃ, hdd, やつ, 録音, 状態, 子供, cd, 新しい, うち]
 recommendations: [/post/2006-07-28-xia-nanode/, /post/2017-05-25_teach-what-i-dont-know/,
   /post/2009-05-12-konnitiha-iphone/]
 ---

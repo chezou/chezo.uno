@@ -5,8 +5,8 @@ date: '2017-07-30T11:45:33+09:00'
 categories: [book]
 authors: [aki]
 keywords: [アメリカ人, 中国, 日本人, 文化, 日本, こと, 相対的, 時間, 認識, 直線]
-recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/,
-  /post/2009-08-30-rent-burodouetuawojian-telai-ta/]
+recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2009-08-30-rent-burodouetuawojian-telai-ta/,
+  /post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/]
 ---
 
 ![](1_XqRaeeRpBtmUfBRcCPBVjw.png)

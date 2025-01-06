@@ -1,31 +1,19 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "2024年を振り返って"
-subtitle: ""
-summary: ""
+title: 2024年を振り返って
+subtitle: ''
+summary: ''
 authors: [aki]
 tags: []
 categories: [misc]
-date: 2024-12-31T16:34:12-08:00
-lastmod: 2025-01-05T16:34:12-08:00
+date: 2024-12-31 16:34:12-08:00
+lastmod: 2025-01-05 16:34:12-08:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [promotion, vancouver, コミュニケーション, 練習, 仕事, もの, ヨーロッパ, 技術的, 昨年, こと]
+recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2021-12-18-8-months-after-relocating-vancouver/,
+  /post/2016-03-30-zhuan-zhi-simasita/]
 ---
 
 2024年中はバタバタしていて書きそびれたので、2025年に書いています。

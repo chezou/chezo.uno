@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [スキー, 子供, 後半, 投稿, '30', 長期間, 滑り, パラレル, シーズン, whistler]
+keywords: [スキー, 子供, 後半, 投稿, '30', 長期間, パラレル, シーズン, whistler, hezou]
 recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2017-05-25_teach-what-i-dont-know/,
   /post/2022-12-30-2022-year-in-review/]
 ---

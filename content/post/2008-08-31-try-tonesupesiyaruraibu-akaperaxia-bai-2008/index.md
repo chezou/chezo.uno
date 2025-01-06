@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ライブハウス, 会場, 青木, メドレー, 男性, 友人, 方々, メンバー, 名前, 面々]
+keywords: [ライブハウス, 会場, 青木, メドレー, 男性, 方々, 友人, メンバー, 名前, 面々]
 recommendations: [/post/2010-09-11-press-start-2010xing-tutekita/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
-  /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/]
+  /post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/]
 ---
 
 渋谷にあるライブハウス「[多作](http://www.tasaku.com/)」にて行われたTRY-TONEのライブに行ってきました。

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [fantasies, symphonic, 演奏, ドイツ, クオリティ, 素晴らしい, tokyo, cd, paypal, garden]
+keywords: [fantasies, symphonic, 演奏, クオリティ, ドイツ, 素晴らしい, tokyo, cd, paypal, garden]
 recommendations: [/post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2009-07-05-guan-dong-hagame-musichoihoida/,
   /post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/]
 ---

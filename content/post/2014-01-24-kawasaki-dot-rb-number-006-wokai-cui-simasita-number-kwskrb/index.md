@@ -11,7 +11,7 @@ tags: []
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 categories: [ruby]
-keywords: [プロジェクター, ライブラリ, 機械学習, テスト自動化, ruby, 現地, 数値計算, 予約, 科学, 余談]
+keywords: [プロジェクター, ライブラリ, 機械学習, ruby, テスト自動化, 現地, 数値計算, 予約, 科学, 余談]
 recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/,
   /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/]
 ---
