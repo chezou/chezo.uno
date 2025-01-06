@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [post, バンクーバー, 活動, hezou, cms, podcast, netlify, チーム, 副業, キャリア]
 recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2021-12-31-2021-year-review/,
-  /post/2023-04-05-first-time-skiing-in-25-years/]
+  /post/2024-12-31-2024-year-in-review/]
 ---
 
 [去年](https://chezo.uno/post/2021-12-31-2021-year-review/)に引き続き、2022年の振り返りです。
