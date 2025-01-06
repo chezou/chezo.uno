@@ -12,7 +12,7 @@ draft: false
 image: {caption: 'https://chezo.uno/post/2021-04-24-ml-at-work-2nd-edition/ へのレコメンドの例',
   focal_point: Smart, preview_only: false}
 projects: []
-keywords: [レコメンド, 記事, 関連, cli, キーワード, hugo, matter, content, 自分, yaml]
+keywords: [レコメンド, 記事, 関連, cli, キーワード, hugo, matter, content, actions, 自分]
 recommendations: [/post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/,
   /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
   /post/2019-03-29_ngekkan-lambda-note-article/]

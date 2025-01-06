@@ -7,7 +7,7 @@ authors: [aki]
 aliases: [/post/2018-04-17_-PyPI-Markdown-14e40d90ff3f/]
 keywords: [pip, wheel, long, description, upgrade, content, py, version, setup, markdown]
 recommendations: [/post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/,
-  /post/2015-06-06-pip-install-kyteadekiruyouninarimasita/, /post/2017-08-26_python------------------dc8d8f2fe989/]
+  /post/2017-08-26_python------------------dc8d8f2fe989/, /post/2015-06-06-pip-install-kyteadekiruyouninarimasita/]
 ---
 
 長い間、Pythonでパッケージを作った場合、構造化されたドキュメントを使う場合は、[reStructuredText](http://www.sphinx-doc.org/ja/master/usage/restructuredtext/basics.html) (reST)でドキュメントを書く必要がありました。
