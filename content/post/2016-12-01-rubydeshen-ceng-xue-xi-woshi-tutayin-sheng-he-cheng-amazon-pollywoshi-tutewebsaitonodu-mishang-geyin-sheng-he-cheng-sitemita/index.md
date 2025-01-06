@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [音声, amazon, 英語, dl, aws, api, 話題, 追記, .com, 記事]
 recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
-  /post/2017-01-01-fei-ying-yu-neiteibunitotutenoossnomentenansukosuto/]
+  /post/2022-01-25-hugo-content-based-recommendation/]
 ---
 
 ![](20161201230818.png)

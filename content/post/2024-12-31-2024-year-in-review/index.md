@@ -5,8 +5,8 @@ summary: ''
 authors: [aki]
 tags: []
 categories: [misc]
-date: 2024-12-31T16:34:12-08:00
-lastmod: 2024-12-31T16:34:12-08:00
+date: 2024-12-31 16:34:12-08:00
+lastmod: 2024-12-31 16:34:12-08:00
 featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
