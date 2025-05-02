@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [音楽, 面白い, 違和感, 曲線, 専門家, ターゲット, 仕方ない, 実験, 講談社, 数学]
+keywords: [音楽, 面白い, 違和感, 曲線, 専門家, ターゲット, 仕方ない, 講談社, 実験, 数学]
 recommendations: [/post/2008-07-06-nodamekantabire18-20/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/,
   /post/2008-10-10-tiisanatiisanawang-yang/]
 ---

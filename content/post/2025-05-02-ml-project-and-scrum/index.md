@@ -1,31 +1,19 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "機械学習プロジェクトとスクラム"
-subtitle: "スクラムは機械学習プロジェクトに向いているのか？"
-summary: ""
+title: 機械学習プロジェクトとスクラム
+subtitle: スクラムは機械学習プロジェクトに向いているのか？
+summary: ''
 authors: [aki]
 tags: [machine-learning, project-management]
 categories: []
-date: 2025-05-02T13:43:50-07:00
-lastmod: 2025-05-02T13:43:50-07:00
+date: 2025-05-02 13:43:50-07:00
+lastmod: 2025-05-02 13:43:50-07:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [タスク, プロジェクト, 価値, hypothesis, ml, フェーズ, product, ビジネス, time, 週間]
+recommendations: [/post/2019-12-24-python-custom-scripting/, /post/2018-10-25_risecamp------ee65c2ef0c9e/,
+  /post/2018-05-17_mlse-kickoff/]
 ---
 
 機械学習プロジェクトをいくつかこなしてきたが、直感的にはスクラムが機械学習に向いていなさそうというのを思っていた。が、社内で議論をしたときに「Technical Storyを使えばタスクを2週間に収まるように分割できるはず。そして、それをすれば2週間で価値がでるはず」と言われて、ちゃんと反論ができなかったので世の中ではどういう取り組みがあるのかも含めて、言語化するためにこの記事を書いている。

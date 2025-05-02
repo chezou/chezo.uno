@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [レポート, 統計, ブログ, '2011', コンサートホール, 概要, コンサート, wordpress, 年間, 去年]
 recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
-  /post/2008-07-30-narutaru/]
+  /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/]
 ---
 あけましておめでとうございます。  
 去年のブログの統計を出してくれるんですね。

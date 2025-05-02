@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [cloudflare, pages, netlify, blog, insights, hugo, settings, set, migration,
+keywords: [cloudflare, pages, netlify, blog, hugo, settings, insights, set, migration,
   font]
 recommendations: [/blog/2022-01-25_hugo-content-based-recommendation/, /blog/2024-01-26_scrape-notion-to-pdf/,
   /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]

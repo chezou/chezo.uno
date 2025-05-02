@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [仕方, 女の子, 約束, 周辺, 付け, 後ろ, グループ, '18', blog, 先日]
+keywords: [仕方, 女の子, 約束, 周辺, 後ろ, 付け, グループ, '18', blog, 先日]
 recommendations: [/post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2008-07-07-the-real-group-real-christmas-commonly-unique/,
   /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
 ---

@@ -7,10 +7,9 @@ categories: []
 authors: [aki]
 aliases: [/blog/text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb,
   /blog/adc1923212cb]
-keywords: [amazon, english, aws, languages, following, cli, api, article, articles,
-  services]
+keywords: [amazon, english, aws, text, sounds, languages, following, cli, api, articles]
 recommendations: [/blog/2022-01-25_hugo-content-based-recommendation/, /blog/2017-05-02_an-easy-way-to-get-url-list-of-your-medium-publication-c60c61244101/,
-  /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/]
+  /blog/2025-05-02-ml-project-and-scrum/]
 ---
 
 Amazon Polly, Text-to-speech service from AWS was announced at today ‘s re:Invent. Amazon Polly is speech synthesize system based on deep learning.

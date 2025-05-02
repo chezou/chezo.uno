@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [進行, マイナー, メジャー, コード, 投稿者, knows, 感心, メロディ, サウンド, なじみ]
+keywords: [マイナー, 進行, メジャー, コード, 投稿者, knows, 感心, メロディ, サウンド, なじみ]
 recommendations: [/post/2008-07-05-rajaton/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
   /post/2010-11-13-ye-novuenetuia/]
 ---

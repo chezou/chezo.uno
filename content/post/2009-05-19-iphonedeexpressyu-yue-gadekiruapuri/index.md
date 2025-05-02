@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [変更, pc, 手抜き, zero, ブックマークレット, 遅延, 予約, とき, なか, 携帯]
+keywords: [変更, pc, 手抜き, zero, ブックマークレット, 遅延, 予約, なか, とき, 携帯]
 recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2022-12-16-bump-wowchemy-v570/,
   /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/]
 ---

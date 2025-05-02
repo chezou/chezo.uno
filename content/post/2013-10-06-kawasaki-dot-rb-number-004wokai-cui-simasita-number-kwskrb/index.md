@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 categories: [ruby]
 keywords: [websocket, lt, tokuda, morph, sinatra, 形態素解析, kytea, minori, 通信, リアルタイム]
 recommendations: [/post/2012-11-10-websocketwoshi-tuteriarutaimunixing-tai-su-jie-xi-wosurumorph-websocketwozuo-tutemita/,
-  /post/2014-04-26-kawasaki-dot-rb-number-011-wokai-cui-simasita-number-kwskrb/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/]
+  /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/, /post/2014-04-26-kawasaki-dot-rb-number-011-wokai-cui-simasita-number-kwskrb/]
 ---
 9/25(水)にKawsaki.rbの第4回ミートアップを行いました。  
 今回は偶数回なので、居酒屋LTの回でした。

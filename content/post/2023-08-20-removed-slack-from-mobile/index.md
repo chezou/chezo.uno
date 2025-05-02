@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [通知, 会社, 仕事, モード, slack, スマホ, 対応, とき, こと, ない]
+keywords: [通知, 会社, モード, 仕事, slack, スマホ, 対応, とき, こと, ない]
 recommendations: [/post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
   /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
   /post/2018-06-19_goodbye-cloudera/]

@@ -11,7 +11,7 @@ tags: []
 categories: [digdag, lineage, sql]
 projects: []
 image: {caption: sqllineage で Treasure Workflow のリネージを出してみた例, focal_point: '', preview_only: false}
-keywords: [sql, 可視化, td, sqllineage, 実装, digdag, データ, python, レベル, 流れ]
+keywords: [sql, 可視化, td, sqllineage, 実装, digdag, データ, python, レベル, 実行]
 recommendations: [/post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
   /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
   /post/2019-12-24-python-custom-scripting/]

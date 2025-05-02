@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [来日, 日本, サイト, 祈り, 地震, あたたかい, sure, special, point, message]
+keywords: [来日, 日本, サイト, 祈り, 地震, あたたかい, special, message, knows, sure]
 recommendations: [/post/2009-12-13-hutagozuo-liu-xing-qun-hajin-wan-kara-14ri-am2shi-gapiku/,
   /post/2009-08-12-masa-festazhong-zhi/, /post/2009-03-03-sok-bao-masa-festa/]
 ---

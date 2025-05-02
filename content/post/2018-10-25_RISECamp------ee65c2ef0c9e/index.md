@@ -5,7 +5,7 @@ date: '2018-10-25T08:01:02+09:00'
 categories: []
 authors: [aki]
 aliases: [/post/2018-10-25_RISECamp-ee65c2ef0c9e/]
-keywords: [処理, ライブラリ, ため, 実験, モデル, python, デプロイ, ml, jpeg, フレームワーク]
+keywords: [処理, ライブラリ, ため, 実験, モデル, python, jpeg, デプロイ, ml, フレームワーク]
 recommendations: [/post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
   /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/]
 ---

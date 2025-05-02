@@ -13,7 +13,7 @@ image: {caption: 'Recommendation example of https://chezo.uno/blog/2017-07-24_si
   focal_point: Smart, preview_only: false}
 projects: []
 keywords: [articles, blog, recommendation, hugo, cli, content, based, write, post,
-  writing]
+  recommended]
 recommendations: [/blog/2017-05-02_an-easy-way-to-get-url-list-of-your-medium-publication-c60c61244101/,
   /blog/2024-02-02-migrated-from-netlify-to-cloudflare-pages/, /blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/]
 ---

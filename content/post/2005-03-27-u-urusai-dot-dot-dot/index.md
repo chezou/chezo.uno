@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [cpu, ファン, ケース, '320', もん, 整理, 原因, ケーブル, 起動, 現在]
+keywords: [cpu, ファン, ケース, '320', もん, 原因, 整理, ケーブル, 起動, 現在]
 recommendations: [/post/2019-03-10_business-trip-goods/, /post/2009-04-26-tiyanneruhasonomama-vol-dot-1/,
   /post/2006-03-17-uhi/]
 ---

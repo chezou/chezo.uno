@@ -4,7 +4,7 @@ description: 人工知能学会（以下JSAI）で発表された論文が、Pix
 date: '2017-05-26T11:17:16+09:00'
 categories: [data]
 authors: [aki]
-keywords: [データ, 公開, 企業, 提供, ユーザ, 論文, コンテンツ, 研究者, 学術, 研究]
+keywords: [データ, 公開, 企業, ユーザ, 提供, 論文, コンテンツ, 研究者, 学術, こと]
 recommendations: [/post/2017-08-03_oss--------------48807bbbf13f/, /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
   /post/2019-03-29_ngekkan-lambda-note-article/]
 ---
