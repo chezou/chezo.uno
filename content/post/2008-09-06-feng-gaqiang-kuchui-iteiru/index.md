@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [スポーツ, ゴール, 物語, 新潮社, 共感, 伏線, キャラクター, 運動, 通勤, トレーニング]
+keywords: [スポーツ, 物語, 新潮社, 共感, 伏線, ゴール, キャラクター, 運動, 通勤, トレーニング]
 recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
   /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/]
 ---

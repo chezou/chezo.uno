@@ -1,31 +1,19 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Machine Learning Project and Scrum"
-subtitle: "Is Scrum Suitable for Machine Learning Projects?"
-summary: ""
+title: Machine Learning Project and Scrum
+subtitle: Is Scrum Suitable for Machine Learning Projects?
+summary: ''
 authors: [aki]
 tags: [machine-learning, project-management]
 categories: []
-date: 2025-05-02T15:49:17-07:00
-lastmod: 2025-05-02T15:49:17-07:00
+date: 2025-05-02 15:49:17-07:00
+lastmod: 2025-05-02 15:49:17-07:00
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
+keywords: [tasks, ml, projects, model, research, time, business, task, weeks, product]
+recommendations: [/blog/2019-06-04_the-first-conference-of-operational-machine-learning--opml--19-308baad36108/,
+  /blog/2017-08-03_why-oss-based-machine-learning-is-good--3ab45a1a5e52/, /blog/2020-03-05_py-operator-development-guide-for-python-users/]
 ---
 
 I've worked on several machine learning projects, and intuitively, I've felt that Scrum doesn't seem well-suited for machine learning. However, during an internal discussion, a colleague said, "If we use Technical Stories, we should be able to break down tasks to fit within two weeks for any tasks. And if we do that, we should be able to deliver value in two weeks for ML products." I couldn't properly counter this, so I'm writing this article to articulate my thoughts, including how others in the world are approaching this.

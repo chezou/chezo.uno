@@ -13,8 +13,8 @@ categories: [Python, TreasureData]
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 keywords: [treasure, workflow, 開発, タスク, digdag, イメージ, data, python, docker, 公式]
-recommendations: [/post/2019-12-04-r-and-td/, /post/2022-05-05-sqllineage-with-digdag-log/,
-  /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/]
+recommendations: [/post/2019-12-04-r-and-td/, /post/2025-05-02-ml-project-and-scrum/,
+  /post/2022-05-05-sqllineage-with-digdag-log/]
 ---
 
 {{< toc >}}

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [クレジットカード, 管理, ソフト, 確認, 履歴, japan, 仕様, 家計簿, モバイルsuica, こと]
+keywords: [クレジットカード, 管理, ソフト, 履歴, 確認, japan, 仕様, 家計簿, モバイルsuica, こと]
 recommendations: [/post/2005-04-23-willcom/, /post/2015-05-21-googledoraibuyakarendanogong-you-quan-xian-woguan-li-surunihagoogle-groupsgabian-li/,
   /post/2014-04-03-tokyurubyhui-yi-07deltsitekimasita-number-tqrk07/]
 ---

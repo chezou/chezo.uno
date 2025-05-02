@@ -6,10 +6,10 @@ categories: [machine_learning, OSS]
 authors: [aki]
 aliases: [/blog/why-oss-based-machine-learning-is-good-3ab45a1a5e52, /blog/3ab45a1a5e52,
   /blog/2017-08-03_Why-OSS-based-machine-learning-is-good-3ab45a1a5e52/]
-keywords: [learning, machine, deep, algorithms, open, implementation, research, performance,
-  companies, source]
+keywords: [learning, machine, deep, algorithms, open, implementation, algorithm, research,
+  performance, companies]
 recommendations: [/blog/2019-06-04_the-first-conference-of-operational-machine-learning--opml--19-308baad36108/,
-  /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/, /blog/2017-08-30_python-basics--package-management-462918458f96/]
+  /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/, /blog/2025-05-02-ml-project-and-scrum/]
 ---
 
 

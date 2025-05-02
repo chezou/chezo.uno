@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [仕事, promotion, vancouver, コミュニケーション, 練習, もの, ヨーロッパ, 技術的, 昨年, こと]
+keywords: [仕事, promotion, vancouver, 練習, コミュニケーション, もの, ヨーロッパ, 技術的, 昨年, こと]
 recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2021-12-18-8-months-after-relocating-vancouver/,
   /post/2016-03-30-zhuan-zhi-simasita/]
 ---

@@ -6,9 +6,10 @@ date: '2017-02-11T14:14:44+09:00'
 categories: []
 authors: [aki]
 aliases: [/blog/visualize-your-massive-data-with-impala-and-redash-afe31133c644, /blog/afe31133c644]
-keywords: [impala, data, set, query, database, visualize, default, port, add, sql]
+keywords: [impala, data, set, query, database, visualize, default, port, sql, add]
 recommendations: [/blog/2017-03-26_how-to-connect-secure-impala-cluster-from-rstudio-on-macos-with-implyr-213c6536e4c7/,
-  /blog/2022-05-05-sqllineage-with-digdag-log/, /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/]
+  /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
+  /blog/2022-05-05-sqllineage-with-digdag-log/]
 ---
 
 [Redash](https://redash.io/) is a famous OSS visualization tool, which enables to visualize your data with SQL. It supports [Apache Impala (incubating)](http://impala.apache.org/), fast SQL-on-Hadoop suitable for BI tools and exploratory analysis. With Impala, you can [query SQLs to tables on Amazon S3](http://blog.cloudera.com/blog/2016/08/analytics-and-bi-on-amazon-s3-with-apache-impala-incubating/).

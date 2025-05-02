@@ -4,7 +4,7 @@ description: 技術書典2で好評だった技術書供養寺の薄い本が、
 date: '2017-10-20T03:19:18+09:00'
 categories: [publish, book, writing]
 authors: [aki]
-keywords: [機械学習, システム, modeling, 学習, 予測, テスト, 推薦, まとめ, バッチ処理, 検定]
+keywords: [機械学習, システム, modeling, 学習, 予測, テスト, 推薦, バッチ処理, まとめ, 検定]
 recommendations: [/post/2018-05-17_mlse-kickoff/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/,
   /post/2021-04-24-ml-at-work-2nd-edition/]
 ---

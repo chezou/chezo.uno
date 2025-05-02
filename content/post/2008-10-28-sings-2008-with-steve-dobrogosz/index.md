@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ピアノ, dobrogosz, 明るく, 言葉, sings, 演奏会, 会場, 演奏, 素晴らしかっ, 場面]
+keywords: [ピアノ, dobrogosz, 明るく, sings, 言葉, 演奏会, 会場, 演奏, 素晴らしかっ, 場面]
 recommendations: [/post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/,
   /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/]
 ---

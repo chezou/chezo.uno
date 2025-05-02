@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [slack, hangout, ingress, チャット, コミュニティ, チャンネル, ため, アプリ, 参加, チーム]
+keywords: [slack, hangout, ingress, チャット, コミュニティ, チャンネル, ため, アプリ, 参加, こと]
 recommendations: [/post/2014-12-15-number-ingress-dehurutaimunopuroezientotochu-hui-tutahua/,
   /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
   /post/2023-08-20-removed-slack-from-mobile/]

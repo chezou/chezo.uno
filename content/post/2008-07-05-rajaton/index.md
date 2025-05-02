@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [rajaton, アカペラ, 盆休み, 小難しい, うらやましい, 進行, 系統, メロディー, 韓国, 祭り]
+keywords: [rajaton, アカペラ, 盆休み, 小難しい, うらやましい, 系統, メロディー, 韓国, 進行, 祭り]
 recommendations: [/post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/, /post/2009-08-12-masa-festazhong-zhi/,
   /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/]
 ---

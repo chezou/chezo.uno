@@ -12,7 +12,7 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 keywords: [モデル, リネージ, 討論会, 議論, discord, oss, 夏合宿, wg, 学習, 機械学習]
 recommendations: [/post/2022-07-15-finished-mlse-infra-wg/, /post/2018-05-17_mlse-kickoff/,
-  /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/]
+  /post/2020-11-10-mlse-conference/]
 ---
 
 [@masaru_dobashi](https://twitter.com/masaru_dobashi)さんとMLSEの夏合宿で、本番適用のためのインフラと運用WGの討論会を開催しました。

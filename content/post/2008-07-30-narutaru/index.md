@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [復旧, 同名, 鬼頭, 莫宏, 原作, ぼくらの, レポート, アニメ, お勧め, 講談社]
+keywords: [復旧, 同名, 鬼頭, 莫宏, 原作, ぼくらの, アニメ, レポート, お勧め, 講談社]
 recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-06-22-bokurano-alternative/,
   /post/2008-07-06-nodamekantabire18-20/]
 ---

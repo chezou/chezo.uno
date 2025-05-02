@@ -11,7 +11,7 @@ tags: []
 categories: null
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
-keywords: [マーク, ロック, バンド, 低い, 映画, 日程, 思い, 日本人, 感謝, 幸せ]
+keywords: [マーク, ロック, バンド, 映画, 日程, 低い, 思い, 日本人, 感謝, 幸せ]
 recommendations: [/post/2017-07-30_culture-map/, /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/,
   /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
 ---
