@@ -166,8 +166,7 @@ storyの例も併せて紹介しておこう。
 
 ## 余談: MLプロジェクトでProduct Ownerは何をするのか
 
-余談ではあるが、Product Ownerがチケットを作らないのであれば何をするのか、ということについて詳しく書かれた章がある。(5.6 The Product Owner Role
-)[https://edwinth.github.io/ADSwR/a-methodology-for-agile-data-science.html#the-product-owner-role]
+余談ではあるが、Product Ownerがチケットを作らないのであれば何をするのか、ということについて詳しく書かれた章がある。(5.6 The Product Owner Role)[https://edwinth.github.io/ADSwR/a-methodology-for-agile-data-science.html#the-product-owner-role]
 
 まとめると
 
