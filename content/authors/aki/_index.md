@@ -47,9 +47,9 @@ authors:
 bio:
   Interested in Machine Learning, ML Ops, and Data driven business.
   If you like my blog post, I'm glad if you can buy me a tea 😉
-  <p><a href="https://www.buymeacoffee.com/chezou" class="btn-bmc" target="_blank" rel="noopener"><i class="fa fa-coffee"></i>&nbsp;&nbsp;Gift a cup of Tea</a></p>
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chezou" data-color="#5F7FFF" data-emoji="🍵"  data-font="Cookie" data-text="Buy me a tea" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 ---
 
 Aki Ariga is a Vancouver based Principal Software Engineer at Treasure Data. His interests include developing production Machine Learning systems, Machine Learning products, and ML Ops. He aims to leverage Machine Learning powers and technologies for business and social good.
 
-He leads several communities in Tokyo, such as Machine Learning Casual Talks, and Kawasaki.rb, and he was also one of the organizers of the "Working Group of Machine Learning Systems and Operations for Productionization" in the [Special Interest Group on Machine Learning System Engineering](https://sites.google.com/view/sig-mlse).
+He led several tech communities in Tokyo, such as Machine Learning Casual Talks, and Kawasaki.rb, and he was also one of the organizers of the "Working Group of Machine Learning Systems and Operations for Productionization" in the [Special Interest Group on Machine Learning System Engineering](https://sites.google.com/view/sig-mlse).
