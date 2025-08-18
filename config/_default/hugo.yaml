@@ -1,0 +1,87 @@
+title: Democratizing Data
+baseURL: https://chezo.uno/
+copyright: "&copy; Aki Ariga 2017-{year}"
+
+cascade:
+  - share: true
+    show_related: true
+    reading_time: true
+    show_date_updated: true
+    pager: true
+    _target:
+      path: /post/**
+      kind: page
+  - share: true
+    show_related: true
+    reading_time: true
+    show_date_updated: true
+    pager: true
+    _target:
+      path: /blog/**
+      kind: page
+
+
+enableGitInfo: false
+defaultContentLanguage: en
+hasCJKLanguage: true
+defaultContentLanguageInSubdir: false
+removePathAccents: true
+pagination.pagerSize: 10
+enableEmoji: true
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles:
+  - \.ipynb$
+  - .ipynb_checkpoints$
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _files$
+  - _cache$
+disableAliases: false
+enableRobotsTXT: true
+timeout: 600000
+summaryLength: 40
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+    - WebAppManifest
+    - redirects
+  section:
+    - HTML
+    - RSS
+mediaTypes:
+  application/manifest+json:
+    suffixes:
+      - webmanifest
+outputFormats:
+  WebAppManifest:
+    mediaType: application/manifest+json
+    rel: manifest
+imaging:
+  resampleFilter: lanczos
+  quality: 75
+  anchor: smart
+taxonomies:
+  tag: tags
+  category: categories
+  publication_type: publication_types
+  author: authors
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  _merge: deep
+permalinks:
+  authors: /author/:slug/
+  tags: /tags/:slug/
+  categories: /categories/:slug/
+  publication_types: /publication-type/:slug/
+params:
+  mainSections:
+    - post
+    - blog
+security:
+  _merge: deep
+sitemap:
+  _merge: deep

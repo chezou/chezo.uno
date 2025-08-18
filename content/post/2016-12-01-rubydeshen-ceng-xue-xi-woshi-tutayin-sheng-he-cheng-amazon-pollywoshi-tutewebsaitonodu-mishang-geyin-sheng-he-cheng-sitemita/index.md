@@ -28,9 +28,9 @@ recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2016-12-21
 
 PollyがDLベースという話は [https://aws.amazon.com/jp/polly/](https://aws.amazon.com/jp/polly/) に、"Polly is an Amazon AI service that uses advanced deep learning technologies to synthesize speech that sounds like a human voice. "と書かれていますが、DNNを一部のモジュールとして使っている波形接続型じゃないの？とのことです。なので、「DLを使った」という表現に修正しました。
 
-{{< tweet user="heiga_zen" id="804202482780008448" >}}
+{{< x user="heiga_zen" id="804202482780008448" >}}
 
-{{< tweet user="heiga_zen" id="804503598675750913" >}}
+{{< x user="heiga_zen" id="804503598675750913" >}}
 
 なので、[DeepMindのWaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)のように音声を直接生成しているわけではなさそうです。
 

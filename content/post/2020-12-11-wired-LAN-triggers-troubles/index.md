@@ -37,7 +37,7 @@ recommendations: [/post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-w
 
 例によって全面的なWFHが2月から始まって、テレカンをする機会が激増した。すると、なんか無線LANが遅いことに気づいた。OrbiはIIJmioひかりが使っているDS-Liteこそ対応してないが、[IPoEオプション](https://www.iijmio.jp/campaign/imh/monthly202001.html#features02)をオンにしてみるもまだ遅い。色々と切り分けてみると、Orbiの設置場所を変えたときにNTTの終端装置とOrbi間のLANケーブルを変更したのだが、その時に古いケーブルを指したらCat 5eでも有線LANの速度が全然出ていなかった。ケーブルって劣化するんだ...。
 
-{{< tweet user="chezou" id="1237361575704416256" >}}
+{{< x user="chezou" id="1237361575704416256" >}}
 
 それでも、どうも夕方特定の時間帯のテレカンが途中で途切れる減少に気づいた。あと、ちょいちょい深夜にサテライトがピンクの光を発して落ちている（のをSynologyのNASの疎通確認が落ちたメールで気づいた）。
 
@@ -47,7 +47,7 @@ recommendations: [/post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-w
 
 [UniFiで自宅に巨大スタジアム並のエンタープライズWiFi環境を整えた | Moratorium](https://www.kzk9.net/post/202008_unifi/)
 
-{{< tweet user="kzk_mover" id="1296278399325880321" >}}
+{{< x user="kzk_mover" id="1296278399325880321" >}}
 
 ## 有線LAN工事をする
 
@@ -71,7 +71,7 @@ TVのアンテナはないのにアンテナ線だけ張り巡らされていた
 
 工事の結果こうなった。めでたしめでたし、かに思えたが...。
 
-{{< tweet user="chezou" id="1299297109879877633" >}}
+{{< x user="chezou" id="1299297109879877633" >}}
 
 
 ## 不安定な有線バックホールとの戦い
@@ -88,7 +88,7 @@ NETGEARのサポートに問い合わせても、Orbi一式を初期化してく
 
 そうした時にMLSEのオンラインカンファレンス配信担当をする日の朝に事件が起きた。
 
-{{< tweet user="chezou" id="1324525465210560512" >}}
+{{< x user="chezou" id="1324525465210560512" >}}
 
 
 もう耐えかねて、有線バックホールなのになぜ死ぬ、と思いながら1階のOrbiに有線でぶら下がっている端末を全部物理のHUBに切り替えて、Orbi自体の有線バックホールを使わないようにした。
@@ -129,7 +129,7 @@ NETGEARのサポートに問い合わせても、Orbi一式を初期化してく
 
 最後に、友人からのありがたい言葉を貼っておく。
 
-{{< tweet user="kmizumar" id="1329227962789498881" >}}
+{{< x user="kmizumar" id="1329227962789498881" >}}
 
 明日はねじです。
 
