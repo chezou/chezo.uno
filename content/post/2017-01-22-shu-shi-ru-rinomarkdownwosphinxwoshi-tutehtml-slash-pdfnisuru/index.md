@@ -71,7 +71,7 @@ This formula `$ y=\sum_{i=1}^n g(x_i) $`
 
 [追記]
 
-{{< tweet user="r_rudi" id="823117959572832257" >}}
+{{< x user="r_rudi" id="823117959572832257" >}}
 
 conf.pyに`math_number_all = True`を足せば数式がでました。ですが、参照はできないと思うので参照が必要な場合はreSTで書く必要があると思います。
 
