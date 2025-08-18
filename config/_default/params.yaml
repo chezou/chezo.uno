@@ -1,0 +1,94 @@
+amazonJpAffiliate: chezou-22
+logo: ""
+sharing_image: ""
+reading_time: true
+sharing: true
+link_authors: true
+plugins_js: []
+show_related:
+  page: false
+  post: true
+  project: false
+  publication: false
+  talk: false
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ""
+    org_name: ""
+    description: Leverage data for your life
+  analytics:
+    google_analytics: G-FWV6PBXHBT
+    google_tag_manager: ""
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+footer:
+  copyright:
+    notice: "&copy; Aki Ariga 2017-{year}"
+locale:
+  date_format: 2006-01-02
+  time_format: 15:04
+  address_format: en-us
+features:
+  repository:
+    url: https://github.com/chezou/chezo.uno
+    content_dir: content
+    branch: master
+  avatar:
+    shape: circle
+  syntax_highlighter:
+    enable: true
+    theme_light: github-light
+    theme_dark: github-dark
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: true
+  comments:
+    provider: ""
+    commentable:
+      page: true
+      post: true
+      docs: true
+      project: true
+      publication: true
+      talk: true
+    disqus:
+      shortname: ""
+      show_count: true
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ""
+      api_key: ""
+      index_name: ""
+      show_logo: true
+  map:
+    provider: ""
+    api_key: ""
+    zoom: 15
+publications:
+  date_format: 2006-01-02
+  citation_style: apa
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 2
+extensions:
+  academicons:
+    enable: true
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L

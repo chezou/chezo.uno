@@ -23,7 +23,7 @@ recommendations: [/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-numb
 
 二人に焼肉LTをしてもらいました！焼肉LTの様子はこんなかんじでした。
 
-{{< tweet user="gotoken" id="360018779784237056" >}}
+{{< x user="gotoken" id="360018779784237056" >}}
 
 
 ## [@yumu19](http://twitter.com/yumu19)さん「Capistrano紹介」
