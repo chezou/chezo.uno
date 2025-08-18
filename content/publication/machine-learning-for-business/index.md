@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "仕事ではじめる機械学習 (Machine Learning for Business)"
+title: "仕事ではじめる機械学習 (Machine Learning at Work)"
 authors: [aki, "Shinta Nakayama", "Takashi Nishibayashi"]
 date: 2017-10-01T00:00:00+09:00
 doi: ""
