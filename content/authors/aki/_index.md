@@ -5,41 +5,27 @@ interests:
   - Machine Learning
   - MLOps
   - Natural Language Processing
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:aki@chezo.uno
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.social/@chezou
-    display:
-      header: true
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=mWyeNrwAAAAJ&hl=ja
-    display:
-      header: true
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/chezou
-    display:
-      header: true
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/aki-ariga/
-    display:
-      header: true
+profiles:
+  - icon: at-symbol
+    url: mailto:aki@chezo.uno
+  - icon: brands/mastodon
+    url: https://mastodon.social/@chezou
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=mWyeNrwAAAAJ&hl=ja
+  - icon: brands/github
+    url: https://github.com/chezou
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/aki-ariga/
 organizations:
   - name: Treasure Data
     url: https://treasuredata.com
 education:
-  courses:
-    - course: MEng in Electrical Engineering and Computer Science
-      institution: Nagoya University
-      year: 2008
-    - course: BSc in Electrical Engineering and Computer Science
-      institution: Nagoyua University
-      year: 2006
+  - area:  MEng in Electrical Engineering and Computer Science
+    institution: Nagoya University
+    year: 2008
+  - area: BSc in Electrical Engineering and Computer Science
+    institution: Nagoyua University
+    year: 2006
 email: aki@chezo.uno
 superuser: true
 authors:
