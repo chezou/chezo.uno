@@ -25,7 +25,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: top_cover.jpeg
+          filename: top_cover.webp
           filters:
             brightness: 0.3
           size: cover
