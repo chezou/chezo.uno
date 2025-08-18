@@ -19,18 +19,18 @@ sections:
       button:
         text: Download CV
         url: aki_ariga_cv.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: top_cover.webp
-          filters:
-            brightness: 0.3
-          size: cover
-          position: center
-          parallax: false
+    # design:
+    #   css_class: dark
+    #   background:
+    #     color: black
+    #     image:
+    #       # Add your image background to `assets/media/`.
+    #       filename: top_cover.webp
+    #       filters:
+    #         brightness: 0.3
+    #       size: cover
+    #       position: center
+    #       parallax: false
   - block: markdown
     content:
       title: "Hello, I'm Aki👋"
