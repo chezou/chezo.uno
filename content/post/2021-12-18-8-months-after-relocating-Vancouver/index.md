@@ -55,10 +55,10 @@ https://takuti.me/note/2021-bcat-best-brewery-experience-award/
 また、BC州では酒屋じゃないとアルコール飲料が買えないこともあり、ノンアルコールビールもよく売っています。
 basukeさんがお勧めしてるノンアルコールビールAthletic Brewingも Amazon.ca で買えるし、クラフトビールのノンアルコールビールもあります。
 
-{{< tweet user="chezou" id="1380713960224120835" >}}
-{{< tweet user="chezou" id="1409376181678338048" >}}
-{{< tweet user="chezou" id="1428552752527937539" >}}
-{{< tweet user="chezou" id="1428555147399946246" >}}
+{{< x user="chezou" id="1380713960224120835" >}}
+{{< x user="chezou" id="1409376181678338048" >}}
+{{< x user="chezou" id="1428552752527937539" >}}
+{{< x user="chezou" id="1428555147399946246" >}}
 
 ## 料理をするようになった
 
@@ -69,9 +69,9 @@ basukeさんがお勧めしてるノンアルコールビールAthletic Brewing�
 
 また、賃貸の家に大抵ガスオーブン（ないしは電気でそれに相当するもの）がついているため、bakeするのはとても楽です。
 
-{{< tweet user="chezou" id="1457489002810916870" >}}
+{{< x user="chezou" id="1457489002810916870" >}}
 
-{{< tweet user="chezou" id="1426724362736918529" >}}
+{{< x user="chezou" id="1426724362736918529" >}}
 
 {{< figure src="./IMG_0567.webp" title="Tortia Pizza" >}}
 
