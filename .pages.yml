@@ -12,6 +12,22 @@ content:
     - { name: date, label: 日付, type: date, required: true, options: { time: true, format: yyyy-MM-dd'T'HH:mm:ss'-07:00'} }
     - { name: body, label: 本文, type: rich-text }
     - { name: categories, label: カテゴリ, type: string, list: true }
+    - { name: keywords, label: キーワード, type: string, list: true }
+    - { name: categories, label: カテゴリ, type: string, list: true }
     - { name: tags, label: タグ, type: string, list: true }
     - { name: draft, label: 下書き, type: boolean, default: true }
     - { name: featured, label: feature, type: boolean, default: false }
+    - name: images
+      label: 画像
+      type: object
+      fields:
+      - name: caption
+        label: caption
+        type: string
+      - name: focul_point
+        label: focul point
+        type: string
+      - name: preview_only
+        label: preview only
+        type: boolean
+        default: false
