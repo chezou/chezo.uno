@@ -1,10 +1,13 @@
 ---
-title: "150 successful Machine Learning models: 6 lessons learned at Booking.comのメモ"
+title: '150 successful Machine Learning models: 6 lessons learned at Booking.comのメモ'
 authors: [aki]
 summary: Booking.comの話題の論文から気になるところをメモ
 tags: [MLOps, MachineLearning, Paper]
 date: November 17, 2019 6:15 AM
 lastmod: November 27, 2019 2:25 AM
+keywords: [model, 予測, 高速化, ラベル, 頻度, kpi, high, 'true', 論文, sparse]
+recommendations: [/post/2019-12-09-facebook prophet-plot/, /post/2018-05-17_mlse-kickoff/,
+  /post/2025-05-02-ml-project-and-scrum/]
 ---
 
 

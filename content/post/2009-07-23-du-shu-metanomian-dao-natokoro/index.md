@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [コメント, ライフログ, 読書メーター, 殆ど, 見た目, excite, 明示, エントリー, モチベーション, 雑感]
+keywords: [コメント, ライフログ, 読書メーター, 殆ど, 見た目, excite, 明示, エントリー, 雑感, モチベーション]
 recommendations: [/post/2009-05-16-du-shu-metahazimemasita/, /post/2009-05-02-hazimemasite-wordpress/,
   /post/2008-10-28-utukusiizi-domo/]
 ---

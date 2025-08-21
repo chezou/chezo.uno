@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ruby, kawasaki, rb, 発表, 会議, 川崎, tシャツ, rails, '01', 都内]
-recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
-  /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/, /post/2014-09-21-rubykaigixing-tutekimasita-and-rubyhirobade-shen-nai-chuan-rubyhui-yi-01-gao-zhi-ltsitekimasita-number-rubykaigi-number-rubyhiroba-number-kana01/]
+keywords: [ruby, kawasaki, rb, 会議, 発表, 川崎, tシャツ, rails, 都内, '01']
+recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
+  /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/]
 ---
 さる 8/20 に川崎Ruby会議01を開催しました。
 

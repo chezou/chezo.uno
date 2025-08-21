@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [知子, 二ノ宮, だめ, 講談社, isbn, 周り, スコア, 選択, 素朴, 最新刊]
+keywords: [知子, 二ノ宮, 講談社, だめ, isbn, スコア, 周り, 選択, 素朴, 最新刊]
 recommendations: [/post/2008-08-11-nodame21juan/, /post/2008-10-10-tiisanatiisanawang-yang/,
   /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---

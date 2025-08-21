@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [修理, 値段, 場合, 一時期, レポ, jbl, '7000', '410', 片方, reference]
+keywords: [修理, 値段, 一時期, レポ, ヘッドフォン, jbl, '410', 場合, 片方, reference]
 recommendations: [/post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/,
   /post/2005-05-19-vhsnei-zang-dvdpureya/, /post/2015-10-19-batukibakininatuteitanexus5wo$40dexiu-li-sita/]
 ---

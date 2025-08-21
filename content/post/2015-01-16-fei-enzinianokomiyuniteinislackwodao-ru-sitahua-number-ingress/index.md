@@ -11,10 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [slack, hangout, ingress, チャット, コミュニティ, チャンネル, ため, アプリ, 参加, こと]
+keywords: [slack, hangout, ingress, チャット, コミュニティ, チャンネル, ため, アプリ, 参加, チーム]
 recommendations: [/post/2014-12-15-number-ingress-dehurutaimunopuroezientotochu-hui-tutahua/,
-  /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
-  /post/2023-08-20-removed-slack-from-mobile/]
+  /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/, /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/]
 ---
 普通の人達[^1] の集まりである、Ingressの地域コミュニティでSlackを導入してそろそろ3ヶ月になったので、知見を書こうと思います。
 

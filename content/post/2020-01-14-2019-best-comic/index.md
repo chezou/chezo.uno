@@ -5,6 +5,9 @@ summary: 飛行機出張のお供に漫画を色々買ったので良かった�
 tags: [comic]
 date: January 14, 2020 2:53 AM
 lastmod: January 14, 2020 3:22 AM
+keywords: [大統領, 漫画, 主人公, コミュニケーション, アニメ, photo, メジャー, unsplash, 女性, 人間]
+recommendations: [/post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/,
+  /post/2020-12-31-2020-review/, /post/2021-12-31-2021-year-review/]
 ---
 
 ![Photo by Miika Laaksonen on Unsplash](https://images.unsplash.com/photo-1531501410720-c8d437636169?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

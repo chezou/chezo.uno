@@ -11,9 +11,9 @@ tags: []
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 categories: [ruby]
-keywords: [翻訳, jekyll, ドキュメント, kawasaki, リポジトリ, rb, aki, '300', 本家, ariga]
-recommendations: [/post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/,
-  /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/]
+keywords: [翻訳, jekyll, ドキュメント, kawasaki, rb, リポジトリ, aki, '300', 本家, ariga]
+recommendations: [/post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2022-06-18-kawasaki
+    rb 9 years reflection/, /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/]
 ---
 kawasaki.rbもいよいよ10回目を開催してきました。\
 まさかの1日二回LTという展開でしたが、無事に話すことが出来て良かったです。

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [どうでしょう, モデル, すばらしい, special, 北海道, ポップ, なじみ, 小学館, チャンネル, ファン]
+keywords: [どうでしょう, モデル, すばらしい, 北海道, special, ポップ, なじみ, 小学館, ファン, チャンネル]
 recommendations: [/post/2005-03-27-u-urusai-dot-dot-dot/, /post/2009-11-26-the-real-album/,
   /post/2020-07-11-mlse-summer-workshop/]
 ---

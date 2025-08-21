@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [post, バンクーバー, 活動, hezou, cms, podcast, netlify, チーム, 副業, キャリア]
-recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2021-12-31-2021-year-review/,
-  /post/2024-12-31-2024-year-in-review/]
+keywords: [post, バンクーバー, 活動, hezou, cms, netlify, podcast, チーム, 副業, キャリア]
+recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2022-01-09-vancouver-engineer-podcast/,
+  /post/2021-12-31-2021-year-review/]
 ---
 
 [去年](https://chezo.uno/post/2021-12-31-2021-year-review/)に引き続き、2022年の振り返りです。

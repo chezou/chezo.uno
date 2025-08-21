@@ -5,7 +5,7 @@ date: '2017-07-10T00:11:00+09:00'
 categories: []
 authors: [aki]
 aliases: [/post/2017-07-10_thinkpad-x1-carbon-2017-windows-10-ubuntu-17-04-9f73d89073c3/]
-keywords: [ubuntu, sudo, install, apt, 設定, .com, windows, デュアルブート, tool, キーボード]
+keywords: [ubuntu, sudo, install, apt, .com, 設定, windows, デュアルブート, tool, qiita]
 recommendations: [/post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/,
   /post/2017-08-26_python------------------dc8d8f2fe989/, /post/2012-01-07-mercurialtoqin-he-xing-nogao-iripozitoriburauzarhodecodewoinsutorusitemita/]
 ---

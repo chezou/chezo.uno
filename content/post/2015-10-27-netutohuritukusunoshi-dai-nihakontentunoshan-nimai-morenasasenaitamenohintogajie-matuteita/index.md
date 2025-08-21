@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [netflix, プレイリスト, spotify, コンテンツ, レコメンデーション, 方式, 反復, ラジオ, 音楽, サービス]
 recommendations: [/post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/,
-  /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/]
+  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/]
 ---
 backspace.fmでもよくゲストに出ている西田宗千佳さん([@mnishi41](https://twitter.com/mnishi41))の書かれた、「ネットフリックスの時代−配信とスマホがテレビを変える」読んだ。
 

@@ -11,7 +11,7 @@ tags: []
 categories: null
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
-keywords: [東芝, 映画, テレビ, スピーカー, デモ, 一方, 違い, 先生, 音響, 抑制]
+keywords: [東芝, 映画, デモ, テレビ, スピーカー, 一方, 違い, 先生, 音響, 抑制]
 recommendations: [/post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
   /post/2008-10-28-mai-tutesimatuta/, /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/]
 ---

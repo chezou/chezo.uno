@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [iphone, 対応, 辛いです, appbank, fc, ipod touch, flash, 自動的, rss, とき]
+keywords: [iphone, 対応, 辛いです, appbank, ipod touch, flash, fc, rss, 自動的, とき]
 recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/,
   /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/]
 ---

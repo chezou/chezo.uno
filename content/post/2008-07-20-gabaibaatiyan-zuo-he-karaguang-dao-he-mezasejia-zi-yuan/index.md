@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ばあ, エピソード, 要点, ありか, 集英社, 抜粋, 読者, うれしい, 薄い, なけれ]
+keywords: [ばあ, エピソード, 要点, 一作, ありか, 集英社, 抜粋, 読者, うれしい, なけれ]
 recommendations: [/post/2008-11-06-koredeiinoda/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
   /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/]
 ---

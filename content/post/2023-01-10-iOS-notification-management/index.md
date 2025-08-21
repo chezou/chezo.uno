@@ -5,6 +5,9 @@ summary: iOS15からの集中モードを利用した休暇中の通知管理に
 tags: [iOS, Notification]
 date: 2023-01-10 17:58:00-07:00
 lastmod: 2023-01-10 18:20:00-07:00
+keywords: [通知, モード, 集中, アプリ, オフ, gmail, slack, ログアウト, パーソナル, 機能]
+recommendations: [/post/2023-08-20-removed-slack-from-mobile/, /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/,
+  /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/]
 ---
 
 ![](https://images.unsplash.com/photo-1504507926084-34cf0b939964?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)

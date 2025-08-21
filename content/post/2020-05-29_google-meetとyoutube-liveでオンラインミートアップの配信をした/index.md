@@ -8,7 +8,7 @@ tags: [YouTube Live, Streaming, Gadget]
 aliases: [/post/google-meetとyoutube-liveてオンラインミートアッフの配信をした, /post/google-meetとyoutube-liveてオンラインミートアップの配信をした,
   /post/2020-05-29_google-meetとyoutube-liveてオンラインミートアップの配信をした]
 keywords: [meet, 配信, zoom, マイク, 音量, 発表, 画像, 画面, youtube live, 接続]
-recommendations: [/post/2020-12-31-2020-review/, /post/2020-11-10-mlse-conference/,
+recommendations: [/post/2020-04-03-microphone-for-remote-meeting/, /post/2020-12-31-2020-review/,
   /post/2020-07-11-mlse-summer-workshop/]
 ---
 

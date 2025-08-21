@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [behringer, podcast, 通信, feed, audio, 録音, skype, miyagawa, itunes, エレクトロニクス]
+keywords: [behringer, podcast, 通信, feed, 録音, audio, skype, miyagawa, itunes, エレクトロニクス]
 recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
   /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/]
 ---

@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [値段, the house, pact, jacks, 通し, masa, festa, rajaton, '22', '21']
+keywords: [値段, the house, pact, jacks, 通し, masa, festa, rajaton, '21', '22']
 recommendations: [/post/2009-03-09-masafestanirajatonga/, /post/2009-03-03-sok-bao-masa-festa/,
-  /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/]
+  /post/2009-07-11-masa-festanotiketutogalai-ta/]
 ---
 [Masa Festa](http://masafesta.com/)のコンサート情報が明らかになりました。まだ、[空白が多い](http://masafesta.com/concertpop.htm)ですが、予定も出ています。とりあえず、Rajatonを聞くために日曜日には行こうと思います。チケットとれるかなー。  
 8/20(木)：MOSAIC、m-pact  

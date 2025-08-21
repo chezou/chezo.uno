@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [物語, mlse, 配信, 活動, 漫画, オンライン, あと, マイク, oss, 突入]
+keywords: [物語, mlse, 配信, 活動, 漫画, オンライン, oss, あと, マイク, ファンタジー]
 recommendations: [/post/2022-07-15-finished-mlse-infra-wg/, /post/2020-11-10-mlse-conference/,
   /post/2020-07-11-mlse-summer-workshop/]
 ---

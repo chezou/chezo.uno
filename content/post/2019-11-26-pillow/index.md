@@ -5,6 +5,9 @@ summary: スマホとかしてると首痛くなると思いますが、そん�
 tags: [散財]
 date: November 26, 2019 8:17 PM
 lastmod: November 27, 2019 2:18 PM
+keywords: [ピロー, ネック, november, pm, 出張, cm, '2019', グリーン, アイテム, 快適]
+recommendations: [/post/2019-11-25-github actions-api token-pypi release/, /post/2019-11-16-tdworkflow/,
+  /post/2019-03-10_business-trip-goods/]
 ---
 
 Created at: November 26, 2019 8:17 PM

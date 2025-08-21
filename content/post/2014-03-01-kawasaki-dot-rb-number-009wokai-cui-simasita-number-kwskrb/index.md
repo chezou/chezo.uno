@@ -11,9 +11,10 @@ tags: []
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 categories: [ruby]
-keywords: [pandas, foo, hash, ランキング, org, range, obj, aflc, rb, クラス]
+keywords: [pandas, foo, hash, ランキング, org, range, obj, aflc, rb, jp]
 recommendations: [/post/2013-06-29-kawasaki-dot-rb-number-001-di-1hui-mitoatupuwokai-cui-simasita-number-kwskrb/,
-  /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/, /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/]
+  /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/, /post/2022-06-18-kawasaki
+    rb 9 years reflection/]
 ---
 去る2/26(水)に[kawasaki.rb #009](http://kawasakirb.doorkeeper.jp/events/8859)を開催しました。
 

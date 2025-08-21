@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [キャンドル, 宣伝, 近隣, ナイト, bc, '83', 曇り, bb, '48', 川崎]
+keywords: [キャンドル, 宣伝, 近隣, ナイト, 曇り, bb, '83', '48', 今度, bc]
 recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2010-03-22-shi-jie-bian-ge-noshi-ravuosunotatuta-tunomai-ifang/,
   /post/2009-08-12-rui-yan-si/]
 ---

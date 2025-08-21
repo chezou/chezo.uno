@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [かっこいい, foo, real, the real group, アレンジ, cd, ｒｙ, １６, １０, 黒板]
+keywords: [foo, かっこいい, real, the real group, アレンジ, cd, ｒｙ, ３０, １６, １０]
 recommendations: [/post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
   /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/, /post/2008-06-03-er-du-qin-qian/]
 ---

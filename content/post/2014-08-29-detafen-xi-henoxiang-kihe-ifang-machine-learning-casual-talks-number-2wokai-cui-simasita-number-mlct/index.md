@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [機械学習, 活用, 素人, データ, ポイント, グノシー, 業務, 比戸, pfi, deep learning]
+keywords: [機械学習, 活用, 素人, データ, ポイント, 業務, 比戸, グノシー, pfi, deep learning]
 recommendations: [/post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/,
   /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2017-08-03_oss--------------48807bbbf13f/]
 ---

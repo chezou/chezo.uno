@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [会議, 地域, ruby, podcast, オフライン, miyohide, club, 人数, ミート, アップ]
+keywords: [会議, 地域, ruby, オフライン, miyohide, podcast, club, 人数, ミート, アップ]
 recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
   /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/]
 ---

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [森博嗣, ミステリー, シリーズ, 東野, 嫌い, 圭吾, 読了, 深く, 続き, 学生]
+keywords: [森博嗣, ミステリー, シリーズ, 東野, 圭吾, 読了, 嫌い, 深く, 続き, 学生]
 recommendations: [/post/2008-10-02-pahuekutoburudu-liao/, /post/2008-08-24-sayonaraituka/,
   /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/]
 ---

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [作品, 鬼頭, 莫宏, この先, 小学館, 世界観, 存在, 期待, isbn, 展開]
+keywords: [作品, 鬼頭, 莫宏, この先, 小学館, 世界観, 期待, 存在, isbn, 展開]
 recommendations: [/post/2008-07-30-narutaru/, /post/2008-06-22-bokurano-alternative/,
   /post/2008-07-13-lang-toxiang-xin-liao-1/]
 ---

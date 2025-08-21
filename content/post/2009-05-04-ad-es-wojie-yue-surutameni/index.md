@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [gb, 解約, willcom, 意味, '16', store, コイン, ipod touch, ない, 専用]
+keywords: [gb, 解約, willcom, 意味, '16', 最安, store, コイン, ipod touch, ない]
 recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/,
   /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---

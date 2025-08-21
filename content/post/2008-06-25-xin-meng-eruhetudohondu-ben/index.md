@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [違和感, 後日, アマゾンギフト券, 表紙, 半分, 趣味, つもり, ヘッドホン, 詳しく, ページ]
+keywords: [違和感, 後日, アマゾンギフト券, 表紙, 半分, 趣味, ヘッドホン, つもり, 詳しく, 期待]
 recommendations: [/post/2008-09-14-hetudohonwu-se-sitahi/, /post/2008-01-18-souiebakokohawu-yu-burogudatuta/,
   /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---

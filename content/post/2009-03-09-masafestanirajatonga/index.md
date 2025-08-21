@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [masa, festa, rajaton, 最大規模, コーナー, academy, finland, コンサート, エントリ, やばい]
+keywords: [masa, festa, rajaton, 最大規模, コーナー, academy, finland, コンサート, エントリ, あか]
 recommendations: [/post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/,
   /post/2009-03-03-sok-bao-masa-festa/, /post/2009-07-11-masa-festanotiketutogalai-ta/]
 ---

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [websocket, morph, リアルタイム, 結果, mykytea, 形態素解析, ruby, 画面, 出力, png]
+keywords: [websocket, morph, リアルタイム, mykytea, 結果, 形態素解析, ruby, 画面, 出力, png]
 recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/,
   /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/, /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/]
 ---

@@ -5,7 +5,7 @@ date: '2017-08-03T03:29:59+09:00'
 categories: [machine_learaning, OSS]
 authors: [aki]
 aliases: [/post/2017-08-03_oss-48807bbbf13f/]
-keywords: [論文, 機械学習, アルゴリズム, 時代, 実装, アカデミア, deep learning, 投稿, 先端, フレームワーク]
+keywords: [論文, 機械学習, アルゴリズム, 時代, 実装, deep learning, アカデミア, 投稿, 先端, フレームワーク]
 recommendations: [/post/2017-05-26_public-dataset/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/,
   /post/2019-03-29_ngekkan-lambda-note-article/]
 ---

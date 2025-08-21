@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ptr, mecab, void, end, julia, int, 構造体, ポインタ, length, 場合]
+keywords: [ptr, mecab, void, end, julia, int, 構造体, ポインタ, length, uint]
 recommendations: [/post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/,
   /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/, /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/]
 ---

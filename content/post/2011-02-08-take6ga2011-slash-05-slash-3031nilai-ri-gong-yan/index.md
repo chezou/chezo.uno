@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [公演, 初日, フィル, ナイト, ゴスペル, クラブ, r&b, アカペラ, '30', 会員]
+keywords: [公演, 初日, フィル, ナイト, ゴスペル, クラブ, r&b, アカペラ, 会員, オフィシャルサイト]
 recommendations: [/post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/,
   /post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/]
 ---

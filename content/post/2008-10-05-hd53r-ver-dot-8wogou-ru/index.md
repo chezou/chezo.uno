@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['53', hd, ノイズ, sa, hfi, '700', 購入, アンプ, わけ, 合唱]
+keywords: ['53', hd, sa, hfi, '010', ノイズ, '700', 購入, アンプ, わけ]
 recommendations: [/post/2008-10-28-mai-tutesimatuta/, /post/2008-09-14-hetudohonwu-se-sitahi/,
   /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
 ---

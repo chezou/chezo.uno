@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ヘッドホン, rock, 大須, pop, 無線, 次第, アンプ, 視聴, 決定, 欲しく]
+keywords: [ヘッドホン, sennheiser, rock, 大須, pop, 無線, 視聴, 次第, アンプ, 決定]
 recommendations: [/post/2008-10-05-hd53r-ver-dot-8wogou-ru/, /post/2005-08-24-hetudohon-hetudohon/,
   /post/2008-01-18-souiebakokohawu-yu-burogudatuta/]
 ---

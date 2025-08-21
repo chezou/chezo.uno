@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [基盤, 機械学習, 本番, 適用, 運用, 事例, 当日, 知見, 要件, 共有]
+keywords: [基盤, 機械学習, 本番, 適用, 運用, 事例, 当日, 知見, 共有, 要件]
 recommendations: [/post/2022-07-15-finished-mlse-infra-wg/, /post/2020-12-31-2020-review/,
   /post/2020-07-11-mlse-summer-workshop/]
 ---

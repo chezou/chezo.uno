@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [タスク, プロジェクト, 価値, hypothesis, ml, フェーズ, product, ビジネス, time, 週間]
+keywords: [タスク, 価値, プロジェクト, hypothesis, ml, フェーズ, boxing, product, ビジネス, time]
 recommendations: [/post/2019-12-24-python-custom-scripting/, /post/2018-10-25_risecamp------ee65c2ef0c9e/,
   /post/2018-05-17_mlse-kickoff/]
 ---

@@ -12,7 +12,7 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [busto, 団体, 信仰, 三善, アバウト, scarborough, mäntyjärvi, david, cayabyab, 宗教]
-recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2005-07-17-urayamasika/,
+recommendations: [/post/2005-07-17-urayamasika/, /post/2008-07-19-can-shu-gui-tou-mo-hong/,
   /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
 ---
 Bustoの作品を聞きたいと思い行ってきました。  

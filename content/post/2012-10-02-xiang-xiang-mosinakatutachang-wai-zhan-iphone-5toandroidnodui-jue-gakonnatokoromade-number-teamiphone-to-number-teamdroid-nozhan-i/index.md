@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [peter, hollens, iphone, version, 歌詞, firework, アカペラ, 対決, 反論, 格好]
+keywords: [peter, hollens, iphone, version, 歌詞, firework, apple store, アカペラ, 対決, 反論]
 recommendations: [/post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/,
   /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
   /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/]

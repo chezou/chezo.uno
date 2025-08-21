@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [クロノトリガー, アレンジ, 康典, 光田, 音質, 原曲, シーン, 作曲, メドレー, time]
+keywords: [クロノトリガー, アレンジ, 康典, 光田, 原曲, シーン, 音質, 作曲, メドレー, time]
 recommendations: [/post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/,
   /post/2008-06-03-er-du-qin-qian/, /post/2009-04-13-it-dont-mean-a-thing/]
 ---

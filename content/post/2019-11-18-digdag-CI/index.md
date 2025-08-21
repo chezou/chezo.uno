@@ -5,6 +5,9 @@ summary: digdagのworkflowを実行可能かチェックするためのポイン
 tags: [Engineering, OSS]
 date: November 18, 2019 1:38 AM
 lastmod: November 18, 2019 1:56 AM
+keywords: [workflow, digdag, テスト, file, 実際, pycharm, boxes, ため, ワークフロー, レンダー]
+recommendations: [/post/2019-12-24-python-custom-scripting/, /post/2019-11-16-tdworkflow/,
+  /post/2018-01-17_----------------b63a0763e904/]
 ---
 
 ![](https://images.unsplash.com/photo-1534644107580-3a4dbd494a95?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

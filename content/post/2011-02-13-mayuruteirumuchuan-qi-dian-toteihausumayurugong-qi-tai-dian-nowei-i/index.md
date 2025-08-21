@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [川崎, ツイッター, おいしい, お店, ちなみ, 先日, 徒歩, 入り口, マーク, インストラクター]
+keywords: [川崎, ツイッター, おいしい, お店, ちなみ, 先日, 徒歩, 入り口, 付近, インストラクター]
 recommendations: [/post/2009-07-07-qi-xi-kiyandorunaito/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
   /post/2021-12-18-8-months-after-relocating-vancouver/]
 ---

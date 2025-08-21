@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [python, 言語, こと, パッケージ, 統計的, 科学, 可視化, コード, 計算, matlab]
+keywords: [python, 言語, こと, パッケージ, 統計的, 科学, 可視化, コード, matlab, 計算]
 recommendations: [/post/2017-08-26_python------------------dc8d8f2fe989/, /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/,
   /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/]
 ---

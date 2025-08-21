@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [gb, １６, 価格, office, スパボ, standard, professional, '2007', ちなみ, 機種変]
+keywords: [gb, １６, office, 価格, 本数, スパボ, standard, professional, '2007', ちなみ]
 recommendations: [/post/2009-05-04-ad-es-wojie-yue-surutameni/, /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/,
   /post/2007-05-10-usbdewen-kerufm-slash-amrazio/]
 ---

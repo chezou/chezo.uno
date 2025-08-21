@@ -5,6 +5,9 @@ summary: Androidの使い勝手を超えてしまった...
 tags: [productivity]
 date: November 30, 2019 4:16 PM
 lastmod: December 9, 2019 3:42 PM
+keywords: [ショートカット, 共有, ポスト, 対応, 複数, slack, 同時, twitter, post, facebook]
+recommendations: [/post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
+  /post/2023-08-20-removed-slack-from-mobile/, /post/2023-01-10-ios-notification-management/]
 ---
 
 ![](https://images.unsplash.com/photo-1416816901131-9e5eab64c1c1?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

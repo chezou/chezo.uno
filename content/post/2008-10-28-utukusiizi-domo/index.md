@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [石田衣良, 主人公, 悪く, コメント, 印象, 題材, 閑話休題, 追求, 猟奇的, ブックマーク]
+keywords: [石田衣良, 主人公, 悪く, コメント, 印象, 食欲, 題材, 閑話休題, 追求, 猟奇的]
 recommendations: [/post/2008-08-26-akihabara-at-deep/, /post/2008-06-15-gui-cai-xian-ru/,
   /post/2008-11-06-koredeiinoda/]
 ---

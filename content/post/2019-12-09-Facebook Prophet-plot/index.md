@@ -5,6 +5,9 @@ summary: fbprophetの予測結果のグラフをmatplotlibだけでplotする
 tags: [Python]
 date: December 9, 2019 12:36 AM
 lastmod: December 9, 2019 12:44 AM
+keywords: [訓練データ, プロット, df, model, facebook, 予測, 結果, コード, prev, 再利用]
+recommendations: [/post/2019-11-17-150 successful machine learning models 6 lessons/,
+  /post/2016-05-29-sonomoderu-guo-xue-xi-siteruno-wei-xue-xi-nano-tokun-tutara/, /post/2018-05-17_mlse-kickoff/]
 ---
 
 ![](https://images.unsplash.com/photo-1543286386-2e659306cd6c?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

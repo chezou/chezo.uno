@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ライセンス, 感じ, 場合, 危険, ラップ, ベーコン, tokyuruby, 自作, 持ち込み, cc]
+keywords: [ライセンス, 感じ, 危険, ラップ, ベーコン, tokyuruby, 場合, 持ち込み, cc, 自作]
 recommendations: [/post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
   /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/]
 ---

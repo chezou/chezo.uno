@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [衝撃, 千秋, 結婚, 知子, 二ノ宮, 翌朝, スルー, だめ, その後, 講談社]
+keywords: [千秋, 衝撃, 結婚, 知子, 二ノ宮, 翌朝, スルー, その後, 講談社, 続き]
 recommendations: [/post/2008-07-06-nodamekantabire18-20/, /post/2008-06-15-gui-cai-xian-ru/,
   /post/2008-10-10-tiisanatiisanawang-yang/]
 ---

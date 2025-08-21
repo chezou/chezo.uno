@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [作品, 漫画版, 最終回, 取り扱い, 対談, 原作, ぼくらの, 最終, 小説, 小学館]
+keywords: [作品, 漫画版, 最終回, 取り扱い, 対談, ぼくらの, 最終, 小学館, 原作, 小説]
 recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-30-narutaru/,
   /post/2008-08-24-sayonaraituka/]
 ---

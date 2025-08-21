@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['00', 開演, 開場, 応募, '2012', '18', 会場, ホール, '12', 日程]
+keywords: ['00', 開演, 開場, 応募, '2012', '18', 会場, ホール, 日程, '12']
 recommendations: [/post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/,
-  /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/]
+  /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/]
 ---
 [GAME MUSIC GARDEN](http://sky.ap.teacup.com/helen/1916.html)さんで知ったのですが、FINAL FANTASYのオフィシャルな演奏会のチケット応募が始まったようです。
 
