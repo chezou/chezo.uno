@@ -431,7 +431,7 @@ TypeError                                 Traceback (most recent call last)
 
 ## まとめ
 
-当初は[`pandas.NA`](http://pandas.NA) の挙動を調べるつもりで1.0前後の差異を調べたが、気がつけばすでに0.24のときに変わっていたことがわかった。1.0内での挙動も違ったりするし、 `StringDtype` などは experimental featureなので挙動は今後も変わりうる。msgpackへの変換などでPythonのpremitive型に変換するのは気をつける必要がありそう。
+当初は `pandas.NA` の挙動を調べるつもりで1.0前後の差異を調べたが、気がつけばすでに0.24のときに変わっていたことがわかった。1.0内での挙動も違ったりするし、 `StringDtype` などは experimental featureなので挙動は今後も変わりうる。msgpackへの変換などでPythonのpremitive型に変換するのは気をつける必要がありそう。
 
 ---
 
