@@ -3,8 +3,8 @@ title: spaCyとGiNZAでマストドンのトレンドワード抽出をしてみ
 authors: [aki]
 summary: spaCyは使いやすいインターフェースが入門者にもとてもよさそう
 tags: [Engineering, NLP]
-date: November 17, 2019 12:24 AM
-lastmod: November 27, 2019 2:31 AM
+date: 2019-11-17 00:24:00+09:00
+lastmod: 2019-11-27 02:31:00+09:00
 keywords: [ginza, spacy, ワード, トレンド, neologd, マストドン, macbook pro, ノートブック, 自然言語処理, 解析]
 recommendations: [/post/2019-11-29-mecab-python3/, /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/,
   /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/]

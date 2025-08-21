@@ -3,16 +3,12 @@ title: GitHub ActionsでAPI tokenを使ってPyPIへリリースする
 authors: [aki]
 summary: GitHub Actionsを使うとPythonのテストが便利でReleaseも自動でできる
 tags: [GitHub, Python]
-date: November 25, 2019 4:59 PM
-lastmod: November 27, 2019 2:31 AM
+date: 2019-11-25 16:59:00+09:00
+lastmod: 2019-11-27 02:31:00+09:00
 keywords: [actions, テスト, python, november, '2019', github, uses, twine, 環境変数, created]
 recommendations: [/post/2019-11-16-tdworkflow/, /post/2018-01-17_----------------b63a0763e904/,
   /post/2019-11-26-pillow/]
 ---
-
-
-Created at: November 25, 2019 4:59 PM
-Last edited at: November 27, 2019 2:31 AM
 
 ![](https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

@@ -3,8 +3,8 @@ title: 2019年に買ってよかった漫画
 authors: [aki]
 summary: 飛行機出張のお供に漫画を色々買ったので良かったものを紹介します。
 tags: [comic]
-date: January 14, 2020 2:53 AM
-lastmod: January 14, 2020 3:22 AM
+date: 2020-01-14 02:53:00+09:00
+lastmod: 2020-01-14 03:22:00+09:00
 keywords: [大統領, 漫画, 主人公, コミュニケーション, アニメ, photo, メジャー, unsplash, 女性, 人間]
 recommendations: [/post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/,
   /post/2020-12-31-2020-review/, /post/2021-12-31-2021-year-review/]

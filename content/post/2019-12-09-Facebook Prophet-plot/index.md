@@ -3,8 +3,8 @@ title: Facebook Prophetのplotをmodelオブジェクトなしでする
 authors: [aki]
 summary: fbprophetの予測結果のグラフをmatplotlibだけでplotする
 tags: [Python]
-date: December 9, 2019 12:36 AM
-lastmod: December 9, 2019 12:44 AM
+date: 2019-12-09 00:36:00+09:00
+lastmod: 2019-12-09 00:44:00+09:00
 keywords: [訓練データ, プロット, df, model, facebook, 予測, 結果, コード, prev, 再利用]
 recommendations: [/post/2019-11-17-150 successful machine learning models 6 lessons/,
   /post/2016-05-29-sonomoderu-guo-xue-xi-siteruno-wei-xue-xi-nano-tokun-tutara/, /post/2018-05-17_mlse-kickoff/]

@@ -3,15 +3,12 @@ title: ストレートネック向け最近の枕事情
 authors: [aki]
 summary: スマホとかしてると首痛くなると思いますが、そんな人のための枕です
 tags: [散財]
-date: November 26, 2019 8:17 PM
-lastmod: November 27, 2019 2:18 PM
+date: 2019-11-26 20:17:00+09:00
+lastmod: 2019-11-27 14:18:00+09:00
 keywords: [ピロー, ネック, november, pm, 出張, cm, '2019', グリーン, アイテム, 快適]
 recommendations: [/post/2019-11-25-github actions-api token-pypi release/, /post/2019-11-16-tdworkflow/,
   /post/2019-03-10_business-trip-goods/]
 ---
-
-Created at: November 26, 2019 8:17 PM
-Last edited at: November 27, 2019 2:18 PM
 
 以前、首狩り族のネックピローをいただいてから、かなりストレートネック気味な状況が改善されて非常に良い。
 
