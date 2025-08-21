@@ -3,7 +3,7 @@ title: Timeline for Canadian PR
 authors: [aki]
 tags: [Canada]
 date: 2023-01-27 17:02:00-07:00
-summary: "As a note of the Canadian PR timeline"
+summary: As a note of the Canadian PR timeline
 lastmod: 2023-01-27 22:40:00-07:00
 keywords: ['2021', submit, bc, pr, '2022', invitation, work permit, 09, '02', '10']
 recommendations: [/post/2023-01-27-age++/, /post/2019-11-16-notion-cloudflare-sub
