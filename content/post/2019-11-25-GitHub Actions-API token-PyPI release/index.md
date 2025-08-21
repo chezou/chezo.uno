@@ -1,8 +1,13 @@
-# GitHub ActionsでAPI tokenを使ってPyPIへリリースする
+---
+title: GitHub ActionsでAPI tokenを使ってPyPIへリリースする
+authors: [aki]
+summary: GitHub Actionsを使うとPythonのテストが便利でReleaseも自動でできる
+tags: [GitHub, Python]
+date: November 25, 2019 4:59 PM
+lastmod: November 27, 2019 2:31 AM
+---
 
-Added By: Aki Ariga
-Description: GitHub Actionsを使うとPythonのテストが便利でReleaseも自動でできる
-Tags: GitHub, Python
+
 Created at: November 25, 2019 4:59 PM
 Last edited at: November 27, 2019 2:31 AM
 

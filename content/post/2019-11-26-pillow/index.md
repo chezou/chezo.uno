@@ -1,8 +1,12 @@
-# ストレートネック向け最近の枕事情
+---
+title: ストレートネック向け最近の枕事情
+authors: [aki]
+summary: スマホとかしてると首痛くなると思いますが、そんな人のための枕です
+tags: [散財]
+date: November 26, 2019 8:17 PM
+lastmod: November 27, 2019 2:18 PM
+---
 
-Added By: Aki Ariga
-Description: スマホとかしてると首痛くなると思いますが、そんな人のための枕です
-Tags: 散財
 Created at: November 26, 2019 8:17 PM
 Last edited at: November 27, 2019 2:18 PM
 

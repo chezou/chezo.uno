@@ -1,10 +1,11 @@
-# 年度途中に海外移住した年の給与・退職所得の扱い
-
-Added By: Aki Ariga
-Description: 海外移住した際の、給与所得・退職所得の扱いについてまとめました
-Tags: tax
-Created at: February 7, 2022 7:34 PM
-Last edited at: December 16, 2022 4:54 PM
+---
+title: 年度途中に海外移住した年の給与・退職所得の扱い
+authors: [aki]
+summary: 海外移住した際の、給与所得・退職所得の扱いについてまとめました
+tags: [tax]
+date: 2022-02-07 19:34:00-07:00
+lastmod: 2022-12-16 16:54:00-07:00
+---
 
 ![](https://images.unsplash.com/photo-1598432439250-0330f9130e14?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

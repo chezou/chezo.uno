@@ -1,8 +1,12 @@
-# Pythonのdigdagクライアントtdworkflowを作った
+---
+title: Pythonのdigdagクライアントtdworkflowを作った
+authors: [aki]
+summary: Pythonからdigdag/Treasure Workflowを色々できます
+tags: [Engineering, OSS]
+date: November 16, 2019 10:14 PM
+lastmod: November 16, 2019 11:58 PM
+---
 
-Added By: Aki Ariga
-Description: Pythonからdigdag/Treasure Workflowを色々できます
-Tags: Engineering, OSS
 Created at: November 16, 2019 10:14 PM
 Last edited at: November 16, 2019 11:58 PM
 

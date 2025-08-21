@@ -1,10 +1,11 @@
-# GitHub ActionsでIssue templateに従っていないissueをcloseする
-
-Added By: Aki Ariga
-Description: GitHub Actionsを使って正規表現でtemplateをチェックする
-Tags: GitHub
-Created at: November 25, 2019 5:52 PM
-Last edited at: November 29, 2019 3:10 PM
+---
+title: GitHub ActionsでIssue templateに従っていないissueをcloseする
+authors: [aki]
+summary: GitHub Actionsを使って正規表現でtemplateをチェックする
+tags: [GitHub]
+date: November 25, 2019 5:52 PM
+lastmod: November 29, 2019 3:10 PM
+---
 
 ![](https://images.unsplash.com/photo-1520716963369-9b24de965de4?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

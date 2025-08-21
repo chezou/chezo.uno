@@ -1,10 +1,11 @@
-# Google Colaboratory上でVS Code(code-server)を動かす
-
-Added By: Aki Ariga
-Description: VS Code from everywhere
-Tags: Python
-Created at: July 16, 2020 5:56 PM
-Last edited at: July 16, 2020 6:09 PM
+---
+title: Google Colaboratory上でVS Code(code-server)を動かす
+authors: [aki]
+summary: VS Code from everywhere
+tags: [Python]
+date: 2020-07-16 17:56:00-07:00
+lastmod: 2020-07-16 18:09:00-07:00
+---
 
 ![iPadからアクセスする図](IMG_0083.jpg)
 

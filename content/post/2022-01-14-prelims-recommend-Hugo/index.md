@@ -1,9 +1,11 @@
-# prelimsを使ってHugoの記事にレコメンドを追加する
-
-Added By: Aki Ariga
-Tags: NLP, Python, Recommendation
-Created at: January 14, 2022 10:35 PM
-Last edited at: January 15, 2022 10:29 AM
+---
+title: prelimsを使ってHugoの記事にレコメンドを追加する
+authors: [aki]
+summary: HugoやJekyllの記事にレコメンドを足すためにprelimsを使った
+tags: [NLP, Python, Recommendation]
+date: 2022-01-14 22:35:00-07:00
+lastmod: 2022-01-15 10:29:00-07:00
+---
 
 ![](https://images.unsplash.com/photo-1457369804613-52c61a468e7d?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

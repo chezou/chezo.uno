@@ -1,10 +1,11 @@
-# digdagのworkflowをCIでrun throughする
-
-Added By: Aki Ariga
-Description: digdagのworkflowを実行可能かチェックするためのポイントとcookiecutterの紹介
-Tags: Engineering, OSS
-Created at: November 18, 2019 1:38 AM
-Last edited at: November 18, 2019 1:56 AM
+---
+title: digdagのworkflowをCIでrun throughする
+authors: [aki]
+summary: digdagのworkflowを実行可能かチェックするためのポイントとcookiecutterの紹介
+tags: [Engineering, OSS]
+date: November 18, 2019 1:38 AM
+lastmod: November 18, 2019 1:56 AM
+---
 
 ![](https://images.unsplash.com/photo-1534644107580-3a4dbd494a95?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

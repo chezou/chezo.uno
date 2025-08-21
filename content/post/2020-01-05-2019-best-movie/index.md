@@ -1,10 +1,12 @@
+---
 # 2019年末年始に見た映画
 
-Added By: Aki Ariga
-Description: 年末年始に見た映画のメモ
-Tags: movie
-Created at: January 5, 2020 7:13 AM
-Last edited at: January 5, 2020 4:02 PM
+authors: [aki]
+summary: 年末年始に見た映画のメモ
+tags: [movie]
+date: January 5, 2020 7:13 AM
+lastmod: January 5, 2020 4:02 PM
+---
 
 ![](https://images.unsplash.com/photo-1485846234645-a62644f84728?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 
