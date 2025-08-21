@@ -1,9 +1,11 @@
-# 日本のサービス解約RTA～カナダ編～
-
-Added By: Aki Ariga
-Tags: Canada
-Created at: November 28, 2022 5:41 PM
-Last edited at: August 18, 2025 3:01 PM
+---
+title: 日本のサービス解約RTA～カナダ編～
+authors: [aki]
+summary: カナダでの日本のサービス解約の難易度をまとめました
+tags: [Canada]
+date: 2022-11-28 17:41:00-07:00
+lastmod: 2025-08-18 15:01:00-07:00
+---
 
 ![](https://images.unsplash.com/photo-1660717328578-12f11e8473bf?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)
 

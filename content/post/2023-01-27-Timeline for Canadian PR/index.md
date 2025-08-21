@@ -1,9 +1,11 @@
-# Timeline for Canadian PR
+---
+title: Timeline for Canadian PR
 
-Added By: Aki Ariga
-Tags: Canada
-Created at: January 27, 2023 5:02 PM
-Last edited at: January 27, 2023 10:40 PM
+authors: [aki]
+tags: [Canada]
+date: January 27, 2023 5:02 PM
+lastmod: January 27, 2023 10:40 PM
+---
 
 ### Time line for work permit
 

@@ -1,10 +1,11 @@
-# 日本国外で出版社と取引をする際の所得税の源泉徴収の扱い
-
-Added By: Aki Ariga
-Description: 海外移住した際の、所得税の扱いについてまとめました
-Tags: tax
-Created at: November 9, 2021 10:40 AM
-Last edited at: February 7, 2022 8:24 PM
+---
+title: 日本国外で出版社と取引をする際の所得税の源泉徴収の扱い
+authors: [aki]
+summary: 海外移住した際の、所得税の扱いについてまとめました
+tags: [tax]
+date: 2021-11-09 10:40:00-07:00
+lastmod: 2022-02-07 20:24:00-07:00
+---
 
 <aside>
 ⚠️ この記事は2021年11月段階で体験したことに基づき書いています。この情報は、あくまで参考程度に止め、原則的に税に関する不明な点は[国税局電話相談センター](https://www.nta.go.jp/taxes/shiraberu/sodan/denwa-sodan/index.htm#a-02)に電話して確認してください。

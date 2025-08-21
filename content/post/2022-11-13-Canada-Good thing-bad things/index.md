@@ -1,9 +1,11 @@
-# カナダのいいとこ悪いとこ
-
-Added By: Aki Ariga
-Tags: Canada
-Created at: November 13, 2022 7:34 PM
-Last edited at: November 13, 2022 8:07 PM
+---
+title: カナダのいいとこ悪いとこ
+authors: [aki]
+summary: カナダ（バンクーバーエリア）のいいところと悪いところをまとめました
+tags: [Canada]
+date: 2022-11-13 19:34:00-07:00
+lastmod: 2022-11-13 20:07:00-07:00
+---
 
 ![](https://images.unsplash.com/photo-1559511260-66a654ae982a?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)
 

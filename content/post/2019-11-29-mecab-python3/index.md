@@ -1,10 +1,12 @@
+---
 # mecab-python3をやめよう
 
-Added By: Aki Ariga
-Description: mecab-python3を捨ててnatto-pyにしよう
-Tags: NLP
-Created at: November 29, 2019 2:58 PM
-Last edited at: August 9, 2020 1:40 AM
+authors: [aki]
+summary: mecab-python3を捨ててnatto-pyにしよう
+tags: [NLP]
+date: November 29, 2019 2:58 PM
+lastmod: August 9, 2020 1:40 AM
+---
 
 ![](https://images.unsplash.com/photo-1516675457768-db513e191dcc?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

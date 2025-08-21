@@ -1,10 +1,11 @@
-# テレカン・発表用にマイクを用意しよう
-
-Added By: Aki Ariga
-Description: AirPodsやMBP内蔵マイクよりも良い環境を…
-Tags: 散財
-Created at: April 3, 2020 11:23 PM
-Last edited at: November 8, 2020 9:20 PM
+---
+title: テレカン・発表用にマイクを用意しよう
+authors: [aki]
+summary: AirPodsやMBP内蔵マイクよりも良い環境を…
+tags: [散財]
+date: 2020-04-03 23:23:00-07:00
+lastmod: 2020-11-08 21:20:00-07:00
+---
 
 ![by Kai Pilger, Unsplash](https://images.unsplash.com/photo-1500275259408-14be096a87cc?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

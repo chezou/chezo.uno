@@ -1,10 +1,12 @@
-# pandas 1.0 のpd.NAのハマりどころ
+---
+title: pandas 1.0 のpd.NAのハマりどころ
+authors: [aki]
+summary: pandas.NAに関連するmissing value周りのあれこれ
+tags: [Python, pandas]
+date: 2020-03-01 03:17:00-07:00
+lastmod: 2020-03-01 18:00:00-07:00
 
-Added By: Aki Ariga
-Description: pandas.NAに関連するmissing value周りのあれこれ
-Tags: Python, pandas
-Created at: March 1, 2020 3:17 PM
-Last edited at: March 1, 2020 6:00 PM
+---
 
 ![[https://unsplash.com/photos/_7HU079sGNw](https://unsplash.com/photos/_7HU079sGNw)](https://images.unsplash.com/photo-1497514440240-3b870f7341f0?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 
@@ -433,6 +435,3 @@ TypeError                                 Traceback (most recent call last)
 
 当初は `pandas.NA` の挙動を調べるつもりで1.0前後の差異を調べたが、気がつけばすでに0.24のときに変わっていたことがわかった。1.0内での挙動も違ったりするし、 `StringDtype` などは experimental featureなので挙動は今後も変わりうる。msgpackへの変換などでPythonのpremitive型に変換するのは気をつける必要がありそう。
 
----
-
-[Back to home](https://memo.chezo.uno/)

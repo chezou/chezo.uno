@@ -1,10 +1,11 @@
-# Rパッケージ開発の闇
-
-Added By: Aki Ariga
-Description: CRANを捨ててGitHubに帰ろう
-Tags: Engineering, OSS, R
-Created at: November 30, 2019 8:32 PM
-Last edited at: December 18, 2019 2:49 AM
+---
+title: Rパッケージ開発の闇
+authors: [aki]
+summary: CRANを捨ててGitHubに帰ろう
+tags: [Engineering, OSS, R]
+date: November 30, 2019 8:32 PM
+lastmod: December 18, 2019 2:49 AM
+---
 
 ![](https://images.unsplash.com/photo-1504401774599-1b5378bfaae3?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

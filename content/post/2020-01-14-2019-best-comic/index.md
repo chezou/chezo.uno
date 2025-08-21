@@ -1,10 +1,11 @@
-# 2019年に買ってよかった漫画
-
-Added By: Aki Ariga
-Description: 飛行機出張のお供に漫画を色々買ったので良かったものを紹介します。
-Tags: comic
-Created at: January 14, 2020 2:53 AM
-Last edited at: January 14, 2020 3:22 AM
+---
+title: 2019年に買ってよかった漫画
+authors: [aki]
+summary: 飛行機出張のお供に漫画を色々買ったので良かったものを紹介します。
+tags: [comic]
+date: January 14, 2020 2:53 AM
+lastmod: January 14, 2020 3:22 AM
+---
 
 ![Photo by Miika Laaksonen on Unsplash](https://images.unsplash.com/photo-1531501410720-c8d437636169?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

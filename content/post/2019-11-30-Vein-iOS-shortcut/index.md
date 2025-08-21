@@ -1,10 +1,11 @@
-# VeinのiOSショートカット複数URL対応しました
-
-Added By: Aki Ariga
-Description: Androidの使い勝手を超えてしまった...
-Tags: productivity
-Created at: November 30, 2019 4:16 PM
-Last edited at: December 9, 2019 3:42 PM
+---
+title: VeinのiOSショートカット複数URL対応しました
+authors: [aki]
+summary: Androidの使い勝手を超えてしまった...
+tags: [productivity]
+date: November 30, 2019 4:16 PM
+lastmod: December 9, 2019 3:42 PM
+---
 
 ![](https://images.unsplash.com/photo-1416816901131-9e5eab64c1c1?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

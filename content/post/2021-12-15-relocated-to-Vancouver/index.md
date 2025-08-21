@@ -1,10 +1,11 @@
-# カナダのバンクーバーエリアに子連れ移住した
-
-Added By: Aki Ariga
-Description: 子連れ移住に際して調べたり体験したあれこれ
-Tags: Canada, 日常
-Created at: December 15, 2021 2:01 PM
-Last edited at: December 16, 2022 4:55 PM
+---
+title: カナダのバンクーバーエリアに子連れ移住した
+authors: [aki]
+summary: 子連れ移住に際して調べたり体験したあれこれ
+tags: [Canada, 日常]
+date: 2021-12-15 14:01:00-07:00
+lastmod: 2022-12-16 16:55:00-07:00
+---
 
 ![Untitled](Untitled.png)
 

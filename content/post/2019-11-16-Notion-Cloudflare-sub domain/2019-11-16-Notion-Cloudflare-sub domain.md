@@ -1,10 +1,12 @@
-# NotionのページをCloudflareでsub domainに転送する
+---
+title: NotionのページをCloudflareでsub domainに転送する
+authors: [aki]
+summary: Notionでカスタムドメインをサブドメインまで設定する
+tags: [Notion]
+date: November 16, 2019 11:50 PM
+lastmod: December 6, 2021 3:35 PM
+---
 
-Added By: Aki Ariga
-Description: Notionでカスタムドメインをサブドメインまで設定する
-Tags: Notion
-Created at: November 16, 2019 11:50 PM
-Last edited at: December 6, 2021 3:35 PM
 
 ![](https://images.unsplash.com/photo-1512314889357-e157c22f938d?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

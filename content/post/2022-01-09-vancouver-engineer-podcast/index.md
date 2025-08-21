@@ -1,10 +1,12 @@
+---
 # バンクーバーのえんじに屋 #81,82 宇治拾遺物語
 
-Added By: Aki Ariga
-Description: バンクーバーのえんじに屋podcastに出演したので、話せなかったことを書きます。
-Tags: Canada, podcast
-Created at: June 9, 2022 12:15 AM
-Last edited at: December 16, 2022 4:54 PM
+authors: [aki]
+summary: バンクーバーのえんじに屋podcastに出演したので、話せなかったことを書きます。
+tags: [Canada, podcast]
+date: 2022-06-09 00:15:00-07:00
+lastmod: 2022-12-16 16:54:00-07:00
+---
 
 ![](https://images.unsplash.com/photo-1566939028087-c4be299e0593?ixlib=rb-1.2.1&q=80&cs=tinysrgb&fm=jpg&crop=entropy)
 

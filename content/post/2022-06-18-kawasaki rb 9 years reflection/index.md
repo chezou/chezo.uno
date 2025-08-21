@@ -1,10 +1,11 @@
-# kawasaki.rb 9年の歴史を振り返って
-
-Added By: Aki Ariga
-Description: kawasaki.rb10年目突入おめでとうございます！の振り返り
-Tags: Community
-Created at: June 18, 2022 1:25 PM
-Last edited at: June 24, 2022 7:51 PM
+---
+title: kawasaki.rb 9年の歴史を振り返って
+authors: [aki]
+summary: kawasaki.rb10年目突入おめでとうございます！の振り返り
+tags: [Community]
+date: 2022-06-18 13:25:00-07:00
+lastmod: 2022-06-24 19:51:00-07:00
+---
 
 ![Untitled](Untitled.png)
 

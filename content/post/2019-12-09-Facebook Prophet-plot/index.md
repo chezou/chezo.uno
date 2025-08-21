@@ -1,10 +1,11 @@
-# Facebook Prophetのplotをmodelオブジェクトなしでする
-
-Added By: Aki Ariga
-Description: fbprophetの予測結果のグラフをmatplotlibだけでplotする
-Tags: Python
-Created at: December 9, 2019 12:36 AM
-Last edited at: December 9, 2019 12:44 AM
+---
+title: Facebook Prophetのplotをmodelオブジェクトなしでする
+authors: [aki]
+summary: fbprophetの予測結果のグラフをmatplotlibだけでplotする
+tags: [Python]
+date: December 9, 2019 12:36 AM
+lastmod: December 9, 2019 12:44 AM
+---
 
 ![](https://images.unsplash.com/photo-1543286386-2e659306cd6c?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

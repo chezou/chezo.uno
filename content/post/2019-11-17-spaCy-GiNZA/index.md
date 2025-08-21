@@ -1,10 +1,11 @@
-# spaCyとGiNZAでマストドンのトレンドワード抽出をしてみた
-
-Added By: Aki Ariga
-Description: spaCyは使いやすいインターフェースが入門者にもとてもよさそう
-Tags: Engineering, NLP
-Created at: November 17, 2019 12:24 AM
-Last edited at: November 27, 2019 2:31 AM
+---
+title: spaCyとGiNZAでマストドンのトレンドワード抽出をしてみた
+authors: [aki]
+summary: spaCyは使いやすいインターフェースが入門者にもとてもよさそう
+tags: [Engineering, NLP]
+date: November 17, 2019 12:24 AM
+lastmod: November 27, 2019 2:31 AM
+---
 
 ![](https://images.unsplash.com/photo-1531730194970-f4d4bfd6475d?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 
