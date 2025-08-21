@@ -3,6 +3,7 @@ title: Timeline for Canadian PR
 authors: [aki]
 tags: [Canada]
 date: 2023-01-27 17:02:00-07:00
+summary: "As a note of the Canadian PR timeline"
 lastmod: 2023-01-27 22:40:00-07:00
 keywords: ['2021', submit, bc, pr, '2022', invitation, work permit, 09, '02', '10']
 recommendations: [/post/2023-01-27-age++/, /post/2019-11-16-notion-cloudflare-sub
@@ -35,17 +36,17 @@ recommendations: [/post/2023-01-27-age++/, /post/2019-11-16-notion-cloudflare-su
 - 2021/10/30 Took medical exam
 - 2021/11/22 Submit eAPR
 - 2022/07/26
-    - Received Medical Request Notice while it had been submited
-    - Re-upload Medical Document
+  - Received Medical Request Notice while it had been submited
+  - Re-upload Medical Document
 - 2022/12/15 Inviation PR Confirmation Portal
 - 2022/12/23
-    - PR Portal Invitation & Submit
-    - Took Photo for PR at London Drugs
+  - PR Portal Invitation & Submit
+  - Took Photo for PR at London Drugs
 - 2022/12/29
-    - Received eCoPR 🎉
-    - Submited MSP card status change
-    - Recreate CRA account
-    - Request new SIN number
+  - Received eCoPR 🎉
+  - Submited MSP card status change
+  - Recreate CRA account
+  - Request new SIN number
 - 2023/01/9-16 Received new SIN number
 - 2023/01/24 PR card received. Everything completed.
 
