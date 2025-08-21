@@ -7,8 +7,7 @@ date: 2019-11-25 17:52:00+09:00
 lastmod: 2019-11-29 15:10:00+09:00
 keywords: [issue, 正規表現, template, tabula, py, chezou, 貧弱, トリガー, close, actions]
 recommendations: [/post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/,
-  /post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita/,
-  /post/2017-01-01-fei-ying-yu-neiteibunitotutenoossnomentenansukosuto/]
+  /post/2019-11-25-github actions-api token-pypi release/, /post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita/]
 ---
 
 ![](https://images.unsplash.com/photo-1520716963369-9b24de965de4?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

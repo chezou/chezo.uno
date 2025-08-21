@@ -5,9 +5,10 @@ summary: Pythonからdigdag/Treasure Workflowを色々できます
 tags: [Engineering, OSS]
 date: 2019-11-16 22:14:00+09:00
 lastmod: 2019-11-16 23:58:00+09:00
-keywords: [digdag, november, pm, '2019', github, ドキュメント, '16', ブランチ, secrets, colabolatory]
-recommendations: [/post/2019-11-25-github actions-api token-pypi release/, /post/2019-11-18-digdag-ci/,
-  /post/2019-11-26-pillow/]
+keywords: [digdag, github, ドキュメント, ブランチ, secrets, colabolatory, boxes, ワークフロー, デザイン,
+  ゴール]
+recommendations: [/post/2019-11-18-digdag-ci/, /post/2019-12-24-python-custom-scripting/,
+  /post/2022-05-05-sqllineage-with-digdag-log/]
 ---
 
 ![](Untitled.png)
