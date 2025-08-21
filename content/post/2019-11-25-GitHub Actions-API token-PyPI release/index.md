@@ -5,9 +5,9 @@ summary: GitHub Actionsを使うとPythonのテストが便利でReleaseも自�
 tags: [GitHub, Python]
 date: 2019-11-25 16:59:00+09:00
 lastmod: 2019-11-27 02:31:00+09:00
-keywords: [actions, テスト, python, november, '2019', github, uses, twine, 環境変数, created]
-recommendations: [/post/2019-11-16-tdworkflow/, /post/2018-01-17_----------------b63a0763e904/,
-  /post/2019-11-26-pillow/]
+keywords: [actions, テスト, python, github, uses, twine, 環境変数, ついで, workflow, version]
+recommendations: [/post/2018-01-17_----------------b63a0763e904/, /post/2017-08-26_python------------------dc8d8f2fe989/,
+  /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/]
 ---
 
 ![](https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
