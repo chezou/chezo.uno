@@ -14,9 +14,6 @@ main:
   - name: Talks
     url: /#talks
     weight: 50
-  - name: Memo
-    url: https://memo.chezo.uno
-    weight: 60
   - name: CV
     url: /aki_ariga_cv.pdf
     weight: 70
