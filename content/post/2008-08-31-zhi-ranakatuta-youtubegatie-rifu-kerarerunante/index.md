@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [テスト, 後ほど, レポ, トランペット, try, tone, 教授, 講座, トーク, 昨日]
 recommendations: [/post/2018-01-17_----------------b63a0763e904/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
-  /post/2005-07-17-urayamasika/]
+  /post/2019-11-25-github actions-api token-pypi release/]
 ---
 やっとかよー。テストテスト。  
   
