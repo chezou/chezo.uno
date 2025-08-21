@@ -2,8 +2,8 @@
 authors: [aki]
 summary: 年末年始に見た映画のメモ
 tags: [movie]
-date: January 5, 2020 7:13 AM
-lastmod: January 5, 2020 4:02 PM
+date: 2020-01-05 07:13:00+09:00
+lastmod: 2020-01-05 16:02:00+09:00
 keywords: [作品, バカ, 映画, インド, 絵本, ノリ, エピソード, ファン, いい, アメリカ]
 recommendations: [/post/2013-12-08-yu-gan-yarizumugale-siihatutosuruhui-ben-3ce/,
   /post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-06-22-bokurano-alternative/]

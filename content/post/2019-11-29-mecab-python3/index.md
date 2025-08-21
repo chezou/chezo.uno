@@ -2,8 +2,8 @@
 authors: [aki]
 summary: mecab-python3を捨ててnatto-pyにしよう
 tags: [NLP]
-date: November 29, 2019 2:58 PM
-lastmod: August 9, 2020 1:40 AM
+date: 2019-11-29 14:58:00+09:00
+lastmod: 2020-08-09 01:40:00+09:00
 keywords: ['83', mecab, natto, '81', windows, py, ipadic, spacy, wheel, ginza]
 recommendations: [/post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/,
   /post/2019-11-17-spacy-ginza/, /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/]

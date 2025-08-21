@@ -3,8 +3,8 @@ title: VeinのiOSショートカット複数URL対応しました
 authors: [aki]
 summary: Androidの使い勝手を超えてしまった...
 tags: [productivity]
-date: November 30, 2019 4:16 PM
-lastmod: December 9, 2019 3:42 PM
+date: 2019-11-30 16:16:00+09:00
+lastmod: 2019-12-09 15:42:00+09:00
 keywords: [ショートカット, 共有, ポスト, 対応, 複数, slack, 同時, twitter, post, facebook]
 recommendations: [/post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
   /post/2023-08-20-removed-slack-from-mobile/, /post/2023-01-10-ios-notification-management/]
