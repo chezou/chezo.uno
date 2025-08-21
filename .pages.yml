@@ -9,7 +9,7 @@ content:
     - { name: title, label: 記事タイトル, type: string, required: true }
     - { name: subtitle, label: サブタイトル, type: string }
     - { name: date, label: 日付, type: date, required: true, options: { time: true, format: yyyy-MM-dd HH:mm:ssxxx } }
-    - { name: lastmod, label: 日付, type: date, options: { time: true, format: yyyy-MM-dd HH:mm:ssxxx } }
+    - { name: lastmod, label: 更新, type: date, options: { time: true, format: yyyy-MM-dd HH:mm:ssxxx } }
     - { name: body, label: 本文, type: rich-text }
     - { name: categories, label: カテゴリ, type: string, list: true }
     - { name: keywords, label: キーワード, type: string, list: true }
