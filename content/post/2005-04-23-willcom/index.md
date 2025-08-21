@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [willcom, ほとんど, 通話料, 家計簿, 学割, 最近, 衝動, 痛い, 無性, au]
-recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/,
-  /post/2009-05-04-ad-es-wojie-yue-surutameni/]
+keywords: [willcom, ほとんど, 通話料, 家計簿, 学割, 衝動, 最近, 無性, au, 痛い]
+recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-04-ad-es-wojie-yue-surutameni/,
+  /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---
 最近、無性にWILLCOMにしたい衝動に駆られています。  
 今は、AUの一番高いプランを学割で使っているのですが、10kを越えることもしばしば。  

@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [レコメンド, ibis, spark, pandas, ラボ, エンジン, チューニング, .com, dmm, sql]
 recommendations: [/post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/,
-  /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/, /post/2022-01-25-hugo-content-based-recommendation/]
+  /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/, /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/]
 ---
 2016/07/25に「夏真っ盛り！Spark + Python + Data Science祭り」を開催しました。
 

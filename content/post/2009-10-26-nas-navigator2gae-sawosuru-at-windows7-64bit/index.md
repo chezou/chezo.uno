@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [nas, 追記, ダメ, 下手, mind, 積極的, map, linkstation, exe, error]
+keywords: [nas, 追記, ダメ, 下手, note, mind, 積極的, map, linkstation, exe]
 recommendations: [/post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/,
   /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/, /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/]
 ---

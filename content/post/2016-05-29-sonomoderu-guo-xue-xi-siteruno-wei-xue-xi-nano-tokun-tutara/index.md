@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [データ, validation, 精度, learning, bias, 学習, モデル, 検証, サイズ, high]
-recommendations: [/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/,
-  /post/2018-05-17_mlse-kickoff/]
+keywords: [データ, 訓練データ, validation, 精度, learning, bias, 学習, モデル, 検証, サイズ]
+recommendations: [/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2019-12-09-facebook
+    prophet-plot/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
 ---
 # Q: うわっ...ワタシのモデル過学習してる…？
 

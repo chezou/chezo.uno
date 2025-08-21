@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['1600', '1200', jpeg, ad, お店, 柔らかく, プル, ed, fc, fb]
+keywords: ['1600', '1200', jpeg, ad, お店, 柔らかく, プル, ed, fb, ea]
 recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2009-08-12-rui-yan-si/,
   /post/2009-08-07-pokemonxin-gan-xian/]
 ---

@@ -1,10 +1,12 @@
 ---
 title: Timeline for Canadian PR
-
 authors: [aki]
 tags: [Canada]
 date: January 27, 2023 5:02 PM
 lastmod: January 27, 2023 10:40 PM
+keywords: ['2021', submit, bc, pr, '2022', invitation, work permit, 09, '02', '10']
+recommendations: [/post/2023-01-27-age++/, /post/2019-11-16-notion-cloudflare-sub
+    domain/, /post/2021-12-18-8-months-after-relocating-vancouver/]
 ---
 
 ### Time line for work permit

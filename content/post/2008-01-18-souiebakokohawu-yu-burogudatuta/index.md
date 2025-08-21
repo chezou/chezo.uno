@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['630', 久々, カナル型, '360', ヘッドホン, 安定, メモ, わけ, 良い, ｒｙ]
+keywords: ['630', 久々, creative, カナル型, '360', ヘッドホン, 安定, メモ, わけ, 良い]
 recommendations: [/post/2005-08-24-hetudohon-hetudohon/, /post/2008-07-09-press-startdang-xuan-simasita/,
   /post/2008-09-14-hetudohonwu-se-sitahi/]
 ---

@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: ['05', '1600', '1200', ca, jpeg, 楽譜, bf, '115', '47', 教会]
-recommendations: [/post/2009-08-07-pokemonxin-gan-xian/, /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/,
+keywords: ['05', '1600', '1200', jpeg, ca, 楽譜, '115', bf, 教会, '47']
+recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2009-08-07-pokemonxin-gan-xian/,
   /post/2010-09-04-tun-zu-xing-tutekimasita/]
 ---
 [![](l_1600_1200_f9f88bf9-3b1a-4e42-a829-05bd703047a6.jpeg)](l_1600_1200_f9f88bf9-3b1a-4e42-a829-05bd703047a6.jpeg)

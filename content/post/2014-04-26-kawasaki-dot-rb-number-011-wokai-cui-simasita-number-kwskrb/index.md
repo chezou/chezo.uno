@@ -11,9 +11,10 @@ tags: []
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 categories: [ruby]
-keywords: [sinatra, 組込み, snowcrush, 変数, js, rails, 次回, kawasaki, rb, 水曜]
+keywords: [sinatra, 組込み, snowcrush, 変数, js, 次回, rails, kawasaki, rb, 水曜]
 recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/,
-  /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/]
+  /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/, /post/2022-06-18-kawasaki
+    rb 9 years reflection/]
 ---
 4/23に[kawasaki.rb #011](http://kawasakirb.doorkeeper.jp/events/10187)を開催しました。  
 次回で1年になるのかと思うと、感慨深いです。  

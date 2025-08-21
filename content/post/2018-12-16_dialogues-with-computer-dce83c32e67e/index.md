@@ -5,7 +5,7 @@ date: '2018-12-16T15:06:00+09:00'
 lastmod: '2018-12-16T15:06:00+09:00'
 categories: []
 authors: [aki]
-keywords: [コンピュータ, lib, 疑問, メッセージ, 人間, やりとり, pc, エンジニア, github, 連想]
+keywords: [コンピュータ, lib, 疑問, メッセージ, やりとり, 人間, pc, エンジニア, github, 連想]
 recommendations: [/post/2017-05-25_teach-what-i-dont-know/, /post/2008-06-01-nantoiunu-li-noren/,
   /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/]
 ---

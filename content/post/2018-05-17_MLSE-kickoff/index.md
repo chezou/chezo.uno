@@ -4,7 +4,7 @@ description: タイトル通り日本ソフトウェア科学会の研究会、�
 date: '2018-05-17T14:03:57+09:00'
 categories: [conference]
 authors: [aki]
-keywords: [機械学習, システム, データ, 人工知能, スキーマ, tfx, ai, 予測, systems, model]
+keywords: [機械学習, システム, データ, 人工知能, ai, スキーマ, tfx, systems, 予測, ポイント還元]
 recommendations: [/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/,
   /post/2019-12-05-ibis2019-mlse/]
 ---

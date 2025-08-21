@@ -6,9 +6,9 @@ lastmod: '2019-06-04T13:33:18+09:00'
 categories: []
 authors: [aki]
 image: {caption: 会の中で一番嬉しそうだった鹿野さん, focal_point: Smart}
-keywords: [ノート, コルーチン, 月刊, イベント, 記念, 寄稿, 創刊, お世話になりました, 祭り, オペレーション]
+keywords: [ノート, コルーチン, 月刊, イベント, 寄稿, 創刊, トレジャーデータ, お世話になりました, 記念, 祭り]
 recommendations: [/post/2019-03-29_ngekkan-lambda-note-article/, /post/2022-12-30-2022-year-in-review/,
-  /post/2018-10-19_treasure-data-------plazma-tech-talk-------3c901d92e973/]
+  /post/2006-07-28-xia-nanode/]
 ---
 
 さる5/30に『n月刊ラムダノート』創刊記念パーティーという名のコルーチン祭りを開催しました。

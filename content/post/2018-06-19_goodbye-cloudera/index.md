@@ -6,7 +6,7 @@ categories: [life]
 authors: [aki]
 keywords: [セールスエンジニア, 自分, 仕事, 企業, 外資, コントリビュート, 違い, 日本, エンジニア, 英語]
 recommendations: [/post/2016-03-30-zhuan-zhi-simasita/, /post/2017-12-31_2017--------c4901627b12d/,
-  /post/2015-12-30-2015nian-wozhen-rifan-tute/]
+  /post/2022-01-09-vancouver-engineer-podcast/]
 ---
 
 この記事は、最近流行りの[Work From Sento](http://blog.nohana.co.jp/article/lets-wfs)で有名な[RAKU SPA](http://rakuspa.com/)からお送りしています。

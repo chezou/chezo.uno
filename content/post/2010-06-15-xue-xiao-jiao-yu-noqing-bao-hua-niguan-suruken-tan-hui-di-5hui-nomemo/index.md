@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [教育, 意見, 議論, 学校, ict, 懇談会, 校務, 文科省, 学校教育, クラウド]
+keywords: [教育, 意見, 議論, ict, 学校, 懇談会, 校務, 文科省, 学校教育, クラウド]
 recommendations: [/post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
   /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/,
   /post/2010-07-05-yi-gu-gang-yan-shan-kou-er-lang-ge-chai-she-hui-tojiao-yu-gai-ge-du-liao/]

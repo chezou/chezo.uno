@@ -8,7 +8,7 @@ featured: false
 authors: [aki]
 tags: []
 projects: []
-keywords: [ca, 携帯, 機種変, ポイント, 学割, ボタン, 友達, '3000', そもそも, 写真]
+keywords: [ca, 携帯, 機種変, ポイント, 学割, '2500', ボタン, 友達, '3000', 写真]
 recommendations: [/post/2010-01-14-hueraranoziyosukan-vuokaruansanburu-kaperading-qi-gong-yan/,
   /post/2005-09-27-willcomxin-ji-zhong-kita/, /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
 ---

@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [交換, 店舗, 電話, 当選, 在庫, tsuboi, やりとり, ため, バッテリー, iphone]
+keywords: [交換, 店舗, 電話, 当選, 在庫, やりとり, tsuboi, バッテリー, ため, iphone]
 recommendations: [/post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/,
   /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/, /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/]
 ---

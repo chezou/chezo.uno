@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ありか, dvdプレーヤー, 需要, 無性, 搭載, 修理, プレーヤー, dvd, 両方, 発想]
+keywords: [矛盾, ありか, dvdプレーヤー, 需要, 無性, 搭載, プレーヤー, 修理, dvd, 両方]
 recommendations: [/post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/,
   /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2005-08-06-webkamera/]
 ---

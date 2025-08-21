@@ -8,7 +8,7 @@ featured: false
 authors: [aki]
 tags: []
 projects: []
-keywords: [読了, ゲーム, twitter, 絶対音感, ぼくらの, 著者, ウェブ, '12', 社会, リアルタイム]
+keywords: [読了, ゲーム, twitter, 絶対音感, ぼくらの, 著者, ウェブ, 社会, リアルタイム, '12']
 recommendations: [/post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/,
   /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/,
   /post/2008-07-30-narutaru/]

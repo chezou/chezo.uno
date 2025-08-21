@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [動画, ツイート, 連続, 再生, 検索, twitterアカウント, ツイッター, firefox, 問題点, 上手く]
+keywords: [動画, ツイート, 連続, 再生, 検索, twitterアカウント, safari, ツイッター, firefox, 問題点]
 recommendations: [/post/2011-04-06-gatiyapin-sings-rajaton/, /post/2009-12-05-after-devil-forcewofa-jue-sita/,
   /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/]
 ---

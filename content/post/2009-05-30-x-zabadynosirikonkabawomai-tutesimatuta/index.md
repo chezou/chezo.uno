@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [送料, 取り扱い, ドラクエ, zabady, '630', '4000', ポスト, 痛感, rockapella, 風呂]
-recommendations: [/post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/, /post/2008-01-18-souiebakokohawu-yu-burogudatuta/,
-  /post/2008-07-16-rockapella-channel/]
+keywords: [送料, 消耗品, 業者, 取り扱い, ドラクエ, zabady, '630', '4000', 痛感, ポスト]
+recommendations: [/post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/, /post/2008-07-16-rockapella-channel/,
+  /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/]
 ---
 結局、[X ZABADY](http://www.amazon.co.jp/TWINBIRD-AV-J122B-FM%E3%83%A9%E3%82%B8%E3%82%AA%E4%BB%98%E9%98%B2%E6%B0%B4%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC-iPod%E5%AF%BE%E5%BF%9C-ZABADY/dp/B000GDXS78/)のシリコンカバーを追加注文してしまった。
 

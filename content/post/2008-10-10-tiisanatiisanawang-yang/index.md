@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [一言, 感激, 講談社, 小さく, 主人公, 深い, 納得, 文章, isbn, 最初]
+keywords: [一言, 感激, 講談社, 主人公, 小さく, 深い, 納得, 文章, isbn, スコア]
 recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-07-06-nodamekantabire18-20/,
   /post/2008-07-19-xi-nomo-nu-gasi-nda/]
 ---

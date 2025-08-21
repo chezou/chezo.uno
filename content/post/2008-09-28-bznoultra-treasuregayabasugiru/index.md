@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [選曲, dvd, ライブ, 素晴らし, b'z, style, '001', treasure, 熱い, 無く]
-recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2008-07-19-can-shu-gui-tou-mo-hong/,
-  /post/2008-06-03-gao-wu-nai-yue/]
+keywords: [選曲, dvd, ライブ, 素晴らし, b'z, style, '001', 熱い, 無く, 手元]
+recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2020-01-05-2019-best-movie/,
+  /post/2008-07-19-can-shu-gui-tou-mo-hong/]
 ---
 B'zのUltra treasureの選曲がやばすぎです。  
   

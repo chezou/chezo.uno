@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [idcf, 録音, 無料, 転送, skype, クラウド, gb, ストレージ, tb, ゲスト]
+keywords: [idcf, 録音, 無料, skype, 転送, クラウド, gb, ストレージ, tb, ゲスト]
 recommendations: [/post/2015-11-22-idcfkuraudono500yuan-sabadepodcast-serverwohazimete8keyue-gajing-timasita/,
   /post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa/,
   /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/]

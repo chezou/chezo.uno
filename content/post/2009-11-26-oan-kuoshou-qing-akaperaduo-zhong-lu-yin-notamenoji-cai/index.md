@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [マイク, オーディオインターフェース, pro, 重視, 録音, 厳しい, 楽しみ, 本格的, ルネサンス, マイクスタンド]
-recommendations: [/post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
-  /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/, /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/]
+keywords: [マイク, オーディオインターフェース, pro, 重視, 録音, 楽しみ, 厳しい, 本格的, ルネサンス, ultravoice]
+recommendations: [/post/2020-04-03-microphone-for-remote-meeting/, /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
+  /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/]
 ---
 本格的に始めよう、というわけではなく、とりあえずアカペラで多重録音を始めてみようと思ったため、機材を簡単にそろえてみました。
 

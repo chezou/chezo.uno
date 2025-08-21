@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [最適化, julia, hash, 比較, 言語, .com, sgj, repeatedly, hateblo, コンパイル]
+keywords: [julia, 最適化, hash, 比較, 言語, .com, 反響, sgj, repeatedly, hateblo]
 recommendations: [/post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/,
-  /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/, /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/]
+  /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/]
 ---
 
 先日、[TinySegmenter.jlの話](https://chezo.uno/post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua

@@ -4,7 +4,7 @@ description: このポストは、最近もやもやっと思っていること�
 date: '2017-01-16T14:55:32+09:00'
 categories: []
 authors: [aki]
-keywords: [ニュース, 攻撃, ロシア, facebook, 記事, ドイツ, こと, 情報, instant, アメリカ]
+keywords: [ニュース, 攻撃, ロシア, facebook, ドイツ, 記事, こと, 情報, instant, 指摘]
 recommendations: [/post/2014-12-15-number-ingress-dehurutaimunopuroezientotochu-hui-tutahua/,
   /post/2019-03-29_ngekkan-lambda-note-article/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
 ---

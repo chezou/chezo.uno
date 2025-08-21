@@ -5,6 +5,9 @@ summary: VS Code from everywhere
 tags: [Python]
 date: 2020-07-16 17:56:00-07:00
 lastmod: 2020-07-16 18:09:00-07:00
+keywords: [code, server, ssh, パスワード, ipad, colab, アクセス, 要求, セル, token]
+recommendations: [/post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/,
+  /post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/, /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/]
 ---
 
 ![iPadからアクセスする図](IMG_0083.jpg)

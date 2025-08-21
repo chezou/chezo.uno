@@ -5,6 +5,9 @@ summary: 子連れ移住に際して調べたり体験したあれこれ
 tags: [Canada, 日常]
 date: 2021-12-15 14:01:00-07:00
 lastmod: 2022-12-16 16:55:00-07:00
+keywords: [学校, 子供, untitled, カナダ, ホテル, 日本, ハンガー, 教室, 部屋, 移住]
+recommendations: [/post/2021-12-18-8-months-after-relocating-vancouver/, /post/2022-11-13-canada-good
+    thing-bad things/, /post/2022-11-28-cancel-japanese-service/]
 ---
 
 ![Untitled](Untitled.png)

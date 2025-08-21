@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [プレイ, クリア, 動画, ゲーム, 力押し, ニコニコ動画, 最後, 強く, 作品, １０]
+keywords: [プレイ, クリア, 動画, ゲーム, 力押し, ニコニコ動画, 最後, 作品, 強く, １０]
 recommendations: [/post/2009-11-14-wu-xian-kontorora/, /post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/,
   /post/2008-06-22-bokurano-alternative/]
 ---

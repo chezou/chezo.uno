@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: [RTD]
-keywords: [spark, client, treasure, data, sparklyr, cran, 開発, インストール, install, サポート]
-recommendations: [/post/2019-12-24-python-custom-scripting/, /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/,
-  /post/2017-12-31_2017--------c4901627b12d/]
+keywords: [rtd, spark, client, data, treasure, sparklyr, cran, 開発, インストール, install]
+recommendations: [/post/2019-11-30-r-package-yami/, /post/2019-12-24-python-custom-scripting/,
+  /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/]
 ---
 
 この記事は、[Arm Treasure Data advent calendar](https://adventar.org/calendars/3932) 3日目です。

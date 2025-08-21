@@ -11,9 +11,9 @@ tags: []
 projects: []
 image: {caption: '', focal_point: '', preview_only: false}
 categories: [ruby]
-keywords: [category, create, text, train, line, tagger, self, segment, def, method]
-recommendations: [/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
-  /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/, /post/2015-12-30-2015nian-wozhen-rifan-tute/]
+keywords: [category, create, text, train, line, tagger, self, segment, file, def]
+recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
+  /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/]
 ---
 2013/12/18にkawasaki.rbの第7回を開催しました。  
 この会から、(同じミューザ川崎内ですが)NTT-ATさんに会場をお借りするようになりました。

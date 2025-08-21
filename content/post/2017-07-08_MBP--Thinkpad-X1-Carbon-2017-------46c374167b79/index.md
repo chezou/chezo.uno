@@ -6,7 +6,7 @@ date: '2017-07-08T12:14:24+09:00'
 categories: []
 authors: [aki]
 aliases: [/post/2017-07-08_mbp-thinkpad-x1-carbon-2017-46c374167b79/]
-keywords: [macbook, ime, alt, pip, 辞書, install, デュアルブート, キーボード, '36', windows]
+keywords: [macbook, ime, alt, pip, デュアルブート, 辞書, install, キーボード, windows, '36']
 recommendations: [/post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/,
   /post/2019-03-10_business-trip-goods/, /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/]
 ---

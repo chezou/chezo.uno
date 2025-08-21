@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [まとめ買い, kindle版, 作品, 作者, 商品, メディア, 勇者, ブログ, チャンス, 主人公]
+keywords: [まとめ買い, コミックス, kindle版, 作品, 作者, 商品, メディア, 勇者, ブログ, チャンス]
 recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
-  /post/2008-06-22-bokurano-alternative/]
+  /post/2020-01-14-2019-best-comic/]
 ---
 海外出張の移動やKindle Unlimitedとかもあって結構漫画を読む機会が多かったのですが、今年読んだ漫画のオススメを書いていきます。
 

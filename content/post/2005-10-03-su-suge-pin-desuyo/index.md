@@ -11,10 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ホワイトボード, ほぼ日, カレンダー, 新聞, サークル, 毎月, 発想, 使用, 一部, 違い]
+keywords: [ホワイトボード, ほぼ日, カレンダー, 新聞, 合戦, サークル, 毎月, 発想, 使用, 一部]
 recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
   /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/,
-  /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/]
+  /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
 ---
 あの一部では有名なほぼ日刊イトイ新聞が、[ほぼ日ホワイトボードカレンダー](http://www.1101.com/store/calendar/index.html)なるものを出すらしいです。  
   

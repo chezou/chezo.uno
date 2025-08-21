@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ruby, リージョナル, 会議, こと, コミュニティ, ペアプロ, 段階, 嬉しかっ, 勉強会, コンセプト]
+keywords: [ruby, リージョナル, 会議, こと, コミュニティ, 段階, 嬉しかっ, ペアプロ, 勉強会, コンセプト]
 recommendations: [/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
-  /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/, /post/2015-12-30-2015nian-wozhen-rifan-tute/]
+  /post/2022-06-18-kawasaki rb 9 years reflection/, /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/]
 ---
 去る2015年1月17日に神奈川Ruby会議を行いました。[公式サイト](http://regional.rubykaigi.org/kana01/)にはスライドや動画も上げましたのでよろしければご覧ください。また、るびま班が近々レポートを上げてくれるはずですので、そちらもお楽しみに。
 

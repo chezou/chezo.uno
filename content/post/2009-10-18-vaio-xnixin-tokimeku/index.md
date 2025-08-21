@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [type, vaio, 我慢, 薄く, 歓迎, 実機, マリオ, ウィルス, srx, core solo]
 recommendations: [/post/2005-09-09-notonogai-zao/, /post/2005-07-17-urayamasika/,
-  /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/]
+  /post/2011-02-05-acer-aspire-1410wocrucial-realssd-c300niwai-fu-kedvdnasinihuan-zhuang-sita/]
 ---
 IYHって単なるマリオ的雄叫びだと思っていたら、衝動買いをしてしまったということだったんですね。これだから、ネットの略語は面白い。
 

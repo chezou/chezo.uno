@@ -5,7 +5,7 @@ date: '2017-12-30T13:31:43+09:00'
 categories: []
 authors: [aki]
 aliases: [/post/2017-12-30_2017-bbf834e065c5/]
-keywords: [amzn, 対応, ear, wireless, mini, usb, ブラック, fit, aptx, 家電]
+keywords: [amzn, 対応, ear, wireless, mini, usb, aptx, ブラック, fit, 家電]
 recommendations: [/post/2019-03-10_business-trip-goods/, /post/2018-01-03_google-home--------------------------17607a9cc2b8/,
   /post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/]
 ---

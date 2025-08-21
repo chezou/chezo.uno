@@ -12,10 +12,9 @@ draft: false
 image: {caption: 'https://chezo.uno/post/2021-04-24-ml-at-work-2nd-edition/ へのレコメンドの例',
   focal_point: Smart, preview_only: false}
 projects: []
-keywords: [レコメンド, 記事, 関連, cli, キーワード, hugo, matter, content, actions, 自分]
-recommendations: [/post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/,
-  /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
-  /post/2019-03-29_ngekkan-lambda-note-article/]
+keywords: [prelims, レコメンド, 記事, 関連, hugo, キーワード, cli, matter, yaml, content]
+recommendations: [/post/2022-01-14-prelims-recommend-hugo/, /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/,
+  /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/]
 ---
 
 こんにちは、早いものでもう40の大台が迫ってくる誕生日を迎えました。前日にブースターショットを打ったので、一日中ほとんど寝込んでいました。必要な人のために、[例のリスト](https://www.amazon.jp/hz/wishlist/ls/FH3MHL6LTE02?ref_=wl_share)を置いておきます。

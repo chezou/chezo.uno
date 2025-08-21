@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [word, ipython, notebook, 可視化, はてなダイアリー, グラフ, コード, 要領, 空間, 引き算]
+keywords: [word, ipython, notebook, 可視化, はてなダイアリー, グラフ, コード, 要領, 引き算, インタラクティブ]
 recommendations: [/post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
   /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/, /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/]
 ---

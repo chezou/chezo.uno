@@ -6,8 +6,8 @@ categories: []
 authors: [aki]
 aliases: [/post/2018-12-01_Windows-64bit-MeCab-KyTea-2018-b283b6c7b33c/]
 keywords: [windows, mecab, wheel, python, 用意, ビルド, bit, '64', バイナリ, 拡張]
-recommendations: [/post/2017-08-26_python------------------dc8d8f2fe989/, /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/,
-  /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/]
+recommendations: [/post/2019-11-29-mecab-python3/, /post/2017-08-26_python------------------dc8d8f2fe989/,
+  /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/]
 ---
 
 こんにちは、日本語のテキスト処理してますか。

@@ -13,7 +13,7 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [gmail, imessage, アドレス, ipad, iphone, 送信, icloud, softbank, 複数, メッセージ]
 recommendations: [/post/2009-05-18-iphonetono1zhou-jian/, /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/,
-  /post/2023-08-06-rakuten-mobile-activation/]
+  /post/2023-01-10-ios-notification-management/]
 ---
 iMessageを複数のデバイスで同一Apple IDで使う場合に、どちらか一方に送る方法を検討したらわかりました。
 

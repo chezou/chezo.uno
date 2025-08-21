@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [メール, 送信, 問題, 登録, メモ, iphone, 着信, files, docomo, 電話番号]
+keywords: [メール, 送信, 問題, 登録, メモ, iphone, 着信, files, docomo, 障壁]
 recommendations: [/post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/,
   /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
 ---

@@ -11,10 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [通知, 会社, モード, 仕事, slack, スマホ, 対応, とき, こと, ない]
-recommendations: [/post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
-  /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
-  /post/2018-06-19_goodbye-cloudera/]
+keywords: [通知, 会社, 仕事, モード, slack, パーソナル, スマホ, 対応, とき, こと]
+recommendations: [/post/2023-01-10-ios-notification-management/, /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
+  /post/2019-11-30-vein-ios-shortcut/]
 ---
 
 休みの時の仕事の通知をコントロールする術をずっと模索していた。

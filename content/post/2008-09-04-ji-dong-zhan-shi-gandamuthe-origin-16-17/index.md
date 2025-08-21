@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [オリジナル, isbn, スコア, 選択, 角川, 引き合い, 角川書店, 気分, 後々, ない]
+keywords: [オリジナル, isbn, スコア, 選択, 引き合い, 角川書店, 角川, 気分, 後々, ない]
 recommendations: [/post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/, /post/2008-09-10-enzieruhato-27/,
   /post/2008-09-08-luck-stealer-2/]
 ---

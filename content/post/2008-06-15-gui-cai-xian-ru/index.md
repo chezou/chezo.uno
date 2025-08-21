@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [衝撃, 喜び, 現実, 悲しみ, ショック, 衣良, 石田, 集英社, 主人公, 驚き]
+keywords: [喜び, 衝撃, 現実, 悲しみ, ショック, 衣良, 石田, 集英社, 主人公, 驚き]
 recommendations: [/post/2008-11-18-ai-gainaibu-wu/, /post/2008-10-28-utukusiizi-domo/,
-  /post/2008-08-11-nodame21juan/]
+  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
 ---
 {{< amazon asin="4087474763" title="エンジェル (集英社文庫)" >}}
 石田 衣良 / / 集英社  

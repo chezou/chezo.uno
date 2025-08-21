@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [http, allow, 扱い, fork, request, client, pull, 早い, そのまま, オリジナル]
-recommendations: [/post/2019-12-04-r-and-td/, /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/,
-  /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
+keywords: [http, allow, fork, client, 扱い, request, pull, 早い, そのまま, オリジナル]
+recommendations: [/post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/,
+  /post/2019-12-04-r-and-td/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---
 [Qiita](http://qiita.com/items/ce9a52030aad51591121)にも書いたけど、Ruby向けAutopagerizeをMechanize対応してみた。
 

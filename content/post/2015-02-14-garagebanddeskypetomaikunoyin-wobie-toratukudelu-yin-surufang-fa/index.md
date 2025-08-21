@@ -14,7 +14,7 @@ projects: []
 keywords: [soundflower, ch, skype, linein, マイク, トラック, output, channel, png, 自分]
 recommendations: [/post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/,
   /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
-  /post/2005-08-06-webkamera/]
+  /post/2020-04-03-microphone-for-remote-meeting/]
 ---
 最近、rebuild.fmやwada.fmを聞いていると、自分もpodcastをはじめてみたいという気持ちが強くなってきました。
 

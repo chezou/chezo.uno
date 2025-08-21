@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [ビザ, カナダ, 英語, 海外, 就職, 目次, 同人誌, 本文, tech, メッセージ]
-recommendations: [/post/2021-04-24-ml-at-work-2nd-edition/, /post/2021-12-18-8-months-after-relocating-vancouver/,
-  /post/2023-01-27-age++/]
+keywords: [ビザ, カナダ, 英語, 海外, 目次, 就職, 同人誌, 本文, メッセージ, tech]
+recommendations: [/post/2022-01-09-vancouver-engineer-podcast/, /post/2021-12-15-relocated-to-vancouver/,
+  /post/2021-04-24-ml-at-work-2nd-edition/]
 ---
 
 @nappan23 さんの「海外生活経験ゼロからカナダでソフトウェアエンジニアになった話〜英語勉強＆就活対策〜」を読みました。

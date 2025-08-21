@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [お子さん, 子供, 同僚, jpg, calendar, advent, 通用, 煽り, 無かっ, 未満]
+keywords: [お子さん, 子供, 同僚, jpg, calendar, advent, 通用, 無かっ, 未満, 唯一]
 recommendations: [/post/2015-12-21-xiao-saizi-gong-gazi-fen-karayao-woyin-mitakunaru-okusuriyin-metane-number-childadvent/,
-  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2023-04-05-first-time-skiing-in-25-years/]
+  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2021-12-15-relocated-to-vancouver/]
 ---
 このエントリは、[お子さん、どんな本読んでる？ Advent Calendar 2015 - Adventar](http://www.adventar.org/calendars/773) の6日目です。
 

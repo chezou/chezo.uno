@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [julia, 実装, パッケージ, issue, python, tinysegmenter, 先生, sgj, 最適化, 日本語]
+keywords: [julia, 実装, パッケージ, issue, python, tinysegmenter, 先生, sgj, 日本語, 最適化]
 recommendations: [/post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/,
   /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/,
   /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/]
