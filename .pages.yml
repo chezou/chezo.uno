@@ -6,6 +6,7 @@ content:
     subfolders: true
     filename: index.md
     delimiters: ["---\n", "---\n"]
+    exclude: ["_index.md"]
     fields:
     - { name: title, label: 記事タイトル, type: string, required: true }
     - { name: subtitle, label: サブタイトル, type: string }
@@ -39,6 +40,7 @@ content:
     subfolders: true
     filename: index.md
     delimiters: ["---\n", "---\n"]
+    exclude: ["_index.md"]
     fields:
     - { name: title, label: 記事タイトル, type: string, required: true }
     - { name: subtitle, label: サブタイトル, type: string }
