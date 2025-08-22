@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-09-08 14:49:19-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 迫力
-- 膳立て
-- 猟奇的
-- 集英社
-- ない
-- 感じ
-- 教師
-- はじめ
-- はず
-- ほとんど
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-09-08 14:49:19-07:00'
 projects: []
-recommendations:
-- /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/
-- /post/2008-08-01-ono-lisa-best-2002-2006/
-- /post/2008-09-10-enzieruhato-27/
 subtitle: ''
 summary: ''
 tags: []
 title: Luck Stealer (2)
+keywords: [迫力, 膳立て, 猟奇的, 集英社, ない, 感じ, 教師, はじめ, はず, ほとんど]
+recommendations: [/post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/, /post/2008-08-01-ono-lisa-best-2002-2006/,
+  /post/2008-09-10-enzieruhato-27/]
 ---
 
 {{< amazon asin="408874571X" title="Luck Stealer 2 (2) (ジャンプコミックス)" >}}

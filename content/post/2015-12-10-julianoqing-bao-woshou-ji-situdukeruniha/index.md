@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-12-09 16:00:00-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- julia
-- bicycle
-- '1885'
-- feed
-- .com
-- 情報
-- reddit
-- 方々
-- slack
-- 変化
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-12-09 16:00:00-08:00'
 projects: []
-recommendations:
-- /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
-- /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/
-- /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
 subtitle: ''
 summary: ''
 tags: []
 title: Juliaの情報を収集しつづけるには
+keywords: [julia, bicycle, '1885', feed, .com, 情報, reddit, 方々, slack, 変化]
+recommendations: [/post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
+  /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/, /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/]
 ---
 
 この記事は[Julia Advent Calendar 2015](http://qiita.com/advent-calendar/2015/julialang) の10日目です。 昨日は、bicycle1885さんの[Juliaのユニットテスト - りんごがでている](http://bicycle1885.hatenablog.com/entry/2015/12/09/121347)でした。

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-08-22 18:27:50-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- yapc
-- tokyo
-- '2015'
-- org
-- はてなブックマーク
-- php
-- トピック
-- podcast
-- 処理
-- 技術
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-08-22 18:27:50-07:00'
 projects: []
-recommendations:
-- /post/2008-07-16-rockapella-channel/
-- /post/2015-12-30-2015nian-wozhen-rifan-tute/
-- /post/2016-03-30-zhuan-zhi-simasita/
 subtitle: ''
 summary: ''
 tags: []
 title: 'YAPC::ASIA Tokyo 2015参加してきた #yapcasia'
+keywords: [yapc, tokyo, '2015', org, はてなブックマーク, php, トピック, podcast, 処理, 技術]
+recommendations: [/post/2008-07-16-rockapella-channel/, /post/2015-12-30-2015nian-wozhen-rifan-tute/,
+  /post/2016-03-30-zhuan-zhi-simasita/]
 ---
 
 初参加にして最後のYAPC::ASIA Tokyoに行ってきた。

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2005-05-18 23:05:00-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 矛盾
-- ありか
-- dvdプレーヤー
-- 需要
-- 無性
-- 搭載
-- プレーヤー
-- 修理
-- dvd
-- 両方
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2005-05-18 23:05:00-07:00'
 projects: []
-recommendations:
-- /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/
-- /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
-- /post/2005-08-06-webkamera/
 subtitle: ''
 summary: ''
 tags: []
 title: VHS内蔵DVDプレーヤー
+keywords: [矛盾, ありか, dvdプレーヤー, 需要, 無性, 搭載, プレーヤー, 修理, dvd, 両方]
+recommendations: [/post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/,
+  /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2005-08-06-webkamera/]
 ---
 
 最近、無性にほしいのがVHS搭載DVDプレーヤーなのです。  

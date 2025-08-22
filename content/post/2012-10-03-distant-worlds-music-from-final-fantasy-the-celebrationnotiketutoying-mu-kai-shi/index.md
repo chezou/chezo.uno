@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2012-10-02 19:10:54-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- '00'
-- 開演
-- 開場
-- 応募
-- '2012'
-- '18'
-- 会場
-- ホール
-- 日程
-- '12'
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2012-10-02 19:10:54-07:00'
 projects: []
-recommendations:
-- /post/2012-09-25-singstodobrogoszgazai-bigong-yan/
-- /post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/
-- /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/
 subtitle: ''
 summary: ''
 tags: []
 title: Distant Worlds music from FINAL FANTASY THE CELEBRATIONのチケット応募開始！
+keywords: ['00', 開演, 開場, 応募, '2012', '18', 会場, ホール, 日程, '12']
+recommendations: [/post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/,
+  /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/]
 ---
 
 [GAME MUSIC GARDEN](http://sky.ap.teacup.com/helen/1916.html)さんで知ったのですが、FINAL FANTASYのオフィシャルな演奏会のチケット応募が始まったようです。

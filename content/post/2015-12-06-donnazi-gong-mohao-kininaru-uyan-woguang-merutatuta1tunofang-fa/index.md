@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-12-05 16:00:00-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- お子さん
-- 子供
-- 同僚
-- jpg
-- calendar
-- advent
-- 通用
-- 無かっ
-- 未満
-- 唯一
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-12-05 16:00:00-08:00'
 projects: []
-recommendations:
-- /post/2015-12-21-xiao-saizi-gong-gazi-fen-karayao-woyin-mitakunaru-okusuriyin-metane-number-childadvent/
-- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
-- /post/2021-12-15-relocated-to-vancouver/
 subtitle: ''
 summary: ''
 tags: []
 title: どんな子供も好きになる、「うーやん」を広めるたった1つの方法
+keywords: [お子さん, 子供, 同僚, jpg, calendar, advent, 通用, 無かっ, 未満, 唯一]
+recommendations: [/post/2015-12-21-xiao-saizi-gong-gazi-fen-karayao-woyin-mitakunaru-okusuriyin-metane-number-childadvent/,
+  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2021-12-15-relocated-to-vancouver/]
 ---
 
 このエントリは、[お子さん、どんな本読んでる？ Advent Calendar 2015 - Adventar](http://www.adventar.org/calendars/773) の6日目です。

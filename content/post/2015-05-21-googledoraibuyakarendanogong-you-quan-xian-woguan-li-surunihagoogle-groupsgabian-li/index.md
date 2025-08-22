@@ -1,35 +1,20 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-05-20 17:37:16-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- groups
-- 権限
-- グループ
-- google
-- カレンダー
-- メンバー
-- 公開
-- 共有
-- 編集
-- ヘルプ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-05-20 17:37:16-07:00'
 projects: []
-recommendations:
-- /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/
-- /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/
-- /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/
 subtitle: ''
 summary: ''
 tags: []
 title: Googleドライブやカレンダーの共有権限を管理するにはGoogle groupsが便利
+keywords: [groups, 権限, グループ, google, カレンダー, メンバー, 公開, 共有, 編集, ヘルプ]
+recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
+  /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/,
+  /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/]
 ---
 
 ネットで調べていてもGoogle Appsの情報しか出ないので、備忘録として書きます。

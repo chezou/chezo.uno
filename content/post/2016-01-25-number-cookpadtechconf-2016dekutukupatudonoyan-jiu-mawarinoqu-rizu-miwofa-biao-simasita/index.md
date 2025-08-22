@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2016-01-24 16:00:00-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 仕組み
-- '2016'
-- カテゴリ
-- ため
-- techconf
-- 情報
-- 推薦
-- ありがたい
-- 開催
-- 機械学習
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2016-01-24 16:00:00-08:00'
 projects: []
-recommendations:
-- /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/
-- /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
-- /post/2016-03-30-zhuan-zhi-simasita/
 subtitle: ''
 summary: ''
 tags: []
 title: '#CookpadTechConf 2016でクックパッドの研究まわりの取り組みを発表しました'
+keywords: [仕組み, '2016', カテゴリ, ため, techconf, 情報, 推薦, ありがたい, 開催, 機械学習]
+recommendations: [/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
+  /post/2016-03-30-zhuan-zhi-simasita/]
 ---
 
 1/23に開催された[Cookpad TechConf 2016](http://techconf.cookpad.com/)で、クックパッドの研究開発に関する取り組みを紹介させていただきました。

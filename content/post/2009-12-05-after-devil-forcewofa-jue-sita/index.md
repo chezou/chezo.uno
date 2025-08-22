@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-12-05 13:57:22-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- プレイ
-- クリア
-- 動画
-- ゲーム
-- 力押し
-- ニコニコ動画
-- 最後
-- 作品
-- 強く
-- １０
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-12-05 13:57:22-08:00'
 projects: []
-recommendations:
-- /post/2009-11-14-wu-xian-kontorora/
-- /post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/
-- /post/2008-06-22-bokurano-alternative/
 subtitle: ''
 summary: ''
 tags: []
 title: After Devil Forceを発掘した
+keywords: [プレイ, クリア, 動画, ゲーム, 力押し, ニコニコ動画, 最後, 作品, 強く, １０]
+recommendations: [/post/2009-11-14-wu-xian-kontorora/, /post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/,
+  /post/2008-06-22-bokurano-alternative/]
 ---
 
 昔々、Compileというゲーム会社があったのだが（中略）、実家に帰ったら晩年の作品であるAfterDevilForceを発見してしまいました。当時、中学生だった自分には、最終面だけはクリアできなくて諦めた記憶があります。

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2014-07-05 15:06:54-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- julia
-- sorami
-- vs
-- 移植
-- 白熱
-- オワコン
-- lighttable
-- ドリブン
-- studio
-- ide
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-07-05 15:06:54-07:00'
 projects: []
-recommendations:
-- /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/
-- /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
-- /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/
 subtitle: ''
 summary: ''
 tags: []
 title: '#JuliaTokyo 01で「Julia100本ノック」を発表してきました'
+keywords: [julia, sorami, vs, 移植, 白熱, オワコン, lighttable, ドリブン, studio, ide]
+recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/,
+  /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/]
 ---
 
 [JuliaTokyo 01](https://juliatokyo.connpass.com/event/6891/)で発表してきました。  

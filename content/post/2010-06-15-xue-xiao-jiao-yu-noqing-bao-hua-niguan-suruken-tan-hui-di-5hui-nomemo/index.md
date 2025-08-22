@@ -1,35 +1,20 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-06-15 14:58:48-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 教育
-- 意見
-- 議論
-- ict
-- 学校
-- 懇談会
-- 校務
-- 文科省
-- 学校教育
-- クラウド
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-06-15 14:58:48-07:00'
 projects: []
-recommendations:
-- /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/
-- /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/
-- /post/2010-07-05-yi-gu-gang-yan-shan-kou-er-lang-ge-chai-she-hui-tojiao-yu-gai-ge-du-liao/
 subtitle: ''
 summary: ''
 tags: []
 title: 学校教育の情報化に関する懇談会第5回のメモ
+keywords: [教育, 意見, 議論, ict, 学校, 懇談会, 校務, 文科省, 学校教育, クラウド]
+recommendations: [/post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
+  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/,
+  /post/2010-07-05-yi-gu-gang-yan-shan-kou-er-lang-ge-chai-she-hui-tojiao-yu-gai-ge-du-liao/]
 ---
 
 文科省が主催する、[学校教育の情報化に関する懇談会](http://www.mext.go.jp/a_menu/shotou/zyouhou/1292783.htm)の[第5回が6/9に開催されました](http://www.mext.go.jp/b_menu/houdou/22/05/1294349.htm)。  

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2016-12-17 11:05:14-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 交換
-- 店舗
-- 電話
-- 当選
-- 在庫
-- やりとり
-- tsuboi
-- バッテリー
-- ため
-- iphone
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2016-12-17 11:05:14-08:00'
 projects: []
-recommendations:
-- /post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/
-- /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/
-- /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/
 subtitle: ''
 summary: ''
 tags: []
 title: iPhone 6sのバッテリー交換には電話サポート+エクスプレス交換がオススメ
+keywords: [交換, 店舗, 電話, 当選, 在庫, やりとり, tsuboi, バッテリー, ため, iphone]
+recommendations: [/post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/,
+  /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/, /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/]
 ---
 
 噂のiPhone 6sのバッテリー交換に当選しました。症状としては、突然電源断が起こるというもので、ちょいちょい突如落ちる現象には悩まされていました。

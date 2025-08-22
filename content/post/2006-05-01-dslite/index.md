@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2006-05-01 14:46:45-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 秘書
-- 研究室
-- ds
-- 購入
-- 金曜日
-- タイ
-- 先輩
-- わけ
-- 先週
-- lite
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2006-05-01 14:46:45-07:00'
 projects: []
-recommendations:
-- /post/2006-03-17-uhi/
-- /post/2008-10-05-hd53r-ver-dot-8wogou-ru/
-- /post/2005-08-24-hetudohon-hetudohon/
 subtitle: ''
 summary: ''
 tags: []
 title: DSLite!
+keywords: [秘書, 研究室, ds, 購入, 金曜日, タイ, 先輩, わけ, 先週, lite]
+recommendations: [/post/2006-03-17-uhi/, /post/2008-10-05-hd53r-ver-dot-8wogou-ru/,
+  /post/2005-08-24-hetudohon-hetudohon/]
 ---
 
 ついに念願のNintendoDS Liteを購入しました！   

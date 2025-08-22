@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-07-07 14:44:53-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- オブ
-- ライフ
-- リアル
-- グループ
-- スコア
-- 選択
-- talking
-- ハーモニー
-- song
-- christmas
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-07-07 14:44:53-07:00'
 projects: []
-recommendations:
-- /post/2008-06-03-er-du-qin-qian/
-- /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/
-- /post/2008-08-01-ono-lisa-best-2002-2006/
 subtitle: ''
 summary: ''
 tags: []
 title: The Real Group - Real Christmas, Commonly unique
+keywords: [オブ, ライフ, リアル, グループ, スコア, 選択, talking, ハーモニー, song, christmas]
+recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/,
+  /post/2008-08-01-ono-lisa-best-2002-2006/]
 ---
 
 おいおい、書いていたら消えてたよ。  

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-10-01 18:10:00-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 店員
-- 読後感
-- 王道
-- 森博嗣
-- 東野
-- 圭吾
-- ミステリー
-- みゆき
-- 感情移入
-- 伏線
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-10-01 18:10:00-07:00'
 projects: []
-recommendations:
-- /post/2008-05-17-subetegafninaru-du-liao/
-- /post/2008-08-24-sayonaraituka/
-- /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/
 subtitle: ''
 summary: ''
 tags: []
 title: パーフェクトブルー読了
+keywords: [店員, 読後感, 王道, 森博嗣, 東野, 圭吾, ミステリー, みゆき, 感情移入, 伏線]
+recommendations: [/post/2008-05-17-subetegafninaru-du-liao/, /post/2008-08-24-sayonaraituka/,
+  /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/]
 ---
 
 {{< amazon asin="4488411010" title="パーフェクト・ブルー (創元推理文庫)" >}}

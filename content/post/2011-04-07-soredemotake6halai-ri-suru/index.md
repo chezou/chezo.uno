@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-04-07 15:01:11-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 来日
-- 日本
-- サイト
-- 祈り
-- 推測
-- 地震
-- あたたかい
-- message
-- knows
-- sure
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-04-07 15:01:11-07:00'
 projects: []
-recommendations:
-- /post/2009-12-13-hutagozuo-liu-xing-qun-hajin-wan-kara-14ri-am2shi-gapiku/
-- /post/2022-11-28-cancel-japanese-service/
-- /post/2009-03-03-sok-bao-masa-festa/
 subtitle: ''
 summary: ''
 tags: []
 title: それでもTake6は来日する
+keywords: [来日, 日本, サイト, 祈り, 推測, 地震, あたたかい, message, knows, sure]
+recommendations: [/post/2009-12-13-hutagozuo-liu-xing-qun-hajin-wan-kara-14ri-am2shi-gapiku/,
+  /post/2022-11-28-cancel-japanese-service/, /post/2009-03-03-sok-bao-masa-festa/]
 ---
 
 【20110531追記】[オフィシャルサイトによると、Take6の来日は2012年2月に延期されたようです。  

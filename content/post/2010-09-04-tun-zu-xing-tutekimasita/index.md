@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-09-04 05:09:12-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- '1600'
-- '1200'
-- jpeg
-- ad
-- お店
-- 柔らかく
-- プル
-- ed
-- fb
-- ea
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-09-04 05:09:12-07:00'
 projects: []
-recommendations:
-- /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
-- /post/2009-08-12-rui-yan-si/
-- /post/2009-08-07-pokemonxin-gan-xian/
 subtitle: ''
 summary: ''
 tags: []
 title: 豚組行ってきました
+keywords: ['1600', '1200', jpeg, ad, お店, 柔らかく, プル, ed, fb, ea]
+recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2009-08-12-rui-yan-si/,
+  /post/2009-08-07-pokemonxin-gan-xian/]
 ---
 
 [![](l_1600_1200_315061ad-b9f6-4b4a-adaa-cc3b852b3712.jpeg)](l_1600_1200_315061ad-b9f6-4b4a-adaa-cc3b852b3712.jpeg)

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2016-12-21 05:00:00-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 英会話
-- dmm
-- モニタ
-- chromecast
-- 継続
-- 英語
-- こと
-- ルンバ
-- 転職
-- レッスン
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2016-12-21 05:00:00-08:00'
 projects: []
-recommendations:
-- /post/2016-12-31-2016nian-wozhen-rifan-tute/
-- /post/2022-01-09-vancouver-engineer-podcast/
-- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
 subtitle: ''
 summary: ''
 tags: []
 title: '#eigo と私〜あるいは子持ちの業務外活動の続け方'
+keywords: [英会話, dmm, モニタ, chromecast, 継続, 英語, こと, ルンバ, 転職, レッスン]
+recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2022-01-09-vancouver-engineer-podcast/,
+  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/]
 ---
 
 こんにちは、温泉行きたいです。この記事は、[pyspaアドベントカレンダー2016](http://www.adventar.org/calendars/1435)の21日目です。1日前は、[渋川さん](http://blog.shibu.jp/article/178099358.html)の保険の話でした。

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-11-07 14:00:00-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- instagram
-- 写真
-- 悩ましい
-- 活躍
-- 無い
-- 最大
-- 特徴
-- iphone
-- 方法
-- なく
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-11-07 14:00:00-08:00'
 projects: []
-recommendations:
-- /post/2017-01-30-indigogo-dehazimetebatukusitelai-ta-dot-woshi-tute3keyue-gatatuta/
-- /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
-- /post/2016-12-31-2016nian-wozhen-rifan-tute/
 subtitle: ''
 summary: ''
 tags: []
 title: instagr.amが面白い
+keywords: [instagram, 写真, 悩ましい, 活躍, 無い, 最大, 特徴, iphone, 方法, なく]
+recommendations: [/post/2017-01-30-indigogo-dehazimetebatukusitelai-ta-dot-woshi-tute3keyue-gatatuta/,
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2016-12-31-2016nian-wozhen-rifan-tute/]
 ---
 
 ![](https://lh4.ggpht.com/_fY4jPztBNxw/TNa7URH8ORI/AAAAAAAAAjc/ZRSFiOyC6vc/s400/DSCF6018.JPG)

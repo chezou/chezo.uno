@@ -1,29 +1,16 @@
 ---
-authors:
-- aki
+authors: [aki]
 date: '2005-03-03 13:47:48-08:00'
 draft: false
 featured: false
-keywords:
-- ca
-- 携帯
-- 機種変
-- ポイント
-- 学割
-- '2500'
-- ボタン
-- 友達
-- '3000'
-- 写真
 projects: []
-recommendations:
-- /post/2010-01-14-hueraranoziyosukan-vuokaruansanburu-kaperading-qi-gong-yan/
-- /post/2005-09-27-willcomxin-ji-zhong-kita/
-- /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/
 subtitle: ''
 summary: ''
 tags: []
 title: すごーい！！
+keywords: [ca, 携帯, 機種変, ポイント, 学割, '2500', ボタン, 友達, '3000', 写真]
+recommendations: [/post/2010-01-14-hueraranoziyosukan-vuokaruansanburu-kaperading-qi-gong-yan/,
+  /post/2005-09-27-willcomxin-ji-zhong-kita/, /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
 ---
 
 [これ](http://VGA640.exblog.jp/1640846)を見て、携帯のカメラのすごさを思い知った。しょせんは付属物とかいってなめてちゃいかんのね。\

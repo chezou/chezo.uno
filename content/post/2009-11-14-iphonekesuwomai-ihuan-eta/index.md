@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-11-14 04:11:21-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- suica
-- ビック
-- チャージ
-- スイカ
-- ジャケット
-- view
-- カード
-- 携帯
-- 大きい
-- 基本的
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-11-14 04:11:21-08:00'
 projects: []
-recommendations:
-- /post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/
-- /post/2005-03-03-sugoi/
-- /post/2009-05-12-konnitiha-iphone/
 subtitle: ''
 summary: ''
 tags: []
 title: iPhoneケースを買い換えた
+keywords: [suica, ビック, チャージ, スイカ, ジャケット, view, カード, 携帯, 大きい, 基本的]
+recommendations: [/post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/,
+  /post/2005-03-03-sugoi/, /post/2009-05-12-konnitiha-iphone/]
 ---
 
 もともと、[クリスタルジャケット](http://www.amazon.co.jp/gp/product/B001F70X2W/)を使っていたのですが、先日開けようと思ったら接続部の薄いところが折れているのに気付いて買い換えました。6月に買ってわずか5ヶ月の命でした。iPhone本体は傷など付いておらず、気に入っていただけに残念です。

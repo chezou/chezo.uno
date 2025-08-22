@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2014-02-23 14:06:04-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- タイトル
-- julia
-- 機械学習
-- 網羅
-- 一昔
-- カーネル
-- gadfly
-- パターン認識
-- 気味
-- 釣り
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-02-23 14:06:04-08:00'
 projects: []
-recommendations:
-- /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/
-- /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
-- /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/
 subtitle: ''
 summary: ''
 tags: []
 title: '「はじめてのパターン認識」読書会に参加しました #はじパタ'
+keywords: [タイトル, julia, 機械学習, 網羅, 一昔, カーネル, gadfly, パターン認識, 気味, 釣り]
+recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
+  /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/]
 ---
 
 先日開催された[第12回「はじめてのパターン認識」読書会](http://connpass.com/event/5157/)に[@yamakatu](https://twitter.com/yamakatu)さんに誘われるままに参加してきました。

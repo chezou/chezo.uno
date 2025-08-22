@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2012-11-12 01:11:33-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- パワーポイント
-- source
-- gist
-- 形式
-- 方法
-- syntax
-- 保持
-- html
-- コード
-- 覚え書き
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2012-11-12 01:11:33-08:00'
 projects: []
-recommendations:
-- /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/
-- /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
-- /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/
 subtitle: ''
 summary: ''
 tags: []
 title: パワーポイントに色づけしたソースコードを簡単に貼る方法
+keywords: [パワーポイント, source, gist, 形式, 方法, syntax, 保持, html, コード, 覚え書き]
+recommendations: [/post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/,
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/]
 ---
 
 パワーポイントに色づけしたコードを貼るのって、皆どうやってるのか不思議に思っていたのですが、どれもちょっと面倒だなという感じでした。

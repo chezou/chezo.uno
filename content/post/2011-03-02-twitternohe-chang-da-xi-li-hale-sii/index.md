@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-03-02 14:00:43-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 合唱
-- ネタ
-- twitter
-- 面白い
-- ジブリ
-- chorus
-- 発声
-- 盛り上がり
-- 広がり
-- 自動的
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-03-02 14:00:43-08:00'
 projects: []
-recommendations:
-- /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/
-- /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/
-- /post/2007-07-02-minnanohe-chang/
 subtitle: ''
 summary: ''
 tags: []
 title: Twitterの合唱大喜利は楽しい
+keywords: [合唱, ネタ, twitter, 面白い, ジブリ, chorus, 発声, 盛り上がり, 広がり, 自動的]
+recommendations: [/post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
+  /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2007-07-02-minnanohe-chang/]
 ---
 
 Twitterでしばしば見かけるのですが、誰からともなく大喜利が始まることがあります。たとえば、何かの「あるあるネタ」なんかの広がりも面白いです。

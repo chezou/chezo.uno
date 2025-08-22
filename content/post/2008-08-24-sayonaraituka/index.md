@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-08-24 14:49:45-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 最初
-- 浮気
-- 描写
-- 終わり
-- 人間
-- 納得
-- こと
-- 作品
-- すべて
-- 構成
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-08-24 14:49:45-07:00'
 projects: []
-recommendations:
-- /post/2008-10-10-tiisanatiisanawang-yang/
-- /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/
-- /post/2008-09-10-enzieruhato-27/
 subtitle: ''
 summary: ''
 tags: []
 title: サヨナライツカ
+keywords: [最初, 浮気, 描写, 終わり, 人間, 納得, こと, 作品, すべて, 構成]
+recommendations: [/post/2008-10-10-tiisanatiisanawang-yang/, /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/,
+  /post/2008-09-10-enzieruhato-27/]
 ---
 
 {{< amazon asin="434440257X" title="サヨナライツカ (幻冬舎文庫)" >}}

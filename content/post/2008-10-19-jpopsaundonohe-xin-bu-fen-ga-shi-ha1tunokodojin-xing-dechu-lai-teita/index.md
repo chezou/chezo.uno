@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-10-18 20:10:00-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- マイナー
-- 進行
-- メジャー
-- コード
-- 投稿者
-- knows
-- 感心
-- メロディ
-- サウンド
-- なじみ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-10-18 20:10:00-07:00'
 projects: []
-recommendations:
-- /post/2008-07-05-rajaton/
-- /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
-- /post/2020-01-14-2019-best-comic/
 subtitle: ''
 summary: ''
 tags: []
 title: JPOPサウンドの核心部分が、実は１つのコード進行で出来ていた
+keywords: [マイナー, 進行, メジャー, コード, 投稿者, knows, 感心, メロディ, サウンド, なじみ]
+recommendations: [/post/2008-07-05-rajaton/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
+  /post/2020-01-14-2019-best-comic/]
 ---
 
 [JPOPサウンドの核心部分が、実は1つのコード進行で出来ていた - エクサの口に戸は建たない](http://d.hatena.ne.jp/EXA/20081018/1224310523)をやっと読んだ。というか見た。  

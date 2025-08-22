@@ -1,35 +1,20 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-04-06 15:00:59-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- virtual
-- choir
-- whitacre
-- 動画
-- ted
-- 合唱
-- youtube
-- 説明
-- '12'
-- 紹介
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-04-06 15:00:59-07:00'
 projects: []
-recommendations:
-- /post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/
-- /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/
-- /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/
 subtitle: ''
 summary: ''
 tags: []
 title: Eric WhitacreのTEDでの講演が公開
+keywords: [virtual, choir, whitacre, 動画, ted, 合唱, youtube, 説明, '12', 紹介]
+recommendations: [/post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/,
+  /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
+  /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/]
 ---
 
 当ブログでも[以前紹介した](http://wp.me/pvR30-eD)Eric Whitacre氏のVirtual Choir。YouTubeを通じて合唱しようぜという企画です。2月頃にWhitacre氏がVirtual Choir2.0に関して[TEDでtalk](http://twitter.com/#!/ericwhitacre/status/39104670399987712)する、という話が挙がっていたのですが、ついに[4/1に公開された](http://twitter.com/#!/ericwhitacre/status/53855011339374592)ようです。

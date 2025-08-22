@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2005-09-18 14:45:41-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 混声
-- 演奏会
-- オケ
-- 男声
-- コンサートホール
-- 良かっ
-- 合唱団
-- 今日
-- 合同
-- 力押し
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2005-09-18 14:45:41-07:00'
 projects: []
-recommendations:
-- /post/2010-09-11-press-start-2010xing-tutekita/
-- /post/2005-07-17-urayamasika/
-- /post/2005-08-21-nan-sheng-he-chang/
 subtitle: ''
 summary: ''
 tags: []
 title: 高田三郎行ってきました。
+keywords: [混声, 演奏会, オケ, 男声, コンサートホール, 良かっ, 合唱団, 今日, 合同, 力押し]
+recommendations: [/post/2010-09-11-press-start-2010xing-tutekita/, /post/2005-07-17-urayamasika/,
+  /post/2005-08-21-nan-sheng-he-chang/]
 ---
 
 今日は、某高田三郎の演奏会に行ってきました。  

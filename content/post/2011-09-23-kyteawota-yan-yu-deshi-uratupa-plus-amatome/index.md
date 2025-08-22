@@ -1,35 +1,20 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-09-22 22:09:10-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- kytea
-- sinatra
-- mykytea
-- 言語モデル
-- 読み
-- 推定
-- nltk
-- 対話
-- 音声
-- python
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-09-22 22:09:10-07:00'
 projects: []
-recommendations:
-- /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
-- /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/
-- /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/
 subtitle: ''
 summary: ''
 tags: []
 title: KyTeaを他言語で使うラッパー+αまとめ
+keywords: [kytea, sinatra, mykytea, 言語モデル, 読み, 推定, nltk, 対話, 音声, python]
+recommendations: [/post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
+  /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
+  /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/]
 ---
 
 [@neubig](http://twitter.com/neubig)さんの作られたKyTeaを他言語で利用できるラッパーですが、  

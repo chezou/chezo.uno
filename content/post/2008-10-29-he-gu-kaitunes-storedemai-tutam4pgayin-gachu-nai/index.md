@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-10-29 14:51:16-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- ファイル
-- 公演
-- プチヲタ
-- アカペラグループ
-- 名古屋
-- 日本語
-- 日程
-- '27'
-- マシン
-- '11'
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-10-29 14:51:16-07:00'
 projects: []
-recommendations:
-- /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
-- /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
-- /post/2008-07-10-ris-a-la-malta/
 subtitle: ''
 summary: ''
 tags: []
 title: 何故かiTunes storeで買ったm4pが音が出ない
+keywords: [ファイル, 公演, プチヲタ, アカペラグループ, 名古屋, 日本語, 日程, '27', マシン, '11']
+recommendations: [/post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
+  /post/2008-07-10-ris-a-la-malta/]
 ---
 
 そうなのだ。しかも、その症状が出たファイルは、前のマシンでバックアップして新しいマシンに復元した日本語のファイルばかり。ファイルも日本語の部分だけ文字化けしていて(日本語がアンダーバーになっていた)、QuickTimeでは再生できるというなぞっぷり。  

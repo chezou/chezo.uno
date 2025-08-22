@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-12-31 18:01:47-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 統計
-- レポート
-- ブログ
-- '2011'
-- コンサートホール
-- 概要
-- コンサート
-- wordpress
-- 年間
-- 去年
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-12-31 18:01:47-08:00'
 projects: []
-recommendations:
-- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
-- /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/
-- /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
 subtitle: ''
 summary: ''
 tags: []
 title: 2011 in review
+keywords: [統計, レポート, ブログ, '2011', コンサートホール, 概要, コンサート, wordpress, 年間, 去年]
+recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
+  /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/]
 ---
 
 あけましておめでとうございます。  

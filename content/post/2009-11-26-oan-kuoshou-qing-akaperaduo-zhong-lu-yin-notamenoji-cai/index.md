@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-11-26 13:57:16-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- マイク
-- オーディオインターフェース
-- pro
-- 重視
-- 録音
-- 楽しみ
-- 厳しい
-- 本格的
-- ルネサンス
-- ultravoice
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-11-26 13:57:16-08:00'
 projects: []
-recommendations:
-- /post/2020-04-03-microphone-for-remote-meeting/
-- /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
-- /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/
 subtitle: ''
 summary: ''
 tags: []
 title: お安くお手軽アカペラ多重録音のための機材
+keywords: [マイク, オーディオインターフェース, pro, 重視, 録音, 楽しみ, 厳しい, 本格的, ルネサンス, ultravoice]
+recommendations: [/post/2020-04-03-microphone-for-remote-meeting/, /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
+  /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/]
 ---
 
 本格的に始めよう、というわけではなく、とりあえずアカペラで多重録音を始めてみようと思ったため、機材を簡単にそろえてみました。

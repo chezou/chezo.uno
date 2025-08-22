@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-07-23 14:55:06-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- コメント
-- ライフログ
-- 読書メーター
-- 殆ど
-- 見た目
-- excite
-- 明示
-- エントリー
-- 雑感
-- モチベーション
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-07-23 14:55:06-07:00'
 projects: []
-recommendations:
-- /post/2009-05-16-du-shu-metahazimemasita/
-- /post/2009-05-02-hazimemasite-wordpress/
-- /post/2008-10-28-utukusiizi-domo/
 subtitle: ''
 summary: ''
 tags: []
 title: 読書メーターの面倒なところ
+keywords: [コメント, ライフログ, 読書メーター, 殆ど, 見た目, excite, 明示, エントリー, 雑感, モチベーション]
+recommendations: [/post/2009-05-16-du-shu-metahazimemasita/, /post/2009-05-02-hazimemasite-wordpress/,
+  /post/2008-10-28-utukusiizi-domo/]
 ---
 
 なんか、あれを始めてから殆ど本を読んでいないのであまり参考にはならないかもしれませんが、使ってみた雑感を。

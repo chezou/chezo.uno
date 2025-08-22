@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2014-12-10 16:00:00-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- metadata
-- jl
-- julia
-- パッケージ
-- pkg
-- github
-- publish
-- cran
-- request
-- pull
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-12-10 16:00:00-08:00'
 projects: []
-recommendations:
-- /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/
-- /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
-- /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/
 subtitle: ''
 summary: ''
 tags: []
 title: 'Juliaのパッケージ公開はREPLからできる #JuliaAC #julialang'
+keywords: [metadata, jl, julia, パッケージ, pkg, github, publish, cran, request, pull]
+recommendations: [/post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/,
+  /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/, /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/]
 ---
 
 この記事は、[Julia Advent Calendar](http://qiita.com/advent-calendar/2014/julialang)の11日目の記事です。 10日目は夜道先生の[NumericExtensions.jl の話](http://yomichi.hateblo.jp/entry/2014/12/10/052839)でした。

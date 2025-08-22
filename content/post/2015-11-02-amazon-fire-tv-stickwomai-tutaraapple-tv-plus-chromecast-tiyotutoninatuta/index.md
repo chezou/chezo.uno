@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-11-02 15:42:22-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- アプリ
-- chromecast
-- airplay
-- 発売日
-- 音声認識
-- pros
-- cons
-- メーカー
-- 出版社
-- 商品
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-11-02 15:42:22-08:00'
 projects: []
-recommendations:
-- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
-- /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/
-- /post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/
 subtitle: ''
 summary: ''
 tags: []
 title: Amazon Fire TV Stickを買ったらApple TV+ChromeCast-ちょっとになった
+keywords: [アプリ, chromecast, airplay, 発売日, 音声認識, pros, cons, メーカー, 出版社, 商品]
+recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
+  /post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/]
 ---
 
 Amazon Fire TV StickをPrime会員割引で\1980で買いました。（定価は\4980)

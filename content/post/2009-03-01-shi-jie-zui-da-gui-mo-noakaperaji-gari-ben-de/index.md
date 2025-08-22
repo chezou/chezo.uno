@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-02-28 20:03:00-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- コンテスト
-- アカペラ
-- 講師
-- 盆休み
-- 申込み
-- 最大規模
-- メニュー
-- お祭り
-- 全国
-- スルー
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-02-28 20:03:00-08:00'
 projects: []
-recommendations:
-- /post/2009-03-09-masafestanirajatonga/
-- /post/2008-07-05-rajaton/
-- /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/
 subtitle: ''
 summary: ''
 tags: []
 title: 世界最大規模のアカペラ祭が日本で
+keywords: [コンテスト, アカペラ, 講師, 盆休み, 申込み, 最大規模, メニュー, お祭り, 全国, スルー]
+recommendations: [/post/2009-03-09-masafestanirajatonga/, /post/2008-07-05-rajaton/,
+  /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/]
 ---
 
 [あかぺら村　 世界最大規模のアカペラ祭が始まる。](http://acappellavillage.blog103.fc2.com/blog-entry-429.html)によると、Masa Festaというアカペラのお祭りが日本で2009/8/19〜8/23に行われるようです。  

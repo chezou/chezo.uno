@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2012-10-04 02:10:52-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- ida
-- elina
-- 札幌
-- finland
-- フィンランド
-- 演奏
-- 留学
-- 暖かく
-- 押尾コータロー
-- カンテレ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2012-10-04 02:10:52-07:00'
 projects: []
-recommendations:
-- /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
-- /post/2009-07-05-guan-dong-hagame-musichoihoida/
-- /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/
 subtitle: ''
 summary: ''
 tags: []
 title: Finlandの伝統的な楽器カンテレをモダンに演奏するIda Elina
+keywords: [ida, elina, 札幌, finland, フィンランド, 演奏, 留学, 暖かく, 押尾コータロー, カンテレ]
+recommendations: [/post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2009-07-05-guan-dong-hagame-musichoihoida/,
+  /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/]
 ---
 
 Finland大使館の後援の元行われた、モダンカンテレ奏者Ida Elinaのライブ。

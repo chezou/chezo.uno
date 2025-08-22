@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-04-06 15:01:06-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 動画
-- youtube
-- ガチャピン
-- アマチュア
-- rajaton
-- 検索
-- 演奏
-- 名曲
-- リニューアル
-- ホットエントリ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-04-06 15:01:06-07:00'
 projects: []
-recommendations:
-- /post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/
-- /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/
-- /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
 subtitle: ''
 summary: ''
 tags: []
 title: ガチャピン sings Rajaton？
+keywords: [動画, youtube, ガチャピン, アマチュア, rajaton, 検索, 演奏, 名曲, リニューアル, ホットエントリ]
+recommendations: [/post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/,
+  /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
 ---
 
 きっかけは、君のラジオがリニューアルしている様子がはてブのホットエントリ入りしたところから。  

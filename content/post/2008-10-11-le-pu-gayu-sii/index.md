@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-10-10 20:10:00-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 出版
-- ない
-- 自信
-- 分散
-- 無理
-- 比較的
-- 方々
-- ネット
-- オリジナル
-- アカペラ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-10-10 20:10:00-07:00'
 projects: []
-recommendations:
-- /post/2008-06-09-tuiniiphonedeng-chang/
-- /post/2018-06-27_internet-for-kids/
-- /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/
 subtitle: ''
 summary: ''
 tags: []
 title: 楽譜が欲しい
+keywords: [出版, ない, 自信, 分散, 無理, 比較的, 方々, ネット, オリジナル, アカペラ]
+recommendations: [/post/2008-06-09-tuiniiphonedeng-chang/, /post/2018-06-27_internet-for-kids/,
+  /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/]
 ---
 
 出版されている物を、取り寄せるのは比較的なんとかなるとわかりました。  

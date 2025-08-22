@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-12-17 13:57:33-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- パート
-- サービス
-- タグ
-- なけれ
-- 楽しい
-- 何事
-- アカペラー
-- いみ
-- twitterアカウント
-- summer
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-12-17 13:57:33-08:00'
 projects: []
-recommendations:
-- /post/2015-12-30-2015nian-wozhen-rifan-tute/
-- /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
-- /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/
 subtitle: ''
 summary: ''
 tags: []
 title: '粒谷区民合唱団の一つの実現方法(妄想) - #tlros を通じて思ったこと -'
+keywords: [パート, サービス, タグ, なけれ, 楽しい, 何事, アカペラー, いみ, twitterアカウント, summer]
+recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
+  /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/]
 ---
 
 最近、twitterで曲を歌うことになりました。なんというか、アカペラーや合唱人との繋がりが楽しくなってきたのですが、まさかこんな展開になるとは思っていなかったので楽しさが増してきました。  

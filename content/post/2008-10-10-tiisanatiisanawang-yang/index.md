@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-10-10 14:48:52-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 一言
-- 感激
-- 講談社
-- 主人公
-- 小さく
-- 深い
-- 納得
-- 文章
-- isbn
-- スコア
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-10-10 14:48:52-07:00'
 projects: []
-recommendations:
-- /post/2008-08-24-sayonaraituka/
-- /post/2008-07-06-nodamekantabire18-20/
-- /post/2008-07-19-xi-nomo-nu-gasi-nda/
 subtitle: ''
 summary: ''
 tags: []
 title: ちいさなちいさな王様
+keywords: [一言, 感激, 講談社, 主人公, 小さく, 深い, 納得, 文章, isbn, スコア]
+recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-07-06-nodamekantabire18-20/,
+  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
 ---
 
 {{< amazon asin="4062083736" title="ちいさなちいさな王様" >}}

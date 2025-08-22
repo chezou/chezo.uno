@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-01-14 13:57:54-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- '05'
-- '1600'
-- '1200'
-- jpeg
-- ca
-- 楽譜
-- '115'
-- bf
-- 教会
-- '58'
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-01-14 13:57:54-08:00'
 projects: []
-recommendations:
-- /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
-- /post/2009-08-07-pokemonxin-gan-xian/
-- /post/2010-09-04-tun-zu-xing-tutekimasita/
 subtitle: ''
 summary: ''
 tags: []
 title: フェラーラのジョスカン 〜ヴォーカルアンサンブル カペラ定期公演
+keywords: ['05', '1600', '1200', jpeg, ca, 楽譜, '115', bf, 教会, '58']
+recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2009-08-07-pokemonxin-gan-xian/,
+  /post/2010-09-04-tun-zu-xing-tutekimasita/]
 ---
 
 [![](l_1600_1200_f9f88bf9-3b1a-4e42-a829-05bd703047a6.jpeg)](l_1600_1200_f9f88bf9-3b1a-4e42-a829-05bd703047a6.jpeg)

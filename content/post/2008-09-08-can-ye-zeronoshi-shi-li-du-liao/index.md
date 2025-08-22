@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-09-08 05:09:00-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 理系
-- 残業
-- 本書
-- 日本
-- 文章
-- 素晴らしい
-- 通用
-- 社長
-- 不必要
-- 多い
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-09-08 05:09:00-07:00'
 projects: []
-recommendations:
-- /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/
-- /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/
-- /post/2008-08-11-mian-bai-ihodoyokufen-karuzhe-xue-si-xiang-nosubete/
 subtitle: ''
 summary: ''
 tags: []
 title: 残業ゼロの仕事力読了
+keywords: [理系, 残業, 本書, 日本, 文章, 素晴らしい, 通用, 社長, 不必要, 多い]
+recommendations: [/post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/,
+  /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/, /post/2008-08-11-mian-bai-ihodoyokufen-karuzhe-xue-si-xiang-nosubete/]
 ---
 
 {{< amazon asin="4820717138" title="「残業ゼロ」の仕事力" >}}

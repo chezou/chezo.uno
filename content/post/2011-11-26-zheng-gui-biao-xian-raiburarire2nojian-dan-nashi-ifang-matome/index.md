@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-11-26 14:02:56-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- マッチ
-- 文字列
-- パターン
-- 判定
-- fullmatch
-- 参照
-- 全体
-- 置換
-- win
-- group
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-11-26 14:02:56-08:00'
 projects: []
-recommendations:
-- /post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita/
-- /post/2008-10-28-sings-2008-with-steve-dobrogosz/
-- /post/2019-11-18-digdag-ci/
 subtitle: ''
 summary: ''
 tags: []
 title: 正規表現ライブラリre2の簡単な使い方まとめ
+keywords: [マッチ, 文字列, パターン, 判定, fullmatch, 参照, 全体, 置換, win, group]
+recommendations: [/post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita/,
+  /post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2019-11-18-digdag-ci/]
 ---
 
 先日、[インストールして試してみた](https://chezo.uno/post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita)Google製正規表現エンジン[re2](http://code.google.com/p/re2/)。

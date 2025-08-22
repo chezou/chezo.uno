@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-08-31 14:51:54-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- ライブハウス
-- 会場
-- 青木
-- メドレー
-- 男性
-- 方々
-- 友人
-- メンバー
-- 名前
-- 面々
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-08-31 14:51:54-07:00'
 projects: []
-recommendations:
-- /post/2010-09-11-press-start-2010xing-tutekita/
-- /post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/
-- /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
 subtitle: ''
 summary: ''
 tags: []
 title: TRY-TONEスペシャルライブ 〜　アカペラ夏唄2008　〜
+keywords: [ライブハウス, 会場, 青木, メドレー, 男性, 方々, 友人, メンバー, 名前, 面々]
+recommendations: [/post/2010-09-11-press-start-2010xing-tutekita/, /post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/,
+  /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
 ---
 
 渋谷にあるライブハウス「[多作](http://www.tasaku.com/)」にて行われたTRY-TONEのライブに行ってきました。

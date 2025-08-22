@@ -1,27 +1,13 @@
 ---
-authors:
-- aki
+authors: [aki]
 date: '2019-11-16 06:50:00-08:00'
-keywords:
-- notion
-- domain
-- 設定
-- uno
-- memo
-- chezo
-- ドメイン
-- 指定
-- 設定方法
-- カスタム
 lastmod: '2021-12-05 22:35:00-08:00'
-recommendations:
-- /post/2019-03-29_ngekkan-lambda-note-article/
-- /post/2023-12-30-2023-year-in-review/
-- /post/2023-01-27-timeline for canadian pr/
 summary: Notionでカスタムドメインをサブドメインまで設定する
-tags:
-- Notion
+tags: [Notion]
 title: NotionのページをCloudflareでsub domainに転送する
+keywords: [notion, domain, 設定, uno, memo, chezo, ドメイン, 指定, 設定方法, カスタム]
+recommendations: [/post/2019-03-29_ngekkan-lambda-note-article/, /post/2023-12-30-2023-year-in-review/,
+  /post/2023-01-27-timeline for canadian pr/]
 ---
 
 ![](https://images.unsplash.com/photo-1512314889357-e157c22f938d?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

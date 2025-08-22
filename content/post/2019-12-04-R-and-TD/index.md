@@ -1,39 +1,19 @@
 ---
-authors:
-- aki
-categories:
-- R
-- TreasureData
+authors: [aki]
+categories: [R, TreasureData]
 date: '2019-12-03 07:00:00-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- rtd
-- spark
-- client
-- data
-- treasure
-- sparklyr
-- cran
-- 開発
-- インストール
-- install
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2019-12-03 07:00:00-08:00'
-projects:
-- RTD
-recommendations:
-- /post/2019-11-30-r-package-yami/
-- /post/2019-12-24-python-custom-scripting/
-- /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/
+projects: [RTD]
 subtitle: ''
 summary: RTDとRPrstoを使ってRからTreasure Dataにアクセスしてみよう
-tags:
-- R
+tags: [R]
 title: RとTreasure Data
+keywords: [rtd, spark, client, data, treasure, sparklyr, cran, 開発, インストール, install]
+recommendations: [/post/2019-11-30-r-package-yami/, /post/2019-12-24-python-custom-scripting/,
+  /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/]
 ---
 
 この記事は、[Arm Treasure Data advent calendar](https://adventar.org/calendars/3932) 3日目です。

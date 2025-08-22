@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-05-01 15:01:45-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 動画
-- ツイート
-- 連続
-- 再生
-- 検索
-- twitterアカウント
-- safari
-- ツイッター
-- firefox
-- 問題点
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-05-01 15:01:45-07:00'
 projects: []
-recommendations:
-- /post/2011-04-06-gatiyapin-sings-rajaton/
-- /post/2009-12-05-after-devil-forcewofa-jue-sita/
-- /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/
 subtitle: ''
 summary: ''
 tags: []
 title: あの人がツイートした動画を連続再生サービス「動画あったー」をはじめました
+keywords: [動画, ツイート, 連続, 再生, 検索, twitterアカウント, safari, ツイッター, firefox, 問題点]
+recommendations: [/post/2011-04-06-gatiyapin-sings-rajaton/, /post/2009-12-05-after-devil-forcewofa-jue-sita/,
+  /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/]
 ---
 
 [![動画あったー](da_thumb.jpg)](http://tw2tube.appspot.com/)

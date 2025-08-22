@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-08-06 19:08:14-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- '1600'
-- '1200'
-- jpeg
-- スイカ
-- ゲット
-- 049
-- ポケモン
-- fa
-- '99'
-- '75'
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-08-06 19:08:14-07:00'
 projects: []
-recommendations:
-- /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
-- /post/2010-09-04-tun-zu-xing-tutekimasita/
-- /post/2009-07-23-fujiyama/
 subtitle: ''
 summary: ''
 tags: []
 title: ポケモン新幹線
+keywords: ['1600', '1200', jpeg, スイカ, ゲット, 049, ポケモン, fa, '99', '75']
+recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2010-09-04-tun-zu-xing-tutekimasita/,
+  /post/2009-07-23-fujiyama/]
 ---
 
 たまたま乗った新幹線がポケモン新幹線でした。  

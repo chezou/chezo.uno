@@ -1,35 +1,20 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2012-01-07 01:01:19-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- var
-- www
-- sudo
-- init
-- venv
-- sh
-- production
-- bin
-- ユーザ
-- リポジトリ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2012-01-07 01:01:19-08:00'
 projects: []
-recommendations:
-- /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/
-- /post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/
-- /post/2017-08-26_python------------------dc8d8f2fe989/
 subtitle: ''
 summary: ''
 tags: []
 title: Mercurialと親和性の高いリポジトリブラウザRhodeCodeをインストールしてみた
+keywords: [var, www, sudo, init, venv, sh, production, bin, ユーザ, リポジトリ]
+recommendations: [/post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
+  /post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/,
+  /post/2017-08-26_python------------------dc8d8f2fe989/]
 ---
 
 [![](rhodecode.png)](http://rhodecode.org/)

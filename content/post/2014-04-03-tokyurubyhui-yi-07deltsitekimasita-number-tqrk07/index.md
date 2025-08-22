@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2014-04-03 15:06:26-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- ライセンス
-- 感じ
-- 危険
-- ラップ
-- ベーコン
-- tokyuruby
-- 場合
-- 持ち込み
-- cc
-- 自作
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-04-03 15:06:26-07:00'
 projects: []
-recommendations:
-- /post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/
-- /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/
-- /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/
 subtitle: ''
 summary: ''
 tags: []
 title: 'TokyuRuby会議07でLTしてきました #tqrk07'
+keywords: [ライセンス, 感じ, 危険, ラップ, ベーコン, tokyuruby, 場合, 持ち込み, cc, 自作]
+recommendations: [/post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
+  /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/]
 ---
 
 無限プレモルが出るという危険な楽しいイベント、[TokyuRuby会議07](http://regional.rubykaigi.org/tokyu07)で[rubyistokei](http://rubyistokei.herokuapp.com/)の[timer](https://speakerdeck.com/kwappa/rubyistimer)にドラの音を付けたよ！という話をしました。

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-05-27 14:54:07-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- zabady
-- ロック
-- iphone
-- stage
-- 風呂
-- 満喫
-- ニコニコ動画
-- 悩み
-- 交換
-- ところ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-05-27 14:54:07-07:00'
 projects: []
-recommendations:
-- /post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/
-- /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/
-- /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
 subtitle: ''
 summary: ''
 tags: []
 title: お風呂でiPhone+ニコ動は良いよ
+keywords: [zabady, ロック, iphone, stage, 風呂, 満喫, ニコニコ動画, 悩み, 交換, ところ]
+recommendations: [/post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/]
 ---
 
 [Back\_stage: お風呂でiPhone](http://openart.de-blog.jp/back_stage/2008/12/iphone_78ab.html).  

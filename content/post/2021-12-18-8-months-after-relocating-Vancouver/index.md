@@ -1,35 +1,18 @@
 ---
-authors:
-- aki
-categories:
-- daily life
+authors: [aki]
+categories: [daily life]
 date: '2021-12-17 07:00:00-08:00'
 draft: false
 featured: false
-image:
-  caption: 秋の紅葉
-  focal_point: Top
-  preview_only: false
-keywords:
-- vancouver
-- cad
-- 子供
-- ノンアルコールビール
-- 今年
-- br
-- 保険
-- スーパー
-- 小学校
-- 移住
+image: {caption: 秋の紅葉, focal_point: Top, preview_only: false}
 lastmod: 2021-12-04 14:50:35-08:00
-recommendations:
-- /post/2022-11-13-canada-good thing-bad things/
-- /post/2021-12-15-relocated-to-vancouver/
-- /post/2023-12-30-2023-year-in-review/
 subtitle: ''
 summary: ''
 tags: []
 title: バンクーバーに移住して8か月が経った
+keywords: [vancouver, cad, 子供, ノンアルコールビール, 今年, br, 保険, スーパー, 小学校, 移住]
+recommendations: [/post/2022-11-13-canada-good thing-bad things/, /post/2021-12-15-relocated-to-vancouver/,
+  /post/2023-12-30-2023-year-in-review/]
 ---
 
 この記事は[pyspa Advent Calender 2021](https://adventar.org/calendars/6234)の18日目です。昨日は[@golden_lucky](https://twitter.com/golden_lucky)のリンゴの話でした。

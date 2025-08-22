@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-12-24 16:00:00-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- julia
-- 言語
-- 開催
-- 情報
-- エヴァンジェリスト
-- advent
-- juliatokyo
-- 日本語
-- 負荷
-- calendar
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-12-24 16:00:00-08:00'
 projects: []
-recommendations:
-- /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/
-- /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/
-- /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/
 subtitle: ''
 summary: ''
 tags: []
 title: 'Juliaで得られたマイナー言語を盛り上げる方法 #JuliaAC'
+keywords: [julia, 言語, 開催, 情報, エヴァンジェリスト, advent, juliatokyo, 日本語, 負荷, calendar]
+recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/,
+  /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/]
 ---
 
 この記事は[Julia Advent Calender 2015](http://qiita.com/advent-calendar/2015/julialang)の最終日です。

@@ -1,36 +1,19 @@
 ---
-authors:
-- aki
-categories:
-- ruby
+authors: [aki]
+categories: [ruby]
 date: '2014-01-24 14:05:53-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- category
-- create
-- text
-- train
-- line
-- tagger
-- self
-- segment
-- file
-- def
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-01-24 14:05:53-08:00'
 projects: []
-recommendations:
-- /post/2022-06-18-kawasaki rb 9 years reflection/
-- /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
-- /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/
 subtitle: ''
 summary: ''
 tags: []
 title: 'kawasaki.rb #007 を開催しました #kwskrb'
+keywords: [category, create, text, train, line, tagger, self, segment, file, def]
+recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
+  /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/]
 ---
 
 2013/12/18にkawasaki.rbの第7回を開催しました。  

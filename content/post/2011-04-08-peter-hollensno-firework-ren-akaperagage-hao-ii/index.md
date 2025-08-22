@@ -1,37 +1,20 @@
 ---
-aliases:
-- 2011-04-08-peter-hollens-firework
-authors:
-- aki
+aliases: [2011-04-08-peter-hollens-firework]
+authors: [aki]
 categories: null
 date: '2011-04-08 04:04:30-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- アレンジ
-- hollens
-- 原曲
-- アカペラ
-- イントロ
-- vocal
-- the house
-- performance
-- pact
-- jacks
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-04-08 04:04:30-07:00'
 projects: []
-recommendations:
-- /post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/
-- /post/2008-06-03-er-du-qin-qian/
-- /post/2009-05-24-kuronotorigano-shi-nohui-lang-gaming-qu-sugiru/
 subtitle: ''
 summary: ''
 tags: []
 title: Peter Hollensの"Firework"一人アカペラが格好いい
+keywords: [アレンジ, hollens, 原曲, アカペラ, イントロ, vocal, the house, performance, pact, jacks]
+recommendations: [/post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/,
+  /post/2008-06-03-er-du-qin-qian/, /post/2009-05-24-kuronotorigano-shi-nohui-lang-gaming-qu-sugiru/]
 ---
 
 [あかぺら村の記事](http://acappellavillage.blog103.fc2.com/blog-entry-789.html)で知ったのですが、Peter Hollensという人の一人アカペラアレンジがカッコいいです。

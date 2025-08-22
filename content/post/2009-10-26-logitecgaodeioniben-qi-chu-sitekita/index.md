@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-10-26 14:56:26-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- ipod
-- 用途
-- マイク
-- iphone
-- 高性能
-- wav
-- khz
-- '44'
-- 機種
-- ステレオ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-10-26 14:56:26-07:00'
 projects: []
-recommendations:
-- /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
-- /post/2020-04-03-microphone-for-remote-meeting/
-- /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/
 subtitle: ''
 summary: ''
 tags: []
 title: Logitecがオーディオに本気出してきた！？
+keywords: [ipod, 用途, マイク, iphone, 高性能, wav, khz, '44', 機種, ステレオ]
+recommendations: [/post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
+  /post/2020-04-03-microphone-for-remote-meeting/, /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/]
 ---
 
 [ボイスレコーダー iPod用高性能ステレオマイク - LIC-iREC03P - ロジテック](http://www.logitec.co.jp/products/recadpt/licirec03/index.html)

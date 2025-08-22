@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2012-01-01 04:01:58-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- こと
-- 定着
-- 公開
-- スキル
-- mykytea
-- 子ども
-- 解析
-- 昨年
-- rajaton
-- 生活
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2012-01-01 04:01:58-08:00'
 projects: []
-recommendations:
-- /post/2015-12-30-2015nian-wozhen-rifan-tute/
-- /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
-- /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/
 subtitle: ''
 summary: ''
 tags: []
 title: 2012年の抱負
+keywords: [こと, 定着, 公開, スキル, mykytea, 子ども, 解析, 昨年, rajaton, 生活]
+recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
+  /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/]
 ---
 
 あけましておめでとうございます。

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-12-30 13:41:51-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- こと
-- 今年
-- 神奈川
-- 会議
-- mlct
-- 開催
-- 言葉
-- rubyist
-- いい
-- 勉強会
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-12-30 13:41:51-08:00'
 projects: []
-recommendations:
-- /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/
-- /post/2014-12-31-2014nian-wozhen-rifan-tute/
-- /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/
 subtitle: ''
 summary: ''
 tags: []
 title: 2015年を振り返って
+keywords: [こと, 今年, 神奈川, 会議, mlct, 開催, 言葉, rubyist, いい, 勉強会]
+recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
+  /post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/]
 ---
 
 今年は色々と挑戦をし、成功したもの失敗したもの多くの体験ができました。

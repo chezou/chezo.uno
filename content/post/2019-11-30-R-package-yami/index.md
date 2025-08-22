@@ -1,29 +1,13 @@
 ---
-authors:
-- aki
+authors: [aki]
 date: '2019-11-30 03:32:00-08:00'
-keywords:
-- cran
-- パッケージ
-- msgpack
-- untitled
-- rtd
-- wakalang
-- md
-- data
-- 当時
-- リリース
 lastmod: '2019-12-17 09:49:00-08:00'
-recommendations:
-- /post/2019-12-04-r-and-td/
-- /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/
-- /post/2017-08-26_python------------------dc8d8f2fe989/
 summary: CRANを捨ててGitHubに帰ろう
-tags:
-- Engineering
-- OSS
-- R
+tags: [Engineering, OSS, R]
 title: Rパッケージ開発の闇
+keywords: [cran, パッケージ, msgpack, untitled, rtd, wakalang, md, data, 当時, リリース]
+recommendations: [/post/2019-12-04-r-and-td/, /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/,
+  /post/2017-08-26_python------------------dc8d8f2fe989/]
 ---
 
 ![](https://images.unsplash.com/photo-1504401774599-1b5378bfaae3?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

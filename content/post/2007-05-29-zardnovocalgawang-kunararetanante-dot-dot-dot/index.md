@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2007-05-28 21:05:00-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- ipod
-- ケーブル
-- 小物
-- 酷い
-- fm
-- pc
-- よい
-- 高校時代
-- 難点
-- 祈り
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2007-05-28 21:05:00-07:00'
 projects: []
-recommendations:
-- /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/
-- /post/2006-03-17-uhi/
-- /post/2005-10-07-tuinikita/
 subtitle: ''
 summary: ''
 tags: []
 title: ZARDのVocalが亡くなられたなんて……
+keywords: [ipod, ケーブル, 小物, 酷い, fm, pc, よい, 高校時代, 難点, 祈り]
+recommendations: [/post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/, /post/2006-03-17-uhi/,
+  /post/2005-10-07-tuinikita/]
 ---
 
 高校時代には、良く聞いたものですが……  

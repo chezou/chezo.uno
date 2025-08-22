@@ -1,39 +1,19 @@
 ---
-authors:
-- aki
-categories:
-- Machine Learning
-- MLOps
-- conference
+authors: [aki]
+categories: [Machine Learning, MLOps, conference]
 date: '2019-12-04 07:24:00-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 工学
-- 先生
-- 表現
-- shima
-- 機械学習
-- shift
-- スライド
-- effect
-- delayed
-- 学習
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2019-12-04 07:24:00-08:00'
 projects: []
-recommendations:
-- /post/2018-05-17_mlse-kickoff/
-- /post/2020-07-11-mlse-summer-workshop/
-- /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/
 subtitle: ''
 summary: ML in productionの課題について話しました
-tags:
-- mlops
+tags: [mlops]
 title: IBIS 2019の機械学習工学企画セッションに登壇しました
+keywords: [工学, 先生, 表現, shima, 機械学習, shift, スライド, effect, delayed, 学習]
+recommendations: [/post/2018-05-17_mlse-kickoff/, /post/2020-07-11-mlse-summer-workshop/,
+  /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
 ---
 
 この記事は、[機械学習工学アドベントカレンダー2019](https://qiita.com/advent-calendar/2019/mlse)の5日目です。

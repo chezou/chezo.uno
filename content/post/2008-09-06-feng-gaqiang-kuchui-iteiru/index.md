@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-09-06 14:49:29-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- スポーツ
-- 物語
-- 新潮社
-- 共感
-- 伏線
-- ゴール
-- 通勤
-- キャラクター
-- 運動
-- トレーニング
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-09-06 14:49:29-07:00'
 projects: []
-recommendations:
-- /post/2008-09-10-enzieruhato-27/
-- /post/2008-07-19-xi-nomo-nu-gasi-nda/
-- /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/
 subtitle: ''
 summary: ''
 tags: []
 title: 風が強く吹いている
+keywords: [スポーツ, 物語, 新潮社, 共感, 伏線, ゴール, 通勤, キャラクター, 運動, トレーニング]
+recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
+  /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/]
 ---
 
 {{< amazon asin="4104541044" title="風が強く吹いている" >}}

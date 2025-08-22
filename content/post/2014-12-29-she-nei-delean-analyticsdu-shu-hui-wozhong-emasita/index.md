@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2014-12-28 17:47:33-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 指標
-- 翻訳
-- book
-- 行動
-- 意味
-- 一時期
-- metric
-- harupong
-- 施策
-- lean
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-12-28 17:47:33-08:00'
 projects: []
-recommendations:
-- /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/
-- /post/2015-12-30-2015nian-wozhen-rifan-tute/
-- /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/
 subtitle: ''
 summary: ''
 tags: []
 title: 社内でLean Analytics読書会を終えました
+keywords: [指標, 翻訳, book, 行動, 意味, 一時期, metric, harupong, 施策, lean]
+recommendations: [/post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/,
+  /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
 ---
 
 ![](20141226161201.jpg)

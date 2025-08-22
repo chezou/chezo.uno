@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2016-05-29 14:57:39-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- データ
-- 訓練データ
-- validation
-- 精度
-- learning
-- bias
-- 学習
-- モデル
-- 検証
-- サイズ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2016-05-29 14:57:39-07:00'
 projects: []
-recommendations:
-- /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/
-- /post/2019-12-09-facebook prophet-plot/
-- /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/
 subtitle: ''
 summary: ''
 tags: []
 title: そのモデル、過学習してるの？未学習なの？と困ったら
+keywords: [データ, 訓練データ, validation, 精度, learning, bias, 学習, モデル, 検証, サイズ]
+recommendations: [/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2019-12-09-facebook
+    prophet-plot/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
 ---
 
 # Q: うわっ...ワタシのモデル過学習してる…？

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-05-12 14:53:35-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 連絡
-- ドコモ
-- 強制的
-- おもちゃ
-- 厄介
-- wordpress
-- 携帯
-- 可能性
-- 辛い
-- 移行
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-05-12 14:53:35-07:00'
 projects: []
-recommendations:
-- /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/
-- /post/2009-05-07-sayonarawillcom-sayonaraad-es/
-- /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
 subtitle: ''
 summary: ''
 tags: []
 title: こんにちは、iPhone
+keywords: [連絡, ドコモ, 強制的, おもちゃ, 厄介, wordpress, 携帯, 可能性, 辛い, 移行]
+recommendations: [/post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/,
+  /post/2009-05-07-sayonarawillcom-sayonaraad-es/, /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/]
 ---
 
 iPhoneさんがやってきた。  

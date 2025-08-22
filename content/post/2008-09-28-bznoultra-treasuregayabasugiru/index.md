@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-09-27 17:09:00-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 選曲
-- dvd
-- ライブ
-- 素晴らし
-- b'z
-- style
-- '001'
-- 熱い
-- 無く
-- 手元
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-09-27 17:09:00-07:00'
 projects: []
-recommendations:
-- /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
-- /post/2020-01-05-2019-best-movie/
-- /post/2008-07-19-can-shu-gui-tou-mo-hong/
 subtitle: ''
 summary: ''
 tags: []
 title: B'zのUltra treasureがやばすぎる
+keywords: [選曲, dvd, ライブ, 素晴らし, b'z, style, '001', 熱い, 無く, 手元]
+recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2020-01-05-2019-best-movie/,
+  /post/2008-07-19-can-shu-gui-tou-mo-hong/]
 ---
 
 B'zのUltra treasureの選曲がやばすぎです。  

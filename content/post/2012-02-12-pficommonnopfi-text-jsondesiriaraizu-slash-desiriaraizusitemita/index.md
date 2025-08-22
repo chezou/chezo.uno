@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2012-02-12 04:02:30-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- json
-- optional
-- price
-- pfi
-- member
-- max
-- data
-- string
-- js
-- ss
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2012-02-12 04:02:30-08:00'
 projects: []
-recommendations:
-- /post/2017-12-31_2017--------c4901627b12d/
-- /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
-- /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/
 subtitle: ''
 summary: ''
 tags: []
 title: pficommonのpfi::text::jsonでシリアライズ/ デシリアライズしてみた
+keywords: [json, optional, price, pfi, member, max, data, string, js, ss]
+recommendations: [/post/2017-12-31_2017--------c4901627b12d/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
+  /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/]
 ---
 
 [@unnonounoさんが紹介してくださったpficommon](http://unnonouno.blogspot.com/2011/10/pficommon.html)のjsonライブラリを試してみました。  

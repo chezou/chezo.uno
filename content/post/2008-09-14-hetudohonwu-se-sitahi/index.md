@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-09-14 14:52:57-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- ヘッドホン
-- sennheiser
-- rock
-- 大須
-- pop
-- 無線
-- 視聴
-- 次第
-- アンプ
-- 決定
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-09-14 14:52:57-07:00'
 projects: []
-recommendations:
-- /post/2008-10-05-hd53r-ver-dot-8wogou-ru/
-- /post/2005-08-24-hetudohon-hetudohon/
-- /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
 subtitle: ''
 summary: ''
 tags: []
 title: ヘッドホン物色したひ
+keywords: [ヘッドホン, sennheiser, rock, 大須, pop, 無線, 視聴, 次第, アンプ, 決定]
+recommendations: [/post/2008-10-05-hd53r-ver-dot-8wogou-ru/, /post/2005-08-24-hetudohon-hetudohon/,
+  /post/2008-01-18-souiebakokohawu-yu-burogudatuta/]
 ---
 
 J-POPやROCKが聞けるヘッドホンが欲しくなってきたので、メモメモ。  

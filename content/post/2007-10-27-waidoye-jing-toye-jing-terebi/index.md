@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2007-10-27 14:46:13-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- インチ
-- '20'
-- ほしく
-- 決断
-- 3万
-- ブランド
-- 他社
-- ワイド
-- 次第
-- 1万
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2007-10-27 14:46:13-07:00'
 projects: []
-recommendations:
-- /post/2005-08-06-webkamera/
-- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
-- /post/2023-08-20-removed-slack-from-mobile/
 subtitle: ''
 summary: ''
 tags: []
 title: ワイド液晶と液晶テレビ
+keywords: [インチ, '20', ほしく, 決断, 3万, ブランド, 他社, ワイド, 次第, 1万]
+recommendations: [/post/2005-08-06-webkamera/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
+  /post/2023-08-20-removed-slack-from-mobile/]
 ---
 
 20インチワイド液晶が3万円で手にはいると聞いて、沸々とほしくなってきた次第です。  

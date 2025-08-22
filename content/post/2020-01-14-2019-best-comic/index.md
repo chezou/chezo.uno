@@ -1,27 +1,13 @@
 ---
-authors:
-- aki
+authors: [aki]
 date: '2020-01-13 09:53:00-08:00'
-keywords:
-- 大統領
-- 漫画
-- 主人公
-- コミュニケーション
-- アニメ
-- photo
-- メジャー
-- unsplash
-- 女性
-- 人間
 lastmod: '2020-01-13 10:22:00-08:00'
-recommendations:
-- /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/
-- /post/2020-12-31-2020-review/
-- /post/2021-12-31-2021-year-review/
 summary: 飛行機出張のお供に漫画を色々買ったので良かったものを紹介します。
-tags:
-- comic
+tags: [comic]
 title: 2019年に買ってよかった漫画
+keywords: [大統領, 漫画, 主人公, コミュニケーション, アニメ, photo, メジャー, unsplash, 女性, 人間]
+recommendations: [/post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/,
+  /post/2020-12-31-2020-review/, /post/2021-12-31-2021-year-review/]
 ---
 
 ![Photo by Miika Laaksonen on Unsplash](https://images.unsplash.com/photo-1531501410720-c8d437636169?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

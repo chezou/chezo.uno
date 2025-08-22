@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-07-20 04:07:24-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- pdf
-- 苦労
-- 漫画
-- 作品
-- 許容範囲
-- 絶版
-- ゼミ
-- ギャグ
-- みゆき
-- ラインナップ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-07-20 04:07:24-07:00'
 projects: []
-recommendations:
-- /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/
-- /post/2008-06-22-bokurano-alternative/
-- /post/2020-01-14-2019-best-comic/
 subtitle: ''
 summary: ''
 tags: []
 title: Jコミの漫画ビューアはiPadでも読める
+keywords: [pdf, 苦労, 漫画, 作品, 許容範囲, 絶版, ゼミ, ギャグ, みゆき, ラインナップ]
+recommendations: [/post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/,
+  /post/2008-06-22-bokurano-alternative/, /post/2020-01-14-2019-best-comic/]
 ---
 
 以前、大々的にラブひながPDFで読めると話題になった絶版漫画公開サイト、[Jコミ](http://www.j-comi.jp/)。  

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-06-03 14:45:20-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- アレンジ
-- 満足
-- cd
-- スコア
-- 選択
-- テンポ
-- shaw
-- robert
-- festival
-- 苦しい
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-06-03 14:45:20-07:00'
 projects: []
-recommendations:
-- /post/2009-04-13-it-dont-mean-a-thing/
-- /post/2008-08-01-ono-lisa-best-2002-2006/
-- /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
 subtitle: ''
 summary: ''
 tags: []
 title: 二度寝前
+keywords: [アレンジ, 満足, cd, スコア, 選択, テンポ, shaw, robert, festival, 苦しい]
+recommendations: [/post/2009-04-13-it-dont-mean-a-thing/, /post/2008-08-01-ono-lisa-best-2002-2006/,
+  /post/2008-07-07-the-real-group-real-christmas-commonly-unique/]
 ---
 
 9時前に寝てしまい、気が付けば11時。  

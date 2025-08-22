@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-07-11 05:07:59-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- c4
-- dc
-- '69'
-- '34'
-- masa
-- da
-- '41'
-- 目当て
-- festa
-- コンサート
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-07-11 05:07:59-07:00'
 projects: []
-recommendations:
-- /post/2010-09-04-tun-zu-xing-tutekimasita/
-- /post/2009-08-12-rui-yan-si/
-- /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
 subtitle: ''
 summary: ''
 tags: []
 title: Masa festaのチケットが来た
+keywords: [c4, dc, '69', '34', masa, da, '41', 目当て, festa, コンサート]
+recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-08-12-rui-yan-si/,
+  /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/]
 ---
 
 最近、とみにコンサートに通っていますが、八月に行われるMASA FESTAのチケットが届きました。  

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2014-08-29 15:07:00-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 機械学習
-- 活用
-- 素人
-- データ
-- ポイント
-- 業務
-- 比戸
-- グノシー
-- pfi
-- deep learning
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-08-29 15:07:00-07:00'
 projects: []
-recommendations:
-- /post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/
-- /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/
-- /post/2017-08-03_oss--------------48807bbbf13f/
 subtitle: ''
 summary: ''
 tags: []
 title: 'データ分析への向き合い方~Machine Learning Casual Talks #2を開催しました #MLCT'
+keywords: [機械学習, 活用, 素人, データ, ポイント, 業務, 比戸, グノシー, pfi, deep learning]
+recommendations: [/post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/,
+  /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2017-08-03_oss--------------48807bbbf13f/]
 ---
 
 先週火曜日に [Machine Learning Casual Talks #2](http://mlct.connpass.com/event/8036/) を開催しました。  

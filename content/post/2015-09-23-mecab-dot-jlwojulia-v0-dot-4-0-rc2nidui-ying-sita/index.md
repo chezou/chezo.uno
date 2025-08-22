@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-09-22 19:16:08-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- julia
-- jl
-- pr
-- .com
-- github
-- ソース
-- issue
-- qiita
-- mecab
-- おかげ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-09-22 19:16:08-07:00'
 projects: []
-recommendations:
-- /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
-- /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/
-- /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
 subtitle: ''
 summary: ''
 tags: []
 title: MeCab.jlをJulia v0.4.0-rc2に対応した
+keywords: [julia, jl, pr, .com, github, ソース, issue, qiita, mecab, おかげ]
+recommendations: [/post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/,
+  /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/]
 ---
 
 ついに、Julia v0.4.0-rc2が2015/9/19出ましたね！ Dictの`[:symbol => :value]`といったsyntax sugarがなくなったりして、自分が作っているMeCab.jlでも対応をしました。

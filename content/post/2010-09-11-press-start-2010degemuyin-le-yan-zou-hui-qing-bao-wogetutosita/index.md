@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-09-11 14:59:48-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- ゲーム音楽
-- '2083'
-- 演奏会
-- star
-- 情報
-- 演奏
-- コンセプト
-- 大阪
-- ポータル
-- フリーペーパー
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-09-11 14:59:48-07:00'
 projects: []
-recommendations:
-- /post/2008-07-09-press-startdang-xuan-simasita/
-- /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
-- /post/2010-09-11-press-start-2010xing-tutekita/
 subtitle: ''
 summary: ''
 tags: []
 title: PRESS START 2010でゲーム音楽演奏会情報をゲットした
+keywords: [ゲーム音楽, '2083', 演奏会, star, 情報, 演奏, コンセプト, 大阪, ポータル, フリーペーパー]
+recommendations: [/post/2008-07-09-press-startdang-xuan-simasita/, /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/,
+  /post/2010-09-11-press-start-2010xing-tutekita/]
 ---
 
 ゲーム音楽の演奏会情報フリーペーパー2083なるものを[PRESS START2010](https://chezo.uno/post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/)でいただきました。
