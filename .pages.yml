@@ -33,6 +33,9 @@ content:
         label: preview only
         type: boolean
         default: false
+      - name: image
+        label: image
+        type: image
   - name: blog
     type: collection
     label: blog post
