@@ -13,7 +13,7 @@ content:
     - { name: body, label: 本文, type: rich-text }
     - { name: categories, label: カテゴリ, type: string, list: true }
     - { name: keywords, label: キーワード, type: string, list: true }
-    # - { name: recommendations, label: レコメンド, type: string, list: true }
+    - { name: recommendations, label: レコメンド, type: string, list: true }
     - { name: tags, label: タグ, type: string, list: true }
     - { name: draft, label: 下書き, type: boolean, default: true }
     - { name: featured, label: feature, type: boolean, default: false }
