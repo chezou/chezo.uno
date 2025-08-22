@@ -7,7 +7,7 @@ content:
     type: collection
     label: ブログ記事
     path: content/post
-    subfolders: true
+    subfolders: false
     filename: index.md
     delimiters: ["---\n", "---\n"]
     exclude: ["_index.md"]
