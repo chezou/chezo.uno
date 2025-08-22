@@ -1,19 +1,36 @@
 ---
-title: 2023年を振り返って
+authors:
+- aki
+categories:
+- misc
+date: '2023-12-31 00:00:00-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- vancouver
+- post
+- social
+- 仕事
+- プロジェクト
+- あと
+- 銀行
+- コールセンター
+- uno
+- chroma
+lastmod: '2023-12-31 00:00:00-08:00'
+projects: []
+recommendations:
+- /post/2022-12-30-2022-year-in-review/
+- /post/2024-12-31-2024-year-in-review/
+- /post/2021-12-18-8-months-after-relocating-vancouver/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: [misc]
-date: 2023-12-31 01:00:00-07:00
-lastmod: 2023-12-31 01:00:00-07:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [vancouver, post, social, 仕事, プロジェクト, あと, 銀行, コールセンター, uno, chroma]
-recommendations: [/post/2022-12-30-2022-year-in-review/, /post/2024-12-31-2024-year-in-review/,
-  /post/2021-12-18-8-months-after-relocating-vancouver/]
+title: 2023年を振り返って
 ---
 
 今年もあと一日になりましたが、[昨年同様](https://chezo.uno/post/2022-12-30-2022-year-in-review/)一年を振り返っていきたいと思います。

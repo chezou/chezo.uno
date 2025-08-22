@@ -1,12 +1,26 @@
 ---
-title: グローバル企業でコミュニケーションを円滑にするための「異文化理解力」
+authors:
+- aki
+categories:
+- book
+date: '2017-07-29 19:45:33-07:00'
 description: 同僚の Daisuke Kobayashi から勧められて、エリン・メイヤーの「異文化理解力」を読んだ。グローバル企業で働く人間として非常に示唆に富んだ良い本だった。
-date: '2017-07-30T11:45:33+09:00'
-categories: [book]
-authors: [aki]
-keywords: [アメリカ人, 中国, 日本人, 文化, 異文化, 理解力, 日本, こと, 相対的, 時間]
-recommendations: [/post/2022-01-09-vancouver-engineer-podcast/, /post/2018-06-19_goodbye-cloudera/,
-  /post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/]
+keywords:
+- アメリカ人
+- 中国
+- 日本人
+- 文化
+- 異文化
+- 理解力
+- 日本
+- こと
+- 相対的
+- 時間
+recommendations:
+- /post/2022-01-09-vancouver-engineer-podcast/
+- /post/2018-06-19_goodbye-cloudera/
+- /post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/
+title: グローバル企業でコミュニケーションを円滑にするための「異文化理解力」
 ---
 
 ![](1_XqRaeeRpBtmUfBRcCPBVjw.png)

@@ -1,14 +1,30 @@
 ---
-title: How to release Python package from GitHub Actions
+aliases:
+- /blog/how-to-release-python-package-from-github-actions-d5a1d8edba6e/
+- /blog/d5a1d8edba6e/
+authors:
+- aki
+categories:
+- Python
+date: '2019-11-25 08:42:11-08:00'
 description: Recently, I changed my CI from Travis to GitHub Actions. GitHub Actions
   is handy and useful for testing, publishing Python packages.
-date: '2019-11-26T01:42:11+09:00'
-categories: [Python]
-authors: [aki]
-aliases: [/blog/how-to-release-python-package-from-github-actions-d5a1d8edba6e/, /blog/d5a1d8edba6e/]
-keywords: [pypi, github, actions, token, api, python, workflow, syntax, package, testing]
-recommendations: [/blog/2022-05-21_fastest-way-to-release-python-cli/, /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/,
-  /blog/2024-01-26_scrape-notion-to-pdf/]
+keywords:
+- pypi
+- github
+- actions
+- token
+- api
+- python
+- workflow
+- syntax
+- package
+- testing
+recommendations:
+- /blog/2022-05-21_fastest-way-to-release-python-cli/
+- /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/
+- /blog/2024-01-26_scrape-notion-to-pdf/
+title: How to release Python package from GitHub Actions
 ---
 
 ![](./0__hOksODxf9TX1BkS0.jpg)

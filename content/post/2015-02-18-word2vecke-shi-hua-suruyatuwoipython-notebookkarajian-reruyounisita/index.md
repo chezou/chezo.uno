@@ -1,20 +1,37 @@
 ---
-title: word2vec可視化するやつをipython notebookから見れるようにした
+authors:
+- aki
+categories: null
+date: '2015-02-18 10:45:17-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- word
+- ipython
+- notebook
+- 可視化
+- はてなダイアリー
+- グラフ
+- コード
+- 要領
+- 引き算
+- インタラクティブ
+lastmod: '2015-02-18 10:45:17-08:00'
+projects: []
+recommendations:
+- /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/
+- /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/
+- /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-02-18 18:45:17+00:00
-lastmod: 2015-02-18 18:45:17+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [word, ipython, notebook, 可視化, はてなダイアリー, グラフ, コード, 要領, 引き算, インタラクティブ]
-recommendations: [/post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
-  /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/, /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/]
+title: word2vec可視化するやつをipython notebookから見れるようにした
 ---
+
 オライリーから出てる、[word2vec本](http://www.oreilly.co.jp/books/9784873116839/)の付録についてくる [id:nishiohirokazu](http://blog.hatena.ne.jp/nishiohirokazu/) さんが書いた可視化のコードがあります。
 
 <iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fd.hatena.ne.jp%2Fnishiohirokazu%2F20140109%2F1389251331" title="word2vecのword-analogyを可視化した - 西尾泰和のはてなダイアリー" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://d.hatena.ne.jp/nishiohirokazu/20140109/1389251331">word2vecのword-analogyを可視化した - 西尾泰和のはてなダイアリー</a></iframe>
@@ -40,5 +57,3 @@ ipython notebookに関しての説明は、過去の記事を参照してくだ�
 同じ要領で、ベクトルの引き算をした空間の可視化の奴もできると思います。
 
 注意点としては、MacだとBoost.Pythonがsystem Pythonに対して入れなければならず(anacondaだと死にました)、ドはまりしたことでしょうか。 やはり、こうしたグラフをインタラクティブに生成するのはipython notebookの得意領域ですね
-
-

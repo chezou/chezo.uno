@@ -1,21 +1,37 @@
 ---
-title: Googleドライブやカレンダーの共有権限を管理するにはGoogle groupsが便利
+authors:
+- aki
+categories: null
+date: '2015-05-20 17:37:16-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- groups
+- 権限
+- グループ
+- google
+- カレンダー
+- メンバー
+- 公開
+- 共有
+- 編集
+- ヘルプ
+lastmod: '2015-05-20 17:37:16-07:00'
+projects: []
+recommendations:
+- /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/
+- /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/
+- /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-05-21 00:37:16+00:00
-lastmod: 2015-05-21 00:37:16+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [groups, 権限, グループ, google, カレンダー, メンバー, 公開, 共有, 編集, ヘルプ]
-recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
-  /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/,
-  /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/]
+title: Googleドライブやカレンダーの共有権限を管理するにはGoogle groupsが便利
 ---
+
 ネットで調べていてもGoogle Appsの情報しか出ないので、備忘録として書きます。
 
   
@@ -75,7 +91,3 @@ Googleドライブは情報共有するのには手軽なツールなので、�
   
 
 以上、Google groupsの便利情報でした。
-
-  
-
-

@@ -1,20 +1,37 @@
 ---
-title: '#ingress のpodcast「水やり通信」を始めました #mizuyari'
+authors:
+- aki
+categories: null
+date: '2015-02-19 16:45:18-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- behringer
+- podcast
+- 通信
+- feed
+- 録音
+- audio
+- skype
+- miyagawa
+- itunes
+- エレクトロニクス
+lastmod: '2015-02-19 16:45:18-08:00'
+projects: []
+recommendations:
+- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
+- /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/
+- /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-02-20 00:45:18+00:00
-lastmod: 2015-02-20 00:45:18+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [behringer, podcast, 通信, feed, 録音, audio, skype, miyagawa, itunes, エレクトロニクス]
-recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
-  /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/]
+title: '#ingress のpodcast「水やり通信」を始めました #mizuyari'
 ---
+
 こっそりと、いつぞやの[川崎40重CF](http://ingress.blog.jp/archives/13616218.html)を仕掛けたBersergaさんとingressニュースを紹介するpodcastを始めました。
 
 <iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fmizuyari.link%2F" title="水やり通信" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://mizuyari.link/">水やり通信</a></iframe>
@@ -174,5 +191,3 @@ iTunes storeの登録はすぐに出来ると謎の勘違いをしていまし�
 今回のpodcastを始めるにあたって、 [rebuild.fm](http://rebuild.fm/) の [miyagawa](https://twitter.com/miyagawa) さんや [admins.bar](http://admins.bar) の [mirakui](https://twitter.com/mirakui) さん、[wada.fm](http://wada.fm) の [yusukebe](https://twitter.com/yusukebe)さんには、色々アドバイスとモチベーションをいただきました。ありがとうございます。
 
 地域Rubyコミュニティ podcast の方も近々始めようと思いますので、そちらもお楽しみにして下さい :)
-
-

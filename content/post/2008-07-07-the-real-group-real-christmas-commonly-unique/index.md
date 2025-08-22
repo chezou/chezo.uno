@@ -1,20 +1,37 @@
 ---
-title: The Real Group - Real Christmas, Commonly unique
+authors:
+- aki
+categories: null
+date: '2008-07-07 14:44:53-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- オブ
+- ライフ
+- リアル
+- グループ
+- スコア
+- 選択
+- talking
+- ハーモニー
+- song
+- christmas
+lastmod: '2008-07-07 14:44:53-07:00'
+projects: []
+recommendations:
+- /post/2008-06-03-er-du-qin-qian/
+- /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/
+- /post/2008-08-01-ono-lisa-best-2002-2006/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-07-07 21:44:53+00:00
-lastmod: 2008-07-07 21:44:53+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [オブ, ライフ, リアル, グループ, スコア, 選択, talking, ハーモニー, song, christmas]
-recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/,
-  /post/2008-08-01-ono-lisa-best-2002-2006/]
+title: The Real Group - Real Christmas, Commonly unique
 ---
+
 おいおい、書いていたら消えてたよ。  
 というわけで、書き直しです。  
   
@@ -34,6 +51,3 @@ Telepone Talkingが大好きです。
   
 なじみ深いChristmas Songをアカペラアレンジしたものから、かの国の曲まで。あー、Jul, julってこんな曲だったんだね。のーんびりしたいときに聞くのが良いと思います。  
 るどるふー、大好きだー
-
-
-

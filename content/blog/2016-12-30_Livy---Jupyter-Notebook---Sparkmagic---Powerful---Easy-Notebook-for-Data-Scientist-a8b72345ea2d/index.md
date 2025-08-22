@@ -1,17 +1,29 @@
 ---
-title: Livy & Jupyter Notebook & Sparkmagic = Powerful & Easy Notebook for Data Scientist
+aliases:
+- /blog/livy-jupyter-notebook-sparkmagic-powerful-easy-notebook-for-data-scientist-a8b72345ea2d
+- /blog/a8b72345ea2d
+authors:
+- aki
+categories: []
+date: '2016-12-29 22:15:23-08:00'
 description: livy is a REST server of Spark. You can see the talk of the Spark Summit
   2016, Microsoft uses livy for HDInsight with Jupyter notebook and…
-date: '2016-12-30T15:15:23+09:00'
-categories: []
-authors: [aki]
-aliases: [/blog/livy-jupyter-notebook-sparkmagic-powerful-easy-notebook-for-data-scientist-a8b72345ea2d,
-  /blog/a8b72345ea2d]
-keywords: [spark, jupyter, notebook, local, client, server, multiple, job, cluster,
-  scientists]
-recommendations: [/blog/2017-03-26_sparkavro--manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0/,
-  /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
-  /blog/2017-08-02_how-to-run-cloudera-director-on-your-macos-windows-10-710f82aa1d63/]
+keywords:
+- spark
+- jupyter
+- notebook
+- local
+- client
+- server
+- multiple
+- job
+- cluster
+- scientists
+recommendations:
+- /blog/2017-03-26_sparkavro--manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0/
+- /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/
+- /blog/2017-08-02_how-to-run-cloudera-director-on-your-macos-windows-10-710f82aa1d63/
+title: Livy & Jupyter Notebook & Sparkmagic = Powerful & Easy Notebook for Data Scientist
 ---
 
 livy is a REST server of Spark. You can see [the talk of the Spark Summit 2016](https://spark-summit.org/2016/events/livy-a-rest-web-service-for-apache-spark/), [Microsoft uses livy for HDInsight with Jupyter notebook and sparkmagic](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-apache-spark-jupyter-notebook-kernels/). [Jupyter notebook](http://jupyter.org/) is one of the most popular notebook OSS within data scientists. Using sparkmagic + Jupyter notebook, data scientists can execute ad-hoc Spark job easily.

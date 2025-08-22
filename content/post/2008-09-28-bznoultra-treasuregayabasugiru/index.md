@@ -1,20 +1,37 @@
 ---
-title: B'zのUltra treasureがやばすぎる
+authors:
+- aki
+categories: null
+date: '2008-09-27 17:09:00-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 選曲
+- dvd
+- ライブ
+- 素晴らし
+- b'z
+- style
+- '001'
+- 熱い
+- 無く
+- 手元
+lastmod: '2008-09-27 17:09:00-07:00'
+projects: []
+recommendations:
+- /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
+- /post/2020-01-05-2019-best-movie/
+- /post/2008-07-19-can-shu-gui-tou-mo-hong/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-09-28 00:09:00+00:00
-lastmod: 2008-09-28 00:09:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [選曲, dvd, ライブ, 素晴らし, b'z, style, '001', 熱い, 無く, 手元]
-recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2020-01-05-2019-best-movie/,
-  /post/2008-07-19-can-shu-gui-tou-mo-hong/]
+title: B'zのUltra treasureがやばすぎる
 ---
+
 B'zのUltra treasureの選曲がやばすぎです。  
   
  {{< amazon asin="B001CRGVAS" title="ULTRA Treasure(DVD付)" >}}
@@ -27,6 +44,3 @@ ISBN : B001CRGVAS
 まさか、F・E・A・Rが入ってくるとは！Homeも[e-style](http://www5.atwiki.jp/bz-words/pages/193.html)だし！！素晴らしいの一言。ファンなら是非。Ultra pleasureは無くてもいいかもしれんけど、こちらは手元に置いておくべきです。  
   
 しかも、一緒に着いてくるライブDVDが熱い！これはDVDまであわせて一つの作品ととらえるしか。ライブ行きたくなってしまいました。
-
-
-

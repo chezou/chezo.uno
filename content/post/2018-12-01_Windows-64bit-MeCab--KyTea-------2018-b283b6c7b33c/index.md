@@ -1,13 +1,27 @@
 ---
-title: Windows 64bitでMeCab(とKyTea)を使う方法 2018
-description: CIでWindowsバイナリとwheelを作った話
-date: '2018-12-01T13:05:57+09:00'
+aliases:
+- /post/2018-12-01_Windows-64bit-MeCab-KyTea-2018-b283b6c7b33c/
+authors:
+- aki
 categories: []
-authors: [aki]
-aliases: [/post/2018-12-01_Windows-64bit-MeCab-KyTea-2018-b283b6c7b33c/]
-keywords: [windows, mecab, wheel, python, 用意, ビルド, bit, '64', バイナリ, 拡張]
-recommendations: [/post/2019-11-29-mecab-python3/, /post/2017-08-26_python------------------dc8d8f2fe989/,
-  /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/]
+date: '2018-11-30 20:05:57-08:00'
+description: CIでWindowsバイナリとwheelを作った話
+keywords:
+- windows
+- mecab
+- wheel
+- python
+- 用意
+- ビルド
+- bit
+- '64'
+- バイナリ
+- 拡張
+recommendations:
+- /post/2019-11-29-mecab-python3/
+- /post/2017-08-26_python------------------dc8d8f2fe989/
+- /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/
+title: Windows 64bitでMeCab(とKyTea)を使う方法 2018
 ---
 
 こんにちは、日本語のテキスト処理してますか。

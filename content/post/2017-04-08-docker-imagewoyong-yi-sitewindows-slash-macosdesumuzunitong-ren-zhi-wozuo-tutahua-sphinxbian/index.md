@@ -1,21 +1,37 @@
 ---
-title: Docker imageを用意してWindows/macOSでスムーズに同人誌を作った話（Sphinx編）
+authors:
+- aki
+categories: null
+date: '2017-04-08 09:47:29-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 原稿
+- docker
+- sphinx
+- 執筆
+- image
+- 変換
+- view
+- tokoroten
+- macos
+- フォント
+lastmod: '2017-04-08 09:47:29-07:00'
+projects: []
+recommendations:
+- /post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/
+- /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/
+- /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2017-04-08 16:47:29+00:00
-lastmod: 2017-04-08 16:47:29+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [原稿, docker, sphinx, 執筆, image, 変換, view, tokoroten, macos, フォント]
-recommendations: [/post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/,
-  /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
-  /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/]
+title: Docker imageを用意してWindows/macOSでスムーズに同人誌を作った話（Sphinx編）
 ---
+
 こんにちは、ハイラルに移住したchezouです。最近は、Rから始まりRで終わる言語をよく書いています。
 
 いよいよ明日に迫ってきた[技術書典2](https://techbookfest.org/event/tbf02)ですが、お-13で[技術書供養寺](https://kuyodera.github.io/)として頒布を行います。 内容は、僕の機械学習の実務におけるtipsとfastFMを使った推薦、@tokorotenさんのKickstarterの分析、@hagino3000さんのスプラトゥーンのデータマイニングということで盛り沢山です。初めての同人誌ですが、140ページを超えた薄くない薄い本になりました。
@@ -114,5 +130,3 @@ fontの埋め込みは、IPA系のフォントだとライセンス的に問題�
 それでは、明日は秋葉原UDX2階のアキバ・スクエアで僕と握手！
 
 [^1]: ヒラギノは商用利用可能とのことです [http://www.macotakara.jp/blog/support/entry-665.html](http://www.macotakara.jp/blog/support/entry-665.html)
-
-

@@ -1,20 +1,37 @@
 ---
-title: 新・萌えるヘッドホン読本
+authors:
+- aki
+categories: null
+date: '2008-06-25 14:45:09-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 違和感
+- 後日
+- アマゾンギフト券
+- 表紙
+- 半分
+- 趣味
+- ヘッドホン
+- つもり
+- 詳しく
+- 期待
+lastmod: '2008-06-25 14:45:09-07:00'
+projects: []
+recommendations:
+- /post/2008-09-14-hetudohonwu-se-sitahi/
+- /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
+- /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-06-25 21:45:09+00:00
-lastmod: 2008-06-25 21:45:09+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [違和感, 後日, アマゾンギフト券, 表紙, 半分, 趣味, ヘッドホン, つもり, 詳しく, 期待]
-recommendations: [/post/2008-09-14-hetudohonwu-se-sitahi/, /post/2008-01-18-souiebakokohawu-yu-burogudatuta/,
-  /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
+title: 新・萌えるヘッドホン読本
 ---
+
 ついつい買ってしまいました。  
 アマゾンギフト券があったので、0円で買ってしまいました。  
   
@@ -25,6 +42,3 @@ Webで見るヘッドホン娘の絵とか、結構いいなと思うものも�
 趣味の合う絵がないかもしれない。  
   
 というわけで、右半分のページだけ読もうかと思います。
-
-
-

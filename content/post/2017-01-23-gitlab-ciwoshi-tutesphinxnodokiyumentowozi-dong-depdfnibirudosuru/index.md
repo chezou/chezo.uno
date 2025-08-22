@@ -1,21 +1,37 @@
 ---
-title: Gitlab CIを使ってSphinxのドキュメントを自動でPDFにビルドする
+authors:
+- aki
+categories: null
+date: '2017-01-23 04:38:35-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- gitlab
+- pdf
+- ci
+- sphinx
+- image
+- master
+- 生成
+- paths
+- markdown
+- レポジトリ
+lastmod: '2017-01-23 04:38:35-08:00'
+projects: []
+recommendations:
+- /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/
+- /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/
+- /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2017-01-23 12:38:35+00:00
-lastmod: 2017-01-23 12:38:35+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [gitlab, pdf, ci, sphinx, image, master, 生成, paths, markdown, レポジトリ]
-recommendations: [/post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/,
-  /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
-  /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/]
+title: Gitlab CIを使ってSphinxのドキュメントを自動でPDFにビルドする
 ---
+
 gitlab.comは自前でDocker image登録できたり、CI持っていたりと便利ですね。しかも、privateレポジトリもお金かからないという太っ腹。 技術書典2に向けたレポジトリはgitlab.comで管理しています。
 
 今回は共著者にPython使いが多いためSphinxを使って書いているんですが、Sphinxはcommon markでも書けるのでmarkdownでも文章を書くことが出来ます。

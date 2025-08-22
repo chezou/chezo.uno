@@ -1,20 +1,37 @@
 ---
-title: お安くお手軽アカペラ多重録音のための機材
+authors:
+- aki
+categories: null
+date: '2009-11-26 13:57:16-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- マイク
+- オーディオインターフェース
+- pro
+- 重視
+- 録音
+- 楽しみ
+- 厳しい
+- 本格的
+- ルネサンス
+- ultravoice
+lastmod: '2009-11-26 13:57:16-08:00'
+projects: []
+recommendations:
+- /post/2020-04-03-microphone-for-remote-meeting/
+- /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
+- /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-11-26 21:57:16+00:00
-lastmod: 2009-11-26 21:57:16+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [マイク, オーディオインターフェース, pro, 重視, 録音, 楽しみ, 厳しい, 本格的, ルネサンス, ultravoice]
-recommendations: [/post/2020-04-03-microphone-for-remote-meeting/, /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
-  /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/]
+title: お安くお手軽アカペラ多重録音のための機材
 ---
+
 本格的に始めよう、というわけではなく、とりあえずアカペラで多重録音を始めてみようと思ったため、機材を簡単にそろえてみました。
 
 PCで録音をすることが前提（Webでデータをやりとりして重ねることが想定された）なので、購入したのは
@@ -30,5 +47,3 @@ PCで録音をすることが前提（Webでデータをやりとりして重ね
 
 しめて、12000円程度で導入できました。週末には届くので今から楽しみです。  
 それまで、厳しい特訓が待っているみたいですが……。ルネサンスは厳しいよー
-
-

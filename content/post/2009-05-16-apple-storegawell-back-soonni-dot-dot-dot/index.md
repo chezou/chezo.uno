@@ -1,20 +1,37 @@
 ---
-title: Apple storeがWe'll back soonに……
+authors:
+- aki
+categories: null
+date: '2009-05-16 14:53:46-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- マウント
+- volume
+- photo
+- nas
+- mac
+- 自動
+- 入手
+- それぞれ
+- 方法
+- 状態
+lastmod: '2009-05-16 14:53:46-07:00'
+projects: []
+recommendations:
+- /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/
+- /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/
+- /post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-05-16 21:53:46+00:00
-lastmod: 2009-05-16 21:53:46+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [マウント, volume, photo, nas, mac, 自動, 入手, それぞれ, 方法, 状態]
-recommendations: [/post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/,
-  /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/, /post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/]
+title: Apple storeがWe'll back soonに……
 ---
+
 もうすぐ、新型iPhoneだとかiPod touchの発表なんでしょうね。amazonでも32G touchが20000円引きで売られていることですし。
 
 なぜ気づいたかって？Xcodeをダウンロードしようとしたら、メンテナンス中だったからだよ。iTunesStoreはXcodeの入手には必要なかったみたいです。そういえば、、、  
@@ -34,5 +51,3 @@ recommendations: [/post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-w
 
 [MacOSX 不可視ファイルの解除方法（&パスの通しかた） - WEB + PC[[Macでネットワークディスク（NAS）を自動マウントする方法｜BAMBOoのAppleでMacなiPhone徒然草](http://ameblo.jp/z9dz9d/entry-10149021737.html)  
 もしかしたら、Nas navigator2を入れたときに自動マウント利用するようにしたのが悪いのかも。キーチェーンがおかしくて、大抵ゲストアカウントでマウントされてるし。
-
-

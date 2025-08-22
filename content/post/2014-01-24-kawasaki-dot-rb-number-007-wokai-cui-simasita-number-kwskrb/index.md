@@ -1,20 +1,38 @@
 ---
-title: 'kawasaki.rb #007 を開催しました #kwskrb'
-date: 2014-01-24 22:05:53+00:00
-subtitle: ''
-summary: ''
+authors:
+- aki
+categories:
+- ruby
+date: '2014-01-24 14:05:53-08:00'
 draft: false
 featured: false
-authors: [aki]
-lastmod: 2014-01-24 22:05:53+00:00
-tags: []
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- category
+- create
+- text
+- train
+- line
+- tagger
+- self
+- segment
+- file
+- def
+lastmod: '2014-01-24 14:05:53-08:00'
 projects: []
-image: {caption: '', focal_point: '', preview_only: false}
-categories: [ruby]
-keywords: [category, create, text, train, line, tagger, self, segment, file, def]
-recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
-  /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/]
+recommendations:
+- /post/2022-06-18-kawasaki rb 9 years reflection/
+- /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
+- /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/
+subtitle: ''
+summary: ''
+tags: []
+title: 'kawasaki.rb #007 を開催しました #kwskrb'
 ---
+
 2013/12/18にkawasaki.rbの第7回を開催しました。  
 この会から、(同じミューザ川崎内ですが)NTT-ATさんに会場をお借りするようになりました。
 
@@ -53,5 +71,3 @@ BabyFaceはActiveModelなどとナイーブベイズ分類器とをつなぎ合�
 などなど、いい話でした。
 
 懇親会では、Kanagawa Ruby会議やりたいですなー、とか盛り上がりました。
-
-

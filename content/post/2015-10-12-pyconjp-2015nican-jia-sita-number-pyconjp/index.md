@@ -1,20 +1,37 @@
 ---
-title: 'PyConJP 2015に参加した #pyconjp'
+authors:
+- aki
+categories: null
+date: '2015-10-12 09:24:25-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- pandas
+- データ
+- hagino
+- 解析
+- pyconjp
+- '3000'
+- slideshare
+- 技術
+- python
+- www
+lastmod: '2015-10-12 09:24:25-07:00'
+projects: []
+recommendations:
+- /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/
+- /post/2020-03-01-pandas-1-traps/
+- /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-10-12 16:24:25+00:00
-lastmod: 2015-10-12 16:24:25+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [pandas, データ, hagino, 解析, pyconjp, '3000', slideshare, 技術, python, www]
-recommendations: [/post/2017-09-09_pyconjp-2017------5fa5f59b9bde/, /post/2020-03-01-pandas-1-traps/,
-  /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/]
+title: 'PyConJP 2015に参加した #pyconjp'
 ---
+
 はじめてPyConJPに参加してきました。
 
 スライドまとめは以下が詳しいです。<iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Ftechstars.jp%2Fblog%2Fpycon15-1%2F" title="もう確認した？PyCon JP 2015、公開済み全スライドまとめ #pyconjp" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://techstars.jp/blog/pycon15-1/">techstars.jp</a></cite>
@@ -85,5 +102,3 @@ Voyage groupでこの夏[MLSSにも参加された](http://techlog.voyagegroup.c
 [^2]: その辺りは近々会社のブログに書こうと思っている
 
 [^3]: DataFrames.jlにはない！
-
-

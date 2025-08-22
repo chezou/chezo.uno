@@ -1,20 +1,37 @@
 ---
-title: '#JapanR で話題だった「データサイエンティスト養成読本R活用編(通称"Julia入門本")」を読みました #JuliaAC'
+authors:
+- aki
+categories: null
+date: '2014-12-12 16:02:00-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- julia
+- 入門
+- 読本
+- 外観
+- dplyr
+- 興味
+- 基礎
+- データサイエンティスト
+- 養成
+- オススメ
+lastmod: '2014-12-12 16:02:00-08:00'
+projects: []
+recommendations:
+- /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/
+- /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
+- /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2014-12-13 00:02:00+00:00
-lastmod: 2014-12-13 00:02:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [julia, 入門, 読本, 外観, dplyr, 興味, 基礎, データサイエンティスト, 養成, オススメ]
-recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
-  /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/]
+title: '#JapanR で話題だった「データサイエンティスト養成読本R活用編(通称"Julia入門本")」を読みました #JuliaAC'
 ---
+
 この記事は[Julia Advent Calendar](http://qiita.com/advent-calendar/2014/julialang)の12日目の記事です。
 
 昨日12/12に発売された、データサイエンティスト養成読本 R活用編をいただきましたので、読ませていただきました。
@@ -49,5 +66,3 @@ Julia以外で特に興味深かったのは、市川さんによるdplyrやtidy
 [^2]: 入門機械学習やバンディットアルゴリズム入門の著者としても知られる
 
 [^3]: もちろん、Rで処理できるけど速度が速いことが売りですが
-
-

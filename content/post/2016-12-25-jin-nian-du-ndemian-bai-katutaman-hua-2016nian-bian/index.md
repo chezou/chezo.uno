@@ -1,20 +1,37 @@
 ---
-title: 今年読んで面白かった漫画 2016年編
+authors:
+- aki
+categories: null
+date: '2016-12-25 13:30:04-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- まとめ買い
+- コミックス
+- kindle版
+- 作品
+- 作者
+- 商品
+- メディア
+- 勇者
+- ブログ
+- チャンス
+lastmod: '2016-12-25 13:30:04-08:00'
+projects: []
+recommendations:
+- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
+- /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/
+- /post/2020-01-14-2019-best-comic/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2016-12-25 21:30:04+00:00
-lastmod: 2016-12-25 21:30:04+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [まとめ買い, コミックス, kindle版, 作品, 作者, 商品, メディア, 勇者, ブログ, チャンス]
-recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
-  /post/2020-01-14-2019-best-comic/]
+title: 今年読んで面白かった漫画 2016年編
 ---
+
 海外出張の移動やKindle Unlimitedとかもあって結構漫画を読む機会が多かったのですが、今年読んだ漫画のオススメを書いていきます。
 
 買っているものと、マンガワンで一気読みしたものとあります。マンガワンはDAUを上げるための施策がよく出来ていて、12時間毎にチケットが4枚回復して4話まで読めるという設計(iOS。Androidは時間制限)はなかなか良く出来ています。4チケット以上持つことができないので、回復時間が来たら読まなきゃ、という気持ちになります。実際このスタイルは結構成功している部類に入っているのか、コミコなどの他のアプリも似た手法を取ってきています。なお、定期的に入れ替えられる「一気読み」がなかなか良く、まぁ10巻以上のものは普通に全部読み終わらないので、追加チケットを買うか別のところで買わざるを得ません。
@@ -198,5 +215,3 @@ Netflixでアニメも見れる作品です。タイの無法者が集まるロ�
 # 振り返ってみると
 
 振り返ってみると、プラネテスやビバップみたいな宇宙モノや中世の時代物、戦争ものが好きなようです。他にも面白い作品があればどんどん読んでいきたいと思います。
-
-

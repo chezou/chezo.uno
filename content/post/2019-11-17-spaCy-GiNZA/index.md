@@ -1,13 +1,28 @@
 ---
-title: spaCyとGiNZAでマストドンのトレンドワード抽出をしてみた
-authors: [aki]
+authors:
+- aki
+date: '2019-11-16 07:24:00-08:00'
+keywords:
+- ginza
+- spacy
+- ワード
+- トレンド
+- neologd
+- マストドン
+- macbook pro
+- ノートブック
+- 自然言語処理
+- 解析
+lastmod: '2019-11-26 09:31:00-08:00'
+recommendations:
+- /post/2019-11-29-mecab-python3/
+- /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/
+- /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/
 summary: spaCyは使いやすいインターフェースが入門者にもとてもよさそう
-tags: [Engineering, NLP]
-date: 2019-11-17 00:24:00+09:00
-lastmod: 2019-11-27 02:31:00+09:00
-keywords: [ginza, spacy, ワード, トレンド, neologd, マストドン, macbook pro, ノートブック, 自然言語処理, 解析]
-recommendations: [/post/2019-11-29-mecab-python3/, /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/,
-  /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/]
+tags:
+- Engineering
+- NLP
+title: spaCyとGiNZAでマストドンのトレンドワード抽出をしてみた
 ---
 
 ![](https://images.unsplash.com/photo-1531730194970-f4d4bfd6475d?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

@@ -1,20 +1,37 @@
 ---
-title: PRESS START 2010行ってきた
+authors:
+- aki
+categories: null
+date: '2010-09-11 14:59:42-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- メドレー
+- トリガー
+- クロノ
+- 演奏会
+- メロディ
+- 演奏
+- 素晴らしい
+- ファイアーエムブレム
+- カエル
+- かけ声
+lastmod: '2010-09-11 14:59:42-07:00'
+projects: []
+recommendations:
+- /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/
+- /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
+- /post/2009-08-12-rui-yan-si/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2010-09-11 21:59:42+00:00
-lastmod: 2010-09-11 21:59:42+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [メドレー, トリガー, クロノ, 演奏会, メロディ, 演奏, 素晴らしい, ファイアーエムブレム, カエル, かけ声]
-recommendations: [/post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/,
-  /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2009-08-12-rui-yan-si/]
+title: PRESS START 2010行ってきた
 ---
+
 本日、[PRESS START2010 -SYMPHONY OF GAMES-@東京芸術劇場 大ホール](http://www.famitsu.com/famiweb/pressstart/)に行ってまいりました。  
 (写真はプログラム、この演奏会にあわせて発売した[CD](http://ebten.jp/famitsu/p/4541993016235/?aid=prc)、フリーペーパー2083)  
 **20100912追記**

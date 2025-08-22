@@ -1,20 +1,37 @@
 ---
-title: IDCFクラウドの500円サーバーでpodcast serverをはじめて8ヶ月が経ちました
+authors:
+- aki
+categories: null
+date: '2015-11-22 13:30:37-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- ストレージ
+- オブジェクト
+- rubyist
+- ノード
+- idcf
+- 転送
+- おかげさま
+- クラウド
+- club
+- '500'
+lastmod: '2015-11-22 13:30:37-08:00'
+projects: []
+recommendations:
+- /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/
+- /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/
+- /post/2015-12-30-2015nian-wozhen-rifan-tute/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-11-22 21:30:37+00:00
-lastmod: 2015-11-22 21:30:37+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [ストレージ, オブジェクト, rubyist, ノード, idcf, 転送, おかげさま, クラウド, club, '500']
-recommendations: [/post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/,
-  /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/, /post/2015-12-30-2015nian-wozhen-rifan-tute/]
+title: IDCFクラウドの500円サーバーでpodcast serverをはじめて8ヶ月が経ちました
 ---
+
 どうも、最近PSYCHO-PASSを見終わってシュタインズ・ゲートを見ています。 この記事はIDCFクラウド1周年キャンペーンを応援する記事です。[^1] 
 
 Rubyistといろいろなことを話すpodcast [rubyist.club](http://rubyist.club/) をはじめて半年経ちました。 最近リリース前のドタバタでご無沙汰していますが、12月には次回の配信をできると思います。
@@ -30,5 +47,3 @@ S1プランは500円で使えるのですが、オブジェクトストレージ
 是非、この機会に使ってみるとよいでしょう！
 
 [^1]: つまり、宣伝ですね
-
-

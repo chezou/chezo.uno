@@ -1,21 +1,37 @@
 ---
-title: '想像もしなかった場外戦〜iPhone 5とAndroidの対決がこんなところまで！！ #TEAMiPhone と #TeamDROID の戦い'
+authors:
+- aki
+categories: null
+date: '2012-10-02 15:03:48-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- peter
+- hollens
+- iphone
+- version
+- 歌詞
+- firework
+- apple store
+- アカペラ
+- 対決
+- 反論
+lastmod: '2012-10-02 15:03:48-07:00'
+projects: []
+recommendations:
+- /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/
+- /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/
+- /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2012-10-02 22:03:48+00:00
-lastmod: 2012-10-02 22:03:48+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [peter, hollens, iphone, version, 歌詞, firework, apple store, アカペラ, 対決, 反論]
-recommendations: [/post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/,
-  /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
-  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/]
+title: '想像もしなかった場外戦〜iPhone 5とAndroidの対決がこんなところまで！！ #TEAMiPhone と #TeamDROID の戦い'
 ---
+
 一度は聞いたことがあるiPhoneの着信音のあの音から、こんな曲ができるなんて！
 
 このブログでもたびたび紹介している多重録音アカペラのPeter Hollensが新作を発表していました。  
@@ -66,5 +82,3 @@ J RiceのDroid versionはこちら。
 ●当ブログのPeter Hollensの記事はこちら
 
 [Peter Hollensの”Firework”一人アカペラが格好いい](https://chezo.uno/post/2011-04-08-peter-hollens-firework "Peter Hollensの”Firework”一人アカペラが格好いい")
-
-

@@ -1,19 +1,35 @@
 ---
-title: Nas Navigator2をWindows7(64bit)で動かす方法
+authors:
+- aki
+categories: null
+date: '2009-11-11 04:11:25-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 実行
+- exe
+- nas
+- mac os x
+- ショートカット
+- 管理者
+- navigator
+- パケット
+- スタートアップ
+- setup
+lastmod: '2009-11-11 04:11:25-08:00'
+projects: []
+recommendations:
+- /post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/
+- /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/
+- /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-11-11 12:11:25+00:00
-lastmod: 2009-11-11 12:11:25+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [実行, exe, nas, mac os x, ショートカット, 管理者, navigator, パケット, スタートアップ, setup]
-recommendations: [/post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/,
-  /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/, /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/]
+title: Nas Navigator2をWindows7(64bit)で動かす方法
 ---
 
 [以前、動かないと言っていたNas Navigator2](https://chezo.uno/post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/)ですが、なんとか動かすことに成功しました。グラフィックボードのドライバ関係もあって、再インストールした後に行いました。
@@ -24,5 +40,3 @@ recommendations: [/post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/
 つまり、nassvc.exeがNASの自動実行のためのパケットを出し続けているようです。ただ、管理者でないユーザでの実行は確認していないです。
 
 [Mac OS X 10.6 Snow Leopardの方が大変みたいですね。](http://d.hatena.ne.jp/tadamesi/20090913/p2)Buffaloはちと最近厳しいのかなぁ。
-
-

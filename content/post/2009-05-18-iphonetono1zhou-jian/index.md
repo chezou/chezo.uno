@@ -1,20 +1,37 @@
 ---
-title: iPhoneとの1週間
+authors:
+- aki
+categories: null
+date: '2009-05-18 14:53:51-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- メール
+- 送信
+- 問題
+- 登録
+- メモ
+- iphone
+- 着信
+- files
+- docomo
+- 障壁
+lastmod: '2009-05-18 14:53:51-07:00'
+projects: []
+recommendations:
+- /post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/
+- /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
+- /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-05-18 21:53:51+00:00
-lastmod: 2009-05-18 21:53:51+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [メール, 送信, 問題, 登録, メモ, iphone, 着信, files, docomo, 障壁]
-recommendations: [/post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/,
-  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
+title: iPhoneとの1週間
 ---
+
 はじめて生で小夏ちゃんを見た。梅雨くん（ちゃん？）も見てしまった。それをiPhoneの[Baloo](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=292171561&mt=8)で実況板を見ていたのですが、流れが速くて追いつかないという現象を見てしまいました。すごいわー
 
 で、iPhoneを一週間使ってみて色々と戦ったわけですが、大体どの問題も一通り誰かが通ってきた道でした。というわけで、備忘録として簡単にメモしておきます。

@@ -1,20 +1,37 @@
 ---
-title: PCでワイヤレスコントローラを使うには
+authors:
+- aki
+categories: null
+date: '2009-09-22 14:55:38-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- コントローラ
+- ワイヤレス
+- ps
+- '360'
+- logicool
+- pc
+- アダプタ
+- 普通
+- 程度
+- 入手
+lastmod: '2009-09-22 14:55:38-07:00'
+projects: []
+recommendations:
+- /post/2009-11-14-wu-xian-kontorora/
+- /post/2008-06-01-nantoiunu-li-noren/
+- /post/2019-03-10_business-trip-goods/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-09-22 21:55:38+00:00
-lastmod: 2009-09-22 21:55:38+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [コントローラ, ワイヤレス, ps, '360', logicool, pc, アダプタ, 普通, 程度, 入手]
-recommendations: [/post/2009-11-14-wu-xian-kontorora/, /post/2008-06-01-nantoiunu-li-noren/,
-  /post/2019-03-10_business-trip-goods/]
+title: PCでワイヤレスコントローラを使うには
 ---
+
 ふと思い立って、WiiよろしくPCもワイヤレスコントローラでゲームをやってみたい、と思ったので調べてみた。
 
 おおざっぱにまとめると今のところ、3つの方法が有力かなぁ。
@@ -34,5 +51,3 @@ recommendations: [/post/2009-11-14-wu-xian-kontorora/, /post/2008-06-01-nantoiun
 というわけで、手元にPS3もXBOX360も無い身としては、1のLogicoolのコントローラを買うのが無難そうです。しかし、シミュレーションゲームくらいしかやらないんだったら、ワイヤレスキーボード＆マウスで事足りそうなので、気が向いたらか。
 
 参考URL:[ゲーム機用コントローラをPCで使う――その1：PS3、Xbox 360編 (1/3)](http://gamez.itmedia.co.jp/games/articles/0803/13/news085.html?searc)
-
-

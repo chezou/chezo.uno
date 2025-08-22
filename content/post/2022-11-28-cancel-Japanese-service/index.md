@@ -1,13 +1,27 @@
 ---
-title: 日本のサービス解約RTA～カナダ編～
-authors: [aki]
-summary: カナダでの日本のサービス解約の難易度をまとめました
-tags: [Canada]
-date: 2022-11-28 17:41:00-07:00
+authors:
+- aki
+date: '2022-11-28 16:41:00-08:00'
+keywords:
+- 日本
+- 解約
+- 難易度
+- おま国
+- カナダ
+- 免許証
+- とき
+- 実家
+- tp
+- disney
 lastmod: 2025-08-18 15:01:00-07:00
-keywords: [日本, 解約, 難易度, おま国, カナダ, 免許証, とき, 実家, tp, disney]
-recommendations: [/post/2021-12-15-relocated-to-vancouver/, /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/,
-  /post/2022-11-13-canada-good thing-bad things/]
+recommendations:
+- /post/2021-12-15-relocated-to-vancouver/
+- /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/
+- /post/2022-11-13-canada-good thing-bad things/
+summary: カナダでの日本のサービス解約の難易度をまとめました
+tags:
+- Canada
+title: 日本のサービス解約RTA～カナダ編～
 ---
 
 ![](https://images.unsplash.com/photo-1660717328578-12f11e8473bf?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)

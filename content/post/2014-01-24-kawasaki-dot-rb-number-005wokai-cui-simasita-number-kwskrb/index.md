@@ -1,20 +1,38 @@
 ---
-title: 'Kawasaki.rb #005を開催しました #kwskrb'
-date: 2014-01-24 22:05:31+00:00
-subtitle: ''
-summary: ''
+authors:
+- aki
+categories:
+- ruby
+date: '2014-01-24 14:05:31-08:00'
 draft: false
 featured: false
-authors: [aki]
-lastmod: 2014-01-24 22:05:31+00:00
-tags: []
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- quine
+- relay
+- 言語
+- 解説
+- problem
+- mametter
+- お金
+- プログラミング
+- 制限
+- rb
+lastmod: '2014-01-24 14:05:31-08:00'
 projects: []
-image: {caption: '', focal_point: '', preview_only: false}
-categories: [ruby]
-keywords: [quine, relay, 言語, 解説, problem, mametter, お金, プログラミング, 制限, rb]
-recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
-  /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/]
+recommendations:
+- /post/2022-06-18-kawasaki rb 9 years reflection/
+- /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
+- /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
+subtitle: ''
+summary: ''
+tags: []
+title: 'Kawasaki.rb #005を開催しました #kwskrb'
 ---
+
 大分たってしまいましたが、2013/10/23にKawasaki.rb #005を行いました。
 
 [@mametter](https://twitter.com/mametter) さんによる[quine-relay](https://github.com/mame/quine-relay)の話をしていただきました。  
@@ -46,6 +64,4 @@ Quineの解説は以下の資料が詳しいです。
 
 1.   
 有名なBrainfuckやWhitespaceに始まり、果てはVerilogとかINTERCALとか！  
-[^problem] :  様々な[争いの種](http://twitter.com/mrkn/status/392974009199259648)が含まれるため ↩  
-
-
+[^problem] :  様々な[争いの種](http://twitter.com/mrkn/status/392974009199259648)が含まれるため ↩

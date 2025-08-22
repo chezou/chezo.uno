@@ -1,21 +1,37 @@
 ---
-title: Googleフォームで作った申請フォームからSlackに通知をする方法
+authors:
+- aki
+categories: null
+date: '2015-03-03 16:31:31-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- var
+- response
+- 通知
+- slack
+- url
+- break
+- channel
+- スクリプト
+- フォーム
+- title
+lastmod: '2015-03-03 16:31:31-08:00'
+projects: []
+recommendations:
+- /post/2012-01-07-mercurialtoqin-he-xing-nogao-iripozitoriburauzarhodecodewoinsutorusitemita/
+- /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/
+- /post/2023-01-10-ios-notification-management/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-03-04 00:31:31+00:00
-lastmod: 2015-03-04 00:31:31+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [var, response, 通知, slack, url, break, channel, スクリプト, フォーム, title]
-recommendations: [/post/2012-01-07-mercurialtoqin-he-xing-nogao-iripozitoriburauzarhodecodewoinsutorusitemita/,
-  /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
-  /post/2023-01-10-ios-notification-management/]
+title: Googleフォームで作った申請フォームからSlackに通知をする方法
 ---
+
 Slackは連絡先を知っている人が参加することが多いですが、ゲームのコミュニティ等相手の連絡先がわからない場合もあると思います。(IngressとかIngressとかIngressとか)
 
 そういう時のために申請フォームを作って、Slackに通知をするための方法をまとめます。
@@ -68,4 +84,3 @@ Slackへの通知が動くかどうかは、`test()`を実行してみると良�
 ## 参考URL
 
 - [gas - スプレッドシートで作ったtodoリストでステータスを変更するとslackに流す - Qiita](http://qiita.com/mito_log/items/6457dc110b3478e3e530)
-

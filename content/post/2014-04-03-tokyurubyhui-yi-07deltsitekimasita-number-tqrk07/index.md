@@ -1,20 +1,37 @@
 ---
-title: 'TokyuRuby会議07でLTしてきました #tqrk07'
+authors:
+- aki
+categories: null
+date: '2014-04-03 15:06:26-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- ライセンス
+- 感じ
+- 危険
+- ラップ
+- ベーコン
+- tokyuruby
+- 場合
+- 持ち込み
+- cc
+- 自作
+lastmod: '2014-04-03 15:06:26-07:00'
+projects: []
+recommendations:
+- /post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/
+- /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/
+- /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2014-04-03 22:06:26+00:00
-lastmod: 2014-04-03 22:06:26+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [ライセンス, 感じ, 危険, ラップ, ベーコン, tokyuruby, 場合, 持ち込み, cc, 自作]
-recommendations: [/post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
-  /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/]
+title: 'TokyuRuby会議07でLTしてきました #tqrk07'
 ---
+
 無限プレモルが出るという危険な楽しいイベント、[TokyuRuby会議07](http://regional.rubykaigi.org/tokyu07)で[rubyistokei](http://rubyistokei.herokuapp.com/)の[timer](https://speakerdeck.com/kwappa/rubyistimer)にドラの音を付けたよ！という話をしました。
 
 [http://rubyistokei.herokuapp.com/timer?limit=1&gong=on](http://rubyistokei.herokuapp.com/timer?limit=1&gong=on)  
@@ -46,5 +63,3 @@ recommendations: [/post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/, /post/2
 ![](https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-ash4/t1.0-9/10170927_674072462655155_1082293256_n.jpg)
 
 なお、飯王の写真を見せた所、妻から次回飯王を目指せとの指令が下りました。
-
-

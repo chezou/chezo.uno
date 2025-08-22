@@ -1,20 +1,37 @@
 ---
-title: 機械学習の分類の話を損失関数と決定境界を中心に整理してみた
+authors:
+- aki
+categories: null
+date: '2016-05-08 17:06:39-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 損失
+- パーセプトロン
+- コース
+- 関数
+- 数式
+- 嬉しい
+- github
+- 追記
+- svm
+- coursera
+lastmod: '2016-05-08 17:06:39-07:00'
+projects: []
+recommendations:
+- /post/2021-04-24-ml-at-work-2nd-edition/
+- /post/2015-11-23-sympytojupyter-notebookdeshu-shi-nomemowoqu-rou/
+- /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2016-05-09 00:06:39+00:00
-lastmod: 2016-05-09 00:06:39+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [損失, パーセプトロン, コース, 関数, 数式, 嬉しい, github, 追記, svm, coursera]
-recommendations: [/post/2021-04-24-ml-at-work-2nd-edition/, /post/2015-11-23-sympytojupyter-notebookdeshu-shi-nomemowoqu-rou/,
-  /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/]
+title: 機械学習の分類の話を損失関数と決定境界を中心に整理してみた
 ---
+
 機械学習の分類の話を、主に決定境界と損失関数の観点から整理してみました。 とはいっても、k-NNとか損失関数関係ないのもいます。
 
 最初ははてなブログに書こうとしたのですが、数式を埋め込むのが辛かったのでjupyter notebookにしました。
@@ -30,5 +47,3 @@ githubだと日本語を含む数式のレンダーが壊れるので、nbviewer
 パーセプトロンが見直されたのはなんでだっけ、SVMってどういう位置づけだっけ、というのを確認できればなぁと思っています。 多層パーセプトロンまでに至るところの流れがうまく伝わればなぁと思っています。 間違いなどがあれば、是非ご指摘いただければ嬉しいです。
 
 本当はcourseraのMachine Learningのコース前の人に届けば嬉しいんですが、きっと修了した人にしか伝わらないかなぁ。 もし、まだNgのコース終わっていない人がいたら、感想聞いてみたいです。
-
-

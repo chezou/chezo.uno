@@ -1,21 +1,37 @@
 ---
-title: 'Machine Learning Casual Talks #4 を開催しました #MLCT'
+authors:
+- aki
+categories: null
+date: '2015-12-21 05:24:03-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- mlct
+- チーム
+- casual
+- talks
+- 進め方
+- プロトタイプ
+- .com
+- データ分析
+- プロジェクト
+- slideshare
+lastmod: '2015-12-21 05:24:03-08:00'
+projects: []
+recommendations:
+- /post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/
+- /post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/
+- /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-12-21 13:24:03+00:00
-lastmod: 2015-12-21 13:24:03+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [mlct, チーム, casual, talks, 進め方, プロトタイプ, .com, データ分析, プロジェクト, slideshare]
-recommendations: [/post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/,
-  /post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/,
-  /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/]
+title: 'Machine Learning Casual Talks #4 を開催しました #MLCT'
 ---
+
 まさかの一週間内に自分の主催する勉強会が3回重なるデスロードを走ってきたchezouです。[^1] 
 
 前回からだいぶ感覚があきましたが、MLCTを [@yamakatu](https://twitter.com/yamakatu) さんの火付けのもと開催しました。[^2] 
@@ -73,5 +89,3 @@ Gunosyのデータ分析チームの現在の話、LTではもったいない話
 [^1]: 火曜MLCT, 水曜kawasaki.rb, 土曜JuliaTokyo！！
 
 [^2]: 言い出した割にはLTだけだったので後で🍣反省会を開きましょう
-
-

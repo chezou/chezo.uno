@@ -1,21 +1,37 @@
 ---
-title: 数式入りのmarkdownをSphinxを使ってhtml/pdfにする
+authors:
+- aki
+categories: null
+date: '2017-01-22 08:11:24-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- markdown
+- recommonmark
+- sphinx
+- html
+- 3rd
+- conf
+- 拡張
+- latex
+- rest
+- import
+lastmod: '2017-01-22 08:11:24-08:00'
+projects: []
+recommendations:
+- /post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/
+- /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/
+- /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2017-01-22 16:11:24+00:00
-lastmod: 2017-01-22 16:11:24+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [markdown, recommonmark, sphinx, html, 3rd, conf, 拡張, latex, rest, import]
-recommendations: [/post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/,
-  /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
-  /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/]
+title: 数式入りのmarkdownをSphinxを使ってhtml/pdfにする
 ---
+
 Sphinxでmarkdown拡張を扱うためのrecommonmarkというライブラリがあります。 これを使うとreSTではなく、markdownを書いてhtmlやPDFが吐けるようになります。
 
 詳細は以下のエントリにやり方がまとまっています。

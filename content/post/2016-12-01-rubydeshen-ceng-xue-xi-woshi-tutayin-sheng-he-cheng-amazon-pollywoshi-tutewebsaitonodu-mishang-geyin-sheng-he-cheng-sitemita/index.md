@@ -1,19 +1,35 @@
 ---
-title: Rubyで深層学習を使った音声合成Amazon Pollyを使ってWebサイトの読み上げ音声合成してみた
+authors:
+- aki
+categories: null
+date: '2016-12-01 15:10:05-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 音声
+- amazon
+- 英語
+- dl
+- aws
+- .com
+- api
+- 話題
+- 追記
+- '2016'
+lastmod: '2016-12-01 15:10:05-08:00'
+projects: []
+recommendations:
+- /post/2016-12-31-2016nian-wozhen-rifan-tute/
+- /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/
+- /post/2015-12-30-2015nian-wozhen-rifan-tute/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2016-12-01 23:10:05+00:00
-lastmod: 2016-12-01 23:10:05+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [音声, amazon, 英語, dl, aws, .com, api, 話題, 追記, '2016']
-recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
-  /post/2015-12-30-2015nian-wozhen-rifan-tute/]
+title: Rubyで深層学習を使った音声合成Amazon Pollyを使ってWebサイトの読み上げ音声合成してみた
 ---
 
 ![](20161201230818.png)

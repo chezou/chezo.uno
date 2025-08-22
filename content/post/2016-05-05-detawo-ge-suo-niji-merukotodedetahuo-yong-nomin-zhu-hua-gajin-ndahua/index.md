@@ -1,20 +1,37 @@
 ---
-title: データを一箇所に集めることでデータ活用の民主化が進んだ話
+authors:
+- aki
+categories: null
+date: '2016-05-05 15:20:46-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- sql
+- データ
+- 箇所
+- ディレクター
+- こと
+- 分析
+- データ分析
+- クエリ
+- エンジニア
+- 民主化
+lastmod: '2016-05-05 15:20:46-07:00'
+projects: []
+recommendations:
+- /post/2022-05-05-sqllineage-with-digdag-log/
+- /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
+- /post/2016-03-30-zhuan-zhi-simasita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2016-05-05 22:20:46+00:00
-lastmod: 2016-05-05 22:20:46+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [sql, データ, 箇所, ディレクター, こと, 分析, データ分析, クエリ, エンジニア, 民主化]
-recommendations: [/post/2022-05-05-sqllineage-with-digdag-log/, /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
-  /post/2016-03-30-zhuan-zhi-simasita/]
+title: データを一箇所に集めることでデータ活用の民主化が進んだ話
 ---
+
 先日、この記事を読んで分析のハードルを下げること大事だよね、というのを思い出したのでつらつらと書いてみようと思います。
 
 <iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fqiita.com%2Furaura%2Fitems%2F8020989e79a6985b0c29" title="マーケティング担当者にSQLを完全マスターさせた話 - Qiita" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://qiita.com/uraura/items/8020989e79a6985b0c29">qiita.com</a></cite>
@@ -109,5 +126,3 @@ recommendations: [/post/2022-05-05-sqllineage-with-digdag-log/, /post/2016-11-14
 [^4]: 実際に、テラバイト規模のデータを移動するのにN時間とかアホみたいなことも世の中にはあったりしますよね
 
 [^5]: もちろん、権限ないと見れないスキーマとかもありましたが
-
-

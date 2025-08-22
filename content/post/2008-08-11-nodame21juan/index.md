@@ -1,20 +1,37 @@
 ---
-title: のだめ21巻
+authors:
+- aki
+categories: null
+date: '2008-08-11 14:49:56-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 千秋
+- 衝撃
+- 結婚
+- 知子
+- 二ノ宮
+- 翌朝
+- スルー
+- その後
+- 講談社
+- 続き
+lastmod: '2008-08-11 14:49:56-07:00'
+projects: []
+recommendations:
+- /post/2008-07-06-nodamekantabire18-20/
+- /post/2008-06-15-gui-cai-xian-ru/
+- /post/2008-10-10-tiisanatiisanawang-yang/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-08-11 21:49:56+00:00
-lastmod: 2008-08-11 21:49:56+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [千秋, 衝撃, 結婚, 知子, 二ノ宮, 翌朝, スルー, その後, 講談社, 続き]
-recommendations: [/post/2008-07-06-nodamekantabire18-20/, /post/2008-06-15-gui-cai-xian-ru/,
-  /post/2008-10-10-tiisanatiisanawang-yang/]
+title: のだめ21巻
 ---
+
 {{< amazon asin="4063407128" title="のだめカンタービレ #21 (21) (講談社コミックスキス)" >}}
 二ノ宮 知子 / / 講談社  
 ISBN : 4063407128  
@@ -31,6 +48,3 @@ ISBN : 4063407128
   
   
 でも、続きが気になっちゃいます。
-
-
-

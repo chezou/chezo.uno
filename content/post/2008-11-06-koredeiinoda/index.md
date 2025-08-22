@@ -1,20 +1,37 @@
 ---
-title: これでいいのだ
+authors:
+- aki
+categories: null
+date: '2008-11-06 13:48:31-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 昭和
+- 戦時
+- 戦後
+- 春秋
+- 文藝
+- ばあ
+- 子どもたち
+- 子ども
+- 時代
+- 面白い
+lastmod: '2008-11-06 13:48:31-08:00'
+projects: []
+recommendations:
+- /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/
+- /post/2008-07-19-xi-nomo-nu-gasi-nda/
+- /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-11-06 21:48:31+00:00
-lastmod: 2008-11-06 21:48:31+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [昭和, 戦時, 戦後, 春秋, 文藝, ばあ, 子どもたち, 子ども, 時代, 面白い]
-recommendations: [/post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
-  /post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
+title: これでいいのだ
 ---
+
 {{< amazon asin="4167753278" title="これでいいのだ―赤塚不二夫自叙伝 (文春文庫 あ 50-1)" >}}
 赤塚 不二夫 / / 文藝春秋  
 ISBN : 4167753278  
@@ -23,6 +40,3 @@ ISBN : 4167753278
 赤塚不二夫の自叙伝。がばいばあちゃんを読んだときも思ったのだが、昭和の時代を生き抜いた氏や氏の両親の話は読んでいて面白いですね。戦時中や戦後の子どもたちの伸びやかなこと(別に今の子どもがどうのと言いたいわけではないですが)  
   
 気楽に読める一冊です。
-
-
-

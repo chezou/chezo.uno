@@ -1,20 +1,35 @@
 ---
-title: 福田誠治著 「フィンランドは教師の育て方がすごい」読了
+authors:
+- aki
+categories: null
+date: '2010-06-29 14:59:04-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 教育
+- フィンランド
+- 教師
+- 現状
+- こと
+- 素養
+- 市民
+- 課程
+- 尊敬
+- 日本
+lastmod: '2010-06-29 14:59:04-07:00'
+projects: []
+recommendations:
+- /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/
+- /post/2010-07-05-yi-gu-gang-yan-shan-kou-er-lang-ge-chai-she-hui-tojiao-yu-gai-ge-du-liao/
+- /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2010-06-29 21:59:04+00:00
-lastmod: 2010-06-29 21:59:04+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [教育, フィンランド, 教師, 現状, こと, 素養, 市民, 課程, 尊敬, 日本]
-recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
-  /post/2010-07-05-yi-gu-gang-yan-shan-kou-er-lang-ge-chai-she-hui-tojiao-yu-gai-ge-du-liao/,
-  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
+title: 福田誠治著 「フィンランドは教師の育て方がすごい」読了
 ---
 
 {{< amazon asin="4750509035" title="フィンランドは教師の育て方がすごい" >}}
@@ -46,4 +61,3 @@ recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruke
 
 とりとめもなく書いてしまいましたが、フィンランドの教育実習の模様と、この本の最後に付けられている **フィンランドの学習指導要領は必見** です。学習指導要領は大まかなガイドラインでしかない、という書き方が本書の中にも何度も指摘されていましたが、これを読んで現場の先生は地域にあった教育を展開していかなければならないのか、そう思いました。相当に頭を使わないといけないようです。
 一部、フィンランド教育を礼賛したり、自説に引き寄せような気がする点もありますが、学習指導要領と教育実習の様子だけでも読む価値はあるかと思います。
-

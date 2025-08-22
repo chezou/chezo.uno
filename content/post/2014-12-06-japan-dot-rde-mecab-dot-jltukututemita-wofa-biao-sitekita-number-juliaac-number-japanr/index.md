@@ -1,20 +1,37 @@
 ---
-title: 'Japan.Rで"MeCab.jlつくってみた"を発表してきた #JuliaAC #JapanR'
+authors:
+- aki
+categories: null
+date: '2014-12-06 10:18:20-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- unsigned
+- ptr
+- mecab
+- struct
+- node
+- char
+- type
+- 構造体
+- void
+- float
+lastmod: '2014-12-06 10:18:20-08:00'
+projects: []
+recommendations:
+- /post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/
+- /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/
+- /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2014-12-06 18:18:20+00:00
-lastmod: 2014-12-06 18:18:20+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [unsigned, ptr, mecab, struct, node, char, type, 構造体, void, float]
-recommendations: [/post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/,
-  /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/, /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/]
+title: 'Japan.Rで"MeCab.jlつくってみた"を発表してきた #JuliaAC #JapanR'
 ---
+
 何故か、Facebookで[@shinyorke](https://twitter.com/shinyorke)さんと[Japan.R](https://atnd.org/events/58624)の話をしてたら、[@0kayu](https://twitter.com/0kayu)さんに補足されてしまったので、LT発表してきました。
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/42416256" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>

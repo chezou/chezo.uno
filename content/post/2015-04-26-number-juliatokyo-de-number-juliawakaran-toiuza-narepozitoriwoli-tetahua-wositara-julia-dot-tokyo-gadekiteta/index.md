@@ -1,20 +1,37 @@
 ---
-title: '#JuliaTokyo で #juliaわからん という雑なレポジトリを立てた話をしたら julia.tokyo ができてた '
+authors:
+- aki
+categories: null
+date: '2015-04-26 15:25:18-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- julia
+- juliatokyo
+- sorami
+- issue
+- wakalang
+- 場所
+- チャット
+- make
+- japan
+- やりとり
+lastmod: '2015-04-26 15:25:18-07:00'
+projects: []
+recommendations:
+- /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/
+- /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/
+- /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-04-26 22:25:18+00:00
-lastmod: 2015-04-26 22:25:18+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [julia, juliatokyo, sorami, issue, wakalang, 場所, チャット, make, japan, やりとり]
-recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/,
-  /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/]
+title: '#JuliaTokyo で #juliaわからん という雑なレポジトリを立てた話をしたら julia.tokyo ができてた '
 ---
+
 [JuliaTokyo #3](http://juliatokyo.connpass.com/event/13218/)を @soramiさんと @bycicle1885 さんと開催しました。
 
 > 第3回 [#JuliaTokyo](https://twitter.com/hashtag/JuliaTokyo?src=hash) にお越しの皆様、楽しい時間をありがとうございました！結論は「julia-wakalang」に質問や要望を書こう、ですかね。ひとつ書いてみました; [https://t.co/ZZBJVu7KC1](https://t.co/ZZBJVu7KC1) [pic.twitter.com/CyAm7Gx23e](http://t.co/CyAm7Gx23e)
@@ -49,5 +66,3 @@ Twitterで[#Juliaわからん](https://twitter.com/search?f=realtime&q=%23Julia%
 あわせて、[ドキュメントの翻訳](http://docs.julia.tokyo/ja/latest/)も合流したので、いよいよ盛り上がってきました。
 
 Juliaの情報を増やして、もっともっと盛り上げて行きたいと思います！
-
-

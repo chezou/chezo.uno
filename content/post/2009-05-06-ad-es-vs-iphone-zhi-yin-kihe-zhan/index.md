@@ -1,20 +1,37 @@
 ---
-title: Ad[es] VS iPhone(値引き合戦)
+authors:
+- aki
+categories: null
+date: '2009-05-05 22:05:42-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 解約
+- willcom
+- iphone
+- ad
+- es
+- 手数料
+- 月額
+- gw
+- コスト
+- 端末
+lastmod: '2009-05-05 22:05:42-07:00'
+projects: []
+recommendations:
+- /post/2009-05-04-ad-es-wojie-yue-surutameni/
+- /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/
+- /post/2009-05-07-sayonarawillcom-sayonaraad-es/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-05-06 05:05:42+00:00
-lastmod: 2009-05-06 05:05:42+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [解約, willcom, iphone, ad, es, 手数料, 月額, gw, コスト, 端末]
-recommendations: [/post/2009-05-04-ad-es-wojie-yue-surutameni/, /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/,
-  /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
+title: Ad[es] VS iPhone(値引き合戦)
 ---
+
 最近のiPhone for everybodyとWillcomのGWキャンペーンの比較。Ad[es]をメインで持っていて、でもそろそろ愛想を尽かしたのでデータ専用の端末としようかなぁ、という人と考えてください。隣にAppleの回し者がいるけど、スルーの方向で。  
 基本的に各月パケット代はフルまで使う前提です。
 
@@ -67,5 +84,3 @@ iPhone 16GB: 42,240円
 ただ、iPhoneは買い換えが2年間非常に厳しいことがネックである。逆にwillcomのGWキャンペーンであれば、維持したままの浮気も可能な額と言えよう。ただ、今までのようにPublic携帯とするのは通話コストの増加(10.5円/30秒→31.5円/30秒)が厳しいか。(ちなみに、ホワイトプランの通話料は21円/30秒)
 
 端末の魅力でiPhoneに押し切るか、コストでwillcomにするか、これが悩みどころ。多分iPhoneに押されるとは思うが。。。
-
-

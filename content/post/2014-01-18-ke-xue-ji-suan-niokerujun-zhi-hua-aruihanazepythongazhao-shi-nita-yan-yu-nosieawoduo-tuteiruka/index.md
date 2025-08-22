@@ -1,20 +1,37 @@
 ---
-title: 科学計算における均質化、あるいはなぜPythonが着実に他言語のシェアを奪っているか
+authors:
+- aki
+categories: null
+date: '2014-01-17 18:01:18-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- python
+- 言語
+- こと
+- パッケージ
+- 統計的
+- 科学
+- 可視化
+- コード
+- matlab
+- 計算
+lastmod: '2014-01-17 18:01:18-08:00'
+projects: []
+recommendations:
+- /post/2017-08-26_python------------------dc8d8f2fe989/
+- /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/
+- /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2014-01-18 02:01:18+00:00
-lastmod: 2014-01-18 02:01:18+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [python, 言語, こと, パッケージ, 統計的, 科学, 可視化, コード, matlab, 計算]
-recommendations: [/post/2017-08-26_python------------------dc8d8f2fe989/, /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/,
-  /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/]
+title: 科学計算における均質化、あるいはなぜPythonが着実に他言語のシェアを奪っているか
 ---
+
 最近、何故科学計算でPythonがほぼ一人勝ちなのか気になっていたのですが、[TAL YARKONI](http://www.talyarkoni.org/blog/author/admin/)氏による、[THE HOMOGENIZATION OF SCIENTIFIC COMPUTING, OR WHY PYTHON IS STEADILY EATING OTHER LANGUAGES’ LUNCH](http://www.talyarkoni.org/blog/2013/11/18/the-homogenization-of-scientific-computing-or-why-python-is-steadily-eating-other-languages-lunch/)という記事が、その答えに近づける鍵なのかもしれないと思い、試訳をしてみました。  
 彼は心理学とニューロイメージングを専門とする研究者であり、元々Rを中心に様々な言語を利用していたのですが、最近ではPythonばかり使うようになってきたとのことです。
 
@@ -82,6 +99,4 @@ Michael Waskomの[seaborn package](https://github.com/mwaskom/seaborn)(複雑な
 2.   
 PythonとR等の間に、オブジェクトを内部的にやりとりできる様々なインターフェースがあることは知っている。私の経験上、これらは断然ポジティブではないし、常に複数の言語をまたぐために余計なコードを書く手間は依然として残っている。 ↩  
 3.   
-そう、あなたが聞いたことは間違っていない。Pythonを使ってwebベースの可視化をするのだ。Bokehは静的なJavaScriptとJSONをPythonから生成する。あなたはネイティブなJSコードを書くこと無く、魅惑的な図をウェブページでユーザに見せることができるのだ。 ↩  
-
-
+そう、あなたが聞いたことは間違っていない。Pythonを使ってwebベースの可視化をするのだ。Bokehは静的なJavaScriptとJSONをPythonから生成する。あなたはネイティブなJSコードを書くこと無く、魅惑的な図をウェブページでユーザに見せることができるのだ。 ↩

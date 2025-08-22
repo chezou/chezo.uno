@@ -1,20 +1,37 @@
 ---
-title: 「ネットフリックスの時代」にはコンテンツの山に埋もれなさせないためのヒントが詰まっていた
+authors:
+- aki
+categories: null
+date: '2015-10-27 02:20:31-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- netflix
+- プレイリスト
+- spotify
+- コンテンツ
+- レコメンデーション
+- 方式
+- 反復
+- ラジオ
+- 音楽
+- サービス
+lastmod: '2015-10-27 02:20:31-07:00'
+projects: []
+recommendations:
+- /post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/
+- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
+- /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-10-27 09:20:31+00:00
-lastmod: 2015-10-27 09:20:31+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [netflix, プレイリスト, spotify, コンテンツ, レコメンデーション, 方式, 反復, ラジオ, 音楽, サービス]
-recommendations: [/post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/,
-  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/]
+title: 「ネットフリックスの時代」にはコンテンツの山に埋もれなさせないためのヒントが詰まっていた
 ---
+
 backspace.fmでもよくゲストに出ている西田宗千佳さん([@mnishi41](https://twitter.com/mnishi41))の書かれた、「ネットフリックスの時代−配信とスマホがテレビを変える」読んだ。
 
 {{< amazon asin="B016KDOC3Q" title="ネットフリックスの時代　配信とスマホがテレビを変える (講談社現代新書)" >}}
@@ -61,5 +78,3 @@ backspace.fmでもよくゲストに出ている西田宗千佳さん([@mnishi41
 - [この商品を含むブログ (1件) を見る](http://d.hatena.ne.jp/asin/B010PZ8SUI/chezou-22)
 
 コンテンツに埋もれる時代に、どのように多様なニーズに応えるのか、多分UGCだとアプローチは違うのかもしれないが示唆に富んだ一冊である。
-
-

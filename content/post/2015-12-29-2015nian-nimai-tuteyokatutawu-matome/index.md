@@ -1,20 +1,37 @@
 ---
-title: 2015年に買ってよかった物まとめ
+authors:
+- aki
+categories: null
+date: '2015-12-29 12:33:41-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- メーカー
+- synology
+- 出版社
+- 商品
+- メディア
+- フィルム
+- nas
+- ブログ
+- panasonic
+- サイクル
+lastmod: '2015-12-29 12:33:41-08:00'
+projects: []
+recommendations:
+- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
+- /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/
+- /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-12-29 20:33:41+00:00
-lastmod: 2015-12-29 20:33:41+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [メーカー, synology, 出版社, 商品, メディア, フィルム, nas, ブログ, panasonic, サイクル]
-recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
-  /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/]
+title: 2015年に買ってよかった物まとめ
 ---
+
 書いておくと後から検索できることもあり、今年買ってよかったものを書いていこうと思います。
 
 ## 1. 防水Bluetoothスピーカー
@@ -126,5 +143,3 @@ DCモーター扇風機もほとんどお値段しないわりに、静かだっ
 というわけで、今年は色々なものを買いました。dotとか[final audio designのheaven IV](http://amzn.to/1NTKFHz)は来年レビューを書こうと思います...。
 
 [^1]: 今はQNAPも対応したようです
-
-

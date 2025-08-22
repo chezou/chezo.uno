@@ -1,13 +1,27 @@
 ---
-title: 日本国外で出版社と取引をする際の所得税の源泉徴収の扱い
-authors: [aki]
+authors:
+- aki
+date: '2021-11-09 09:40:00-08:00'
+keywords:
+- 源泉徴収
+- 所得
+- 非居住者
+- 源泉
+- 復興特別所得税
+- 国内
+- 場合
+- 所得税
+- 国税庁
+- 出版社
+lastmod: '2022-02-07 19:24:00-08:00'
+recommendations:
+- /post/2022-02-07-foregin-tax/
+- /post/2022-11-28-cancel-japanese-service/
+- /post/2021-12-15-relocated-to-vancouver/
 summary: 海外移住した際の、所得税の扱いについてまとめました
-tags: [tax]
-date: 2021-11-09 10:40:00-07:00
-lastmod: 2022-02-07 20:24:00-07:00
-keywords: [源泉徴収, 所得, 非居住者, 源泉, 復興特別所得税, 国内, 場合, 所得税, 国税庁, 出版社]
-recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-11-28-cancel-japanese-service/,
-  /post/2021-12-15-relocated-to-vancouver/]
+tags:
+- tax
+title: 日本国外で出版社と取引をする際の所得税の源泉徴収の扱い
 ---
 
 <aside>

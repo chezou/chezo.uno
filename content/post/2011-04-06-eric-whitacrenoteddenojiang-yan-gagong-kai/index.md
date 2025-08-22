@@ -1,21 +1,37 @@
 ---
-title: Eric WhitacreのTEDでの講演が公開
+authors:
+- aki
+categories: null
+date: '2011-04-06 15:00:59-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- virtual
+- choir
+- whitacre
+- 動画
+- ted
+- 合唱
+- youtube
+- 説明
+- '12'
+- 紹介
+lastmod: '2011-04-06 15:00:59-07:00'
+projects: []
+recommendations:
+- /post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/
+- /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/
+- /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2011-04-06 22:00:59+00:00
-lastmod: 2011-04-06 22:00:59+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [virtual, choir, whitacre, 動画, ted, 合唱, youtube, 説明, '12', 紹介]
-recommendations: [/post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/,
-  /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
-  /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/]
+title: Eric WhitacreのTEDでの講演が公開
 ---
+
 当ブログでも[以前紹介した](http://wp.me/pvR30-eD)Eric Whitacre氏のVirtual Choir。YouTubeを通じて合唱しようぜという企画です。2月頃にWhitacre氏がVirtual Choir2.0に関して[TEDでtalk](http://twitter.com/#!/ericwhitacre/status/39104670399987712)する、という話が挙がっていたのですが、ついに[4/1に公開された](http://twitter.com/#!/ericwhitacre/status/53855011339374592)ようです。
 
 [Eric Whitacre: A virtual choir 2,000 voices strong | Video on TED.com](http://www.ted.com/talks/eric_whitacre_a_virtual_choir_2_000_voices_strong.html).
@@ -31,5 +47,3 @@ JCDA合唱の祭典2011〜第12回北とぴあ合唱フェスティバルへの[
 知らなかったけど、[YouTubeにもチャンネル](http://www.youtube.com/user/EricWhitacresVrtlChr)があったんですね、、、
 
 [日本人作曲家がVirtual Choirやってもいいと思うんですよ](http://twitter.com/#!/chezou/status/53076228835520513)、という話を[松下耕先生にしてみた](http://twitter.com/#!/Matsushita_Ko/status/53701877258391552)のですが、こちらもうまくいくといいなー。
-
-

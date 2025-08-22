@@ -1,20 +1,37 @@
 ---
-title: Indigogo ではじめてバックして来た dot を使って3ヶ月がたった
+authors:
+- aki
+categories: null
+date: '2017-01-30 14:02:42-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 充電
+- dot
+- instagram
+- 感じ
+- 片方
+- ケース
+- バック
+- イヤホン
+- www
+- '20'
+lastmod: '2017-01-30 14:02:42-08:00'
+projects: []
+recommendations:
+- /post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/
+- /post/2019-03-10_business-trip-goods/
+- /post/2010-11-07-instagr-dot-amgamian-bai-i/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2017-01-30 22:02:42+00:00
-lastmod: 2017-01-30 22:02:42+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [充電, dot, instagram, 感じ, 片方, ケース, バック, イヤホン, www, '20']
-recommendations: [/post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/,
-  /post/2019-03-10_business-trip-goods/, /post/2010-11-07-instagr-dot-amgamian-bai-i/]
+title: Indigogo ではじめてバックして来た dot を使って3ヶ月がたった
 ---
+
 最近のbackspace.fm でdotが「来る来る詐欺」でAir podsに完全に飲み込まれたという話が出ていたので、きちんとレビューしてなかったのを思い出したのでレビューします。
 
 dotは一言で言うと、AirPodsみたいな小さいBluetoothイヤホンです。

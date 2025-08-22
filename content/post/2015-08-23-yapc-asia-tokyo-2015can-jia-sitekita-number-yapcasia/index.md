@@ -1,20 +1,37 @@
 ---
-title: 'YAPC::ASIA Tokyo 2015参加してきた #yapcasia'
+authors:
+- aki
+categories: null
+date: '2015-08-22 18:27:50-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- yapc
+- tokyo
+- '2015'
+- org
+- はてなブックマーク
+- php
+- トピック
+- podcast
+- 処理
+- 技術
+lastmod: '2015-08-22 18:27:50-07:00'
+projects: []
+recommendations:
+- /post/2008-07-16-rockapella-channel/
+- /post/2015-12-30-2015nian-wozhen-rifan-tute/
+- /post/2016-03-30-zhuan-zhi-simasita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-08-23 01:27:50+00:00
-lastmod: 2015-08-23 01:27:50+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [yapc, tokyo, '2015', org, はてなブックマーク, php, トピック, podcast, 処理, 技術]
-recommendations: [/post/2008-07-16-rockapella-channel/, /post/2015-12-30-2015nian-wozhen-rifan-tute/,
-  /post/2016-03-30-zhuan-zhi-simasita/]
+title: 'YAPC::ASIA Tokyo 2015参加してきた #yapcasia'
 ---
+
 初参加にして最後のYAPC::ASIA Tokyoに行ってきた。
 
 - イベント開催したい熱が高まった
@@ -65,4 +82,3 @@ YAPCは廊下で人と話すのが楽しいということで、色々な人と�
 
 - SWIGでRuby binding作るとstd::stringはASCIIでしか帰ってこない
 - Juliaでanyenvはjlenvを自分で作らないといけない
-

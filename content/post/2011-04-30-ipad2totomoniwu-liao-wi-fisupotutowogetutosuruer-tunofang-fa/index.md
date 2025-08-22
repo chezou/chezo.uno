@@ -1,20 +1,37 @@
 ---
-title: iPad2とともに無料Wi-Fiスポットをゲットする二つの方法
+authors:
+- aki
+categories: null
+date: '2011-04-29 23:04:06-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- wi-fi
+- スポット
+- ソフトバンク
+- ipad
+- ビックカメラ
+- 一部
+- 対象外
+- 店員
+- モデル
+- togetter
+lastmod: '2011-04-29 23:04:06-07:00'
+projects: []
+recommendations:
+- /post/2011-05-01-iphone-for-everybodyno2nian-fu-riwojie-chu-sitarapaketutoding-e-huratutonisikanaranakatuta/
+- /post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/
+- /post/2020-12-11-wired-lan-triggers-troubles/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2011-04-30 06:04:06+00:00
-lastmod: 2011-04-30 06:04:06+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [wi-fi, スポット, ソフトバンク, ipad, ビックカメラ, 一部, 対象外, 店員, モデル, togetter]
-recommendations: [/post/2011-05-01-iphone-for-everybodyno2nian-fu-riwojie-chu-sitarapaketutoding-e-huratutonisikanaranakatuta/,
-  /post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/, /post/2020-12-11-wired-lan-triggers-troubles/]
+title: iPad2とともに無料Wi-Fiスポットをゲットする二つの方法
 ---
+
 ## 1.3Gモデルを買いましょう。
 自動的にソフトバンクWi-Fiスポット(i)が二年間無料で付いてきます。
 ## 2.AppleStoreかソフトバンクショップでWi-Fiモデルを買いましょう

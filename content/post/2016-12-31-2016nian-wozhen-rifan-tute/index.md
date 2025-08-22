@@ -1,20 +1,37 @@
 ---
-title: 2016年を振り返って
+authors:
+- aki
+categories: null
+date: '2016-12-31 08:11:50-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 転職
+- コード
+- tabula
+- こと
+- 今年
+- もう少し
+- rebuild
+- 激動
+- データサイエンス
+- アウトプット
+lastmod: '2016-12-31 08:11:50-08:00'
+projects: []
+recommendations:
+- /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/
+- /post/2015-12-30-2015nian-wozhen-rifan-tute/
+- /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2016-12-31 16:11:50+00:00
-lastmod: 2016-12-31 16:11:50+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [転職, コード, tabula, こと, 今年, もう少し, rebuild, 激動, データサイエンス, アウトプット]
-recommendations: [/post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
-  /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/]
+title: 2016年を振り返って
 ---
+
 ブルガリアンスクワットをして筋肉痛でプルプルしています。大晦日も元旦もほぼDMM英会話の予定しかありません。
 
 2016年は、世界的にも激動の年でしたが、個人的にも色々な大きなことが起こり激動の時代でした。[^1]
@@ -96,5 +113,3 @@ naoyaさんに紹介されて、データエンジニアリングとデータサ
 もう一つ、筋肉を付けて加齢に伴う色々な問題を解消していきたいと思います。
 
 [^1]: のっけから余談ですが、UKに縁のあるボスが来日中にBrexitの結果を受けて落胆していた様子と、エグゼクティブたちが来日中にトランプの勝利を見てショックを受けているのを見て、波乱の年だったなと思います
-
-

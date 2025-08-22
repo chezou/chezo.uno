@@ -1,20 +1,37 @@
 ---
-title: HD53R Ver.8を購入
+authors:
+- aki
+categories: null
+date: '2008-10-05 05:10:00-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- '53'
+- hd
+- sa
+- hfi
+- '010'
+- ノイズ
+- '700'
+- 購入
+- アンプ
+- わけ
+lastmod: '2008-10-05 05:10:00-07:00'
+projects: []
+recommendations:
+- /post/2008-10-28-mai-tutesimatuta/
+- /post/2008-09-14-hetudohonwu-se-sitahi/
+- /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-10-05 12:10:00+00:00
-lastmod: 2008-10-05 12:10:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: ['53', hd, sa, hfi, '010', ノイズ, '700', 購入, アンプ, わけ]
-recommendations: [/post/2008-10-28-mai-tutesimatuta/, /post/2008-09-14-hetudohonwu-se-sitahi/,
-  /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
+title: HD53R Ver.8を購入
 ---
+
 2chではとことん評判のよろしくないC.E.Cの[HD53R Ver.8](http://www.cec-web.co.jp/products/amp/hd53r/hd53r.html)を購入しました。  
 しかし、JBLのReference410といい、今のマシンの電源といい（ｒｙ  
   
@@ -28,6 +45,3 @@ recommendations: [/post/2008-10-28-mai-tutesimatuta/, /post/2008-09-14-hetudohon
   
 肝心のノイズ周りと音はというと、ノイズは奇跡的にガリノイズもギャングエラーもありませんでした！！すげー。で、現在20時間くらいしかエージングしてないですが、音はS010直やDenDACよりも低域が密度が高くなった気がします。確かに、ロックとかJ-Popを聴くのには良いかな。HFI-700が楽しくなりました。で、合唱やアカペラはというとアカペラ曲は良い感じです。Rajaton素敵。合唱はというとAllegriのMiserereとかちょっとすっきりしすぎかなという印象がぬぐえません。硬質な音と言えばそうなのかも。  
 しばらくは、この子で頑張っていこうと思います。
-
-
-

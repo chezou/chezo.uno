@@ -1,21 +1,37 @@
 ---
-title: harmonia ensembleが新しいCD"翼-WINGS-"を9/29に発売
+authors:
+- aki
+categories: null
+date: '2012-09-28 02:09:36-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 武満徹
+- bach
+- 相澤直人
+- 宿題
+- 前作
+- panamusica
+- 楽譜
+- 合唱
+- 明日
+- 演奏
+lastmod: '2012-09-28 02:09:36-07:00'
+projects: []
+recommendations:
+- /post/2011-12-25-yi-teng-hui-si-ming-dao-qi-tai-liang-shi-noxuan-nda-xue-sheng-he-chang-notameno-sutiyudentosongubutuku-gare-i/
+- /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/
+- /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2012-09-28 09:09:36+00:00
-lastmod: 2012-09-28 09:09:36+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [武満徹, bach, 相澤直人, 宿題, 前作, panamusica, 楽譜, 合唱, 明日, 演奏]
-recommendations: [/post/2011-12-25-yi-teng-hui-si-ming-dao-qi-tai-liang-shi-noxuan-nda-xue-sheng-he-chang-notameno-sutiyudentosongubutuku-gare-i/,
-  /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/,
-  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
+title: harmonia ensembleが新しいCD"翼-WINGS-"を9/29に発売
 ---
+
 合唱楽譜でお馴染みの[Panamusicaさん](http://www.panamusica.co.jp/ja/)が、[新刊案内](http://www.panamusica.co.jp/ja/new/index.html)で紹介していたので知ったのですが、元World Youth Choirのメンバーなどで構成される合唱団[harmonia ensemble](http://www.harmonia-ensemble.com/)がニューアルバム"翼 -WINGS-"を明日9/29に発売するようです。
 
 コンクールの全国大会の演奏や、定期演奏会の演奏などが詰まっているようです。  
@@ -55,5 +71,3 @@ Tristis est anima mea / F.Poulenc
 Christus est natus / D.Mocnik  
 Ne cakaj na maj / B.Lesjak  
 Heal the world / M.Jackson(C.Borela)
-
-

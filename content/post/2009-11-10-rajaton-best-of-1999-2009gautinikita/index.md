@@ -1,19 +1,35 @@
 ---
-title: RAJATON BEST of 1999-2009がうちにきた
+authors:
+- aki
+categories: null
+date: '2009-11-10 13:56:43-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- dvd
+- アルバム
+- cd
+- rajaton
+- 前者
+- butterfly
+- live
+- 映像
+- 程度
+- 魅了
+lastmod: '2009-11-10 13:56:43-08:00'
+projects: []
+recommendations:
+- /post/2009-11-26-the-real-album/
+- /post/2008-09-28-bznoultra-treasuregayabasugiru/
+- /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-11-10 21:56:43+00:00
-lastmod: 2009-11-10 21:56:43+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [dvd, アルバム, cd, rajaton, 前者, butterfly, live, 映像, 程度, 魅了]
-recommendations: [/post/2009-11-26-the-real-album/, /post/2008-09-28-bznoultra-treasuregayabasugiru/,
-  /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
+title: RAJATON BEST of 1999-2009がうちにきた
 ---
 
 ![](p_1466_1100_a35c0282-e71c-40aa-ad01-4952aee2124c.jpeg)
@@ -32,5 +48,3 @@ recommendations: [/post/2009-11-26-the-real-album/, /post/2008-09-28-bznoultra-t
 
 追記：  
 関心空間の素敵な記事を書いていた方も[このアルバムを手にされていました！](http://bluecross.seesaa.net/article/131456752.html)ヘルシンキで手に入れられたようで、羨ましい限りです。
-
-

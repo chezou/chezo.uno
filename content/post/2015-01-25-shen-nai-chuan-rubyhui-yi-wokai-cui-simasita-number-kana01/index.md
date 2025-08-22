@@ -1,20 +1,37 @@
 ---
-title: '神奈川Ruby会議を開催しました #kana01'
+authors:
+- aki
+categories: null
+date: '2015-01-24 16:41:03-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- ruby
+- リージョナル
+- 会議
+- こと
+- コミュニティ
+- 段階
+- 嬉しかっ
+- ペアプロ
+- 勉強会
+- コンセプト
+lastmod: '2015-01-24 16:41:03-08:00'
+projects: []
+recommendations:
+- /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
+- /post/2022-06-18-kawasaki rb 9 years reflection/
+- /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-01-25 00:41:03+00:00
-lastmod: 2015-01-25 00:41:03+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [ruby, リージョナル, 会議, こと, コミュニティ, 段階, 嬉しかっ, ペアプロ, 勉強会, コンセプト]
-recommendations: [/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
-  /post/2022-06-18-kawasaki rb 9 years reflection/, /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/]
+title: '神奈川Ruby会議を開催しました #kana01'
 ---
+
 去る2015年1月17日に神奈川Ruby会議を行いました。[公式サイト](http://regional.rubykaigi.org/kana01/)にはスライドや動画も上げましたのでよろしければご覧ください。また、るびま班が近々レポートを上げてくれるはずですので、そちらもお楽しみに。
 
 スタッフの反省会はこれからですが、その前に自分自身で振り返ってみたいと思います。
@@ -90,5 +107,3 @@ Tシャツは、アンチハラスメントポリシーを決めた段階で相�
 あと、気づけば31歳になっていたので、miyohideさんが「コミュニティ活動していて嬉しかったこと」としてあげていた、例のリストを共有して終わりたいと思います :)
 
 [http://amzn.to/1sVhwqA](http://amzn.to/1sVhwqA)
-
-

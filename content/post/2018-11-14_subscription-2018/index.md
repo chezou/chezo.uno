@@ -1,12 +1,25 @@
 ---
-title: 加入しているサブスクリプションサービス 2018
-description: 以前、 V. の人が書いていた気がするのだけど、 wozozoに聞かれたのでメモがてら書いていく。
-date: '2018-11-14T13:11:53+09:00'
+authors:
+- aki
 categories: []
-authors: [aki]
-keywords: [契約, 必須, サービス, 移行, 解約, 英会話, キャンペーン, youtube, 良い, 子供]
-recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
-  /post/2022-11-28-cancel-japanese-service/]
+date: '2018-11-13 20:11:53-08:00'
+description: 以前、 V. の人が書いていた気がするのだけど、 wozozoに聞かれたのでメモがてら書いていく。
+keywords:
+- 契約
+- 必須
+- サービス
+- 移行
+- 解約
+- 英会話
+- キャンペーン
+- youtube
+- 良い
+- 子供
+recommendations:
+- /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/
+- /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/
+- /post/2022-11-28-cancel-japanese-service/
+title: 加入しているサブスクリプションサービス 2018
 ---
 
 以前、 [V.](https://medium.com/u/f0ab18163247) の人が書いていた気がするのだけど、 wozozoに聞かれたのでメモがてら書いていく。

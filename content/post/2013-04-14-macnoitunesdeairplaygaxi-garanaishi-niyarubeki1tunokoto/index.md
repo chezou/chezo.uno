@@ -1,20 +1,37 @@
 ---
-title: MacのiTunesでAirPlayが繋がらない時にやるべき1つのこと
+authors:
+- aki
+categories: null
+date: '2013-04-14 03:04:52-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- airplay
+- サーバ
+- ipv
+- mac
+- オフ
+- 事態
+- ターミナル
+- raspberry pi
+- 対処法
+- この先
+lastmod: '2013-04-14 03:04:52-07:00'
+projects: []
+recommendations:
+- /post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/
+- /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/
+- /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2013-04-14 10:04:52+00:00
-lastmod: 2013-04-14 10:04:52+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [airplay, サーバ, ipv, mac, オフ, 事態, ターミナル, raspberry pi, 対処法, この先]
-recommendations: [/post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/, /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/,
-  /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/]
+title: MacのiTunesでAirPlayが繋がらない時にやるべき1つのこと
 ---
+
 先日、WindowsマシンをAirPlayサーバにする[Shairport4wの話を書きました](https://chezo.uno/post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/)が、
 その後[Raspberry piをAirPlayサーバにする方法](http://www.lifehacker.jp/2013/03/130306raspberry_piairplay.html)など各所でAirPlayサーバが盛り上がっています。
 
@@ -36,4 +53,3 @@ Macのターミナルをたちあげて
 
 - [もぐてっく：RaspbmcのAirPlayでハマったでござる](http://moguno.hatenablog.jp/entry/2013/01/12/193138)
 - [AirPlayの音が途切れる問題の対処法まとめ](http://www.pleiades.or.jp/misc/AirMacExpress/StreamStoppingTrouble.html)
- 

@@ -1,13 +1,28 @@
 ---
-title: pandas 1.0 のpd.NAのハマりどころ
-authors: [aki]
+authors:
+- aki
+date: '2020-03-01 02:17:00-08:00'
+keywords:
+- pandas
+- int
+- na
+- 挙動
+- experimental
+- 登場
+- new
+- numpy
+- '64'
+- documentation
+lastmod: '2020-03-01 17:00:00-08:00'
+recommendations:
+- /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/
+- /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/
+- /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/
 summary: pandas.NAに関連するmissing value周りのあれこれ
-tags: [Python, pandas]
-date: 2020-03-01 03:17:00-07:00
-lastmod: 2020-03-01 18:00:00-07:00
-keywords: [pandas, int, na, 挙動, experimental, 登場, new, numpy, '64', documentation]
-recommendations: [/post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/, /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/,
-  /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/]
+tags:
+- Python
+- pandas
+title: pandas 1.0 のpd.NAのハマりどころ
 ---
 
 ![[https://unsplash.com/photos/_7HU079sGNw](https://unsplash.com/photos/_7HU079sGNw)](https://images.unsplash.com/photo-1497514440240-3b870f7341f0?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
@@ -436,4 +451,3 @@ TypeError                                 Traceback (most recent call last)
 ## まとめ
 
 当初は `pandas.NA` の挙動を調べるつもりで1.0前後の差異を調べたが、気がつけばすでに0.24のときに変わっていたことがわかった。1.0内での挙動も違ったりするし、 `StringDtype` などは experimental featureなので挙動は今後も変わりうる。msgpackへの変換などでPythonのpremitive型に変換するのは気をつける必要がありそう。
-

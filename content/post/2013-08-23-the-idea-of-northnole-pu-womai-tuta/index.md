@@ -1,20 +1,37 @@
 ---
-title: The Idea of Northの楽譜を買った
+authors:
+- aki
+categories: null
+date: '2013-08-23 15:05:09-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- paypal
+- 楽譜
+- 返信
+- ライセンス
+- メール
+- pdf
+- idea
+- アカペラグループ
+- 支払い
+- アレンジ
+lastmod: '2013-08-23 15:05:09-07:00'
+projects: []
+recommendations:
+- /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
+- /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
+- /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2013-08-23 22:05:09+00:00
-lastmod: 2013-08-23 22:05:09+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [paypal, 楽譜, 返信, ライセンス, メール, pdf, idea, アカペラグループ, 支払い, アレンジ]
-recommendations: [/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
-  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/, /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
+title: The Idea of Northの楽譜を買った
 ---
+
 オーストラリアのアカペラグループ、The Idea of Northの楽譜を少し前に購入しました。  
 混声4人のアカペラグループで、オリジナルやアレンジなどいい曲を書いています。  
 何より、SATB4人だと集めやすい。
@@ -69,5 +86,3 @@ Paypalのおかげで楽ちん！
 ちなみに、一度PDFを持っていると後はライセンスの購入だけなので、一瞬でかたが付きます。
 
 もし、楽譜がほしいけど相談したい！という方がいらっしゃれば、コメントいただければと思います。
-
-

@@ -1,20 +1,37 @@
 ---
-title: 豚組行ってきました
+authors:
+- aki
+categories: null
+date: '2010-09-04 05:09:12-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- '1600'
+- '1200'
+- jpeg
+- ad
+- お店
+- 柔らかく
+- プル
+- ed
+- fb
+- ea
+lastmod: '2010-09-04 05:09:12-07:00'
+projects: []
+recommendations:
+- /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
+- /post/2009-08-12-rui-yan-si/
+- /post/2009-08-07-pokemonxin-gan-xian/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2010-09-04 12:09:12+00:00
-lastmod: 2010-09-04 12:09:12+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: ['1600', '1200', jpeg, ad, お店, 柔らかく, プル, ed, fb, ea]
-recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2009-08-12-rui-yan-si/,
-  /post/2009-08-07-pokemonxin-gan-xian/]
+title: 豚組行ってきました
 ---
+
 [![](l_1600_1200_315061ad-b9f6-4b4a-adaa-cc3b852b3712.jpeg)](l_1600_1200_315061ad-b9f6-4b4a-adaa-cc3b852b3712.jpeg)
 
 前々から噂には聞いていたのですが、一度も行っていなかった西麻布の[豚組](http://www.butagumi.com/nishiazabu/)に、[@sako0321](http://twitter.com/sako0321)さんに連れられて夫婦で行ってきました。
@@ -31,5 +48,3 @@ recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2009-08-
 [![](l_1600_1200_6de324ea-decc-4233-96ad-7c3c319612a1.jpeg)](l_1600_1200_6de324ea-decc-4233-96ad-7c3c319612a1.jpeg)
 
 [![](l_1600_1200_dd23beb9-a7c4-4844-b50e-a685fb788721.jpeg)](l_1600_1200_dd23beb9-a7c4-4844-b50e-a685fb788721.jpeg)
-
-

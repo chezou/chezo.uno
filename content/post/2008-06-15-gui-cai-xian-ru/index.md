@@ -1,20 +1,37 @@
 ---
-title: 鬼才現る
+authors:
+- aki
+categories: null
+date: '2008-06-15 14:44:30-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 喜び
+- 衝撃
+- 現実
+- 悲しみ
+- ショック
+- 衣良
+- 石田
+- 集英社
+- 主人公
+- 驚き
+lastmod: '2008-06-15 14:44:30-07:00'
+projects: []
+recommendations:
+- /post/2008-11-18-ai-gainaibu-wu/
+- /post/2008-10-28-utukusiizi-domo/
+- /post/2008-07-19-xi-nomo-nu-gasi-nda/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-06-15 21:44:30+00:00
-lastmod: 2008-06-15 21:44:30+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [喜び, 衝撃, 現実, 悲しみ, ショック, 衣良, 石田, 集英社, 主人公, 驚き]
-recommendations: [/post/2008-11-18-ai-gainaibu-wu/, /post/2008-10-28-utukusiizi-domo/,
-  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
+title: 鬼才現る
 ---
+
 {{< amazon asin="4087474763" title="エンジェル (集英社文庫)" >}}
 石田 衣良 / / 集英社  
 ISBN : 4087474763  
@@ -27,6 +44,3 @@ ISBN : 4087474763
   
   
 読み終わった後に、強烈なショックを受ける本。そういう筋なのか。悲しみというより驚きと言うより、衝撃。
-
-
-

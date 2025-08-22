@@ -1,19 +1,35 @@
 ---
-title: マユールティールーム川崎店とティーハウスマユール宮崎台店の違い
+authors:
+- aki
+categories: null
+date: '2011-02-13 14:00:38-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 川崎
+- ツイッター
+- おいしい
+- お店
+- ちなみ
+- 先日
+- 徒歩
+- 入り口
+- 付近
+- インストラクター
+lastmod: '2011-02-13 14:00:38-08:00'
+projects: []
+recommendations:
+- /post/2009-07-07-qi-xi-kiyandorunaito/
+- /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
+- /post/2021-12-18-8-months-after-relocating-vancouver/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2011-02-13 22:00:38+00:00
-lastmod: 2011-02-13 22:00:38+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [川崎, ツイッター, おいしい, お店, ちなみ, 先日, 徒歩, 入り口, 付近, インストラクター]
-recommendations: [/post/2009-07-07-qi-xi-kiyandorunaito/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
-  /post/2021-12-18-8-months-after-relocating-vancouver/]
+title: マユールティールーム川崎店とティーハウスマユール宮崎台店の違い
 ---
 
 先日、川崎のアゼリアにあるマユールティールームと、宮崎台にあるティーハウスマユールに行ってきました。写真は、宮崎台のマユールのチキンカレーです。
@@ -45,5 +61,3 @@ recommendations: [/post/2009-07-07-qi-xi-kiyandorunaito/, /post/2016-08-23-chuan
 
 まとめますと、 **お茶を楽しむなら川崎店** へ、 **デザートを楽しむなら宮崎台店** の方が、よりこだわりの味を楽しめておすすめです。  
 いつか、五反田のお店も行ってみたいです。
-
-

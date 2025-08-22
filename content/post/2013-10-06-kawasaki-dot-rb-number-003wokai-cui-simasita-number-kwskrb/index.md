@@ -1,20 +1,38 @@
 ---
-title: 'Kawasaki.rb #003を開催しました #kwskrb'
-date: 2013-10-06 11:10:03+00:00
-subtitle: ''
-summary: ''
+authors:
+- aki
+categories:
+- ruby
+date: '2013-10-06 04:10:03-07:00'
 draft: false
 featured: false
-authors: [aki]
-lastmod: 2013-10-06 11:10:03+00:00
-tags: []
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- mruby
+- ruby
+- kishima
+- 数値計算
+- numpy
+- デモ
+- fortran
+- メソッド
+- scipy
+- js
+lastmod: '2013-10-06 04:10:03-07:00'
 projects: []
-image: {caption: '', focal_point: '', preview_only: false}
-categories: [ruby]
-keywords: [mruby, ruby, kishima, 数値計算, numpy, デモ, fortran, メソッド, scipy, js]
-recommendations: [/post/2014-09-21-rubykaigixing-tutekimasita-and-rubyhirobade-shen-nai-chuan-rubyhui-yi-01-gao-zhi-ltsitekimasita-number-rubykaigi-number-rubyhiroba-number-kana01/,
-  /post/2022-06-18-kawasaki rb 9 years reflection/, /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/]
+recommendations:
+- /post/2014-09-21-rubykaigixing-tutekimasita-and-rubyhirobade-shen-nai-chuan-rubyhui-yi-01-gao-zhi-ltsitekimasita-number-rubykaigi-number-rubyhiroba-number-kana01/
+- /post/2022-06-18-kawasaki rb 9 years reflection/
+- /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/
+subtitle: ''
+summary: ''
+tags: []
+title: 'Kawasaki.rb #003を開催しました #kwskrb'
 ---
+
 大分遅くなりましたが、去る8/28(水)にKawasaki.rbの第3回ミートアップを開催しました。
 
 この回では、新しい試みとして[パーフェクトRuby](http://gihyo.jp/book/2013/978-4-7741-5879-2?ard=1381056613)の読書会を行いました。  
@@ -61,5 +79,3 @@ LLVM,clangを経由してではありますが、JSとmrubyがつながるなん
 デモは、webrubyとenchant.jsを使ったものになります。Tokyuの時のデモが以下のツイートで紹介されていたのでお試しください:)
 
 [https://twitter.com/kishima/status/350969504219660288](https://twitter.com/kishima/status/350969504219660288)
-
-

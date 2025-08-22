@@ -1,20 +1,37 @@
 ---
-title: Ono Lisa best 2002-2006
+authors:
+- aki
+categories: null
+date: '2008-08-01 14:52:09-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 電車
+- ミュージック
+- ジャパン
+- 注意
+- cd
+- スコア
+- 選択
+- 感じ
+- とき
+- ない
+lastmod: '2008-08-01 14:52:09-07:00'
+projects: []
+recommendations:
+- /post/2008-06-03-er-du-qin-qian/
+- /post/2008-09-08-luck-stealer-2/
+- /post/2006-07-28-xia-nanode/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-08-01 21:52:09+00:00
-lastmod: 2008-08-01 21:52:09+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [電車, ミュージック, ジャパン, 注意, cd, スコア, 選択, 感じ, とき, ない]
-recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2008-09-08-luck-stealer-2/,
-  /post/2006-07-28-xia-nanode/]
+title: Ono Lisa best 2002-2006
 ---
+
 {{< amazon asin="B0015YEKBU" title="Ono Lisa best 2002-2006" >}}
 小野リサ / / EMIミュージック・ジャパン  
 スコア選択: ★★★★  
@@ -23,5 +40,3 @@ recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2008-09-08-luck-steale
 ぼーっと聞きたいときにいやされる感じです。  
   
 素敵なCDです。でも、電車に乗りながら聞くと寝過ごすので注意（笑）
-
-

@@ -1,20 +1,37 @@
 ---
-title: チャンネルはそのまま！Vol.1
+authors:
+- aki
+categories: null
+date: '2009-04-26 14:48:20-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- どうでしょう
+- モデル
+- すばらしい
+- 北海道
+- special
+- ポップ
+- なじみ
+- 小学館
+- ファン
+- チャンネル
+lastmod: '2009-04-26 14:48:20-07:00'
+projects: []
+recommendations:
+- /post/2005-03-27-u-urusai-dot-dot-dot/
+- /post/2009-11-26-the-real-album/
+- /post/2020-07-11-mlse-summer-workshop/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-04-26 21:48:20+00:00
-lastmod: 2009-04-26 21:48:20+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [どうでしょう, モデル, すばらしい, 北海道, special, ポップ, なじみ, 小学館, ファン, チャンネル]
-recommendations: [/post/2005-03-27-u-urusai-dot-dot-dot/, /post/2009-11-26-the-real-album/,
-  /post/2020-07-11-mlse-summer-workshop/]
+title: チャンネルはそのまま！Vol.1
 ---
+
 [![](https://ecx.images-amazon.com/images/I/51DmEVIjTzL._SL160_.jpg) 
 
 チャンネルはそのまま! 1―HHTV北海道★テレビ (1) (BIG SPIRITS COMICS SPECIAL)
@@ -30,5 +47,3 @@ recommendations: [/post/2005-03-27-u-urusai-dot-dot-dot/, /post/2009-11-26-the-r
   
   
 となりでダ・ガーンを絶賛オススメされています。ガオーンが可愛いらしいです。
-
-

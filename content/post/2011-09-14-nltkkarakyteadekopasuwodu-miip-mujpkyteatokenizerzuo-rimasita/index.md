@@ -1,20 +1,37 @@
 ---
-title: NLTKからKyTeaでコーパスを読み込むJPKyteaTokenizer作りました
+authors:
+- aki
+categories: null
+date: '2011-09-14 15:02:18-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- nltk
+- 自然言語処理
+- reader
+- tokenizer
+- import
+- python
+- test
+- コーパス
+- ソースコード
+- kytea
+lastmod: '2011-09-14 15:02:18-07:00'
+projects: []
+recommendations:
+- /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/
+- /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/
+- /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2011-09-14 22:02:18+00:00
-lastmod: 2011-09-14 22:02:18+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [nltk, 自然言語処理, reader, tokenizer, import, python, test, コーパス, ソースコード, kytea]
-recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
-  /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/]
+title: NLTKからKyTeaでコーパスを読み込むJPKyteaTokenizer作りました
 ---
+
 KyteaをPythonから使うMykytea-pythonを使って、NLTKラッパーを書いてみました。
 
 ## NLTKって？
@@ -50,4 +67,3 @@ Amazonで買ったのに、第1刷を手に入れることが出来たのです�
 - P.89 3.1.5 ローカルファイルの読み込み 4つめのソースコード1行目 f 7= open → f = open
 - P.224 5.5.7 性能の限界 ソースコード 4行目 nltk.ConfusionMatrix(gold, test) → nltk.ConfusionMatrix(gold\_tags, test\_tags)
 - P.228 5.7.3 意味的な手がかり 6行目 「verjaardag」というドイツ語 →  「verjaardag」というオランダ語
-

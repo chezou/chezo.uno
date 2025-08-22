@@ -1,20 +1,37 @@
 ---
-title: クピドの悪戯 虹玉、おいしいコーヒーの入れ方 夢のあとさき
+authors:
+- aki
+categories: null
+date: '2008-07-15 14:50:23-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- シーズン
+- いつも
+- isbn
+- スコア
+- 選択
+- 生々しい
+- 村山
+- コーヒー
+- 完結
+- 刺激
+lastmod: '2008-07-15 14:50:23-07:00'
+projects: []
+recommendations:
+- /post/2008-08-24-sayonaraituka/
+- /post/2008-11-18-ai-gainaibu-wu/
+- /post/2008-09-10-enzieruhato-27/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-07-15 21:50:23+00:00
-lastmod: 2008-07-15 21:50:23+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [シーズン, いつも, isbn, スコア, 選択, 生々しい, 村山, コーヒー, 完結, 刺激]
-recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-11-18-ai-gainaibu-wu/,
-  /post/2008-09-10-enzieruhato-27/]
+title: クピドの悪戯 虹玉、おいしいコーヒーの入れ方 夢のあとさき
 ---
+
 {{< amazon asin="4087463036" title="おいしいコーヒーのいれ方 (10) 夢のあとさき (集英社文庫)" >}}
 村山 由佳 / / 集英社  
 ISBN : 4087463036  
@@ -30,6 +47,3 @@ ISBN : 4091532012
 スコア選択: ※※※※※  
   
 生々しい恋愛模様が良いですね。男の欲望とかむき出しで。でも、女の欲望も出ているのが新鮮です。特に、桐生麻美が良い味出してます。噛ませ犬っぽいのにそうでもない。ぼかぁ桐生麻美の方が好きです。こういう恵まれないヒロイン、好きなんだよなぁ。
-
-
-

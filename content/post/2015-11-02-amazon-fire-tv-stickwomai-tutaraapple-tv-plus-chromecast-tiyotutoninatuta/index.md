@@ -1,20 +1,37 @@
 ---
-title: Amazon Fire TV Stickを買ったらApple TV+ChromeCast-ちょっとになった
+authors:
+- aki
+categories: null
+date: '2015-11-02 15:42:22-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- アプリ
+- chromecast
+- airplay
+- 発売日
+- 音声認識
+- pros
+- cons
+- メーカー
+- 出版社
+- 商品
+lastmod: '2015-11-02 15:42:22-08:00'
+projects: []
+recommendations:
+- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
+- /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/
+- /post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-11-02 23:42:22+00:00
-lastmod: 2015-11-02 23:42:22+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [アプリ, chromecast, airplay, 発売日, 音声認識, pros, cons, メーカー, 出版社, 商品]
-recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
-  /post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/]
+title: Amazon Fire TV Stickを買ったらApple TV+ChromeCast-ちょっとになった
 ---
+
 Amazon Fire TV StickをPrime会員割引で\1980で買いました。（定価は\4980)
 
 {{< amazon asin="B00ZVNYLS8" title="Fire TV Stick" >}}
@@ -83,5 +100,3 @@ AirReciever入れるとAirPlayサーバーになります。 ただ、Netflixは
 試していないけどHDMI-CECに対応しているので、もしかしたらChromeCastのように転送したらテレビが自動で付くとかもできるかも（できないかも） おもちゃとして買うのにはまぁまぁ良いのかなと思います。
 
 なお、当方ChromeCastの音声飛ばす版の販売を喉から手が出るほど待っています。
-
-

@@ -1,20 +1,37 @@
 ---
-title: オオムラサキの羽化をCanon iVIS HF M31で撮影してみた
+authors:
+- aki
+categories: null
+date: '2010-08-22 14:59:31-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- インターネット
+- 体験
+- 記憶
+- 難しい
+- こと
+- 実際
+- 祖父母
+- 撮影
+- フルhd
+- ストーリー
+lastmod: '2010-08-22 14:59:31-07:00'
+projects: []
+recommendations:
+- /post/2012-01-01-2012nian-nobao-fu/
+- /post/2018-06-27_internet-for-kids/
+- /post/2017-05-25_teach-what-i-dont-know/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2010-08-22 21:59:31+00:00
-lastmod: 2010-08-22 21:59:31+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [インターネット, 体験, 記憶, 難しい, こと, 実際, 祖父母, 撮影, フルhd, ストーリー]
-recommendations: [/post/2012-01-01-2012nian-nobao-fu/, /post/2018-06-27_internet-for-kids/,
-  /post/2017-05-25_teach-what-i-dont-know/]
+title: オオムラサキの羽化をCanon iVIS HF M31で撮影してみた
 ---
+
 [Canon iVIS HF M31を買った](https://chezo.uno/post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/)ので、それを使って動画をとってみました。
 なかなか写真と違ってどういうストーリーでとるのかとかを考えないといけないのが難しいところです。
 

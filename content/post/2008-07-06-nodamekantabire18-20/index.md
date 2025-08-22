@@ -1,20 +1,37 @@
 ---
-title: のだめカンタービレ18〜20
+authors:
+- aki
+categories: null
+date: '2008-07-05 18:07:01-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 知子
+- 二ノ宮
+- 講談社
+- だめ
+- isbn
+- スコア
+- 周り
+- 選択
+- 素朴
+- 最新刊
+lastmod: '2008-07-05 18:07:01-07:00'
+projects: []
+recommendations:
+- /post/2008-08-11-nodame21juan/
+- /post/2008-10-10-tiisanatiisanawang-yang/
+- /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-07-06 01:07:01+00:00
-lastmod: 2008-07-06 01:07:01+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [知子, 二ノ宮, 講談社, だめ, isbn, スコア, 周り, 選択, 素朴, 最新刊]
-recommendations: [/post/2008-08-11-nodame21juan/, /post/2008-10-10-tiisanatiisanawang-yang/,
-  /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
+title: のだめカンタービレ18〜20
 ---
+
 {{< amazon asin="4063406482" title="のだめカンタービレ (18)(講談社コミックスキス)" >}}
 二ノ宮 知子 / / 講談社  
 ISBN : 4063406482  
@@ -46,6 +63,3 @@ ISBN : 4063406911
 本人は自分の才能を疑いもしない、のだろうか、自分の実力に気づきもしないのだろうか。とかく周りとの溝を感じてしまうのだめですが、凡人からしてしまうとうらやましい悩みだとしか思わないんですよね。  
   
 でも、物語の展開の仕方はさすがといったところ。次が気になります。
-
-
-

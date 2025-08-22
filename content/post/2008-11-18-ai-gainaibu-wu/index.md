@@ -1,20 +1,37 @@
 ---
-title: 愛がいない部屋
+authors:
+- aki
+categories: null
+date: '2008-11-18 13:48:25-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 女性
+- 全て
+- うち
+- 良かっ
+- 最初
+- 毛色
+- ポンド
+- フェア
+- エンターテイメント
+- 気分
+lastmod: '2008-11-18 13:48:25-08:00'
+projects: []
+recommendations:
+- /post/2008-06-15-gui-cai-xian-ru/
+- /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/
+- /post/2008-08-24-sayonaraituka/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-11-18 21:48:25+00:00
-lastmod: 2008-11-18 21:48:25+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [女性, 全て, うち, 良かっ, 最初, 毛色, ポンド, フェア, エンターテイメント, 気分]
-recommendations: [/post/2008-06-15-gui-cai-xian-ru/, /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/,
-  /post/2008-08-24-sayonaraituka/]
+title: 愛がいない部屋
 ---
+
 {{< amazon asin="4087463044" title="愛がいない部屋 (集英社文庫 い 47-5)" >}}
 石田 衣良 / / 集英社  
 ISBN : 4087463044  
@@ -31,6 +48,3 @@ ISBN : 4087463044
 全てが女性視点で書かれていて、男がダメなのだ。しかも、それが全て女性に悪い部分はないように描かれている。そして、出てくる男性は大抵「仕事に生きている」のである。それが、非常にリアルなのである。つまり、自分もこの男と同じように堕ちてしまうのではないか、そういう不安をかき立てられる。特に、最後の表題作「愛がいない部屋」では、「あの手の男は、みんな最初のうちはそうなのよ。それで手のひらを返す」「所帯をもった最初のうちは、敵も尻尾をださないものよ」など、強烈な言葉が投げかけられる。  
   
 一方的に攻められる気がして、良い気分ではない。おかげさまで大分落ちた。小説に求めているのは爽快感というエンターテイメントなので、ちょっときつかった。
-
-
-

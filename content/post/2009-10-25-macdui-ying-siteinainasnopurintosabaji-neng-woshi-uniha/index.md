@@ -1,20 +1,37 @@
 ---
-title: Mac対応していないNASのプリントサーバー機能を使うには
+authors:
+- aki
+categories: null
+date: '2009-10-25 14:56:16-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- mac
+- nas
+- windows
+- 共有
+- ドライバ
+- mp
+- 印刷
+- トライ
+- mac os x
+- canon
+lastmod: '2009-10-25 14:56:16-07:00'
+projects: []
+recommendations:
+- /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/
+- /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/
+- /post/2009-10-26-memo-windows7yong-dong-zuo-que-ren-xi-rinku/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-10-25 21:56:16+00:00
-lastmod: 2009-10-25 21:56:16+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [mac, nas, windows, 共有, ドライバ, mp, 印刷, トライ, mac os x, canon]
-recommendations: [/post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/, /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/,
-  /post/2009-10-26-memo-windows7yong-dong-zuo-que-ren-xi-rinku/]
+title: Mac対応していないNASのプリントサーバー機能を使うには
 ---
+
 前々からやりたいと思っていたのだができなかったことだったのだが、今回Windows7を導入にあたってトライしてみたらあっさりできた。基本発想としては、Windows用にsamba経由で共有されているNASなのだから、MacのWindows用プリンタの共有を使ってみたら？という考えだ。  
 これが、見事に的中した。
 
@@ -32,5 +49,3 @@ Mac OS X  Leopard
 参考：  
 [Windows XPとMac間でプリンタ共有がうまくできない](http://ziddy.japan.zdnet.com/qa4596446.html)  
 [Open the Next: Mac: Windowsマシンの共有プリンタへ印刷する](http://blog.manabii.info/2006/02/mac-windows.html)
-
-

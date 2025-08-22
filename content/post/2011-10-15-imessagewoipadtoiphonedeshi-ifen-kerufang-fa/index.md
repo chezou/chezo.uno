@@ -1,20 +1,37 @@
 ---
-title: iMessageをiPadとiPhoneで使い分ける方法
+authors:
+- aki
+categories: null
+date: '2011-10-15 05:10:14-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- gmail
+- imessage
+- アドレス
+- ipad
+- iphone
+- 送信
+- icloud
+- softbank
+- 複数
+- メッセージ
+lastmod: '2011-10-15 05:10:14-07:00'
+projects: []
+recommendations:
+- /post/2009-05-18-iphonetono1zhou-jian/
+- /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/
+- /post/2023-01-10-ios-notification-management/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2011-10-15 12:10:14+00:00
-lastmod: 2011-10-15 12:10:14+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [gmail, imessage, アドレス, ipad, iphone, 送信, icloud, softbank, 複数, メッセージ]
-recommendations: [/post/2009-05-18-iphonetono1zhou-jian/, /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/,
-  /post/2023-01-10-ios-notification-management/]
+title: iMessageをiPadとiPhoneで使い分ける方法
 ---
+
 iMessageを複数のデバイスで同一Apple IDで使う場合に、どちらか一方に送る方法を検討したらわかりました。
 
 元々は、家にいる妻が使うiPadと外に出ている自分のiPhoneと切り替える方法が欲しくて考えました。でも、Apple IDのアカウントが同一だと両方の端末にメッセージが届いてしまうわけです。これがiCloudだ！（違）
@@ -52,5 +69,3 @@ iMessageにメッセージ着信用のアドレスを複数設定する機能が
 なので、自分宛か複数宛か判別できないで面倒なことになる可能性があるかもしれませんので、ご注意ください。
 
 それでは、楽しいiMessageライフを！
-
-

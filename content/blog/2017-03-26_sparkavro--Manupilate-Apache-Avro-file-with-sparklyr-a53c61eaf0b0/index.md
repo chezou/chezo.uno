@@ -1,16 +1,29 @@
 ---
-title: 'sparkavro: Manupilate Apache Avro file with sparklyr'
+aliases:
+- /blog/sparkavro-manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0
+- /blog/a53c61eaf0b0
+authors:
+- aki
+categories: []
+date: '2017-03-26 05:02:01-07:00'
 description: I created a simple sparklyr extension to handle Apache Avro file. It
   is just a simple wrapper of DataBrick’s spark-avro. It is listed in…
-date: '2017-03-26T21:02:01+09:00'
-categories: []
-authors: [aki]
-aliases: [/blog/sparkavro-manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0,
-  /blog/a53c61eaf0b0]
-keywords: [spark, simple, library, file, chezou, test, install, tmp, output, load]
-recommendations: [/blog/2016-12-30_livy---jupyter-notebook---sparkmagic---powerful---easy-notebook-for-data-scientist-a8b72345ea2d/,
-  /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
-  /blog/2022-05-05-sqllineage-with-digdag-log/]
+keywords:
+- spark
+- simple
+- library
+- file
+- chezou
+- test
+- install
+- tmp
+- output
+- load
+recommendations:
+- /blog/2016-12-30_livy---jupyter-notebook---sparkmagic---powerful---easy-notebook-for-data-scientist-a8b72345ea2d/
+- /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/
+- /blog/2022-05-05-sqllineage-with-digdag-log/
+title: 'sparkavro: Manupilate Apache Avro file with sparklyr'
 ---
 
 I created a simple [sparklyr](http://spark.rstudio.com/) extension to handle Apache Avro file. It is just a simple wrapper of DataBrick’s [spark-avro](https://github.com/databricks/spark-avro). It is listed in [the official document of sparklyr extensions](http://spark.rstudio.com/extensions.html).

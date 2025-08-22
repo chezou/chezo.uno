@@ -1,20 +1,37 @@
 ---
-title: RENT ブロードウェーツアーを見て来た
-summary: ''
-draft: false
-authors: [aki]
-lastmod: 2009-08-30 08:08:13+00:00
-subtitle: ''
-date: 2009-08-30 08:08:13+00:00
-featured: false
-tags: []
+authors:
+- aki
 categories: null
+date: '2009-08-30 01:08:13-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- マーク
+- ロック
+- バンド
+- 日程
+- 映画
+- 低い
+- 日本人
+- 幸せ
+- 感謝
+- 思い
+lastmod: '2009-08-30 01:08:13-07:00'
 projects: []
-image: {caption: '', focal_point: '', preview_only: false}
-keywords: [マーク, ロック, バンド, 日程, 映画, 低い, 日本人, 幸せ, 感謝, 思い]
-recommendations: [/post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2017-07-30_culture-map/,
-  /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
+recommendations:
+- /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
+- /post/2017-07-30_culture-map/
+- /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/
+subtitle: ''
+summary: ''
+tags: []
+title: RENT ブロードウェーツアーを見て来た
 ---
+
 今更ながら、報告です。  
 行ける日程が急遽変更になったのですが、運良く譲っていただいていけることとなりました。  
 まさか、映画でみたマークに、ロジャーに会えるとは思っていませんでした。日本に来たことに感謝。  

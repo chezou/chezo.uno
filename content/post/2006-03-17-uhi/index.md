@@ -1,20 +1,37 @@
 ---
-title: うひー
+authors:
+- aki
+categories: null
+date: '2006-03-17 03:03:00-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- ケーブル
+- lite
+- hdd
+- usb
+- キャスター
+- 秋葉原
+- ide
+- 外付け
+- バック
+- わけ
+lastmod: '2006-03-17 03:03:00-08:00'
+projects: []
+recommendations:
+- /post/2006-05-01-dslite/
+- /post/2019-03-10_business-trip-goods/
+- /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2006-03-17 11:03:00+00:00
-lastmod: 2006-03-17 11:03:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [ケーブル, lite, hdd, usb, キャスター, 秋葉原, ide, 外付け, バック, わけ]
-recommendations: [/post/2006-05-01-dslite/, /post/2019-03-10_business-trip-goods/,
-  /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/]
+title: うひー
 ---
+
 全く持って卒論の筆が進みません。卒論締めは月曜午後5時。  
 間に合うのか俺。  
   
@@ -44,5 +61,3 @@ recommendations: [/post/2006-05-01-dslite/, /post/2019-03-10_business-trip-goods
 と、思っていたら先ほど研究室の秘書さんから電話がかかってきて「DSならあるけどLiteがほしいんだよね？」と報告をいただきました。  
 散々、「Liteの方が断然良いよー」とおっしゃっていたのはあなたではありませんか。  
 というわけで、じっくりLite待ちです。
-
-

@@ -1,20 +1,37 @@
 ---
-title: '粒谷区民合唱団の一つの実現方法(妄想) - #tlros を通じて思ったこと -'
+authors:
+- aki
+categories: null
+date: '2009-12-17 13:57:33-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- パート
+- サービス
+- タグ
+- なけれ
+- 楽しい
+- 何事
+- アカペラー
+- いみ
+- twitterアカウント
+- summer
+lastmod: '2009-12-17 13:57:33-08:00'
+projects: []
+recommendations:
+- /post/2015-12-30-2015nian-wozhen-rifan-tute/
+- /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
+- /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-12-17 21:57:33+00:00
-lastmod: 2009-12-17 21:57:33+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [パート, サービス, タグ, なけれ, 楽しい, 何事, アカペラー, いみ, twitterアカウント, summer]
-recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
-  /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/]
+title: '粒谷区民合唱団の一つの実現方法(妄想) - #tlros を通じて思ったこと -'
 ---
+
 最近、twitterで曲を歌うことになりました。なんというか、アカペラーや合唱人との繋がりが楽しくなってきたのですが、まさかこんな展開になるとは思っていなかったので楽しさが増してきました。  
 TLに、三善晃や武満徹の文字が流れる日が来るとは！
 
@@ -31,5 +48,3 @@ TLに、三善晃や武満徹の文字が流れる日が来るとは！
 自分が歌った色々なパートを持ち寄って一つの楽曲を作り上げるということ。これができるとすごく面白いんじゃないかな。「誰々のにあわせましたー」というコメントとタグを付けて、パートごとに歌った音データをUpするのが良いのではないかな？現状で、未完成品をシェアして作り出せるようなサービスってあるんだろうか。なければ、作れたら楽しいだろうなぁと思います。こんなサービス知ってる人がいたら教えてください。なければ、、、つくれたら幸せ！？
 
 もちろん、実際に集まって歌えたらもっと楽しいと思います！
-
-

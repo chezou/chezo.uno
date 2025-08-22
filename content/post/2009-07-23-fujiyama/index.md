@@ -1,20 +1,37 @@
 ---
-title: FUJIYAMA
+authors:
+- aki
+categories: null
+date: '2009-07-22 20:07:36-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- '1600'
+- '1200'
+- jpeg
+- '59'
+- km
+- '56'
+- '36'
+- 帰り
+- '43'
+- '45'
+lastmod: '2009-07-22 20:07:36-07:00'
+projects: []
+recommendations:
+- /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
+- /post/2010-09-04-tun-zu-xing-tutekimasita/
+- /post/2009-08-07-pokemonxin-gan-xian/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-07-23 03:07:36+00:00
-lastmod: 2009-07-23 03:07:36+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: ['1600', '1200', jpeg, '59', km, '56', '36', 帰り, '43', '45']
-recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2010-09-04-tun-zu-xing-tutekimasita/,
-  /post/2009-08-07-pokemonxin-gan-xian/]
+title: FUJIYAMA
 ---
+
 先日行ってきた河口湖です。貸別荘から見える富士山が素敵でした。  
 バーベキューは楽しいですねぇ。
 
@@ -23,4 +40,3 @@ recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2010-09-
 ![](p_1600_1200_625e8f56-a29c-4881-b4f7-45bcdc6e3f1b.jpeg)
   
 ![](l_1600_1200_91d6131c-6d5e-4e43-8a36-4299c59a23e8.jpeg)
-
