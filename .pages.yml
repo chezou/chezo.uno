@@ -1,6 +1,6 @@
 media:
-  input: content/post
-  output: post
+  input: assets/media
+  output: media
   categories: [image]
 content:
   - name: post
@@ -37,8 +37,8 @@ content:
         label: preview only
         type: boolean
         default: false
-      - name: image
-        label: image
+      - name: filename
+        label: image path
         type: image
   - name: blog
     type: collection
