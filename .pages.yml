@@ -5,6 +5,7 @@ content:
     path: content/post
     subfolders: true
     filename: index.md
+    delimiters: ["---\n", "---\n"]
     fields:
     - { name: title, label: 記事タイトル, type: string, required: true }
     - { name: subtitle, label: サブタイトル, type: string }
@@ -31,5 +32,3 @@ content:
         label: preview only
         type: boolean
         default: false
-
-delimiters: ["---\n", "---\n"]
