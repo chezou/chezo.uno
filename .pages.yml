@@ -1,3 +1,7 @@
+media:
+  input: content/post
+  output: post
+  categories: [image]
 content:
   - name: post
     type: collection
