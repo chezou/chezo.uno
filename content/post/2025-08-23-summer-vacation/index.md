@@ -1,14 +1,14 @@
 ---
-
 title: 久しぶりの夏休み
 date: 2025-08-22 00:49:00+00:00
 lastmod: 2025-08-22 00:49:00+00:00
-categories:
-  - daily
+categories: [daily]
 draft: false
 featured: false
-image:
-  preview_only: false
+image: {preview_only: false}
+keywords: [休み, 仕事, 子供, 珍しく, ブリュワリー, ドーナツ, セール, rta, motion, 開拓]
+recommendations: [/post/2023-04-05-first-time-skiing-in-25-years/, /post/2023-08-20-removed-slack-from-mobile/,
+  /post/2023-12-30-2023-year-in-review/]
 ---
 
 仕事が珍しく急ぎの仕事がない状態になったので、ふらっと週末にくっつける形で休みを取った。というのも、RTA in Japanをやってるのに全然見れなくて仕事なんてしてる場合じゃない、となったのである。

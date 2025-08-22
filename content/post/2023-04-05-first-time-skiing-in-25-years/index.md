@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [スキー, 子供, 後半, 投稿, '30', 長期間, パラレル, スキー場, whistler, mountain]
-recommendations: [/post/2021-12-15-relocated-to-vancouver/, /post/2023-12-30-2023-year-in-review/,
-  /post/2017-05-25_teach-what-i-dont-know/]
+recommendations: [/post/2021-12-15-relocated-to-vancouver/, /post/2025-08-23-summer-vacation/,
+  /post/2023-12-30-2023-year-in-review/]
 ---
 
 バンクーバーは、最寄りのスキー場まで車で30分で行けるので有名です。30分圏内にスキー場が三つ(Grouse, Cypress, Seymour)もあるので気軽に行けます。
