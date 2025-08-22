@@ -19,7 +19,7 @@ content:
     - { name: tags, label: タグ, type: string, list: true }
     - { name: draft, label: 下書き, type: boolean, default: true }
     - { name: featured, label: feature, type: boolean, default: false }
-    - name: images
+    - name: image
       label: 画像
       type: object
       fields:
