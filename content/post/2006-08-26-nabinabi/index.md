@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: ナビナビ
-keywords: [ナビ, おもちゃ, hdd, やつ, 録音, 状態, cd, 子供, 新しい, うち]
+keywords: [ナビ, おもちゃ, hdd, やつ, 録音, cd, 状態, 子供, 新しい, うち]
 recommendations: [/post/2006-07-28-xia-nanode/, /post/2009-05-12-konnitiha-iphone/,
   /post/2017-05-25_teach-what-i-dont-know/]
 ---
