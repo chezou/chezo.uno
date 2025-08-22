@@ -1,20 +1,37 @@
 ---
-title: 生演奏への期待と価値
+authors:
+- aki
+categories: null
+date: '2012-09-24 15:03:32-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 演奏
+- ライブ
+- press start
+- skyrim
+- ゲーム音楽
+- 良けれ
+- オケ
+- 音楽
+- シンポジウム
+- 期待
+lastmod: '2012-09-24 15:03:32-07:00'
+projects: []
+recommendations:
+- /post/2009-07-05-guan-dong-hagame-musichoihoida/
+- /post/2012-10-04-finlandnochuan-tong-de-nale-qi-kanterewomodanniyan-zou-suruida-elina/
+- /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2012-09-24 22:03:32+00:00
-lastmod: 2012-09-24 22:03:32+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [演奏, ライブ, press start, skyrim, ゲーム音楽, 良けれ, オケ, 音楽, シンポジウム, 期待]
-recommendations: [/post/2009-07-05-guan-dong-hagame-musichoihoida/, /post/2012-10-04-finlandnochuan-tong-de-nale-qi-kanterewomodanniyan-zou-suruida-elina/,
-  /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/]
+title: 生演奏への期待と価値
 ---
+
 [gallery]
 
 ここ最近、意図せずライブや演奏会に連続で参加させていただいており、非常に優秀な音楽消費者をしています。
@@ -77,5 +94,3 @@ PAって凄い大事ですね。(オーケストラの演奏会にPAがいるか
 
 個人的には、Press Startという企画自体は大好きだし、ゲーム音楽を引っ張っていただきたいと思っているのです。ゲーム業界が少し元気がない状況ですが、ゲーム音楽がもっともっと広がってくれると嬉しいと思います。  
 自分にできることは何もないのかなぁ。
-
-

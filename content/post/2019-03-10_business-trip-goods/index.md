@@ -1,13 +1,27 @@
 ---
-title: 首や肩に優しい海外出張に便利な道具達
+authors:
+- aki
+categories:
+- 散財
+date: '2019-03-09 16:01:03-08:00'
 description: ちょくちょく人に海外に行くときに持って行った方が良いものを聞かれるので、メモがてら書いておきたいと思います。首や肩を痛めてから、色々と試行錯誤をしているのですが、ある程度形になってきたかなと思うので愛用品を紹介したいと思います。
-date: '2019-03-10T09:01:03+09:00'
-lastmod: '2019-03-10T09:01:03+09:00'
-categories: [散財]
-authors: [aki]
-keywords: [ケーブル, usb, amzn, 通販, bluetooth, ブラック, ケース, サイズ, 便利, スタンド]
-recommendations: [/post/2017-12-30_2017------------bbf834e065c5/, /post/2020-04-03-microphone-for-remote-meeting/,
-  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/]
+keywords:
+- ケーブル
+- usb
+- amzn
+- 通販
+- bluetooth
+- ブラック
+- ケース
+- サイズ
+- 便利
+- スタンド
+lastmod: '2019-03-09 16:01:03-08:00'
+recommendations:
+- /post/2017-12-30_2017------------bbf834e065c5/
+- /post/2020-04-03-microphone-for-remote-meeting/
+- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
+title: 首や肩に優しい海外出張に便利な道具達
 ---
 
 ちょくちょく人に海外に行くときに持って行った方が良いものを聞かれるので、メモがてら書いておきたいと思います。首や肩を痛めてから、色々と試行錯誤をしているのですが、ある程度形になってきたかなと思うので愛用品を紹介したいと思います。

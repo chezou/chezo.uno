@@ -1,20 +1,37 @@
 ---
-title: Amazonで買ったThinkpad トラックポイント キーボードを修理した
+authors:
+- aki
+categories: null
+date: '2017-04-19 11:58:17-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- キーボード
+- thinkpad
+- トラック
+- lenovo
+- amazon
+- センター
+- 修理
+- ポイント
+- そう
+- 交換
+lastmod: '2017-04-19 11:58:17-07:00'
+projects: []
+recommendations:
+- /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/
+- /post/2008-06-01-nantoiunu-li-noren/
+- /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2017-04-19 18:58:17+00:00
-lastmod: 2017-04-19 18:58:17+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [キーボード, thinkpad, トラック, lenovo, amazon, センター, 修理, ポイント, そう, 交換]
-recommendations: [/post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
-  /post/2008-06-01-nantoiunu-li-noren/, /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/]
+title: Amazonで買ったThinkpad トラックポイント キーボードを修理した
 ---
+
 みんな大好きトラックポイントキーボードですが、僕も昔使っていて最近miyagawaさんが使っていると知って再び使うようになりました。
 
 今はThinkpadがIBMからLenovoに移管したので、故障などしたらLenovoに問い合わせる必要があります。 ですが、保証書には3年保証と書いてあるものの、問い合わせ先のドメインがIBMのままで連絡先がわかりません。 そのため、Amazonで買って故障を経験した人が、「次回は修理ができるように通常の販売店で購入します」と書くなど皆さん苦労されているようです。 今回買って3ヶ月（厳密にはWishlistからいただいてから3ヶ月）で壊れたトラックポイントキーボードを修理したので、やり方をメモしておきます。
@@ -57,5 +74,3 @@ Amazonは、アカウントサービスの注文履歴から、「注文の詳�
 数日後、別便で故障した品を受け取りにくるそうです。来るそうですと言っているのは、まだ自分の場合はsend backをする前の状態だからです。正直、iPhoneなどと同じようにその場で発送できてもいいのにな、と思います。
 
 というわけで、Thinkpadトラックポイントキーボードが壊れても、無事交換していただけます。安心して使い倒せますね！
-
-

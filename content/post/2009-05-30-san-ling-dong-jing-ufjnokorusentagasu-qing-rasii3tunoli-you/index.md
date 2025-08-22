@@ -1,20 +1,37 @@
 ---
-title: 三菱東京UFJのコールセンターが素晴らしい3つの理由
+authors:
+- aki
+categories: null
+date: '2009-05-30 14:54:18-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- オペレータ
+- コール
+- スピーカー
+- 対応
+- モード
+- 階層
+- 案内
+- 平日
+- 土曜
+- コールセンター
+lastmod: '2009-05-30 14:54:18-07:00'
+projects: []
+recommendations:
+- /post/2023-08-20-removed-slack-from-mobile/
+- /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/
+- /post/2023-01-10-ios-notification-management/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-05-30 21:54:18+00:00
-lastmod: 2009-05-30 21:54:18+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [オペレータ, コール, スピーカー, 対応, モード, 階層, 案内, 平日, 土曜, コールセンター]
-recommendations: [/post/2023-08-20-removed-slack-from-mobile/, /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
-  /post/2023-01-10-ios-notification-management/]
+title: 三菱東京UFJのコールセンターが素晴らしい3つの理由
 ---
+
 今日、UFJ Directの関係でコールセンターに電話をしたのですが、過去のSoftbankやWillcom、新生銀行とは比べものにならないくらいの対応で驚きました。
 
 1. フリーダイヤルに携帯でかけてもはじかれない
@@ -27,5 +44,3 @@ recommendations: [/post/2023-08-20-removed-slack-from-mobile/, /post/2015-10-07-
 きっと、この対応をするために相当なお金をかけているとは思うのですが、平日の9時-17時とかいう会社が多い中で、大いに助かりました。
 
 MUFGすごいよ、MUFG！
-
-

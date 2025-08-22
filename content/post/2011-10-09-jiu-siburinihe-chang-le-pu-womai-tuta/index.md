@@ -1,20 +1,37 @@
 ---
-title: 久しぶりに合唱楽譜を買った
+authors:
+- aki
+categories: null
+date: '2011-10-09 15:02:40-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 曲集
+- 購入
+- sings
+- dobrogosz
+- steve
+- 楽譜
+- キャロル
+- hanagoro
+- acapuluco
+- 相澤直人
+lastmod: '2011-10-09 15:02:40-07:00'
+projects: []
+recommendations:
+- /post/2012-09-25-singstodobrogoszgazai-bigong-yan/
+- /post/2008-10-28-sings-2008-with-steve-dobrogosz/
+- /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2011-10-09 22:02:40+00:00
-lastmod: 2011-10-09 22:02:40+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [曲集, 購入, sings, dobrogosz, steve, 楽譜, キャロル, hanagoro, acapuluco, 相澤直人]
-recommendations: [/post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2008-10-28-sings-2008-with-steve-dobrogosz/,
-  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
+title: 久しぶりに合唱楽譜を買った
 ---
+
 最後に購入したのは、[Rajatonの楽譜を個人輸入した時](https://chezo.uno/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/)だなぁと思いながら、ふっとpanamusicaから新刊案内が来たので久しぶりに購入することにしました。
 
 今回購入したのはこちら。

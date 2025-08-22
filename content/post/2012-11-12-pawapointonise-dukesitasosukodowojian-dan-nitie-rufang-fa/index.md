@@ -1,20 +1,37 @@
 ---
-title: パワーポイントに色づけしたソースコードを簡単に貼る方法
+authors:
+- aki
+categories: null
+date: '2012-11-12 01:11:33-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- パワーポイント
+- source
+- gist
+- 形式
+- 方法
+- syntax
+- 保持
+- html
+- コード
+- 覚え書き
+lastmod: '2012-11-12 01:11:33-08:00'
+projects: []
+recommendations:
+- /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/
+- /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
+- /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2012-11-12 09:11:33+00:00
-lastmod: 2012-11-12 09:11:33+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [パワーポイント, source, gist, 形式, 方法, syntax, 保持, html, コード, 覚え書き]
-recommendations: [/post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/,
-  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/]
+title: パワーポイントに色づけしたソースコードを簡単に貼る方法
 ---
+
 パワーポイントに色づけしたコードを貼るのって、皆どうやってるのか不思議に思っていたのですが、どれもちょっと面倒だなという感じでした。
 
 - GNU Source-highlightを使う方法：[覚え書き：色づけしたソースコードをPowerPointなどに貼り付ける方法 - C++Builder好きの秘密基地](http://d.hatena.ne.jp/A7M/20090205/1233842500)
@@ -29,5 +46,3 @@ recommendations: [/post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue
 2．は最近のPPTだと、貼った後に横に出現するアイコンから、「元の書式を保持する」を選ぶともっと楽かもしれません。
 
 これは便利だ！
-
-

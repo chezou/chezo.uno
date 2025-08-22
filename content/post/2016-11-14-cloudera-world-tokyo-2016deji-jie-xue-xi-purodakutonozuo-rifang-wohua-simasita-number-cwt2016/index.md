@@ -1,20 +1,37 @@
 ---
-title: 'Cloudera World Tokyo 2016で機械学習プロダクトの作り方を話しました #cwt2016'
+authors:
+- aki
+categories: null
+date: '2016-11-14 15:05:21-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- cwt
+- データ
+- cloud
+- '2016'
+- native
+- データサイエンス
+- cloudera
+- 機械学習
+- hadoop
+- データ分析
+lastmod: '2016-11-14 15:05:21-08:00'
+projects: []
+recommendations:
+- /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/
+- /post/2016-03-30-zhuan-zhi-simasita/
+- /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2016-11-14 23:05:21+00:00
-lastmod: 2016-11-14 23:05:21+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [cwt, データ, cloud, '2016', native, データサイエンス, cloudera, 機械学習, hadoop, データ分析]
-recommendations: [/post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
-  /post/2016-03-30-zhuan-zhi-simasita/, /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/]
+title: 'Cloudera World Tokyo 2016で機械学習プロダクトの作り方を話しました #cwt2016'
 ---
+
 さる11/8に、自社の主催する[Cloudera World Tokyo 2016](http://www.clouderaworldtokyo.com/)で、機械学習プロダクトの作り方について話をしました。
 
 ![](20161108182005.jpg)
@@ -60,5 +77,3 @@ Cloud Nativeのデータサイエンスの話は、時間の関係でちょっ�
 少しずつではありますが、RedshiftやBigQueryに対する第3の選択肢になってくることを期待しています。
 
 [^1]: 思い返してみると、この手のあるある...辛い...って話MLCTでよくやっていたのであった
-
-

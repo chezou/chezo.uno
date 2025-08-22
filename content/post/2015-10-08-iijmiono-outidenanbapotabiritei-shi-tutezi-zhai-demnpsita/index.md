@@ -1,20 +1,37 @@
 ---
-title: IIJmioの「おうちでナンバーポータビリティ」使って自宅でMNPした
+authors:
+- aki
+categories: null
+date: '2015-10-08 14:00:00-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- sim
+- プラン
+- iijmio
+- シェア
+- ケース
+- iphone
+- nexus
+- 解約
+- エレクトロニクス
+- 対応
+lastmod: '2015-10-08 14:00:00-07:00'
+projects: []
+recommendations:
+- /post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/
+- /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/
+- /post/2009-05-04-ad-es-wojie-yue-surutameni/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-10-08 21:00:00+00:00
-lastmod: 2015-10-08 21:00:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [sim, プラン, iijmio, シェア, ケース, iphone, nexus, 解約, エレクトロニクス, 対応]
-recommendations: [/post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/,
-  /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-04-ad-es-wojie-yue-surutameni/]
+title: IIJmioの「おうちでナンバーポータビリティ」使って自宅でMNPした
 ---
+
 IIJmioのファミリーシェアプランにSIMを追加する際に、9/16に始まっていた「おうちでナンバーポータビリティ」を使ってみました。
 
 <iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.iijmio.jp%2Fhdd%2Fmiofone%2Fhomemnp%2F" title="おうちでナンバーポータビリティ｜IIJmio
@@ -99,5 +116,3 @@ spigenのハイブリッド系のケースだったのですが、画面保護�
 - [この商品を含むブログを見る](http://d.hatena.ne.jp/asin/B00N797VZ8/chezou-22)
 
 余談ですが、ケースをしばらく買わないで使っていた5sは買取価格が6千円ほどさがりました...。 売るのであれば、ケースは付けて外で長時間スマホを持ち歩くゲームはやらないほうがいいですね😇
-
-

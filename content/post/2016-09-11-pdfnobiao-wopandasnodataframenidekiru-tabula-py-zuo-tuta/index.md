@@ -1,20 +1,37 @@
 ---
-title: PDFの表をpandasのDataFrameにできる tabula-py 作った
+authors:
+- aki
+categories: null
+date: '2016-09-11 15:19:54-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- tabula
+- pdf
+- py
+- java
+- rubykaigi
+- 実装
+- table
+- read
+- pip
+- python
+lastmod: '2016-09-11 15:19:54-07:00'
+projects: []
+recommendations:
+- /post/2019-11-25-github actions-issue template/
+- /post/2016-12-31-2016nian-wozhen-rifan-tute/
+- /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2016-09-11 22:19:54+00:00
-lastmod: 2016-09-11 22:19:54+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [tabula, pdf, py, java, rubykaigi, 実装, table, read, pip, python]
-recommendations: [/post/2019-11-25-github actions-issue template/, /post/2016-12-31-2016nian-wozhen-rifan-tute/,
-  /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/]
+title: PDFの表をpandasのDataFrameにできる tabula-py 作った
 ---
+
 RubyKaigiに参加するとコード書きたいという気持ちが高まって良いのですが、今回はPDFの表を読み込んで pandas の DataFrame に変換できる [tabula-py](https://github.com/chezou/tabula-py)を作りました。 これをもってRubyKaigiの参加報告とさせていただければと思います。
 
 # tabula-pyとは
@@ -51,5 +68,3 @@ RubyKaigiに参加するとコード書きたいという気持ちが高まっ�
 # 今後の展望
 
 Py4jを使えばRと同じことができるのは確認ができたのですが、JavaをPythonの上で書かされている感が半端無いので困ったら考えようと思います。
-
-

@@ -1,20 +1,37 @@
 ---
-title: Acer Aspire 1410をcrucial RealSSD C300に外付けDVDなしに換装した
+authors:
+- aki
+categories: null
+date: '2011-02-05 02:02:47-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- ssd
+- ドライブ
+- sata
+- hdd
+- 領域
+- windows
+- ケーブル
+- バックアップ
+- ランダム
+- ディスク
+lastmod: '2011-02-05 02:02:47-08:00'
+projects: []
+recommendations:
+- /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/
+- /post/2006-03-17-uhi/
+- /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2011-02-05 10:02:47+00:00
-lastmod: 2011-02-05 10:02:47+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [ssd, ドライブ, sata, hdd, 領域, windows, ケーブル, バックアップ, ランダム, ディスク]
-recommendations: [/post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/,
-  /post/2006-03-17-uhi/, /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/]
+title: Acer Aspire 1410をcrucial RealSSD C300に外付けDVDなしに換装した
 ---
+
 ## ●せっかちな人のための結論
 RealSSD C300いいよ！SATA2でも十分HDDに比べて恩恵感じられるよ！１万円なら全然あり！  
 記事の内容としては、外付けDVDなしでリカバリしないでSSD(64GB)への移行する際のポイントを書いていきます。

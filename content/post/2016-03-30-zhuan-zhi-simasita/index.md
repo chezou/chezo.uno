@@ -1,20 +1,37 @@
 ---
-title: 転職しました
+authors:
+- aki
+categories: null
+date: '2016-03-30 15:32:21-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- プロダクト
+- 仕事
+- エンジニア
+- こと
+- hadoop
+- 機械学習
+- 転職
+- データ
+- ポエム
+- solr
+lastmod: '2016-03-30 15:32:21-07:00'
+projects: []
+recommendations:
+- /post/2018-06-19_goodbye-cloudera/
+- /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/
+- /post/2015-12-30-2015nian-wozhen-rifan-tute/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2016-03-30 22:32:21+00:00
-lastmod: 2016-03-30 22:32:21+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [プロダクト, 仕事, エンジニア, こと, hadoop, 機械学習, 転職, データ, ポエム, solr]
-recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
-  /post/2015-12-30-2015nian-wozhen-rifan-tute/]
+title: 転職しました
 ---
+
 はじめての転職エントリです。 一部の方にはお伝えしましたが、先週からClouderaで働いています。
 
 # まとめ

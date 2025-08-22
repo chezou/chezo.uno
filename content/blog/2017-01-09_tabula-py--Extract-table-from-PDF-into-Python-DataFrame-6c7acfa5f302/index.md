@@ -1,16 +1,34 @@
 ---
-title: 'tabula-py: Extract table from PDF into Python DataFrame'
+aliases:
+- /blog/tabula-py-extract-table-from-pdf-into-python-dataframe-6c7acfa5f302
+- /blog/6c7acfa5f302
+- /blog/2017-01-09_tabula-py-extract-table-from-pdf-into-python-dataframe-6c7acfa5f302
+authors:
+- aki
+categories:
+- OSS
+- tabula
+date: '2017-01-08 21:09:08-08:00'
 description: '(Note: Oct 7th, 2019)As of Oct. 2019, I launched a documentation site
   and Google Colab notebook for tabula-py. The FAQ would be good place…'
-date: '2017-01-09T14:09:08+09:00'
-categories: [OSS, tabula]
-authors: [aki]
-projects: [tabula-py]
-aliases: [/blog/tabula-py-extract-table-from-pdf-into-python-dataframe-6c7acfa5f302,
-  /blog/6c7acfa5f302, /blog/2017-01-09_tabula-py-extract-table-from-pdf-into-python-dataframe-6c7acfa5f302]
-keywords: [tabula, py, extract, tables, dataframe, java, notebook, file, based, gui]
-recommendations: [/blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/,
-  /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/, /blog/2023-09-09-tabula-py-280/]
+keywords:
+- tabula
+- py
+- extract
+- tables
+- dataframe
+- java
+- notebook
+- file
+- based
+- gui
+projects:
+- tabula-py
+recommendations:
+- /blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/
+- /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/
+- /blog/2023-09-09-tabula-py-280/
+title: 'tabula-py: Extract table from PDF into Python DataFrame'
 ---
 
 {{% callout note %}}

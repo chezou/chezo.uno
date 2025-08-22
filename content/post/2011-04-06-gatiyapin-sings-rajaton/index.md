@@ -1,20 +1,37 @@
 ---
-title: ガチャピン sings Rajaton？
+authors:
+- aki
+categories: null
+date: '2011-04-06 15:01:06-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 動画
+- youtube
+- ガチャピン
+- アマチュア
+- rajaton
+- 検索
+- 演奏
+- 名曲
+- リニューアル
+- ホットエントリ
+lastmod: '2011-04-06 15:01:06-07:00'
+projects: []
+recommendations:
+- /post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/
+- /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/
+- /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2011-04-06 22:01:06+00:00
-lastmod: 2011-04-06 22:01:06+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [動画, youtube, ガチャピン, アマチュア, rajaton, 検索, 演奏, 名曲, リニューアル, ホットエントリ]
-recommendations: [/post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/,
-  /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
+title: ガチャピン sings Rajaton？
 ---
+
 きっかけは、君のラジオがリニューアルしている様子がはてブのホットエントリ入りしたところから。  
 あの手のYouTubeの検索マッシュアップではRajatonを検索するようにしているのですが(本人達の演奏が少なくノイジーなのです)、今回も見事にアマチュアやら関係ない動画がざっくざっく引っかかりました。
 
@@ -40,5 +57,3 @@ recommendations: [/post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-she
 
 YouTubeのチャンネルは[こちら](http://www.youtube.com/user/daniscool99)。  
 ちなみに、[オフィシャルサイト](https://sites.google.com/site/dannyjfong/)ではMP3がダウンロードできます。
-
-

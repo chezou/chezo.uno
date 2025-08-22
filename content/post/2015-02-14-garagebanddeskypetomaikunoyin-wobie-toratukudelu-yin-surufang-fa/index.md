@@ -1,21 +1,37 @@
 ---
-title: Garagebandでskypeとマイクの音を別トラックで録音する方法
+authors:
+- aki
+categories: null
+date: '2015-02-14 15:50:08-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- soundflower
+- ch
+- skype
+- linein
+- マイク
+- トラック
+- output
+- channel
+- png
+- 自分
+lastmod: '2015-02-14 15:50:08-08:00'
+projects: []
+recommendations:
+- /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/
+- /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
+- /post/2020-04-03-microphone-for-remote-meeting/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-02-14 23:50:08+00:00
-lastmod: 2015-02-14 23:50:08+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [soundflower, ch, skype, linein, マイク, トラック, output, channel, png, 自分]
-recommendations: [/post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/,
-  /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
-  /post/2020-04-03-microphone-for-remote-meeting/]
+title: Garagebandでskypeとマイクの音を別トラックで録音する方法
 ---
+
 最近、rebuild.fmやwada.fmを聞いていると、自分もpodcastをはじめてみたいという気持ちが強くなってきました。
 
 試験的にskype経由でpodcast向けの録音をしてみたのですが、skypeのゲストと自分の声が別々の方が後々の編集作業が楽になるぞ、ということで以下のサイトを参考にやってみました。というか、ほとんどこの記事の日本語版という内容になっています。
@@ -96,5 +112,3 @@ SoundflowerはMac用の仮想サウンドデバイスです。
 [Githubにmp3を置くという方法](http://kozyty.com/blog/2014/10/nanapod/)で配信できるということがわかったので、最初のPodcastはJekyll(octopress)をGithub pagesで使って無料で構築することにしました。
 
 ゆくゆくはIDCクラウドフロンティアもクーポンがあるので、そっちも試してみたいです。
-
-

@@ -1,20 +1,37 @@
 ---
-title: PRESS START 2010でゲーム音楽演奏会情報をゲットした
+authors:
+- aki
+categories: null
+date: '2010-09-11 14:59:48-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- ゲーム音楽
+- '2083'
+- 演奏会
+- star
+- 情報
+- 演奏
+- コンセプト
+- 大阪
+- ポータル
+- フリーペーパー
+lastmod: '2010-09-11 14:59:48-07:00'
+projects: []
+recommendations:
+- /post/2008-07-09-press-startdang-xuan-simasita/
+- /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
+- /post/2010-09-11-press-start-2010xing-tutekita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2010-09-11 21:59:48+00:00
-lastmod: 2010-09-11 21:59:48+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [ゲーム音楽, '2083', 演奏会, star, 情報, 演奏, コンセプト, 大阪, ポータル, フリーペーパー]
-recommendations: [/post/2008-07-09-press-startdang-xuan-simasita/, /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/,
-  /post/2010-09-11-press-start-2010xing-tutekita/]
+title: PRESS START 2010でゲーム音楽演奏会情報をゲットした
 ---
+
 ゲーム音楽の演奏会情報フリーペーパー2083なるものを[PRESS START2010](https://chezo.uno/post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/)でいただきました。
 
 どうも調べてみると、ゲーム音楽情報のポータルサイト[2083](http://www.2083.jp/)というサイトがあったということを知りました。2009年10月に立ち上がったところみたいで、
@@ -37,5 +54,3 @@ recommendations: [/post/2008-07-09-press-startdang-xuan-simasita/, /post/2012-09
 
 しかし、ゲーム音楽でこのようなポータルサイトができるのに、何故合唱ではこういうサイトがないのでしょうか。(いや色々あるかもしれませんが、ここまでまとまっていない感があるのです。。。)  
 せっかく連盟まであるのになー。
-
-

@@ -1,20 +1,37 @@
 ---
-title: SympyとJupyter notebookで数式のメモを取ろう
+authors:
+- aki
+categories: null
+date: '2015-11-23 13:02:07-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- packt
+- 数式
+- starter
+- instant
+- kindle
+- .com
+- グラフ
+- メモ
+- センター試験
+- アンケート
+lastmod: '2015-11-23 13:02:07-08:00'
+projects: []
+recommendations:
+- /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/
+- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
+- /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-11-23 21:02:07+00:00
-lastmod: 2015-11-23 21:02:07+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [packt, 数式, starter, instant, kindle, .com, グラフ, メモ, センター試験, アンケート]
-recommendations: [/post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/,
-  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/]
+title: SympyとJupyter notebookで数式のメモを取ろう
 ---
+
 [id:meison\_amsl](http://blog.hatena.ne.jp/meison_amsl/) さんによるSympyの紹介がとてもよい感じだったのですが、Sympy Liveわざわざ使わなくてもJupyter notebook使えるのでは！？と思ったので試してみました。[^1] わざわざ、というと語弊があると思いますが、手元でメモ＋αとして管理するのにはJupyter notebookの方がいいかなと思っています。
 
 <iframe src="https://myenigma.hatenablog.com/embed/2015/11/21/222755" title="Pythonの数式処理ライブラリSymPyをWolfram Alpha(Mathematica, Maxima)の代わりに使う方法 - MyEnigma" class="embed-card embed-blogcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://myenigma.hatenablog.com/entry/2015/11/21/222755">myenigma.hatenablog.com</a></cite>
@@ -42,5 +59,3 @@ kindleでも売っているInstant Sympy Starterですが、ちょうどPacktの
 <iframe src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.packtpub.com%2Fbig-data-and-business-intelligence%2Finstant-sympy-starter-instant" title="Instant SymPy Starter | PACKT Books" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://www.packtpub.com/big-data-and-business-intelligence/instant-sympy-starter-instant">www.packtpub.com</a></cite>
 
 [^1]: 完全に人の褌で相撲を取るやつですね...
-
-

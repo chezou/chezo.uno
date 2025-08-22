@@ -1,20 +1,37 @@
 ---
-title: Apple Music のプレイリストを中心としたレコメンド戦略
+authors:
+- aki
+categories: null
+date: '2015-07-08 15:52:00-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- プレイリスト
+- アーティスト
+- apple music
+- レコメンド
+- ミックス
+- リスト
+- 音楽
+- シーン
+- 楽曲
+- 影響
+lastmod: '2015-07-08 15:52:00-07:00'
+projects: []
+recommendations:
+- /post/2015-10-27-netutohuritukusunoshi-dai-nihakontentunoshan-nimai-morenasasenaitamenohintogajie-matuteita/
+- /post/2009-08-12-masa-festazhong-zhi/
+- /post/2008-09-07-chu-yin-mikunokaraokequ/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-07-08 22:52:00+00:00
-lastmod: 2015-07-08 22:52:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [プレイリスト, アーティスト, apple music, レコメンド, ミックス, リスト, 音楽, シーン, 楽曲, 影響]
-recommendations: [/post/2015-10-27-netutohuritukusunoshi-dai-nihakontentunoshan-nimai-morenasasenaitamenohintogajie-matuteita/,
-  /post/2009-08-12-masa-festazhong-zhi/, /post/2008-09-07-chu-yin-mikunokaraokequ/]
+title: Apple Music のプレイリストを中心としたレコメンド戦略
 ---
+
 膨大な音楽というコンテンツの海に放り出された時に、人は何をするだろうか。
 
 今回Apple Musicをさわってみて、様々な路線から音楽との出会いをつくろうとしているな、と感じたのでまとめておく。
@@ -81,5 +98,3 @@ Apple Musicの"For You"の初期の精度がいまいちだし、邦楽少ない
 プレイリストというテーマを提案するのは、これからのレコメンドでは結構重要になってくるのではないかと思っているが、それ以外にも全力で攻めてきている感じが好感を持てて良い。
 
 [^1]: この放送中の話では、初期のレコメンドの設定がBeats Musicのそれと同じらしい
-
-

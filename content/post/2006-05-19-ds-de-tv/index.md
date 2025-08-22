@@ -1,20 +1,37 @@
 ---
-title: DS de TV
+authors:
+- aki
+categories: null
+date: '2006-05-19 14:46:40-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- tv
+- すごい
+- 高校時代
+- 国語
+- 教授
+- 招待
+- 重さ
+- チューナー
+- 高校生
+- もん
+lastmod: '2006-05-19 14:46:40-07:00'
+projects: []
+recommendations:
+- /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
+- /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/
+- /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2006-05-19 21:46:40+00:00
-lastmod: 2006-05-19 21:46:40+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [tv, すごい, 高校時代, 国語, 教授, 招待, 重さ, チューナー, 高校生, もん]
-recommendations: [/post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
-  /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/, /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/]
+title: DS de TV
 ---
+
 [[N] ニンテンドーDS用「TVチューナー」](http://netafull.net/toy/013718.html)なるものがでてるようです。  
 しっかし、このサイズにこの重さはどうなんだろうなー。  
 まぁ、以前よりTVはみるようになったとはいえ、そこまで必要ないかなぁ。。。  
@@ -25,5 +42,3 @@ recommendations: [/post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot
 すごい時代になったもんだわぁー。  
   
 国語の時間丸々つぶして自分の高校生の時の大恋愛話をご教授していただいたのが昨日のように思い出されます（笑）
-
-

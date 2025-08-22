@@ -1,20 +1,38 @@
 ---
-title: 'Kawasaki.rb #002 開催しました #kwskrb'
-date: 2013-08-03 06:08:43+00:00
-subtitle: ''
-summary: ''
+authors:
+- aki
+categories:
+- ruby
+date: '2013-08-02 23:08:43-07:00'
 draft: false
 featured: false
-authors: [aki]
-lastmod: 2013-08-03 06:08:43+00:00
-tags: []
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- ruby
+- 焼肉
+- '002'
+- プロジェクター
+- kawasaki
+- ニコニコ動画
+- kwskrb
+- rb
+- 紹介
+- コメント
+lastmod: '2013-08-02 23:08:43-07:00'
 projects: []
-image: {caption: '', focal_point: '', preview_only: false}
-categories: [ruby]
-keywords: [ruby, 焼肉, '002', プロジェクター, kawasaki, ニコニコ動画, kwskrb, rb, 紹介, コメント]
-recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
-  /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/]
+recommendations:
+- /post/2022-06-18-kawasaki rb 9 years reflection/
+- /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
+- /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/
+subtitle: ''
+summary: ''
+tags: []
+title: 'Kawasaki.rb #002 開催しました #kwskrb'
 ---
+
 ちょっと時間がたってしまいましたが、川崎地域でRuby関連の技術者が集まるKawasaki.rbの[第2回ミートアップ](https://manage.doorkeeper.jp/groups/kawasakirb/events/4895)を、去る7/24に行いました。
 
 今回は偶数回なので飲み回だったのですが、[金網デスマッチ 焼肉SUN](http://r.gnavi.co.jp/p427500/)というお店で実施しました。焼肉LTの実現！
@@ -58,5 +76,3 @@ Ruby初心者のために[初めてのRuby](http://www.amazon.co.jp/%E5%88%9D%E3
 [@kishima](http://twitter.com/kishima)さんによるmrubyのお話が予定されています。
 
 発表者も募集中です！[@chezou](http://twitter.com/chezou)か[メーリングリスト](https://groups.google.com/forum/#!topic/kawasakirb/)あたりにご連絡ください！
-
-

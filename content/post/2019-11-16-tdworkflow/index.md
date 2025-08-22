@@ -1,14 +1,28 @@
 ---
-title: Pythonのdigdagクライアントtdworkflowを作った
-authors: [aki]
+authors:
+- aki
+date: '2019-11-16 05:14:00-08:00'
+keywords:
+- digdag
+- github
+- ドキュメント
+- ブランチ
+- secrets
+- colabolatory
+- boxes
+- ワークフロー
+- デザイン
+- ゴール
+lastmod: '2019-11-16 06:58:00-08:00'
+recommendations:
+- /post/2019-11-18-digdag-ci/
+- /post/2019-12-24-python-custom-scripting/
+- /post/2022-05-05-sqllineage-with-digdag-log/
 summary: Pythonからdigdag/Treasure Workflowを色々できます
-tags: [Engineering, OSS]
-date: 2019-11-16 22:14:00+09:00
-lastmod: 2019-11-16 23:58:00+09:00
-keywords: [digdag, github, ドキュメント, ブランチ, secrets, colabolatory, boxes, ワークフロー, デザイン,
-  ゴール]
-recommendations: [/post/2019-11-18-digdag-ci/, /post/2019-12-24-python-custom-scripting/,
-  /post/2022-05-05-sqllineage-with-digdag-log/]
+tags:
+- Engineering
+- OSS
+title: Pythonのdigdagクライアントtdworkflowを作った
 ---
 
 ![](Untitled.png)

@@ -1,19 +1,37 @@
 ---
-title: 練馬アカペラコンテストに行ってきた
+authors:
+- aki
+categories: null
+date: '2010-02-07 04:02:01-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 和音
+- rajaton
+- 曲名
+- アレンジ
+- try
+- tone
+- 難しい
+- オリジナル
+- 宗教
+- パート
+lastmod: '2010-02-07 04:02:01-08:00'
+projects: []
+recommendations:
+- /post/2008-07-05-rajaton/
+- /post/2008-06-03-er-du-qin-qian/
+- /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2010-02-07 12:02:01+00:00
-lastmod: 2010-02-07 12:02:01+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [和音, rajaton, 曲名, アレンジ, try, tone, 難しい, オリジナル, 宗教, パート]
-recommendations: [/post/2008-07-05-rajaton/, /post/2008-06-03-er-du-qin-qian/, /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
+title: 練馬アカペラコンテストに行ってきた
 ---
+
 2/6に開催された[練馬区のアカペラコンテスト](http://www.neribun.or.jp/nerima/ichiran.cgi?mode=1&t=1&no=1845)に行ってきました。
 
 初めてアマチュアのアカペラのライブ的なもを聞いてみたのですが、とても楽しかったです。教えてくださったとても[@tackoneさん](http://twitter.com/tackone)には感謝です。また、[@watakumi](http://twitter.com/watakumi)さんや[@toriuzura](http://twitter.com/toriuzura)さんにお会いできたので良かったです。@toriuzuraさんお疲れ様でした！！素直な声が良かったです。
@@ -72,5 +90,3 @@ recommendations: [/post/2008-07-05-rajaton/, /post/2008-06-03-er-du-qin-qian/, /
 結局なんだかんだで、生の声を重ねることをベースに教会で歌うような宗教曲からポップな曲まで幅広く歌える、Rajatonみたいな歌い手になりたいなーという思いが強まりました。
 
 追記：全部俺なRajaton Boyな彼は[兄妹で歌っているの](http://www.youtube.com/watch?v=68BybMLwODY)ですが、[新曲をアップロード](http://www.youtube.com/watch?v=Td_1kmlo_FY)していました。しかも今度は720pのHD画質で(笑)
-
-

@@ -1,15 +1,29 @@
 ---
-title: Pythonの環境構築を自分なりに整理してみる
+aliases:
+- /post/2017-08-26_Python-dc8d8f2fe989/
+authors:
+- aki
+categories:
+- python
+date: '2017-08-25 21:58:07-07:00'
 description: 先日、 kawasaki.rb の懇親会で「AWS LambdaのためにPythonはじめたいんです」とか「機械学習系の本を読み始めたので、そこに書いてあったcondaではじめました」とかいう話を聞きました。
-date: '2017-08-26T13:58:07+09:00'
-categories: [python]
-authors: [aki]
-aliases: [/post/2017-08-26_Python-dc8d8f2fe989/]
-keywords: [python, conda, パッケージ, venv, anaconda, 環境, virtualenv, ruby, windows, os]
-recommendations: [/post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
-  /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/, /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/]
+keywords:
+- python
+- conda
+- パッケージ
+- venv
+- anaconda
+- 環境
+- virtualenv
+- ruby
+- windows
+- os
+recommendations:
+- /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/
+- /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/
+- /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/
+title: Pythonの環境構築を自分なりに整理してみる
 ---
-
 
 先日、 kawasaki.rb の懇親会で「AWS LambdaのためにPythonはじめたいんです」とか「機械学習系の本を読み始めたので、そこに書いてあったcondaではじめました」とかいう話を聞きました。
 

@@ -1,21 +1,38 @@
 ---
-title: 'kawasaki.rb #011 を開催しました #kwskrb'
-date: 2014-04-26 22:06:31+00:00
-subtitle: ''
-summary: ''
+authors:
+- aki
+categories:
+- ruby
+date: '2014-04-26 15:06:31-07:00'
 draft: false
 featured: false
-authors: [aki]
-lastmod: 2014-04-26 22:06:31+00:00
-tags: []
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- sinatra
+- 組込み
+- snowcrush
+- 変数
+- js
+- 次回
+- rails
+- kawasaki
+- rb
+- 水曜
+lastmod: '2014-04-26 15:06:31-07:00'
 projects: []
-image: {caption: '', focal_point: '', preview_only: false}
-categories: [ruby]
-keywords: [sinatra, 組込み, snowcrush, 変数, js, 次回, rails, kawasaki, rb, 水曜]
-recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/,
-  /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/, /post/2022-06-18-kawasaki
-    rb 9 years reflection/]
+recommendations:
+- /post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/
+- /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
+- /post/2022-06-18-kawasaki rb 9 years reflection/
+subtitle: ''
+summary: ''
+tags: []
+title: 'kawasaki.rb #011 を開催しました #kwskrb'
 ---
+
 4/23に[kawasaki.rb #011](http://kawasakirb.doorkeeper.jp/events/10187)を開催しました。  
 次回で1年になるのかと思うと、感慨深いです。  
 なお、kawasaki.rbは毎月第4水曜の19:30-開催しています。(最終週だと思われていたのでご説明)
@@ -38,5 +55,3 @@ recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-
 google botsはJSで動的に生成されたページにindexを貼ってくれないので、  
 なんとかして拾えるようにしましたという話。  
 "これってTurbolinksじゃん！Railsで良いじゃん！"という結論には、笑ってしまいました。
-
-

@@ -1,20 +1,37 @@
 ---
-title: Amazonの1GB/1円ストレージGlacierをコマンドラインで使うglacier-cmdの使い方
+authors:
+- aki
+categories: null
+date: '2012-10-31 05:10:45-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- cmd
+- aws
+- upload
+- 利用
+- test
+- アーカイブ
+- domain
+- データ
+- コマンド
+- download
+lastmod: '2012-10-31 05:10:45-07:00'
+projects: []
+recommendations:
+- /post/2017-01-19-macnojispei-lie-nokibodowokarabinershi-wazuniuspei-lie-nisuru/
+- /post/2017-05-26_public-dataset/
+- /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2012-10-31 12:10:45+00:00
-lastmod: 2012-10-31 12:10:45+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [cmd, aws, upload, 利用, test, アーカイブ, domain, データ, コマンド, download]
-recommendations: [/post/2017-01-19-macnojispei-lie-nokibodowokarabinershi-wazuniuspei-lie-nisuru/,
-  /post/2017-05-26_public-dataset/, /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/]
+title: Amazonの1GB/1円ストレージGlacierをコマンドラインで使うglacier-cmdの使い方
 ---
+
 大分前に発表されました、Amazonの[1GB/1円でデータを保管できるGlacier](http://aws.typepad.com/aws_japan/2012/08/amazon-glacier-archival-storage-for-one-penny-per-gb-per-month.html)というサービスをLinuxサーバから使用したいと思い、Javaでわざわざ書くのも面倒だと思い色々探していたところ、glacier-cmdというツールが良い感じだったのでご紹介します。
 
 [github:amazon-glacier-cmd-interface](https://github.com/uskudnik/amazon-glacier-cmd-interface)
@@ -130,5 +147,3 @@ $ glacier-cmd lsvault
 その場合は、inventoryコマンドを2度4時間程度の間隔を空けて行うと反映されると思います。
 
 結構面倒ですが、とにかくいつ使うか分からないデータや、手元の外付けHDDにとりあえず保管してあるけど一応冗長性を持たせたい、とかいう用途には良いでしょう。
-
-

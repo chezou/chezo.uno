@@ -1,21 +1,38 @@
 ---
-title: 'RubyKaigi行ってきました &amp; RubyHirobaで「神奈川Ruby会議01」告知LTしてきました #rubykaigi #rubyhiroba
-  #kana01'
+authors:
+- aki
+categories: null
+date: '2014-09-21 15:07:11-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- ruby
+- 数値計算
+- profile
+- '01'
+- inside
+- julia
+- '2.1'
+- よかっ
+- jekyll
+- android
+lastmod: '2014-09-21 15:07:11-07:00'
+projects: []
+recommendations:
+- /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
+- /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/
+- /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2014-09-21 22:07:11+00:00
-lastmod: 2014-09-21 22:07:11+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [ruby, 数値計算, profile, '01', inside, julia, '2.1', よかっ, jekyll, android]
-recommendations: [/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
-  /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/]
+title: 'RubyKaigi行ってきました &amp; RubyHirobaで「神奈川Ruby会議01」告知LTしてきました #rubykaigi #rubyhiroba
+  #kana01'
 ---
+
 いっぱい面白い発表があったけど、諸般の事情により完結に
 
 # RubyKaigi
@@ -43,4 +60,3 @@ recommendations: [/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-numb
 - @beroberoさんの発表の質疑で、「何故数値計算にPythonなどではなくRubyを選んだんですか？」という質問が出てきたのを見て、なるほどこういう切り口もあるのかと思った。ちなみに、berobero氏曰くJuliaはSciRubyよりマシくらいな位置づけとのこと
 - Railsガイドを翻訳している [@yasulab](https://twitter.com/yasulab) さんとお話出来てよかった。[gh-diff](https://github.com/melborne/gh-diff)の宣伝もしてきましたよ
 - 悲しみのMagsafe2忘れ...
-

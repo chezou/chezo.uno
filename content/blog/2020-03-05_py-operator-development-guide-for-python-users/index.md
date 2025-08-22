@@ -1,16 +1,33 @@
 ---
-title: py> operator development guide for Python users
-date: 2020-03-05 14:15:52.570000
-summary: This article show how to develop a digdag Python workflow task efficiently.
+aliases:
+- /blog/py-operator-development-guide-for-python-users
+categories:
+- Python
+- workflow
+date: '2020-03-05 14:15:52-08:00'
 draft: false
 featured: false
-tags: [digdag]
-categories: [Python, workflow]
-aliases: [/blog/py-operator-development-guide-for-python-users]
-keywords: [operator, task, env, local, image, docker, create, reasonable, huge, single]
-recommendations: [/blog/2019-10-06_how-to-test-a-new-docker-image-for-digdag-workflow-on-circleci--c8bb92987877/,
-  /blog/2025-05-02-ml-project-and-scrum/, /blog/2024-01-26_scrape-notion-to-pdf/]
+keywords:
+- operator
+- task
+- env
+- local
+- image
+- docker
+- create
+- reasonable
+- huge
+- single
+recommendations:
+- /blog/2019-10-06_how-to-test-a-new-docker-image-for-digdag-workflow-on-circleci--c8bb92987877/
+- /blog/2025-05-02-ml-project-and-scrum/
+- /blog/2024-01-26_scrape-notion-to-pdf/
+summary: This article show how to develop a digdag Python workflow task efficiently.
+tags:
+- digdag
+title: py> operator development guide for Python users
 ---
+
 [Japanese version is here](https://chezo.uno/post/2019-12-24-python-custom-scripting/)
 
 # How to build & test custom scripts on local env before pushing

@@ -1,20 +1,37 @@
 ---
-title: 残業ゼロの仕事力読了
+authors:
+- aki
+categories: null
+date: '2008-09-08 05:09:00-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 理系
+- 残業
+- 本書
+- 日本
+- 文章
+- 素晴らしい
+- 通用
+- 社長
+- 不必要
+- 多い
+lastmod: '2008-09-08 05:09:00-07:00'
+projects: []
+recommendations:
+- /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/
+- /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/
+- /post/2008-08-11-mian-bai-ihodoyokufen-karuzhe-xue-si-xiang-nosubete/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-09-08 12:09:00+00:00
-lastmod: 2008-09-08 12:09:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [理系, 残業, 本書, 日本, 文章, 素晴らしい, 通用, 社長, 不必要, 多い]
-recommendations: [/post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/,
-  /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/, /post/2008-08-11-mian-bai-ihodoyokufen-karuzhe-xue-si-xiang-nosubete/]
+title: 残業ゼロの仕事力読了
 ---
+
 {{< amazon asin="4820717138" title="「残業ゼロ」の仕事力" >}}
 吉越 浩一郎 / / 日本能率協会マネジメント 出版情報事業  
 ISBN : 4820717138  
@@ -30,6 +47,3 @@ ISBN : 4820717138
   
 正直、本に書いてあることが読者の受け取れる全てなはずなのに、本書以外の経験を主張されてもなんだかなぁという印象。  
 へー、あなたは凄いんですね。結果も残しましたね、ワンマン社長。
-
-
-

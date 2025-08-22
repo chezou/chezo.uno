@@ -1,20 +1,37 @@
 ---
-title: JPOPサウンドの核心部分が、実は１つのコード進行で出来ていた
+authors:
+- aki
+categories: null
+date: '2008-10-18 20:10:00-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- マイナー
+- 進行
+- メジャー
+- コード
+- 投稿者
+- knows
+- 感心
+- メロディ
+- サウンド
+- なじみ
+lastmod: '2008-10-18 20:10:00-07:00'
+projects: []
+recommendations:
+- /post/2008-07-05-rajaton/
+- /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
+- /post/2020-01-14-2019-best-comic/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-10-19 03:10:00+00:00
-lastmod: 2008-10-19 03:10:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [マイナー, 進行, メジャー, コード, 投稿者, knows, 感心, メロディ, サウンド, なじみ]
-recommendations: [/post/2008-07-05-rajaton/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
-  /post/2020-01-14-2019-best-comic/]
+title: JPOPサウンドの核心部分が、実は１つのコード進行で出来ていた
 ---
+
 [JPOPサウンドの核心部分が、実は1つのコード進行で出来ていた - エクサの口に戸は建たない](http://d.hatena.ne.jp/EXA/20081018/1224310523)をやっと読んだ。というか見た。  
 なるほどなー、と感心する反面どうもTommorow never knowsにしか聞こえない罠。  
   
@@ -27,5 +44,3 @@ recommendations: [/post/2008-07-05-rajaton/, /post/2010-02-07-lian-ma-akaperakon
 割と曲を作っていると、メジャーだかマイナーだかわからないけど、とにかく使いたいコードを使っちまえっていうのはあると思うんですよね。そして、それが耳なじみよければOK、となると良く聴いた曲の進行になってしまいがちになるのも頷けます。  
   
 個人的には、民族チックな和音やらメロディのほうが好きなので、ふーんで終わりますが。
-
-

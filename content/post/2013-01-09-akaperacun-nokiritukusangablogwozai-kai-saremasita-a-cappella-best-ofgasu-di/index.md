@@ -1,20 +1,37 @@
 ---
-title: あかぺら村のキリックさんがblogを再開されました！ - A Cappella - Best ofが素敵！
+authors:
+- aki
+categories: null
+date: '2013-01-09 03:01:16-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- cd
+- live
+- wise
+- king
+- du
+- a cappella
+- singers
+- version
+- 紹介
+- '14'
+lastmod: '2013-01-09 03:01:16-08:00'
+projects: []
+recommendations:
+- /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
+- /post/2006-07-28-xia-nanode/
+- /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2013-01-09 11:01:16+00:00
-lastmod: 2013-01-09 11:01:16+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [cd, live, wise, king, du, a cappella, singers, version, 紹介, '14']
-recommendations: [/post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
-  /post/2006-07-28-xia-nanode/, /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/]
+title: あかぺら村のキリックさんがblogを再開されました！ - A Cappella - Best ofが素敵！
 ---
+
 素敵なアカペラCDを通販されていたあかぺら村のキリックさんが、この度blogを解説されたようです！
 
 その中で、素敵なCDを紹介されていたので、こちらでも紹介したいと思います。
@@ -74,5 +91,3 @@ amazon.co.jpのリンクは[こちら](http://blog.goo.ne.jp/acappella-cd/e/6ce9
 [20. Chant des marais / Michael von der Heide](http://www.amazon.de/gp/product/B008E4LR8S/ref=dm_dp_trk40)
 
 いやぁ、The Kings' SingerはContempolalyの中でも輝いていますねー。すごいなー。
-
-

@@ -1,21 +1,37 @@
 ---
-title: 「学校教育の情報化に関する懇談会」のライブ配信が行われるそうです〜情報化と教育
+authors:
+- aki
+categories: null
+date: '2010-04-20 14:58:27-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 指導
+- デジタル教科書
+- ict
+- 活用
+- 懇談会
+- 授業
+- 項目
+- 能力
+- 情報
+- 情報端末
+lastmod: '2010-04-20 14:58:27-07:00'
+projects: []
+recommendations:
+- /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/
+- /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/
+- /post/2010-07-30-dezitarujiao-ke-shu-jiao-cai-xie-yi-hui-she-li-sinpoziumu-can-jia-simasita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2010-04-20 21:58:27+00:00
-lastmod: 2010-04-20 21:58:27+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [指導, デジタル教科書, ict, 活用, 懇談会, 授業, 項目, 能力, 情報, 情報端末]
-recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
-  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/,
-  /post/2010-07-30-dezitarujiao-ke-shu-jiao-cai-xie-yi-hui-she-li-sinpoziumu-can-jia-simasita/]
+title: 「学校教育の情報化に関する懇談会」のライブ配信が行われるそうです〜情報化と教育
 ---
+
 最近、遅ればせながら色々と教育における情報化について調べることが多いのですが、こんな懇談会が4/22(木) 16:00-行われるそうです。(配信のリンクは文科省のトップからリンクが近々張られるそうです。)
 
 [「学校教育の情報化に関する懇談会」の開催について：文部科学省](http://www.mext.go.jp/a_menu/shotou/zyouhou/1292783.htm).
@@ -40,5 +56,3 @@ recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruke
 
 将来はこうした教材の共有や校務分掌などが全部クラウドの向こう側に置かれて、先生や保護者が意識することなく教育できるようになるのかもしれない、と淡い期待と共に妄想しています。  
 個人的には情報モラル、ネットリテラシーについては新しい技術がどんどん出る中、保護者でのフォローしきるのは難しいとも思いますので、社会全体で支えられる枠組みが出来れば、と思います。また、技術者としてそうした枠組みを作るお手伝いができたら幸せです。
-
-

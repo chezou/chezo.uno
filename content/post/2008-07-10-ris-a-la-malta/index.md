@@ -1,20 +1,37 @@
 ---
-title: Ris a la malta
+authors:
+- aki
+categories: null
+date: '2008-07-10 14:52:31-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- トライ
+- life
+- bgm
+- 青木
+- rockapella
+- もう一度
+- the real group
+- ライブ
+- こと
+- ｒｙ
+lastmod: '2008-07-10 14:52:31-07:00'
+projects: []
+recommendations:
+- /post/2008-07-16-rockapella-channel/
+- /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/
+- /post/2009-04-13-it-dont-mean-a-thing/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-07-10 21:52:31+00:00
-lastmod: 2008-07-10 21:52:31+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [トライ, life, bgm, 青木, rockapella, もう一度, the real group, ライブ, こと, ｒｙ]
-recommendations: [/post/2008-07-16-rockapella-channel/, /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/,
-  /post/2009-04-13-it-dont-mean-a-thing/]
+title: Ris a la malta
 ---
+
 [トライトーンのライブ](http://www.tasaku.com/sb/schedule.cgi?mode=detail&y=2008&m=08&id=12)に行ってきます。  
 1ドリンク飲みながらってことは、結構狭めの小屋なんだろうなぁ。今からわくわくですよ。  
 青木さんのプリチーさをもう一度見ねば！！  
@@ -23,6 +40,3 @@ recommendations: [/post/2008-07-16-rockapella-channel/, /post/2012-11-17-11-slas
 むぅぅ、やりおるわぁ。  
   
 BGM:The Real Group "Substitute For Life"
-
-
-

@@ -1,20 +1,37 @@
 ---
-title: pficommonのpfi::text::jsonでシリアライズ/ デシリアライズしてみた
+authors:
+- aki
+categories: null
+date: '2012-02-12 04:02:30-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- json
+- optional
+- price
+- pfi
+- member
+- max
+- data
+- string
+- js
+- ss
+lastmod: '2012-02-12 04:02:30-08:00'
+projects: []
+recommendations:
+- /post/2017-12-31_2017--------c4901627b12d/
+- /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
+- /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2012-02-12 12:02:30+00:00
-lastmod: 2012-02-12 12:02:30+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [json, optional, price, pfi, member, max, data, string, js, ss]
-recommendations: [/post/2017-12-31_2017--------c4901627b12d/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
-  /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/]
+title: pficommonのpfi::text::jsonでシリアライズ/ デシリアライズしてみた
 ---
+
 [@unnonounoさんが紹介してくださったpficommon](http://unnonouno.blogspot.com/2011/10/pficommon.html)のjsonライブラリを試してみました。  
 pficommonのjsonライブラリはboostみたいにjsonと自分で作ったクラスのオブジェクトとのシリアライズ/デシリアライズができるのがとても魅力です。  
 その一方で、結構[ドキュメント](http://pfi.github.com/pficommon/text/json.html)には書いてないことが色々あったので、メモしておきます。
@@ -117,5 +134,3 @@ optionalで宣言した型を取得する場合は、ポインタのように\*�
 **きちんと\*演算子でアクセスすることで、入出力対象な形で利用できます！**
 
 それでは、pficommonで楽しいJSONライフを！
-
-

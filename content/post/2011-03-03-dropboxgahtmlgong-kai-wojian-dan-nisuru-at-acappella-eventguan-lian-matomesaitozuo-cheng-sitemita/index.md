@@ -1,21 +1,37 @@
 ---
-title: DropboxがHTML公開を簡単にする- @acappella_event関連まとめサイト作成してみた
+authors:
+- aki
+categories: null
+date: '2011-03-03 14:00:49-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- css
+- サイト
+- カレンダー
+- マシン
+- twitter
+- 移行
+- windows
+- 随時
+- ほしかっ
+- sass
+lastmod: '2011-03-03 14:00:49-08:00'
+projects: []
+recommendations:
+- /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/
+- /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/
+- /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2011-03-03 22:00:49+00:00
-lastmod: 2011-03-03 22:00:49+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [css, サイト, カレンダー, マシン, twitter, 移行, windows, 随時, ほしかっ, sass]
-recommendations: [/post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
-  /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
-  /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
+title: DropboxがHTML公開を簡単にする- @acappella_event関連まとめサイト作成してみた
 ---
+
 ## 何を作ったか？
 @acappella\_eventがつぶやいているアカペラ/合唱カレンダーを見やすくはっつけるサイトがほしかったんです。  
 あと、Pana Musicaの新刊botがつぶやいている新刊情報も見やすくしたかったんです。
@@ -42,5 +58,3 @@ Wordpress.comはiframeやscriptが使えないという安心設計になって�
 正直言うと、最近HamlやらSassをSinatraとともに使っていたので、生のコード書くのだるいとか思っていましたが、Windows付属のメモ帳で2時間くらい調べながらかけて書いたらできあがりました。xyzzy入ってないマシンでやるもんじゃないですね。Windows7はUTF-8のファイルがはけるようになったから、勢いでやってしまいました。
 
 ちなみに、カレンダーに情報登録してくださる方は随時募集しておりますので、@chezouまでtwitterでご連絡ください。
-
-

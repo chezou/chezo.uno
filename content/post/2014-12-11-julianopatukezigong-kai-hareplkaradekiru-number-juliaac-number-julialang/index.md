@@ -1,20 +1,37 @@
 ---
-title: 'Juliaのパッケージ公開はREPLからできる #JuliaAC #julialang'
+authors:
+- aki
+categories: null
+date: '2014-12-10 16:00:00-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- metadata
+- jl
+- julia
+- パッケージ
+- pkg
+- github
+- publish
+- cran
+- request
+- pull
+lastmod: '2014-12-10 16:00:00-08:00'
+projects: []
+recommendations:
+- /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/
+- /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
+- /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2014-12-11 00:00:00+00:00
-lastmod: 2014-12-11 00:00:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [metadata, jl, julia, パッケージ, pkg, github, publish, cran, request, pull]
-recommendations: [/post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/,
-  /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/, /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/]
+title: 'Juliaのパッケージ公開はREPLからできる #JuliaAC #julialang'
 ---
+
 この記事は、[Julia Advent Calendar](http://qiita.com/advent-calendar/2014/julialang)の11日目の記事です。 10日目は夜道先生の[NumericExtensions.jl の話](http://yomichi.hateblo.jp/entry/2014/12/10/052839)でした。
 
 Juliaのパッケージを作っても、野良パッケージを作るだけでは多くの人に使ってもらえません。 RでいうCRAN、Rubyでいうgemのように、Juliaでは[METADATA.jl](https://github.com/JuliaLang/METADATA.jl)というエコシステムでパッケージが管理されています。 パッケージはすべてgithub上ですべてホスティングされています。(だから、先日の[ロシアのgithubアクセス禁止騒ぎ](http://jp.techcrunch.com/2014/12/04/20141203github-russia/)みたいなのに巻き込まれると何も出来ません...) METADATA.jlもPull Requestベースで管理されているのですが、中身について議論されることはあまりなく、基本的に1日程度でどんどん取り込まれます。(CRANは厳正な審査がいるそうですね！)

@@ -1,20 +1,37 @@
 ---
-title: '「夏真っ盛り！Spark + Python + Data Science祭り」を開催しました＆Ibisを紹介しました #summerDS'
+authors:
+- aki
+categories: null
+date: '2016-07-26 10:27:38-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- レコメンド
+- ibis
+- spark
+- pandas
+- ラボ
+- エンジン
+- チューニング
+- .com
+- dmm
+- sql
+lastmod: '2016-07-26 10:27:38-07:00'
+projects: []
+recommendations:
+- /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/
+- /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/
+- /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2016-07-26 17:27:38+00:00
-lastmod: 2016-07-26 17:27:38+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [レコメンド, ibis, spark, pandas, ラボ, エンジン, チューニング, .com, dmm, sql]
-recommendations: [/post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/,
-  /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/, /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/]
+title: '「夏真っ盛り！Spark + Python + Data Science祭り」を開催しました＆Ibisを紹介しました #summerDS'
 ---
+
 2016/07/25に「夏真っ盛り！Spark + Python + Data Science祭り」を開催しました。
 
 <iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fconnpass.com%2Fevent%2F34680%2F" title="夏真っ盛り！Spark + Python + Data Science祭り (2016/07/25 19:00〜)" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://connpass.com/event/34680/">connpass.com</a></cite>
@@ -99,5 +116,3 @@ DAGを見よう！という話でした。そして、ポケモンGO仲間を募
 [^3]: こちらもIbisのスコープに入っています
 
 [^4]: リクルートさんも[HBaseを使ったリアルタイムレコメンドをしています](http://www.slideshare.net/recruitcojp/20150625-cloudera)
-
-

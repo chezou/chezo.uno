@@ -1,20 +1,37 @@
 ---
-title: 世界変革の時〜ラヴォスのたった一つの買い方
-summary: ''
-draft: false
-authors: [aki]
-lastmod: 2010-03-22 21:58:16+00:00
-subtitle: ''
-date: 2010-03-22 21:58:16+00:00
-featured: false
-tags: []
+authors:
+- aki
 categories: null
+date: '2010-03-22 14:58:16-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- '1600'
+- '1200'
+- jpeg
+- '44'
+- '97'
+- '90'
+- '87'
+- '89'
+- '88'
+- '43'
+lastmod: '2010-03-22 14:58:16-07:00'
 projects: []
-image: {caption: '', focal_point: '', preview_only: false}
-keywords: ['1600', '1200', jpeg, '44', '97', '90', '87', '89', '88', '43']
-recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-08-07-pokemonxin-gan-xian/,
-  /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/]
+recommendations:
+- /post/2010-09-04-tun-zu-xing-tutekimasita/
+- /post/2009-08-07-pokemonxin-gan-xian/
+- /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
+subtitle: ''
+summary: ''
+tags: []
+title: 世界変革の時〜ラヴォスのたった一つの買い方
 ---
+
 初めて[ラヴォス](http://images.google.co.jp/images?q=%83%89%83%94%83H%83X)が現れたときの絶望感と言ったら……。想像を絶するものがありました。出自の分からない異形の者を倒し、そして更なる戦いへと挑むその姿を見ていったら、剣と魔法の世界からはおよそ想像の付かないものとの戦いに。いやぁ、本当に名作でした。クロノトリガー。
 
 そんなラヴォスがお手軽に購入できるようになったので、買ってきました。
@@ -29,5 +46,3 @@ recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-08-07-p
 [![](p_1600_1200_00394a14-0884-4b43-9f87-cfb3a0d90dee.jpeg)](p_1600_1200_00394a14-0884-4b43-9f87-cfb3a0d90dee.jpeg)
 
 ちなみに、日本にこだわらずイタリアに行けば、 [緑色のラヴォス](http://images.google.co.jp/images?q=cavolo&nbspromano) を買えます。クロノファンの方は是非！
-
-

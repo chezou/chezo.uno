@@ -1,16 +1,33 @@
 ---
-title: A recent update of tabula-py
+aliases:
+- /blog/a-recent-update-of-tabula-py-a923d2ab667b
+- /blog/a923d2ab667b
+authors:
+- aki
+categories:
+- OSS
+- tabula
+date: '2019-02-17 08:26:00-08:00'
 description: This article is a repost of Patreon article published last December.
   I’m planning to bump up next version of tabula-py within few weeks.
-date: '2019-02-18T01:26:00+09:00'
-categories: [OSS, tabula]
-authors: [aki]
-projects: [tabula-py]
-aliases: [/blog/a-recent-update-of-tabula-py-a923d2ab667b, /blog/a923d2ab667b]
-keywords: [tabula, py, app, template, oct, extraction, callout, '2019', note, weeks]
-recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/,
-  /blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/,
-  /blog/2023-09-09-tabula-py-280/]
+keywords:
+- tabula
+- py
+- app
+- template
+- oct
+- extraction
+- callout
+- '2019'
+- note
+- weeks
+projects:
+- tabula-py
+recommendations:
+- /blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/
+- /blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/
+- /blog/2023-09-09-tabula-py-280/
+title: A recent update of tabula-py
 ---
 
 {{< figure src="./0__9HRqzqcWldOqKJCK.jpg" title="Photo by [Joshua Rawson-Harris](https://unsplash.com/@joshrh19?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)" >}}

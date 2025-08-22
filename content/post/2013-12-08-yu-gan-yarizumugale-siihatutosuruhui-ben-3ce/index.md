@@ -1,20 +1,37 @@
 ---
-title: 語感やリズムが楽しいハッとする絵本3冊
+authors:
+- aki
+categories: null
+date: '2013-12-08 14:05:36-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 絵本
+- ころ
+- '81'
+- 作品
+- 子供
+- 売り上げ
+- リズム
+- ランキング
+- '82'
+- '13'
+lastmod: '2013-12-08 14:05:36-08:00'
+projects: []
+recommendations:
+- /post/2020-01-05-2019-best-movie/
+- /post/2017-05-25_teach-what-i-dont-know/
+- /post/2008-07-19-can-shu-gui-tou-mo-hong/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2013-12-08 22:05:36+00:00
-lastmod: 2013-12-08 22:05:36+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [絵本, ころ, '81', 作品, 子供, 売り上げ, リズム, ランキング, '82', '13']
-recommendations: [/post/2020-01-05-2019-best-movie/, /post/2017-05-25_teach-what-i-dont-know/,
-  /post/2008-07-19-can-shu-gui-tou-mo-hong/]
+title: 語感やリズムが楽しいハッとする絵本3冊
 ---
+
 この記事は[子育て 読み聞かせ Advent Calendar 2013 - Adventar](http://www.adventar.org/calendars/165)に参加しています。
 
 まさか、パーフェクトRubyの感想を書く前に、まさかの読み聞かせアドベントカレンダーに参加することになりました。
@@ -114,5 +131,3 @@ posted with [amazlet](http://www.amazlet.com/ "amazlet") at 13.12.06
 内容は意味がさっぱりわからない(突っ込みどころ満載の)超展開なので、是非一読していただきたいのですが、「ぽんぽんぶうぶうぽんぶうぶう」「げろげろげー」などオノマトペが多彩で、子供もリズム良く語感を楽しんでくれています。
 
 こうしてみると、語感やリズムが楽しい本は、日本語の読むことを通じた表現の可能性を広げてくれて、子供についつい読んでしまいたくなりますね。
-
-

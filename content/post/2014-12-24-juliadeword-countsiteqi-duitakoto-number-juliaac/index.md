@@ -1,21 +1,37 @@
 ---
-title: 'Juliaでword countして気づいたこと #JuliaAC'
+authors:
+- aki
+categories: null
+date: '2014-12-23 16:00:00-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- word
+- julia
+- dict
+- text
+- time
+- hash
+- end
+- mecab
+- string
+- utf
+lastmod: '2014-12-23 16:00:00-08:00'
+projects: []
+recommendations:
+- /post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebookkarajian-reruyounisita/
+- /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/
+- /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2014-12-24 00:00:00+00:00
-lastmod: 2014-12-24 00:00:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [word, julia, dict, text, time, hash, end, mecab, string, utf]
-recommendations: [/post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebookkarajian-reruyounisita/,
-  /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/,
-  /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/]
+title: 'Juliaでword countして気づいたこと #JuliaAC'
 ---
+
 この記事は、[Julia Advent Calendar](http://qiita.com/advent-calendar/2014/julialang) 24日目の記事です。 昨日は[@nezuqさんのJuliaで楽しくWebスクレイピング！](http://qiita.com/nezuq/items/58ad2431654b5a494543)でした。
 
 悲しいお知らせですが、このブログを通じてわかったのは、Python \> Ingress \>\>\> Juliaという人気度だということでした。Ingressの話は今回しません。
@@ -166,5 +182,3 @@ top10個の単語を取り出したいときはこう書きます。
     <p class="footnote"><a href="#fn-23bc65e3" name="f-23bc65e3" class="footnote-number">*1</a><span class="footnote-delimiter">:</span><span class="footnote-text">本人のアイコン、バイキングの帽子をかぶっているのが有名ですよね</span></p>
     </div>
     </:real>
-
-

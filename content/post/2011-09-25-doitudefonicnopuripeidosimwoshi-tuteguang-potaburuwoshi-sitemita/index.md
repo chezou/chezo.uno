@@ -1,20 +1,37 @@
 ---
-title: ドイツでFONICのプリペイドSIMを使って光ポータブルを試してみた
+authors:
+- aki
+categories: null
+date: '2011-09-25 01:09:29-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- sim
+- チャージ
+- アクティベーション
+- ドイツ
+- sms
+- ユーロ
+- 英語
+- 購入
+- 携帯
+- day
+lastmod: '2011-09-25 01:09:29-07:00'
+projects: []
+recommendations:
+- /post/2015-10-08-iijmiono-outidenanbapotabiritei-shi-tutezi-zhai-demnpsita/
+- /post/2023-08-06-rakuten-mobile-activation/
+- /post/2009-11-14-iphonekesuwomai-ihuan-eta/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2011-09-25 08:09:29+00:00
-lastmod: 2011-09-25 08:09:29+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [sim, チャージ, アクティベーション, ドイツ, sms, ユーロ, 英語, 購入, 携帯, day]
-recommendations: [/post/2015-10-08-iijmiono-outidenanbapotabiritei-shi-tutezi-zhai-demnpsita/,
-  /post/2023-08-06-rakuten-mobile-activation/, /post/2009-11-14-iphonekesuwomai-ihuan-eta/]
+title: ドイツでFONICのプリペイドSIMを使って光ポータブルを試してみた
 ---
+
 [![](fonic.jpg)](fonic.jpg)
 
 ドイツで光ポータブルを使って、FONICのプリペイドSIMを使ってみました。
@@ -81,4 +98,3 @@ O2は都市部に強いという話は聞いていましたが、郊外の滞在
 - 契約はキャリア公式店舗で最後まで面倒みてもらうこと。
 - コストが多少かかっても良いなら、[Mifiレンタル](http://www.globaldata.jp/mifi/)の方が楽(\1280/day)
 - 英語でやり取り出来るのは **すごい楽** 。英語勉強するの大事！
-

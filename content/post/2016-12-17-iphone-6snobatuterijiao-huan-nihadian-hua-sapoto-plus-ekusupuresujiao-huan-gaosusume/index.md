@@ -1,20 +1,37 @@
 ---
-title: iPhone 6sのバッテリー交換には電話サポート+エクスプレス交換がオススメ
+authors:
+- aki
+categories: null
+date: '2016-12-17 11:05:14-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 交換
+- 店舗
+- 電話
+- 当選
+- 在庫
+- やりとり
+- tsuboi
+- バッテリー
+- ため
+- iphone
+lastmod: '2016-12-17 11:05:14-08:00'
+projects: []
+recommendations:
+- /post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/
+- /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/
+- /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2016-12-17 19:05:14+00:00
-lastmod: 2016-12-17 19:05:14+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [交換, 店舗, 電話, 当選, 在庫, やりとり, tsuboi, バッテリー, ため, iphone]
-recommendations: [/post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/,
-  /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/, /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/]
+title: iPhone 6sのバッテリー交換には電話サポート+エクスプレス交換がオススメ
 ---
+
 噂のiPhone 6sのバッテリー交換に当選しました。症状としては、突然電源断が起こるというもので、ちょいちょい突如落ちる現象には悩まされていました。
 
 当選確認は、以下のサイトでシリアル番号をいれることで確認できます。[https://www.apple.com/jp/support/iphone6s-unexpectedshutdown/](https://www.apple.com/jp/support/iphone6s-unexpectedshutdown/)

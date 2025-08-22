@@ -1,19 +1,39 @@
 ---
-summary: ''
+authors:
+- aki
+categories:
+- Python
+- TreasureData
+date: '2019-12-23 07:00:00-08:00'
 draft: false
-authors: [aki]
-toc: true
-lastmod: 2019-12-24 00:00:00+09:00
-title: Pythonistaのためのdigdag py> operator開発ガイド
-subtitle: ''
-date: 2019-12-24 00:00:00+09:00
 featured: false
-tags: [Python]
-categories: [Python, TreasureData]
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- treasure
+- workflow
+- 開発
+- タスク
+- イメージ
+- digdag
+- data
+- python
+- docker
+- 公式
+lastmod: '2019-12-23 07:00:00-08:00'
 projects: []
-image: {caption: '', focal_point: '', preview_only: false}
-keywords: [treasure, workflow, 開発, タスク, イメージ, digdag, data, python, docker, 公式]
-recommendations: [/post/2019-11-18-digdag-ci/, /post/2019-12-04-r-and-td/, /post/2019-11-16-tdworkflow/]
+recommendations:
+- /post/2019-11-18-digdag-ci/
+- /post/2019-12-04-r-and-td/
+- /post/2019-11-16-tdworkflow/
+subtitle: ''
+summary: ''
+tags:
+- Python
+title: Pythonistaのためのdigdag py> operator開発ガイド
+toc: true
 ---
 
 {{< toc >}}

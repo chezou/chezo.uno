@@ -1,20 +1,37 @@
 ---
-title: ZARDのVocalが亡くなられたなんて……
+authors:
+- aki
+categories: null
+date: '2007-05-28 21:05:00-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- ipod
+- ケーブル
+- 小物
+- 酷い
+- fm
+- pc
+- よい
+- 高校時代
+- 難点
+- 祈り
+lastmod: '2007-05-28 21:05:00-07:00'
+projects: []
+recommendations:
+- /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/
+- /post/2006-03-17-uhi/
+- /post/2005-10-07-tuinikita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2007-05-29 04:05:00+00:00
-lastmod: 2007-05-29 04:05:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [ipod, ケーブル, 小物, 酷い, fm, pc, よい, 高校時代, 難点, 祈り]
-recommendations: [/post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/, /post/2006-03-17-uhi/,
-  /post/2005-10-07-tuinikita/]
+title: ZARDのVocalが亡くなられたなんて……
 ---
+
 高校時代には、良く聞いたものですが……  
 ご冥福をお祈りいたします。  
   
@@ -55,5 +72,3 @@ TV,DVDプレーヤー、ミニコンポ、5.1chのスピーカー、エアコン
 ・iPod用FMチューナー  
 なんとなくFMが聞けると幸せかなぁと思っているだけです。  
 ちょっとお高いんですよね。
-
-

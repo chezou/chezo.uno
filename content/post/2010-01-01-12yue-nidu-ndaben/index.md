@@ -1,18 +1,31 @@
 ---
-title: 12月に読んだ本
-date: 2010-01-01 09:01:57+00:00
-subtitle: ''
-summary: ''
+authors:
+- aki
+date: '2010-01-01 01:01:57-08:00'
 draft: false
 featured: false
-authors: [aki]
-tags: []
+keywords:
+- 読了
+- ゲーム
+- twitter
+- 絶対音感
+- ぼくらの
+- 著者
+- ウェブ
+- 社会
+- リアルタイム
+- '12'
 projects: []
-keywords: [読了, ゲーム, twitter, 絶対音感, ぼくらの, 著者, ウェブ, 社会, リアルタイム, '12']
-recommendations: [/post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/,
-  /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/,
-  /post/2008-07-30-narutaru/]
+recommendations:
+- /post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/
+- /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/
+- /post/2008-07-30-narutaru/
+subtitle: ''
+summary: ''
+tags: []
+title: 12月に読んだ本
 ---
+
 読書メータにこんな機能あったのね。しかも画像付き。便利だわー。ちょっと貼り付けてみる。というか、あまり本読んでなかったのねぇ。twitterに時間を奪われていたのかな。
 
 12月の読書メーター  
@@ -36,5 +49,3 @@ recommendations: [/post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-li
 読了日：12月01日 著者：[二ノ宮 知子](http://book.akahoshitakuya.com/s&q=%E4%BA%8C%E3%83%8E%E5%AE%AE%20%E7%9F%A5%E5%AD%90)
 
 [読書メーター](http://book.akahoshitakuya.com/)
-
-

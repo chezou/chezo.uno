@@ -1,20 +1,37 @@
 ---
-title: 'これで君もウィテカーになれる！？「誰でもウィテカー」はじめました #darewite'
+authors:
+- aki
+categories: null
+date: '2011-04-09 15:01:23-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- woo
+- choir
+- whitacre
+- virtual
+- ツイート
+- '2.0'
+- 頻度
+- twitter
+- eric
+- nltk
+lastmod: '2011-04-09 15:01:23-07:00'
+projects: []
+recommendations:
+- /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/
+- /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/
+- /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2011-04-09 22:01:23+00:00
-lastmod: 2011-04-09 22:01:23+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [woo, choir, whitacre, virtual, ツイート, '2.0', 頻度, twitter, eric, nltk]
-recommendations: [/post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
-  /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/]
+title: 'これで君もウィテカーになれる！？「誰でもウィテカー」はじめました #darewite'
 ---
+
 20110409追記：Whitacre氏が改めて[来日すると連絡いただいた](http://twitter.com/hanagoro/status/56563103596412928)そうです！[福島にも](http://twitter.com/hanagoro/status/56563939382804481)！
 
 最近、日本の演奏会でもよく演奏される人気の合唱作曲家、[Eric Whitacre](http://twitter.com/ericwhitacre)。先日公開された、Virtual Choir 2.0でもおなじみですね。
@@ -91,4 +108,3 @@ WhitacreになりきれるWebサービス、「誰でもウィテカー」を始
 (Twitter@Anywhereの参考にさせていただきました)
 - [Python Hack-a-thon #3に参加しました - nokunoの日記](http://d.hatena.ne.jp/nokuno/20100123/1264239192)  
 (NLTKの参考にさせていただきました)
-

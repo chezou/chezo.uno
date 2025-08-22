@@ -1,20 +1,37 @@
 ---
-title: '#tqrk09 で Accept LT してはじめての Gem をライブリリースに失敗しました'
+authors:
+- aki
+categories: null
+date: '2015-08-30 14:10:51-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- tag
+- tags
+- surface
+- kytea
+- '100.0'
+- 名詞
+- 語尾
+- 天気
+- str
+- working
+lastmod: '2015-08-30 14:10:51-07:00'
+projects: []
+recommendations:
+- /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/
+- /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/
+- /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-08-30 21:10:51+00:00
-lastmod: 2015-08-30 21:10:51+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [tag, tags, surface, kytea, '100.0', 名詞, 語尾, 天気, str, working]
-recommendations: [/post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
-  /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/]
+title: '#tqrk09 で Accept LT してはじめての Gem をライブリリースに失敗しました'
 ---
+
 Tokyu Ruby Kaigi 09 でAccept LTのトリで話しました。 3分だってのに盛りすぎ、かつDEMOで接続が悪くなるという前回もあった失敗を重ねてはじめてのGemをライブリリースすることに失敗しました。
 
 なお、カリーヴルストは無事リリースできました。
@@ -42,5 +59,3 @@ YAPCの間使って頑張ってSWIGの挙動を調べた結果、Ruby側で更�
     str = "今日はいい天気です。"kytea.segment(str)#=\> ["今日", "は", "い", "い", "天気", "で", "す", "。"]kytea.tag\_info\_of(str)#=\> "今日/名詞/きょう は/助詞/は い/形容詞/い い/語尾/い 天気/名詞/てんき で/助動詞/で す/語尾/す 。/補助記号/。 "kytea.tags\_of(str)#=\> [{:surface=\>"今日", :tags=\>[[{:tag=\>"名詞", :val=\>3.610404674503611}], [{:tag=\>"きょう", :val=\>1.0726515803715995}]]},# {:surface=\>"は", :tags=\>[[{:tag=\>"助詞", :val=\>3.5500698037485963}], [{:tag=\>"は", :val=\>100.0}]]},# {:surface=\>"い", :tags=\>[[{:tag=\>"形容詞", :val=\>2.5966088884369523}], [{:tag=\>"い", :val=\>100.0}]]},# {:surface=\>"い", :tags=\>[[{:tag=\>"語尾", :val=\>2.7064013574728385}], [{:tag=\>"い", :val=\>100.0}]]},# {:surface=\>"天気", :tags=\>[[{:tag=\>"名詞", :val=\>4.220721634732509}], [{:tag=\>"てんき", :val=\>100.0}]]},# {:surface=\>"で", :tags=\>[[{:tag=\>"助動詞", :val=\>2.9093304720685786}], [{:tag=\>"で", :val=\>0.99994530321086}]]},# {:surface=\>"す", :tags=\>[[{:tag=\>"語尾", :val=\>2.5160490891753264}], [{:tag=\>"す", :val=\>0.9998735552127426}]]},# {:surface=\>"。", :tags=\>[[{:tag=\>"補助記号", :val=\>3.070959942739055}], [{:tag=\>"。", :val=\>100.0}]]}]
 
 ブログを書いて、サントリーさんの応募ハガキを投函するまでがTokyu Ruby Kaigiなので、エンドレスTokyuにならないよう頑張ります！
-
-

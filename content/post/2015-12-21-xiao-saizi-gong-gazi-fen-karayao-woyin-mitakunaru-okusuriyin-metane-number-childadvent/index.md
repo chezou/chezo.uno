@@ -1,20 +1,37 @@
 ---
-title: '小さい子供が自分から薬を飲みたくなる「おくすり飲めたね」 #childadvent'
+authors:
+- aki
+categories: null
+date: '2015-12-20 16:00:00-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 我が家
+- ケア
+- 注意
+- メーカー
+- 子供
+- 出版社
+- 商品
+- メディア
+- ブログ
+- 恐ろしく
+lastmod: '2015-12-20 16:00:00-08:00'
+projects: []
+recommendations:
+- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
+- /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/
+- /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-12-21 00:00:00+00:00
-lastmod: 2015-12-21 00:00:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [我が家, ケア, 注意, メーカー, 子供, 出版社, 商品, メディア, ブログ, 恐ろしく]
-recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/,
-  /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/]
+title: '小さい子供が自分から薬を飲みたくなる「おくすり飲めたね」 #childadvent'
 ---
+
 この記事は[子育てプログラマ・ITエンジニア・Webデザイナー Advent Calendar 2015 - Adventar](http://www.adventar.org/calendars/853)の21日目の記事です。
 
 前日は、[@_ksss_](https://twitter.com/_ksss_)さんの[子育てしながらリモートで働いた半年間 - スペクトラム](http://ksss9.hatenablog.com/entry/2015/12/20/144329)でした。
@@ -69,5 +86,3 @@ recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/
 明日はzuzuさんのエントリです。
 
 [^1]: ひどい
-
-

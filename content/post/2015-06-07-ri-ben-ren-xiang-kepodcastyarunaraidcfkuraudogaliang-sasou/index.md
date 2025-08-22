@@ -1,21 +1,37 @@
 ---
-title: 日本人向けPodcastやるならIDCFクラウドが良さそう
+authors:
+- aki
+categories: null
+date: '2015-06-07 14:00:00-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- idcf
+- 録音
+- 無料
+- skype
+- 転送
+- クラウド
+- gb
+- ストレージ
+- tb
+- ゲスト
+lastmod: '2015-06-07 14:00:00-07:00'
+projects: []
+recommendations:
+- /post/2015-11-22-idcfkuraudono500yuan-sabadepodcast-serverwohazimete8keyue-gajing-timasita/
+- /post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa/
+- /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-06-07 21:00:00+00:00
-lastmod: 2015-06-07 21:00:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [idcf, 録音, 無料, skype, 転送, クラウド, gb, ストレージ, tb, ゲスト]
-recommendations: [/post/2015-11-22-idcfkuraudono500yuan-sabadepodcast-serverwohazimete8keyue-gajing-timasita/,
-  /post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa/,
-  /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/]
+title: 日本人向けPodcastやるならIDCFクラウドが良さそう
 ---
+
 [rubyist.club](http://rubyistclub.chezo.uno/)というpodcastをやっているのですが、[IDCFクラウド](http://www.idcf.jp/cloud/)の上で動いています。
 
 # tl;dr

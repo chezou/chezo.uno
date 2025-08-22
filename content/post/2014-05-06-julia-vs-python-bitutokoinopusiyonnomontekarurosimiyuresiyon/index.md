@@ -1,21 +1,39 @@
 ---
-title: 'Julia vs Python: ビットコインオプションのモンテカルロシミュレーション'
+aliases:
+- /post/2014-05-07-julia-vs-python-bitcoin-option
+authors:
+- aki
+categories: null
+date: '2014-05-06 15:06:37-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- julia
+- path
+- 計算
+- python
+- np
+- time
+- end
+- ベクトル化
+- オプション
+- 価格
+lastmod: '2014-05-06 15:06:37-07:00'
+projects: []
+recommendations:
+- /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/
+- /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/
+- /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2014-05-06 22:06:37+00:00
-lastmod: 2014-05-06 22:06:37+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-aliases: [/post/2014-05-07-julia-vs-python-bitcoin-option]
-keywords: [julia, path, 計算, python, np, time, end, ベクトル化, オプション, 価格]
-recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
-  /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/]
+title: 'Julia vs Python: ビットコインオプションのモンテカルロシミュレーション'
 ---
+
 Justin Huang([@rawjustin](https://twitter.com/rawrjustin))さんのJuliaとPythonの比較記事(原題：[Julia vs. Python: Monte Carlo Simulations of Bitcoin Options](http://blog.rawrjustin.com/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/))が非常に面白かったので、翻訳してみました。
 
 Juliaは科学計算・数値計算向けの言語として高速さを売りにしている言語で、Rからの移行を進める人たちも増えているようです。
@@ -231,5 +249,3 @@ Juliaのコミュニティは若く成長している。
 Dr. Yves J. Hilpisch (inspiration)  
 Neeraj Wahi (options pricing)  
 James J. Porter (Julia)
-
-

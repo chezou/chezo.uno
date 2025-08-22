@@ -1,20 +1,37 @@
 ---
-title: Eric WitacreのVirtual Choirが凄い！これは日本のアマチュアでも広まるべき
+authors:
+- aki
+categories: null
+date: '2010-04-21 14:58:32-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 記事
+- 体感
+- whitacre
+- choir
+- やばい
+- オリジナル
+- はず
+- 動画
+- 以前
+- ブログ
+lastmod: '2010-04-21 14:58:32-07:00'
+projects: []
+recommendations:
+- /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/
+- /post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/
+- /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2010-04-21 21:58:32+00:00
-lastmod: 2010-04-21 21:58:32+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [記事, 体感, whitacre, choir, やばい, オリジナル, はず, 動画, 以前, ブログ]
-recommendations: [/post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/,
-  /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/]
+title: Eric WitacreのVirtual Choirが凄い！これは日本のアマチュアでも広まるべき
 ---
+
 [@kunishi](http://twitter.com/kunishi) さんの[ブログの記事](http://blog.chorusroom.org/2010/04/virtual-choir2.html)で知りましたが、WhitacreのVirtual Choirがやばいです。何はともあれ実際の動画を見ていただけば、その凄さを体感できるはずです。
 
 {{< youtube D7o7BrlbaDs >}}

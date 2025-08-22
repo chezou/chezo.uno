@@ -1,20 +1,37 @@
 ---
-title: 高田三郎行ってきました。
+authors:
+- aki
+categories: null
+date: '2005-09-18 14:45:41-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 混声
+- 演奏会
+- オケ
+- 男声
+- コンサートホール
+- 良かっ
+- 合唱団
+- 今日
+- 合同
+- 力押し
+lastmod: '2005-09-18 14:45:41-07:00'
+projects: []
+recommendations:
+- /post/2010-09-11-press-start-2010xing-tutekita/
+- /post/2005-07-17-urayamasika/
+- /post/2005-08-21-nan-sheng-he-chang/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2005-09-18 21:45:41+00:00
-lastmod: 2005-09-18 21:45:41+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [混声, 演奏会, オケ, 男声, コンサートホール, 良かっ, 合唱団, 今日, 合同, 力押し]
-recommendations: [/post/2010-09-11-press-start-2010xing-tutekita/, /post/2005-07-17-urayamasika/,
-  /post/2005-08-21-nan-sheng-he-chang/]
+title: 高田三郎行ってきました。
 ---
+
 今日は、某高田三郎の演奏会に行ってきました。  
   
 豊中混声と大久保混声が一緒に聴けるとはとても素敵なチャンスだとばかりにるんるんでいきましたが、 **生まれて初めて** 600人くらいの合唱団をはじめてみました。  
@@ -31,5 +48,3 @@ recommendations: [/post/2010-09-11-press-start-2010xing-tutekita/, /post/2005-07
   
 出演された、なみぃ師はお疲れ様でした。  
 色々大変だったとは思いますが、楽しめるところも色々あったので良かったです。
-
-

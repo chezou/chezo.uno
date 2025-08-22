@@ -1,20 +1,37 @@
 ---
-title: Twitterの合唱大喜利は楽しい
+authors:
+- aki
+categories: null
+date: '2011-03-02 14:00:43-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 合唱
+- ネタ
+- twitter
+- 面白い
+- ジブリ
+- chorus
+- 発声
+- 盛り上がり
+- 広がり
+- 自動的
+lastmod: '2011-03-02 14:00:43-08:00'
+projects: []
+recommendations:
+- /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/
+- /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/
+- /post/2007-07-02-minnanohe-chang/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2011-03-02 22:00:43+00:00
-lastmod: 2011-03-02 22:00:43+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [合唱, ネタ, twitter, 面白い, ジブリ, chorus, 発声, 盛り上がり, 広がり, 自動的]
-recommendations: [/post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
-  /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2007-07-02-minnanohe-chang/]
+title: Twitterの合唱大喜利は楽しい
 ---
+
 Twitterでしばしば見かけるのですが、誰からともなく大喜利が始まることがあります。たとえば、何かの「あるあるネタ」なんかの広がりも面白いです。
 
 手前味噌ですが、合唱ネタを中心にこんなものが過去にありました。
@@ -27,5 +44,3 @@ Twitterでしばしば見かけるのですが、誰からともなく大喜利�
 皆でネタを広げて、さらに皆で追加してという流れが面白いですね。
 
 ただ、twitterの日本語検索が結構漏れが多いので、ハッシュタグを先につけておいた方が良いかと思います。こういった盛り上がりを自動的にとぅぎゃれないだろうか。。。
-
-

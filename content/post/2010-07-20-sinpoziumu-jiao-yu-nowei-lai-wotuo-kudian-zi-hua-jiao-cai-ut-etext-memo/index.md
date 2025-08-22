@@ -1,21 +1,37 @@
 ---
-title: シンポジウム「教育の未来を拓く電子化教材」(UT-eTEXT)メモ
+authors:
+- aki
+categories: null
+date: '2010-07-20 14:59:15-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 生命科学
+- 講義
+- 教科書
+- 教育
+- 学術
+- コンテンツ
+- 著作権
+- 教員
+- 電子化
+- ut
+lastmod: '2010-07-20 14:59:15-07:00'
+projects: []
+recommendations:
+- /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/
+- /post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/
+- /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2010-07-20 21:59:15+00:00
-lastmod: 2010-07-20 21:59:15+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [生命科学, 講義, 教科書, 教育, 学術, コンテンツ, 著作権, 教員, 電子化, ut]
-recommendations: [/post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/,
-  /post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/,
-  /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/]
+title: シンポジウム「教育の未来を拓く電子化教材」(UT-eTEXT)メモ
 ---
+
 7/16(金)に東大で開催されたシンポジウム「[教育の未来を拓く電子化教材](http://www.gfk.c.u-tokyo.ac.jp/sympo2010.html)」に行ってきました。  
 個人的にはその前の週の[教育ITソリューションEXPO](http://www.edix-expo.jp/)よりはビジョンベースの話が聞けて楽しかったです(EXPOはシーズベースというか既存製品の皮を教育にしただけの感が強くて……)。が、まだ現場とのギャップは大きいような気がします。  
 また、[@miyako3](http://twitter.com/miyaco3) にもお会いすることが出来て楽しかったです。他分野の人との交流は新たな気づきが得られて良いですね。
@@ -111,5 +127,3 @@ iPadは、5年も経てばフォーマットが変わって使えなくなる
 
 UT-eTEXTのシステム概要(東大、情報技研、オーム社で共同開発)  
 ・編集システム
-
-

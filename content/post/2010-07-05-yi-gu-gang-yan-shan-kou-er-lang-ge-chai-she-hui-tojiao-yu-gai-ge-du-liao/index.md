@@ -1,21 +1,37 @@
 ---
-title: 苅谷剛彦、山口二郎「格差社会と教育改革」読了
+authors:
+- aki
+categories: null
+date: '2010-07-05 14:59:10-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 教育
+- 予算
+- 新自由主義
+- 議論
+- 主張
+- 学力
+- 時期
+- もと
+- 感覚
+- 変化
+lastmod: '2010-07-05 14:59:10-07:00'
+projects: []
+recommendations:
+- /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/
+- /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/
+- /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2010-07-05 21:59:10+00:00
-lastmod: 2010-07-05 21:59:10+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [教育, 予算, 新自由主義, 議論, 主張, 学力, 時期, もと, 感覚, 変化]
-recommendations: [/post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
-  /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
-  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
+title: 苅谷剛彦、山口二郎「格差社会と教育改革」読了
 ---
+
 社会教育学者の苅谷剛彦氏と政治学者の山口二郎氏の対談による、格差社会についての議論をまとめた本です。  
 
 {{< amazon asin="4000094262" titile="格差社会と教育改革 (岩波ブックレット)" >}}
@@ -42,4 +58,3 @@ P.25図5の都道府県の財政力と児童一人あたりの教育費の関係
 
 この本は、とても薄い割に議論がしっかりとしています。ちょうど安倍内閣のバウチャー制や学校選択制に対する批判が行われていた時期の話なので、今の時期に読むと少し感覚が違うかもしれません。新自由主義は国民は望んでいない、予算と人と教育理念を共に展開していくべき、という主張はすっきりしていてわかりやすいと思います。特に都会の感覚で自由化を進めていくことに対する問題提起は重要でしょう。  
 苅谷氏の本を読み始めるのには最適かなと思います。
-

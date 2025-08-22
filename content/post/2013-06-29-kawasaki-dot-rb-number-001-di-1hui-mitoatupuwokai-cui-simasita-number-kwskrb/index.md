@@ -1,20 +1,38 @@
 ---
-title: 'Kawasaki.rb  #001 第1回ミートアップを開催しました #kwskrb'
-date: 2013-06-29 04:06:14+00:00
-subtitle: ''
-summary: ''
+authors:
+- aki
+categories:
+- ruby
+date: '2013-06-28 21:06:14-07:00'
 draft: false
 featured: false
-authors: [aki]
-lastmod: 2013-06-29 04:06:14+00:00
-tags: []
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- hash
+- gc
+- ruby
+- hadoop
+- 遅い
+- 拡張
+- rb
+- python
+- ライブラリ
+- kawasaki
+lastmod: '2013-06-28 21:06:14-07:00'
 projects: []
-image: {caption: '', focal_point: '', preview_only: false}
-categories: [ruby]
-keywords: [hash, gc, ruby, hadoop, 遅い, 拡張, rb, python, ライブラリ, kawasaki]
-recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/,
-  /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/]
+recommendations:
+- /post/2022-06-18-kawasaki rb 9 years reflection/
+- /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/
+- /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/
+subtitle: ''
+summary: ''
+tags: []
+title: 'Kawasaki.rb  #001 第1回ミートアップを開催しました #kwskrb'
 ---
+
 6/26にKawasaki.rbの第1回ミートアップを開催しました。
 
 ## [Kawasaki.rb #001](http://kawasakirb.doorkeeper.jp/events/4115)
@@ -69,5 +87,3 @@ Doorkeeperの参加者を見ていただくとわかるのですが、予想以�
 今後は、初心者にやさしいネタも考えつつ進めて行きたいと思います。（いらないのかな？)
 
 次回は、7/24(水)に居酒屋LT(というか焼肉LT)をやりますので、準備ができましたら有る方はメーリングリストとDoorkeeperで告知しますので、興味があれば登録していただければと思います。
-
-

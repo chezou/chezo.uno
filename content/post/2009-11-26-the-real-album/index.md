@@ -1,20 +1,37 @@
 ---
-title: The Real Album
+authors:
+- aki
+categories: null
+date: '2009-11-26 13:57:09-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- アルバム
+- ポップ
+- 印象
+- pass
+- 変態
+- 全体的
+- jazz
+- 活躍
+- これから
+- 楽しみ
+lastmod: '2009-11-26 13:57:09-08:00'
+projects: []
+recommendations:
+- /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
+- /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/
+- /post/2005-08-21-nan-sheng-he-chang/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-11-26 21:57:09+00:00
-lastmod: 2009-11-26 21:57:09+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [アルバム, ポップ, 印象, pass, 変態, 全体的, jazz, 活躍, これから, 楽しみ]
-recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/,
-  /post/2005-08-21-nan-sheng-he-chang/]
+title: The Real Album
 ---
+
 Pass Me the Jazzがすてきなアルバムです！
 
 {{< youtube a435vNaIG2k >}}

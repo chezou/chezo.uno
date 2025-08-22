@@ -1,21 +1,37 @@
 ---
-title: RNNLMベースの形態素解析器 JUMAN++ をhomebrewでインストールできるようにした
+authors:
+- aki
+categories: null
+date: '2016-10-15 09:20:47-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- juman
+- homebrew
+- core
+- upstream
+- jumanpp
+- neologd
+- formula
+- issue
+- mecab
+- コーパス
+lastmod: '2016-10-15 09:20:47-07:00'
+projects: []
+recommendations:
+- /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/
+- /post/2016-12-31-2016nian-wozhen-rifan-tute/
+- /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2016-10-15 16:20:47+00:00
-lastmod: 2016-10-15 16:20:47+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [juman, homebrew, core, upstream, jumanpp, neologd, formula, issue, mecab,
-  コーパス]
-recommendations: [/post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/,
-  /post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/]
+title: RNNLMベースの形態素解析器 JUMAN++ をhomebrewでインストールできるようにした
 ---
+
 京大の黒橋・河原研から最近出た[JUMAN++](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN++)をmacOSのhomebrewでinstallできるようにしました。
 
 JUMAN++はRNNLMというディープラーニングベースの言語モデルを使っています。 こちらの記事を読んで知ったという方も多いのではないでしょうか。

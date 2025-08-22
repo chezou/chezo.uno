@@ -1,20 +1,37 @@
 ---
-title: pip install kyteaできるようになりました
+authors:
+- aki
+categories: null
+date: '2015-06-06 10:14:41-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- gem
+- pypi
+- デビュー
+- python
+- rubyist
+- documentation
+- setup
+- swig
+- kytea
+- パッケージ
+lastmod: '2015-06-06 10:14:41-07:00'
+projects: []
+recommendations:
+- /post/2017-08-26_python------------------dc8d8f2fe989/
+- /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/
+- /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-06-06 17:14:41+00:00
-lastmod: 2015-06-06 17:14:41+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [gem, pypi, デビュー, python, rubyist, documentation, setup, swig, kytea, パッケージ]
-recommendations: [/post/2017-08-26_python------------------dc8d8f2fe989/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
-  /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/]
+title: pip install kyteaできるようになりました
 ---
+
 先月のkawasaki.rbで、Rubyistなのにgemより先にPypiデビューしましたという話をしました。
 
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/nzuS2SusU9LaBR" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
@@ -37,5 +54,3 @@ recommendations: [/post/2017-08-26_python------------------dc8d8f2fe989/, /post/
 [はじめの一歩 — Pythonパッケージ ヒッチハイク・ガイド v1.0 documentation](http://shimizukawa.bitbucket.org/python-distribute-ja/quickstart.html)
 
 <iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fqiita.com%2Fedvakf%40github%2Fitems%2Fd82cd7ab77ea2b88506c" title="Python - PyPIにパッケージ登録する - Qiita" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"><a href="http://qiita.com/edvakf@github/items/d82cd7ab77ea2b88506c">Python - PyPIにパッケージ登録する - Qiita</a></iframe><cite class="hatena-citation"><a href="http://qiita.com/edvakf@github/items/d82cd7ab77ea2b88506c">qiita.com</a></cite>
-
-

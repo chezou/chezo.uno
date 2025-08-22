@@ -1,20 +1,37 @@
 ---
-title: そのモデル、過学習してるの？未学習なの？と困ったら
+authors:
+- aki
+categories: null
+date: '2016-05-29 14:57:39-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- データ
+- 訓練データ
+- validation
+- 精度
+- learning
+- bias
+- 学習
+- モデル
+- 検証
+- サイズ
+lastmod: '2016-05-29 14:57:39-07:00'
+projects: []
+recommendations:
+- /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/
+- /post/2019-12-09-facebook prophet-plot/
+- /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2016-05-29 21:57:39+00:00
-lastmod: 2016-05-29 21:57:39+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [データ, 訓練データ, validation, 精度, learning, bias, 学習, モデル, 検証, サイズ]
-recommendations: [/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2019-12-09-facebook
-    prophet-plot/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
+title: そのモデル、過学習してるの？未学習なの？と困ったら
 ---
+
 # Q: うわっ...ワタシのモデル過学習してる…？
 
 機械学習をしていると、「やったほぼ100％の性能でました！」みたいな話がちょこちょこでて、その度に「あー、はいはい過学習乙」とか「[leakageじゃね？](http://tjo.hatenablog.com/entry/2016/01/27/235620)」とかいう話になると思います。
@@ -115,5 +132,3 @@ recommendations: [/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/
 [^2]: 以前、AI学会の研究会で[@shima\_\_shima](https://twitter.com/shima__shima/)先生が「それは未学習なのでは？」というツッコミをしていたのが、意外と未学習を気にしないのではという思いに至った端緒です
 
 [^3]: 訳語わからない⇨検証曲線と訳しているそうです
-
-

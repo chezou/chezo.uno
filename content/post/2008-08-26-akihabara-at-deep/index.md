@@ -1,20 +1,37 @@
 ---
-title: アキハバラ＠DEEP
+authors:
+- aki
+categories: null
+date: '2008-08-26 14:49:40-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 秋葉原
+- 武器
+- 要素
+- 以前
+- 読後感
+- 素晴らし
+- 石田衣良
+- はやり
+- 春秋
+- 文藝
+lastmod: '2008-08-26 14:49:40-07:00'
+projects: []
+recommendations:
+- /post/2008-09-10-enzieruhato-27/
+- /post/2008-10-28-utukusiizi-domo/
+- /post/2008-11-06-koredeiinoda/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-08-26 21:49:40+00:00
-lastmod: 2008-08-26 21:49:40+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [秋葉原, 武器, 要素, 以前, 読後感, 素晴らし, 石田衣良, はやり, 春秋, 文藝]
-recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-10-28-utukusiizi-domo/,
-  /post/2008-11-06-koredeiinoda/]
+title: アキハバラ＠DEEP
 ---
+
 {{< amazon asin="4167174111" title="アキハバラ@DEEP (文春文庫)" >}}
 石田 衣良 / / 文藝春秋  
 ISBN : 4167174111  
@@ -29,6 +46,3 @@ ISBN : 4167174111
 そして、コンプレックスといえば、ページとタイコの二人が誘拐されたときの取った行動が素晴らしすぎる。普通は、吃音などという要素は憐れみの対象であれ、武器になるということはないだろう。そこで、作者はこれらのWeekPointを武器にかえてしまった。  
   
 少しまどろっこしい部分もあるかもしれないが、基本的に勧善懲悪（クルークが善悪かはわからないが）ものであるので、すっきりとした読後感である。秋葉原という単語に反応してしまうデジタル好きなら読んでみると良いかもしれない。
-
-
-

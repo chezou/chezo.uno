@@ -1,20 +1,37 @@
 ---
-title: 「デジタル教科書教材協議会設立シンポジウム」参加しました
+authors:
+- aki
+categories: null
+date: '2010-07-30 14:59:20-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- デジタル教科書
+- 教材
+- 能力
+- 先生
+- 主張
+- 格差
+- 協議会
+- ビジネスモデル
+- 学習
+- 会場
+lastmod: '2010-07-30 14:59:20-07:00'
+projects: []
+recommendations:
+- /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/
+- /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/
+- /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2010-07-30 21:59:20+00:00
-lastmod: 2010-07-30 21:59:20+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [デジタル教科書, 教材, 能力, 先生, 主張, 格差, 協議会, ビジネスモデル, 学習, 会場]
-recommendations: [/post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/,
-  /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/, /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/]
+title: 「デジタル教科書教材協議会設立シンポジウム」参加しました
 ---
+
 さる7/27に、デジタル教科書や教材を推進する民間中心の団体、[デジタル教科書教材協議会](http://ditt.jp)が発足しました。  
 シンポジウムの内容は、各種記事がまとめていますし、内容の要約は、片山さんが[こちら](http://e-textbook.blog.so-net.ne.jp/2010-07-30)にまとめてくださっていますのでご参考にしてください。  
 Usreamは前半が[こちら](http://www.ustream.tv/recorded/8540903)、後半(孫氏講演から)が[こちら](http://www.ustream.tv/recorded/8551014)にあります。
@@ -55,5 +72,3 @@ Usreamは前半が[こちら](http://www.ustream.tv/recorded/8540903)、後半(�
 2010/07/27 13:30-16:10  
 デジタル教科書教材協議会設立シンポジウム  
 ＠明治記念館　曙の間
-
-

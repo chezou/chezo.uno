@@ -1,20 +1,37 @@
 ---
-title: うつくしい子ども
+authors:
+- aki
+categories: null
+date: '2008-10-28 14:48:47-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 石田衣良
+- 主人公
+- 悪く
+- コメント
+- 印象
+- 食欲
+- 題材
+- 閑話休題
+- 追求
+- 猟奇的
+lastmod: '2008-10-28 14:48:47-07:00'
+projects: []
+recommendations:
+- /post/2008-08-26-akihabara-at-deep/
+- /post/2008-06-15-gui-cai-xian-ru/
+- /post/2008-11-06-koredeiinoda/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-10-28 21:48:47+00:00
-lastmod: 2008-10-28 21:48:47+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [石田衣良, 主人公, 悪く, コメント, 印象, 食欲, 題材, 閑話休題, 追求, 猟奇的]
-recommendations: [/post/2008-08-26-akihabara-at-deep/, /post/2008-06-15-gui-cai-xian-ru/,
-  /post/2008-11-06-koredeiinoda/]
+title: うつくしい子ども
 ---
+
 石田衣良の「うつくしい子ども」です。 {{< amazon asin="4167174057" title="うつくしい子ども (文春文庫)" >}}
 石田 衣良 / / 文藝春秋  
 スコア選択: ★★★★  
@@ -29,6 +46,3 @@ recommendations: [/post/2008-08-26-akihabara-at-deep/, /post/2008-06-15-gui-cai-
 閑話休題。センセーショナルな題材(恐らく当時、そして今も)であることに目を奪われてしまうかもしれませんが、そこを描きつつも問いかけられるメッセージが何だったのかを受け止めたいと思います。  
   
 でも、二回目は読みたくない本です。食欲がなくなるので……。
-
-
-

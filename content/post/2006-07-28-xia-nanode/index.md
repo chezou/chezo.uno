@@ -1,20 +1,37 @@
 ---
-title: 夏なので
+authors:
+- aki
+categories: null
+date: '2006-07-28 14:46:34-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- cd
+- 軽快
+- 節約
+- 今日この頃
+- zero
+- ギター
+- 元気
+- 感じ
+- 視聴
+- 欲しく
+lastmod: '2006-07-28 14:46:34-07:00'
+projects: []
+recommendations:
+- /post/2008-08-01-ono-lisa-best-2002-2006/
+- /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/
+- /post/2009-04-13-it-dont-mean-a-thing/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2006-07-28 21:46:34+00:00
-lastmod: 2006-07-28 21:46:34+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [cd, 軽快, 節約, 今日この頃, zero, ギター, 元気, 感じ, 視聴, 欲しく]
-recommendations: [/post/2008-08-01-ono-lisa-best-2002-2006/, /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/,
-  /post/2009-04-13-it-dont-mean-a-thing/]
+title: 夏なので
 ---
+
 ノートをたちあげっぱにしておくと，熱で手が低温やけどしそうな今日この頃，いかがお過ごしでしょうか．  
   
 とりあえず，なんとか色々ありましたが，少しはマシな方向？に向かってきているようです．  
@@ -32,5 +49,3 @@ recommendations: [/post/2008-08-01-ono-lisa-best-2002-2006/, /post/2013-01-09-ak
 DEPAPEPEは，CDの視聴ができるのですが，元気がもらえそうな感じです．  
 CDかりたーい！  
 お金があれば買いたいですが，今はW-ZERO3[es]が来るのを控えているので節約モードです．
-
-

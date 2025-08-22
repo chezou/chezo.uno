@@ -1,20 +1,37 @@
 ---
-title: クロノトリガーの「時の回廊」が名曲すぎる
+authors:
+- aki
+categories: null
+date: '2009-05-24 14:54:02-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- クロノトリガー
+- アレンジ
+- 康典
+- 光田
+- 原曲
+- シーン
+- 音質
+- 作曲
+- メドレー
+- time
+lastmod: '2009-05-24 14:54:02-07:00'
+projects: []
+recommendations:
+- /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/
+- /post/2008-06-03-er-du-qin-qian/
+- /post/2009-04-13-it-dont-mean-a-thing/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-05-24 21:54:02+00:00
-lastmod: 2009-05-24 21:54:02+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [クロノトリガー, アレンジ, 康典, 光田, 原曲, シーン, 音質, 作曲, メドレー, time]
-recommendations: [/post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/,
-  /post/2008-06-03-er-du-qin-qian/, /post/2009-04-13-it-dont-mean-a-thing/]
+title: クロノトリガーの「時の回廊」が名曲すぎる
 ---
+
 あまりそう思ってなかったんですが、聞いてみてどのシーンで使われていたのか思い出せず検索してみたら、こんな動画が出てきました。  
 クロノトリガー『時の回廊』全部俺の声（CHRONO TRIGGER Corridors of Time）
 
@@ -27,5 +44,3 @@ recommendations: [/post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-
 {{< youtube onPmNzbBnXA >}}
 
 クロノトリガーの作曲をされた[光田康典さん](http://ja.wikipedia.org/wiki/%E5%85%89%E7%94%B0%E5%BA%B7%E5%85%B8)は、昔から周りにファンがいたので名前は知っていましたが、改めて良い曲をかく人だなぁと再認識。
-
-

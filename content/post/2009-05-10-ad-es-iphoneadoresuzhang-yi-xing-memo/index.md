@@ -1,20 +1,37 @@
 ---
-title: Ad[es]→iPhoneアドレス帳移行メモ
+authors:
+- aki
+categories: null
+date: '2009-05-10 05:05:54-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- アドレス帳
+- iphone
+- 幸せ
+- 下記
+- '100'
+- 移行
+- よかっ
+- 覚え書き
+- 添付
+- スパボ
+lastmod: '2009-05-10 05:05:54-07:00'
+projects: []
+recommendations:
+- /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/
+- /post/2009-05-18-iphonetono1zhou-jian/
+- /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-05-10 12:05:54+00:00
-lastmod: 2009-05-10 12:05:54+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [アドレス帳, iphone, 幸せ, 下記, '100', 移行, よかっ, 覚え書き, 添付, スパボ]
-recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2009-05-18-iphonetono1zhou-jian/,
-  /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/]
+title: Ad[es]→iPhoneアドレス帳移行メモ
 ---
+
 - 
   - 090510 2145追記--
 
@@ -39,4 +56,3 @@ recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /
 というわけで、こんにちはiPhoneさん。２９８００円でスパボ一括で買えました。幸せ幸せ。
 
 $
-

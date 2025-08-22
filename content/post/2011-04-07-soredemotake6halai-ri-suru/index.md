@@ -1,20 +1,37 @@
 ---
-title: それでもTake6は来日する
+authors:
+- aki
+categories: null
+date: '2011-04-07 15:01:11-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 来日
+- 日本
+- サイト
+- 祈り
+- 推測
+- 地震
+- あたたかい
+- message
+- knows
+- sure
+lastmod: '2011-04-07 15:01:11-07:00'
+projects: []
+recommendations:
+- /post/2009-12-13-hutagozuo-liu-xing-qun-hajin-wan-kara-14ri-am2shi-gapiku/
+- /post/2022-11-28-cancel-japanese-service/
+- /post/2009-03-03-sok-bao-masa-festa/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2011-04-07 22:01:11+00:00
-lastmod: 2011-04-07 22:01:11+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [来日, 日本, サイト, 祈り, 推測, 地震, あたたかい, message, knows, sure]
-recommendations: [/post/2009-12-13-hutagozuo-liu-xing-qun-hajin-wan-kara-14ri-am2shi-gapiku/,
-  /post/2022-11-28-cancel-japanese-service/, /post/2009-03-03-sok-bao-masa-festa/]
+title: それでもTake6は来日する
 ---
+
 【20110531追記】[オフィシャルサイトによると、Take6の来日は2012年2月に延期されたようです。  
   
 期待させてしまった方はすみません。](http://jp.take6.com/)
@@ -50,5 +67,3 @@ FacebookのTake6のページに[こんな素敵な動画](http://www.facebook.co
 勿論、この先どうなるかは分かりませんが、きっとTake6はこういう状況の中でも敢えて来日してくれるという希望が湧きました。
 
 まだまだ、[チケットは販売中](http://ticket-artist.pia.jp/pia/artists.do?artistsCd=11019461)のようですので、5/30,31に是非コンサートを楽しみたいものです。
-
-

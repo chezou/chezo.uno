@@ -1,20 +1,37 @@
 ---
-title: 'Juliaで得られたマイナー言語を盛り上げる方法 #JuliaAC'
+authors:
+- aki
+categories: null
+date: '2015-12-24 16:00:00-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- julia
+- 言語
+- 開催
+- 情報
+- エヴァンジェリスト
+- advent
+- juliatokyo
+- 日本語
+- 負荷
+- calendar
+lastmod: '2015-12-24 16:00:00-08:00'
+projects: []
+recommendations:
+- /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/
+- /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/
+- /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-12-25 00:00:00+00:00
-lastmod: 2015-12-25 00:00:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [julia, 言語, 開催, 情報, エヴァンジェリスト, advent, juliatokyo, 日本語, 負荷, calendar]
-recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/,
-  /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/]
+title: 'Juliaで得られたマイナー言語を盛り上げる方法 #JuliaAC'
 ---
+
 この記事は[Julia Advent Calender 2015](http://qiita.com/advent-calendar/2015/julialang)の最終日です。
 
 Juliaは大分マイナーな言語で、日本語による情報が殆ど無かったのですが、以下の要因で大分盛り上がってきていると思います。

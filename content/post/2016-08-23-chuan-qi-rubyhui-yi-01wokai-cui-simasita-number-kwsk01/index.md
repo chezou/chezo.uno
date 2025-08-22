@@ -1,20 +1,37 @@
 ---
-title: '川崎Ruby会議 01を開催しました #kwsk01'
+authors:
+- aki
+categories: null
+date: '2016-08-23 15:25:47-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- ruby
+- kawasaki
+- rb
+- 会議
+- 発表
+- 川崎
+- tシャツ
+- rails
+- 都内
+- '01'
+lastmod: '2016-08-23 15:25:47-07:00'
+projects: []
+recommendations:
+- /post/2022-06-18-kawasaki rb 9 years reflection/
+- /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/
+- /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2016-08-23 22:25:47+00:00
-lastmod: 2016-08-23 22:25:47+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [ruby, kawasaki, rb, 会議, 発表, 川崎, tシャツ, rails, 都内, '01']
-recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
-  /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/]
+title: '川崎Ruby会議 01を開催しました #kwsk01'
 ---
+
 さる 8/20 に川崎Ruby会議01を開催しました。
 
 <iframe src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fregional.rubykaigi.org%2Fkwsk01%2F" title="トップページ - 川崎Ruby会議01" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="http://regional.rubykaigi.org/kwsk01/">regional.rubykaigi.org</a></cite>
@@ -113,5 +130,3 @@ recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2015-0
 なお、[明日はいつものkawasaki.rb](https://kawasakirb.doorkeeper.jp/events/50947)を開催しますので、興味を持たれた方は是非ご参加ください :)
 
 [^1]: Tokyuリスペクト
-
-

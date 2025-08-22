@@ -1,20 +1,37 @@
 ---
-title: 'データ分析への向き合い方~Machine Learning Casual Talks #2を開催しました #MLCT'
+authors:
+- aki
+categories: null
+date: '2014-08-29 15:07:00-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 機械学習
+- 活用
+- 素人
+- データ
+- ポイント
+- 業務
+- 比戸
+- グノシー
+- pfi
+- deep learning
+lastmod: '2014-08-29 15:07:00-07:00'
+projects: []
+recommendations:
+- /post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/
+- /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/
+- /post/2017-08-03_oss--------------48807bbbf13f/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2014-08-29 22:07:00+00:00
-lastmod: 2014-08-29 22:07:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [機械学習, 活用, 素人, データ, ポイント, 業務, 比戸, グノシー, pfi, deep learning]
-recommendations: [/post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/,
-  /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2017-08-03_oss--------------48807bbbf13f/]
+title: 'データ分析への向き合い方~Machine Learning Casual Talks #2を開催しました #MLCT'
 ---
+
 先週火曜日に [Machine Learning Casual Talks #2](http://mlct.connpass.com/event/8036/) を開催しました。  
 発表は、グノシー関さん、PFI比戸さん([@sla](https://twitter.com/sla))、[@motivic\_](https://twitter.com/motivic_)さん、カメリオから柴田さん、[@SamuraiT01](https://twitter.com/SamuraiT01)さんに発表頂きました。  
 発表していただいた皆さん、Yahoo!Japanの[@qluto](https://twitter.com/qluto)さんはじめお手伝いいただいた皆さん、本当にありがとうございました！
@@ -86,5 +103,3 @@ USだとAmazon Mechanical Turkを使うのが一般的に行われているの�
 
 グノシー関さんの「数値は神である」、PFI比戸さんの「機械学習は苦しい」という話に表されるように、機械学習を「つかう」という点にフォーカスした会でしたが、機械学習をしない人にとっても、どうデータと向きあえばいいのか、というエッセンスが凝縮されていました。  
 僕自身も聞いていて"Lean Analytics"にあった、「行動に移せない指標は意味が無い」という話を具体的にした話を聞けて、局所最適解に陥らないデータ活用について考えさせられました。
-
-

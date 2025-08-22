@@ -1,21 +1,35 @@
 ---
-title: Scrape Notion and convert into PDF
+authors: []
+categories:
+- python
+date: '2024-01-26 17:40:00-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- provide
+- pages
+- pdfs
+- originally
+- actions
+- japanese
+- github
+- script
+- repository
+- image
+lastmod: '2024-01-26 17:40:00-08:00'
+projects: []
+recommendations:
+- /blog/2019-10-06_how-to-test-a-new-docker-image-for-digdag-workflow-on-circleci--c8bb92987877/
+- /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
+- /blog/2024-02-02-migrated-from-netlify-to-cloudflare-pages/
 subtitle: ''
 summary: ''
-authors: []
 tags: []
-categories: [python]
-date: 2024-01-26 18:40:00-07:00
-lastmod: 2024-01-26 18:40:00-07:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [provide, pages, pdfs, originally, actions, japanese, github, script, repository,
-  image]
-recommendations: [/blog/2019-10-06_how-to-test-a-new-docker-image-for-digdag-workflow-on-circleci--c8bb92987877/,
-  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
-  /blog/2024-02-02-migrated-from-netlify-to-cloudflare-pages/]
+title: Scrape Notion and convert into PDF
 ---
 
 I love [VanGohan](https://www.vangohan.com/), who is a Japanese meal kits provider in Vancouver. Their meal kits are really tasty and authentic Japanese foods. I can't live without them. When I visited Japan last year, I wasn't too eager to find nice Japanese restaurants because of them.

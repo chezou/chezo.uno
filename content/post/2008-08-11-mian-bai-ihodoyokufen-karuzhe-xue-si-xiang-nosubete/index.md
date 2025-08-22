@@ -1,20 +1,37 @@
 ---
-title: 面白いほどよく分かる哲学・思想のすべて
+authors:
+- aki
+categories: null
+date: '2008-08-11 14:49:50-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 酷い
+- 単語
+- 文芸社
+- 哲学
+- 倫理
+- おかしい
+- 言い回し
+- 具合
+- 筆者
+- 本質
+lastmod: '2008-08-11 14:49:50-07:00'
+projects: []
+recommendations:
+- /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/
+- /post/2008-10-10-luo-yu-bai-xuan-xia/
+- /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-08-11 21:49:50+00:00
-lastmod: 2008-08-11 21:49:50+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [酷い, 単語, 文芸社, 哲学, 倫理, おかしい, 言い回し, 具合, 筆者, 本質]
-recommendations: [/post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/, /post/2008-10-10-luo-yu-bai-xuan-xia/,
-  /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/]
+title: 面白いほどよく分かる哲学・思想のすべて
 ---
+
 {{< amazon asin="4537255889" title="面白いほどよくわかる哲学・思想のすべて―人類が共有する「知」の絶対真理を読み解く (学校で教えない教科書)" >}}
 湯浅 赳男 / / 日本文芸社  
 ISBN : 4537255889  
@@ -27,6 +44,3 @@ ISBN : 4537255889
 筆者の意見なんかや経済の話を読むより、思想家の唱えていることの中身について知りたいんだから。比重おかしいでしょ。  
   
 倫理の教科書と一緒に使う山川の単語集なんかの方がよっぽど役に立つ。
-
-
-

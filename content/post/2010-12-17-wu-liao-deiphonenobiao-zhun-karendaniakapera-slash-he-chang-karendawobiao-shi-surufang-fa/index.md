@@ -1,21 +1,37 @@
 ---
-title: 無料でiPhoneの標準カレンダーにアカペラ/合唱カレンダーを表示する方法
+authors:
+- aki
+categories: null
+date: '2010-12-17 14:00:21-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- カレンダー
+- appbank
+- やり方
+- 合唱
+- アカペラ
+- 登録
+- url
+- iphone
+- 募集中
+- google calendar
+lastmod: '2010-12-17 14:00:21-08:00'
+projects: []
+recommendations:
+- /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/
+- /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/
+- /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2010-12-17 22:00:21+00:00
-lastmod: 2010-12-17 22:00:21+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [カレンダー, appbank, やり方, 合唱, アカペラ, 登録, url, iphone, 募集中, google calendar]
-recommendations: [/post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/,
-  /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
-  /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
+title: 無料でiPhoneの標準カレンダーにアカペラ/合唱カレンダーを表示する方法
 ---
+
 AppBankで話題になっていたこのカレンダーの記事を見て、気づきました。[アカペラ/合唱カレンダー](http://bit.ly/caTSPZ)もiPhoneでみられるじゃないか！
 
 [無料でiPhoneの標準カレンダーに祝祭日・六曜・天気予報を表示する方法。 - iPhoneアプリのAppBank](http://www.appbank.net/2010/12/17/iphone-news/199009.php).

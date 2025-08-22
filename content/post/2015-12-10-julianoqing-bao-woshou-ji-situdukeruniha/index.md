@@ -1,20 +1,37 @@
 ---
-title: Juliaの情報を収集しつづけるには
+authors:
+- aki
+categories: null
+date: '2015-12-09 16:00:00-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- julia
+- bicycle
+- '1885'
+- feed
+- .com
+- 情報
+- reddit
+- 方々
+- slack
+- 変化
+lastmod: '2015-12-09 16:00:00-08:00'
+projects: []
+recommendations:
+- /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
+- /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/
+- /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-12-10 00:00:00+00:00
-lastmod: 2015-12-10 00:00:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [julia, bicycle, '1885', feed, .com, 情報, reddit, 方々, slack, 変化]
-recommendations: [/post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
-  /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/, /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/]
+title: Juliaの情報を収集しつづけるには
 ---
+
 この記事は[Julia Advent Calendar 2015](http://qiita.com/advent-calendar/2015/julialang) の10日目です。 昨日は、bicycle1885さんの[Juliaのユニットテスト - りんごがでている](http://bicycle1885.hatenablog.com/entry/2015/12/09/121347)でした。
 
 Juliaは変化が速い言語なため、最新の情報を追い続けるのが必要な言語です。 しかし、初心者にはその変化の速さになかなかついていくことが難しいです。
@@ -48,5 +65,3 @@ juliaの著名な方々がpostするJulia関連のblogを集めたjuliabloggers.
 なお、僕は大好き[julia-users ML](https://groups.google.com/forum/#!forum/julia-users)はSN比が悪いのであまりオススメしないとの言葉。
 
 というわけで、今後もJuliaを追いかけ続けたい方々に向けた情報でした。
-
-

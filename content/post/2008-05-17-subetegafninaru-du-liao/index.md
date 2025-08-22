@@ -1,20 +1,37 @@
 ---
-title: 「すべてがFになる」読了
+authors:
+- aki
+categories: null
+date: '2008-05-17 00:05:00-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 森博嗣
+- ミステリー
+- シリーズ
+- 東野
+- 圭吾
+- 読了
+- 嫌い
+- 深く
+- 続き
+- 学生
+lastmod: '2008-05-17 00:05:00-07:00'
+projects: []
+recommendations:
+- /post/2008-10-02-pahuekutoburudu-liao/
+- /post/2008-08-24-sayonaraituka/
+- /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-05-17 07:05:00+00:00
-lastmod: 2008-05-17 07:05:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [森博嗣, ミステリー, シリーズ, 東野, 圭吾, 読了, 嫌い, 深く, 続き, 学生]
-recommendations: [/post/2008-10-02-pahuekutoburudu-liao/, /post/2008-08-24-sayonaraituka/,
-  /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/]
+title: 「すべてがFになる」読了
 ---
+
 森博嗣の「すべてがFになる」を読了した。  
 タイトルの意味も最初はさっぱり分からなかったのだが、読み終わる頃にはなっとく。  
 なるほどね、と。  
@@ -25,5 +42,3 @@ recommendations: [/post/2008-10-02-pahuekutoburudu-liao/, /post/2008-08-24-sayon
 しかし、ガリレオにしろ森博嗣にしろそうなのだが、こんなん想像付かないよというトリックを用意してくる。こちらとしては、それがどういうものなのかを考えることはするのだが、それよりも何が出てくるのかワクワクしてしまう。  
   
 シリーズ1冊目なのだが、続きが気になるところである。
-
-

@@ -1,20 +1,37 @@
 ---
-title: LinkStationのWebアクセスとSimplify Music 2@iPhone
+authors:
+- aki
+categories: null
+date: '2009-05-31 01:05:01-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- アクセス
+- nas
+- simplify
+- music
+- 機能
+- web
+- 設定
+- 音楽
+- linkstation
+- buffalo
+lastmod: '2009-05-31 01:05:01-07:00'
+projects: []
+recommendations:
+- /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/
+- /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/
+- /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-05-31 08:05:01+00:00
-lastmod: 2009-05-31 08:05:01+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [アクセス, nas, simplify, music, 機能, web, 設定, 音楽, linkstation, buffalo]
-recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/,
-  /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/]
+title: LinkStationのWebアクセスとSimplify Music 2@iPhone
 ---
+
 NASに蓄えてある音楽へどうやってiPhoneからアクセスするかを考えたときに、2つの方法があったので、検討してみた。(Simplify Music2はまだ試してないですが)
 
 方法としては、
@@ -41,5 +58,3 @@ Webアクセス機能の実際の使い勝手としては、イマイチだっ�
 で、結局試してみた物の、お蔵入りになりそうな予感です。どちらかというと、この機能は遠隔地の人にファイルを提供するためのもの？なのかもしれません。iPhone用の画面も一応ありますが、、、おまけみたいなものですね。
 
 今度は、Simplify Music2を試してみたいところ。ネックは、PCを起動させておかないと共有音楽にアクセスできないことかなぁ。
-
-

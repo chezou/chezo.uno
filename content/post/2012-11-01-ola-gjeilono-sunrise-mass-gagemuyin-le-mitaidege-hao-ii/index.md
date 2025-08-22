@@ -1,20 +1,37 @@
 ---
-title: Ola Gjeiloの"Sunrise Mass"がゲーム音楽みたいで格好いい
+authors:
+- aki
+categories: null
+date: '2012-11-01 02:11:53-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- キャロル
+- soundcloud
+- iframe
+- panamusica
+- 格好
+- 'true'
+- url
+- 興奮
+- フェア
+- mass
+lastmod: '2012-11-01 02:11:53-07:00'
+projects: []
+recommendations:
+- /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
+- /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
+- /post/2012-09-25-singstodobrogoszgazai-bigong-yan/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2012-11-01 09:11:53+00:00
-lastmod: 2012-11-01 09:11:53+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [キャロル, soundcloud, iframe, panamusica, 格好, 'true', url, 興奮, フェア, mass]
-recommendations: [/post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
-  /post/2012-09-25-singstodobrogoszgazai-bigong-yan/]
+title: Ola Gjeiloの"Sunrise Mass"がゲーム音楽みたいで格好いい
 ---
+
 [Panamusicaのクリスマスフェア](https://www.panamusica.co.jp/ja/campaign/index.php?img=3)で[Ola Gjeilo](http://olagjeilo.com/)さんのキャロルが特集されていました。
 
 Ola Gjeiloさんの名前は良く聞くものの、曲は聴いたことがなかったので調べてみたところ、  
@@ -36,5 +53,3 @@ The First Noel
 
 楽譜はPanamusicaさんで買えるようです。  
 これは人気が出るわけだなー。
-
-

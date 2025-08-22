@@ -1,20 +1,37 @@
 ---
-title: 瑞巌寺
+authors:
+- aki
+categories: null
+date: '2009-08-12 03:08:40-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- '1600'
+- '1200'
+- jpeg
+- ホテル
+- '63'
+- 風景
+- fa
+- ea
+- bf
+- bb
+lastmod: '2009-08-12 03:08:40-07:00'
+projects: []
+recommendations:
+- /post/2010-09-04-tun-zu-xing-tutekimasita/
+- /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
+- /post/2009-08-07-pokemonxin-gan-xian/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2009-08-12 10:08:40+00:00
-lastmod: 2009-08-12 10:08:40+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: ['1600', '1200', jpeg, ホテル, '63', 風景, fa, ea, bf, bb]
-recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/,
-  /post/2009-08-07-pokemonxin-gan-xian/]
+title: 瑞巌寺
 ---
+
 歌に聞きし瑞巌寺にいってきました。雄島はあいにくの雨のため諦め。
 
 しかし、岩にしみいる蝉の声というのはこういう風景をさすのだろうなあと思いながらめぐってきました。

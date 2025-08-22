@@ -1,12 +1,27 @@
 ---
-title: 親も読みたい子供とネットの向き合い方を考える二冊
+authors:
+- aki
+categories:
+- life
+- kids
+date: '2018-06-26 13:55:48-07:00'
 description: 伊藤淳一さんの以下の記事を読んで、子供にネットの話をどう教えるのがいいのかなぁと悩んでいたので、件の記事で紹介されていた本と、そこから派生して仲間内で紹介してもらった本を読んだので紹介したいと思います。
-date: '2018-06-27T05:55:48+09:00'
-categories: [life, kids]
-authors: [aki]
-keywords: [ネット, 炎上, 子供, 伊藤, 正しく, ルール, インターネット, 正しい, 学校, 講演]
-recommendations: [/post/2017-05-25_teach-what-i-dont-know/, /post/2021-12-15-relocated-to-vancouver/,
-  /post/2008-10-11-le-pu-gayu-sii/]
+keywords:
+- ネット
+- 炎上
+- 子供
+- 伊藤
+- 正しく
+- ルール
+- インターネット
+- 正しい
+- 学校
+- 講演
+recommendations:
+- /post/2017-05-25_teach-what-i-dont-know/
+- /post/2021-12-15-relocated-to-vancouver/
+- /post/2008-10-11-le-pu-gayu-sii/
+title: 親も読みたい子供とネットの向き合い方を考える二冊
 ---
 
 “Two young girls stand reading from a book outdoors in the sun” by [Ben White](https://unsplash.com/@benwhitephotography?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

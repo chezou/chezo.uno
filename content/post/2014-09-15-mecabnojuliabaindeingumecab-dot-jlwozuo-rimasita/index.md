@@ -1,20 +1,37 @@
 ---
-title: MeCabのJuliaバインディングMeCab.jlを作りました
+authors:
+- aki
+categories: null
+date: '2014-09-15 05:09:52-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- ptr
+- mecab
+- void
+- end
+- julia
+- int
+- 構造体
+- ポインタ
+- length
+- uint
+lastmod: '2014-09-15 05:09:52-07:00'
+projects: []
+recommendations:
+- /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
+- /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/
+- /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2014-09-15 12:09:52+00:00
-lastmod: 2014-09-15 12:09:52+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [ptr, mecab, void, end, julia, int, 構造体, ポインタ, length, uint]
-recommendations: [/post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/,
-  /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/, /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/]
+title: MeCabのJuliaバインディングMeCab.jlを作りました
 ---
+
 Juliaから日本語形態素解析器として最も有名な[MeCab](https://code.google.com/p/mecab/)を使える[MeCab.jl](https://github.com/chezou/MeCab.jl)を作りました。
 
 まだ、METADATA.jlに[マージされていない](https://github.com/JuliaLang/METADATA.jl/pull/1446)のですが、きっと明日には使えるようになっていると思います。  
@@ -81,5 +98,3 @@ bicycle1885さんのこの記事を参考に、実装してみました。
 多分、Kytea.jlも書けそう。
 
 この内容を[JuliaTokyo #2](http://juliatokyo.connpass.com/event/8010/)でLTしてこようと思います。
-
-

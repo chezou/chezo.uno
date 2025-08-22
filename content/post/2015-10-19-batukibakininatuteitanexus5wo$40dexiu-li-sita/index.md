@@ -1,20 +1,37 @@
 ---
-title: バッキバキになっていたNexus5を$40で修理した
+authors:
+- aki
+categories: null
+date: '2015-10-19 01:06:18-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- ドライバー
+- 液晶
+- ガラス
+- 修理
+- jpg
+- nexus
+- フィルム
+- 適当
+- 画面
+- 途中
+lastmod: '2015-10-19 01:06:18-07:00'
+projects: []
+recommendations:
+- /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/
+- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
+- /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-10-19 08:06:18+00:00
-lastmod: 2015-10-19 08:06:18+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [ドライバー, 液晶, ガラス, 修理, jpg, nexus, フィルム, 適当, 画面, 途中]
-recommendations: [/post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/,
-  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/]
+title: バッキバキになっていたNexus5を$40で修理した
 ---
+
 ![](20151018110109.jpg)
 
 Ingress をやるときに自転車のマウンタから飛んでしまってバキバキになってしまったNexus5。 大きい画面でKindleも読みやすい！と言っていたけど、ガラスが割れてから使用率がぐっと下がっていました。
@@ -50,5 +67,3 @@ Amazonだとこれかな。
 液晶はものによってはタッチの効きが悪くなると聞いていたのですが、今回買ったものについては特に問題ありませんでした。
 
 [id:penguinco](http://blog.hatena.ne.jp/penguinco/) 先生に捧げる記事でした
-
-

@@ -1,20 +1,37 @@
 ---
-title: 勝間和代のビジネス頭を創る7つのフレームワーク力 ビジネス思考法の基本と実践
+authors:
+- aki
+categories: null
+date: '2008-10-05 05:10:01-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 論文
+- 著者
+- おすすめ
+- 長期的
+- 要点
+- 拙著
+- 思考力
+- 和代
+- 勝間
+- 読了
+lastmod: '2008-10-05 05:10:01-07:00'
+projects: []
+recommendations:
+- /post/2019-03-29_ngekkan-lambda-note-article/
+- /post/2008-06-15-ojin-nomian-qiang/
+- /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2008-10-05 12:10:01+00:00
-lastmod: 2008-10-05 12:10:01+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [論文, 著者, おすすめ, 長期的, 要点, 拙著, 思考力, 和代, 勝間, 読了]
-recommendations: [/post/2019-03-29_ngekkan-lambda-note-article/, /post/2008-06-15-ojin-nomian-qiang/,
-  /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/]
+title: 勝間和代のビジネス頭を創る7つのフレームワーク力 ビジネス思考法の基本と実践
 ---
+
 {{< amazon asin="4887596391" title="勝間和代のビジネス頭を創る7つのフレームワーク力 ビジネス思考法の基本と実践" >}}
 勝間 和代 / / ディスカヴァー・トゥエンティワン  
 ISBN : 4887596391  
@@ -32,6 +49,3 @@ ISBN : 4887596391
   
 ＊追記  
 後ろにあった参考文献を今気づいた。これは良い。表紙を付けて載せてあるので書店等でも探しやすい。
-
-
-

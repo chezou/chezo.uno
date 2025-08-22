@@ -1,21 +1,37 @@
 ---
-title: 'Machine Learning Casual Talks を開催しました #MLCT'
+authors:
+- aki
+categories: null
+date: '2014-06-07 05:06:04-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- casual
+- talks
+- 機械学習
+- 発表
+- 立場
+- 定義
+- mlct
+- カジュアル
+- テスト自動化
+- yamakatu
+lastmod: '2014-06-07 05:06:04-07:00'
+projects: []
+recommendations:
+- /post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/
+- /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
+- /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2014-06-07 12:06:04+00:00
-lastmod: 2014-06-07 12:06:04+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [casual, talks, 機械学習, 発表, 立場, 定義, mlct, カジュアル, テスト自動化, yamakatu]
-recommendations: [/post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/,
-  /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/,
-  /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
+title: 'Machine Learning Casual Talks を開催しました #MLCT'
 ---
+
 昨日6/6(金)に、クックパッドで[Machine Learning Casual Talks](http://connpass.com/event/6275/)を開催しました。  
 はじめてこの規模の勉強会を開催したので、色々とどたばたしてしまいましたが、発表・参加・準備等協力していただいた皆様ありがとうございました！
 
@@ -78,5 +94,3 @@ recommendations: [/post/2015-05-02-machine-learning-casual-talks-number-3-lue-ch
 当日最も衝撃的だった情報
 
 [https://twitter.com/AntiBayesian/status/474952576836714496](https://twitter.com/AntiBayesian/status/474952576836714496)
-
-

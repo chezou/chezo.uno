@@ -1,20 +1,37 @@
 ---
-title: 'rubyist.club はじめてました #rubyistclub'
+authors:
+- aki
+categories: null
+date: '2015-05-03 03:00:00-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 会議
+- 地域
+- ruby
+- オフライン
+- miyohide
+- podcast
+- club
+- 人数
+- ミート
+- アップ
+lastmod: '2015-05-03 03:00:00-07:00'
+projects: []
+recommendations:
+- /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/
+- /post/2015-12-30-2015nian-wozhen-rifan-tute/
+- /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2015-05-03 10:00:00+00:00
-lastmod: 2015-05-03 10:00:00+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [会議, 地域, ruby, オフライン, miyohide, podcast, club, 人数, ミート, アップ]
-recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
-  /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/]
+title: 'rubyist.club はじめてました #rubyistclub'
 ---
+
 [rubyist.club](http://rubyist.club/) というドメインが勢い余ってとれたので、podcastを始めました。[rebuild.fm](http://rebuild.fm/)でも話題になっていた、静的ファイルを置くためだけにIDCFクラウドにインスタンス立てて、nginx立ててっていう無駄なことをやっています。[^1] 
 
 もともとは、 [@miyohide](https://twitter.com/miyohide) さんと神奈川Ruby会議のポストモーテムで「トークセッション人数多かったから消化不良気味でしたね」という話から、個別にお話させていただければもっと引き出せたのかもしれないという話からスタートしました。[^2] 
@@ -34,5 +51,3 @@ recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-
 [^3]: 誤解なきよう補足すると、僕自身地域Ruby会議の開催には今後も携わっていきたいと考えていますし、その存在価値を否定するものではありません
 
 [^4]: 第二回はカエルの鳴き声に負けた...
-
-

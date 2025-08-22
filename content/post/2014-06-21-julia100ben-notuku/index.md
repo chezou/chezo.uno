@@ -1,21 +1,37 @@
 ---
-title: Julia100本ノック
+authors:
+- aki
+categories: null
+date: '2014-06-21 15:06:49-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- matlab
+- numpy
+- 関数
+- '2014'
+- '06'
+- 便利
+- 追記
+- '22'
+- ドキュメント
+- 比較
+lastmod: '2014-06-21 15:06:49-07:00'
+projects: []
+recommendations:
+- /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/
+- /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/
+- /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2014-06-21 22:06:49+00:00
-lastmod: 2014-06-21 22:06:49+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [matlab, numpy, 関数, '2014', '06', 便利, 追記, '22', ドキュメント, 比較]
-recommendations: [/post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
-  /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/,
-  /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/]
+title: Julia100本ノック
 ---
+
 [Julia vs Python: ビットコインオプションのモンテカルロシミュレーション](https://chezo.uno/post/2014-05-07-julia-vs-python-bitcoin-option)に引き続き、[100 numpy exercises](http://www.loria.fr/~rougier/teaching/numpy.100/)という、面白いnumpyの練習問題があったのでそれのJulia版を作成しました。  
 実際には46個しかないのと、numpyの便利関数がなくて挫折したものとかいくつかありますが、pythonistaな方々はオリジナルと比較してJuliaの世界に来ていただければ楽しいのではないかと思います。
 
@@ -61,5 +77,3 @@ recommendations: [/post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazep
 - [MLに投稿](https://groups.google.com/forum/#!topic/julia-users/NquQLBRWHIU)しました。結構array comprehension使えという話が多く、vectorizeしない方がいいんだよ！というツッコミが新鮮です
 
 [https://gist.github.com/chezou/5ec41ba0114370b05dcc](https://gist.github.com/chezou/5ec41ba0114370b05dcc)
-
-

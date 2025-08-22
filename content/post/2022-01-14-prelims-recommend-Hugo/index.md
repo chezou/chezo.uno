@@ -1,13 +1,29 @@
 ---
-title: prelimsを使ってHugoの記事にレコメンドを追加する
-authors: [aki]
+authors:
+- aki
+date: '2022-01-14 21:35:00-08:00'
+keywords:
+- hugo
+- 生成
+- wowchemy
+- prelims
+- レコメンド
+- キーワード
+- jekyll
+- ビルド
+- 名前
+- 記事
+lastmod: '2022-01-15 09:29:00-08:00'
+recommendations:
+- /post/2022-01-25-hugo-content-based-recommendation/
+- /post/2022-12-16-bump-wowchemy-v570/
+- /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/
 summary: HugoやJekyllの記事にレコメンドを足すためにprelimsを使った
-tags: [NLP, Python, Recommendation]
-date: 2022-01-14 22:35:00-07:00
-lastmod: 2022-01-15 10:29:00-07:00
-keywords: [hugo, 生成, wowchemy, prelims, レコメンド, キーワード, jekyll, ビルド, 名前, 記事]
-recommendations: [/post/2022-01-25-hugo-content-based-recommendation/, /post/2022-12-16-bump-wowchemy-v570/,
-  /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/]
+tags:
+- NLP
+- Python
+- Recommendation
+title: prelimsを使ってHugoの記事にレコメンドを追加する
 ---
 
 ![](https://images.unsplash.com/photo-1457369804613-52c61a468e7d?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

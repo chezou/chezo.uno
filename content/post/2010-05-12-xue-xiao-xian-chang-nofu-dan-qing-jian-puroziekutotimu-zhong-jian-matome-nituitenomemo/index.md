@@ -1,21 +1,37 @@
 ---
-title: 学校現場の負担軽減プロジェクトチーム（中間まとめ）についてのメモ
+authors:
+- aki
+categories: null
+date: '2010-05-12 14:58:43-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 調査
+- 負担
+- 教員
+- 業務
+- 文部科学省
+- 教育現場
+- 学校現場
+- 文書
+- 成績
+- 情報
+lastmod: '2010-05-12 14:58:43-07:00'
+projects: []
+recommendations:
+- /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/
+- /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/
+- /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2010-05-12 21:58:43+00:00
-lastmod: 2010-05-12 21:58:43+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [調査, 負担, 教員, 業務, 文部科学省, 教育現場, 学校現場, 文書, 成績, 情報]
-recommendations: [/post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/,
-  /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/,
-  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
+title: 学校現場の負担軽減プロジェクトチーム（中間まとめ）についてのメモ
 ---
+
 何が教育現場の問題なのかを調べたいと思ったら、この資料にたどり着きました。ざっくりとしたメモです。情報薄いです。
 
 [ 学校現  

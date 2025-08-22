@@ -1,21 +1,37 @@
 ---
-title: KyTeaを他言語で使うラッパー+αまとめ
+authors:
+- aki
+categories: null
+date: '2011-09-22 22:09:10-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- kytea
+- sinatra
+- mykytea
+- 言語モデル
+- 読み
+- 推定
+- nltk
+- 対話
+- 音声
+- python
+lastmod: '2011-09-22 22:09:10-07:00'
+projects: []
+recommendations:
+- /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
+- /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/
+- /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2011-09-23 05:09:10+00:00
-lastmod: 2011-09-23 05:09:10+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [kytea, sinatra, mykytea, 言語モデル, 読み, 推定, nltk, 対話, 音声, python]
-recommendations: [/post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
-  /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
-  /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/]
+title: KyTeaを他言語で使うラッパー+αまとめ
 ---
+
 [@neubig](http://twitter.com/neubig)さんの作られたKyTeaを他言語で利用できるラッパーですが、  
 拙作のMykytea意外にも色々とあるようなのでまとめておきます。
 
@@ -42,4 +58,3 @@ MeCabと違って読みの推定をまじめにやってくれるようです。
 - NLTK : [NLTKからKyTeaでコーパスを読み込むJPKyteaTokenizer作りました](https://chezo.uno/post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/)
 - [音声対話用言語モデル作成](http://plata.ar.media.kyoto-u.ac.jp/sasada/research/project/dialog/) ([@ssyn](http://twitter.com/ssyn)さん)
 - [KyTeaで音声対話用言語モデル あしたからがんばる ―椀屋本舗](http://d.hatena.ne.jp/caesar_wanya/20101121) ([@caesar\_wanya](http://twitter.com/caesar_wanya)さん)
-

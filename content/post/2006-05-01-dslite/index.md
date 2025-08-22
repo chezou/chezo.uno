@@ -1,20 +1,37 @@
 ---
-title: DSLite!
+authors:
+- aki
+categories: null
+date: '2006-05-01 14:46:45-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 秘書
+- 研究室
+- ds
+- 購入
+- 金曜日
+- タイ
+- 先輩
+- わけ
+- 先週
+- lite
+lastmod: '2006-05-01 14:46:45-07:00'
+projects: []
+recommendations:
+- /post/2006-03-17-uhi/
+- /post/2008-10-05-hd53r-ver-dot-8wogou-ru/
+- /post/2005-08-24-hetudohon-hetudohon/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2006-05-01 21:46:45+00:00
-lastmod: 2006-05-01 21:46:45+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [秘書, 研究室, ds, 購入, 金曜日, タイ, 先輩, わけ, 先週, lite]
-recommendations: [/post/2006-03-17-uhi/, /post/2008-10-05-hd53r-ver-dot-8wogou-ru/,
-  /post/2005-08-24-hetudohon-hetudohon/]
+title: DSLite!
 ---
+
 ついに念願のNintendoDS Liteを購入しました！   
 先週の金曜日に研究室の秘書さんがおもむろに   
   
@@ -30,5 +47,3 @@ recommendations: [/post/2006-03-17-uhi/, /post/2008-10-05-hd53r-ver-dot-8wogou-r
 その間僕使えないですし。   
   
 というわけで、今からGEOに行ってきまーす
-
-

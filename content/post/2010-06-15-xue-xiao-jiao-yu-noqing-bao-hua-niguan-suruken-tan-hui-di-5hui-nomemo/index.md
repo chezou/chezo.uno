@@ -1,21 +1,37 @@
 ---
-title: 学校教育の情報化に関する懇談会第5回のメモ
+authors:
+- aki
+categories: null
+date: '2010-06-15 14:58:48-07:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 教育
+- 意見
+- 議論
+- ict
+- 学校
+- 懇談会
+- 校務
+- 文科省
+- 学校教育
+- クラウド
+lastmod: '2010-06-15 14:58:48-07:00'
+projects: []
+recommendations:
+- /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/
+- /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/
+- /post/2010-07-05-yi-gu-gang-yan-shan-kou-er-lang-ge-chai-she-hui-tojiao-yu-gai-ge-du-liao/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: null
-date: 2010-06-15 21:58:48+00:00
-lastmod: 2010-06-15 21:58:48+00:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [教育, 意見, 議論, ict, 学校, 懇談会, 校務, 文科省, 学校教育, クラウド]
-recommendations: [/post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
-  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/,
-  /post/2010-07-05-yi-gu-gang-yan-shan-kou-er-lang-ge-chai-she-hui-tojiao-yu-gai-ge-du-liao/]
+title: 学校教育の情報化に関する懇談会第5回のメモ
 ---
+
 文科省が主催する、[学校教育の情報化に関する懇談会](http://www.mext.go.jp/a_menu/shotou/zyouhou/1292783.htm)の[第5回が6/9に開催されました](http://www.mext.go.jp/b_menu/houdou/22/05/1294349.htm)。  
 この懇談会は、世界的なICT化の流れに対して学校教育へどう適用すべきか、情報化時代の教育はどうあるべきか、ということについて議論されているものです。
 
@@ -52,5 +68,3 @@ recommendations: [/post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noy
 ・教育クラウドでの校務支援に際し、成績票などの帳票の様式の違うため全ての統一化は困難。クラウドとローカルで行うことを切り分け、クラウド側はオープンな形式にして持続可能なシステムにすべき。
 
 予算については、国主導で推進していかないと全国的に進まないという点についての意見が相次いだ。
-
-

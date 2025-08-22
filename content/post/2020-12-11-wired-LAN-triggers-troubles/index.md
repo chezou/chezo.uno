@@ -1,19 +1,36 @@
 ---
-title: メッシュWiFiが安定しないので有線LANを張り巡らせたんだが
+authors:
+- aki
+categories:
+- tech
+date: '2020-12-10 07:00:00-08:00'
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+- 有線
+- lan
+- 工事
+- バック
+- 安定
+- ホール
+- wifi
+- メッシュ
+- ソフト
+- wi-fi
+lastmod: '2020-12-10 07:00:00-08:00'
+projects: []
+recommendations:
+- /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/
+- /post/2020-04-03-microphone-for-remote-meeting/
+- /post/2017-12-23_----------------------701333a45696/
 subtitle: ''
 summary: ''
-authors: [aki]
 tags: []
-categories: [tech]
-date: 2020-12-11 00:00:00+09:00
-lastmod: 2020-12-11 00:00:00+09:00
-featured: false
-draft: false
-image: {caption: '', focal_point: '', preview_only: false}
-projects: []
-keywords: [有線, lan, 工事, バック, 安定, ホール, wifi, メッシュ, ソフト, wi-fi]
-recommendations: [/post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/,
-  /post/2020-04-03-microphone-for-remote-meeting/, /post/2017-12-23_----------------------701333a45696/]
+title: メッシュWiFiが安定しないので有線LANを張り巡らせたんだが
 ---
 
 このお話は、[pyspaアドベントカレンダー](https://adventar.org/calendars/5310)の11日目です。昨日はwozozoでした。多分彼はこの記事をチラ見して「長過ぎる。地雷乙」と言うでしょう。
