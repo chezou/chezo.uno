@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-10-08 14:00:00-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- sim
-- プラン
-- iijmio
-- シェア
-- ケース
-- iphone
-- nexus
-- 解約
-- エレクトロニクス
-- 対応
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-10-08 14:00:00-07:00'
 projects: []
-recommendations:
-- /post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/
-- /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/
-- /post/2009-05-04-ad-es-wojie-yue-surutameni/
 subtitle: ''
 summary: ''
 tags: []
 title: IIJmioの「おうちでナンバーポータビリティ」使って自宅でMNPした
+keywords: [sim, プラン, iijmio, シェア, ケース, iphone, nexus, 解約, エレクトロニクス, 対応]
+recommendations: [/post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/,
+  /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-04-ad-es-wojie-yue-surutameni/]
 ---
 
 IIJmioのファミリーシェアプランにSIMを追加する際に、9/16に始まっていた「おうちでナンバーポータビリティ」を使ってみました。

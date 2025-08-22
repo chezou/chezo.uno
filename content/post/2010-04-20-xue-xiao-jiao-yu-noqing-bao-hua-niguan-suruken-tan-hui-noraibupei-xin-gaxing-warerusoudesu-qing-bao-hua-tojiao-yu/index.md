@@ -1,35 +1,20 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-04-20 14:58:27-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 指導
-- デジタル教科書
-- ict
-- 活用
-- 懇談会
-- 授業
-- 項目
-- 能力
-- 情報
-- 情報端末
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-04-20 14:58:27-07:00'
 projects: []
-recommendations:
-- /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/
-- /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/
-- /post/2010-07-30-dezitarujiao-ke-shu-jiao-cai-xie-yi-hui-she-li-sinpoziumu-can-jia-simasita/
 subtitle: ''
 summary: ''
 tags: []
 title: 「学校教育の情報化に関する懇談会」のライブ配信が行われるそうです〜情報化と教育
+keywords: [指導, デジタル教科書, ict, 活用, 懇談会, 授業, 項目, 能力, 情報, 情報端末]
+recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
+  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/,
+  /post/2010-07-30-dezitarujiao-ke-shu-jiao-cai-xie-yi-hui-she-li-sinpoziumu-can-jia-simasita/]
 ---
 
 最近、遅ればせながら色々と教育における情報化について調べることが多いのですが、こんな懇談会が4/22(木) 16:00-行われるそうです。(配信のリンクは文科省のトップからリンクが近々張られるそうです。)

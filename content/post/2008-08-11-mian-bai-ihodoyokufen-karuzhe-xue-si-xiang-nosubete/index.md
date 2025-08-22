@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-08-11 14:49:50-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 酷い
-- 単語
-- 文芸社
-- 哲学
-- 倫理
-- おかしい
-- 言い回し
-- 具合
-- 筆者
-- 本質
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-08-11 14:49:50-07:00'
 projects: []
-recommendations:
-- /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/
-- /post/2008-10-10-luo-yu-bai-xuan-xia/
-- /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/
 subtitle: ''
 summary: ''
 tags: []
 title: 面白いほどよく分かる哲学・思想のすべて
+keywords: [酷い, 単語, 文芸社, 哲学, 倫理, おかしい, 言い回し, 具合, 筆者, 本質]
+recommendations: [/post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/, /post/2008-10-10-luo-yu-bai-xuan-xia/,
+  /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/]
 ---
 
 {{< amazon asin="4537255889" title="面白いほどよくわかる哲学・思想のすべて―人類が共有する「知」の絶対真理を読み解く (学校で教えない教科書)" >}}

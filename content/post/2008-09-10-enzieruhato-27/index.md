@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-09-10 14:49:13-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 新潮社
-- キャラクター
-- 描写
-- 行動
-- やばい
-- 家族
-- isbn
-- 展開
-- 良かっ
-- スコア
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-09-10 14:49:13-07:00'
 projects: []
-recommendations:
-- /post/2008-09-06-feng-gaqiang-kuchui-iteiru/
-- /post/2008-07-19-xi-nomo-nu-gasi-nda/
-- /post/2008-08-24-sayonaraituka/
 subtitle: ''
 summary: ''
 tags: []
 title: エンジェル・ハート(27)
+keywords: [新潮社, キャラクター, 描写, 行動, やばい, 家族, isbn, 展開, 良かっ, スコア]
+recommendations: [/post/2008-09-06-feng-gaqiang-kuchui-iteiru/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
+  /post/2008-08-24-sayonaraituka/]
 ---
 
 {{< amazon asin="4107714209" title="エンジェル・ハート 27 (27) (BUNCH COMICS)" >}}

@@ -1,25 +1,12 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: []
 date: '2017-01-15 21:55:32-08:00'
 description: このポストは、最近もやもやっと思っていることを吐き出したポエムである。厳格なファクトチェックを経たものと期待しないで欲しい。
-keywords:
-- ニュース
-- 攻撃
-- ロシア
-- facebook
-- ドイツ
-- 記事
-- こと
-- 情報
-- instant
-- 指摘
-recommendations:
-- /post/2014-12-15-number-ingress-dehurutaimunopuroezientotochu-hui-tutahua/
-- /post/2019-03-29_ngekkan-lambda-note-article/
-- /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/
 title: サイバー攻撃としてのフェイクニュース
+keywords: [ニュース, 攻撃, ロシア, facebook, ドイツ, 記事, こと, 情報, instant, 指摘]
+recommendations: [/post/2014-12-15-number-ingress-dehurutaimunopuroezientotochu-hui-tutahua/,
+  /post/2019-03-29_ngekkan-lambda-note-article/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
 ---
 
 _このポストは、最近もやもやっと思っていることを吐き出したポエムである。厳格なファクトチェックを経たものと期待しないで欲しい。_

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-05-01 04:05:24-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- パケットし放題
-- スマートフォン
-- パケット定額
-- 契約
-- 縛り
-- iphone
-- 選択肢
-- ソフトバンク
-- 段階
-- everybody
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-05-01 04:05:24-07:00'
 projects: []
-recommendations:
-- /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/
-- /post/2011-04-30-ipad2totomoniwu-liao-wi-fisupotutowogetutosuruer-tunofang-fa/
-- /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/
 subtitle: ''
 summary: ''
 tags: []
 title: iPhone for everybodyの2年縛りを解除したらパケット定額フラットにしかならなかった
+keywords: [パケットし放題, スマートフォン, パケット定額, 契約, 縛り, iphone, 選択肢, ソフトバンク, 段階, everybody]
+recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2011-04-30-ipad2totomoniwu-liao-wi-fisupotutowogetutosuruer-tunofang-fa/,
+  /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---
 
 一言で言うと、iPhone for everybodyを使ってパケット定額フル([参考](http://www.softbankmobile.co.jp/ja/news/press/2009/20090225_05/))で契約したら、パケット定額forスマートフォンに変更できなかったという話です。  

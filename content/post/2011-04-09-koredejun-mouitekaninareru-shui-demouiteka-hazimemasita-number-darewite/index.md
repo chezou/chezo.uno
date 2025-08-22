@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-04-09 15:01:23-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- woo
-- choir
-- whitacre
-- virtual
-- ツイート
-- '2.0'
-- 頻度
-- twitter
-- eric
-- nltk
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-04-09 15:01:23-07:00'
 projects: []
-recommendations:
-- /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/
-- /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/
-- /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/
 subtitle: ''
 summary: ''
 tags: []
 title: 'これで君もウィテカーになれる！？「誰でもウィテカー」はじめました #darewite'
+keywords: [woo, choir, whitacre, virtual, ツイート, '2.0', 頻度, twitter, eric, nltk]
+recommendations: [/post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
+  /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/]
 ---
 
 20110409追記：Whitacre氏が改めて[来日すると連絡いただいた](http://twitter.com/hanagoro/status/56563103596412928)そうです！[福島にも](http://twitter.com/hanagoro/status/56563939382804481)！

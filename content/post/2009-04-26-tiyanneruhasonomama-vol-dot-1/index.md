@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-04-26 14:48:20-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- どうでしょう
-- モデル
-- すばらしい
-- 北海道
-- special
-- ポップ
-- なじみ
-- 小学館
-- ファン
-- チャンネル
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-04-26 14:48:20-07:00'
 projects: []
-recommendations:
-- /post/2005-03-27-u-urusai-dot-dot-dot/
-- /post/2009-11-26-the-real-album/
-- /post/2020-07-11-mlse-summer-workshop/
 subtitle: ''
 summary: ''
 tags: []
 title: チャンネルはそのまま！Vol.1
+keywords: [どうでしょう, モデル, すばらしい, 北海道, special, ポップ, なじみ, 小学館, ファン, チャンネル]
+recommendations: [/post/2005-03-27-u-urusai-dot-dot-dot/, /post/2009-11-26-the-real-album/,
+  /post/2020-07-11-mlse-summer-workshop/]
 ---
 
 [![](https://ecx.images-amazon.com/images/I/51DmEVIjTzL._SL160_.jpg) 

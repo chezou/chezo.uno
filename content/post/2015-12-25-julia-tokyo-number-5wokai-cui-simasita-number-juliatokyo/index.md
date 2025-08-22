@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-12-25 13:02:48-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- julia
-- jl
-- .com
-- mxnet
-- juliatokyo
-- github
-- そう
-- 線形
-- オンライン
-- julialang
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-12-25 13:02:48-08:00'
 projects: []
-recommendations:
-- /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/
-- /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/
-- /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/
 subtitle: ''
 summary: ''
 tags: []
 title: 'Julia Tokyo #5を開催しました #JuliaTokyo'
+keywords: [julia, jl, .com, mxnet, juliatokyo, github, そう, 線形, オンライン, julialang]
+recommendations: [/post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/,
+  /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/]
 ---
 
 さる12/19に[JuliaTokyoの第五回](http://juliatokyo.connpass.com/event/21715/)を開催しました。[^1] 

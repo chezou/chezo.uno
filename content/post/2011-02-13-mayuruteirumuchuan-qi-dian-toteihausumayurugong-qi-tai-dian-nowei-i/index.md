@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-02-13 14:00:38-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 川崎
-- ツイッター
-- おいしい
-- お店
-- ちなみ
-- 先日
-- 徒歩
-- 入り口
-- 付近
-- インストラクター
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-02-13 14:00:38-08:00'
 projects: []
-recommendations:
-- /post/2009-07-07-qi-xi-kiyandorunaito/
-- /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
-- /post/2021-12-18-8-months-after-relocating-vancouver/
 subtitle: ''
 summary: ''
 tags: []
 title: マユールティールーム川崎店とティーハウスマユール宮崎台店の違い
+keywords: [川崎, ツイッター, おいしい, お店, ちなみ, 先日, 徒歩, 入り口, 付近, インストラクター]
+recommendations: [/post/2009-07-07-qi-xi-kiyandorunaito/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
+  /post/2021-12-18-8-months-after-relocating-vancouver/]
 ---
 
 先日、川崎のアゼリアにあるマユールティールームと、宮崎台にあるティーハウスマユールに行ってきました。写真は、宮崎台のマユールのチキンカレーです。

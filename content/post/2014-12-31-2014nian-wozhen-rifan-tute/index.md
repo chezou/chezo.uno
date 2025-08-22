@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2014-12-31 14:23:45-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 翻訳
-- rails
-- 迷惑
-- ホットエントリ
-- julia
-- output
-- 仕事
-- ingress
-- 来年
-- 技術
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-12-31 14:23:45-08:00'
 projects: []
-recommendations:
-- /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/
-- /post/2015-12-30-2015nian-wozhen-rifan-tute/
-- /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
 subtitle: ''
 summary: ''
 tags: []
 title: 2014年を振り返って
+keywords: [翻訳, rails, 迷惑, ホットエントリ, julia, output, 仕事, ingress, 来年, 技術]
+recommendations: [/post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/,
+  /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/]
 ---
 
 後数時間で終わりますが、去年書き忘れていたので書いていきます。

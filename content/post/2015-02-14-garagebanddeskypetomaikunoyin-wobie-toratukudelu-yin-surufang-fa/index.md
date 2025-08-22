@@ -1,35 +1,20 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-02-14 15:50:08-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- soundflower
-- ch
-- skype
-- linein
-- マイク
-- トラック
-- output
-- channel
-- png
-- 自分
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-02-14 15:50:08-08:00'
 projects: []
-recommendations:
-- /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/
-- /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
-- /post/2020-04-03-microphone-for-remote-meeting/
 subtitle: ''
 summary: ''
 tags: []
 title: Garagebandでskypeとマイクの音を別トラックで録音する方法
+keywords: [soundflower, ch, skype, linein, マイク, トラック, output, channel, png, 自分]
+recommendations: [/post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/,
+  /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
+  /post/2020-04-03-microphone-for-remote-meeting/]
 ---
 
 最近、rebuild.fmやwada.fmを聞いていると、自分もpodcastをはじめてみたいという気持ちが強くなってきました。

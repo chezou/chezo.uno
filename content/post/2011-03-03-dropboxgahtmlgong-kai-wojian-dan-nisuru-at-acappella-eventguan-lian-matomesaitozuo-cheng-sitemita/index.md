@@ -1,35 +1,20 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-03-03 14:00:49-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- css
-- サイト
-- カレンダー
-- マシン
-- twitter
-- 移行
-- windows
-- 随時
-- ほしかっ
-- sass
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-03-03 14:00:49-08:00'
 projects: []
-recommendations:
-- /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/
-- /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/
-- /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/
 subtitle: ''
 summary: ''
 tags: []
 title: DropboxがHTML公開を簡単にする- @acappella_event関連まとめサイト作成してみた
+keywords: [css, サイト, カレンダー, マシン, twitter, 移行, windows, 随時, ほしかっ, sass]
+recommendations: [/post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
+  /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
+  /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
 ---
 
 ## 何を作ったか？

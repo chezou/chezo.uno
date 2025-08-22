@@ -1,35 +1,18 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-02-07 04:02:01-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 和音
-- rajaton
-- 曲名
-- アレンジ
-- try
-- tone
-- 難しい
-- オリジナル
-- 宗教
-- パート
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-02-07 04:02:01-08:00'
 projects: []
-recommendations:
-- /post/2008-07-05-rajaton/
-- /post/2008-06-03-er-du-qin-qian/
-- /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
 subtitle: ''
 summary: ''
 tags: []
 title: 練馬アカペラコンテストに行ってきた
+keywords: [和音, rajaton, 曲名, アレンジ, try, tone, 難しい, オリジナル, 宗教, パート]
+recommendations: [/post/2008-07-05-rajaton/, /post/2008-06-03-er-du-qin-qian/, /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
 ---
 
 2/6に開催された[練馬区のアカペラコンテスト](http://www.neribun.or.jp/nerima/ichiran.cgi?mode=1&t=1&no=1845)に行ってきました。

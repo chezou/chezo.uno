@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2013-12-08 14:05:36-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 絵本
-- ころ
-- '81'
-- 作品
-- 子供
-- 売り上げ
-- リズム
-- ランキング
-- '82'
-- '13'
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2013-12-08 14:05:36-08:00'
 projects: []
-recommendations:
-- /post/2020-01-05-2019-best-movie/
-- /post/2017-05-25_teach-what-i-dont-know/
-- /post/2008-07-19-can-shu-gui-tou-mo-hong/
 subtitle: ''
 summary: ''
 tags: []
 title: 語感やリズムが楽しいハッとする絵本3冊
+keywords: [絵本, ころ, '81', 作品, 子供, 売り上げ, リズム, ランキング, '82', '13']
+recommendations: [/post/2020-01-05-2019-best-movie/, /post/2017-05-25_teach-what-i-dont-know/,
+  /post/2008-07-19-can-shu-gui-tou-mo-hong/]
 ---
 
 この記事は[子育て 読み聞かせ Advent Calendar 2013 - Adventar](http://www.adventar.org/calendars/165)に参加しています。

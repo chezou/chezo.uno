@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-06-09 14:54:29-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- gb
-- １６
-- office
-- 価格
-- 本数
-- スパボ
-- standard
-- professional
-- '2007'
-- ちなみ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-06-09 14:54:29-07:00'
 projects: []
-recommendations:
-- /post/2009-05-04-ad-es-wojie-yue-surutameni/
-- /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
-- /post/2007-05-10-usbdewen-kerufm-slash-amrazio/
 subtitle: ''
 summary: ''
 tags: []
 title: 新型iPhone 3G Sの価格について
+keywords: [gb, １６, office, 価格, 本数, スパボ, standard, professional, '2007', ちなみ]
+recommendations: [/post/2009-05-04-ad-es-wojie-yue-surutameni/, /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/,
+  /post/2007-05-10-usbdewen-kerufm-slash-amrazio/]
 ---
 
 [iPhone 3G Sの価格について | SoftBank](http://mb.softbank.jp/mb/iphone/iphone_3g_s/).を見てみるとやばい、やばすぎる。  

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2013-08-23 15:05:09-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- paypal
-- 楽譜
-- 返信
-- ライセンス
-- メール
-- pdf
-- idea
-- アカペラグループ
-- 支払い
-- アレンジ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2013-08-23 15:05:09-07:00'
 projects: []
-recommendations:
-- /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
-- /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
-- /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
 subtitle: ''
 summary: ''
 tags: []
 title: The Idea of Northの楽譜を買った
+keywords: [paypal, 楽譜, 返信, ライセンス, メール, pdf, idea, アカペラグループ, 支払い, アレンジ]
+recommendations: [/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
+  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/, /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
 ---
 
 オーストラリアのアカペラグループ、The Idea of Northの楽譜を少し前に購入しました。  

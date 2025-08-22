@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-11-18 13:48:25-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 女性
-- 全て
-- うち
-- 良かっ
-- 最初
-- 毛色
-- ポンド
-- フェア
-- エンターテイメント
-- 気分
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-11-18 13:48:25-08:00'
 projects: []
-recommendations:
-- /post/2008-06-15-gui-cai-xian-ru/
-- /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/
-- /post/2008-08-24-sayonaraituka/
 subtitle: ''
 summary: ''
 tags: []
 title: 愛がいない部屋
+keywords: [女性, 全て, うち, 良かっ, 最初, 毛色, ポンド, フェア, エンターテイメント, 気分]
+recommendations: [/post/2008-06-15-gui-cai-xian-ru/, /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/,
+  /post/2008-08-24-sayonaraituka/]
 ---
 
 {{< amazon asin="4087463044" title="愛がいない部屋 (集英社文庫 い 47-5)" >}}

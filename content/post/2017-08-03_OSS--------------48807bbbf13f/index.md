@@ -1,29 +1,13 @@
 ---
-aliases:
-- /post/2017-08-03_oss-48807bbbf13f/
-authors:
-- aki
-categories:
-- machine_learaning
-- OSS
+aliases: [/post/2017-08-03_oss-48807bbbf13f/]
+authors: [aki]
+categories: [machine_learaning, OSS]
 date: '2017-08-02 11:29:59-07:00'
 description: 英語版はこちら。
-keywords:
-- 論文
-- 機械学習
-- アルゴリズム
-- 時代
-- 実装
-- deep learning
-- アカデミア
-- 投稿
-- 先端
-- フレームワーク
-recommendations:
-- /post/2017-05-26_public-dataset/
-- /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/
-- /post/2019-03-29_ngekkan-lambda-note-article/
 title: OSSベースの機械学習が強い理由
+keywords: [論文, 機械学習, アルゴリズム, 時代, 実装, deep learning, アカデミア, 投稿, 先端, フレームワーク]
+recommendations: [/post/2017-05-26_public-dataset/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/,
+  /post/2019-03-29_ngekkan-lambda-note-article/]
 ---
 
 _英語版は_[_こちら_](https://chezo.uno/blog/2017-08-03_why-oss-based-machine-learning-is-good-3ab45a1a5e52/)_

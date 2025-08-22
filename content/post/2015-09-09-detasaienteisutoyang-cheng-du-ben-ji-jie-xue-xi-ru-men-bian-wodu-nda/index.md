@@ -1,35 +1,20 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-09-09 15:14:09-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 特集
-- 機械学習
-- 入門
-- 読本
-- 比戸
-- データサイエンティスト
-- 養成
-- 福島
-- シリーズ
-- ソフトウェア
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-09-09 15:14:09-07:00'
 projects: []
-recommendations:
-- /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/
-- /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/
-- /post/2017-08-03_oss--------------48807bbbf13f/
 subtitle: ''
 summary: ''
 tags: []
 title: 「データサイエンティスト養成読本 機械学習入門編」を読んだ
+keywords: [特集, 機械学習, 入門, 読本, 比戸, データサイエンティスト, 養成, 福島, シリーズ, ソフトウェア]
+recommendations: [/post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/,
+  /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/,
+  /post/2017-08-03_oss--------------48807bbbf13f/]
 ---
 
 ![](20150906164556.jpg)

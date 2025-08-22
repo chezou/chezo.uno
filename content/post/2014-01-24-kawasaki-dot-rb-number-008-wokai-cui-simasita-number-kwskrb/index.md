@@ -1,36 +1,19 @@
 ---
-authors:
-- aki
-categories:
-- ruby
+authors: [aki]
+categories: [ruby]
 date: '2014-01-24 14:05:59-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- '383'
-- 科学
-- '382'
-- 計算
-- ruby
-- ベンチマーク
-- 翻訳
-- numpy
-- パーフェクト
-- python
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-01-24 14:05:59-08:00'
 projects: []
-recommendations:
-- /post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/
-- /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/
-- /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/
 subtitle: ''
 summary: ''
 tags: []
 title: 'kawasaki.rb #008 を開催しました #kwskrb'
+keywords: ['383', 科学, '382', 計算, ruby, ベンチマーク, 翻訳, numpy, パーフェクト, python]
+recommendations: [/post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/,
+  /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/]
 ---
 
 2014/1/22にkawasaki.rbの第8回ミートアップを開催しました。

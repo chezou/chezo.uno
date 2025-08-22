@@ -1,35 +1,20 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-10-30 14:51:10-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 楽譜
-- the real group
-- 展開
-- シンガー
-- cappella
-- acapuluco
-- それから
-- a cappella
-- 今回
-- real
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-10-30 14:51:10-07:00'
 projects: []
-recommendations:
-- /post/2009-04-13-it-dont-mean-a-thing/
-- /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
-- /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
 subtitle: ''
 summary: ''
 tags: []
 title: a-cappella.comから注文の品が届いた
+keywords: [楽譜, the real group, 展開, シンガー, cappella, acapuluco, それから, a cappella, 今回,
+  real]
+recommendations: [/post/2009-04-13-it-dont-mean-a-thing/, /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
+  /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
 ---
 
 [a-cappella.com](http://www.a-cappella.com)  

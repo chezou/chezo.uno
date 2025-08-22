@@ -1,36 +1,19 @@
 ---
-authors:
-- aki
-categories:
-- ruby
+authors: [aki]
+categories: [ruby]
 date: '2013-10-06 05:10:10-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- websocket
-- lt
-- tokuda
-- morph
-- sinatra
-- 形態素解析
-- kytea
-- minori
-- 通信
-- リアルタイム
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2013-10-06 05:10:10-07:00'
 projects: []
-recommendations:
-- /post/2012-11-10-websocketwoshi-tuteriarutaimunixing-tai-su-jie-xi-wosurumorph-websocketwozuo-tutemita/
-- /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
-- /post/2014-04-26-kawasaki-dot-rb-number-011-wokai-cui-simasita-number-kwskrb/
 subtitle: ''
 summary: ''
 tags: []
 title: 'Kawasaki.rb #004を開催しました #kwskrb'
+keywords: [websocket, lt, tokuda, morph, sinatra, 形態素解析, kytea, minori, 通信, リアルタイム]
+recommendations: [/post/2012-11-10-websocketwoshi-tuteriarutaimunixing-tai-su-jie-xi-wosurumorph-websocketwozuo-tutemita/,
+  /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/, /post/2014-04-26-kawasaki-dot-rb-number-011-wokai-cui-simasita-number-kwskrb/]
 ---
 
 9/25(水)にKawsaki.rbの第4回ミートアップを行いました。  

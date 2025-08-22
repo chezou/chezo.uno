@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2013-08-25 15:05:14-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- ll
-- 勉強会
-- アンチパターン
-- セッション
-- トラック
-- プレゼンテーション
-- deploy
-- 参加
-- 開催
-- メリット
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2013-08-25 15:05:14-07:00'
 projects: []
-recommendations:
-- /post/2015-12-30-2015nian-wozhen-rifan-tute/
-- /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/
-- /post/2022-06-18-kawasaki rb 9 years reflection/
 subtitle: ''
 summary: ''
 tags: []
 title: LLまつりに参加しました
+keywords: [ll, 勉強会, アンチパターン, セッション, トラック, プレゼンテーション, deploy, 参加, 開催, メリット]
+recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
+  /post/2022-06-18-kawasaki rb 9 years reflection/]
 ---
 
 年に一度の軽量言語のイベント、LLまつりに行ってきました。

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-07-05 14:45:04-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- rajaton
-- アカペラ
-- 盆休み
-- 小難しい
-- うらやましい
-- 系統
-- メロディー
-- 進行
-- 祭り
-- 韓国
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-07-05 14:45:04-07:00'
 projects: []
-recommendations:
-- /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
-- /post/2009-08-12-masa-festazhong-zhi/
-- /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/
 subtitle: ''
 summary: ''
 tags: []
 title: Rajaton
+keywords: [rajaton, アカペラ, 盆休み, 小難しい, うらやましい, 系統, メロディー, 進行, 祭り, 韓国]
+recommendations: [/post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/, /post/2009-08-12-masa-festazhong-zhi/,
+  /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/]
 ---
 
 うひょ、こういう系統のアカペラはたまらんわぁ。  

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-05-12 14:58:37-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 教科書
-- イギリス
-- 義務
-- フランス
-- 韓国
-- 欧米
-- 台湾
-- 試験
-- アメリカ
-- 使用
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-05-12 14:58:37-07:00'
 projects: []
-recommendations:
-- /post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/
-- /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/
-- /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/
 subtitle: ''
 summary: ''
 tags: []
 title: 教科書の国際比較された報告書についてのメモ
+keywords: [教科書, イギリス, 義務, フランス, 韓国, 欧米, 台湾, 試験, アメリカ, 使用]
+recommendations: [/post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/,
+  /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/, /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/]
 ---
 
 [第３期科学技術基本計画  

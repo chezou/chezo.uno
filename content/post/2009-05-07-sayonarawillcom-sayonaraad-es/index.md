@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-05-07 14:53:25-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- アップデート
-- ad
-- 結論
-- es
-- 魅力
-- 感謝
-- iphone
-- 総合
-- 不満
-- フリーズ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-05-07 14:53:25-07:00'
 projects: []
-recommendations:
-- /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/
-- /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/
-- /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/
 subtitle: ''
 summary: ''
 tags: []
 title: さよならWillcom、さよならAd[es]
+keywords: [アップデート, ad, 結論, es, 魅力, 感謝, iphone, 総合, 不満, フリーズ]
+recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/,
+  /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---
 
 GW中ずっと悩んでいた案件に解を出しました。友人たちには感謝感謝。

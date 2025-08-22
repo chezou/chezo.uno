@@ -1,27 +1,12 @@
 ---
-authors:
-- aki
-categories:
-- kids
-- life
+authors: [aki]
+categories: [kids, life]
 date: '2017-05-24 18:07:52-07:00'
 description: 最近、子供にルビィのぼうけんやスクラッチの本を買ったら子供が読んでとよくせがまれるようになった。
-keywords:
-- センサー
-- 子供
-- コンピュータ
-- プログラミング
-- アマゾン
-- amzn
-- スクラッチ
-- 概念
-- ポイント還元
-- 獲得
-recommendations:
-- /post/2018-06-27_internet-for-kids/
-- /post/2013-12-08-yu-gan-yarizumugale-siihatutosuruhui-ben-3ce/
-- /post/2017-12-23_----------------------701333a45696/
 title: 体験したことのない概念を教えるということ
+keywords: [センサー, 子供, コンピュータ, プログラミング, アマゾン, amzn, スクラッチ, 概念, ポイント還元, 獲得]
+recommendations: [/post/2018-06-27_internet-for-kids/, /post/2013-12-08-yu-gan-yarizumugale-siihatutosuruhui-ben-3ce/,
+  /post/2017-12-23_----------------------701333a45696/]
 ---
 
 最近、子供にルビィのぼうけんやスクラッチの本を買ったら子供が読んでとよくせがまれるようになった。

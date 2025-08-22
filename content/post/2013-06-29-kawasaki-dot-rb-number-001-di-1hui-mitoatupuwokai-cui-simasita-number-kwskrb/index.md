@@ -1,36 +1,19 @@
 ---
-authors:
-- aki
-categories:
-- ruby
+authors: [aki]
+categories: [ruby]
 date: '2013-06-28 21:06:14-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- hash
-- gc
-- ruby
-- hadoop
-- 遅い
-- 拡張
-- rb
-- python
-- ライブラリ
-- kawasaki
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2013-06-28 21:06:14-07:00'
 projects: []
-recommendations:
-- /post/2022-06-18-kawasaki rb 9 years reflection/
-- /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/
-- /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/
 subtitle: ''
 summary: ''
 tags: []
 title: 'Kawasaki.rb  #001 第1回ミートアップを開催しました #kwskrb'
+keywords: [hash, gc, ruby, hadoop, 遅い, 拡張, rb, python, ライブラリ, kawasaki]
+recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/,
+  /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/]
 ---
 
 6/26にKawasaki.rbの第1回ミートアップを開催しました。

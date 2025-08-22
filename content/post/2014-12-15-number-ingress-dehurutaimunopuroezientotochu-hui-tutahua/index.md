@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2014-12-15 07:20:00-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- エージェント
-- ingress
-- コミュニティ
-- ポータル
-- 活動
-- darsana
-- レベル
-- 地域
-- cf
-- 今日
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-12-15 07:20:00-08:00'
 projects: []
-recommendations:
-- /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/
-- /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/
-- /post/2015-12-30-2015nian-wozhen-rifan-tute/
 subtitle: ''
 summary: ''
 tags: []
 title: '#ingress でフルタイムのプロエージェントと出会った話'
+keywords: [エージェント, ingress, コミュニティ, ポータル, 活動, darsana, レベル, 地域, cf, 今日]
+recommendations: [/post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
+  /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/, /post/2015-12-30-2015nian-wozhen-rifan-tute/]
 ---
 
 この記事は[Ingress Advent Calendar](http://www.adventar.org/calendars/375)の15日目の記事です。 昨日は[@kwappa](https://twitter.com/kwappa)さんの [#ingress のイベント #Darsana XM Anomaly Tokyo に参加してきたよ！ - かっぱラクガキ帳](http://kwappa.hatenablog.com/entry/2014/12/14/111225) でした。

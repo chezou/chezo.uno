@@ -1,36 +1,19 @@
 ---
-authors:
-- aki
-categories:
-- ruby
+authors: [aki]
+categories: [ruby]
 date: '2014-03-30 15:06:20-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 翻訳
-- jekyll
-- ドキュメント
-- kawasaki
-- rb
-- リポジトリ
-- aki
-- '300'
-- 本家
-- ariga
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-03-30 15:06:20-07:00'
 projects: []
-recommendations:
-- /post/2014-12-31-2014nian-wozhen-rifan-tute/
-- /post/2022-06-18-kawasaki rb 9 years reflection/
-- /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/
 subtitle: ''
 summary: ''
 tags: []
 title: 'kawasaki.rb #010 を開催しました #kwskrb'
+keywords: [翻訳, jekyll, ドキュメント, kawasaki, rb, リポジトリ, aki, '300', 本家, ariga]
+recommendations: [/post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2022-06-18-kawasaki
+    rb 9 years reflection/, /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/]
 ---
 
 kawasaki.rbもいよいよ10回目を開催してきました。\

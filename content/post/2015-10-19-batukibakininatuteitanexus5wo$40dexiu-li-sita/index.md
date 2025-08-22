@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-10-19 01:06:18-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- ドライバー
-- 液晶
-- ガラス
-- 修理
-- jpg
-- nexus
-- フィルム
-- 適当
-- 画面
-- 途中
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-10-19 01:06:18-07:00'
 projects: []
-recommendations:
-- /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/
-- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
-- /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/
 subtitle: ''
 summary: ''
 tags: []
 title: バッキバキになっていたNexus5を$40で修理した
+keywords: [ドライバー, 液晶, ガラス, 修理, jpg, nexus, フィルム, 適当, 画面, 途中]
+recommendations: [/post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/,
+  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/]
 ---
 
 ![](20151018110109.jpg)

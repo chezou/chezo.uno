@@ -1,36 +1,19 @@
 ---
-authors:
-- aki
-categories:
-- Year review
+authors: [aki]
+categories: [Year review]
 date: '2020-12-31 05:06:15-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 物語
-- mlse
-- 配信
-- 活動
-- 漫画
-- オンライン
-- oss
-- あと
-- マイク
-- ファンタジー
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2020-12-31 05:06:15-08:00'
 projects: []
-recommendations:
-- /post/2022-07-15-finished-mlse-infra-wg/
-- /post/2020-11-10-mlse-conference/
-- /post/2020-07-11-mlse-summer-workshop/
 subtitle: ''
 summary: ''
 tags: []
 title: 2020年を振り返って
+keywords: [物語, mlse, 配信, 活動, 漫画, オンライン, oss, あと, マイク, ファンタジー]
+recommendations: [/post/2022-07-15-finished-mlse-infra-wg/, /post/2020-11-10-mlse-conference/,
+  /post/2020-07-11-mlse-summer-workshop/]
 ---
 
 久しぶりの年末の振り返りです。振り返ってみると[2017年以来](https://chezo.uno/post/2017-12-31_2017-c4901627b12d/)みたいですね。

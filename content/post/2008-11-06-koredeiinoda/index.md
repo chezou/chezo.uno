@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-11-06 13:48:31-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 昭和
-- 戦時
-- 戦後
-- 春秋
-- 文藝
-- ばあ
-- 子どもたち
-- 子ども
-- 時代
-- 面白い
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-11-06 13:48:31-08:00'
 projects: []
-recommendations:
-- /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/
-- /post/2008-07-19-xi-nomo-nu-gasi-nda/
-- /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/
 subtitle: ''
 summary: ''
 tags: []
 title: これでいいのだ
+keywords: [昭和, 戦時, 戦後, 春秋, 文藝, ばあ, 子どもたち, 子ども, 時代, 面白い]
+recommendations: [/post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
+  /post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---
 
 {{< amazon asin="4167753278" title="これでいいのだ―赤塚不二夫自叙伝 (文春文庫 あ 50-1)" >}}

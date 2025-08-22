@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-05-24 14:54:02-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- クロノトリガー
-- アレンジ
-- 康典
-- 光田
-- 原曲
-- シーン
-- 音質
-- 作曲
-- メドレー
-- time
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-05-24 14:54:02-07:00'
 projects: []
-recommendations:
-- /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/
-- /post/2008-06-03-er-du-qin-qian/
-- /post/2009-04-13-it-dont-mean-a-thing/
 subtitle: ''
 summary: ''
 tags: []
 title: クロノトリガーの「時の回廊」が名曲すぎる
+keywords: [クロノトリガー, アレンジ, 康典, 光田, 原曲, シーン, 音質, 作曲, メドレー, time]
+recommendations: [/post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/,
+  /post/2008-06-03-er-du-qin-qian/, /post/2009-04-13-it-dont-mean-a-thing/]
 ---
 
 あまりそう思ってなかったんですが、聞いてみてどのシーンで使われていたのか思い出せず検索してみたら、こんな動画が出てきました。  

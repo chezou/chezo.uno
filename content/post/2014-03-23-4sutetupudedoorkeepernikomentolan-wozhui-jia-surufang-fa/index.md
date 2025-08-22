@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2014-03-23 15:06:15-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- doorkeeper
-- '383'
-- '382'
-- site
-- 入力
-- 情報
-- add
-- クリック
-- アカウント
-- 画面
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-03-23 15:06:15-07:00'
 projects: []
-recommendations:
-- /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/
-- /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/
-- /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
 subtitle: ''
 summary: ''
 tags: []
 title: 4ステップでDoorkeeperにコメント欄を追加する方法
+keywords: [doorkeeper, '383', '382', site, 入力, 情報, add, クリック, アカウント, 画面]
+recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/,
+  /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/, /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/]
 ---
 
 ![画像](e382b9e382afe383aae383bce383b3e382b7e383a7e38383e38388-2014-03-23-22-22-17.png)

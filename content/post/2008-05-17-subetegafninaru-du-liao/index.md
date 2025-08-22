@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-05-17 00:05:00-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 森博嗣
-- ミステリー
-- シリーズ
-- 東野
-- 圭吾
-- 読了
-- 嫌い
-- 深く
-- 続き
-- 学生
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-05-17 00:05:00-07:00'
 projects: []
-recommendations:
-- /post/2008-10-02-pahuekutoburudu-liao/
-- /post/2008-08-24-sayonaraituka/
-- /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/
 subtitle: ''
 summary: ''
 tags: []
 title: 「すべてがFになる」読了
+keywords: [森博嗣, ミステリー, シリーズ, 東野, 圭吾, 読了, 嫌い, 深く, 続き, 学生]
+recommendations: [/post/2008-10-02-pahuekutoburudu-liao/, /post/2008-08-24-sayonaraituka/,
+  /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/]
 ---
 
 森博嗣の「すべてがFになる」を読了した。  

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-05-16 14:53:46-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- マウント
-- volume
-- photo
-- nas
-- mac
-- 自動
-- 入手
-- それぞれ
-- 方法
-- 状態
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-05-16 14:53:46-07:00'
 projects: []
-recommendations:
-- /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/
-- /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/
-- /post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/
 subtitle: ''
 summary: ''
 tags: []
 title: Apple storeがWe'll back soonに……
+keywords: [マウント, volume, photo, nas, mac, 自動, 入手, それぞれ, 方法, 状態]
+recommendations: [/post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/,
+  /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/, /post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/]
 ---
 
 もうすぐ、新型iPhoneだとかiPod touchの発表なんでしょうね。amazonでも32G touchが20000円引きで売られていることですし。

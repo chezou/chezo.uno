@@ -1,26 +1,13 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: []
 date: '2018-12-15 22:06:00-08:00'
 description: この記事はpyspa Advenct calenderの17日目です。
-keywords:
-- コンピュータ
-- lib
-- 疑問
-- メッセージ
-- やりとり
-- 人間
-- pc
-- エンジニア
-- github
-- 連想
 lastmod: '2018-12-15 22:06:00-08:00'
-recommendations:
-- /post/2017-05-25_teach-what-i-dont-know/
-- /post/2008-06-01-nantoiunu-li-noren/
-- /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/
 title: あなたの知らない煽りの世界
+keywords: [コンピュータ, lib, 疑問, メッセージ, やりとり, 人間, pc, エンジニア, github, 連想]
+recommendations: [/post/2017-05-25_teach-what-i-dont-know/, /post/2008-06-01-nantoiunu-li-noren/,
+  /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/]
 ---
 
 この記事は[pyspa Advenct calender](https://adventar.org/calendars/3018)の17日目です。

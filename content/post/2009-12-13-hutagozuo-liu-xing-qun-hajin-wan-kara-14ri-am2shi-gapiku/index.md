@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-12-13 13:57:27-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- あたたかい
-- 難しい
-- 留学生
-- 特集
-- ピーク
-- 発音
-- 曇り
-- 類似
-- 午前
-- '2009'
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-12-13 13:57:27-08:00'
 projects: []
-recommendations:
-- /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/
-- /post/2011-04-07-soredemotake6halai-ri-suru/
-- /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
 subtitle: ''
 summary: ''
 tags: []
 title: ふたご座流星群は今晩から。14日AM2時がピーク
+keywords: [あたたかい, 難しい, 留学生, 特集, ピーク, 発音, 曇り, 類似, 午前, '2009']
+recommendations: [/post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/,
+  /post/2011-04-07-soredemotake6halai-ri-suru/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
 ---
 
 前回のしし座流星群の時には逃してしまったので、今回こそはきちんと押さえておこうと思います。[  

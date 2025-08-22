@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-04-09 15:01:28-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 福島
-- 祭典
-- hanagoro
-- 希望
-- 作曲家
-- '2011'
-- 方々
-- 素晴らしい
-- 合唱
-- こと
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-04-09 15:01:28-07:00'
 projects: []
-recommendations:
-- /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/
-- /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/
-- /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
 subtitle: ''
 summary: ''
 tags: []
 title: エリック・ウィテカー氏、予定通り来日！
+keywords: [福島, 祭典, hanagoro, 希望, 作曲家, '2011', 方々, 素晴らしい, 合唱, こと]
+recommendations: [/post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/, /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/,
+  /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
 ---
 
 合唱指揮者であり作曲家でもある、[@hanagoro](http://twitter.com/hanagoro) さんによると、[@ericwhitacre](http://twitter.com/ericwhitacre) ことエリック・ウィテカー氏の、[合唱の祭典2011](https://www.google.com/calendar/b/0/render?eid=cHBocDdpdGRsMHNhZzZoM280aXRvNDdiZGsgYWNhcHBlbGxhLmV2ZW50QG0&gsessionid=OK&sf=true&output=xml)への来日が予定通り行われることが明らかになりました。(@hanagoroさんありがとうございます！)  

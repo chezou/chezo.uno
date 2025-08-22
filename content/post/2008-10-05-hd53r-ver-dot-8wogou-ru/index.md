@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-10-05 05:10:00-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- '53'
-- hd
-- sa
-- hfi
-- '010'
-- ノイズ
-- '700'
-- 購入
-- アンプ
-- わけ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-10-05 05:10:00-07:00'
 projects: []
-recommendations:
-- /post/2008-10-28-mai-tutesimatuta/
-- /post/2008-09-14-hetudohonwu-se-sitahi/
-- /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
 subtitle: ''
 summary: ''
 tags: []
 title: HD53R Ver.8を購入
+keywords: ['53', hd, sa, hfi, '010', ノイズ, '700', 購入, アンプ, わけ]
+recommendations: [/post/2008-10-28-mai-tutesimatuta/, /post/2008-09-14-hetudohonwu-se-sitahi/,
+  /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
 ---
 
 2chではとことん評判のよろしくないC.E.Cの[HD53R Ver.8](http://www.cec-web.co.jp/products/amp/hd53r/hd53r.html)を購入しました。  

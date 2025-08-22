@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2005-08-17 02:08:00-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 解釈
-- 連祷
-- 連想
-- 宇宙
-- 妥当
-- 三善晃
-- シリーズ
-- 明日
-- 先生
-- 普通
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2005-08-17 02:08:00-07:00'
 projects: []
-recommendations:
-- /post/2008-06-03-er-du-qin-qian/
-- /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/
-- /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/
 subtitle: ''
 summary: ''
 tags: []
 title: まじめな？電波系Songs
+keywords: [解釈, 連祷, 連想, 宇宙, 妥当, 三善晃, シリーズ, 明日, 先生, 普通]
+recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/,
+  /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/]
 ---
 
 [素数の歌](http://homepage2.nifty.com/hougi/contents/prime.html)らしいですよ。

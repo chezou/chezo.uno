@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2017-01-19 14:17:07-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 配列
-- キーボード
-- cmd
-- 英数
-- 単体
-- jis
-- international
-- keyboard
-- ime
-- anker
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2017-01-19 14:17:07-08:00'
 projects: []
-recommendations:
-- /post/2008-06-01-nantoiunu-li-noren/
-- /post/2012-10-31-amazonno1gb-slash-1yuan-sutoreziglacierwokomandoraindeshi-uglacier-cmdnoshi-ifang/
-- /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
 subtitle: ''
 summary: ''
 tags: []
 title: macのJIS配列のキーボードをKarabiner使わずにUS配列にする
+keywords: [配列, キーボード, cmd, 英数, 単体, jis, international, keyboard, ime, anker]
+recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2012-10-31-amazonno1gb-slash-1yuan-sutoreziglacierwokomandoraindeshi-uglacier-cmdnoshi-ifang/,
+  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/]
 ---
 
 macOS Sierraに上げる前に、Karabinerが動かない問題をなんとかしたいと思っていました。 El capitanでちゃんと検証してから上げないと、色んな人みたいに死ぬなと思って[Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements)に移行できるか検証しました。

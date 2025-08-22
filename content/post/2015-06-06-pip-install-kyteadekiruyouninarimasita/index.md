@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-06-06 10:14:41-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- gem
-- pypi
-- デビュー
-- python
-- rubyist
-- documentation
-- setup
-- swig
-- kytea
-- パッケージ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-06-06 10:14:41-07:00'
 projects: []
-recommendations:
-- /post/2017-08-26_python------------------dc8d8f2fe989/
-- /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/
-- /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/
 subtitle: ''
 summary: ''
 tags: []
 title: pip install kyteaできるようになりました
+keywords: [gem, pypi, デビュー, python, rubyist, documentation, setup, swig, kytea, パッケージ]
+recommendations: [/post/2017-08-26_python------------------dc8d8f2fe989/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
+  /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/]
 ---
 
 先月のkawasaki.rbで、Rubyistなのにgemより先にPypiデビューしましたという話をしました。

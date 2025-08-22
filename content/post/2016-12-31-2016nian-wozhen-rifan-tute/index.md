@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2016-12-31 08:11:50-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 転職
-- コード
-- tabula
-- こと
-- 今年
-- もう少し
-- rebuild
-- 激動
-- データサイエンス
-- アウトプット
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2016-12-31 08:11:50-08:00'
 projects: []
-recommendations:
-- /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/
-- /post/2015-12-30-2015nian-wozhen-rifan-tute/
-- /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/
 subtitle: ''
 summary: ''
 tags: []
 title: 2016年を振り返って
+keywords: [転職, コード, tabula, こと, 今年, もう少し, rebuild, 激動, データサイエンス, アウトプット]
+recommendations: [/post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
+  /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/]
 ---
 
 ブルガリアンスクワットをして筋肉痛でプルプルしています。大晦日も元旦もほぼDMM英会話の予定しかありません。

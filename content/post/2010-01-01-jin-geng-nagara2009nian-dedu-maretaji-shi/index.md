@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-01-01 01:01:07-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- music
-- iphone
-- アクセス
-- simplify
-- '2009'
-- post
-- ad
-- es
-- '05'
-- 移行
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-01-01 01:01:07-08:00'
 projects: []
-recommendations:
-- /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/
-- /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
-- /post/2009-05-07-sayonarawillcom-sayonaraad-es/
 subtitle: ''
 summary: ''
 tags: []
 title: 今更ながら2009年で読まれた記事
+keywords: [music, iphone, アクセス, simplify, '2009', post, ad, es, '05', 移行]
+recommendations: [/post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/,
+  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
 ---
 
 あけましておめでとうございます。今年もよろしくお願いします。

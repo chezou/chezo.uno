@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-11-06 13:48:36-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 音楽
-- 面白い
-- 違和感
-- 曲線
-- 専門家
-- ターゲット
-- 仕方ない
-- 講談社
-- 実験
-- 数学
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-11-06 13:48:36-08:00'
 projects: []
-recommendations:
-- /post/2008-07-06-nodamekantabire18-20/
-- /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/
-- /post/2008-10-10-tiisanatiisanawang-yang/
 subtitle: ''
 summary: ''
 tags: []
 title: 音律と音階の科学
+keywords: [音楽, 面白い, 違和感, 曲線, 専門家, ターゲット, 仕方ない, 講談社, 実験, 数学]
+recommendations: [/post/2008-07-06-nodamekantabire18-20/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/,
+  /post/2008-10-10-tiisanatiisanawang-yang/]
 ---
 
 {{< amazon asin="4062575671" title="音律と音階の科学―ドレミ…はどのようにして生まれたか (ブルーバックス 1567)" >}}

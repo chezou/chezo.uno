@@ -1,36 +1,20 @@
 ---
-authors:
-- aki
-categories:
-- ruby
+authors: [aki]
+categories: [ruby]
 date: '2014-04-26 15:06:31-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- sinatra
-- 組込み
-- snowcrush
-- 変数
-- js
-- 次回
-- rails
-- kawasaki
-- rb
-- 水曜
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-04-26 15:06:31-07:00'
 projects: []
-recommendations:
-- /post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/
-- /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
-- /post/2022-06-18-kawasaki rb 9 years reflection/
 subtitle: ''
 summary: ''
 tags: []
 title: 'kawasaki.rb #011 を開催しました #kwskrb'
+keywords: [sinatra, 組込み, snowcrush, 変数, js, 次回, rails, kawasaki, rb, 水曜]
+recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/,
+  /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/, /post/2022-06-18-kawasaki
+    rb 9 years reflection/]
 ---
 
 4/23に[kawasaki.rb #011](http://kawasakirb.doorkeeper.jp/events/10187)を開催しました。  

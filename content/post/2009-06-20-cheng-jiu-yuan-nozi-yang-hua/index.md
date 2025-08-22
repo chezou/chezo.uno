@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-06-20 00:06:13-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- '1600'
-- '1200'
-- jpeg
-- アバウト
-- fa
-- ea
-- '69'
-- dd
-- '56'
-- '41'
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-06-20 00:06:13-07:00'
 projects: []
-recommendations:
-- /post/2010-09-04-tun-zu-xing-tutekimasita/
-- /post/2009-08-12-rui-yan-si/
-- /post/2009-08-07-pokemonxin-gan-xian/
 subtitle: ''
 summary: ''
 tags: []
 title: 成就院の紫陽花
+keywords: ['1600', '1200', jpeg, アバウト, fa, ea, '69', dd, '56', '41']
+recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-08-12-rui-yan-si/,
+  /post/2009-08-07-pokemonxin-gan-xian/]
 ---
 
 激混みの江ノ電に乗って鎌倉は成就院にきています。  

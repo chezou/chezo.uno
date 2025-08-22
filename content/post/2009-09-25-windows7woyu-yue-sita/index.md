@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-09-25 14:55:49-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- professional
-- gigazine
-- 録画
-- アナログ
-- チューナー
-- rc
-- 模様
-- 移行
-- windows
-- home
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-09-25 14:55:49-07:00'
 projects: []
-recommendations:
-- /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/
-- /post/2009-10-26-memo-windows7yong-dong-zuo-que-ren-xi-rinku/
-- /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
 subtitle: ''
 summary: ''
 tags: []
 title: Windows7を予約した
+keywords: [professional, gigazine, 録画, アナログ, チューナー, rc, 模様, 移行, windows, home]
+recommendations: [/post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/, /post/2009-10-26-memo-windows7yong-dong-zuo-que-ren-xi-rinku/,
+  /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/]
 ---
 
 GIGAZINEを読んでいたら、[こんな記事](http://gigazine.net/index.php?/news/comments/20090925_windows_7/)に触発されて予約してしまいました。  

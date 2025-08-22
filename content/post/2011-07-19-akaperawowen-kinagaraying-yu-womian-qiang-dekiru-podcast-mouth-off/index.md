@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-07-19 04:07:50-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- アカペラ
-- podcast
-- 番組
-- 英語
-- 紹介
-- 毎週
-- ジャンル
-- アカペラー
-- 曲名
-- サークル
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-07-19 04:07:50-07:00'
 projects: []
-recommendations:
-- /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/
-- /post/2008-10-11-le-pu-gayu-sii/
-- /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/
 subtitle: ''
 summary: ''
 tags: []
 title: アカペラを聞きながら英語を勉強できる！？Podcast- Mouth off
+keywords: [アカペラ, podcast, 番組, 英語, 紹介, 毎週, ジャンル, アカペラー, 曲名, サークル]
+recommendations: [/post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/,
+  /post/2008-10-11-le-pu-gayu-sii/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
 ---
 
 [![](mouthoff.png)](http://www.mouthoffshow.com/)

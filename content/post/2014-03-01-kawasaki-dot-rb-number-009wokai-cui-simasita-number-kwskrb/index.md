@@ -1,36 +1,20 @@
 ---
-authors:
-- aki
-categories:
-- ruby
+authors: [aki]
+categories: [ruby]
 date: '2014-03-01 04:03:51-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- pandas
-- foo
-- hash
-- ランキング
-- org
-- range
-- obj
-- aflc
-- rb
-- jp
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-03-01 04:03:51-08:00'
 projects: []
-recommendations:
-- /post/2013-06-29-kawasaki-dot-rb-number-001-di-1hui-mitoatupuwokai-cui-simasita-number-kwskrb/
-- /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/
-- /post/2022-06-18-kawasaki rb 9 years reflection/
 subtitle: ''
 summary: ''
 tags: []
 title: 'kawasaki.rb #009を開催しました #kwskrb'
+keywords: [pandas, foo, hash, ランキング, org, range, obj, aflc, rb, jp]
+recommendations: [/post/2013-06-29-kawasaki-dot-rb-number-001-di-1hui-mitoatupuwokai-cui-simasita-number-kwskrb/,
+  /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/, /post/2022-06-18-kawasaki
+    rb 9 years reflection/]
 ---
 
 去る2/26(水)に[kawasaki.rb #009](http://kawasakirb.doorkeeper.jp/events/8859)を開催しました。

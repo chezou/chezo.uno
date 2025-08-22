@@ -1,35 +1,20 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-07-20 14:59:18-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 先生
-- 教育
-- 教材
-- 電子化
-- 著作権
-- 大学
-- 教科書
-- 教員
-- コンテンツ
-- 相互
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-07-20 14:59:18-07:00'
 projects: []
-recommendations:
-- /post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/
-- /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/
-- /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/
 subtitle: ''
 summary: ''
 tags: []
 title: ' 1TEXT file → ページ毎管理 → 1TEXT fileとしてダウンロード可'
+keywords: [先生, 教育, 教材, 電子化, 著作権, 大学, 教科書, 教員, コンテンツ, 相互]
+recommendations: [/post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/,
+  /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
+  /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/]
 ---
 
 ・著作権管理システム  

@@ -1,33 +1,16 @@
 ---
-aliases:
-- /blog/tabula-py-now-able-to-extract-remote-PDF-and-multiple-tables-at-once-6108e24ac07c
-- /blog/6108e24ac07c
-authors:
-- aki
-categories:
-- OSS
-- tabula
+aliases: [/blog/tabula-py-now-able-to-extract-remote-PDF-and-multiple-tables-at-once-6108e24ac07c,
+  /blog/6108e24ac07c]
+authors: [aki]
+categories: [OSS, tabula]
 date: '2017-05-27 19:18:39-07:00'
 description: '(Note: Oct 7th, 2019)As of Oct. 2019, I launched a documentation site
   and Google Colab notebook for tabula-py. The FAQ would be good place…'
-keywords:
-- tabula
-- py
-- pdf
-- add
-- remote
-- extract
-- url
-- path
-- oct
-- callout
-projects:
-- tabula-py
-recommendations:
-- /blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/
-- /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/
-- /blog/2023-09-09-tabula-py-280/
+projects: [tabula-py]
 title: tabula-py now able to extract remote PDF and multiple tables at once
+keywords: [tabula, py, pdf, add, remote, extract, url, path, oct, callout]
+recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/,
+  /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/, /blog/2023-09-09-tabula-py-280/]
 ---
 
 {{% callout note %}}

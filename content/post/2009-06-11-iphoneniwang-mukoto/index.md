@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-06-11 14:54:34-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- tumblr
-- メモ
-- iphone
-- がわり
-- ライク
-- スター
-- 引用
-- 現状
-- 機会
-- 部分
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-06-11 14:54:34-07:00'
 projects: []
-recommendations:
-- /post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/
-- /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
-- /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/
 subtitle: ''
 summary: ''
 tags: []
 title: iPhoneに望むこと
+keywords: [tumblr, メモ, iphone, がわり, ライク, スター, 引用, 現状, 機会, 部分]
+recommendations: [/post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/, /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/,
+  /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/]
 ---
 
 最近、tumblrをメモがわりにquoteすることが多いのですが、iPhoneでtumblrを使う機会も増えてきました。  

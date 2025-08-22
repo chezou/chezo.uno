@@ -1,32 +1,15 @@
 ---
-aliases:
-- /post/jupyter-notebook-labsをmlのどのフェーズで使うのか？
-- /post/jupyter-notebook-labsをmlのとのフェースて使うのか？
-- /post/2020-02-10-jupyter-notebook-labsをmlのどのフェーズで使うのか？
+aliases: [/post/jupyter-notebook-labsをmlのどのフェーズで使うのか？, /post/jupyter-notebook-labsをmlのとのフェースて使うのか？,
+  /post/2020-02-10-jupyter-notebook-labsをmlのどのフェーズで使うのか？]
 date: '2020-02-09 22:34:01-08:00'
 draft: false
-featured:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/5fNmWej4tAA)'
-  filename: featured.jpg
-  focal_point: Center
-  placement: 1
-keywords:
-- プロダクション
-- eda
-- ml
-- 用途
-- 結果
-- jupyter
-- 全部
-- 一概
-- アンケート
-- 愛用
-recommendations:
-- /post/2016-10-29_homebrew-----iruby---------------6a02e5194ff2/
-- /post/2025-05-02-ml-project-and-scrum/
-- /post/2018-10-19_treasure-data-------plazma-tech-talk-------3c901d92e973/
+featured: {caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/5fNmWej4tAA)',
+  filename: featured.jpg, focal_point: Center, placement: 1}
 summary: ''
 title: Jupyter Notebook/LabsをMLのどのフェーズで使うのか？
+keywords: [プロダクション, eda, ml, 用途, 結果, jupyter, 全部, 一概, アンケート, 愛用]
+recommendations: [/post/2016-10-29_homebrew-----iruby---------------6a02e5194ff2/,
+  /post/2025-05-02-ml-project-and-scrum/, /post/2018-10-19_treasure-data-------plazma-tech-talk-------3c901d92e973/]
 ---
 
 機械学習ではよく使われるJupyter Notebookですが、これを使ってプロダクションで動くコードを書くのは非常に難しいなと思い、皆どのように使っているのかを知りたくてアンケートをとってみました。

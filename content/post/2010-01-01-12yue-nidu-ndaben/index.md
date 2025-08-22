@@ -1,29 +1,17 @@
 ---
-authors:
-- aki
+authors: [aki]
 date: '2010-01-01 01:01:57-08:00'
 draft: false
 featured: false
-keywords:
-- 読了
-- ゲーム
-- twitter
-- 絶対音感
-- ぼくらの
-- 著者
-- ウェブ
-- 社会
-- リアルタイム
-- '12'
 projects: []
-recommendations:
-- /post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/
-- /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/
-- /post/2008-07-30-narutaru/
 subtitle: ''
 summary: ''
 tags: []
 title: 12月に読んだ本
+keywords: [読了, ゲーム, twitter, 絶対音感, ぼくらの, 著者, ウェブ, 社会, リアルタイム, '12']
+recommendations: [/post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/,
+  /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/,
+  /post/2008-07-30-narutaru/]
 ---
 
 読書メータにこんな機能あったのね。しかも画像付き。便利だわー。ちょっと貼り付けてみる。というか、あまり本読んでなかったのねぇ。twitterに時間を奪われていたのかな。

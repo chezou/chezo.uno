@@ -1,27 +1,13 @@
 ---
-aliases:
-- /post/2017-07-10_thinkpad-x1-carbon-2017-windows-10-ubuntu-17-04-9f73d89073c3/
-authors:
-- aki
+aliases: [/post/2017-07-10_thinkpad-x1-carbon-2017-windows-10-ubuntu-17-04-9f73d89073c3/]
+authors: [aki]
 categories: []
 date: '2017-07-09 08:11:00-07:00'
 description: 前回 Thinkpad X1 Carbon(2017)のWindows周りの設定について書きましたが、今回はUbuntu 17.04とのデュアルブートについて書きます。
-keywords:
-- ubuntu
-- sudo
-- install
-- apt
-- .com
-- 設定
-- windows
-- デュアルブート
-- tool
-- qiita
-recommendations:
-- /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/
-- /post/2017-08-26_python------------------dc8d8f2fe989/
-- /post/2012-01-07-mercurialtoqin-he-xing-nogao-iripozitoriburauzarhodecodewoinsutorusitemita/
 title: Thinkpad X1 Carbon (2017)をWindows 10/Ubuntu 17.04デュアルブートにした
+keywords: [ubuntu, sudo, install, apt, .com, 設定, windows, デュアルブート, tool, qiita]
+recommendations: [/post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/,
+  /post/2017-08-26_python------------------dc8d8f2fe989/, /post/2012-01-07-mercurialtoqin-he-xing-nogao-iripozitoriburauzarhodecodewoinsutorusitemita/]
 ---
 
 前回 [Thinkpad X1 Carbon(2017)のWindows周りの設定](https://chezo.uno/post/2017-07-08_mbp-thinkpad-x1-carbon-2017-46c374167b79/)について書きましたが、今回はUbuntu 17.04とのデュアルブートについて書きます。

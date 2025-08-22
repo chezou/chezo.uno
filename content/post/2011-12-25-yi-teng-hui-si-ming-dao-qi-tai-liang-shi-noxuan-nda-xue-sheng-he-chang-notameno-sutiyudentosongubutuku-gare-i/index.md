@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-12-25 04:12:03-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 合唱曲
-- 曲集
-- 学生
-- ブック
-- 松下
-- 合同
-- 収録曲
-- victoria
-- ich
-- dir
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-12-25 04:12:03-08:00'
 projects: []
-recommendations:
-- /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/
-- /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
-- /post/2005-08-21-nan-sheng-he-chang/
 subtitle: ''
 summary: ''
 tags: []
 title: 伊藤恵司・名島啓太両氏の選んだ『学生合唱のための「スチューデント・ソングブック」』が熱い！
+keywords: [合唱曲, 曲集, 学生, ブック, 松下, 合同, 収録曲, victoria, ich, dir]
+recommendations: [/post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/,
+  /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2005-08-21-nan-sheng-he-chang/]
 ---
 
 結構良い仕事をしている、合唱楽譜販売店[パナムジカ](http://www.panamusica.co.jp/)の[新刊案内](http://www.panamusica.co.jp/ja/new/index.html)ですが、その良質なコンテンツとは裏腹に中々Webに情報が流れていないのが玉に瑕だったりします。

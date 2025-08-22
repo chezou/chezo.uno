@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-11-08 13:51:05-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 演奏会
-- 一昔
-- fcb
-- 9th
-- 関東
-- 任天堂
-- ニコ動
-- 著作権
-- メドレー
-- リソース
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-11-08 13:51:05-08:00'
 projects: []
-recommendations:
-- /post/2009-07-05-guan-dong-hagame-musichoihoida/
-- /post/2010-09-11-press-start-2010xing-tutekita/
-- /post/2005-09-18-gao-tian-san-lang-xing-tutekimasita/
 subtitle: ''
 summary: ''
 tags: []
 title: 良い時代になったねぇ
+keywords: [演奏会, 一昔, fcb, 9th, 関東, 任天堂, ニコ動, 著作権, メドレー, リソース]
+recommendations: [/post/2009-07-05-guan-dong-hagame-musichoihoida/, /post/2010-09-11-press-start-2010xing-tutekita/,
+  /post/2005-09-18-gao-tian-san-lang-xing-tutekimasita/]
 ---
 
 関東に来たからには一度は行ってみたいと思っていた、[FCB](http://famicomband.org/)。  

@@ -1,29 +1,13 @@
 ---
-authors:
-- aki
+authors: [aki]
 date: '2019-11-16 13:15:00-08:00'
-keywords:
-- model
-- 予測
-- 高速化
-- ラベル
-- 頻度
-- kpi
-- high
-- 'true'
-- 論文
-- sparse
 lastmod: '2019-11-26 09:25:00-08:00'
-recommendations:
-- /post/2019-12-09-facebook prophet-plot/
-- /post/2018-05-17_mlse-kickoff/
-- /post/2025-05-02-ml-project-and-scrum/
 summary: Booking.comの話題の論文から気になるところをメモ
-tags:
-- MLOps
-- MachineLearning
-- Paper
+tags: [MLOps, MachineLearning, Paper]
 title: '150 successful Machine Learning models: 6 lessons learned at Booking.comのメモ'
+keywords: [model, 予測, 高速化, ラベル, 頻度, kpi, high, 'true', 論文, sparse]
+recommendations: [/post/2019-12-09-facebook prophet-plot/, /post/2018-05-17_mlse-kickoff/,
+  /post/2025-05-02-ml-project-and-scrum/]
 ---
 
 ![](https://images.unsplash.com/photo-1571942790878-b43e71f29476?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

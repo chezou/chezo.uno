@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-02-08 04:02:09-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 公演
-- 初日
-- フィル
-- ナイト
-- ゴスペル
-- クラブ
-- r&b
-- アカペラ
-- 会員
-- オフィシャルサイト
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-02-08 04:02:09-08:00'
 projects: []
-recommendations:
-- /post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/
-- /post/2012-09-25-singstodobrogoszgazai-bigong-yan/
-- /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/
 subtitle: ''
 summary: ''
 tags: []
 title: Take6が2011/05/30,31に来日公演！
+keywords: [公演, 初日, フィル, ナイト, ゴスペル, クラブ, r&b, アカペラ, 会員, オフィシャルサイト]
+recommendations: [/post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/,
+  /post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/]
 ---
 
 [オフィシャルサイト](http://jp.take6.com/)が非常にださいのですが、Take6が東京にて来日公演するようです。  

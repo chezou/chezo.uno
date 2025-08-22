@@ -1,35 +1,20 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2014-12-23 16:00:00-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- word
-- julia
-- dict
-- text
-- time
-- hash
-- end
-- mecab
-- string
-- utf
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-12-23 16:00:00-08:00'
 projects: []
-recommendations:
-- /post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebookkarajian-reruyounisita/
-- /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/
-- /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/
 subtitle: ''
 summary: ''
 tags: []
 title: 'Juliaでword countして気づいたこと #JuliaAC'
+keywords: [word, julia, dict, text, time, hash, end, mecab, string, utf]
+recommendations: [/post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebookkarajian-reruyounisita/,
+  /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/,
+  /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/]
 ---
 
 この記事は、[Julia Advent Calendar](http://qiita.com/advent-calendar/2014/julialang) 24日目の記事です。 昨日は[@nezuqさんのJuliaで楽しくWebスクレイピング！](http://qiita.com/nezuq/items/58ad2431654b5a494543)でした。

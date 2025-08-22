@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-10-18 14:56:00-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- type
-- vaio
-- 我慢
-- 薄く
-- 歓迎
-- 実機
-- マリオ
-- ウィルス
-- srx
-- core solo
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-10-18 14:56:00-07:00'
 projects: []
-recommendations:
-- /post/2005-09-09-notonogai-zao/
-- /post/2005-07-17-urayamasika/
-- /post/2011-02-05-acer-aspire-1410wocrucial-realssd-c300niwai-fu-kedvdnasinihuan-zhuang-sita/
 subtitle: ''
 summary: ''
 tags: []
 title: VAIO Xに心ときめく
+keywords: [type, vaio, 我慢, 薄く, 歓迎, 実機, マリオ, ウィルス, srx, core solo]
+recommendations: [/post/2005-09-09-notonogai-zao/, /post/2005-07-17-urayamasika/,
+  /post/2011-02-05-acer-aspire-1410wocrucial-realssd-c300niwai-fu-kedvdnasinihuan-zhuang-sita/]
 ---
 
 IYHって単なるマリオ的雄叫びだと思っていたら、衝動買いをしてしまったということだったんですね。これだから、ネットの略語は面白い。

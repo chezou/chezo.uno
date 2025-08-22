@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-05-10 05:05:54-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- アドレス帳
-- iphone
-- 幸せ
-- 下記
-- '100'
-- 移行
-- よかっ
-- 覚え書き
-- 添付
-- スパボ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-05-10 05:05:54-07:00'
 projects: []
-recommendations:
-- /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/
-- /post/2009-05-18-iphonetono1zhou-jian/
-- /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/
 subtitle: ''
 summary: ''
 tags: []
 title: Ad[es]→iPhoneアドレス帳移行メモ
+keywords: [アドレス帳, iphone, 幸せ, 下記, '100', 移行, よかっ, 覚え書き, 添付, スパボ]
+recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2009-05-18-iphonetono1zhou-jian/,
+  /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/]
 ---
 
 - 

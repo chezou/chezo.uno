@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-06-26 14:58:59-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- '1600'
-- '1200'
-- jpeg
-- バッテリ
-- youtube
-- フルhd
-- aee
-- 予備
-- '47'
-- cf
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-06-26 14:58:59-07:00'
 projects: []
-recommendations:
-- /post/2010-09-04-tun-zu-xing-tutekimasita/
-- /post/2010-03-22-shi-jie-bian-ge-noshi-ravuosunotatuta-tunomai-ifang/
-- /post/2009-08-07-pokemonxin-gan-xian/
 subtitle: ''
 summary: ''
 tags: []
 title: Canon iVIS HF M31がやってきた。フルHD楽しい
+keywords: ['1600', '1200', jpeg, バッテリ, youtube, フルhd, aee, 予備, '47', cf]
+recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2010-03-22-shi-jie-bian-ge-noshi-ravuosunotatuta-tunomai-ifang/,
+  /post/2009-08-07-pokemonxin-gan-xian/]
 ---
 
 [![](p_1600_1200_a0c82b14-8d7b-47c1-afc3-cf1903a121a6.jpeg)](p_1600_1200_a0c82b14-8d7b-47c1-afc3-cf1903a121a6.jpeg)

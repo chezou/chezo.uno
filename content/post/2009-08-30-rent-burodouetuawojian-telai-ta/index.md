@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-08-30 01:08:13-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- マーク
-- ロック
-- バンド
-- 日程
-- 映画
-- 低い
-- 日本人
-- 幸せ
-- 感謝
-- 思い
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-08-30 01:08:13-07:00'
 projects: []
-recommendations:
-- /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
-- /post/2017-07-30_culture-map/
-- /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/
 subtitle: ''
 summary: ''
 tags: []
 title: RENT ブロードウェーツアーを見て来た
+keywords: [マーク, ロック, バンド, 日程, 映画, 低い, 日本人, 幸せ, 感謝, 思い]
+recommendations: [/post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2017-07-30_culture-map/,
+  /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
 ---
 
 今更ながら、報告です。  

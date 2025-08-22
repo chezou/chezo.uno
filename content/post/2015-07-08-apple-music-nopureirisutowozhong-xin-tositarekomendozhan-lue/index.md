@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-07-08 15:52:00-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- プレイリスト
-- アーティスト
-- apple music
-- レコメンド
-- ミックス
-- リスト
-- 音楽
-- シーン
-- 楽曲
-- 影響
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-07-08 15:52:00-07:00'
 projects: []
-recommendations:
-- /post/2015-10-27-netutohuritukusunoshi-dai-nihakontentunoshan-nimai-morenasasenaitamenohintogajie-matuteita/
-- /post/2009-08-12-masa-festazhong-zhi/
-- /post/2008-09-07-chu-yin-mikunokaraokequ/
 subtitle: ''
 summary: ''
 tags: []
 title: Apple Music のプレイリストを中心としたレコメンド戦略
+keywords: [プレイリスト, アーティスト, apple music, レコメンド, ミックス, リスト, 音楽, シーン, 楽曲, 影響]
+recommendations: [/post/2015-10-27-netutohuritukusunoshi-dai-nihakontentunoshan-nimai-morenasasenaitamenohintogajie-matuteita/,
+  /post/2009-08-12-masa-festazhong-zhi/, /post/2008-09-07-chu-yin-mikunokaraokequ/]
 ---
 
 膨大な音楽というコンテンツの海に放り出された時に、人は何をするだろうか。

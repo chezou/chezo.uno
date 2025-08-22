@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-07-13 14:50:28-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 漢字
-- 文章
-- 作品
-- フリガナ
-- 手順
-- 刺激
-- ライト
-- 続き
-- 世界観
-- 事実
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-07-13 14:50:28-07:00'
 projects: []
-recommendations:
-- /post/2008-07-19-can-shu-gui-tou-mo-hong/
-- /post/2008-10-10-luo-yu-bai-xuan-xia/
-- /post/2008-08-24-sayonaraituka/
 subtitle: ''
 summary: ''
 tags: []
 title: 狼と香辛料（1）
+keywords: [漢字, 文章, 作品, フリガナ, 手順, 刺激, ライト, 続き, 世界観, 事実]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-10-10-luo-yu-bai-xuan-xia/,
+  /post/2008-08-24-sayonaraituka/]
 ---
 
 {{< amazon asin="4840233020" title="狼と香辛料 (電撃文庫)" >}}

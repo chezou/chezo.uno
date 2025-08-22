@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2017-04-19 11:58:17-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- キーボード
-- thinkpad
-- トラック
-- lenovo
-- amazon
-- センター
-- 修理
-- ポイント
-- そう
-- 交換
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2017-04-19 11:58:17-07:00'
 projects: []
-recommendations:
-- /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/
-- /post/2008-06-01-nantoiunu-li-noren/
-- /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/
 subtitle: ''
 summary: ''
 tags: []
 title: Amazonで買ったThinkpad トラックポイント キーボードを修理した
+keywords: [キーボード, thinkpad, トラック, lenovo, amazon, センター, 修理, ポイント, そう, 交換]
+recommendations: [/post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
+  /post/2008-06-01-nantoiunu-li-noren/, /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/]
 ---
 
 みんな大好きトラックポイントキーボードですが、僕も昔使っていて最近miyagawaさんが使っていると知って再び使うようになりました。

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-05-16 14:53:40-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 読書
-- 気分転換
-- ライフログ
-- 読書メーター
-- excite
-- わけ
-- 投資
-- なく
-- グラフ
-- 満足
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-05-16 14:53:40-07:00'
 projects: []
-recommendations:
-- /post/2009-07-23-du-shu-metanomian-dao-natokoro/
-- /post/2009-05-02-hazimemasite-wordpress/
-- /post/2005-07-17-urayamasika/
 subtitle: ''
 summary: ''
 tags: []
 title: 読書メーターはじめました
+keywords: [読書, 気分転換, ライフログ, 読書メーター, excite, わけ, 投資, なく, グラフ, 満足]
+recommendations: [/post/2009-07-23-du-shu-metanomian-dao-natokoro/, /post/2009-05-02-hazimemasite-wordpress/,
+  /post/2005-07-17-urayamasika/]
 ---
 
 [読書メーター](http://book.akahoshitakuya.com/)をはじめました。  

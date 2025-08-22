@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-09-11 14:59:42-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- メドレー
-- トリガー
-- クロノ
-- 演奏会
-- メロディ
-- 演奏
-- 素晴らしい
-- ファイアーエムブレム
-- カエル
-- かけ声
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-09-11 14:59:42-07:00'
 projects: []
-recommendations:
-- /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/
-- /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
-- /post/2009-08-12-rui-yan-si/
 subtitle: ''
 summary: ''
 tags: []
 title: PRESS START 2010行ってきた
+keywords: [メドレー, トリガー, クロノ, 演奏会, メロディ, 演奏, 素晴らしい, ファイアーエムブレム, カエル, かけ声]
+recommendations: [/post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/,
+  /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2009-08-12-rui-yan-si/]
 ---
 
 本日、[PRESS START2010 -SYMPHONY OF GAMES-@東京芸術劇場 大ホール](http://www.famitsu.com/famiweb/pressstart/)に行ってまいりました。  

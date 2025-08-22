@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2008-07-30 14:50:01-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 復旧
-- 同名
-- 鬼頭
-- 莫宏
-- ぼくらの
-- 原作
-- お勧め
-- 講談社
-- レポート
-- アニメ
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2008-07-30 14:50:01-07:00'
 projects: []
-recommendations:
-- /post/2008-07-19-can-shu-gui-tou-mo-hong/
-- /post/2008-06-22-bokurano-alternative/
-- /post/2008-07-06-nodamekantabire18-20/
 subtitle: ''
 summary: ''
 tags: []
 title: なるたる
+keywords: [復旧, 同名, 鬼頭, 莫宏, ぼくらの, 原作, お勧め, 講談社, レポート, アニメ]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-06-22-bokurano-alternative/,
+  /post/2008-07-06-nodamekantabire18-20/]
 ---
 
 {{< amazon asin="4063141861" title="なるたる―骸なる星珠たる子 (1) (アフタヌーンKC (186))" >}}

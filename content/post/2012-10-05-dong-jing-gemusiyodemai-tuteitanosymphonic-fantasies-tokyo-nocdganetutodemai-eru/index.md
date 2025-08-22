@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2012-10-05 02:10:55-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- fantasies
-- symphonic
-- 演奏
-- クオリティ
-- ドイツ
-- 素晴らしい
-- tokyo
-- cd
-- sound
-- paypal
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2012-10-05 02:10:55-07:00'
 projects: []
-recommendations:
-- /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
-- /post/2009-07-05-guan-dong-hagame-musichoihoida/
-- /post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/
 subtitle: ''
 summary: ''
 tags: []
 title: 東京ゲームショーで売っていたのSymphonic Fantasies Tokyo のCDがネットで買える！
+keywords: [fantasies, symphonic, 演奏, クオリティ, ドイツ, 素晴らしい, tokyo, cd, sound, paypal]
+recommendations: [/post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2009-07-05-guan-dong-hagame-musichoihoida/,
+  /post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/]
 ---
 
 [![](https://i.pinimg.com/originals/f5/f8/7a/f5f87a22d7029a96f44f1fba96c2afed.jpg)](https://pinterest.com/pin/60869032434954296/)

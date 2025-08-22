@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-03-14 20:03:00-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 荷重
-- ｒｙ
-- 始末
-- 動機
-- ラック
-- ホームセンター
-- ハンガー
-- 全般的
-- カバー
-- 精度
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-03-14 20:03:00-07:00'
 projects: []
-recommendations:
-- /post/2021-12-15-relocated-to-vancouver/
-- /post/2005-07-17-urayamasika/
-- /post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/
 subtitle: ''
 summary: ''
 tags: []
 title: 新居にはクローゼットがない
+keywords: [荷重, ｒｙ, 始末, 動機, ラック, ホームセンター, ハンガー, 全般的, カバー, 精度]
+recommendations: [/post/2021-12-15-relocated-to-vancouver/, /post/2005-07-17-urayamasika/,
+  /post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/]
 ---
 
 押し入れはあってもクローゼットがありません！  

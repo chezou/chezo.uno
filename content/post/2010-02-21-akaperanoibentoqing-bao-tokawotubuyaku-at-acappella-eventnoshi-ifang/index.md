@@ -1,35 +1,20 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-02-21 13:58:11-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- event
-- acappella
-- 合唱
-- アカペラ
-- リツイート
-- 情報
-- bot
-- カレンダー
-- 予定
-- 検索
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-02-21 13:58:11-08:00'
 projects: []
-recommendations:
-- /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/
-- /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
-- /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/
 subtitle: ''
 summary: ''
 tags: []
 title: アカペラのイベント情報とかをつぶやく@acappella_eventの使い方
+keywords: [event, acappella, 合唱, アカペラ, リツイート, 情報, bot, カレンダー, 予定, 検索]
+recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
+  /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
+  /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/]
 ---
 
 [以前の記事](https://chezo.uno/post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/)でも少し書いていたんですが、twitterで[@acappella\_event](http://twitter.com/acappella_event)というbotを作りました。前から少しずつ色々試していたのですが、ようやく基本的なところができたので使い方を簡単にまとめたものを残しておきます。

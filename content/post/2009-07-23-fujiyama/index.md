@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-07-22 20:07:36-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- '1600'
-- '1200'
-- jpeg
-- '59'
-- km
-- '56'
-- '36'
-- 帰り
-- '43'
-- '45'
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-07-22 20:07:36-07:00'
 projects: []
-recommendations:
-- /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
-- /post/2010-09-04-tun-zu-xing-tutekimasita/
-- /post/2009-08-07-pokemonxin-gan-xian/
 subtitle: ''
 summary: ''
 tags: []
 title: FUJIYAMA
+keywords: ['1600', '1200', jpeg, '59', km, '56', '36', 帰り, '43', '45']
+recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2010-09-04-tun-zu-xing-tutekimasita/,
+  /post/2009-08-07-pokemonxin-gan-xian/]
 ---
 
 先日行ってきた河口湖です。貸別荘から見える富士山が素敵でした。  

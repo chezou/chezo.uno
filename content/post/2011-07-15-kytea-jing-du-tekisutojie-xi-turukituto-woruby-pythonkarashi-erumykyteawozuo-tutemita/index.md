@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2011-07-15 05:07:29-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- mykytea
-- '100.0'
-- swig
-- kytea
-- python
-- 名詞
-- タグ
-- '0.0'
-- ruby
-- ラッパー
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2011-07-15 05:07:29-07:00'
 projects: []
-recommendations:
-- /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/
-- /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
-- /post/2015-08-30-number-tqrk09-de-accept-lt-sitehazimeteno-gem-woraiburirisunishi-bai-simasita/
 subtitle: ''
 summary: ''
 tags: []
 title: KyTea:京都テキスト解析ツールキット をRuby, Pythonから使えるMykyteaを作ってみた
+keywords: [mykytea, '100.0', swig, kytea, python, 名詞, タグ, '0.0', ruby, ラッパー]
+recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
+  /post/2015-08-30-number-tqrk09-de-accept-lt-sitehazimeteno-gem-woraiburirisunishi-bai-simasita/]
 ---
 
 **[2011/07/23追記]  

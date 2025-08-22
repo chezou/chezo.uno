@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2014-09-15 05:09:52-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- ptr
-- mecab
-- void
-- end
-- julia
-- int
-- 構造体
-- ポインタ
-- length
-- uint
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2014-09-15 05:09:52-07:00'
 projects: []
-recommendations:
-- /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
-- /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/
-- /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/
 subtitle: ''
 summary: ''
 tags: []
 title: MeCabのJuliaバインディングMeCab.jlを作りました
+keywords: [ptr, mecab, void, end, julia, int, 構造体, ポインタ, length, uint]
+recommendations: [/post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/,
+  /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/, /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/]
 ---
 
 Juliaから日本語形態素解析器として最も有名な[MeCab](https://code.google.com/p/mecab/)を使える[MeCab.jl](https://github.com/chezou/MeCab.jl)を作りました。

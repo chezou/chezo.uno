@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-11-08 11:00:00-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- julia
-- 最適化
-- hash
-- 比較
-- 言語
-- .com
-- 反響
-- sgj
-- repeatedly
-- hateblo
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-11-08 11:00:00-08:00'
 projects: []
-recommendations:
-- /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/
-- /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/
-- /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/
 subtitle: ''
 summary: ''
 tags: []
 title: TinySegmenter.jlをGoと比較して負けたと思ったら若者が最適化してくれた
+keywords: [julia, 最適化, hash, 比較, 言語, .com, 反響, sgj, repeatedly, hateblo]
+recommendations: [/post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/,
+  /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/]
 ---
 
 先日、[TinySegmenter.jlの話](https://chezo.uno/post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua

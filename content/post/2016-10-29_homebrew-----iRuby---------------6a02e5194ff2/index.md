@@ -1,26 +1,13 @@
 ---
-authors:
-- aki
-categories:
-- ruby
+authors: [aki]
+categories: [ruby]
 date: '2016-10-28 21:50:25-07:00'
 description: 'kawasaki.rb #041 で得た知見です。'
-keywords:
-- jupyter
-- iruby
-- ruby
-- ipython
-- 以下
-- register
-- kernel
-- force
-- 手順
-- usr
-recommendations:
-- /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/
-- /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/
-- /post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/
 title: homebrewを移動してiRubyが壊れたときに見直すポイント
+keywords: [jupyter, iruby, ruby, ipython, 以下, register, kernel, force, 手順, usr]
+recommendations: [/post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/,
+  /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
+  /post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/]
 ---
 
 kawasaki.rb #041 で得た知見です。

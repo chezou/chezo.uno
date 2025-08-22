@@ -1,35 +1,20 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2015-01-10 19:19:31-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- docker
-- nbviewer
-- notebook
-- ipython
-- nyaplot
-- 描画
-- iruby
-- 可視化
-- ruby
-- mac
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2015-01-10 19:19:31-08:00'
 projects: []
-recommendations:
-- /post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebookkarajian-reruyounisita/
-- /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/
-- /post/2016-10-29_homebrew-----iruby---------------6a02e5194ff2/
 subtitle: ''
 summary: ''
 tags: []
 title: Docker上にnbviewerを立ててiruby+Nyaplotで描いたグラフを共有できるようにしてみた
+keywords: [docker, nbviewer, notebook, ipython, nyaplot, 描画, iruby, 可視化, ruby, mac]
+recommendations: [/post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebookkarajian-reruyounisita/,
+  /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
+  /post/2016-10-29_homebrew-----iruby---------------6a02e5194ff2/]
 ---
 
 昨年末に[@domitryさんが書かれた記事](http://domitry.hatenablog.jp/entry/science_with_ruby)でも話題になった、RubyのライブラリMikonとNyaplotで生成したグラフをipython notebookとして社内のGHEでも共有することを目標に、[nbviewer](https://nbviewer.ipython.org/)をlocalのdocker上で立ててみました。

@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2017-01-01 15:29:31-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- oss
-- issue
-- 丸山
-- コード
-- 英語
-- 開発
-- メンテナンス
-- ネイティブ
-- プロダクト
-- codelunch
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2017-01-01 15:29:31-08:00'
 projects: []
-recommendations:
-- /post/2016-03-30-zhuan-zhi-simasita/
-- /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/
-- /post/2018-06-19_goodbye-cloudera/
 subtitle: ''
 summary: ''
 tags: []
 title: 非英語ネイティブにとってのOSSのメンテナンスコスト
+keywords: [oss, issue, 丸山, コード, 英語, 開発, メンテナンス, ネイティブ, プロダクト, codelunch]
+recommendations: [/post/2016-03-30-zhuan-zhi-simasita/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
+  /post/2018-06-19_goodbye-cloudera/]
 ---
 
 _disclaimer: この記事を書いている人はClouderaというHadoop/Sparkのディストリビューターの会社にいます。_

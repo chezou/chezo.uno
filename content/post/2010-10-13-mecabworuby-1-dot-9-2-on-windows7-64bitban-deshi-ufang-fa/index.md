@@ -1,35 +1,20 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-10-13 14:59:53-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- mecab
-- 本日
-- dll
-- cpp
-- break
-- 名詞
-- makefile
-- libmecab
-- case
-- '64'
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-10-13 14:59:53-07:00'
 projects: []
-recommendations:
-- /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/
-- /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
-- /post/2019-11-29-mecab-python3/
 subtitle: ''
 summary: ''
 tags: []
 title: MeCabをRuby 1.9.2 on Windows7(64bit版)で使う方法
+keywords: [mecab, 本日, dll, cpp, break, 名詞, makefile, libmecab, case, '64']
+recommendations: [/post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/,
+  /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/,
+  /post/2019-11-29-mecab-python3/]
 ---
 
 Windows7の開発環境を構築するに当たって、なんとなくRubyを1.8.7から1.9.2にしてみました。  

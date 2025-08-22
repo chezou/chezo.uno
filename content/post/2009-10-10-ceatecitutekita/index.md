@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2009-10-10 14:55:54-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 東芝
-- 映画
-- デモ
-- テレビ
-- スピーカー
-- 一方
-- 違い
-- 先生
-- 音響
-- 抑制
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2009-10-10 14:55:54-07:00'
 projects: []
-recommendations:
-- /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/
-- /post/2008-10-28-mai-tutesimatuta/
-- /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
 subtitle: ''
 summary: ''
 tags: []
 title: CEATECいってきた
+keywords: [東芝, 映画, デモ, テレビ, スピーカー, 一方, 違い, 先生, 音響, 抑制]
+recommendations: [/post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
+  /post/2008-10-28-mai-tutesimatuta/, /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/]
 ---
 
 {{< figure src="p_1600_1200_eeff51ad-5f1c-4cb3-9c71-f5f1b3da8a27.jpeg" title="" >}}

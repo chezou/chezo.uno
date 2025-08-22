@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-11-12 22:11:52-08:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- 歴代
-- 広場
-- 街中
-- 感心
-- 若い
-- 歴史的
-- 位置
-- 不思議
-- 雰囲気
-- 準備
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-11-12 22:11:52-08:00'
 projects: []
-recommendations:
-- /post/2008-08-24-sayonaraituka/
-- /post/2008-10-19-jpopsaundonohe-xin-bu-fen-ga-shi-ha1tunokodojin-xing-dechu-lai-teita/
-- /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/
 subtitle: ''
 summary: ''
 tags: []
 title: 夜のヴェネツィア
+keywords: [歴代, 広場, 街中, 感心, 若い, 歴史的, 位置, 不思議, 雰囲気, 準備]
+recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-10-19-jpopsaundonohe-xin-bu-fen-ga-shi-ha1tunokodojin-xing-dechu-lai-teita/,
+  /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/]
 ---
 
 ![](https://lh6.ggpht.com/_fY4jPztBNxw/TN4m-vk9IWI/AAAAAAAAAkM/FBrhsjGXKUY/s400/DSCF6149.JPG)

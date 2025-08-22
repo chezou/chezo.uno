@@ -1,35 +1,19 @@
 ---
-authors:
-- aki
+authors: [aki]
 categories: null
 date: '2010-03-22 14:58:16-07:00'
 draft: false
 featured: false
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-keywords:
-- '1600'
-- '1200'
-- jpeg
-- '44'
-- '97'
-- '90'
-- '87'
-- '89'
-- '88'
-- '43'
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: '2010-03-22 14:58:16-07:00'
 projects: []
-recommendations:
-- /post/2010-09-04-tun-zu-xing-tutekimasita/
-- /post/2009-08-07-pokemonxin-gan-xian/
-- /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
 subtitle: ''
 summary: ''
 tags: []
 title: 世界変革の時〜ラヴォスのたった一つの買い方
+keywords: ['1600', '1200', jpeg, '44', '97', '90', '87', '89', '88', '43']
+recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-08-07-pokemonxin-gan-xian/,
+  /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/]
 ---
 
 初めて[ラヴォス](http://images.google.co.jp/images?q=%83%89%83%94%83H%83X)が現れたときの絶望感と言ったら……。想像を絶するものがありました。出自の分からない異形の者を倒し、そして更なる戦いへと挑むその姿を見ていったら、剣と魔法の世界からはおよそ想像の付かないものとの戦いに。いやぁ、本当に名作でした。クロノトリガー。
