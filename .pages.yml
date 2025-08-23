@@ -3,9 +3,20 @@ settings:
     merge: true
 
 media:
-  input: assets/media
-  output: media
-  categories: [image]
+  - name: shared_media
+    input: assets/media
+    output: media
+    categories: [image]
+  - name: post_media
+    input: content/post
+    output: /content/post
+    categories: [image]
+  - name: blog_media
+    input: content/blog
+    output: /content/blog
+    categories: [image]
+
+  
 content:
   - name: post
     type: collection
