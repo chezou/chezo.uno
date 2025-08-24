@@ -48,3 +48,9 @@
   display: inline;
   vertical-align: text-bottom;
 }
+
+.btn-bmc img {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  width: 180px;
+}
