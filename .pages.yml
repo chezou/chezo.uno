@@ -10,10 +10,12 @@ media:
   - name: post_media
     input: content/post
     output: post
+    path: content/post
     categories: [image]
   - name: blog_media
     input: content/blog
     output: blog
+    path: content/blog
     categories: [image]
 
   
