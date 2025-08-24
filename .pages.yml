@@ -9,11 +9,11 @@ media:
     categories: [image]
   - name: post_media
     input: content/post
-    output: /content/post
+    output: post
     categories: [image]
   - name: blog_media
     input: content/blog
-    output: /content/blog
+    output: blog
     categories: [image]
 
   
@@ -42,6 +42,9 @@ content:
       label: 画像
       type: object
       fields:
+      - name: placement
+        label: placement
+        type: number
       - name: caption
         label: caption
         type: string
@@ -55,6 +58,8 @@ content:
       - name: filename
         label: image path
         type: image
+        options:
+          path: post_media
   - name: blog
     type: collection
     label: blog post
