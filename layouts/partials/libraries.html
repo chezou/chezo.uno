@@ -14,8 +14,7 @@
 <link type="text/css" rel="stylesheet" href="{{ $pf_css.RelPermalink }}" integrity="{{ $pf_css.Data.Integrity }}" />
 {{ $pf_js := resources.Get "dist/pagefind/pagefind-ui.js" }}
 {{ $pf_js = $pf_js | resources.Fingerprint "sha256" }}
-{{ $ignore_cf_rl := site.Params.header.navbar.ignore_search_cf_rocket_loader | default false }}
-<script {{ if $ignore_cf_rl }}data-cfasync="false"{{ end }} src="{{ $pf_js.RelPermalink }}" integrity="{{ $pf_js.Data.Integrity }}"></script>
+<script src="{{ $pf_js.RelPermalink }}" integrity="{{ $pf_js.Data.Integrity }}"></script>
 
 {{ $search_config := dict "baseUrl" (relURL "") }}
 {{ printf "<script%s>window.hbb.pagefind = %s;</script>" (cond $ignore_cf_rl " data-cfasync=\"false\"" "") ($search_config | jsonify) | safeHTML }}
