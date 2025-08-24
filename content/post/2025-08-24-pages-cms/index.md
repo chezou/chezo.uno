@@ -1,28 +1,13 @@
 ---
-
 title: Pages CMSの設定をした
 date: 2025-08-24 12:09:00+00:00
 lastmod: 2025-08-24 14:38:00+00:00
 draft: false
 featured: false
-image:
-  preview_only: false
-  filename: media/pages-cms.png
-keywords:
-  - hugo
-  - 画像
-  - wowchemy
-  - cloudflare
-  - 検索
-  - 移行
-  - 設定
-  - 模索
-  - 変わり
-  - ワークアラウンド
-recommendations:
-  - /post/2022-12-16-bump-wowchemy-v570/
-  - /post/2022-01-14-prelims-recommend-hugo/
-  - /post/2022-01-25-hugo-content-based-recommendation/
+image: {preview_only: false, filename: media/pages-cms.png}
+keywords: [hugo, cms, 画像, wowchemy, pages, cloudflare, 検索, 移行, 設定, 設定ファイル]
+recommendations: [/post/2022-12-16-bump-wowchemy-v570/, /post/2022-01-14-prelims-recommend-hugo/,
+  /post/2022-01-25-hugo-content-based-recommendation/]
 ---
 
 以前からiPadなどのモバイル端末でHugoの記事を書く方法を模索していたのだけど、そんななかでmehoriさんのこの記事を知ったのでPages CMSを試してみた。
