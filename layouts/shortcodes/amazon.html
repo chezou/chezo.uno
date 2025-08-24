@@ -1,10 +1,15 @@
 {{- $tag := site.Params.amazonJpAffiliate }}
 {{- $asin := .Get "asin" -}}
 {{- $title := .Get "title" -}}
+{{- $destination := "no_image_square.jpg" -}}
+{{- $img := (.Page.Resources.ByType "image").GetMatch $destination -}}
+{{- if not $img -}}
+  {{- $img = resources.Get (path.Join "media" $destination) -}}
+{{- end -}}
 <div class="amazon-widget">
   <a target="_blank" href="https://www.amazon.co.jp/gp/product/{{ $asin }}/?tag={{ $tag }}"></a>
   <div class="amazon-widget-img">
-    <img src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN={{ $asin }}&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL350_&tag={{ $tag }}" />
+    <img src="{{ $img }}" />
   </div>
   <div class="amazon-widget-info">
     <span class="amazon-widget-title">
