@@ -1,13 +1,28 @@
 ---
+
 title: Pages CMSの設定をした
 date: 2025-08-24 12:09:00+00:00
-lastmod: 2025-08-24 14:38:00+00:00
+lastmod: 2025-08-24 15:42:00+00:00
 draft: false
 featured: false
-image: {preview_only: false, filename: /pages-cms.png}
-keywords: [hugo, cms, 画像, wowchemy, pages, cloudflare, 検索, 移行, 設定, 設定ファイル]
-recommendations: [/post/2022-12-16-bump-wowchemy-v570/, /post/2022-01-14-prelims-recommend-hugo/,
-  /post/2022-01-25-hugo-content-based-recommendation/]
+image:
+  preview_only: false
+  filename: /pages-cms.png
+keywords:
+  - hugo
+  - cms
+  - 画像
+  - wowchemy
+  - pages
+  - cloudflare
+  - 検索
+  - 移行
+  - 設定
+  - 設定ファイル
+recommendations:
+  - /post/2022-12-16-bump-wowchemy-v570/
+  - /post/2022-01-14-prelims-recommend-hugo/
+  - /post/2022-01-25-hugo-content-based-recommendation/
 ---
 
 以前からiPadなどのモバイル端末でHugoの記事を書く方法を模索していたのだけど、そんななかでmehoriさんのこの記事を知ったのでPages CMSを試してみた。
@@ -20,7 +35,9 @@ recommendations: [/post/2022-12-16-bump-wowchemy-v570/, /post/2022-01-14-prelims
 
 コードを読めば何とかなるレベルなのだけど、必要最低限のものはあるのでいいかな。
 
-現状、こんな設定です [https://github.com/chezou/chezo.uno/blob/438a1b6895cc0dc25386e926922382bba5ed38f4/.pages.yml](https://github.com/chezou/chezo.uno/blob/438a1b6895cc0dc25386e926922382bba5ed38f4/.pages.yml)
+現状、こんな設定です。
+
+[https://github.com/chezou/chezo.uno/blob/facb890318c4b6f6ffc9c36e9a37b83e662069d6/.pages.yml](https://github.com/chezou/chezo.uno/blob/facb890318c4b6f6ffc9c36e9a37b83e662069d6/.pages.yml)
 
 併せて、wowchemyからhugo-bloxに移行をしたけど、そっちもまあまあ大変だった。詳しくは PRを見てもらえれば。しかし、Hugo Academic -> Wowchemy -> Hugo Bloxと名前変わりすぎだろ...。
 
