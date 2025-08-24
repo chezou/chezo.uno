@@ -1,4 +1,9 @@
 links:
+  - id: bluesky
+    url: "https://bsky.app/intent/compose?text={title}%20{url}"
+    title: "Bluesky"
+    icon: "brands/bluesky"
+    enable: true
   - id: mastodon
     url: "https://mastodonshare.com/?url={url}&text={title}"
     title: "Mastodon"
