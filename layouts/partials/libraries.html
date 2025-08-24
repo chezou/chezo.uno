@@ -36,7 +36,7 @@
   }
 </style>
 
-<script>
+<script {{ if $ignore_cf_rl }}data-cfasync="false"{{ end }}>
   // Initialize search wrapper element globally
   let searchWrapper = null;
 
