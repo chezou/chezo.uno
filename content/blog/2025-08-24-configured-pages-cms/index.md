@@ -1,14 +1,28 @@
 ---
+
 title: Configured Pages CMS
 date: 2025-08-24 15:11:00+00:00
-lastmod: 2025-08-24 15:11:00+00:00
+lastmod: 2025-08-24 15:43:00+00:00
 draft: false
 featured: false
-image: {preview_only: false, filename: /pages-cms.png}
-keywords: [hugo, images, way, wowchemy, search, ipad, properly, error, cloudflare,
-  things]
-recommendations: [/blog/2022-01-25_hugo-content-based-recommendation/, /blog/2024-02-02-migrated-from-netlify-to-cloudflare-pages/,
-  /blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/]
+image:
+  preview_only: false
+  filename: /pages-cms.png
+keywords:
+  - hugo
+  - images
+  - way
+  - wowchemy
+  - search
+  - ipad
+  - properly
+  - error
+  - cloudflare
+  - things
+recommendations:
+  - /blog/2022-01-25_hugo-content-based-recommendation/
+  - /blog/2024-02-02-migrated-from-netlify-to-cloudflare-pages/
+  - /blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/
 ---
 
 I had been looking for a way to write Hugo articles on mobile devices like my iPad, and that's when I came across this article by mehori and decided to try Pages CMS.
@@ -21,7 +35,7 @@ Along the way, I ran into a very minor YAML frontmatter parsing error, but I was
 
 It's a platform where you can figure things out by reading the code, and it has the bare minimum functionality, so it's good enough for my needs.
 
-Here are my current settings: [https://github.com/chezou/chezo.uno/blob/438a1b6895cc0dc25386e926922382bba5ed38f4/.pages.yml](https://github.com/chezou/chezo.uno/blob/438a1b6895cc0dc25386e926922382bba5ed38f4/.pages.yml)
+Here are my current settings: [https://github.com/chezou/chezo.uno/blob/facb890318c4b6f6ffc9c36e9a37b83e662069d6/.pages.yml](https://github.com/chezou/chezo.uno/blob/facb890318c4b6f6ffc9c36e9a37b83e662069d6/.pages.yml)
 
 I also migrated from **wowchemy** to **hugo-blox**, which was quite a hassle. You can find more details in the PR. But seriously, the names have changed way too many times: **Hugo Academic** -> **Wowchemy** -> **Hugo Blox**...
 
