@@ -26,6 +26,11 @@ content:
     filename: index.md
     delimiters: ["---\n", "---\n"]
     exclude: ["_index.md"]
+    view:
+      layout: tree
+      node:
+        filename: index.md
+        hideDirs: all
     fields:
     - { name: title, label: 記事タイトル, type: string, required: true }
     - { name: subtitle, label: サブタイトル, type: string }
@@ -94,4 +99,3 @@ content:
         label: preview only
         type: boolean
         default: false
-
