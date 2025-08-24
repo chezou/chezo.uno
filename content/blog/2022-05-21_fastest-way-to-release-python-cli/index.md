@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: Photo by Marc-Olivier Jodoin on Unsplash, focal_point: '', preview_only: false}
 projects: []
-keywords: [project, cli, pypi, create, token, dependency, written, package, python,
+keywords: [project, cli, pypi, token, create, dependency, written, package, python,
   need]
 recommendations: [/blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
   /blog/2017-08-30_python-basics--package-management-462918458f96/, /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/]

@@ -7,7 +7,8 @@ date: '2017-05-01 19:01:01-07:00'
 description: I imported blog posts from own Wordpress but I have to redirect old articles
   to Medium manually. There is Wordpress plugin which enables…
 title: An easy way to get URL list of your Medium publication
-keywords: [publication, articles, list, medium, url, requires, lacks, huge, csv, couldn]
+keywords: [publication, articles, list, medium, url, showing, requires, lacks, huge,
+  csv]
 recommendations: [/blog/2022-01-25_hugo-content-based-recommendation/, /blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/,
   /blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/]
 ---

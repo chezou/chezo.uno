@@ -7,7 +7,7 @@ featured: false
 summary: This article show how to develop a digdag Python workflow task efficiently.
 tags: [digdag]
 title: py> operator development guide for Python users
-keywords: [operator, task, env, local, image, docker, create, reasonable, huge, single]
+keywords: [operator, task, env, local, docker, image, reasonable, huge, create, single]
 recommendations: [/blog/2019-10-06_how-to-test-a-new-docker-image-for-digdag-workflow-on-circleci--c8bb92987877/,
   /blog/2025-05-02-ml-project-and-scrum/, /blog/2024-01-26_scrape-notion-to-pdf/]
 ---
