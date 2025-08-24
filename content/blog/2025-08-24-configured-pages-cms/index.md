@@ -7,7 +7,7 @@ draft: true
 featured: false
 image:
   preview_only: false
-  filename: media/pages-cms.png
+  filename: /pages-cms.png
 ---
 
 I had been looking for a way to write Hugo articles on mobile devices like my iPad, and that's when I came across this article by mehori and decided to try Pages CMS.
