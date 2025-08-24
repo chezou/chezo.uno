@@ -28,6 +28,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
+    ignore_search_cf_rocket_loader: true
     highlight_active_link: true
 footer:
   copyright:
