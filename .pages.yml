@@ -94,6 +94,9 @@ content:
       label: 画像
       type: object
       fields:
+      - name: placement
+        label: placement
+        type: number
       - name: caption
         label: caption
         type: string
@@ -104,3 +107,8 @@ content:
         label: preview only
         type: boolean
         default: false
+      - name: filename
+        label: image path
+        type: image
+        options:
+          path: post_media
