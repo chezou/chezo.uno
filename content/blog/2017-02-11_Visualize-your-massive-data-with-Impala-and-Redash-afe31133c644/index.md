@@ -6,7 +6,7 @@ date: '2017-02-10 21:14:44-08:00'
 description: Redash is a famous OSS visualization tool, which enables to visualize
   your data with SQL. It supports Apache Impala (incubating), fast…
 title: Visualize your massive data with Impala and Redash
-keywords: [impala, data, set, query, database, visualize, default, port, sql, add]
+keywords: [impala, data, query, database, set, visualize, default, port, sql, add]
 recommendations: [/blog/2017-03-26_how-to-connect-secure-impala-cluster-from-rstudio-on-macos-with-implyr-213c6536e4c7/,
   /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
   /blog/2022-05-05-sqllineage-with-digdag-log/]

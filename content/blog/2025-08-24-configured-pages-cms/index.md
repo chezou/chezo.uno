@@ -1,13 +1,14 @@
 ---
-
 title: Configured Pages CMS
 date: 2025-08-24 15:11:00+00:00
 lastmod: 2025-08-24 15:11:00+00:00
 draft: false
 featured: false
-image:
-  preview_only: false
-  filename: /pages-cms.png
+image: {preview_only: false, filename: /pages-cms.png}
+keywords: [hugo, images, way, wowchemy, search, ipad, properly, error, cloudflare,
+  things]
+recommendations: [/blog/2022-01-25_hugo-content-based-recommendation/, /blog/2024-02-02-migrated-from-netlify-to-cloudflare-pages/,
+  /blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/]
 ---
 
 I had been looking for a way to write Hugo articles on mobile devices like my iPad, and that's when I came across this article by mehori and decided to try Pages CMS.

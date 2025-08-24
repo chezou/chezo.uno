@@ -7,7 +7,7 @@ date: '2017-03-25 14:35:45-07:00'
 description: Impala is very fast SQL-on-Hadoop, and it will enhance your R experience
   with implyr, a dplyr based interface for Apache Impala…
 title: How to connect secure Impala cluster from RStudio on macOS with implyr
-keywords: [impala, driver, cloudera, setting, configuration, set, install, replace,
+keywords: [impala, driver, cloudera, configuration, setting, set, install, replace,
   connect, description]
 recommendations: [/blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/,
   /blog/2017-08-02_how-to-run-cloudera-director-on-your-macos-windows-10-710f82aa1d63/,
