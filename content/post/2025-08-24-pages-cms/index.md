@@ -1,18 +1,33 @@
 ---
+
 title: Pages CMSの設定をした
 date: 2025-08-24 12:09:00+00:00
-lastmod: 2025-08-24 12:09:00+00:00
+lastmod: 2025-08-24 14:38:00+00:00
 draft: false
 featured: false
-image: {preview_only: false, filename: media/pages-cms.png}
-keywords: [hugo, 画像, wowchemy, cloudflare, 検索, 移行, 設定, 模索, 変わり, ワークアラウンド]
-recommendations: [/post/2022-12-16-bump-wowchemy-v570/, /post/2022-01-14-prelims-recommend-hugo/,
-  /post/2022-01-25-hugo-content-based-recommendation/]
+image:
+  preview_only: false
+  filename: media/pages-cms.png
+keywords:
+  - hugo
+  - 画像
+  - wowchemy
+  - cloudflare
+  - 検索
+  - 移行
+  - 設定
+  - 模索
+  - 変わり
+  - ワークアラウンド
+recommendations:
+  - /post/2022-12-16-bump-wowchemy-v570/
+  - /post/2022-01-14-prelims-recommend-hugo/
+  - /post/2022-01-25-hugo-content-based-recommendation/
 ---
 
 以前からiPadなどのモバイル端末でHugoの記事を書く方法を模索していたのだけど、そんななかでmehoriさんのこの記事を知ったのでPages CMSを試してみた。
 
-[https://mehori.com/blog/2025/pages-cms/](https://mehori.com/blog/2025/pages-cms/)
+[Pages CMS：設定ファイル一つですぐに使える、静的サイト向けのお手軽CMS](https://mehori.com/blog/2025/pages-cms/)
 
 結論から言うと、Hugoのフォルダ構造 (/articlename/index.md) はまじめにサポートしていないのと、それにより[画像周りのアップロードが微妙](https://github.com/pages-cms/pages-cms/issues/129)なこと、そもそも、iPhoneから[画像をアップロードしようとすると413エラーが出てアップロードできない](https://github.com/pages-cms/pages-cms/issues/284)ことなどあるが、まあとりあえずiPadから日本語で文字だけの記事は設定できたのでよし。
 
