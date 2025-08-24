@@ -8,6 +8,8 @@ interests:
 profiles:
   - icon: at-symbol
     url: mailto:aki@chezo.uno
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/chezo.uno
   - icon: brands/mastodon
     url: https://mastodon.social/@chezou
   - icon: academicons/google-scholar
