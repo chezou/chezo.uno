@@ -18,7 +18,7 @@
 <script {{ if $ignore_cf_rl }}data-cfasync="false"{{ end }} src="{{ $pf_js.RelPermalink }}" integrity="{{ $pf_js.Data.Integrity }}"></script>
 
 {{ $search_config := dict "baseUrl" (relURL "") }}
-{{ printf "<script {{ if $ignore_cf_rl }}data-cfasync=\"false\"{{ end }}>window.hbb.pagefind = %s;</script>" ($search_config | jsonify) | safeHTML }}
+{{ printf "<script%s>window.hbb.pagefind = %s;</script>" (cond $ignore_cf_rl " data-cfasync=\"false\"" "") ($search_config | jsonify) | safeHTML }}
 
 <style>
   html.dark {
