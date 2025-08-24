@@ -33,7 +33,7 @@ footer:
   copyright:
     notice: "&copy; Aki Ariga 2017-{year}"
 locale:
-  date_format: 2006-01-02 01:01-07:00
+  date_format: 2006-01-02
   time_format: 15:04
   address_format: en-us
 features:
