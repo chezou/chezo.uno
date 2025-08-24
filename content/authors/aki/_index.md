@@ -35,7 +35,8 @@ authors:
 bio:
   Interested in Machine Learning, ML Ops, and Data driven business.
   If you like my blog post, I'm glad if you can buy me a tea 😉
-  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chezou" data-color="#5F7FFF" data-emoji="🍵"  data-font="Cookie" data-text="Buy me a tea" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+  <div class="btn-bmc">
+  <a href="https://www.buymeacoffee.com/chezou"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a tea&emoji=🍵&slug=chezou&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a></div>
 ---
 
 Aki Ariga is a Vancouver based Principal Software Engineer at Treasure Data. His interests include developing production Machine Learning systems, Machine Learning products, and ML Ops. He aims to leverage Machine Learning powers and technologies for business and social good.
