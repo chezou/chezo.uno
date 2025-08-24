@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: iPhoneとの1週間
-keywords: [メール, 送信, 問題, 登録, メモ, iphone, 着信, files, docomo, 障壁]
+keywords: [メール, 送信, 問題, 登録, メモ, iphone, 着信, モバイル端末, files, docomo]
 recommendations: [/post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/,
   /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
 ---

@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: iPhoneでExpress予約ができるアプリ
-keywords: [変更, pc, 手抜き, zero, ブックマークレット, 遅延, なか, 予約, とき, 携帯]
+keywords: [変更, pc, 手抜き, zero, ブックマークレット, 遅延, 予約, なか, とき, 携帯]
 recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2022-12-16-bump-wowchemy-v570/,
   /post/2009-05-18-iphonetono1zhou-jian/]
 ---

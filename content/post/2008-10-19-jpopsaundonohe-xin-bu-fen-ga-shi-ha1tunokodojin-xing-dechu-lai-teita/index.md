@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: JPOPサウンドの核心部分が、実は１つのコード進行で出来ていた
-keywords: [マイナー, 進行, メジャー, コード, 投稿者, knows, 感心, メロディ, サウンド, なじみ]
+keywords: [進行, マイナー, メジャー, コード, 投稿者, knows, 感心, メロディ, サウンド, なじみ]
 recommendations: [/post/2008-07-05-rajaton/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
   /post/2020-01-14-2019-best-comic/]
 ---
