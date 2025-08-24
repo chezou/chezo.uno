@@ -5,7 +5,7 @@ settings:
 media:
   - name: shared_media
     input: assets/media
-    output: media
+    output: /
     categories: [image]
   - name: post_media
     input: content/post
