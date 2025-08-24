@@ -64,7 +64,7 @@ content:
         label: image path
         type: image
         options:
-          path: post_media
+          path: content/post
   - name: blog
     type: collection
     label: blog post
