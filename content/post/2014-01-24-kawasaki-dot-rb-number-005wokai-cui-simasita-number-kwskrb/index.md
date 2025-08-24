@@ -13,7 +13,7 @@ tags: []
 title: 'Kawasaki.rb #005を開催しました #kwskrb'
 keywords: [quine, relay, 言語, 解説, problem, mametter, お金, プログラミング, 制限, rb]
 recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
-  /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/]
+  /post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/]
 ---
 
 大分たってしまいましたが、2013/10/23にKawasaki.rb #005を行いました。

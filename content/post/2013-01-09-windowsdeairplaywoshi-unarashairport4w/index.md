@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: WindowsでAirPlayを使うならShairport4w
-keywords: [airplay, デバイス, 停止, server, google chrome, dac, appletv, 規格, エラー, サーバ]
+keywords: [airplay, デバイス, 停止, server, google chrome, dac, appletv, 規格, サーバ, エラー]
 recommendations: [/post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/,
   /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/,
   /post/2020-07-16-google colaboratory-vs code(code-server)/]

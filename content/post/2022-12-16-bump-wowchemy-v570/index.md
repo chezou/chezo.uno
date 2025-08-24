@@ -11,9 +11,9 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [yaml, 検索, 変更, wowchemy, hugo, 構造, 設定, config, アドベントカレンダー, バージョン]
-recommendations: [/post/2022-01-14-prelims-recommend-hugo/, /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/,
-  /post/2022-01-25-hugo-content-based-recommendation/]
+keywords: [検索, yaml, 変更, wowchemy, hugo, 設定, 構造, config, アドベントカレンダー, バージョン]
+recommendations: [/post/2025-08-24-pages-cms/, /post/2022-01-14-prelims-recommend-hugo/,
+  /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
 ---
 
 毎年アドベントカレンダーの時期にHugoのテーマであるWowchemy (旧 Academic) のバージョンを上げています。
