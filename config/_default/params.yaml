@@ -18,7 +18,7 @@ marketing:
     org_name: ""
     description: Leverage data for your life
   analytics:
-    google_analytics: G-FWV6PBXHBT
+    # google_analytics: G-FWV6PBXHBT
     google_tag_manager: ""
 header:
   navbar:
