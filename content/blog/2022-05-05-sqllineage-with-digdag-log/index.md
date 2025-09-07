@@ -3,7 +3,7 @@ title: Create data lineage from Trino/Hive queries in digdag log with Python
 subtitle: sqllineage visualize your query log into lineage
 summary: ''
 authors: [aki]
-tags: []
+tags: [python, digdag]
 categories: [digdag, lineage, sql]
 date: 2022-05-05 20:31:05-07:00
 lastmod: 2022-05-05 20:31:05-07:00
@@ -103,6 +103,6 @@ $ sqllineage -g -f output.sql
 
 Now you can see visualization of data linage, both table level and column level.
 
-{{< figure src="./featured.webp" title="SQL lineageの例" >}}
+{{< figure src="./featured.webp" title="An example of SQL lineage" >}}
 
 Let's try sqllineage!
