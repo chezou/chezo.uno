@@ -8,11 +8,14 @@ main:
   - name: Blog (Japanese)
     url: /#posts
     weight: 25
+  - name: Projects
+    url: /project
+    weight: 30
   - name: Publications
     url: /#publications
     weight: 40
   - name: Talks
-    url: /#talks
+    url: /event
     weight: 50
   - name: CV
     url: /aki_ariga_cv.pdf
