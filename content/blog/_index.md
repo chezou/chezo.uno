@@ -9,3 +9,4 @@ header:
 
 [Tags](/tags)
 [Categories](/categories)
+[RSS](/index.xml)
