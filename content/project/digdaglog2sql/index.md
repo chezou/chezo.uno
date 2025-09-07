@@ -9,7 +9,9 @@ categories: [OSS]
 date: 2022-05-05T18:00:00-07:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/chezou/digdaglog2sql"
+links:
+  - type: site
+    url: "https://github.com/chezou/digdaglog2sql"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

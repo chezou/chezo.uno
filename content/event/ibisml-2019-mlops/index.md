@@ -46,11 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://docs.google.com/presentation/d/1T8JF6h_DFnBAWz8LJvK0miFWsVovKyP0BDuXk3cVo2Q/edit?usp=sharing
+links:
+  - type: slides
+    url: https://docs.google.com/presentation/d/1T8JF6h_DFnBAWz8LJvK0miFWsVovKyP0BDuXk3cVo2Q/edit?usp=sharing
 
-url_code:
-url_pdf:
-url_video:
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
