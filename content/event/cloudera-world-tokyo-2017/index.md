@@ -46,7 +46,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://www.slideshare.net/Cloudera_jp/how-to-go-into-production-your-machine-learning-models-cwt2017
+links:
+  - type: slides
+    url: https://www.slideshare.net/Cloudera_jp/how-to-go-into-production-your-machine-learning-models-cwt2017
 
 url_code:
 url_pdf:

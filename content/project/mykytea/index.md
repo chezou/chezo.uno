@@ -9,7 +9,13 @@ categories: [NLP]
 date: 2017-12-01T18:45:52+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/chezou/Mykytea-python"
+links:
+  - type: site
+    url: "https://github.com/chezou/Mykytea-python"
+  - type: code
+    url: "https://github.com/chezou/Mykytea-python"
+  - type: code
+    url: "https://github.com/chezou/Mykytea-ruby"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,14 +33,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-links:
-- name: Code(Ruby)
-  url: https://github.com/chezou/Mykytea-ruby
 
-url_code: "https://github.com/chezou/Mykytea-python"
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

@@ -21,13 +21,17 @@ cascade:
       kind: page
 
 
+build:
+  writeStats: true
 enableGitInfo: false
+summaryLength: 30
 defaultContentLanguage: en
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 pagination.pagerSize: 10
 enableEmoji: true
+enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles:
   - \.ipynb$
@@ -37,16 +41,15 @@ ignoreFiles:
   - _files$
   - _cache$
 disableAliases: false
-enableRobotsTXT: true
 timeout: 600000
 summaryLength: 40
 outputs:
   home:
     - HTML
     - RSS
-    - JSON
-    - WebAppManifest
+    - headers
     - redirects
+    - backlinks
   section:
     - HTML
     - RSS
@@ -60,17 +63,15 @@ outputFormats:
     rel: manifest
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 90
   anchor: smart
+  hint: picture
 taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
   author: authors
 markup:
-  goldmark:
-    renderer:
-      unsafe: true
   _merge: deep
 permalinks:
   authors: /author/:slug/
@@ -84,4 +85,6 @@ params:
 security:
   _merge: deep
 sitemap:
+  _merge: deep
+minify:
   _merge: deep
