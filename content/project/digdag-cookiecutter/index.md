@@ -10,7 +10,7 @@ date: 2019-12-01T18:48:39+09:00
 
 # Optional external URL for project (replaces project detail page).
 links:
-  - type: site
+  - type: code
     url: "https://github.com/chezou/cookiecutter-digdag"
 
 # Featured image
@@ -28,16 +28,6 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 ---
+
+A template generates digdag workflows for SQL and Python.
