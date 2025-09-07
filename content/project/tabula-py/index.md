@@ -9,7 +9,11 @@ categories: ["OSS"]
 date: 2019-12-01T19:00:00+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://tabula-py.readthedocs.io/en/latest/"
+links:
+  - type: site
+    url: "https://tabula-py.readthedocs.io/en/latest/"
+  - type: code
+    url: "https://github.com/chezou/tabula-py/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -26,11 +30,6 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
-
-url_code: "https://github.com/chezou/tabula-py/"
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

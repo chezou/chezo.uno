@@ -46,7 +46,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://docs.google.com/presentation/d/1hvF29KsE3WmIfoC98EONJjZKovqUFYlHNIKOSZIX_GU/edit
+links:
+  - type: slides
+    url: https://docs.google.com/presentation/d/1hvF29KsE3WmIfoC98EONJjZKovqUFYlHNIKOSZIX_GU/edit
 
 url_code:
 url_pdf:

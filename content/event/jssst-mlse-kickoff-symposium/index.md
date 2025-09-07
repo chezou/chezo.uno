@@ -46,7 +46,9 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: https://www.slideshare.net/chezou/ss-97373367
+links:
+  - type: slides
+    url: https://www.slideshare.net/chezou/ss-97373367
 
 url_code:
 url_pdf:
