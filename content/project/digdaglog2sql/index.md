@@ -23,6 +23,8 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+
+featured: true
 ---
 
 Extract SQLs from digdag log to visualize SQL lineage.
