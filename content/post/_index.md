@@ -15,4 +15,4 @@ header:
 
 [Tags](/tags)
 [Categories](/categories)
-[RSS](/index.xml)
+[RSS](./index.xml)
