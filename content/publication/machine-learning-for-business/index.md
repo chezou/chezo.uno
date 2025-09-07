@@ -13,7 +13,7 @@ publishDate: 2019-12-01T17:08:06+09:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["Book"]
 
 # Publication name and optional abbreviated publication name.
 publication: "O'Reilly Japan"
@@ -43,6 +43,9 @@ links:
 - name: Paper book
   url: https://www.oreilly.co.jp/books/9784873118253/
   type: site
+- name: Book (2nd edition)
+  url: https://www.oreilly.co.jp/books/9784873119472/
+  type: site
 - type: code
   url: https://github.com/oreilly-japan/ml-at-work
 
@@ -55,6 +58,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: ml_at_work.jpeg
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
