@@ -13,8 +13,10 @@ links:
   - type: site
     url: "https://github.com/chezou/Mykytea-python"
   - type: code
+    name: Code (Python)
     url: "https://github.com/chezou/Mykytea-python"
   - type: code
+    name: Code (Ruby)
     url: "https://github.com/chezou/Mykytea-ruby"
 
 # Featured image
@@ -25,20 +27,6 @@ image:
   focal_point: ""
   preview_only: false
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 ---
+
+Python/Ruby wrapper for KyTea.

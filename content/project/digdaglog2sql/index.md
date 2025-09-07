@@ -5,13 +5,16 @@ title: "digdaglog2sql"
 summary: "Extract SQLs from digdag log to visualize SQL lineage"
 authors: [aki]
 tags: [python, digdag]
-categories: [OSS]
+categories: [python, digdag]
 date: 2022-05-05T18:00:00-07:00
 
 # Optional external URL for project (replaces project detail page).
 links:
-  - type: site
+  - type: code
     url: "https://github.com/chezou/digdaglog2sql"
+  - type: site
+    name: Article
+    url: "/blog/2022-05-05-sqllineage-with-digdag-log/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -20,24 +23,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 ---
+
+Extract SQLs from digdag log to visualize SQL lineage.

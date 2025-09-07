@@ -10,8 +10,10 @@ date: 2023-09-01T18:00:00-07:00
 
 # Optional external URL for project (replaces project detail page).
 links:
-  - type: site
+  - type: code
     url: "https://github.com/chezou/vangohan-pdf"
+  - type: site
+    url: "https://vangohan.chezo.uno"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -20,24 +22,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 ---
+
+Notion scraper to generate PDFs of [VanGohan](https://vangohan.com)'s printable recipes.

@@ -10,7 +10,7 @@ date: 2019-12-01T18:51:41+09:00
 
 # Optional external URL for project (replaces project detail page).
 links:
-  - type: site
+  - type: code
     url: "https://github.com/chezou/docker-sphinx-recommonmark"
 
 # Featured image
@@ -21,23 +21,6 @@ image:
   focal_point: ""
   preview_only: false
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 ---
+
+Sphinx documentation toolchain, including latex and recommonmark in an Ubuntu docker container
