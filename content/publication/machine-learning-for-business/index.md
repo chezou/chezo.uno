@@ -39,22 +39,14 @@ featured: true
 links:
 - name: E-book
   url: https://www.oreilly.co.jp/books/9784873118215/
-  icon_pack: fas
-  icon: book
+  type: site
 - name: Paper book
   url: https://www.oreilly.co.jp/books/9784873118253/
-  icon_pack: fas
-  icon: book
+  type: site
+- type: code
+  url: https://github.com/oreilly-japan/ml-at-work
 
 
-url_pdf:
-url_code: https://github.com/oreilly-japan/ml-at-work
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
