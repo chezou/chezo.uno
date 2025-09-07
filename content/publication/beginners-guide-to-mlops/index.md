@@ -13,7 +13,7 @@ publishDate: 2019-12-01T17:09:30+09:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["Book section"]
 
 # Publication name and optional abbreviated publication name.
 publication: "n月刊ラムダノート, Vol.1, No.1, Lambda Note"
@@ -60,6 +60,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: NML-vol1.webp
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
