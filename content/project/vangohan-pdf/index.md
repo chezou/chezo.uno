@@ -22,6 +22,8 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+
+featured: true
 ---
 
 Notion scraper to generate PDFs of [VanGohan](https://vangohan.com)'s printable recipes.
