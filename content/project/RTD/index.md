@@ -9,7 +9,9 @@ categories: [client]
 date: 2019-12-01T18:48:29+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/chezou/RTD"
+links:
+  - type: site
+    url: "https://github.com/chezou/RTD"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

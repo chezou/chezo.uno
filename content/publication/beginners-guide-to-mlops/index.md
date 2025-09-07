@@ -39,12 +39,10 @@ featured: true
 links:
 - name: Paper book
   url: https://www.lambdanote.com/collections/n/products/nmonthly-vol-1-no-1-2019
-  icon_pack: fas
-  icon: book
+  type: site
 - name: E-book
   url: https://www.lambdanote.com/collections/frontpage/products/nmonthly-vol-1-no-1-2019-ebook
-  icon_pack: fas
-  icon: book
+  type: site
 
 url_pdf:
 url_code:

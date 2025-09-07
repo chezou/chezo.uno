@@ -9,7 +9,9 @@ categories: ["Machine Learning"]
 date: 2019-12-01T18:55:30+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/chezou/ml_in_production/wiki"
+links:
+  - type: site
+    url: "https://github.com/chezou/ml_in_production/wiki"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

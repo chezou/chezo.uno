@@ -9,7 +9,9 @@ categories: ["Jupyter notebook"]
 date: 2019-12-01T18:49:31+09:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/chezou/notebooks"
+links:
+  - type: site
+    url: "https://github.com/chezou/notebooks"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
