@@ -46,11 +46,11 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: http://www.bigdatacon.jp/2017/slides/Ariga-Cloudera.pdf
-
-url_code:
-url_pdf:
-url_video: https://youtu.be/gxhVuljamjY
+links:
+  - type: slides
+    url: http://www.bigdatacon.jp/2017/slides/Ariga-Cloudera.pdf
+  - type: video
+    url: https://youtu.be/gxhVuljamjY
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
