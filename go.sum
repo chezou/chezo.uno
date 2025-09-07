@@ -14,3 +14,5 @@ github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.5.2 h1:vqXNdxb+5L
 github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.5.2/go.mod h1:iiKLoehg9IqQd0R4jUfhl+wvJCiXPNgV88A/V8iKSLY=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.6.0 h1:xzwxZj2d2SXiAKlATfvzrO4QBdBjeVWGK62La8sMJyI=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.6.0/go.mod h1:iiKLoehg9IqQd0R4jUfhl+wvJCiXPNgV88A/V8iKSLY=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.6.1 h1:4Wb3rFVSXtox50w1WHN7GV7In1iCApHBLoL8NlXJGLM=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.6.1/go.mod h1:iiKLoehg9IqQd0R4jUfhl+wvJCiXPNgV88A/V8iKSLY=

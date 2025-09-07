@@ -3,8 +3,29 @@ public/
 .DS_Store
 .venv
 outputs/
-resources/_gen
+resources/
 .hugo_build.lock
-assets/jsconfig.json
+**/assets/jsconfig.json
 node_modules/
 hugo_stats.json
+pagefind/
+static/pagefind/
+
+*.log
+npm-debug.log*
+
+# ============================================================================
+# Operating System
+# ============================================================================
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
