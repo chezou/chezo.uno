@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 世界最大規模のアカペラ祭が日本で
-keywords: [コンテスト, アカペラ, 講師, 盆休み, 申込み, 最大規模, メニュー, お祭り, 全国, スルー]
+keywords: [コンテスト, アカペラ, 講師, 盆休み, 申込み, 最大規模, メニュー, お祭り, 全国, 以内]
 recommendations: [/post/2009-03-09-masafestanirajatonga/, /post/2008-07-05-rajaton/,
   /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/]
 ---

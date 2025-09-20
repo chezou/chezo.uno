@@ -10,7 +10,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: バンクーバーに移住して8か月が経った
-keywords: [vancouver, cad, 子供, ノンアルコールビール, 今年, br, 保険, スーパー, 小学校, 移住]
+keywords: [vancouver, cad, 子供, ノンアルコールビール, br, 今年, 保険, スーパー, 小学校, 移住]
 recommendations: [/post/2022-11-13-canada-good thing-bad things/, /post/2021-12-15-relocated-to-vancouver/,
   /post/2023-12-30-2023-year-in-review/]
 ---

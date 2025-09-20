@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 科学計算における均質化、あるいはなぜPythonが着実に他言語のシェアを奪っているか
-keywords: [python, 言語, こと, パッケージ, 統計的, 科学, 可視化, コード, matlab, 計算]
+keywords: [python, 言語, こと, パッケージ, 統計的, 科学, 可視化, matlab, コード, 計算]
 recommendations: [/post/2017-08-26_python------------------dc8d8f2fe989/, /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/,
   /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/]
 ---

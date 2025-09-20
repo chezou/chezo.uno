@@ -1,18 +1,16 @@
 ---
-
 title: 最近の人類のレビュー疲れ
 subtitle: Overcome Review Fatigue by Document Driven Agentic Coding
 date: 2025-09-19 21:26:00+00:00
 lastmod: 2025-09-19 21:26:00+00:00
-categories:
-  - AI
-  - LLM
+categories: [AI, LLM]
 draft: false
 featured: false
-image:
-  preview_only: false
-tags:
-  - development
+image: {preview_only: false}
+tags: [development]
+keywords: [llm, レビュー, 生成, コミット, md, コード, plan, 実装, pr, 他人]
+recommendations: [/post/2017-01-01-fei-ying-yu-neiteibunitotutenoossnomentenansukosuto/,
+  /post/2022-01-14-prelims-recommend-hugo/, /post/2019-03-29_ngekkan-lambda-note-article/]
 ---
 
 今年に入ってやたらレビューの時間が増えた。これはコードもそうだしドキュメントもそうだ。 そして、これによる疲れも急激に増加している。

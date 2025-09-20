@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: DSLite!
-keywords: [秘書, 研究室, ds, 購入, 金曜日, タイ, 先輩, わけ, 先週, lite]
+keywords: [秘書, 研究室, ds, 購入, 金曜日, タイ, 先輩, 先週, lite, わけ]
 recommendations: [/post/2006-03-17-uhi/, /post/2008-10-05-hd53r-ver-dot-8wogou-ru/,
   /post/2005-08-24-hetudohon-hetudohon/]
 ---

@@ -5,7 +5,7 @@ lastmod: '2019-12-17 09:49:00-08:00'
 summary: CRANを捨ててGitHubに帰ろう
 tags: [Engineering, OSS, R]
 title: Rパッケージ開発の闇
-keywords: [cran, パッケージ, msgpack, untitled, rtd, wakalang, md, data, 当時, リリース]
+keywords: [cran, パッケージ, msgpack, untitled, rtd, wakalang, data, md, 当時, リリース]
 recommendations: [/post/2019-12-04-r-and-td/, /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/,
   /post/2017-08-26_python------------------dc8d8f2fe989/]
 ---

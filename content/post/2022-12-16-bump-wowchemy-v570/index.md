@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [検索, yaml, 変更, wowchemy, hugo, 設定, 構造, config, アドベントカレンダー, バージョン]
+keywords: [検索, yaml, 変更, wowchemy, hugo, 設定, config, 構造, アドベントカレンダー, バージョン]
 recommendations: [/post/2025-08-24-pages-cms/, /post/2022-01-14-prelims-recommend-hugo/,
   /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
 ---
