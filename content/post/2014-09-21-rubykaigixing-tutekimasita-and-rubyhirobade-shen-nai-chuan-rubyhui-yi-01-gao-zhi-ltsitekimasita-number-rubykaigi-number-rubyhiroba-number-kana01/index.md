@@ -13,8 +13,8 @@ tags: []
 title: 'RubyKaigi行ってきました &amp; RubyHirobaで「神奈川Ruby会議01」告知LTしてきました #rubykaigi #rubyhiroba
   #kana01'
 keywords: [ruby, 数値計算, profile, '01', inside, julia, '2.1', よかっ, jekyll, android]
-recommendations: [/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
-  /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/]
+recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/,
+  /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/]
 ---
 
 いっぱい面白い発表があったけど、諸般の事情により完結に

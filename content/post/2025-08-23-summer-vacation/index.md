@@ -6,7 +6,7 @@ categories: [daily]
 draft: false
 featured: false
 image: {preview_only: false}
-keywords: [休み, 仕事, 子供, 珍しく, ブリュワリー, ドーナツ, セール, rta, motion, 開拓]
+keywords: [休み, 仕事, 子供, 甘く, 珍しく, ブリュワリー, ドーナツ, セール, rta, motion]
 recommendations: [/post/2023-04-05-first-time-skiing-in-25-years/, /post/2023-08-20-removed-slack-from-mobile/,
   /post/2023-12-30-2023-year-in-review/]
 ---

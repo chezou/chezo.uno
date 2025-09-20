@@ -5,7 +5,7 @@ lastmod: '2019-11-16 06:58:00-08:00'
 summary: Pythonからdigdag/Treasure Workflowを色々できます
 tags: [Engineering, OSS]
 title: Pythonのdigdagクライアントtdworkflowを作った
-keywords: [digdag, github, ドキュメント, ブランチ, secrets, colabolatory, boxes, ワークフロー, デザイン,
+keywords: [digdag, github, ドキュメント, ブランチ, secrets, colabolatory, boxes, デザイン, ワークフロー,
   ゴール]
 recommendations: [/post/2019-11-18-digdag-ci/, /post/2019-12-24-python-custom-scripting/,
   /post/2022-05-05-sqllineage-with-digdag-log/]

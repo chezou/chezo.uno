@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: '#JuliaTokyo 01で「Julia100本ノック」を発表してきました'
-keywords: [julia, sorami, vs, 移植, 白熱, オワコン, lighttable, ドリブン, studio, ide]
+keywords: [julia, sorami, vs, 移植, 白熱, オワコン, lighttable, studio, ide, engineer]
 recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/,
   /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/]
 ---

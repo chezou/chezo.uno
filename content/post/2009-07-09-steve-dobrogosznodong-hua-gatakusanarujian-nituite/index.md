@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: Steve Dobrogoszの動画がたくさんある件について
-keywords: [リハーサル, mass, アンコール, 合唱曲, ピアノ, かっこいい, sings, lord, 意図, 変態]
+keywords: [リハーサル, mass, アンコール, 合唱曲, ピアノ, かっこいい, sings, lord, 変態, 模様]
 recommendations: [/post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/,
   /post/2012-09-25-singstodobrogoszgazai-bigong-yan/]
 ---

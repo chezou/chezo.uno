@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: Googleフォームで作った申請フォームからSlackに通知をする方法
-keywords: [var, response, 通知, slack, url, break, channel, スクリプト, フォーム, title]
+keywords: [var, response, 通知, slack, url, break, channel, フォーム, スクリプト, title]
 recommendations: [/post/2012-01-07-mercurialtoqin-he-xing-nogao-iripozitoriburauzarhodecodewoinsutorusitemita/,
   /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
   /post/2023-01-10-ios-notification-management/]

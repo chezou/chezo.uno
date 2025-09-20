@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: どんな子供も好きになる、「うーやん」を広めるたった1つの方法
-keywords: [お子さん, 子供, 同僚, jpg, calendar, advent, 通用, 無かっ, 未満, 唯一]
+keywords: [お子さん, 子供, 同僚, jpg, calendar, advent, 通用, 無かっ, 未満, 哲学]
 recommendations: [/post/2015-12-21-xiao-saizi-gong-gazi-fen-karayao-woyin-mitakunaru-okusuriyin-metane-number-childadvent/,
   /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2021-12-15-relocated-to-vancouver/]
 ---

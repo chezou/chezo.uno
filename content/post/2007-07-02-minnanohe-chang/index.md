@@ -13,7 +13,7 @@ tags: []
 title: 「みんなの合唱」
 keywords: [全国大会, みんな, すげー, dl, 料金, 合唱, 設定, ｒｙ, ３０, １６]
 recommendations: [/post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/, /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
-  /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/]
+  /post/2008-10-05-hd53r-ver-dot-8wogou-ru/]
 ---
 
 [みんなの合唱](http://www.tomomusic.co.jp/service/chorus/?gclid=CK64972LiY0CFQIPYwod_xHTpg)なんつーサービスがあるようです．  

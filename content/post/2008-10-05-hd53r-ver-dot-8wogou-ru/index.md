@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: HD53R Ver.8を購入
-keywords: ['53', hd, sa, hfi, '010', ノイズ, '700', 購入, アンプ, わけ]
+keywords: ['53', hd, sa, hfi, '010', ノイズ, 購入, '700', アンプ, 合唱]
 recommendations: [/post/2008-10-28-mai-tutesimatuta/, /post/2008-09-14-hetudohonwu-se-sitahi/,
   /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
 ---
