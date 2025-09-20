@@ -7,8 +7,8 @@ date: '2019-06-03 21:50:07-07:00'
 description: I attended OpML ’19 is a conference for “Operational Machine Learning”
   held at Santa Clara on May 20th.
 title: 'The first conference of Operational Machine Learning: OpML ‘19'
-keywords: [ml, learning, production, machine, conference, facebook, google, product,
-  platform, engineering]
+keywords: [ml, learning, production, conference, machine, manager, facebook, ai, google,
+  scale]
 recommendations: [/blog/2025-05-02-ml-project-and-scrum/, /blog/2017-08-03_why-oss-based-machine-learning-is-good--3ab45a1a5e52/,
   /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/]
 ---

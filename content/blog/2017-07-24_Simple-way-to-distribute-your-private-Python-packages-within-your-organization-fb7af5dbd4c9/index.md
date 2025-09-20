@@ -7,7 +7,7 @@ date: '2017-07-23 09:21:40-07:00'
 description: This article is a translation of this article, originally written by
   aodag in Japanese. I translated it with his permission. This article…
 title: Simple way to distribute your private Python packages within your organization
-keywords: [server, directory, packages, http, foo, _this, pip, git, package, option]
+keywords: [server, directory, packages, http, foo, _this, pip, git, package, simple]
 recommendations: [/blog/2017-08-30_python-basics--package-management-462918458f96/,
   /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/, /blog/2022-05-21_fastest-way-to-release-python-cli/]
 ---

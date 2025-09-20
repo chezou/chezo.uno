@@ -6,11 +6,11 @@ date: '2018-04-16 21:21:33-07:00'
 description: Yesterday, PyPI was renewed to the next-generation site. It is modern
   and stylish one.
 title: Use Markdown document on brand new PyPI
-keywords: [pip, pypi, packages, document, rendered, aodag, py, description, python,
+keywords: [pip, pypi, packages, py, document, rendered, aodag, description, python,
   wheel]
 recommendations: [/blog/2017-08-30_python-basics--package-management-462918458f96/,
-  /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/,
-  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]
+  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
+  /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/]
 ---
 
 Yesterday, PyPI was renewed to the next-generation site. It is modern and stylish one.

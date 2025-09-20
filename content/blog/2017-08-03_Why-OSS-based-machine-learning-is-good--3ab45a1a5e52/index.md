@@ -6,10 +6,10 @@ categories: [machine_learning, OSS]
 date: '2017-08-02 20:56:59-07:00'
 description: This article is translation of Japanese version.
 title: Why OSS based machine learning is good?
-keywords: [learning, machine, deep, algorithms, open, implementation, algorithm, research,
-  performance, companies]
+keywords: [learning, machine, paper, deep, papers, algorithms, open, implementation,
+  algorithm, performance]
 recommendations: [/blog/2019-06-04_the-first-conference-of-operational-machine-learning--opml--19-308baad36108/,
-  /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/, /blog/2025-05-02-ml-project-and-scrum/]
+  /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/, /blog/2025-09-19-review-fatigue/]
 ---
 
 _This article is translation of_ [_Japanese version_](https://chezo.uno/post/2017-08-03_oss-48807bbbf13f/)_._
