@@ -7,7 +7,7 @@ categories: [AI, LLM]
 draft: false
 featured: false
 image: {preview_only: false}
-keywords: [generated, code, commit, review, md, ve, large, documents, pr, docs]
+keywords: [code, commit, review, generated, md, ve, large, pr, feedback, docs]
 recommendations: [/blog/2025-05-02-ml-project-and-scrum/, /blog/2017-08-03_why-oss-based-machine-learning-is-good--3ab45a1a5e52/,
   /blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/]
 ---
