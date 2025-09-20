@@ -83,9 +83,9 @@ LLM、特にAuto approvalモードでコードを生成すると、agentが試�
 
 私がこの記事と実際のコミットから学んだ重要なポイントは、以下の3点である。
 
-*   人間が作業をして30分くらいで実装できるタスク粒度をLLMに必ず与えること（contextがあふれるため）
-*   要件定義→外部設計→作業計画の流れ
-*   さらには上記のドキュメントを一緒にコミットする
+* 人間が作業をして30分くらいで実装できるタスク粒度をLLMに必ず与えること（contextがあふれるため）
+* 要件定義→外部設計→作業計画の流れ
+* さらには上記のドキュメントを一緒にコミットする
 
 非常に重要なポイントとしては、要件定義書、外部設計書、作業計画書、（＋受け入れテスト）をドキュメントとして実装とともにコミットすることで、コミットが多少大きくなっても意図が人間に理解しやすいという点である。 また、作業計画をきちんと整理することで、適切な粒度の開発とコミットをLLMの手綱として用意できるのである。これがないと30分程度の
 
@@ -93,12 +93,12 @@ LLM、特にAuto approvalモードでコードを生成すると、agentが試�
 
 OSS化するときに社内向けのコードを調整するためにちゃんとしたコミットをお見せすることはできないが、大まかには以下のような流れで作業をした。 （GitHub Copilot + Sonnet 4）
 
-1.  まず、やりたいことをAgent modeでSonnet 4と議論して、[docs/requirements.md](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/docs/requirements.md), [docs/interface.md](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/docs/interface.md)に整理をする。
-2.  さらにやるべき実装のTODOリストをPhase毎にチェックボックスでリストを作らせて、[docs/plan.md](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/docs/plan.md)として保存する
-3.  これらのドキュメント及び開発のお作法、ツールセットなどを [AGENTS.md](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/AGENTS.md) に作成させる
-4.  Phase毎に実装をして、コミットをする。その際にplan.mdのチェックをしてコミットをしていく。
-5.  次のPhaseに移る際にはagentのコンテキストをclearしてAGENTS.mdとplan.mdを読ませて作業をさせる
-6.  予定していたPhaseが終わり次のマイルストーンに移るときは、 `docs/milestone1` というフォルダを作り、 `plan.md` を移動、 `docs/plan.md` は空のファイルにして新規マイルストーンを開発開始する。
+1. まず、やりたいことをAgent modeでSonnet 4と議論して、[docs/requirements.md](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/docs/requirements.md), [docs/interface.md](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/docs/interface.md)に整理をする。
+2. さらにやるべき実装のTODOリストをPhase毎にチェックボックスでリストを作らせて、[docs/plan.md](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/docs/milestone1/plan.md)として保存する
+3. これらのドキュメント及び開発のお作法、ツールセットなどを [AGENTS.md](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/AGENTS.md) に作成させる
+4. Phase毎に実装をして、コミットをする。その際にplan.mdのチェックをしてコミットをしていく。
+5. 次のPhaseに移る際にはagentのコンテキストをclearしてAGENTS.mdとplan.mdを読ませて作業をさせる
+6. 予定していたPhaseが終わり次のマイルストーンに移るときは、 `docs/milestone1` というフォルダを作り、 `plan.md` を移動、 `docs/plan.md` は空のファイルにして新規マイルストーンを開発開始する。
 
 ![Commit history](featured.png)
 
