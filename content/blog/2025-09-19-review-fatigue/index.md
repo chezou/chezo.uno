@@ -103,7 +103,7 @@ I can't show you the proper commits from when I was adjusting the internal code 
 (GitHub Copilot + Sonnet 4)
 
 1. First, discuss what I want to do with Sonnet 4 in Agent mode and organize it into [`docs/requirements.md`](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/docs/requirements.md), [`docs/interface.md`](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/docs/interface.md).
-2. Have it create a TODO list with checkboxes for each phase of the implementation and save it as [`docs/plan.md`](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/docs/plan.md).
+2. Have it create a TODO list with checkboxes for each phase of the implementation and save it as [`docs/plan.md`](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/docs/milestone1/plan.md).
 3. Have it create an [`AGENTS.md`](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/AGENTS.md) file containing these documents and development conventions, toolsets, etc.
 4. Implement each phase and commit. At that time, check off the item in `plan.md` and commit.
 5. When moving to the next phase, clear the agent's context and have it read `AGENTS.md` and `plan.md` to start the work.
