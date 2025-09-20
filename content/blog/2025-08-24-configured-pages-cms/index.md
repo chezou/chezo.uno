@@ -5,8 +5,7 @@ lastmod: 2025-08-24 15:43:00+00:00
 draft: false
 featured: false
 image: {preview_only: false, filename: /pages-cms.png}
-keywords: [hugo, images, way, wowchemy, search, ipad, properly, error, cloudflare,
-  things]
+keywords: [hugo, images, way, wowchemy, search, ipad, index, cloudflare, things, settings]
 recommendations: [/blog/2022-01-25_hugo-content-based-recommendation/, /blog/2024-02-02-migrated-from-netlify-to-cloudflare-pages/,
   /blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/]
 ---

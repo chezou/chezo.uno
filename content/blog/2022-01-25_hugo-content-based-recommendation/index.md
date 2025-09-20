@@ -12,8 +12,8 @@ draft: false
 image: {caption: 'Recommendation example of https://chezo.uno/blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/',
   focal_point: Smart, preview_only: false}
 projects: []
-keywords: [articles, blog, recommendation, hugo, cli, yaml, content, based, write,
-  post]
+keywords: [articles, blog, recommendation, hugo, cli, yaml, content, based, post,
+  write]
 recommendations: [/blog/2025-08-24-configured-pages-cms/, /blog/2017-05-02_an-easy-way-to-get-url-list-of-your-medium-publication-c60c61244101/,
   /blog/2024-02-02-migrated-from-netlify-to-cloudflare-pages/]
 ---

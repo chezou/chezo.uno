@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [cloudflare, netlify, pages, blog, insights, hugo, settings, font, cache,
-  access]
+keywords: [cloudflare, netlify, pages, blog, insights, hugo, settings, font, access,
+  set]
 recommendations: [/blog/2025-08-24-configured-pages-cms/, /blog/2022-01-25_hugo-content-based-recommendation/,
   /blog/2024-01-26_scrape-notion-to-pdf/]
 ---

@@ -7,7 +7,7 @@ date: '2017-03-26 05:02:01-07:00'
 description: I created a simple sparklyr extension to handle Apache Avro file. It
   is just a simple wrapper of DataBrick’s spark-avro. It is listed in…
 title: 'sparkavro: Manupilate Apache Avro file with sparklyr'
-keywords: [spark, simple, library, file, chezou, test, install, tmp, output, load]
+keywords: [spark, simple, library, chezou, file, test, install, tmp, load, foo]
 recommendations: [/blog/2016-12-30_livy---jupyter-notebook---sparkmagic---powerful---easy-notebook-for-data-scientist-a8b72345ea2d/,
   /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
   /blog/2022-05-05-sqllineage-with-digdag-log/]

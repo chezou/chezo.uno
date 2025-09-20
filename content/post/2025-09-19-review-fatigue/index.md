@@ -8,7 +8,7 @@ draft: false
 featured: false
 image: {preview_only: false}
 tags: [development]
-keywords: [llm, レビュー, 生成, コミット, md, コード, plan, 実装, pr, 他人]
+keywords: [llm, レビュー, 生成, コミット, md, コード, 他人, plan, 実装, pr]
 recommendations: [/post/2017-01-01-fei-ying-yu-neiteibunitotutenoossnomentenansukosuto/,
   /post/2022-01-14-prelims-recommend-hugo/, /post/2019-03-29_ngekkan-lambda-note-article/]
 ---

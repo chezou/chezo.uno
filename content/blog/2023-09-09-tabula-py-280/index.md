@@ -11,8 +11,8 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [java_options, tabula, version, default, change, solved, allow, py, theme,
-  release]
+keywords: [java_options, tabula, version, default, change, py, docs, allow, theme,
+  solved]
 recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/,
   /blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/,
   /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/]
