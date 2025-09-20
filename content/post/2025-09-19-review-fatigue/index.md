@@ -100,7 +100,7 @@ OSS化するときに社内向けのコードを調整するためにちゃん�
 5.  次のPhaseに移る際にはagentのコンテキストをclearしてAGENTS.mdとplan.mdを読ませて作業をさせる
 6.  予定していたPhaseが終わり次のマイルストーンに移るときは、 `docs/milestone1` というフォルダを作り、 `plan.md` を移動、 `docs/plan.md` は空のファイルにして新規マイルストーンを開発開始する。
 
-![Commit history](image.png)
+![Commit history](featured.png)
 
 OSSとしての実際のPRは以下のような感じである。
 

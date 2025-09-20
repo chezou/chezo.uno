@@ -109,7 +109,7 @@ I can't show you the proper commits from when I was adjusting the internal code 
 5. When moving to the next phase, clear the agent's context and have it read `AGENTS.md` and `plan.md` to start the work.
 6. When the planned phase is finished and it's time to move to the next milestone, create a folder like `docs/milestone1`, move `plan.md` there, and make `docs/plan.md` an empty file to start development on the new milestone.
 
-![Commit history](image.png)
+![Commit history](featured.png)
 
 The actual PR for the open-source project looks like this:
 
