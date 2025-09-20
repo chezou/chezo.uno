@@ -123,7 +123,7 @@ In other words, the good thing is that you can understand if there are any major
 
 Honestly, I have no answer yet. What a colleague said really resonates with me: "People who blindly accept and pass on LLM-generated text are no different from the types who believe something is true just because a TV host said it on a variety show."
 
-Based on my experience, the only countermeasure against those who just proxy generated documents is to have an LLM create the wording for an escalation and escalate as needed. Have it enumerate the problematic data points and summarize them. Summarization is inherently a strong suit of LLMs, and models tuned by American companies (like Gemini) are tuned for the American style of feedback.
+Based on my experience, I'm discussing the feedback way and wording with Gemini. LLM supports creating the appropriate wording for a feedback/escalation and suggests escalation strategy as needed. (Gemini is a lonely Principal's mentor!) Have it enumerate the problematic data points and summarize them. Summarization is inherently a strong suit of LLMs, and models tuned by American companies so they are good at American style of feedback.
 
 ## I Can't Conclude
 
