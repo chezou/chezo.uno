@@ -29,6 +29,7 @@ content:
     delimiters: ["---\n", "---\n"]
     exclude: ["_index.md"]
     view:
+      primary: title
       layout: tree
       node:
         filename: index.md
@@ -77,6 +78,7 @@ content:
     delimiters: ["---\n", "---\n"]
     exclude: ["_index.md"]
     view:
+      primary: title
       layout: tree
       node:
         filename: index.md
