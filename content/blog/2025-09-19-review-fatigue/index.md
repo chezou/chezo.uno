@@ -1,16 +1,32 @@
 ---
+
 title: Tackling Review Fatigue by Document Driven Agentic Coding
 subtitle: Does agentic coding increase review productivity?
 date: 2025-09-19 21:26:00+00:00
 lastmod: 2025-09-19 21:26:00+00:00
-categories: [AI, LLM]
+categories:
+  - AI
+  - LLM
 draft: false
 featured: false
-image: {preview_only: false}
+image:
+  preview_only: false
 summury: Does agentic coding increase review productivity?
-keywords: [code, commit, review, generated, md, ve, large, pr, feedback, docs]
-recommendations: [/blog/2025-05-02-ml-project-and-scrum/, /blog/2017-08-03_why-oss-based-machine-learning-is-good--3ab45a1a5e52/,
-  /blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/]
+keywords:
+  - code
+  - commit
+  - review
+  - generated
+  - md
+  - ve
+  - large
+  - pr
+  - feedback
+  - docs
+recommendations:
+  - /blog/2025-05-02-ml-project-and-scrum/
+  - /blog/2017-08-03_why-oss-based-machine-learning-is-good--3ab45a1a5e52/
+  - /blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/
 ---
 
 This year, the amount of time I spend on reviews has exploded. This applies to both code and documentation. And the fatigue from this has also increased dramatically.
@@ -79,13 +95,16 @@ It may seem obvious, but I think using a dedicated review view is good because i
 
 ### 2\. Document-Driven Development
 
-In the story of developing a Java version manager called [Kopi](https://tech.dentsusoken.com/entry/2025/08/27/%E5%AE%9F%E7%94%A8%E5%93%81%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E6%8E%A2%E3%82%8B%E7%94%9F%E6%88%90AI%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B), several helpful initiatives were taken, so I tried them myself.
+In the story of developing a Java version manager called [Kopi](https://kopi-vm.github.io/) (Rust based Java version manager[)](https://tech.dentsusoken.com/entry/2025/08/27/%E5%AE%9F%E7%94%A8%E5%93%81%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E6%8E%A2%E3%82%8B%E7%94%9F%E6%88%90AI%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B), several helpful initiatives were taken, so I tried them myself.
 
-The three important points I learned from this article and the actual commits are:
+The three important points I learned from the [Kopi author's](https://tech.dentsusoken.com/entry/2025/08/27/%E5%AE%9F%E7%94%A8%E5%93%81%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E6%8E%A2%E3%82%8B%E7%94%9F%E6%88%90AI%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B) article and the actual commits are:
 
 *   Always give the LLM a task size that a human can implement in about 30 minutes (to avoid context overflow).
+    
 *   Follow a flow of requirements definition -> external design -> work plan.
+    
 *   Furthermore, commit the above documents along with the code.
+    
 
 A very important point is that by committing the requirements document, external design document, work plan document, (and acceptance tests) as documentation along with the implementation, the intent becomes easier for humans to understand, even if the commit is somewhat large. Also, by properly organizing the work plan, you can provide the LLM with a rein to develop and commit at an appropriate granularity.
 
@@ -93,12 +112,18 @@ I tried this method myself by open-sourcing a script I had written as an interna
 
 I can't show you the proper commits from when I was adjusting the internal code for open-sourcing, but the general workflow was as follows: (GitHub Copilot + Sonnet 4)
 
-1.  First, discuss what I want to do with Sonnet 4 in Agent mode and organize it into [`docs/requirements.md`](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/docs/requirements.md), [`docs/interface.md`](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/docs/interface.md).
-2.  Have it create a TODO list with checkboxes for each phase of the implementation and save it as [`docs/plan.md`](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/docs/milestone1/plan.md).
-3.  Have it create an [`AGENTS.md`](https://github.com/chezou/petit-cli/blob/1d966199195d1fb02d97445e70d3e82d532dc095/AGENTS.md) file containing these documents and development conventions, toolsets, etc.
+1.  First, discuss what I want to do with Sonnet 4 in Agent mode and organize it into `docs/requirements.md`, `docs/interface.md`.
+    
+2.  Have it create a TODO list with checkboxes for each phase of the implementation and save it as `docs/plan.md`.
+    
+3.  Have it create an `AGENTS.md` file containing these documents and development conventions, toolsets, etc.
+    
 4.  Implement each phase and commit. At that time, check off the item in `plan.md` and commit.
+    
 5.  When moving to the next phase, clear the agent's context and have it read `AGENTS.md` and `plan.md` to start the work.
+    
 6.  When the planned phase is finished and it's time to move to the next milestone, create a folder like `docs/milestone1`, move `plan.md` there, and make `docs/plan.md` an empty file to start development on the new milestone.
+    
 
 ![Commit history](featured.png)
 
@@ -116,6 +141,6 @@ Honestly, I have no answer yet. What a colleague said really resonates with me: 
 
 Based on my experience, I'm discussing the feedback way and wording with Gemini. LLM supports creating the appropriate wording for a feedback/escalation and suggests escalation strategy as needed. (Gemini is a lonely Principal's mentor!) Have it enumerate the problematic data points and summarize them. Summarization is inherently a strong suit of LLMs, and models tuned by American companies so they are good at American style of feedback.
 
-## I Can't Conclude
+## Continue Struggling
 
 I've written about various challenges and what I've done about them, but honestly, I'm still feeling my way through this. However, fundamentally, the limit of an LLM is the limit of the human using it. Therefore, it will still be necessary for humans to create workflows with a primary focus on how to maximize their own abilities.
