@@ -70,12 +70,11 @@ digdaglog2sql --session-id 12345 --endpoint digdag.example.com --output output.s
 
 ~~注意点としては、2022/05/05現在のPyPIにある sqllineage と その裏側で依存している sqlparse の最新バージョンでは、 Trino やHiveなどの一部の機能がうまくColumnレベルのlineageの解析ができません。~~
 
-{{% callout note %}}
-2022/05/11 現在、sqllineageの Hive, Trino に関する問題は修正され 1.3.5 でリリースされました。
+> [!NOTE]
+> 2022/05/11 現在、sqllineageの Hive, Trino に関する問題は修正され 1.3.5 でリリースされました。
 これに伴い、sqllineageをsourceからインストールする際に必要だったnodeも不要になりました。
-
-2022/10/06 sqlparseの 0.4.3 もリリースされたので　upstreamの修正はすべて反映されました。
-{{% /callout %}}
+>
+> 2022/10/06 sqlparseの 0.4.3 もリリースされたので　upstreamの修正はすべて反映されました。
 
 ~~今、Pull Requestを出しているところなので、これらがリリースされれば解決されると思います。~~
 
