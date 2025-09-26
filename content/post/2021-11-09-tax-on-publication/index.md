@@ -1,19 +1,35 @@
 ---
-authors: [aki]
-date: '2021-11-09 09:40:00-08:00'
-lastmod: '2022-02-07 19:24:00-08:00'
+
+authors:
+  - aki
+date: 2021-11-09 17:40:00+00:00
+lastmod: 2022-02-08 03:24:00+00:00
 summary: 海外移住した際の、所得税の扱いについてまとめました
-tags: [tax]
+tags:
+  - tax
 title: 日本国外で出版社と取引をする際の所得税の源泉徴収の扱い
-keywords: [源泉徴収, 所得, 非居住者, 源泉, 復興特別所得税, 国内, 場合, 所得税, 国税庁, 出版社]
-recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-11-28-cancel-japanese-service/,
-  /post/2021-12-15-relocated-to-vancouver/]
+keywords:
+  - 源泉徴収
+  - 所得
+  - 非居住者
+  - 源泉
+  - 復興特別所得税
+  - 国内
+  - 場合
+  - 所得税
+  - 国税庁
+  - 出版社
+recommendations:
+  - /post/2022-02-07-foregin-tax/
+  - /post/2022-11-28-cancel-japanese-service/
+  - /post/2021-12-15-relocated-to-vancouver/
+draft: true
+featured: false
+image:
+  preview_only: false
 ---
 
-<aside>
 ⚠️ この記事は2021年11月段階で体験したことに基づき書いています。この情報は、あくまで参考程度に止め、原則的に税に関する不明な点は[国税局電話相談センター](https://www.nta.go.jp/taxes/shiraberu/sodan/denwa-sodan/index.htm#a-02)に電話して確認してください。
-
-</aside>
 
 ![](https://images.unsplash.com/photo-1564939558297-fc396f18e5c7?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 
@@ -23,8 +39,10 @@ recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-11-28-cancel-japanes
 
 私がした取引は、以下の2つの種類の取引をしました
 
-- 書籍の印税（著作物の使用料、いわゆるロイヤリティ収入）
-- 書籍の有償での校正
+*   書籍の印税（著作物の使用料、いわゆるロイヤリティ収入）
+    
+*   書籍の有償での校正
+    
 
 これらの取引が、どのように源泉徴収されるべきか・されないべきかを書いていきます。
 
@@ -32,17 +50,23 @@ recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-11-28-cancel-japanes
 
 以下の手引を一通り読むと良いでしょう。ここに書いてあるのは令和3年度版なので、年度が変わると法令が変わる可能性があります。
 
-- 令和3年度版 源泉徴収のあらまし 第10 非居住者又は外国法人に支払う所得の源泉徴収事務
-    - [https://www.nta.go.jp/publication/pamph/gensen/aramashi2020/pdf/12.pdf](https://www.nta.go.jp/publication/pamph/gensen/aramashi2020/pdf/12.pdf)
-- 租税条約に関する届出書等の電磁的提供に関するFAQ
-    - [https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/joyaku/denjiteikyo/pdf/0021003-199_03.pdf](https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/joyaku/denjiteikyo/pdf/0021003-199_03.pdf#page5)
+*   令和3年度版 源泉徴収のあらまし 第10 非居住者又は外国法人に支払う所得の源泉徴収事務
+    
+    *   [https://www.nta.go.jp/publication/pamph/gensen/aramashi2020/pdf/12.pdf](https://www.nta.go.jp/publication/pamph/gensen/aramashi2020/pdf/12.pdf)
+        
+*   租税条約に関する届出書等の電磁的提供に関するFAQ
+    
+    *   [https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/joyaku/denjiteikyo/pdf/0021003-199\_03.pdf](https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/joyaku/denjiteikyo/pdf/0021003-199_03.pdf#page5)
+        
 
 ## 重要なポイント
 
 そのという点が最も重要なポイントになります。
 
-- 非居住者か？
-- 所得が国内源泉所得か？
+*   非居住者か？
+    
+*   所得が国内源泉所得か？
+    
 
 ![「源泉徴収のあらまし 第10 非居住者又は外国法人に支払う所得の源泉徴収事務」より。個人の非居住者は、国内源泉所得の場合にのみ源泉徴収の対象となる](Untitled.png)
 
@@ -55,7 +79,6 @@ recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-11-28-cancel-japanes
 非居住者とは、国税庁の[こちらの文章](https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875.htm)によると
 
 > 我が国の所得税法では、「居住者」とは、国内に「住所」を有し、又は、現在まで引き続き1年以上「居所」を有する個人をいい、「居住者」以外の個人を「非居住者」と規定しています。
-> 
 
 となります。
 
@@ -63,8 +86,10 @@ recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-11-28-cancel-japanes
 
 [別紙　住所の推定｜国税庁](https://www.nta.go.jp/taxes/shiraberu/taxanswer/gensen/2875-1.htm)
 
-1. その者が国外において、継続して一年以上居住することを通常必要とする職業を有すること
-2. その者が外国の国籍を有し又は外国の法令によりその外国に永住する許可を受けており、かつ、その者が国内において生計を一にする配偶者その他の親族を有しないことその他国内におけるその者の職業及び資産の有無等の状況に照らし、その者が再び国内に帰り、主として国内に居住するものと推測するに足りる事実がないこと
+1.  その者が国外において、継続して一年以上居住することを通常必要とする職業を有すること
+    
+2.  その者が外国の国籍を有し又は外国の法令によりその外国に永住する許可を受けており、かつ、その者が国内において生計を一にする配偶者その他の親族を有しないことその他国内におけるその者の職業及び資産の有無等の状況に照らし、その者が再び国内に帰り、主として国内に居住するものと推測するに足りる事実がないこと
+    
 
 私の場合は、日本国籍なので2は関係ありません。1に関してもソフトウェアエンジニアは一般的に継続して一年以上居住することを通常必要する職業であり、非居住者の判定ができそうです。
 
@@ -73,12 +98,13 @@ recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-11-28-cancel-japanes
 「国内源泉所得」というのは、「源泉徴収のあらまし 第10 非居住者又は外国法人に支払う所得の源泉徴収事務」にも以下のように記載されています。
 
 > 課税対象とする所得をその所得の発生源泉地が国内にあるもの、いわゆる国内源泉所得に限ることとしています。
-> 
 
 実際には、判定に関する条件として以下の2つがポイントとなります。
 
-- 恒久的施設を持っているか
-- その所得の区分は租税条約上、課税対象となっているか
+*   恒久的施設を持っているか
+    
+*   その所得の区分は租税条約上、課税対象となっているか
+    
 
 ### 恒久的施設
 
@@ -110,15 +136,20 @@ recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-11-28-cancel-japanes
 
 著作物の使用料に関しては以下の書類を源泉徴収前に出版社を介して提出します。
 
-- 源泉徴収前で、支払いまでに手続きが間に合いそうな場合
-    - 使用料に対する所得税及び復興特別所得税の軽減・免除（申請書名「租税条約に関する届け出書（使用料に対する所得税及び復興特別所得税の軽減・免除）」
+*   源泉徴収前で、支払いまでに手続きが間に合いそうな場合
+    
+    *   使用料に対する所得税及び復興特別所得税の軽減・免除（申請書名「租税条約に関する届け出書（使用料に対する所得税及び復興特別所得税の軽減・免除）」
         
         [［手続名］租税条約に関する届出（使用料に対する所得税及び復興特別所得税の軽減・免除）｜国税庁](https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/joyaku/annai/1648_41.htm)
         
-- 源泉徴収後
-    - 租税条約に関する届出書
-    - 租税条約に関する源泉徴収税額の還付請求（申請書名「租税条約に関する源泉徴収税額の還付請求書」）
-        - 出版社側で「源泉徴収納付書の控え」が必要（取得に時間がかかるので要注意）
+*   源泉徴収後
+    
+    *   租税条約に関する届出書
+        
+    *   租税条約に関する源泉徴収税額の還付請求（申請書名「租税条約に関する源泉徴収税額の還付請求書」）
+        
+        *   出版社側で「源泉徴収納付書の控え」が必要（取得に時間がかかるので要注意）
+            
         
         [［手続名］租税条約に関する源泉徴収税額の還付請求（発行時に源泉徴収の対象となる割引債及び芸能人等の役務提供事業の対価に係るものを除く）｜国税庁](https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/joyaku/annai/1648_49.htm)
         
@@ -127,11 +158,14 @@ recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-11-28-cancel-japanes
 
 以下の書類に詳しいですが、
 
-[https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/joyaku/denjiteikyo/pdf/0021003-199_03.pdf](https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/joyaku/denjiteikyo/pdf/0021003-199_03.pdf#page5)
+[https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/joyaku/denjiteikyo/pdf/0021003-199\_03.pdf](https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/joyaku/denjiteikyo/pdf/0021003-199_03.pdf#page5)
 
-1. 電子署名を行い電子証明書を付す
-2. 源泉徴収義務者から通知された識別符号（ID）及び暗証符号（パスワード）を用いる
-3. 源泉徴収義務者に届出書等提出者等確認書類を提示する
+1.  電子署名を行い電子証明書を付す
+    
+2.  源泉徴収義務者から通知された識別符号（ID）及び暗証符号（パスワード）を用いる
+    
+3.  源泉徴収義務者に届出書等提出者等確認書類を提示する
+    
 
 とされています。
 
@@ -141,8 +175,10 @@ recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-11-28-cancel-japanes
 
 また、合わせて滞在国でtax returnをする際に源泉徴収済みであることを示す納税証明書を、出版社に依頼して取得しましょう。
 
-- 源泉徴収に係る所得税及び復興特別所得税の納税証明願（申請署名「源泉徴収に係る所得税及び復興特別所得税の納税証明願」）
-    - 出版社側で「当該源泉所得税及び復興特別所得税を納付した際の所得税徴収高計算書の写し」として「源泉徴収納付書の控え」が必要（取得に時間がかかるので注意）
+*   源泉徴収に係る所得税及び復興特別所得税の納税証明願（申請署名「源泉徴収に係る所得税及び復興特別所得税の納税証明願」）
+    
+    *   出版社側で「当該源泉所得税及び復興特別所得税を納付した際の所得税徴収高計算書の写し」として「源泉徴収納付書の控え」が必要（取得に時間がかかるので注意）
+        
 
 [［手続名］源泉徴収に係る所得税及び復興特別所得税の納税証明願｜国税庁](https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/gensen/annai/1648_31.htm)
 
@@ -150,15 +186,12 @@ recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-11-28-cancel-japanes
 
 もし、印税以外の人的役務に関して源泉徴収されてしまった場合は、以下の書類を出版社に提出するよう依頼します。
 
-- 源泉所得税及び復興特別所得税の誤納額の還付請求
+*   源泉所得税及び復興特別所得税の誤納額の還付請求
     
     [［手続名］源泉所得税及び復興特別所得税の誤納額の還付請求｜国税庁](https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/gensen/annai/1648_22.htm)
     
 
-<aside>
 💡 消費税は非居住者が海外で作業した場合は免税になります。そのため、消費税の請求はしないようにしましょう
-
-</aside>
 
 ## 困ったら国税局電話相談センターに電話しよう
 
@@ -168,12 +201,12 @@ recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-11-28-cancel-japanes
 
 なお、難しい問題の場合電話の折り返しがありうるため、日本との電話は楽天モバイルと楽天ミニがとても役に立ちました。
 
----
+* * *
 
 記事が気に入ったらbuymeacoffeeでサポートしていただけると嬉しいです
 
 [chezou is a podcaster and technical blogger and open source developer](https://www.buymeacoffee.com/chezou)
 
----
+* * *
 
 [Back to home](https://chezou.notion.site/)
