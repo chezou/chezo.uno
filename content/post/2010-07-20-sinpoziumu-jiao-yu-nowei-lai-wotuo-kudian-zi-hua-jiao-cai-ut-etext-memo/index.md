@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: シンポジウム「教育の未来を拓く電子化教材」(UT-eTEXT)メモ
-keywords: [生命科学, 講義, 教科書, 教育, 学術, コンテンツ, 著作権, 教員, 電子化, ut]
+keywords: [生命科学, 講義, 教科書, 教育, 学術, 著作権, コンテンツ, 教員, 電子化, ut]
 recommendations: [/post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/,
   /post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/,
   /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/]

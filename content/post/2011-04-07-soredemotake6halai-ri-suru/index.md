@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: それでもTake6は来日する
-keywords: [来日, 日本, サイト, 祈り, 推測, 地震, あたたかい, message, knows, sure]
+keywords: [来日, 日本, サイト, 祈り, 地震, あたたかい, message, knows, sure, special]
 recommendations: [/post/2009-12-13-hutagozuo-liu-xing-qun-hajin-wan-kara-14ri-am2shi-gapiku/,
   /post/2022-11-28-cancel-japanese-service/, /post/2009-03-03-sok-bao-masa-festa/]
 ---

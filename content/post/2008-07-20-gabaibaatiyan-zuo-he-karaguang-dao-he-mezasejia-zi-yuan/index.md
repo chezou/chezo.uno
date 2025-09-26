@@ -12,7 +12,7 @@ summary: ''
 tags: []
 title: がばいばあちゃん 佐賀から広島へ めざせ甲子園
 keywords: [ばあ, エピソード, 要点, 一作, ありか, 集英社, 抜粋, うれしい, 読者, なけれ]
-recommendations: [/post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2008-11-06-koredeiinoda/,
+recommendations: [/post/2008-11-06-koredeiinoda/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
   /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/]
 ---
 
