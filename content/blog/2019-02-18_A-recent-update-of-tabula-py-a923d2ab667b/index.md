@@ -7,7 +7,7 @@ description: This article is a repost of Patreon article published last December
   I’m planning to bump up next version of tabula-py within few weeks.
 projects: [tabula-py]
 title: A recent update of tabula-py
-keywords: [tabula, py, app, template, oct, extraction, callout, '2019', note, weeks]
+keywords: [tabula, py, app, template, oct, extraction, '2019', note, weeks, updates]
 recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/,
   /blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/,
   /blog/2023-09-09-tabula-py-280/]
