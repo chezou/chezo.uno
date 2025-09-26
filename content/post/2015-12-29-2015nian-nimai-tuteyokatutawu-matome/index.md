@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 2015年に買ってよかった物まとめ
-keywords: [メーカー, synology, 出版社, 商品, メディア, フィルム, nas, ブログ, panasonic, サイクル]
+keywords: [メーカー, 出版社, synology, 商品, メディア, フィルム, nas, ブログ, panasonic, サイクル]
 recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
   /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/]
 ---
