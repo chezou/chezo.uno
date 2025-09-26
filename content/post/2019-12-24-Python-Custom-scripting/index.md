@@ -79,10 +79,9 @@ $ source .venv/bin/activate
 (.venv)$ pip install -r requirements.txt -c constraints.txt
 ```
 
-{{% callout note %}}
-この方法では、OSによる差異まで吸収ができない場合があります。
-例えば、digdag-python:3.7はDebianベースなので、OSレベルのパッケージ管理は `apt-get` を使いますが、それをスクリプト内に書いても実行ができません。
-{{% /callout %}}
+> [!NOTE]
+> この方法では、OSによる差異まで吸収ができない場合があります。
+> 例えば、digdag-python:3.7はDebianベースなので、OSレベルのパッケージ管理は `apt-get` を使いますが、それをスクリプト内に書いても実行ができません。
 
 #### digdag-anaconda3:2019.03
 
@@ -106,15 +105,14 @@ conda env create -f environment.yml
 もし、ローカル環境でworkflow全体を実行したい場合は、 <del>[digdagの v0_10ブランチ](https://github.com/treasure-data/digdag/tree/v0_10)を使うことで、
 本番環境に近いdigdag環境が用意できます</del>。
 
-{{% callout warning %}}
-2019/12/23現在は、Treasure Dataではv0_10を使っていますが、将来これは変わる恐れがあります。
-{{% /callout %}}
+> [!WARNING]
+> 2019/12/23現在は、Treasure Dataではv0_10を使っていますが、将来これは変わる恐れがあります。
 
-{{% callout warning %}}
-2021/02/14現在、v0_11へと移行しました。今後は適宜適切なブランチを使うようにしてください。
-https://github.com/treasure-data/digdag/pull/1502
-https://github.com/treasure-data/digdag/pull/1504
-{{% /callout %}}
+> [!WARNING]
+> 2021/02/14現在、v0_11へと移行しました。今後は適宜適切なブランチを使うようにしてください。
+> https://github.com/treasure-data/digdag/pull/1502
+> https://github.com/treasure-data/digdag/pull/1504
+
 ## py> operatorにパラメータを渡す
 
 py> operatorにパラメータを渡すには2つの方法があります。

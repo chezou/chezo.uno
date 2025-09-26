@@ -7,7 +7,7 @@ description: This article is a repost of Patreon article published last December
   I’m planning to bump up next version of tabula-py within few weeks.
 projects: [tabula-py]
 title: A recent update of tabula-py
-keywords: [tabula, py, app, template, oct, extraction, callout, '2019', note, weeks]
+keywords: [tabula, py, app, template, oct, extraction, '2019', note, weeks, updates]
 recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/,
   /blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/,
   /blog/2023-09-09-tabula-py-280/]
@@ -18,10 +18,9 @@ Photo by [Joshua Rawson-Harris](https://unsplash.com/@joshrh19?utm_source=medium
 
 _This article is_ [_a repost of Patreon article_](https://www.patreon.com/posts/23407263) _published last December. I’m planning to bump up the next version of tabula-py within few weeks._
 
-{{% callout note %}}
-(Note: Oct 7th, 2019)
-As of Oct. 2019, I launched [a documentation site](https://tabula-py.readthedocs.io/en/latest/) and [Google Colab notebook](https://colab.research.google.com/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb) for tabula-py. The FAQ would be good place to execute accurate extraction.
-{{% /callout %}}
+> [!NOTE]
+> (Note: Oct 7th, 2019)
+> As of Oct. 2019, I launched [a documentation site](https://tabula-py.readthedocs.io/en/latest/) and [Google Colab notebook](https://colab.research.google.com/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb) for tabula-py. The FAQ would be good place to execute accurate extraction.
 
 This is my first post on patreon. Apologies for delayed announcement of recent update of tabula-py. I will introduce the key features of updates.
 

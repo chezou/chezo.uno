@@ -77,16 +77,13 @@ conda env create -f environment.yml
 
 If you want to run an entire workflow on the local environment, <del>you can use [digdag v0_10 branch](https://github.com/treasure-data/digdag/tree/v0_10)</del>.
 
-{{% callout warning %}}
-As of Mar 5, 2020, Treasure Data uses digdag v0_10 branch, but it may change in the near future.
-{{% /callout %}}
+> [!WARNING]
+> As of Mar 5, 2020, Treasure Data uses digdag v0_10 branch, but it may change in the near future.
 
-{{% callout warning %}}
-As of Feb 14, 2021, Treasure Data moved to v0_11 branch. You may use the latest release branch.
-https://github.com/treasure-data/digdag/pull/1502
-https://github.com/treasure-data/digdag/pull/1504
-{{% /callout %}}
-
+> [!WARNING]
+> As of Feb 14, 2021, Treasure Data moved to v0_11 branch. You may use the latest release branch.
+> https://github.com/treasure-data/digdag/pull/1502
+> https://github.com/treasure-data/digdag/pull/1504
 
 # Passing Parameters to py> operator
 

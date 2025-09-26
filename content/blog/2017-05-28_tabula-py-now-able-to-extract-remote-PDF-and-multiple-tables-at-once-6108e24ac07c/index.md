@@ -13,10 +13,9 @@ recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python
   /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/, /blog/2023-09-09-tabula-py-280/]
 ---
 
-{{% callout note %}}
-(Note: Oct 7th, 2019)
-As of Oct. 2019, I launched [a documentation site](https://tabula-py.readthedocs.io/en/latest/) and [Google Colab notebook](https://colab.research.google.com/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb) for tabula-py. The FAQ would be good place to execute accurate extraction.
-{{% /callout %}}
+> [!NOTE]
+> (Note: Oct 7th, 2019)
+> As of Oct. 2019, I launched [a documentation site](https://tabula-py.readthedocs.io/en/latest/) and [Google Colab notebook](https://colab.research.google.com/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb) for tabula-py. The FAQ would be good place to execute accurate extraction.
 
 tabula-py is a Python library which enables you to extract tables from PDF into pandas DataFrames. Today, I released v0.8.0. In this post, I will introduce improvements after previous post of tabula-py. If you don’t familiar with tabula-py, you can see previous one.
 
