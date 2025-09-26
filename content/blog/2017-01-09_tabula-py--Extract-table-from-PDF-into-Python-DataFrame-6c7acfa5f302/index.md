@@ -13,12 +13,11 @@ recommendations: [/blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-
   /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/, /blog/2023-09-09-tabula-py-280/]
 ---
 
-{{% callout note %}}
-(Oct 7th, 2019)
-As of Oct. 2019, I launched a [documentation site](https://tabula-py.readthedocs.io/en/latest/) and [Google Colab notebook](https://colab.research.google.com/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb) for tabula-py. The FAQ would be good place to execute accurate extraction.
-
-Screenshots in this article is based on the old version interface. See the latest version example in the Colab notebook.
-{{% /callout %}}
+> [!NOTE]
+> (Oct 7th, 2019)
+> As of Oct. 2019, I launched a [documentation site](https://tabula-py.readthedocs.io/en/latest/) and [Google Colab notebook](https://colab.research.google.com/github/chezou/tabula-py/blob/master/examples/tabula_example.ipynb) for tabula-py. The FAQ would be good place to execute accurate extraction.
+> 
+> Screenshots in this article is based on the old version interface. See the latest version example in the Colab notebook.
 
 Today, I released tabula-py 0.3.0, which extracts table from PDF into Python pandas’s DataFrame.
 

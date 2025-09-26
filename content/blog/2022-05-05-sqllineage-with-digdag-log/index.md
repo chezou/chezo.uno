@@ -71,12 +71,11 @@ digdaglog2sql --session-id 12345 --endpoint digdag.example.com --output output.s
 
 ~~Note that, as of May 5, 2022, sqllineage and sqlparse, which is an important backend of sqllineage, are not fully compatible with Trino and Hive queries.~~
 
-{{% callout note %}}
-As of 2022/05/11, the issues in sqllineage around Hive/Trino were fixed and it is available in 1.3.5 on PyPI.
-It means, you don't have to have node for sqllineage installation from source.
-
-As of 2022/10/06, the issue in sqlparse was resolved in 0.4.3.
-{{% /callout %}}
+> [!NOTE]
+> As of 2022/05/11, the issues in sqllineage around Hive/Trino were fixed and it is available in 1.3.5 on PyPI.
+> It means, you don't have to have node for sqllineage installation from source.
+>
+> As of 2022/10/06, the issue in sqlparse was resolved in 0.4.3.
 
 ~~These are the PRs that approaches the issues:~~
 
