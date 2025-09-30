@@ -23,7 +23,7 @@ recommendations:
   - /post/2022-02-07-foregin-tax/
   - /post/2022-11-28-cancel-japanese-service/
   - /post/2021-12-15-relocated-to-vancouver/
-draft: true
+draft: false
 featured: false
 image:
   preview_only: false
@@ -53,11 +53,9 @@ image:
 *   令和3年度版 源泉徴収のあらまし 第10 非居住者又は外国法人に支払う所得の源泉徴収事務
     
     *   [https://www.nta.go.jp/publication/pamph/gensen/aramashi2020/pdf/12.pdf](https://www.nta.go.jp/publication/pamph/gensen/aramashi2020/pdf/12.pdf)
-        
 *   租税条約に関する届出書等の電磁的提供に関するFAQ
     
     *   [https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/joyaku/denjiteikyo/pdf/0021003-199\_03.pdf](https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/joyaku/denjiteikyo/pdf/0021003-199_03.pdf#page5)
-        
 
 ## 重要なポイント
 
@@ -149,7 +147,6 @@ image:
     *   租税条約に関する源泉徴収税額の還付請求（申請書名「租税条約に関する源泉徴収税額の還付請求書」）
         
         *   出版社側で「源泉徴収納付書の控え」が必要（取得に時間がかかるので要注意）
-            
         
         [［手続名］租税条約に関する源泉徴収税額の還付請求（発行時に源泉徴収の対象となる割引債及び芸能人等の役務提供事業の対価に係るものを除く）｜国税庁](https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/joyaku/annai/1648_49.htm)
         
@@ -178,7 +175,6 @@ image:
 *   源泉徴収に係る所得税及び復興特別所得税の納税証明願（申請署名「源泉徴収に係る所得税及び復興特別所得税の納税証明願」）
     
     *   出版社側で「当該源泉所得税及び復興特別所得税を納付した際の所得税徴収高計算書の写し」として「源泉徴収納付書の控え」が必要（取得に時間がかかるので注意）
-        
 
 [［手続名］源泉徴収に係る所得税及び復興特別所得税の納税証明願｜国税庁](https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/gensen/annai/1648_31.htm)
 
