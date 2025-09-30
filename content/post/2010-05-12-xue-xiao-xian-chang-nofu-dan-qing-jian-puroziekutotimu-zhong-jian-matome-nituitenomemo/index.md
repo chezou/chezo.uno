@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 学校現場の負担軽減プロジェクトチーム（中間まとめ）についてのメモ
-keywords: [調査, 負担, 教員, 業務, 文部科学省, 教育現場, 学校現場, 成績, 事業, 情報]
+keywords: [調査, 負担, 教員, 業務, 文部科学省, 教育現場, 学校現場, 成績, 情報, 文書]
 recommendations: [/post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/,
   /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/,
   /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]

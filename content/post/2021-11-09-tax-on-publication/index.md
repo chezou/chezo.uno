@@ -1,32 +1,16 @@
 ---
-
-authors:
-  - aki
+authors: [aki]
 date: 2021-11-09 17:40:00+00:00
 lastmod: 2022-02-08 03:24:00+00:00
 summary: 海外移住した際の、所得税の扱いについてまとめました
-tags:
-  - tax
+tags: [tax]
 title: 日本国外で出版社と取引をする際の所得税の源泉徴収の扱い
-keywords:
-  - 源泉徴収
-  - 所得
-  - 非居住者
-  - 源泉
-  - 復興特別所得税
-  - 国内
-  - 場合
-  - 所得税
-  - 国税庁
-  - 出版社
-recommendations:
-  - /post/2022-02-07-foregin-tax/
-  - /post/2022-11-28-cancel-japanese-service/
-  - /post/2021-12-15-relocated-to-vancouver/
 draft: false
 featured: false
-image:
-  preview_only: false
+image: {preview_only: false}
+keywords: [源泉徴収, 所得, 非居住者, 源泉, 復興特別所得税, 国内, 場合, 所得税, 国税庁, 出版社]
+recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-11-28-cancel-japanese-service/,
+  /post/2021-12-15-relocated-to-vancouver/]
 ---
 
 ⚠️ この記事は2021年11月段階で体験したことに基づき書いています。この情報は、あくまで参考程度に止め、原則的に税に関する不明な点は[国税局電話相談センター](https://www.nta.go.jp/taxes/shiraberu/sodan/denwa-sodan/index.htm#a-02)に電話して確認してください。

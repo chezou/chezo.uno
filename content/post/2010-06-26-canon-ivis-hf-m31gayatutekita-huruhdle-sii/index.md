@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: Canon iVIS HF M31がやってきた。フルHD楽しい
-keywords: ['1600', '1200', jpeg, バッテリ, youtube, フルhd, aee, 予備, '47', 実家]
+keywords: ['1600', '1200', jpeg, バッテリ, youtube, フルhd, aee, 予備, '47', cf]
 recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2010-03-22-shi-jie-bian-ge-noshi-ravuosunotatuta-tunomai-ifang/,
   /post/2009-08-07-pokemonxin-gan-xian/]
 ---

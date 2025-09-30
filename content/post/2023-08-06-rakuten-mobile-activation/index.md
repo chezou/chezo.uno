@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [楽天モバイル, sms, アクティベーション, 海外, 機種変更, 料金, iphone, imessage, 請求, 回線]
+keywords: [楽天モバイル, sms, アクティベーション, 海外, 機種変更, 料金, iphone, imessage, 回線, 請求]
 recommendations: [/post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/,
   /post/2022-11-28-cancel-japanese-service/, /post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/]
 ---

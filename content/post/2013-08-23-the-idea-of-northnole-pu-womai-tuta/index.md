@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: The Idea of Northの楽譜を買った
-keywords: [paypal, 楽譜, 返信, ライセンス, メール, pdf, idea, 支払い, アカペラグループ, アレンジ]
+keywords: [paypal, 楽譜, 返信, ライセンス, メール, pdf, idea, アカペラグループ, 支払い, アレンジ]
 recommendations: [/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
   /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/, /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
 ---

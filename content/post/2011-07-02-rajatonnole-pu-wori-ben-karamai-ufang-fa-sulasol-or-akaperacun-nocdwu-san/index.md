@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: Rajatonの楽譜を日本から買う方法 - Sulasol or あかぺら村のCD屋さん?
-keywords: [mia, 楽譜, rajaton, メール, 購入, cd, オーダー, 日本, 確認, 依頼]
+keywords: [mia, 楽譜, rajaton, メール, 購入, cd, オーダー, 日本, 確認, 出版]
 recommendations: [/post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
   /post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/, /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
 ---
