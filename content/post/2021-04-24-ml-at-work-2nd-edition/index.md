@@ -11,7 +11,7 @@ tags: [book]
 categories: [publish]
 projects: []
 image: {caption: 仕事ではじめる機械学習 第2版 表紙, focal_point: Smart, preview_only: false}
-keywords: [目次, tokoroten, 実務, hagino, 数式, '3000', 機械学習, ebook, ジャパン, 書籍]
+keywords: [目次, tokoroten, 実務, hagino, 数式, '3000', 機械学習, ebook, ジャパン, オライリー]
 recommendations: [/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
   /post/2024-06-20-nappan-book-review/]
 ---
