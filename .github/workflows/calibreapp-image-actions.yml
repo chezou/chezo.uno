@@ -2,6 +2,22 @@
 # Open a Pull Request if any images can be compressed.
 name: Compress Images
 on:
+  pull_request:
+    paths:
+      - '**.jpg'
+      - '**.jpeg'
+      - '**.png'
+      - '**.webp'
+      - '**.avif'
+  push:
+    branches:
+      - master
+    paths:
+      - '**.jpg'
+      - '**.jpeg'
+      - '**.png'
+      - '**.webp'
+      - '**.avif'
   workflow_dispatch:
   schedule:
     - cron: '00 23 * * 0'
@@ -9,6 +25,10 @@ jobs:
   build:
     name: calibreapp/image-actions
     runs-on: ubuntu-latest
+    if: |
+      github.repository == 'chezou/chezo.uno' &&
+      (github.event_name != 'pull_request' ||
+       github.event.pull_request.head.repo.full_name == github.repository)    
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
@@ -17,9 +37,11 @@ jobs:
         uses: calibreapp/image-actions@main
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
-          compressOnly: true
+          compressOnly: ${{ github.event_name != 'pull_request' }}
       - name: Create New Pull Request If Needed
-        if: steps.calibre.outputs.markdown != ''
+        if: |
+          github.event_name != 'pull_request' &&
+          steps.calibre.outputs.markdown != ''
         uses: peter-evans/create-pull-request@v4
         with:
           title: Compressed Images Nightly
