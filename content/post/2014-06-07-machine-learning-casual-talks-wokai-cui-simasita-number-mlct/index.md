@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 'Machine Learning Casual Talks を開催しました #MLCT'
-keywords: [casual, talks, 機械学習, 発表, 立場, 定義, mlct, カジュアル, テスト自動化, yamakatu]
+keywords: [casual, talks, 機械学習, 発表, 立場, mlct, 定義, カジュアル, テスト自動化, yamakatu]
 recommendations: [/post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/,
   /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/,
   /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]

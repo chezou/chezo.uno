@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 面白いほどよく分かる哲学・思想のすべて
-keywords: [酷い, 単語, 文芸社, 哲学, 倫理, おかしい, 言い回し, 具合, 筆者, 本質]
+keywords: [酷い, 単語, 文芸社, 哲学, 倫理, おかしい, 言い回し, 具合, 本質, 思想]
 recommendations: [/post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/, /post/2008-10-10-luo-yu-bai-xuan-xia/,
   /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/]
 ---

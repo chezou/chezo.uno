@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 風が強く吹いている
-keywords: [スポーツ, 物語, 新潮社, 共感, 伏線, ゴール, 通勤, キャラクター, 運動, トレーニング]
+keywords: [スポーツ, 物語, 新潮社, 共感, 伏線, 通勤, ゴール, キャラクター, 運動, トレーニング]
 recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
   /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/]
 ---

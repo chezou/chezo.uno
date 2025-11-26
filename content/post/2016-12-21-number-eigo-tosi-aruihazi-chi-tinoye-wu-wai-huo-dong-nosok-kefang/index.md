@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: '#eigo と私〜あるいは子持ちの業務外活動の続け方'
-keywords: [英会話, dmm, モニタ, chromecast, 継続, 英語, こと, ルンバ, 転職, レッスン]
+keywords: [英会話, dmm, モニタ, chromecast, 英語, 継続, こと, ルンバ, 転職, レッスン]
 recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2022-01-09-vancouver-engineer-podcast/,
   /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/]
 ---

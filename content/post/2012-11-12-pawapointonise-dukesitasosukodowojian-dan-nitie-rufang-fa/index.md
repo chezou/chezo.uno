@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: パワーポイントに色づけしたソースコードを簡単に貼る方法
-keywords: [パワーポイント, source, gist, 形式, syntax, 方法, 保持, html, コード, 覚え書き]
+keywords: [パワーポイント, source, gist, 形式, 方法, syntax, 保持, html, コード, 覚え書き]
 recommendations: [/post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/,
   /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/]
 ---
