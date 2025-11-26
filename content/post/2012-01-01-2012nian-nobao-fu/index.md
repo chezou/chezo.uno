@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 2012年の抱負
-keywords: [こと, 定着, 公開, スキル, mykytea, 子ども, 解析, 昨年, rajaton, 生活]
+keywords: [こと, 定着, 公開, mykytea, 子ども, スキル, 解析, 昨年, rajaton, 生活]
 recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
   /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/]
 ---

@@ -11,9 +11,10 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [仕事, staff, promotion, '2024', 練習, vancouver, コミュニケーション, もの, 技術的, ヨーロッパ]
-recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2021-12-18-8-months-after-relocating-vancouver/,
-  /post/2016-03-30-zhuan-zhi-simasita/]
+keywords: [仕事, principal, staff, promotion, '2024', 練習, vancouver, コミュニケーション, もの,
+  技術的]
+recommendations: [/post/2025-11-25-staff-engineering-path/, /post/2023-12-30-2023-year-in-review/,
+  /post/2021-12-18-8-months-after-relocating-vancouver/]
 ---
 
 2024年中はバタバタしていて書きそびれたので、2025年に書いています。

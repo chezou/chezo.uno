@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 2014年を振り返って
-keywords: [翻訳, rails, 迷惑, ホットエントリ, julia, output, 仕事, ingress, 来年, 技術]
+keywords: [翻訳, rails, 迷惑, ホットエントリ, julia, output, 仕事, ingress, 来年, 機会]
 recommendations: [/post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/,
   /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/]
 ---

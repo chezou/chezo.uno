@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [通知, 会社, 仕事, モード, slack, パーソナル, スマホ, 対応, とき, こと]
+keywords: [通知, 会社, モード, 仕事, slack, パーソナル, スマホ, 対応, とき, こと]
 recommendations: [/post/2023-01-10-ios-notification-management/, /post/2025-08-23-summer-vacation/,
   /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/]
 ---

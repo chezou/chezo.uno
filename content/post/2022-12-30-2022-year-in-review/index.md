@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [post, バンクーバー, 活動, hezou, netlify, cms, podcast, チーム, 副業, キャリア]
+keywords: [post, バンクーバー, 活動, hezou, netlify, cms, podcast, チーム, 副業, おいしい]
 recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2022-01-09-vancouver-engineer-podcast/,
   /post/2021-12-31-2021-year-review/]
 ---

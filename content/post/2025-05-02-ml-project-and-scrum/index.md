@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [タスク, 価値, プロジェクト, hypothesis, ml, フェーズ, boxing, product, ビジネス, time]
-recommendations: [/post/2019-12-24-python-custom-scripting/, /post/2018-10-25_risecamp------ee65c2ef0c9e/,
-  /post/2018-05-17_mlse-kickoff/]
+recommendations: [/post/2019-12-24-python-custom-scripting/, /post/2025-11-25-staff-engineering-path/,
+  /post/2018-10-25_risecamp------ee65c2ef0c9e/]
 ---
 
 機械学習プロジェクトをいくつかこなしてきたが、直感的にはスクラムが機械学習に向いていなさそうというのを思っていた。が、社内で議論をしたときに「Technical Storyを使えばタスクを2週間に収まるように分割できるはず。そして、それをすれば2週間で価値がでるはず」と言われて、ちゃんと反論ができなかったので世の中ではどういう取り組みがあるのかも含めて、言語化するためにこの記事を書いている。

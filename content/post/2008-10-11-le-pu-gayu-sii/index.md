@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 楽譜が欲しい
-keywords: [出版, ない, 自信, 分散, 無理, 比較的, 方々, ネット, オリジナル, アカペラ]
+keywords: [出版, ない, 自信, 分散, 無理, 方々, ネット, 比較的, オリジナル, アカペラ]
 recommendations: [/post/2008-06-09-tuiniiphonedeng-chang/, /post/2018-06-27_internet-for-kids/,
   /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/]
 ---

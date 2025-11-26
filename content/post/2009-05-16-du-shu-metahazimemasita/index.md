@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 読書メーターはじめました
-keywords: [読書, 気分転換, ライフログ, 読書メーター, excite, わけ, 投資, なく, グラフ, 満足]
+keywords: [読書, 気分転換, ライフログ, 読書メーター, excite, わけ, なく, 投資, グラフ, 満足]
 recommendations: [/post/2009-07-23-du-shu-metanomian-dao-natokoro/, /post/2009-05-02-hazimemasite-wordpress/,
   /post/2005-07-17-urayamasika/]
 ---

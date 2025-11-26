@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 勝間和代のビジネス頭を創る7つのフレームワーク力 ビジネス思考法の基本と実践
-keywords: [論文, 著者, おすすめ, 長期的, 要点, 拙著, 思考力, 和代, 勝間, 読了]
+keywords: [論文, 著者, おすすめ, 要点, 拙著, 思考力, 和代, 勝間, 長期的, 読了]
 recommendations: [/post/2019-03-29_ngekkan-lambda-note-article/, /post/2008-06-15-ojin-nomian-qiang/,
   /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/]
 ---

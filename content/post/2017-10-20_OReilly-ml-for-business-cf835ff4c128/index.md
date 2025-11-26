@@ -4,7 +4,7 @@ categories: [publish, book, writing]
 date: '2017-10-19 11:19:18-07:00'
 description: 技術書典2で好評だった技術書供養寺の薄い本が、この度技術書典3に合わせて商業誌になります！今回も Takashi Nishibayashiさんと…
 title: オライリーから「仕事ではじめる機械学習」が出版されます
-keywords: [機械学習, システム, modeling, 学習, 予測, 推薦, テスト, まとめ, バッチ処理, 検定]
+keywords: [機械学習, システム, modeling, 学習, 予測, 推薦, テスト, バッチ処理, まとめ, 検定]
 recommendations: [/post/2018-05-17_mlse-kickoff/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/,
   /post/2021-04-24-ml-at-work-2nd-edition/]
 ---
