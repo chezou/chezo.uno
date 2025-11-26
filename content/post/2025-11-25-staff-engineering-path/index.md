@@ -1,29 +1,14 @@
 ---
-
 title: Principal Engineerが読む「スタッフエンジニアの道」
 date: 2025-11-25 22:32:00+00:00
 draft: false
 featured: false
-image:
-  preview_only: false
+image: {preview_only: false}
 summury: スタッフエンジニアの道は悩めるStaff+のとても良い支えになる書籍
-tags:
-  - Staff Engineering
-keywords:
-  - staff
-  - engineer
-  - プロジェクト
-  - エンジニア
-  - チームメンバー
-  - 本書
-  - マップ
-  - こと
-  - 自分
-  - 戦略
-recommendations:
-  - /post/2024-12-31-2024-year-in-review/
-  - /post/2016-03-30-zhuan-zhi-simasita/
-  - /post/2018-06-19_goodbye-cloudera/
+tags: [Staff Engineering]
+keywords: [staff, engineer, プロジェクト, エンジニア, チームメンバー, 本書, マップ, こと, 自分, 仕事]
+recommendations: [/post/2024-12-31-2024-year-in-review/, /post/2016-03-30-zhuan-zhi-simasita/,
+  /post/2018-06-19_goodbye-cloudera/]
 ---
 
 オライリーから出ている「スタッフエンジニアの道」を [@riywo さん](https://about.me/riywo)を通じてご恵贈いただき、第1部と3部を読み終えてしずかなインターネットに書評を書いたのがおよそ一年前、そこからさらに1年かけて第2部を読み終えたので感想である。1年前に読んだ文は最後の方に貼っておく。
