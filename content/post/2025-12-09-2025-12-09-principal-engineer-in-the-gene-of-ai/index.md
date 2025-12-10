@@ -6,6 +6,8 @@ draft: true
 featured: false
 image:
   preview_only: false
-subtitle: エージェント時代に
 ---
 
+*   AIは "frenemy"
+    
+*   必要なのは英語力、コミュ力
