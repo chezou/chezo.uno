@@ -13,7 +13,7 @@ tags: []
 title: 何故かiTunes storeで買ったm4pが音が出ない
 keywords: [ファイル, 公演, プチヲタ, アカペラグループ, 名古屋, 日程, 日本語, '27', マシン, '11']
 recommendations: [/post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
-  /post/2008-07-10-ris-a-la-malta/]
+  /post/2009-03-03-sok-bao-masa-festa/]
 ---
 
 そうなのだ。しかも、その症状が出たファイルは、前のマシンでバックアップして新しいマシンに復元した日本語のファイルばかり。ファイルも日本語の部分だけ文字化けしていて(日本語がアンダーバーになっていた)、QuickTimeでは再生できるというなぞっぷり。  

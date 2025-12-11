@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: Ris a la malta
-keywords: [トライ, life, bgm, 青木, rockapella, もう一度, the real group, ライブ, こと, ｒｙ]
+keywords: [小屋, トライ, life, bgm, 青木, rockapella, もう一度, the real group, ライブ, こと]
 recommendations: [/post/2008-07-16-rockapella-channel/, /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/,
   /post/2009-04-13-it-dont-mean-a-thing/]
 ---

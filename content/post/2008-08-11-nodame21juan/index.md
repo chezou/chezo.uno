@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: のだめ21巻
 keywords: [千秋, 衝撃, 結婚, 知子, 二ノ宮, 翌朝, スルー, その後, 講談社, 続き]
-recommendations: [/post/2008-07-06-nodamekantabire18-20/, /post/2008-06-15-gui-cai-xian-ru/,
-  /post/2008-10-10-tiisanatiisanawang-yang/]
+recommendations: [/post/2008-07-06-nodamekantabire18-20/, /post/2008-10-10-tiisanatiisanawang-yang/,
+  /post/2008-06-15-gui-cai-xian-ru/]
 ---
 
 {{< amazon asin="4063407128" title="のだめカンタービレ #21 (21) (講談社コミックスキス)" >}}

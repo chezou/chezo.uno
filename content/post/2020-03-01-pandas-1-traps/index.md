@@ -5,7 +5,7 @@ lastmod: '2020-03-01 17:00:00-08:00'
 summary: pandas.NAに関連するmissing value周りのあれこれ
 tags: [Python, pandas]
 title: pandas 1.0 のpd.NAのハマりどころ
-keywords: [pandas, int, na, 挙動, experimental, 登場, new, numpy, '64', documentation]
+keywords: [pandas, int, na, 挙動, experimental, 登場, numpy, new, '64', documentation]
 recommendations: [/post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/, /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/,
   /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/]
 ---

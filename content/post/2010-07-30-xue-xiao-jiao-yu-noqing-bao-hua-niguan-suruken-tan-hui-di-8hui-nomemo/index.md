@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 「学校教育の情報化に関する懇談会」 第8回のメモ
-keywords: [委員, 協働, 情報化, 学び, 仮説, 新井, 懸念, パッシブ, 情報, 活用]
+keywords: [委員, 協働, 情報化, 学び, 仮説, 日常的, 新井, 懸念, パッシブ, 情報]
 recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
   /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/,
   /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]

@@ -1,16 +1,14 @@
 ---
-
 title: AI時代のPrincipal Engineer
 date: 2025-12-09 22:30:00+00:00
 draft: false
 featured: false
-image:
-  preview_only: false
+image: {preview_only: false}
 subtitle: AIの遺電子の時代が早く来てほしい
-tags:
-  - leadership
-  - engineering
-  - career
+tags: [leadership, engineering, career]
+keywords: [ai, コード, principal, 生成, こと, 人間, coding, 相手, レビュー, 企業]
+recommendations: [/post/2025-09-19-review-fatigue/, /post/2025-11-25-staff-engineering-path/,
+  /post/2016-12-01-rubydeshen-ceng-xue-xi-woshi-tutayin-sheng-he-cheng-amazon-pollywoshi-tutewebsaitonodu-mishang-geyin-sheng-he-cheng-sitemita/]
 ---
 
 AmazonのPrincipal Applied ScientistのEugene Yanさんの記事に触発されたので書いてみる。
