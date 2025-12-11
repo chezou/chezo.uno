@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: '小さい子供が自分から薬を飲みたくなる「おくすり飲めたね」 #childadvent'
-keywords: [我が家, ケア, 注意, メーカー, 子供, 出版社, 商品, メディア, ブログ, 恐ろしく]
+keywords: [我が家, ケア, 注意, メーカー, 出版社, 子供, 商品, メディア, ブログ, 恐ろしく]
 recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/,
   /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/]
 ---

@@ -5,7 +5,7 @@ lastmod: '2022-12-16 15:55:00-08:00'
 summary: 子連れ移住に際して調べたり体験したあれこれ
 tags: [Canada, 日常]
 title: カナダのバンクーバーエリアに子連れ移住した
-keywords: [学校, 子供, untitled, カナダ, ホテル, 日本, ハンガー, 教室, 部屋, 移住]
+keywords: [学校, 子供, untitled, ホテル, カナダ, 日本, ハンガー, 教室, 部屋, 移住]
 recommendations: [/post/2021-12-18-8-months-after-relocating-vancouver/, /post/2022-11-13-canada-good
     thing-bad things/, /post/2022-11-28-cancel-japanese-service/]
 ---

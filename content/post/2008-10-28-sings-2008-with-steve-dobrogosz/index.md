@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: SINGS 2008 with Steve Dobrogosz
-keywords: [ピアノ, dobrogosz, 明るく, 言葉, sings, 演奏会, 会場, 演奏, 荒い, 素晴らしかっ]
+keywords: [ピアノ, dobrogosz, 明るく, sings, 言葉, 演奏会, 会場, 演奏, 荒い, 素晴らしかっ]
 recommendations: [/post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/,
   /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/]
 ---

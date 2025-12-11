@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 2023年を振り返って
-keywords: [vancouver, post, social, 仕事, あと, プロジェクト, 銀行, コールセンター, uno, chroma]
+keywords: [vancouver, post, social, 仕事, プロジェクト, あと, 銀行, コールセンター, uno, chroma]
 recommendations: [/post/2022-12-30-2022-year-in-review/, /post/2024-12-31-2024-year-in-review/,
   /post/2021-12-18-8-months-after-relocating-vancouver/]
 ---

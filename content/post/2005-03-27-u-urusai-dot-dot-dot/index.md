@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: う、うるさい……
-keywords: [cpu, ファン, ケース, '320', もん, 整理, 原因, ケーブル, 起動, 現在]
+keywords: [cpu, ファン, ケース, '320', もん, 原因, ケーブル, 起動, 整理, 現在]
 recommendations: [/post/2019-03-10_business-trip-goods/, /post/2009-04-26-tiyanneruhasonomama-vol-dot-1/,
   /post/2020-01-05-2019-best-movie/]
 ---

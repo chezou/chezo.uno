@@ -13,7 +13,7 @@ tags: []
 title: 残業ゼロの仕事力読了
 keywords: [理系, 残業, 本書, 日本, 素晴らしい, 文章, 通用, 社長, 不必要, マネジメント]
 recommendations: [/post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/,
-  /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/, /post/2008-08-11-mian-bai-ihodoyokufen-karuzhe-xue-si-xiang-nosubete/]
+  /post/2008-08-11-mian-bai-ihodoyokufen-karuzhe-xue-si-xiang-nosubete/, /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/]
 ---
 
 {{< amazon asin="4820717138" title="「残業ゼロ」の仕事力" >}}

@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 高屋奈月
-keywords: [臭い, 紹興酒, テイスト, 相変わらず, ダメ, 凄い, シリーズ, ok, 作品, 新しい]
+keywords: [臭い, 紹興酒, テイスト, 相変わらず, ダメ, 凄い, シリーズ, ok, 作品, isbn]
 recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-13-lang-toxiang-xin-liao-1/,
   /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---

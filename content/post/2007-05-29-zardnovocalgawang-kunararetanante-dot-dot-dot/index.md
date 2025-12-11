@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: ZARDのVocalが亡くなられたなんて……
-keywords: [ipod, ケーブル, 小物, 酷い, fm, pc, よい, 高校時代, 難点, 祈り]
+keywords: [ipod, ケーブル, 小物, 酷い, fm, pc, よい, 高校時代, 難点, 人柱]
 recommendations: [/post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/, /post/2006-03-17-uhi/,
   /post/2005-10-07-tuinikita/]
 ---

@@ -13,7 +13,7 @@ tags: []
 title: JPOPサウンドの核心部分が、実は１つのコード進行で出来ていた
 keywords: [進行, マイナー, メジャー, コード, 投稿者, knows, 感心, メロディ, サウンド, なじみ]
 recommendations: [/post/2008-07-05-rajaton/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
-  /post/2020-01-14-2019-best-comic/]
+  /post/2025-12-09-2025-12-09-principal-engineer-in-the-gene-of-ai/]
 ---
 
 [JPOPサウンドの核心部分が、実は1つのコード進行で出来ていた - エクサの口に戸は建たない](http://d.hatena.ne.jp/EXA/20081018/1224310523)をやっと読んだ。というか見た。  

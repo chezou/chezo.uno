@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: iPhone 6sのバッテリー交換には電話サポート+エクスプレス交換がオススメ
-keywords: [交換, 店舗, 電話, 当選, 在庫, やりとり, tsuboi, バッテリー, ため, iphone]
+keywords: [交換, 店舗, 電話, 当選, 在庫, やりとり, tsuboi, バッテリー, iphone, ため]
 recommendations: [/post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/,
   /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/, /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/]
 ---

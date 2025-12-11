@@ -10,8 +10,8 @@ image: {preview_only: false}
 tags: [development]
 summury: Tackling Review Fatigue by Document Driven Agentic Coding
 keywords: [llm, レビュー, 生成, コミット, md, コード, 他人, plan, 実装, pr]
-recommendations: [/post/2017-01-01-fei-ying-yu-neiteibunitotutenoossnomentenansukosuto/,
-  /post/2022-01-14-prelims-recommend-hugo/, /post/2019-03-29_ngekkan-lambda-note-article/]
+recommendations: [/post/2025-12-09-2025-12-09-principal-engineer-in-the-gene-of-ai/,
+  /post/2017-01-01-fei-ying-yu-neiteibunitotutenoossnomentenansukosuto/, /post/2022-01-14-prelims-recommend-hugo/]
 ---
 
 今年に入ってやたらレビューの時間が増えた。これはコードもそうだしドキュメントもそうだ。 そして、これによる疲れも急激に増加している。
