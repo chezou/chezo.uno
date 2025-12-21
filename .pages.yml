@@ -68,7 +68,7 @@ content:
         label: image path
         type: image
         options:
-          path: content/post
+          media: post_media
           # multiple: true
   - name: blog
     type: collection
@@ -118,4 +118,4 @@ content:
         label: image path
         type: image
         options:
-          path: post_media
+          media: blog_media
