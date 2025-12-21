@@ -9,7 +9,7 @@ summary: ''
 title: Jupyter Notebook/LabsをMLのどのフェーズで使うのか？
 keywords: [プロダクション, eda, ml, 用途, 結果, jupyter, 全部, 一概, アンケート, 愛用]
 recommendations: [/post/2016-10-29_homebrew-----iruby---------------6a02e5194ff2/,
-  /post/2025-05-02-ml-project-and-scrum/, /post/2018-10-19_treasure-data-------plazma-tech-talk-------3c901d92e973/]
+  /post/2018-10-19_treasure-data-------plazma-tech-talk-------3c901d92e973/, /post/2018-10-25_risecamp------ee65c2ef0c9e/]
 ---
 
 機械学習ではよく使われるJupyter Notebookですが、これを使ってプロダクションで動くコードを書くのは非常に難しいなと思い、皆どのように使っているのかを知りたくてアンケートをとってみました。

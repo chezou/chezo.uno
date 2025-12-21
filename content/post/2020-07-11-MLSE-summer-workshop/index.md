@@ -10,7 +10,7 @@ subtitle: ''
 summary: ''
 tags: [mlops]
 title: 機械学習工学研究会（MLSE）の夏合宿 2020で本番適用のためのインフラと運用に関する討論会を開催しました
-keywords: [モデル, リネージ, 討論会, 議論, oss, 夏合宿, wg, discord, 学習, 機械学習]
+keywords: [モデル, リネージ, 討論会, 議論, 夏合宿, wg, discord, oss, 学習, 機械学習]
 recommendations: [/post/2022-07-15-finished-mlse-infra-wg/, /post/2018-05-17_mlse-kickoff/,
   /post/2020-11-10-mlse-conference/]
 ---

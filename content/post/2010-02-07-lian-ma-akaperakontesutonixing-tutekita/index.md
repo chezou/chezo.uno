@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 練馬アカペラコンテストに行ってきた
-keywords: [和音, rajaton, 曲名, アレンジ, try, tone, 難しい, オリジナル, 宗教, パート]
+keywords: [和音, rajaton, 曲名, アレンジ, try, tone, 難しい, オリジナル, アカペラ, 宗教]
 recommendations: [/post/2008-07-05-rajaton/, /post/2008-06-03-er-du-qin-qian/, /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
 ---
 

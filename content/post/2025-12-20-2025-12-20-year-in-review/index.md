@@ -1,17 +1,16 @@
 ---
-
 title: 2025-12-20-year-in-review
 date: 2025-12-20 21:30:00+00:00
 draft: false
 featured: false
 image:
   preview_only: false
-  filename:
-    - post/2025-12-20-2025-12-20-year-in-review/IMG_2739.jpeg
-    - post/2025-12-20-2025-12-20-year-in-review/IMG_2708.jpeg
-    - post/IMG_3077.jpeg
-tags:
-  - review
+  filename: [post/2025-12-20-2025-12-20-year-in-review/IMG_2739.jpeg, post/2025-12-20-2025-12-20-year-in-review/IMG_2708.jpeg,
+    post/IMG_3077.jpeg]
+tags: [review]
+keywords: [今年, 温度, 仕事, ups, 時間, パン, ml, ケーキ, コース, ついで]
+recommendations: [/post/2024-12-31-2024-year-in-review/, /post/2025-11-25-staff-engineering-path/,
+  /post/2015-12-30-2015nian-wozhen-rifan-tute/]
 ---
 
 2025年は記憶が薄いので完全に忘れる前に記録しておこうと思う。

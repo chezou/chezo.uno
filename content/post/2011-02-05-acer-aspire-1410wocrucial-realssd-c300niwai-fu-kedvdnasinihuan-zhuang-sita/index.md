@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: Acer Aspire 1410をcrucial RealSSD C300に外付けDVDなしに換装した
-keywords: [ssd, ドライブ, sata, hdd, 領域, windows, ケーブル, バックアップ, ランダム, ディスク]
+keywords: [ssd, ドライブ, sata, hdd, 領域, windows, ケーブル, バックアップ, ディスク, 外付け]
 recommendations: [/post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/,
   /post/2006-03-17-uhi/, /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/]
 ---

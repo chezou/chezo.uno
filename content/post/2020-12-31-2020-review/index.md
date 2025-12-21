@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 2020年を振り返って
-keywords: [物語, mlse, 配信, 活動, 漫画, オンライン, マイク, oss, あと, ファンタジー]
+keywords: [物語, mlse, 配信, 活動, 漫画, オンライン, マイク, あと, oss, ファンタジー]
 recommendations: [/post/2022-07-15-finished-mlse-infra-wg/, /post/2020-11-10-mlse-conference/,
   /post/2020-07-11-mlse-summer-workshop/]
 ---

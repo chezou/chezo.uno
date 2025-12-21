@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 世界変革の時〜ラヴォスのたった一つの買い方
-keywords: ['1600', '1200', jpeg, '44', '97', '90', '87', '89', '88', '43']
+keywords: ['1600', '1200', jpeg, '44', '97', '87', '90', '89', '88', '43']
 recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-08-07-pokemonxin-gan-xian/,
   /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/]
 ---
