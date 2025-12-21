@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: B'zのUltra treasureがやばすぎる
-keywords: [選曲, dvd, ライブ, 素晴らし, b'z, style, '001', 熱い, 無く, 手元]
+keywords: [選曲, dvd, ライブ, 素晴らし, style, b'z, '001', 熱い, 無く, 手元]
 recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2020-01-05-2019-best-movie/,
   /post/2008-07-19-can-shu-gui-tou-mo-hong/]
 ---

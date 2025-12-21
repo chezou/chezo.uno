@@ -13,8 +13,8 @@ image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [仕事, promotion, principal, '2024', staff, 練習, vancouver, コミュニケーション, もの,
   ヨーロッパ]
-recommendations: [/post/2025-11-25-staff-engineering-path/, /post/2023-12-30-2023-year-in-review/,
-  /post/2021-12-18-8-months-after-relocating-vancouver/]
+recommendations: [/post/2025-11-25-staff-engineering-path/, /post/2025-12-20-2025-12-20-year-in-review/,
+  /post/2023-12-30-2023-year-in-review/]
 ---
 
 2024年中はバタバタしていて書きそびれたので、2025年に書いています。

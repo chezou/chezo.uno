@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: '非エンジニアのコミュニティにSlackを導入した話 #ingress'
-keywords: [slack, hangout, ingress, チャット, コミュニティ, チャンネル, ため, アプリ, 参加, チーム]
+keywords: [slack, hangout, ingress, チャット, コミュニティ, チャンネル, ため, アプリ, 参加, こと]
 recommendations: [/post/2014-12-15-number-ingress-dehurutaimunopuroezientotochu-hui-tutahua/,
   /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/, /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/]
 ---

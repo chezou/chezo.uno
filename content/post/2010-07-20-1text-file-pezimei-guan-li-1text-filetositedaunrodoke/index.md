@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: ' 1TEXT file → ページ毎管理 → 1TEXT fileとしてダウンロード可'
-keywords: [先生, 教育, 教材, 電子化, 著作権, 大学, 教科書, 教員, コンテンツ, 相互]
+keywords: [先生, 教育, 教材, 電子化, 著作権, 大学, 教科書, コンテンツ, 教員, 相互]
 recommendations: [/post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/,
   /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
   /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/]

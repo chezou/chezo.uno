@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: MasaFestaにRajatonが！！
-keywords: [masa, festa, rajaton, 最大規模, コーナー, academy, finland, コンサート, エントリ, あか]
+keywords: [masa, festa, rajaton, 最大規模, 夏休み, コーナー, academy, finland, コンサート, エントリ]
 recommendations: [/post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/,
   /post/2009-03-03-sok-bao-masa-festa/, /post/2009-07-11-masa-festanotiketutogalai-ta/]
 ---

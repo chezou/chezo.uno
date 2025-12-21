@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 非英語ネイティブにとってのOSSのメンテナンスコスト
-keywords: [oss, issue, 丸山, コード, 英語, 開発, メンテナンス, ネイティブ, プロダクト, codelunch]
+keywords: [oss, issue, 丸山, コード, 英語, 開発, メンテナンス, ネイティブ, codelunch, プロダクト]
 recommendations: [/post/2016-03-30-zhuan-zhi-simasita/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
   /post/2018-06-19_goodbye-cloudera/]
 ---

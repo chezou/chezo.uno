@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: また一つ年をとった
-keywords: [出演者, 楽しい, 会社, 面接, 在宅勤務, スクワット, dplyr, cto, 幸い, 外資]
+keywords: [出演者, 楽しい, 会社, 面接, 在宅勤務, スクワット, dplyr, 幸い, 外資, cto]
 recommendations: [/post/2016-03-30-zhuan-zhi-simasita/, /post/2022-06-18-kawasaki
     rb 9 years reflection/, /post/2016-12-31-2016nian-wozhen-rifan-tute/]
 ---

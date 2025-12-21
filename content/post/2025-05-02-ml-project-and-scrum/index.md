@@ -11,7 +11,7 @@ featured: false
 draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords: [タスク, 価値, プロジェクト, hypothesis, ml, フェーズ, boxing, product, ビジネス, time]
+keywords: [タスク, スクラム, 価値, プロジェクト, hypothesis, ml, フェーズ, boxing, product, ビジネス]
 recommendations: [/post/2019-12-24-python-custom-scripting/, /post/2025-11-25-staff-engineering-path/,
   /post/2018-10-25_risecamp------ee65c2ef0c9e/]
 ---
