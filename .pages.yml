@@ -69,7 +69,7 @@ content:
         type: image
         options:
           path: content/post
-          multiple: true
+          # multiple: true
   - name: blog
     type: collection
     label: blog post
