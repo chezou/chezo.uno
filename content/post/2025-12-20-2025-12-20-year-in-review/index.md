@@ -9,7 +9,7 @@ image:
   filename:
     - post/2025-12-20-2025-12-20-year-in-review/IMG_2739.jpeg
     - post/2025-12-20-2025-12-20-year-in-review/IMG_2708.jpeg
-    - post/IMG_3077.jpeg
+    - post/2025-12-20-2025-12-20-year-in-review/IMG_3077.jpeg
 tags:
   - review
 keywords:
