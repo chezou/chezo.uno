@@ -3,8 +3,7 @@ title: 2025年を振り返って
 date: 2025-12-20 21:30:00+00:00
 draft: false
 featured: false
-image: {preview_only: false, filename: IMG_2739.jpeg,
-  focul_point: Smart}
+image: {preview_only: false, filename: IMG_2739.jpeg, focul_point: Smart}
 tags: [review]
 keywords: [今年, img, 温度, 仕事, jpeg, ups, 時間, パン, ml, ケーキ]
 recommendations: [/post/2024-12-31-2024-year-in-review/, /post/2025-11-25-staff-engineering-path/,
