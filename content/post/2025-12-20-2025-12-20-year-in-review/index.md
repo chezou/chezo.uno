@@ -1,30 +1,15 @@
 ---
-
 title: 2025年を振り返って
 date: 2025-12-20 21:30:00+00:00
 draft: false
 featured: false
 image:
   preview_only: false
-  filename:
-    - post/2025-12-20-2025-12-20-year-in-review/IMG_2739.jpeg
-tags:
-  - review
-keywords:
-  - 今年
-  - img
-  - 温度
-  - 仕事
-  - jpeg
-  - ups
-  - 時間
-  - パン
-  - ml
-  - ケーキ
-recommendations:
-  - /post/2024-12-31-2024-year-in-review/
-  - /post/2025-11-25-staff-engineering-path/
-  - /post/2015-12-30-2015nian-wozhen-rifan-tute/
+  filename: [post/2025-12-20-2025-12-20-year-in-review/IMG_2739.jpeg]
+tags: [review]
+keywords: [今年, img, 温度, 仕事, jpeg, ups, 時間, パン, ml, ケーキ]
+recommendations: [/post/2024-12-31-2024-year-in-review/, /post/2025-11-25-staff-engineering-path/,
+  /post/2015-12-30-2015nian-wozhen-rifan-tute/]
 ---
 
 2025年は記憶が薄いので完全に忘れる前に記録しておこうと思う。
