@@ -69,7 +69,7 @@ content:
         type: image
         options:
           media: post_media
-          multiple: true
+
   - name: blog
     type: collection
     label: blog post
@@ -119,4 +119,4 @@ content:
         type: image
         options:
           media: blog_media
-          multiple: true
+
