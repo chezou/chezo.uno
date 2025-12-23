@@ -1,11 +1,12 @@
 ---
-
 title: 「ちょっとしたことでうまくいく 発達障害の人が上手に働くための本」を読んだ
 date: 2025-12-22 18:09:00+00:00
 draft: false
 featured: false
-image:
-  preview_only: false
+image: {preview_only: false}
+keywords: [振る舞い, 対処, 具体的, ワークアラウンド, 学び, こと, 特性, タスク, 傾向, 強い]
+recommendations: [/post/2025-05-02-ml-project-and-scrum/, /post/2025-11-25-staff-engineering-path/,
+  /post/2012-01-01-2012nian-nobao-fu/]
 ---
 
 家族に勧められて冬休みの課題図書よろしくこの本を読んだが、色々と良かった。

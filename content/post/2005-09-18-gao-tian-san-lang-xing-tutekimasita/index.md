@@ -13,7 +13,7 @@ tags: []
 title: 高田三郎行ってきました。
 keywords: [混声, 演奏会, オケ, 男声, コンサートホール, 良かっ, 合唱団, 今日, 合同, 力押し]
 recommendations: [/post/2010-09-11-press-start-2010xing-tutekita/, /post/2005-07-17-urayamasika/,
-  /post/2005-08-21-nan-sheng-he-chang/]
+  /post/2008-11-08-liang-ishi-dai-ninatutanee/]
 ---
 
 今日は、某高田三郎の演奏会に行ってきました。  

@@ -5,7 +5,7 @@ draft: false
 featured: false
 image: {preview_only: false, filename: IMG_2739.jpeg, focul_point: Smart}
 tags: [review]
-keywords: [今年, img, 温度, 仕事, jpeg, ups, 時間, パン, ml, ケーキ]
+keywords: [今年, img, 温度, 仕事, jpeg, ups, パン, 時間, ml, ケーキ]
 recommendations: [/post/2024-12-31-2024-year-in-review/, /post/2025-11-25-staff-engineering-path/,
   /post/2015-12-30-2015nian-wozhen-rifan-tute/]
 ---
