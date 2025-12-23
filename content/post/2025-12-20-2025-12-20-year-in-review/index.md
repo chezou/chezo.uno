@@ -3,7 +3,7 @@ title: 2025年を振り返って
 date: 2025-12-20 21:30:00+00:00
 draft: false
 featured: false
-image: {preview_only: false, filename: featured.jpeg, focul_point: Smart}
+image: {preview_only: false, filename: featured.jpg, focul_point: Smart}
 tags: [review]
 keywords: [今年, 温度, 仕事, jpeg, ups, img, パン, 時間, ml, ケーキ]
 recommendations: [/post/2024-12-31-2024-year-in-review/, /post/2025-11-25-staff-engineering-path/,
@@ -24,7 +24,7 @@ recommendations: [/post/2024-12-31-2024-year-in-review/, /post/2025-11-25-staff-
 
 [https://www.parcomega.ca/](https://www.parcomega.ca/)
 
-![](featured.jpeg)
+![](featured.jpg)
 
 今年は完全にスノーボードに転向をして黙々と練習をしている。まだまだ初心者コースもまともに滑れないけど、来年こそは中級コースが滑れるようになりたい。
 
