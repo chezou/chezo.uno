@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: Ad[es]→iPhoneアドレス帳移行メモ
 keywords: [アドレス帳, iphone, 幸せ, 下記, '100', 移行, よかっ, 覚え書き, 添付, スパボ]
-recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/,
-  /post/2009-05-18-iphonetono1zhou-jian/]
+recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2009-05-18-iphonetono1zhou-jian/,
+  /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/]
 ---
 
 - 

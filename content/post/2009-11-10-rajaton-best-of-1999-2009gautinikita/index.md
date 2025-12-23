@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: RAJATON BEST of 1999-2009がうちにきた
-keywords: [dvd, アルバム, cd, rajaton, 前者, butterfly, live, 映像, 程度, 魅了]
+keywords: [dvd, アルバム, cd, rajaton, butterfly, 前者, live, 映像, 程度, 魅了]
 recommendations: [/post/2009-11-26-the-real-album/, /post/2008-09-28-bznoultra-treasuregayabasugiru/,
   /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
 ---
