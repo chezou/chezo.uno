@@ -1,17 +1,36 @@
 ---
+
 title: Tackling Review Fatigue by Document Driven Agentic Coding
 subtitle: Does agentic coding increase review productivity?
 date: 2025-09-19 21:26:00+00:00
 lastmod: 2025-09-19 21:26:00+00:00
-categories: [AI, LLM]
+categories:
+  - AI
+  - LLM
 draft: false
 featured: false
-image: {preview_only: false}
+image:
+  preview_only: false
 summury: Does agentic coding increase review productivity?
-tags: [development, AI, LLM]
-keywords: [code, commit, review, generated, md, ve, large, pr, feedback, docs]
-recommendations: [/blog/2025-05-02-ml-project-and-scrum/, /blog/2017-08-03_why-oss-based-machine-learning-is-good--3ab45a1a5e52/,
-  /blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/]
+tags:
+  - development
+  - AI
+  - LLM
+keywords:
+  - code
+  - commit
+  - review
+  - generated
+  - md
+  - ve
+  - large
+  - pr
+  - feedback
+  - docs
+recommendations:
+  - /blog/2025-05-02-ml-project-and-scrum/
+  - /blog/2017-08-03_why-oss-based-machine-learning-is-good--3ab45a1a5e52/
+  - /blog/2016-12-01_text-to-speech-based-on-deep-learning-for-web-site-using-amazon-polly-and-ruby-adc1923212cb/
 ---
 
 This year, the amount of time I spend on reviews has exploded. This applies to both code and documentation. And the fatigue from this has also increased dramatically.
@@ -60,7 +79,7 @@ By the way, it remains an open question that making appropriately sized commits 
 
 ## The Difference in Incentive Structures Between the Generator and the Reviewer
 
-Many leaderships want to claim that "using LLMs increases coding productivity," and I understand this is because many people strongly believe in AI-driven productivity improvements to proof its ROI, and there's a hype that should be true.
+Many leaderships want to claim that "using LLMs increases coding productivity," and I understand this is because many people strongly believe in AI-driven productivity improvements to prove its ROI, and there's a hype that should be true.
 
 Now, I'm aware there are various debates about code generation throughput, but I think it's possible it will increase. However, the speed of the reviewer's side hasn't gotten any faster yet. It will probably take a little more time (at least a year?) before we can entrust all reviews to LLMs. Also, we can't avoid an extra step to review LLM generated code.
 
