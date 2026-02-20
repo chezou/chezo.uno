@@ -11,9 +11,9 @@ subtitle: ''
 summary: ''
 tags: []
 title: パーフェクトブルー読了
-keywords: [店員, 読後感, 王道, 森博嗣, 東野, 圭吾, ミステリー, みゆき, 感情移入, 伏線]
+keywords: [店員, 読後感, 王道, 森博嗣, 東野圭吾, ミステリー, みゆき, 感情移入, 伏線, 辛く]
 recommendations: [/post/2008-05-17-subetegafninaru-du-liao/, /post/2008-08-24-sayonaraituka/,
-  /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/]
+  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
 ---
 
 {{< amazon asin="4488411010" title="パーフェクト・ブルー (創元推理文庫)" >}}

@@ -11,9 +11,9 @@ subtitle: ''
 summary: ''
 tags: []
 title: チャンネルはそのまま！Vol.1
-keywords: [どうでしょう, モデル, すばらしい, 北海道, special, ポップ, なじみ, 小学館, ファン, チャンネル]
+keywords: [モデル, すばらしい, 北海道, special, ポップ, なじみ, 小学館, ファン, チャンネル, テレビ]
 recommendations: [/post/2005-03-27-u-urusai-dot-dot-dot/, /post/2009-11-26-the-real-album/,
-  /post/2020-07-11-mlse-summer-workshop/]
+  /post/2013-01-09-autopagerize-rubynomechanizeban-wozuo-tuta/]
 ---
 
 [![](https://ecx.images-amazon.com/images/I/51DmEVIjTzL._SL160_.jpg) 

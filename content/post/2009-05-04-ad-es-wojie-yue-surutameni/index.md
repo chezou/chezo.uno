@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: Ad[es]を解約するために
-keywords: [gb, 解約, willcom, 意味, '16', 最安, store, コイン, ipod touch, ない]
+keywords: [gb, 解約, willcom, 意味, '16', 最安, store, ipod touch, コイン, ない]
 recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/,
   /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---

@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: '#ingress でフルタイムのプロエージェントと出会った話'
-keywords: [エージェント, ingress, コミュニティ, ポータル, darsana, 活動, レベル, 地域, cf, 今日]
+keywords: [エージェント, ingress, コミュニティ, ポータル, 活動, darsana, レベル, 地域, cf, 戦い]
 recommendations: [/post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
   /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/, /post/2015-12-30-2015nian-wozhen-rifan-tute/]
 ---

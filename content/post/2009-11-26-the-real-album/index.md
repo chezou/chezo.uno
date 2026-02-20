@@ -11,9 +11,9 @@ subtitle: ''
 summary: ''
 tags: []
 title: The Real Album
-keywords: [アルバム, ポップ, 印象, pass, 変態, 全体的, jazz, 活躍, これから, 楽しみ]
+keywords: [アルバム, ポップ, 印象, pass, 変態, 全体的, jazz, 活躍, 楽しみ, メンバー]
 recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/,
-  /post/2005-08-21-nan-sheng-he-chang/]
+  /post/2009-04-26-tiyanneruhasonomama-vol-dot-1/]
 ---
 
 Pass Me the Jazzがすてきなアルバムです！

@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: Juliaの情報を収集しつづけるには
-keywords: [julia, bicycle, '1885', feed, .com, 情報, reddit, 方々, slack, 変化]
+keywords: [julia, bicycle, '1885', feed, 情報, reddit, 方々, slack, com, 変化]
 recommendations: [/post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
   /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/, /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/]
 ---

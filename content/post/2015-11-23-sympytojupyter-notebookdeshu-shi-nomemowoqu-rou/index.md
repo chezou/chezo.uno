@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: SympyとJupyter notebookで数式のメモを取ろう
-keywords: [packt, 数式, starter, instant, kindle, .com, グラフ, メモ, センター試験, アンケート]
+keywords: [packt, 数式, starter, instant, kindle, グラフ, com, メモ, センター試験, アンケート]
 recommendations: [/post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/,
   /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/]
 ---

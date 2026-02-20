@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: うひー
 keywords: [ケーブル, lite, hdd, usb, キャスター, 秋葉原, ide, 外付け, バック, '600']
-recommendations: [/post/2006-05-01-dslite/, /post/2019-03-10_business-trip-goods/,
-  /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/]
+recommendations: [/post/2006-05-01-dslite/, /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
+  /post/2019-03-10_business-trip-goods/]
 ---
 
 全く持って卒論の筆が進みません。卒論締めは月曜午後5時。  

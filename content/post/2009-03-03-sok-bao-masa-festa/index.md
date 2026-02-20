@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 続報Masa Festa
-keywords: [プチヲタ, masa, festa, real, 男性, 来日, リアル, メンバー, 開催, こと]
+keywords: [プチヲタ, masa, festa, real, リアル, 男性, 来日, メンバー, 開催, こと]
 recommendations: [/post/2009-03-09-masafestanirajatonga/, /post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/,
   /post/2009-07-11-masa-festanotiketutogalai-ta/]
 ---

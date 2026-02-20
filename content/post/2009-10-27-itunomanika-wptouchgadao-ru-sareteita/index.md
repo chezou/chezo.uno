@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: いつのまにか、wptouchが導入されていた
-keywords: [iphone, 対応, 辛いです, appbank, ipod touch, flash, fc, rss, 自動的, wordpress]
+keywords: [iphone, 対応, appbank, ipod touch, flash, fc, rss, 自動的, wordpress, とき]
 recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/,
   /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/]
 ---
