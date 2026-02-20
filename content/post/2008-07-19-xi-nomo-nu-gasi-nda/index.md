@@ -11,9 +11,9 @@ subtitle: ''
 summary: ''
 tags: []
 title: 西の魔女が死んだ
-keywords: [女の子, 目線, 新潮社, 感情移入, ばあ, 主人公, まま, 作品, 良い, isbn]
+keywords: [女の子, 目線, 新潮社, 感情移入, 主人公, まま, 作品, 良い, isbn, スコア]
 recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-07-19-can-shu-gui-tou-mo-hong/,
-  /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/]
+  /post/2008-10-10-tiisanatiisanawang-yang/]
 ---
 
 {{< amazon asin="4101253323" title="西の魔女が死んだ (新潮文庫)" >}}

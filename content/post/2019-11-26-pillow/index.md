@@ -5,9 +5,9 @@ lastmod: '2019-11-26 21:18:00-08:00'
 summary: スマホとかしてると首痛くなると思いますが、そんな人のための枕です
 tags: [散財]
 title: ストレートネック向け最近の枕事情
-keywords: [ピロー, ネック, 出張, cm, グリーン, アイテム, 快適, たび, 気味, 持ち運び]
-recommendations: [/post/2019-03-10_business-trip-goods/, /post/2005-10-07-tuinikita/,
-  /post/2005-04-23-willcom/]
+keywords: [ピロー, ネック, 高さ, 出張, cm, グリーン, アイテム, 快適, たび, 気味]
+recommendations: [/post/2019-03-10_business-trip-goods/, /post/2017-12-23_----------------------701333a45696/,
+  /post/2005-10-07-tuinikita/]
 ---
 
 以前、首狩り族のネックピローをいただいてから、かなりストレートネック気味な状況が改善されて非常に良い。

@@ -11,9 +11,9 @@ subtitle: ''
 summary: ''
 tags: []
 title: Rubyで深層学習を使った音声合成Amazon Pollyを使ってWebサイトの読み上げ音声合成してみた
-keywords: [音声, amazon, 英語, dl, aws, .com, api, 話題, 追記, '2016']
+keywords: [音声, amazon, 英語, dl, aws, api, 話題, 追記, '2016', 米国]
 recommendations: [/post/2025-12-09-2025-12-09-principal-engineer-in-the-gene-of-ai/,
-  /post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
+  /post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2022-01-09-vancouver-engineer-podcast/]
 ---
 
 ![](20161201230818.png)

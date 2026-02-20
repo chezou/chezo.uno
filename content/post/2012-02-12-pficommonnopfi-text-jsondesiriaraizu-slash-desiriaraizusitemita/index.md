@@ -13,7 +13,7 @@ tags: []
 title: pficommonのpfi::text::jsonでシリアライズ/ デシリアライズしてみた
 keywords: [json, optional, price, pfi, member, max, data, string, js, ss]
 recommendations: [/post/2017-12-31_2017--------c4901627b12d/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
-  /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/]
+  /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/]
 ---
 
 [@unnonounoさんが紹介してくださったpficommon](http://unnonouno.blogspot.com/2011/10/pficommon.html)のjsonライブラリを試してみました。  

@@ -11,9 +11,9 @@ subtitle: ''
 summary: ''
 tags: []
 title: MeCab.jlをJulia v0.4.0-rc2に対応した
-keywords: [julia, jl, pr, .com, github, ソース, issue, qiita, mecab, おかげ]
+keywords: [julia, jl, pr, github, ソース, issue, qiita, mecab, おかげ, symbolic]
 recommendations: [/post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/,
-  /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/]
+  /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/]
 ---
 
 ついに、Julia v0.4.0-rc2が2015/9/19出ましたね！ Dictの`[:symbol => :value]`といったsyntax sugarがなくなったりして、自分が作っているMeCab.jlでも対応をしました。

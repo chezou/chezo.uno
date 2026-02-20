@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: word2vec可視化するやつをipython notebookから見れるようにした
-keywords: [word, ipython, notebook, 可視化, はてなダイアリー, グラフ, コード, 要領, 引き算, インタラクティブ]
+keywords: [word, ipython, notebook, 可視化, ダイアリー, はてな, グラフ, コード, 要領, 引き算]
 recommendations: [/post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
   /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/, /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/]
 ---

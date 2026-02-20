@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: PRESS START 2010行ってきた
-keywords: [メドレー, トリガー, クロノ, 演奏会, メロディ, 演奏, 素晴らしい, ファイアーエムブレム, カエル, かけ声]
+keywords: [メドレー, 演奏会, メロディ, 演奏, 素晴らしい, ファイアーエムブレム, カエル, かけ声, 魔王, 編成]
 recommendations: [/post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/,
   /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2009-08-12-rui-yan-si/]
 ---

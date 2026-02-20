@@ -11,9 +11,9 @@ subtitle: ''
 summary: ''
 tags: []
 title: wordpress.comからはてなブログにお引っ越ししました
-keywords: [syntax, 置換, highlight, wordpress, はてなダイアリー, 記法, はてなブログ, 移行, julia, .com]
+keywords: [syntax, 置換, highlight, wordpress, ダイアリー, 記法, はてなブログ, 移行, はてな, julia]
 recommendations: [/post/2012-11-12-pawapointonise-dukesitasosukodowojian-dan-nitie-rufang-fa/,
-  /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/, /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/]
+  /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/, /post/2009-05-02-hazimemasite-wordpress/]
 ---
 
 Markdownで書くのが辛くてwordpress.comからお引っ越ししました。 期待していたJuliaのsyntax highlihgtが無くて切ないです。

@@ -13,7 +13,7 @@ tags: []
 title: RENT ブロードウェーツアーを見て来た
 keywords: [マーク, ロック, バンド, 日程, 映画, 低い, 日本人, 幸せ, 感謝, 思い]
 recommendations: [/post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2017-07-30_culture-map/,
-  /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
+  /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
 ---
 
 今更ながら、報告です。  

@@ -5,9 +5,9 @@ categories: []
 date: '2018-10-27 21:11:26-07:00'
 description: 転職をして、業務で使うマシンがMacBook Proになったので、自宅用のThinkpad X1 Carbon (5th Gen, 2017モデル)と共通して使える充電とUSB-Aがはやせるハブ(とかマルチポートアダプタとか色々言われているもの)を探しました。
 title: Thinkpad X1 CarbonとMacBook Proとで使える充電可能なUSB Type-Cのハブを選ぶ
-keywords: [充電, 充電器, x1, carbon, '60', usb, macbook pro, ポート, hdmi, power]
+keywords: [充電, 充電器, x1, carbon, '60', macbook pro, ポート, hdmi, power, delivery]
 recommendations: [/post/2017-01-30-indigogo-dehazimetebatukusitelai-ta-dot-woshi-tute3keyue-gatatuta/,
-  /post/2019-03-10_business-trip-goods/, /post/2017-12-30_2017------------bbf834e065c5/]
+  /post/2017-12-30_2017------------bbf834e065c5/, /post/2019-03-10_business-trip-goods/]
 ---
 
 “two phones on white table” by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 'Julia Tokyo #5を開催しました #JuliaTokyo'
-keywords: [julia, jl, .com, mxnet, cuda, juliatokyo, github, そう, 線形, オンライン]
+keywords: [julia, jl, mxnet, cuda, juliatokyo, github, そう, 線形, オンライン, julialang]
 recommendations: [/post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/,
   /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/]
 ---

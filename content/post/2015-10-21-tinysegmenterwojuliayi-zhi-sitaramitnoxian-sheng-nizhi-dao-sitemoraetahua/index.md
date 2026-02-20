@@ -14,7 +14,7 @@ title: TinySegmenterをJulia移植したらMITの先生に指導してもらえ�
 keywords: [julia, 実装, パッケージ, issue, python, tinysegmenter, 先生, sgj, 日本語, 最適化]
 recommendations: [/post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/,
   /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/,
-  /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/]
+  /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/]
 ---
 
 先日、工藤さんがJavaScript向けに作った日本語のコンパクトな分かち書きツール、TinySegmenterをJuliaに移植した[TinySegmenter.jl](https://github.com/chezou/TinySegmenter.jl)を作りました。 もともとは、PyconJPで[janomeの話](http://mocobeta-backup.tumblr.com/post/131025586072/pyconjp-janome)を聞いたら居ても立っても居られなくなって、簡単なTinySegmenterを移植したんですが、そしたら思いもよらぬ展開が待っていました。

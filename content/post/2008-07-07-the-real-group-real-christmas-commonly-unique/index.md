@@ -11,9 +11,9 @@ subtitle: ''
 summary: ''
 tags: []
 title: The Real Group - Real Christmas, Commonly unique
-keywords: [オブ, ライフ, リアル, グループ, スコア, 選択, talking, ハーモニー, song, christmas]
-recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/,
-  /post/2008-08-01-ono-lisa-best-2002-2006/]
+keywords: [オブ, ライフ, スコア, 選択, talking, ハーモニー, song, christmas, アカペラグループ, ノリ]
+recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2008-08-01-ono-lisa-best-2002-2006/,
+  /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/]
 ---
 
 おいおい、書いていたら消えてたよ。  

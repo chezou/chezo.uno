@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: '"Laula kultani: European Folk Songs for mixed voices" がうちにきた'
-keywords: [chorus, song, choir, es, musica, 演奏, 紹介, vocal, songs, pana]
+keywords: [chorus, song, choir, es, musica, 演奏, 紹介, パーマ, vocal, songs]
 recommendations: [/post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/,
   /post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/]
 ---

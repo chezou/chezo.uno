@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 無線コントローラ
-keywords: [コントローラ, 新作, 遅延, 無線, プレイ, ゲーム, 意味, 以前, 最近, ない]
+keywords: [コントローラ, 新作, 遅延, 無線, プレイ, ゲーム, 以前, 意味, 最近, ない]
 recommendations: [/post/2009-09-22-pcdewaiyaresukontororawoshi-uniha/, /post/2009-12-05-after-devil-forcewofa-jue-sita/,
   /post/2009-05-04-ad-es-wojie-yue-surutameni/]
 ---

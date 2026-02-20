@@ -11,7 +11,7 @@ subtitle: ''
 summary: ''
 tags: []
 title: 'Cloudera World Tokyo 2016で機械学習プロダクトの作り方を話しました #cwt2016'
-keywords: [cwt, データ, cloud, '2016', native, データサイエンス, cloudera, 機械学習, hadoop, データ分析]
+keywords: [cwt, cloud, '2016', データ, native, データサイエンス, cloudera, 機械学習, hadoop, データ分析]
 recommendations: [/post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
   /post/2016-03-30-zhuan-zhi-simasita/, /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/]
 ---

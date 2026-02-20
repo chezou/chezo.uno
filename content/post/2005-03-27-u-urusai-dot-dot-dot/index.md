@@ -12,7 +12,7 @@ summary: ''
 tags: []
 title: う、うるさい……
 keywords: [cpu, ファン, ケース, '320', もん, 原因, 起動, 整理, ケーブル, 現在]
-recommendations: [/post/2019-03-10_business-trip-goods/, /post/2009-04-26-tiyanneruhasonomama-vol-dot-1/,
+recommendations: [/post/2009-04-26-tiyanneruhasonomama-vol-dot-1/, /post/2019-03-10_business-trip-goods/,
   /post/2008-09-28-bznoultra-treasuregayabasugiru/]
 ---
 
