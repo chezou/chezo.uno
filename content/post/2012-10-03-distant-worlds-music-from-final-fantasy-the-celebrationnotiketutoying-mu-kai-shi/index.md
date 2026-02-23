@@ -12,8 +12,9 @@ summary: ''
 tags: []
 title: Distant Worlds music from FINAL FANTASY THE CELEBRATIONのチケット応募開始！
 keywords: ['00', 開演, 開場, 応募, '2012', '18', 会場, ホール, 日程, music]
-recommendations: [/post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/,
-  /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/]
+recommendations: [/post/2012-10-05-dong-jing-gemusiyodemai-tuteitanosymphonic-fantasies-tokyo-nocdganetutodemai-eru/,
+  /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/,
+  /post/2009-07-05-guan-dong-hagame-musichoihoida/]
 ---
 
 [GAME MUSIC GARDEN](http://sky.ap.teacup.com/helen/1916.html)さんで知ったのですが、FINAL FANTASYのオフィシャルな演奏会のチケット応募が始まったようです。

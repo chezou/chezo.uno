@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: KyTea:京都テキスト解析ツールキット をRuby, Pythonから使えるMykyteaを作ってみた
 keywords: [mykytea, '100.0', swig, kytea, python, 名詞, タグ, '0.0', ruby, ラッパー]
-recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
-  /post/2015-08-30-number-tqrk09-de-accept-lt-sitehazimeteno-gem-woraiburirisunishi-bai-simasita/]
+recommendations: [/post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/,
+  /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/, /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/]
 ---
 
 **[2011/07/23追記]  

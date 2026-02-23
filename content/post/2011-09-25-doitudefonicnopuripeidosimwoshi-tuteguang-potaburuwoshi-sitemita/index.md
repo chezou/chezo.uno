@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: ドイツでFONICのプリペイドSIMを使って光ポータブルを試してみた
 keywords: [sim, チャージ, アクティベーション, ドイツ, sms, ユーロ, 英語, 購入, 携帯, day]
-recommendations: [/post/2015-10-08-iijmiono-outidenanbapotabiritei-shi-tutezi-zhai-demnpsita/,
-  /post/2023-08-06-rakuten-mobile-activation/, /post/2009-11-14-iphonekesuwomai-ihuan-eta/]
+recommendations: [/post/2023-08-06-rakuten-mobile-activation/, /post/2015-10-08-iijmiono-outidenanbapotabiritei-shi-tutezi-zhai-demnpsita/,
+  /post/2005-07-11-w-sim/]
 ---
 
 [![](fonic.jpg)](fonic.jpg)

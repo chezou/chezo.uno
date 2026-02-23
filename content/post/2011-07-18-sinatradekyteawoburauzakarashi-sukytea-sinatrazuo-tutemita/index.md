@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: sinatraでKyTeaをブラウザから試すkytea-sinatra作ってみた
 keywords: [sinatra, kytea, 結果, mykytea, mecab, 出力, ruby, seikichi, haml, 解析]
-recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
-  /post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/]
+recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/,
+  /post/2019-11-17-spacy-ginza/]
 ---
 
 先日のエントリで書いたとおり[Mykytea-ruby](https://chezo.uno/post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/)を使って、試しにブラウザから解析結果をみられるkytea-sinatraを作りました。

@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: あかぺら村のキリックさんがblogを再開されました！ - A Cappella - Best ofが素敵！
 keywords: [cd, live, wise, king, du, a cappella, singers, version, 紹介, '14']
-recommendations: [/post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
-  /post/2006-07-28-xia-nanode/, /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/]
+recommendations: [/post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/,
+  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/, /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/]
 ---
 
 素敵なアカペラCDを通販されていたあかぺら村のキリックさんが、この度blogを解説されたようです！

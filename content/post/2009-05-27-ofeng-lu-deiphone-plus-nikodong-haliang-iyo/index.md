@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: お風呂でiPhone+ニコ動は良いよ
 keywords: [zabady, ロック, iphone, stage, ニコ動, 満喫, ニコニコ動画, 風呂, 悩み, 交換]
-recommendations: [/post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
-  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/]
+recommendations: [/post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
+  /post/2009-05-18-iphonetono1zhou-jian/, /post/2009-05-12-konnitiha-iphone/]
 ---
 
 [Back\_stage: お風呂でiPhone](http://openart.de-blog.jp/back_stage/2008/12/iphone_78ab.html).  

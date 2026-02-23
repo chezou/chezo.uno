@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: MasaFestaのコンサート情報が出始めました
 keywords: [値段, the house, pact, jacks, 通し, masa, festa, rajaton, '21', '22']
-recommendations: [/post/2009-03-09-masafestanirajatonga/, /post/2009-03-03-sok-bao-masa-festa/,
-  /post/2009-07-11-masa-festanotiketutogalai-ta/]
+recommendations: [/post/2009-07-11-masa-festanotiketutogalai-ta/, /post/2009-03-09-masafestanirajatonga/,
+  /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/]
 ---
 
 [Masa Festa](http://masafesta.com/)のコンサート情報が明らかになりました。まだ、[空白が多い](http://masafesta.com/concertpop.htm)ですが、予定も出ています。とりあえず、Rajatonを聞くために日曜日には行こうと思います。チケットとれるかなー。  

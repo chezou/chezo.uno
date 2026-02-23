@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: はじめまして、WordPress
 keywords: [引っ越し, excite, 移行, 関係, 不満, ヘッドホン, 技術的, 満足, 音楽, 全部]
-recommendations: [/post/2009-05-16-du-shu-metahazimemasita/, /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/,
-  /post/2008-11-06-yin-lu-toyin-jie-noke-xue/]
+recommendations: [/post/2018-11-14_subscription-2018/, /post/2009-05-16-du-shu-metahazimemasita/,
+  /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
 ---
 
 exciteがちょっと不満になったので、こちらにお引っ越しです。本当はデータも全部お引っ越ししようかと思って、色々試したのですが技術的に可能なことが分かったところで満足して面倒になったので、やめました。

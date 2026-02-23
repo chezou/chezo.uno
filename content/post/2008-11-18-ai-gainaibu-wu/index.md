@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 愛がいない部屋
 keywords: [女性, 全て, 良かっ, うち, 最初, 毛色, ポンド, フェア, エンターテイメント, 気分]
-recommendations: [/post/2008-06-15-gui-cai-xian-ru/, /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/,
-  /post/2008-08-24-sayonaraituka/]
+recommendations: [/post/2008-08-26-akihabara-at-deep/, /post/2008-06-15-gui-cai-xian-ru/,
+  /post/2008-10-28-utukusiizi-domo/]
 ---
 
 {{< amazon asin="4087463044" title="愛がいない部屋 (集英社文庫 い 47-5)" >}}

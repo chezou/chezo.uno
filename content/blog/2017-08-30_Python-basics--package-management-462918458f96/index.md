@@ -8,9 +8,8 @@ description: Python is a very famous programming language for machine learning. 
 title: 'Python basics: package management'
 keywords: [python, package, install, virtualenv, venv, pip, windows, packages, management,
   use]
-recommendations: [/blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/,
-  /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/,
-  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]
+recommendations: [/blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/,
+  /blog/2022-05-21_fastest-way-to-release-python-cli/, /blog/2024-01-26_scrape-notion-to-pdf/]
 ---
 
 Python is a very famous programming language for machine learning. In this article, I will introduce basic Python environment.

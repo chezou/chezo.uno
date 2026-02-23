@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: それでもTake6は来日する
 keywords: [来日, 日本, サイト, 推測, 地震, あたたかい, message, knows, 祈り, sure]
-recommendations: [/post/2009-12-13-hutagozuo-liu-xing-qun-hajin-wan-kara-14ri-am2shi-gapiku/,
-  /post/2022-11-28-cancel-japanese-service/, /post/2009-03-03-sok-bao-masa-festa/]
+recommendations: [/post/2009-08-12-masa-festazhong-zhi/, /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/,
+  /post/2009-08-30-rent-burodouetuawojian-telai-ta/]
 ---
 
 【20110531追記】[オフィシャルサイトによると、Take6の来日は2012年2月に延期されたようです。  

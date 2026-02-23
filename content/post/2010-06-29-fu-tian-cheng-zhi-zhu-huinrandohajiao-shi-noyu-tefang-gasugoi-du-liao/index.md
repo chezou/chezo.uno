@@ -12,9 +12,9 @@ summary: ''
 tags: []
 title: 福田誠治著 「フィンランドは教師の育て方がすごい」読了
 keywords: [教育, フィンランド, 教師, 現状, こと, 素養, 市民, 課程, 尊敬, 日本]
-recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
-  /post/2010-07-05-yi-gu-gang-yan-shan-kou-er-lang-ge-chai-she-hui-tojiao-yu-gai-ge-du-liao/,
-  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
+recommendations: [/post/2010-07-05-yi-gu-gang-yan-shan-kou-er-lang-ge-chai-she-hui-tojiao-yu-gai-ge-du-liao/,
+  /post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/,
+  /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/]
 ---
 
 {{< amazon asin="4750509035" title="フィンランドは教師の育て方がすごい" >}}

@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: SympyとJupyter notebookで数式のメモを取ろう
 keywords: [packt, 数式, starter, instant, kindle, グラフ, com, メモ, センター試験, アンケート]
-recommendations: [/post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/,
-  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/]
+recommendations: [/post/2014-06-21-julia100ben-notuku/, /post/2019-11-17-spacy-ginza/,
+  /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/]
 ---
 
 [id:meison\_amsl](http://blog.hatena.ne.jp/meison_amsl/) さんによるSympyの紹介がとてもよい感じだったのですが、Sympy Liveわざわざ使わなくてもJupyter notebook使えるのでは！？と思ったので試してみました。[^1] わざわざ、というと語弊があると思いますが、手元でメモ＋αとして管理するのにはJupyter notebookの方がいいかなと思っています。

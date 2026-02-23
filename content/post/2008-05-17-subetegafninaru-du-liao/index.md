@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 「すべてがFになる」読了
 keywords: [森博嗣, ミステリー, シリーズ, 東野圭吾, 読了, 嫌い, 深く, 続き, 学生, 大学]
-recommendations: [/post/2008-10-02-pahuekutoburudu-liao/, /post/2008-08-24-sayonaraituka/,
-  /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/]
+recommendations: [/post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/,
+  /post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2008-10-02-pahuekutoburudu-liao/]
 ---
 
 森博嗣の「すべてがFになる」を読了した。  

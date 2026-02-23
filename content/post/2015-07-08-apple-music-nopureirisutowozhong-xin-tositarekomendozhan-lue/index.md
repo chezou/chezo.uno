@@ -13,7 +13,7 @@ tags: []
 title: Apple Music のプレイリストを中心としたレコメンド戦略
 keywords: [プレイリスト, アーティスト, apple music, レコメンド, ミックス, リスト, 音楽, シーン, 楽曲, 影響]
 recommendations: [/post/2015-10-27-netutohuritukusunoshi-dai-nihakontentunoshan-nimai-morenasasenaitamenohintogajie-matuteita/,
-  /post/2009-08-12-masa-festazhong-zhi/, /post/2008-09-07-chu-yin-mikunokaraokequ/]
+  /post/2008-08-01-ono-lisa-best-2002-2006/, /post/2009-05-12-konnitiha-iphone/]
 ---
 
 膨大な音楽というコンテンツの海に放り出された時に、人は何をするだろうか。

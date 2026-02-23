@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: クピドの悪戯 虹玉、おいしいコーヒーの入れ方 夢のあとさき
 keywords: [シーズン, いつも, isbn, スコア, 選択, 生々しい, 村山, コーヒー, 完結, 刺激]
-recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-11-18-ai-gainaibu-wu/,
-  /post/2008-09-10-enzieruhato-27/]
+recommendations: [/post/2008-10-02-pahuekutoburudu-liao/, /post/2008-07-06-nodamekantabire18-20/,
+  /post/2008-08-11-nodame21juan/]
 ---
 
 {{< amazon asin="4087463036" title="おいしいコーヒーのいれ方 (10) 夢のあとさき (集英社文庫)" >}}

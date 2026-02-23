@@ -7,8 +7,8 @@ description: Recently, I changed my CI from Travis to GitHub Actions. GitHub Act
   is handy and useful for testing, publishing Python packages.
 title: How to release Python package from GitHub Actions
 keywords: [pypi, github, actions, token, api, python, workflow, package, syntax, testing]
-recommendations: [/blog/2022-05-21_fastest-way-to-release-python-cli/, /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/,
-  /blog/2024-01-26_scrape-notion-to-pdf/]
+recommendations: [/blog/2022-05-21_fastest-way-to-release-python-cli/, /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/,
+  /blog/2020-03-05_py-operator-development-guide-for-python-users/]
 ---
 
 ![](./0__hOksODxf9TX1BkS0.jpg)

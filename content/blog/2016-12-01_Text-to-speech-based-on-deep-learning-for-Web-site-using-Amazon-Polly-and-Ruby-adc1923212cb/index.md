@@ -8,8 +8,8 @@ description: Amazon Polly, Text-to-speech service from AWS was announced at toda
   ‘s re:Invent. Amazon Polly is speech synthesize system based on deep…
 title: Text-to-speech based on deep learning for Web site using Amazon Polly and Ruby
 keywords: [amazon, aws, english, sounds, languages, following, text, cli, api, articles]
-recommendations: [/blog/2022-01-25_hugo-content-based-recommendation/, /blog/2025-09-19-review-fatigue/,
-  /blog/2025-08-24-configured-pages-cms/]
+recommendations: [/blog/2025-08-24-configured-pages-cms/, /blog/2022-01-25_hugo-content-based-recommendation/,
+  /blog/2022-05-21_fastest-way-to-release-python-cli/]
 ---
 
 Amazon Polly, Text-to-speech service from AWS was announced at today ‘s re:Invent. Amazon Polly is speech synthesize system based on deep learning.

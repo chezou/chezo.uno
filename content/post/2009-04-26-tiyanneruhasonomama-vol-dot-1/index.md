@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: チャンネルはそのまま！Vol.1
 keywords: [モデル, すばらしい, 北海道, special, ポップ, なじみ, 小学館, ファン, チャンネル, テレビ]
-recommendations: [/post/2005-03-27-u-urusai-dot-dot-dot/, /post/2009-11-26-the-real-album/,
-  /post/2013-01-09-autopagerize-rubynomechanizeban-wozuo-tuta/]
+recommendations: [/post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
+  /post/2008-10-02-pahuekutoburudu-liao/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---
 
 [![](https://ecx.images-amazon.com/images/I/51DmEVIjTzL._SL160_.jpg) 

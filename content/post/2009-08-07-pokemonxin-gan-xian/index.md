@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: ポケモン新幹線
 keywords: ['1600', '1200', jpeg, スイカ, ゲット, 049, ポケモン, fa, '99', '75']
-recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2010-09-04-tun-zu-xing-tutekimasita/,
-  /post/2009-07-23-fujiyama/]
+recommendations: [/post/2009-07-07-qi-xi-kiyandorunaito/, /post/2009-11-14-iphonekesuwomai-ihuan-eta/,
+  /post/2009-08-12-rui-yan-si/]
 ---
 
 たまたま乗った新幹線がポケモン新幹線でした。  

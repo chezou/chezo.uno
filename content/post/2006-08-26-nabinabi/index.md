@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: ナビナビ
 keywords: [ナビ, おもちゃ, hdd, 録音, やつ, cd, 状態, 子供, 新しい, うち]
-recommendations: [/post/2006-07-28-xia-nanode/, /post/2009-05-12-konnitiha-iphone/,
-  /post/2017-05-25_teach-what-i-dont-know/]
+recommendations: [/post/2007-05-10-usbdewen-kerufm-slash-amrazio/, /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
+  /post/2005-10-07-tuinikita/]
 ---
 
 ついに、うちの車にもナビがつきました。  

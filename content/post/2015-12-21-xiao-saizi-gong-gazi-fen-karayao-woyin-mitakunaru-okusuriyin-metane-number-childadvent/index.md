@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: '小さい子供が自分から薬を飲みたくなる「おくすり飲めたね」 #childadvent'
 keywords: [我が家, ケア, 注意, メーカー, 出版社, 子供, 商品, メディア, ブログ, 恐ろしく]
-recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/,
-  /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/]
+recommendations: [/post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/,
+  /post/2017-05-25_teach-what-i-dont-know/, /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/]
 ---
 
 この記事は[子育てプログラマ・ITエンジニア・Webデザイナー Advent Calendar 2015 - Adventar](http://www.adventar.org/calendars/853)の21日目の記事です。

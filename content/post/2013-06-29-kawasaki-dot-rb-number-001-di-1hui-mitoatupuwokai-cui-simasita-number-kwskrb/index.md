@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 'Kawasaki.rb  #001 第1回ミートアップを開催しました #kwskrb'
 keywords: [hash, gc, ruby, hadoop, 遅い, 拡張, rb, python, ライブラリ, kawasaki]
-recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/,
-  /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/]
+recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/,
+  /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/, /post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/]
 ---
 
 6/26にKawasaki.rbの第1回ミートアップを開催しました。

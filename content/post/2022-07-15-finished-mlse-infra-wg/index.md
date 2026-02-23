@@ -12,7 +12,7 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [夏合宿, 課題, 基盤, 作り, mlse, チーム, 運用, 難しさ, 変化, mlops]
-recommendations: [/post/2020-11-10-mlse-conference/, /post/2020-07-11-mlse-summer-workshop/,
+recommendations: [/post/2020-07-11-mlse-summer-workshop/, /post/2020-11-10-mlse-conference/,
   /post/2020-12-31-2020-review/]
 ---
 

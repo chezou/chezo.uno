@@ -13,8 +13,7 @@ tags: []
 title: 数式入りのmarkdownをSphinxを使ってhtml/pdfにする
 keywords: [markdown, recommonmark, sphinx, html, 3rd, conf, 拡張, latex, rest, import]
 recommendations: [/post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/,
-  /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
-  /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/]
+  /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/, /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/]
 ---
 
 Sphinxでmarkdown拡張を扱うためのrecommonmarkというライブラリがあります。 これを使うとreSTではなく、markdownを書いてhtmlやPDFが吐けるようになります。

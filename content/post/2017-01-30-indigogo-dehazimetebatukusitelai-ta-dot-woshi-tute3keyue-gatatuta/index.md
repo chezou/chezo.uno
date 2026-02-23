@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: Indigogo ではじめてバックして来た dot を使って3ヶ月がたった
 keywords: [充電, dot, instagram, 感じ, 片方, ケース, バック, イヤホン, www, '20']
-recommendations: [/post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/,
-  /post/2019-03-10_business-trip-goods/, /post/2010-11-07-instagr-dot-amgamian-bai-i/]
+recommendations: [/post/2009-10-18-vaio-xnixin-tokimeku/, /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/,
+  /post/2008-06-25-xin-meng-eruhetudohondu-ben/]
 ---
 
 最近のbackspace.fm でdotが「来る来る詐欺」でAir podsに完全に飲み込まれたという話が出ていたので、きちんとレビューしてなかったのを思い出したのでレビューします。

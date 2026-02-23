@@ -13,9 +13,9 @@ image: {caption: An example lineage of Treasure Workflow with sqllineage, focal_
   preview_only: false}
 projects: []
 keywords: [data, sqls, logs, treasure, workflow, log, visualize, learned, level, python]
-recommendations: [/blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
+recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/,
   /blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/,
-  /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/]
+  /blog/2020-03-05_py-operator-development-guide-for-python-users/]
 ---
 
 ## What's data lineage?

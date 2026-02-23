@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 風が強く吹いている
 keywords: [スポーツ, 物語, 新潮社, 共感, 伏線, 通勤, ゴール, キャラクター, トレーニング, 運動]
-recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
-  /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/]
+recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-06-15-gui-cai-xian-ru/,
+  /post/2008-08-24-sayonaraituka/]
 ---
 
 {{< amazon asin="4104541044" title="風が強く吹いている" >}}

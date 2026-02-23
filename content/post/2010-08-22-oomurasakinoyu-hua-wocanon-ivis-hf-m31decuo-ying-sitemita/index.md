@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: オオムラサキの羽化をCanon iVIS HF M31で撮影してみた
 keywords: [インターネット, 体験, 記憶, 難しい, こと, 祖父母, 撮影, フルhd, ストーリー, canon]
-recommendations: [/post/2012-01-01-2012nian-nobao-fu/, /post/2018-06-27_internet-for-kids/,
-  /post/2017-05-25_teach-what-i-dont-know/]
+recommendations: [/post/2005-08-06-webkamera/, /post/2008-11-08-liang-ishi-dai-ninatutanee/,
+  /post/2006-05-19-ds-de-tv/]
 ---
 
 [Canon iVIS HF M31を買った](https://chezo.uno/post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/)ので、それを使って動画をとってみました。

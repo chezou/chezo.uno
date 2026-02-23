@@ -6,8 +6,8 @@ date: '2017-08-25 21:58:07-07:00'
 description: 先日、 kawasaki.rb の懇親会で「AWS LambdaのためにPythonはじめたいんです」とか「機械学習系の本を読み始めたので、そこに書いてあったcondaではじめました」とかいう話を聞きました。
 title: Pythonの環境構築を自分なりに整理してみる
 keywords: [python, conda, パッケージ, venv, anaconda, 環境, virtualenv, ruby, windows, os]
-recommendations: [/post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
-  /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/, /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/]
+recommendations: [/post/2017-09-09_pyconjp-2017------5fa5f59b9bde/, /post/2015-06-06-pip-install-kyteadekiruyouninarimasita/,
+  /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/]
 ---
 
 先日、 kawasaki.rb の懇親会で「AWS LambdaのためにPythonはじめたいんです」とか「機械学習系の本を読み始めたので、そこに書いてあったcondaではじめました」とかいう話を聞きました。

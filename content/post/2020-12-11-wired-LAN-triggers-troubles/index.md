@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: メッシュWiFiが安定しないので有線LANを張り巡らせたんだが
 keywords: [有線, lan, 工事, バック, 安定, ホール, wifi, メッシュ, ソフト, wi-fi]
-recommendations: [/post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/,
-  /post/2020-04-03-microphone-for-remote-meeting/, /post/2017-12-23_----------------------701333a45696/]
+recommendations: [/post/2025-08-23-summer-vacation/, /post/2025-12-20-2025-12-20-year-in-review/,
+  /post/2016-12-31-2016nian-wozhen-rifan-tute/]
 ---
 
 このお話は、[pyspaアドベントカレンダー](https://adventar.org/calendars/5310)の11日目です。昨日はwozozoでした。多分彼はこの記事をチラ見して「長過ぎる。地雷乙」と言うでしょう。

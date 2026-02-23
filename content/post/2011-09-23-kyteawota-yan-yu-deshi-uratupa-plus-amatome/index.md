@@ -12,9 +12,8 @@ summary: ''
 tags: []
 title: KyTeaを他言語で使うラッパー+αまとめ
 keywords: [kytea, sinatra, mykytea, 言語モデル, 読み, 推定, nltk, 対話, 音声, python]
-recommendations: [/post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
-  /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
-  /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/]
+recommendations: [/post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/,
+  /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/, /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/]
 ---
 
 [@neubig](http://twitter.com/neubig)さんの作られたKyTeaを他言語で利用できるラッパーですが、  

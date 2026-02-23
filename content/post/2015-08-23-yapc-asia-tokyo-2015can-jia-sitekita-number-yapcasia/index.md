@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 'YAPC::ASIA Tokyo 2015参加してきた #yapcasia'
 keywords: [yapc, tokyo, '2015', org, はてなブックマーク, php, トピック, podcast, 処理, 技術]
-recommendations: [/post/2008-07-16-rockapella-channel/, /post/2015-12-30-2015nian-wozhen-rifan-tute/,
-  /post/2016-03-30-zhuan-zhi-simasita/]
+recommendations: [/post/2017-09-09_pyconjp-2017------5fa5f59b9bde/, /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/,
+  /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/]
 ---
 
 初参加にして最後のYAPC::ASIA Tokyoに行ってきた。

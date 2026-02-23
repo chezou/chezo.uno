@@ -5,7 +5,7 @@ draft: false
 featured: false
 image: {preview_only: false}
 keywords: [振る舞い, 対処, 具体的, ワークアラウンド, 学び, こと, 特性, タスク, 傾向, 強い]
-recommendations: [/post/2025-05-02-ml-project-and-scrum/, /post/2025-11-25-staff-engineering-path/,
+recommendations: [/post/2025-08-23-summer-vacation/, /post/2017-12-31_2017--------c4901627b12d/,
   /post/2012-01-01-2012nian-nobao-fu/]
 ---
 

@@ -12,8 +12,9 @@ summary: ''
 tags: []
 title: 「デジタル教科書教材協議会設立シンポジウム」参加しました
 keywords: [デジタル教科書, 教材, 能力, 先生, 主張, 格差, 校長, 協議会, ビジネスモデル, 学習]
-recommendations: [/post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/,
-  /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/, /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/]
+recommendations: [/post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/,
+  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/,
+  /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/]
 ---
 
 さる7/27に、デジタル教科書や教材を推進する民間中心の団体、[デジタル教科書教材協議会](http://ditt.jp)が発足しました。  

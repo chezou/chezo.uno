@@ -12,9 +12,9 @@ summary: ''
 tags: []
 title: DropboxがHTML公開を簡単にする- @acappella_event関連まとめサイト作成してみた
 keywords: [css, サイト, カレンダー, マシン, twitter, 移行, windows, 随時, ほしかっ, sass]
-recommendations: [/post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
+recommendations: [/post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/,
   /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
-  /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
+  /post/2025-08-24-pages-cms/]
 ---
 
 ## 何を作ったか？

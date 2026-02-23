@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: へっどほん！へっどほん！
 keywords: [er, 大須, 同期, カナル型, 曰く, イヤホン, 是非, 研究室, ヘッドホン, 入手]
-recommendations: [/post/2008-01-18-souiebakokohawu-yu-burogudatuta/, /post/2008-09-14-hetudohonwu-se-sitahi/,
-  /post/2008-10-11-le-pu-gayu-sii/]
+recommendations: [/post/2008-09-14-hetudohonwu-se-sitahi/, /post/2008-01-18-souiebakokohawu-yu-burogudatuta/,
+  /post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/]
 ---
 
 いや、厳密に言うとヘッドホンではないのかもしれません。カナル型イヤホンのER-6iです。  

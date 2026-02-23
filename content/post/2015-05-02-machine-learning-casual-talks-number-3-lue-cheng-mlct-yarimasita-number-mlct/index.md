@@ -14,7 +14,7 @@ title: 'Machine Learning Casual Talks #3 (略称MLCT)やりました #MLCT'
 keywords: [mlct, 機械学習, slideshare, casual, www, talks, john, hivemall, mame, カジュアル]
 recommendations: [/post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/,
   /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/,
-  /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
+  /post/2018-05-17_mlse-kickoff/]
 ---
 
 先日、[Machine Learning Casual Talks #3](http://mlct.connpass.com/event/13995/)を行いました。[togetterのまとめ](http://togetter.com/li/815185)

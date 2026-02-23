@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: アカペラを聞きながら英語を勉強できる！？Podcast- Mouth off
 keywords: [アカペラ, podcast, 番組, 英語, 紹介, 毎週, ジャンル, アカペラー, 曲名, サークル]
-recommendations: [/post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/,
-  /post/2008-10-11-le-pu-gayu-sii/, /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/]
+recommendations: [/post/2008-07-05-rajaton/, /post/2011-04-06-gatiyapin-sings-rajaton/,
+  /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/]
 ---
 
 [![](mouthoff.png)](http://www.mouthoffshow.com/)

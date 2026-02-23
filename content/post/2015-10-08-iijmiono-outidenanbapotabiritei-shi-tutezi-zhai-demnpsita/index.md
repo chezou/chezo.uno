@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: IIJmioの「おうちでナンバーポータビリティ」使って自宅でMNPした
 keywords: [sim, プラン, iijmio, シェア, ケース, iphone, nexus, 解約, エレクトロニクス, 対応]
-recommendations: [/post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/,
-  /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-04-ad-es-wojie-yue-surutameni/]
+recommendations: [/post/2009-05-18-iphonetono1zhou-jian/, /post/2009-05-12-konnitiha-iphone/,
+  /post/2011-05-01-iphone-for-everybodyno2nian-fu-riwojie-chu-sitarapaketutoding-e-huratutonisikanaranakatuta/]
 ---
 
 IIJmioのファミリーシェアプランにSIMを追加する際に、9/16に始まっていた「おうちでナンバーポータビリティ」を使ってみました。

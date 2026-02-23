@@ -13,7 +13,7 @@ tags: []
 title: お安くお手軽アカペラ多重録音のための機材
 keywords: [マイク, オーディオインターフェース, 重視, pro, 録音, 楽しみ, 厳しい, 本格的, ルネサンス, ultravoice]
 recommendations: [/post/2020-04-03-microphone-for-remote-meeting/, /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
-  /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/]
+  /post/2008-10-11-le-pu-gayu-sii/]
 ---
 
 本格的に始めよう、というわけではなく、とりあえずアカペラで多重録音を始めてみようと思ったため、機材を簡単にそろえてみました。

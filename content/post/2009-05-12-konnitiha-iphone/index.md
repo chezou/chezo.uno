@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: こんにちは、iPhone
 keywords: [連絡, ドコモ, 強制的, おもちゃ, 厄介, wordpress, 携帯, 可能性, 辛い, 移行]
-recommendations: [/post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/, /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/,
-  /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
+recommendations: [/post/2009-05-18-iphonetono1zhou-jian/, /post/2009-05-07-sayonarawillcom-sayonaraad-es/,
+  /post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/]
 ---
 
 iPhoneさんがやってきた。  

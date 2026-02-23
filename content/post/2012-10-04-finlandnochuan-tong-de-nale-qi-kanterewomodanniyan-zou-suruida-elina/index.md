@@ -12,8 +12,7 @@ summary: ''
 tags: []
 title: Finlandの伝統的な楽器カンテレをモダンに演奏するIda Elina
 keywords: [ida, elina, 札幌, finland, フィンランド, 演奏, 留学, 暖かく, 押尾コータロー, カンテレ]
-recommendations: [/post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2009-07-05-guan-dong-hagame-musichoihoida/,
-  /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/]
+recommendations: [/post/2008-07-05-rajaton/, /post/2008-07-10-ris-a-la-malta/, /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/]
 ---
 
 Finland大使館の後援の元行われた、モダンカンテレ奏者Ida Elinaのライブ。

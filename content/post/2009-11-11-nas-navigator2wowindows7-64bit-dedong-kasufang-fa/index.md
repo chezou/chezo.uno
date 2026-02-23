@@ -13,7 +13,7 @@ tags: []
 title: Nas Navigator2をWindows7(64bit)で動かす方法
 keywords: [実行, exe, nas, mac os x, ショートカット, 管理者, navigator, パケット, スタートアップ, setup]
 recommendations: [/post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/,
-  /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/, /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/]
+  /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/, /post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/]
 ---
 
 [以前、動かないと言っていたNas Navigator2](https://chezo.uno/post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/)ですが、なんとか動かすことに成功しました。グラフィックボードのドライバ関係もあって、再インストールした後に行いました。

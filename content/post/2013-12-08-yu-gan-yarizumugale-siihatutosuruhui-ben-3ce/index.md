@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 語感やリズムが楽しいハッとする絵本3冊
 keywords: [絵本, ころ, '81', 作品, 子供, 売り上げ, リズム, ランキング, '82', '13']
-recommendations: [/post/2020-01-05-2019-best-movie/, /post/2017-05-25_teach-what-i-dont-know/,
-  /post/2008-07-19-can-shu-gui-tou-mo-hong/]
+recommendations: [/post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/,
+  /post/2017-05-25_teach-what-i-dont-know/, /post/2008-10-10-luo-yu-bai-xuan-xia/]
 ---
 
 この記事は[子育て 読み聞かせ Advent Calendar 2013 - Adventar](http://www.adventar.org/calendars/165)に参加しています。

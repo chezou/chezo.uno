@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: Autopagerize-rubyのMechanize版を作った
 keywords: [そのまま, http, allow, fork, client, 扱い, request, pull, 早い, 特徴]
-recommendations: [/post/2009-04-26-tiyanneruhasonomama-vol-dot-1/, /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/,
-  /post/2019-12-04-r-and-td/]
+recommendations: [/post/2019-11-25-github actions-api token-pypi release/, /post/2015-06-06-pip-install-kyteadekiruyouninarimasita/,
+  /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/]
 ---
 
 [Qiita](http://qiita.com/items/ce9a52030aad51591121)にも書いたけど、Ruby向けAutopagerizeをMechanize対応してみた。

@@ -13,8 +13,8 @@ tags: []
 title: 無料でiPhoneの標準カレンダーにアカペラ/合唱カレンダーを表示する方法
 keywords: [カレンダー, appbank, やり方, 合唱, アカペラ, 登録, url, iphone, 募集中, google calendar]
 recommendations: [/post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/,
-  /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
-  /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
+  /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
+  /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/]
 ---
 
 AppBankで話題になっていたこのカレンダーの記事を見て、気づきました。[アカペラ/合唱カレンダー](http://bit.ly/caTSPZ)もiPhoneでみられるじゃないか！

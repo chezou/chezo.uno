@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: Ono Lisa best 2002-2006
 keywords: [電車, ミュージック, ジャパン, 注意, cd, スコア, 選択, 感じ, とき, ない]
-recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2008-09-08-luck-stealer-2/,
-  /post/2008-07-07-the-real-group-real-christmas-commonly-unique/]
+recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2005-07-17-urayamasika/,
+  /post/2008-10-28-mai-tutesimatuta/]
 ---
 
 {{< amazon asin="B0015YEKBU" title="Ono Lisa best 2002-2006" >}}

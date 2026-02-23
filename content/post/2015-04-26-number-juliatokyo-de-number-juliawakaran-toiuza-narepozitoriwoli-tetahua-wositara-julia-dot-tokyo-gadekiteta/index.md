@@ -12,7 +12,8 @@ summary: ''
 tags: []
 title: '#JuliaTokyo で #juliaわからん という雑なレポジトリを立てた話をしたら julia.tokyo ができてた '
 keywords: [julia, juliatokyo, sorami, issue, wakalang, 場所, チャット, make, japan, やりとり]
-recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/,
+recommendations: [/post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/,
+  /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
   /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/]
 ---
 

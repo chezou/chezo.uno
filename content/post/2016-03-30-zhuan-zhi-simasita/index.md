@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 転職しました
 keywords: [プロダクト, 仕事, エンジニア, こと, hadoop, 機械学習, 転職, データ, ポエム, solr]
-recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
-  /post/2015-12-30-2015nian-wozhen-rifan-tute/]
+recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2017-01-25-mata-tunian-wototuta/,
+  /post/2022-01-09-vancouver-engineer-podcast/]
 ---
 
 はじめての転職エントリです。 一部の方にはお伝えしましたが、先週からClouderaで働いています。

@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: TRY-TONEスペシャルライブ 〜　アカペラ夏唄2008　〜
 keywords: [ライブハウス, 会場, 青木, メドレー, 男性, 方々, 友人, メンバー, 名前, 面々]
-recommendations: [/post/2010-09-11-press-start-2010xing-tutekita/, /post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/,
-  /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
+recommendations: [/post/2008-07-10-ris-a-la-malta/, /post/2009-03-09-masafestanirajatonga/,
+  /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/]
 ---
 
 渋谷にあるライブハウス「[多作](http://www.tasaku.com/)」にて行われたTRY-TONEのライブに行ってきました。

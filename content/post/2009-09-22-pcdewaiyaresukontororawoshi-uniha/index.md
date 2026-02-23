@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: PCでワイヤレスコントローラを使うには
 keywords: [コントローラ, ワイヤレス, ps, '360', logicool, pc, アダプタ, 普通, 程度, 入手]
-recommendations: [/post/2009-11-14-wu-xian-kontorora/, /post/2008-06-01-nantoiunu-li-noren/,
-  /post/2019-03-10_business-trip-goods/]
+recommendations: [/post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
+  /post/2005-08-06-webkamera/, /post/2008-09-14-hetudohonwu-se-sitahi/]
 ---
 
 ふと思い立って、WiiよろしくPCもワイヤレスコントローラでゲームをやってみたい、と思ったので調べてみた。

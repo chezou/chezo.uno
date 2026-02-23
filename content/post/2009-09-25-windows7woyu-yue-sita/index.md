@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: Windows7を予約した
 keywords: [professional, gigazine, 録画, アナログ, チューナー, rc, 模様, 移行, windows, home]
-recommendations: [/post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/, /post/2009-10-26-memo-windows7yong-dong-zuo-que-ren-xi-rinku/,
-  /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/]
+recommendations: [/post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/, /post/2009-05-02-hazimemasite-wordpress/,
+  /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/]
 ---
 
 GIGAZINEを読んでいたら、[こんな記事](http://gigazine.net/index.php?/news/comments/20090925_windows_7/)に触発されて予約してしまいました。  

@@ -9,9 +9,8 @@ summary: ''
 tags: []
 title: 12月に読んだ本
 keywords: [読了, twitter, ゲーム, 絶対音感, ぼくらの, 著者, ウェブ, 社会, リアルタイム, '12']
-recommendations: [/post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/,
-  /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/,
-  /post/2008-07-30-narutaru/]
+recommendations: [/post/2009-05-16-du-shu-metahazimemasita/, /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/,
+  /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/]
 ---
 
 読書メータにこんな機能あったのね。しかも画像付き。便利だわー。ちょっと貼り付けてみる。というか、あまり本読んでなかったのねぇ。twitterに時間を奪われていたのかな。

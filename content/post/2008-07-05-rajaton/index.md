@@ -12,7 +12,7 @@ summary: ''
 tags: []
 title: Rajaton
 keywords: [rajaton, アカペラ, 盆休み, 小難しい, うらやましい, 系統, メロディー, 進行, 祭り, 韓国]
-recommendations: [/post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/, /post/2009-08-12-masa-festazhong-zhi/,
+recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2009-03-09-masafestanirajatonga/,
   /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/]
 ---
 

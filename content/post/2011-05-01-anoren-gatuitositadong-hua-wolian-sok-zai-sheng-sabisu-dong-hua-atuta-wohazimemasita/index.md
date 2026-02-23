@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: あの人がツイートした動画を連続再生サービス「動画あったー」をはじめました
 keywords: [動画, ツイート, 連続, 再生, 検索, twitterアカウント, safari, ツイッター, firefox, 問題点]
-recommendations: [/post/2011-04-06-gatiyapin-sings-rajaton/, /post/2009-12-05-after-devil-forcewofa-jue-sita/,
-  /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/]
+recommendations: [/post/2019-11-30-vein-ios-shortcut/, /post/2008-07-16-rockapella-channel/,
+  /post/2009-06-11-iphoneniwang-mukoto/]
 ---
 
 [![動画あったー](da_thumb.jpg)](http://tw2tube.appspot.com/)

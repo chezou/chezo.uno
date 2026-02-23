@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: After Devil Forceを発掘した
 keywords: [プレイ, クリア, 動画, ゲーム, 力押し, ニコニコ動画, 最後, 作品, 強く, １０]
-recommendations: [/post/2009-11-14-wu-xian-kontorora/, /post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/,
-  /post/2008-06-22-bokurano-alternative/]
+recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2008-07-30-narutaru/,
+  /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/]
 ---
 
 昔々、Compileというゲーム会社があったのだが（中略）、実家に帰ったら晩年の作品であるAfterDevilForceを発見してしまいました。当時、中学生だった自分には、最終面だけはクリアできなくて諦めた記憶があります。

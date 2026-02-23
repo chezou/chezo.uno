@@ -13,8 +13,8 @@ tags: []
 title: RNNLMベースの形態素解析器 JUMAN++ をhomebrewでインストールできるようにした
 keywords: [juman, homebrew, core, upstream, jumanpp, neologd, formula, issue, mecab,
   コーパス]
-recommendations: [/post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/,
-  /post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/]
+recommendations: [/post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/,
+  /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/, /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/]
 ---
 
 京大の黒橋・河原研から最近出た[JUMAN++](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN++)をmacOSのhomebrewでinstallできるようにしました。

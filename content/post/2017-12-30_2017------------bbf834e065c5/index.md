@@ -6,8 +6,8 @@ date: '2017-12-29 20:31:43-08:00'
 description: 今年もあと少しで終わりですね。というわけで、今年買ってよかったものを書き連ねていきたいと思います。
 title: 2017年に買ってよかったもの
 keywords: [amzn, 対応, ear, wireless, mini, aptx, ブラック, fit, 家電, イヤホン]
-recommendations: [/post/2019-03-10_business-trip-goods/, /post/2018-01-03_google-home--------------------------17607a9cc2b8/,
-  /post/2017-12-23_----------------------701333a45696/]
+recommendations: [/post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/, /post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/,
+  /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/]
 ---
 
 今年もあと少しで終わりですね。というわけで、今年買ってよかったものを書き連ねていきたいと思います。

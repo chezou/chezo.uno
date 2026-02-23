@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: なんというお茶目さん☆
 keywords: [songs, 茶目, '1984', 馬鹿, life, jaakko, '2000', ｒｙ, ３０, １６]
-recommendations: [/post/2008-07-10-ris-a-la-malta/, /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/,
-  /post/2008-09-14-hetudohonwu-se-sitahi/]
+recommendations: [/post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2005-07-17-urayamasika/,
+  /post/2009-11-26-the-real-album/]
 ---
 
 [Jaakko Mantyjarvi さんったら。 - “No choice, no life.”](http://d.hatena.ne.jp/yose/20040718/p1)  

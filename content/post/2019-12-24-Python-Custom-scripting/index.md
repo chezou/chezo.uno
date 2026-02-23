@@ -13,7 +13,7 @@ tags: [Python]
 title: Pythonistaのためのdigdag py> operator開発ガイド
 toc: true
 keywords: [treasure, workflow, 開発, タスク, イメージ, digdag, data, python, docker, 公式]
-recommendations: [/post/2019-11-18-digdag-ci/, /post/2019-12-04-r-and-td/, /post/2019-11-16-tdworkflow/]
+recommendations: [/post/2019-11-18-digdag-ci/, /post/2019-11-16-tdworkflow/, /post/2019-12-04-r-and-td/]
 ---
 
 {{< toc >}}

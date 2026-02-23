@@ -5,8 +5,8 @@ lastmod: '2020-08-08 09:40:00-07:00'
 summary: mecab-python3を捨ててnatto-pyにしよう
 tags: [NLP]
 keywords: ['83', mecab, natto, '81', windows, py, ipadic, spacy, wheel, ginza]
-recommendations: [/post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/,
-  /post/2019-11-17-spacy-ginza/, /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/]
+recommendations: [/post/2019-11-17-spacy-ginza/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
+  /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/]
 ---
 
 ![](https://images.unsplash.com/photo-1516675457768-db513e191dcc?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
