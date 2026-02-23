@@ -13,7 +13,7 @@ jobs:
       - name: Install uv
         uses: astral-sh/setup-uv@v5
       - name: execute prelims-cli
-        run: uvx --python 3.13 'prelims-cli[embedding]@0.0.6rc1' --config ./scripts/config/embedding.yaml
+        run: uvx --python 3.13 'prelims-cli[embedding]' --config ./scripts/config/embedding.yaml
 
       - name: commit files
         run: |
