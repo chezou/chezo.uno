@@ -13,7 +13,7 @@ jobs:
       - name: Install uv
         uses: astral-sh/setup-uv@v5
       - name: execute prelims-cli
-        run: uvx --python 3.13 'prelims-cli[ja]' --config ./scripts/config/myconfig.yaml
+        run: uvx --python 3.13 'prelims-cli[embedding]@0.0.6rc1' --config ./scripts/config/embedding.yaml
 
       - name: commit files
         run: |
@@ -21,7 +21,7 @@ jobs:
           then
             git config user.name github-actions
             git config user.email github-actions@github.com
-            git add content
+            git add content .prelims_embedding_cache_en.db .prelims_embedding_cache_ja.db
             git commit -m "Updated by GitHub Actions"
             git push
           fi

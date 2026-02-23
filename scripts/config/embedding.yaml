@@ -1,0 +1,19 @@
+handlers:
+  - target_path: "content/blog"
+    ignore_files:
+      - _index.md
+    processors:
+      - permalink_base: "/blog"
+        type: embedding_recommender
+        language: en
+        topk: 3
+        cache_db: ".prelims_embedding_cache_en.db"
+  - target_path: "content/post"
+    ignore_files:
+      - _index.md
+    processors:
+      - permalink_base: "/post"
+        type: embedding_recommender
+        language: ja
+        topk: 3
+        cache_db: ".prelims_embedding_cache_ja.db"
