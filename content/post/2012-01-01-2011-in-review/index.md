@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 2011 in review
 keywords: [統計, レポート, ブログ, '2011', コンサートホール, 概要, コンサート, wordpress, 年間, 去年]
-recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
-  /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/]
+recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2023-12-30-2023-year-in-review/,
+  /post/2016-12-31-2016nian-wozhen-rifan-tute/]
 ---
 
 あけましておめでとうございます。  

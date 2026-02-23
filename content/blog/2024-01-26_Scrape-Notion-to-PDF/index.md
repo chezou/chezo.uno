@@ -13,8 +13,8 @@ tags: []
 title: Scrape Notion and convert into PDF
 keywords: [provide, pdfs, pages, originally, actions, japanese, github, script, repository,
   docker]
-recommendations: [/blog/2019-10-06_how-to-test-a-new-docker-image-for-digdag-workflow-on-circleci--c8bb92987877/,
-  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
+recommendations: [/blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/,
+  /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/,
   /blog/2017-08-30_python-basics--package-management-462918458f96/]
 ---
 

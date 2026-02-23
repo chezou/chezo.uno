@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: Take6が2011/05/30,31に来日公演！
 keywords: [公演, 初日, フィル, ナイト, ゴスペル, クラブ, r&b, アカペラ, 会員, オフィシャルサイト]
-recommendations: [/post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/,
-  /post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/]
+recommendations: [/post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/,
+  /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/, /post/2009-07-11-masa-festanotiketutogalai-ta/]
 ---
 
 [オフィシャルサイト](http://jp.take6.com/)が非常にださいのですが、Take6が東京にて来日公演するようです。  

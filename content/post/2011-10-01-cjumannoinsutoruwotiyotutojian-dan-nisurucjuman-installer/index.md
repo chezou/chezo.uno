@@ -12,9 +12,9 @@ summary: ''
 tags: []
 title: cJumanのインストールをちょっと簡単にするcJuman-installer
 keywords: [python, juman, gcc, usr, '2.4', swig, morphological, analyzer, '644', wrap]
-recommendations: [/post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
-  /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
-  /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/]
+recommendations: [/post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/,
+  /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
+  /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/]
 ---
 
 cJumanという[@kharakawa](http://twitter.com/kharakawa) さんの作成された、形態素解析器Jumanをpythonから使うためのSWIGで作られたラッパーがあります。

@@ -12,7 +12,8 @@ summary: ''
 tags: []
 title: 練馬アカペラコンテストに行ってきた
 keywords: [和音, rajaton, 曲名, アレンジ, try, tone, 難しい, オリジナル, アカペラ, 宗教]
-recommendations: [/post/2008-07-05-rajaton/, /post/2008-06-03-er-du-qin-qian/, /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
+recommendations: [/post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/,
+  /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/, /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/]
 ---
 
 2/6に開催された[練馬区のアカペラコンテスト](http://www.neribun.or.jp/nerima/ichiran.cgi?mode=1&t=1&no=1845)に行ってきました。

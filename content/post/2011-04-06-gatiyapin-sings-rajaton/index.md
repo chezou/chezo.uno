@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: ガチャピン sings Rajaton？
 keywords: [動画, youtube, ガチャピン, アマチュア, rajaton, 演奏, 検索, 名曲, リニューアル, ホットエントリ]
-recommendations: [/post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/,
-  /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
+recommendations: [/post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/,
+  /post/2009-04-13-it-dont-mean-a-thing/, /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/]
 ---
 
 きっかけは、君のラジオがリニューアルしている様子がはてブのホットエントリ入りしたところから。  

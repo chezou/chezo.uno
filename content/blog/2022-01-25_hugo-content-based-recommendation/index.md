@@ -14,8 +14,8 @@ image: {caption: 'Recommendation example of https://chezo.uno/blog/2017-07-24_si
 projects: []
 keywords: [articles, blog, recommendation, hugo, cli, yaml, content, based, post,
   write]
-recommendations: [/blog/2025-08-24-configured-pages-cms/, /blog/2017-05-02_an-easy-way-to-get-url-list-of-your-medium-publication-c60c61244101/,
-  /blog/2024-02-02-migrated-from-netlify-to-cloudflare-pages/]
+recommendations: [/blog/2025-08-24-configured-pages-cms/, /blog/2024-02-02-migrated-from-netlify-to-cloudflare-pages/,
+  /blog/2017-05-02_an-easy-way-to-get-url-list-of-your-medium-publication-c60c61244101/]
 ---
 
 Hugo has a feature to show keyword based related articles.

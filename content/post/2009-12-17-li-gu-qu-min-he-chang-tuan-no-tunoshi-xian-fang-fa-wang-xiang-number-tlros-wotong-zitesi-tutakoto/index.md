@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: '粒谷区民合唱団の一つの実現方法(妄想) - #tlros を通じて思ったこと -'
 keywords: [パート, サービス, タグ, なけれ, 楽しい, 何事, アカペラー, いみ, twitterアカウント, summer]
-recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/,
-  /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/]
+recommendations: [/post/2005-08-21-nan-sheng-he-chang/, /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/,
+  /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/]
 ---
 
 最近、twitterで曲を歌うことになりました。なんというか、アカペラーや合唱人との繋がりが楽しくなってきたのですが、まさかこんな展開になるとは思っていなかったので楽しさが増してきました。  

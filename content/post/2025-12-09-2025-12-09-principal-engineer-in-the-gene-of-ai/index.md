@@ -7,8 +7,8 @@ image: {preview_only: false}
 subtitle: AIの遺電子の時代が早く来てほしい
 tags: [leadership, engineering, career]
 keywords: [ai, コード, principal, 生成, こと, 人間, coding, 相手, レビュー, 企業]
-recommendations: [/post/2025-09-19-review-fatigue/, /post/2025-11-25-staff-engineering-path/,
-  /post/2016-12-01-rubydeshen-ceng-xue-xi-woshi-tutayin-sheng-he-cheng-amazon-pollywoshi-tutewebsaitonodu-mishang-geyin-sheng-he-cheng-sitemita/]
+recommendations: [/post/2025-11-25-staff-engineering-path/, /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
+  /post/2025-09-19-review-fatigue/]
 ---
 
 AmazonのPrincipal Applied ScientistのEugene Yanさんの記事に触発されたので書いてみる。

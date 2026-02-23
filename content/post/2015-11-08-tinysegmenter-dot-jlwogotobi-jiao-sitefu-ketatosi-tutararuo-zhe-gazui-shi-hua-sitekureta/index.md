@@ -13,7 +13,7 @@ tags: []
 title: TinySegmenter.jlをGoと比較して負けたと思ったら若者が最適化してくれた
 keywords: [julia, 最適化, hash, 比較, 言語, 反響, sgj, repeatedly, hateblo, コンパイル]
 recommendations: [/post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/,
-  /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/]
+  /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/, /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/]
 ---
 
 先日、[TinySegmenter.jlの話](https://chezo.uno/post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua

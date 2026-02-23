@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: iPhoneに望むこと
 keywords: [tumblr, メモ, iphone, がわり, ライク, スター, 引用, 現状, 機会, 部分]
-recommendations: [/post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/, /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/,
-  /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/]
+recommendations: [/post/2010-11-07-instagr-dot-amgamian-bai-i/, /post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/,
+  /post/2022-01-25-hugo-content-based-recommendation/]
 ---
 
 最近、tumblrをメモがわりにquoteすることが多いのですが、iPhoneでtumblrを使う機会も増えてきました。  

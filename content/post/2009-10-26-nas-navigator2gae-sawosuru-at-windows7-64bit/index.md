@@ -13,7 +13,7 @@ tags: []
 title: NAS Navigator2が悪さをする@Windows7 64bit
 keywords: [nas, 追記, ダメ, 下手, note, 積極的, linkstation, exe, 管理者, navigator]
 recommendations: [/post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/,
-  /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/, /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/]
+  /post/2009-10-23-windows7-64bitwodg33tlmninantokadao-ru-sita/, /post/2016-10-29_homebrew-----iruby---------------6a02e5194ff2/]
 ---
 
 091111追記：解決方法は[こちら](http://wp.me/pvR30-d2)。

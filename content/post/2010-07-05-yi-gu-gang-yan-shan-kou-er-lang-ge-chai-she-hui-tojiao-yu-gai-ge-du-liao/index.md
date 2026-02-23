@@ -12,9 +12,9 @@ summary: ''
 tags: []
 title: 苅谷剛彦、山口二郎「格差社会と教育改革」読了
 keywords: [教育, 予算, 新自由主義, 議論, 主張, 学力, 時期, もと, 感覚, 変化]
-recommendations: [/post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
+recommendations: [/post/2010-07-30-dezitarujiao-ke-shu-jiao-cai-xie-yi-hui-she-li-sinpoziumu-can-jia-simasita/,
   /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
-  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
+  /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/]
 ---
 
 社会教育学者の苅谷剛彦氏と政治学者の山口二郎氏の対談による、格差社会についての議論をまとめた本です。  

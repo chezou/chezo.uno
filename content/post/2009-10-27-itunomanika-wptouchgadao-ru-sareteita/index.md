@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: いつのまにか、wptouchが導入されていた
 keywords: [iphone, 対応, appbank, ipod touch, flash, fc, rss, 自動的, wordpress, とき]
-recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/,
-  /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/]
+recommendations: [/post/2025-08-24-pages-cms/, /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
+  /post/2009-06-11-iphoneniwang-mukoto/]
 ---
 
 昔探したときはまったく情報がなかったものですが、いつの間にか[Wordpress.comにwptouchが対応](http://ja.blog.wordpress.com/2009/10/22/the-hero-is-in-your-pocket/)していました。って、10/22ってすごい最近だし。

@@ -14,7 +14,7 @@ title: 「学校教育の情報化に関する懇談会」のライブ配信が�
 keywords: [指導, デジタル教科書, ict, 活用, 懇談会, 授業, 項目, 情報, 能力, 情報端末]
 recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
   /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/,
-  /post/2010-07-30-dezitarujiao-ke-shu-jiao-cai-xie-yi-hui-she-li-sinpoziumu-can-jia-simasita/]
+  /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/]
 ---
 
 最近、遅ればせながら色々と教育における情報化について調べることが多いのですが、こんな懇談会が4/22(木) 16:00-行われるそうです。(配信のリンクは文科省のトップからリンクが近々張られるそうです。)

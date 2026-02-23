@@ -13,8 +13,7 @@ tags: []
 title: Docker上にnbviewerを立ててiruby+Nyaplotで描いたグラフを共有できるようにしてみた
 keywords: [docker, nbviewer, notebook, ipython, nyaplot, 描画, iruby, 可視化, ruby, mac]
 recommendations: [/post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebookkarajian-reruyounisita/,
-  /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
-  /post/2016-10-29_homebrew-----iruby---------------6a02e5194ff2/]
+  /post/2020-07-16-google colaboratory-vs code(code-server)/, /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/]
 ---
 
 昨年末に[@domitryさんが書かれた記事](http://domitry.hatenablog.jp/entry/science_with_ruby)でも話題になった、RubyのライブラリMikonとNyaplotで生成したグラフをipython notebookとして社内のGHEでも共有することを目標に、[nbviewer](https://nbviewer.ipython.org/)をlocalのdocker上で立ててみました。

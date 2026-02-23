@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 夏なので
 keywords: [cd, 軽快, 節約, この頃, zero, ギター, 元気, 視聴, 感じ, 欲しく]
-recommendations: [/post/2008-08-01-ono-lisa-best-2002-2006/, /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/,
-  /post/2009-04-13-it-dont-mean-a-thing/]
+recommendations: [/post/2008-07-07-the-real-group-real-christmas-commonly-unique/,
+  /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/, /post/2008-06-25-xin-meng-eruhetudohondu-ben/]
 ---
 
 ノートをたちあげっぱにしておくと，熱で手が低温やけどしそうな今日この頃，いかがお過ごしでしょうか．  

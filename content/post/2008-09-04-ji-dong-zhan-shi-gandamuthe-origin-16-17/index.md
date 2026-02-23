@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 機動戦士ガンダムTHE ORIGIN　16 17
 keywords: [オリジナル, isbn, スコア, 選択, 引き合い, 角川書店, 角川, 気分, 後々, ない]
-recommendations: [/post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/, /post/2008-09-10-enzieruhato-27/,
-  /post/2008-09-08-luck-stealer-2/]
+recommendations: [/post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
+  /post/2008-06-03-gao-wu-nai-yue/, /post/2008-10-02-pahuekutoburudu-liao/]
 ---
 
 {{< amazon asin="4047139874" title="機動戦士ガンダムTHE ORIGIN 16 オデッサ編・後 (16) (角川コミックス・エース 80-19)" >}}

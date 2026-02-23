@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: Ris a la malta
 keywords: [小屋, トライ, life, bgm, 青木, rockapella, もう一度, the real group, ライブ, こと]
-recommendations: [/post/2008-07-16-rockapella-channel/, /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/,
-  /post/2009-04-13-it-dont-mean-a-thing/]
+recommendations: [/post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/, /post/2008-07-09-press-startdang-xuan-simasita/,
+  /post/2009-09-24-motion-blue-yokohama/]
 ---
 
 [トライトーンのライブ](http://www.tasaku.com/sb/schedule.cgi?mode=detail&y=2008&m=08&id=12)に行ってきます。  

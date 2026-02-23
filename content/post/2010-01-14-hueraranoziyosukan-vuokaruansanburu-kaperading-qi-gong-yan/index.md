@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: フェラーラのジョスカン 〜ヴォーカルアンサンブル カペラ定期公演
 keywords: ['05', '1600', '1200', jpeg, ca, 楽譜, '115', bf, 教会, '58']
-recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2009-08-07-pokemonxin-gan-xian/,
-  /post/2010-09-04-tun-zu-xing-tutekimasita/]
+recommendations: [/post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/,
+  /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/, /post/2005-08-21-nan-sheng-he-chang/]
 ---
 
 [![](l_1600_1200_f9f88bf9-3b1a-4e42-a829-05bd703047a6.jpeg)](l_1600_1200_f9f88bf9-3b1a-4e42-a829-05bd703047a6.jpeg)

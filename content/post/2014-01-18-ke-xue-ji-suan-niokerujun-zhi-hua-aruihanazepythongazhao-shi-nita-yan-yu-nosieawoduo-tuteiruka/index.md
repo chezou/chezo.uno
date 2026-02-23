@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 科学計算における均質化、あるいはなぜPythonが着実に他言語のシェアを奪っているか
 keywords: [python, 言語, こと, パッケージ, 統計的, 科学, 可視化, matlab, コード, 計算]
-recommendations: [/post/2017-08-26_python------------------dc8d8f2fe989/, /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/,
-  /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/]
+recommendations: [/post/2017-09-09_pyconjp-2017------5fa5f59b9bde/, /post/2017-08-03_oss--------------48807bbbf13f/,
+  /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/]
 ---
 
 最近、何故科学計算でPythonがほぼ一人勝ちなのか気になっていたのですが、[TAL YARKONI](http://www.talyarkoni.org/blog/author/admin/)氏による、[THE HOMOGENIZATION OF SCIENTIFIC COMPUTING, OR WHY PYTHON IS STEADILY EATING OTHER LANGUAGES’ LUNCH](http://www.talyarkoni.org/blog/2013/11/18/the-homogenization-of-scientific-computing-or-why-python-is-steadily-eating-other-languages-lunch/)という記事が、その答えに近づける鍵なのかもしれないと思い、試訳をしてみました。  

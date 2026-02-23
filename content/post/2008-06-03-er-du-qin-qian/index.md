@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 二度寝前
 keywords: [アレンジ, 満足, cd, スコア, 選択, テンポ, shaw, robert, festival, 苦しい]
-recommendations: [/post/2008-07-07-the-real-group-real-christmas-commonly-unique/,
-  /post/2009-04-13-it-dont-mean-a-thing/, /post/2008-08-01-ono-lisa-best-2002-2006/]
+recommendations: [/post/2008-08-01-ono-lisa-best-2002-2006/, /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/,
+  /post/2006-07-28-xia-nanode/]
 ---
 
 9時前に寝てしまい、気が付けば11時。  

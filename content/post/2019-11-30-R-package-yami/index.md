@@ -6,8 +6,8 @@ summary: CRANを捨ててGitHubに帰ろう
 tags: [Engineering, OSS, R]
 title: Rパッケージ開発の闇
 keywords: [cran, パッケージ, msgpack, untitled, rtd, wakalang, data, md, 当時, 依存]
-recommendations: [/post/2019-12-04-r-and-td/, /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/,
-  /post/2017-08-26_python------------------dc8d8f2fe989/]
+recommendations: [/post/2019-12-04-r-and-td/, /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
+  /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/]
 ---
 
 ![](https://images.unsplash.com/photo-1504401774599-1b5378bfaae3?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

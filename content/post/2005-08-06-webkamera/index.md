@@ -12,7 +12,8 @@ summary: ''
 tags: []
 title: Webカメラ
 keywords: [ほしく, tsukumo, 無性, 駆使, skype, 友達, チャット, 勉強, 最近, '10']
-recommendations: [/post/2005-07-17-urayamasika/, /post/2005-04-23-willcom/, /post/2007-10-27-waidoye-jing-toye-jing-terebi/]
+recommendations: [/post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
+  /post/2005-04-23-willcom/, /post/2018-11-14_subscription-2018/]
 ---
 
 最近、MSNやらYahooやらSkypeやらを駆使して、あの手この手でボイスチャットやお絵かきチャットしながら友達と勉強をしていたわけですが、  

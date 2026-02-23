@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: クロノトリガーの「時の回廊」が名曲すぎる
 keywords: [クロノトリガー, アレンジ, 康典, 光田, 原曲, シーン, 音質, 作曲, メドレー, time]
-recommendations: [/post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/,
-  /post/2008-06-03-er-du-qin-qian/, /post/2009-04-13-it-dont-mean-a-thing/]
+recommendations: [/post/2010-09-11-press-start-2010xing-tutekita/, /post/2011-04-06-gatiyapin-sings-rajaton/,
+  /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/]
 ---
 
 あまりそう思ってなかったんですが、聞いてみてどのシーンで使われていたのか思い出せず検索してみたら、こんな動画が出てきました。  

@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: のだめカンタービレ18〜20
 keywords: [知子, 二ノ宮, 講談社, だめ, isbn, スコア, 周り, 選択, 素朴, 最新刊]
-recommendations: [/post/2008-08-11-nodame21juan/, /post/2008-10-10-tiisanatiisanawang-yang/,
-  /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
+recommendations: [/post/2008-08-11-nodame21juan/, /post/2008-10-02-pahuekutoburudu-liao/,
+  /post/2008-06-03-gao-wu-nai-yue/]
 ---
 
 {{< amazon asin="4063406482" title="のだめカンタービレ (18)(講談社コミックスキス)" >}}

@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 無線コントローラ
 keywords: [コントローラ, 新作, 遅延, 無線, プレイ, ゲーム, 以前, 意味, 最近, ない]
-recommendations: [/post/2009-09-22-pcdewaiyaresukontororawoshi-uniha/, /post/2009-12-05-after-devil-forcewofa-jue-sita/,
-  /post/2009-05-04-ad-es-wojie-yue-surutameni/]
+recommendations: [/post/2009-09-22-pcdewaiyaresukontororawoshi-uniha/, /post/2007-05-10-usbdewen-kerufm-slash-amrazio/,
+  /post/2009-10-10-ceatecitutekita/]
 ---
 
 そういえば、[以前調べていた無線コントローラ](https://chezo.uno/post/2009-09-22-pcdewaiyaresukontororawoshi-uniha) を買った。っていってもけっこう前ですが。思ったような遅延は感じられない。そんなにシビアなゲームはやってないからか。  

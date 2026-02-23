@@ -12,9 +12,8 @@ summary: ''
 tags: []
 title: 'kawasaki.rb #011 を開催しました #kwskrb'
 keywords: [sinatra, 組込み, snowcrush, 変数, js, 次回, rails, kawasaki, rb, 水曜]
-recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/,
-  /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/, /post/2022-06-18-kawasaki
-    rb 9 years reflection/]
+recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/,
+  /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/, /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/]
 ---
 
 4/23に[kawasaki.rb #011](http://kawasakirb.doorkeeper.jp/events/10187)を開催しました。  

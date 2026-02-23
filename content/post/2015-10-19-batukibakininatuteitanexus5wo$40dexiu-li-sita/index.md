@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: バッキバキになっていたNexus5を$40で修理した
 keywords: [ドライバー, 液晶, ガラス, jpg, nexus, フィルム, 修理, 適当, 画面, 途中]
-recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
-  /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/]
+recommendations: [/post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
+  /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/]
 ---
 
 ![](20151018110109.jpg)

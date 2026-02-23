@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: NLTKからKyTeaでコーパスを読み込むJPKyteaTokenizer作りました
 keywords: [nltk, 自然言語処理, reader, tokenizer, import, python, test, コーパス, ソースコード, kytea]
-recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
-  /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/]
+recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
+  /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/]
 ---
 
 KyteaをPythonから使うMykytea-pythonを使って、NLTKラッパーを書いてみました。

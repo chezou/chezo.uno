@@ -8,7 +8,8 @@ description: joker1007さんも煽っていることもあり、MacBook Pro Reti
 title: MBPからThinkpad X1 Carbon(2017)に移行した
 keywords: [macbook, ime, alt, pip, デュアルブート, 辞書, install, キーボード, windows, '36']
 recommendations: [/post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/,
-  /post/2019-03-10_business-trip-goods/, /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/]
+  /post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/,
+  /post/2011-02-05-acer-aspire-1410wocrucial-realssd-c300niwai-fu-kedvdnasinihuan-zhuang-sita/]
 ---
 
 joker1007さんも[煽っている](http://d.hatena.ne.jp/joker1007/20170202/1486056211)こともあり、MacBook Pro Retina(2015) 15インチが重すぎてしんどいので、[Thinkpad X1 Carbon(2017)](http://www3.lenovo.com/jp/ja/notebooks/thinkpad/x-series/X1-Carbon-5th-Generation/p/22TP2TXX15G)を買いました。2.04kgから1.13kgへと大幅軽量化しました。外での打ち合わせや出張も結構増えてきて、Macは電源も含めると辛い重さになるので思いきって買いました。背中と腰が死にそうなので軽さは正義です。([msfmさん](https://twitter.com/msfm)色々ご相談に乗っていただきありがとうございました！）

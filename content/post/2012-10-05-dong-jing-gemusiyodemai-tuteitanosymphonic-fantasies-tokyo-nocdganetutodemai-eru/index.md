@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 東京ゲームショーで売っていたのSymphonic Fantasies Tokyo のCDがネットで買える！
 keywords: [fantasies, symphonic, 演奏, クオリティ, ドイツ, 素晴らしい, tokyo, cd, paypal, garden]
-recommendations: [/post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/, /post/2009-07-05-guan-dong-hagame-musichoihoida/,
-  /post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/]
+recommendations: [/post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/,
+  /post/2008-11-08-liang-ishi-dai-ninatutanee/, /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
 ---
 
 [![](https://i.pinimg.com/originals/f5/f8/7a/f5f87a22d7029a96f44f1fba96c2afed.jpg)](https://pinterest.com/pin/60869032434954296/)

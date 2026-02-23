@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 2016年買ってよかったもの 10選
 keywords: [メーカー, 出版社, 商品, メディア, ブログ, bluetooth, エレクトロニクス, anker, 発売日, hdmi]
-recommendations: [/post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/, /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/,
-  /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/]
+recommendations: [/post/2017-12-30_2017------------bbf834e065c5/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
+  /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/]
 ---
 
 ハード中心ですが、2016年に買ってよかったものを書いていきます。10選と言いつつ、枝分かれをしているものがありますがご愛嬌ということで。転職をしたこともあり、必要となったものが大きく変わったのですが、今回は自分の生活を楽にしてくれたものを買えたなという気持ちです。

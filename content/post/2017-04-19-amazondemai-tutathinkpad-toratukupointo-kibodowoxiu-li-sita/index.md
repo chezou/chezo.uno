@@ -13,7 +13,7 @@ tags: []
 title: Amazonで買ったThinkpad トラックポイント キーボードを修理した
 keywords: [キーボード, thinkpad, トラック, lenovo, amazon, センター, 修理, そう, ポイント, 交換]
 recommendations: [/post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/,
-  /post/2008-06-01-nantoiunu-li-noren/, /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/]
+  /post/2015-10-19-batukibakininatuteitanexus5wo$40dexiu-li-sita/, /post/2017-12-30_2017------------bbf834e065c5/]
 ---
 
 みんな大好きトラックポイントキーボードですが、僕も昔使っていて最近miyagawaさんが使っていると知って再び使うようになりました。

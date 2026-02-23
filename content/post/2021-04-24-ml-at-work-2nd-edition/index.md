@@ -12,8 +12,8 @@ categories: [publish]
 projects: []
 image: {caption: 仕事ではじめる機械学習 第2版 表紙, focal_point: Smart, preview_only: false}
 keywords: [目次, tokoroten, 読み方, 実務, hagino, 数式, '3000', 機械学習, オライリー・ジャパン, ebook]
-recommendations: [/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
-  /post/2024-06-20-nappan-book-review/]
+recommendations: [/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/,
+  /post/2018-05-17_mlse-kickoff/]
 ---
 {{< toc >}}
 

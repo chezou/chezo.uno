@@ -13,7 +13,7 @@ tags: []
 title: 'これで君もウィテカーになれる！？「誰でもウィテカー」はじめました #darewite'
 keywords: [woo, choir, whitacre, virtual, ツイート, '2.0', 頻度, twitter, eric, nltk]
 recommendations: [/post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
-  /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/]
+  /post/2016-12-01-rubydeshen-ceng-xue-xi-woshi-tutayin-sheng-he-cheng-amazon-pollywoshi-tutewebsaitonodu-mishang-geyin-sheng-he-cheng-sitemita/]
 ---
 
 20110409追記：Whitacre氏が改めて[来日すると連絡いただいた](http://twitter.com/hanagoro/status/56563103596412928)そうです！[福島にも](http://twitter.com/hanagoro/status/56563939382804481)！

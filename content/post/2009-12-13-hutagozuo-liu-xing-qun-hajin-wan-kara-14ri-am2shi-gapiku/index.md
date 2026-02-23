@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: ふたご座流星群は今晩から。14日AM2時がピーク
 keywords: [あたたかい, 難しい, 留学生, 特集, ピーク, 発音, 曇り, 類似, 午前, '2009']
-recommendations: [/post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/,
-  /post/2011-04-07-soredemotake6halai-ri-suru/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
+recommendations: [/post/2006-07-28-xia-nanode/, /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/,
+  /post/2009-08-12-rui-yan-si/]
 ---
 
 前回のしし座流星群の時には逃してしまったので、今回こそはきちんと押さえておこうと思います。[  

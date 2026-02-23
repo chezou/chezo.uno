@@ -12,9 +12,8 @@ summary: ''
 tags: []
 title: 学校現場の負担軽減プロジェクトチーム（中間まとめ）についてのメモ
 keywords: [調査, 負担, 教員, 業務, 文部科学省, 教育現場, 学校現場, 成績, 情報, 文書]
-recommendations: [/post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/,
-  /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/,
-  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
+recommendations: [/post/2022-07-15-finished-mlse-infra-wg/, /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
+  /post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/]
 ---
 
 何が教育現場の問題なのかを調べたいと思ったら、この資料にたどり着きました。ざっくりとしたメモです。情報薄いです。

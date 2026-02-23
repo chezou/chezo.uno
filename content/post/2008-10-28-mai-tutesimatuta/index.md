@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 買ってしまった
 keywords: [hd, hfi, '650', '700', '555', 環境, ライブハウス, マランツ, プラネテス, ジャズ]
-recommendations: [/post/2008-10-05-hd53r-ver-dot-8wogou-ru/, /post/2008-09-14-hetudohonwu-se-sitahi/,
-  /post/2009-10-10-ceatecitutekita/]
+recommendations: [/post/2008-09-14-hetudohonwu-se-sitahi/, /post/2008-10-05-hd53r-ver-dot-8wogou-ru/,
+  /post/2005-07-17-urayamasika/]
 ---
 
 {{< amazon asin="B000WM8KPI" title="マランツ シルバー SA-15S1S" >}}

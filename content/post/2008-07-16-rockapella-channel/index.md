@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: Rockapella Channel
 keywords: [rockapella, channel, 楽しみ, youtube, tokyo, ｒｙ, ３０, １６, １０, 黒板]
-recommendations: [/post/2008-07-10-ris-a-la-malta/, /post/2015-08-23-yapc-asia-tokyo-2015can-jia-sitekita-number-yapcasia/,
-  /post/2011-04-06-gatiyapin-sings-rajaton/]
+recommendations: [/post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/,
+  /post/2011-04-06-gatiyapin-sings-rajaton/, /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/]
 ---
 
 [YoutubeにRockapella Channel](http://jp.youtube.com/user/RockapellaDotCom)なるものがありました。  

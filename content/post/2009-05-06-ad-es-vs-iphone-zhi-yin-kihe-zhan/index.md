@@ -12,7 +12,7 @@ summary: ''
 tags: []
 title: Ad[es] VS iPhone(値引き合戦)
 keywords: [解約, willcom, iphone, ad, es, 手数料, 月額, gw, コスト, 端末]
-recommendations: [/post/2009-05-04-ad-es-wojie-yue-surutameni/, /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/,
+recommendations: [/post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/, /post/2009-05-04-ad-es-wojie-yue-surutameni/,
   /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
 ---
 

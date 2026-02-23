@@ -13,8 +13,7 @@ tags: []
 title: ' 1TEXT file → ページ毎管理 → 1TEXT fileとしてダウンロード可'
 keywords: [先生, 教育, 教材, 電子化, 著作権, 大学, 教科書, コンテンツ, 教員, 相互]
 recommendations: [/post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/,
-  /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/,
-  /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/]
+  /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/, /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/]
 ---
 
 ・著作権管理システム  

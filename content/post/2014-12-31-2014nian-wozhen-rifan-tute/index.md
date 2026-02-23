@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 2014年を振り返って
 keywords: [翻訳, rails, 迷惑, ホットエントリ, julia, output, 仕事, ingress, 来年, 機会]
-recommendations: [/post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/,
-  /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/]
+recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2016-12-31-2016nian-wozhen-rifan-tute/,
+  /post/2020-12-31-2020-review/]
 ---
 
 後数時間で終わりますが、去年書き忘れていたので書いていきます。

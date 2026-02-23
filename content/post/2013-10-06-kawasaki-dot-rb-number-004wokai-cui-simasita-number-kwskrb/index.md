@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 'Kawasaki.rb #004を開催しました #kwskrb'
 keywords: [websocket, lt, tokuda, morph, sinatra, 形態素解析, kytea, minori, 通信, リアルタイム]
-recommendations: [/post/2012-11-10-websocketwoshi-tuteriarutaimunixing-tai-su-jie-xi-wosurumorph-websocketwozuo-tutemita/,
-  /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/, /post/2014-04-26-kawasaki-dot-rb-number-011-wokai-cui-simasita-number-kwskrb/]
+recommendations: [/post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/,
+  /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/, /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/]
 ---
 
 9/25(水)にKawsaki.rbの第4回ミートアップを行いました。  

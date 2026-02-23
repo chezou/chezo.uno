@@ -12,8 +12,9 @@ summary: ''
 tags: []
 title: 教科書の国際比較された報告書についてのメモ
 keywords: [教科書, イギリス, 義務, フランス, 韓国, 欧米, 台湾, 試験, 使用, アメリカ]
-recommendations: [/post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/,
-  /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/, /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/]
+recommendations: [/post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/,
+  /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/,
+  /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/]
 ---
 
 [第３期科学技術基本計画  

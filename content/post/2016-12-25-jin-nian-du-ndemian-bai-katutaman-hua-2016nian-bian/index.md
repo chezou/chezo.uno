@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 今年読んで面白かった漫画 2016年編
 keywords: [まとめ買い, コミックス, kindle版, 作品, 作者, 商品, メディア, 勇者, ブログ, チャンス]
-recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
-  /post/2020-01-14-2019-best-comic/]
+recommendations: [/post/2020-01-14-2019-best-comic/, /post/2010-01-01-12yue-nidu-ndaben/,
+  /post/2011-07-20-jkominoman-hua-biyuahaipaddemodu-meru/]
 ---
 
 海外出張の移動やKindle Unlimitedとかもあって結構漫画を読む機会が多かったのですが、今年読んだ漫画のオススメを書いていきます。

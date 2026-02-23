@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 七夕キャンドルナイト
 keywords: [キャンドル, 宣伝, 近隣, ナイト, 曇り, bb, '83', '48', 今度, bc]
-recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2010-03-22-shi-jie-bian-ge-noshi-ravuosunotatuta-tunomai-ifang/,
-  /post/2009-08-12-rui-yan-si/]
+recommendations: [/post/2009-08-07-pokemonxin-gan-xian/, /post/2009-01-18-try-tonegamy-spacetoyou-tubeni/,
+  /post/2009-07-11-masa-festanotiketutogalai-ta/]
 ---
 
 今年は晴れだか曇りだかわからない七夕でした。駅の近くでキャンドルナイトをやっていたので、行ってきました。  

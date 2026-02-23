@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: Luck Stealer (2)
 keywords: [迫力, 猟奇的, 膳立て, 集英社, ない, 教師, 感じ, はじめ, はず, ほとんど]
-recommendations: [/post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/, /post/2008-08-01-ono-lisa-best-2002-2006/,
-  /post/2008-09-10-enzieruhato-27/]
+recommendations: [/post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
+  /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/, /post/2008-08-11-nodame21juan/]
 ---
 
 {{< amazon asin="408874571X" title="Luck Stealer 2 (2) (ジャンプコミックス)" >}}

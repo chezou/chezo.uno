@@ -6,8 +6,8 @@ date: '2017-12-30 18:27:50-08:00'
 description: 昨年に引き続き、振り返っていきます。
 title: 2017年を振り返って
 keywords: [data, cloudera, science, 家庭, strata, sparklyr, singapore, '2017', こと, オライリー]
-recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2016-12-31-2016nian-wozhen-rifan-tute/,
-  /post/2016-03-30-zhuan-zhi-simasita/]
+recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2020-12-31-2020-review/,
+  /post/2021-12-31-2021-year-review/]
 ---
 
 2017年を振り返って

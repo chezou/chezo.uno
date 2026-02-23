@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: ちいさなちいさな王様
 keywords: [一言, 感激, 講談社, 主人公, 小さく, 深い, 納得, 文章, isbn, スコア]
-recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-07-06-nodamekantabire18-20/,
-  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-30-narutaru/,
+  /post/2008-10-10-luo-yu-bai-xuan-xia/]
 ---
 
 {{< amazon asin="4062083736" title="ちいさなちいさな王様" >}}

@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: そのモデル、過学習してるの？未学習なの？と困ったら
 keywords: [データ, 訓練データ, validation, 精度, learning, bias, 学習, モデル, 検証, サイズ]
-recommendations: [/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2019-12-09-facebook
-    prophet-plot/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
+recommendations: [/post/2018-05-17_mlse-kickoff/, /post/2019-12-05-ibis2019-mlse/,
+  /post/2019-11-17-150 successful machine learning models 6 lessons/]
 ---
 
 # Q: うわっ...ワタシのモデル過学習してる…？
