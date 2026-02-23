@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 続報Masa Festa
 keywords: [プチヲタ, masa, festa, real, リアル, 男性, 来日, メンバー, 開催, こと]
-recommendations: [/post/2009-03-09-masafestanirajatonga/, /post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/,
-  /post/2009-07-11-masa-festanotiketutogalai-ta/]
+recommendations: [/post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/,
+  /post/2009-03-09-masafestanirajatonga/, /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/]
 ---
 
 [この夏に Masa Festa 開催!　リアルのメンバーも来るよ - 歌ものプチヲタ友の会](http://d.hatena.ne.jp/maru2004/20090302/p1)  

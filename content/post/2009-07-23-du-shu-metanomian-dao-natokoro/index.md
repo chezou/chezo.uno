@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 読書メーターの面倒なところ
 keywords: [コメント, ライフログ, 読書メーター, 殆ど, 見た目, excite, 明示, エントリー, 雑感, wordpress]
-recommendations: [/post/2009-05-16-du-shu-metahazimemasita/, /post/2009-05-02-hazimemasite-wordpress/,
-  /post/2008-10-28-utukusiizi-domo/]
+recommendations: [/post/2009-05-16-du-shu-metahazimemasita/, /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/,
+  /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/]
 ---
 
 なんか、あれを始めてから殆ど本を読んでいないのであまり参考にはならないかもしれませんが、使ってみた雑感を。

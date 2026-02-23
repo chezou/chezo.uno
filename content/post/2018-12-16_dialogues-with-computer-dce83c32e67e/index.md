@@ -6,8 +6,8 @@ description: この記事はpyspa Advenct calenderの17日目です。
 lastmod: '2018-12-15 22:06:00-08:00'
 title: あなたの知らない煽りの世界
 keywords: [コンピュータ, lib, 疑問, メッセージ, やりとり, 人間, pc, エンジニア, github, 連想]
-recommendations: [/post/2017-05-25_teach-what-i-dont-know/, /post/2025-12-09-2025-12-09-principal-engineer-in-the-gene-of-ai/,
-  /post/2008-06-01-nantoiunu-li-noren/]
+recommendations: [/post/2025-09-19-review-fatigue/, /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/,
+  /post/2018-10-25_risecamp------ee65c2ef0c9e/]
 ---
 
 この記事は[pyspa Advenct calender](https://adventar.org/calendars/3018)の17日目です。

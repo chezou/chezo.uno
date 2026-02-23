@@ -8,9 +8,9 @@ description: tl;dr
 title: Building predictive Model with Ibis, Impala and scikit-learn
 keywords: [notebook, data, spark, pandas, model, demo, port, predictive, netflix,
   scikit]
-recommendations: [/blog/2016-12-30_livy---jupyter-notebook---sparkmagic---powerful---easy-notebook-for-data-scientist-a8b72345ea2d/,
-  /blog/2017-03-26_sparkavro--manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0/,
-  /blog/2022-05-05-sqllineage-with-digdag-log/]
+recommendations: [/blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/,
+  /blog/2016-12-30_livy---jupyter-notebook---sparkmagic---powerful---easy-notebook-for-data-scientist-a8b72345ea2d/,
+  /blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/]
 ---
 
 ### tl;dr

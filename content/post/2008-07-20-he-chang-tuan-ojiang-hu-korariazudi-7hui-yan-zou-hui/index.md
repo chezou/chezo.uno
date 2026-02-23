@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 合唱団お江戸コラリアーず第7回演奏会
 keywords: [ピアノ, 作曲, ステージ, 指揮, stage, 男声合唱, st, 演奏, victoria, 信長貴富]
-recommendations: [/post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/,
-  /post/2009-09-24-motion-blue-yokohama/]
+recommendations: [/post/2005-09-18-gao-tian-san-lang-xing-tutekimasita/, /post/2005-08-21-nan-sheng-he-chang/,
+  /post/2010-01-14-hueraranoziyosukan-vuokaruansanburu-kaperading-qi-gong-yan/]
 ---
 
 良い演奏会でした。男声合唱に対するイメージが良い意味で変化しました。  

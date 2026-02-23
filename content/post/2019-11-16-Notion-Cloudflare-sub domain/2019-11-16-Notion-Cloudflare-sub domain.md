@@ -6,8 +6,8 @@ summary: Notionでカスタムドメインをサブドメインまで設定す�
 tags: [Notion]
 title: NotionのページをCloudflareでsub domainに転送する
 keywords: [notion, domain, 設定, uno, memo, chezo, ドメイン, 指定, 設定方法, カスタム]
-recommendations: [/post/2019-03-29_ngekkan-lambda-note-article/, /post/2023-12-30-2023-year-in-review/,
-  /post/2023-01-27-timeline for canadian pr/]
+recommendations: [/post/2025-08-24-pages-cms/, /post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/,
+  /post/2022-12-16-bump-wowchemy-v570/]
 ---
 
 ![](https://images.unsplash.com/photo-1512314889357-e157c22f938d?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

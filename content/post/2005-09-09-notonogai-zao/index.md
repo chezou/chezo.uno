@@ -12,8 +12,7 @@ summary: ''
 tags: []
 title: ノートの改造
 keywords: [バッテリ, 純正, srx, vaio, 充電, 欲しく, もん, ノート, hdd, bd]
-recommendations: [/post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/, /post/2009-10-18-vaio-xnixin-tokimeku/,
-  /post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/]
+recommendations: [/post/2006-03-17-uhi/, /post/2009-10-18-vaio-xnixin-tokimeku/, /post/2005-03-03-sugoi/]
 ---
 
 今使っているノート（VAIO PCG-SRX 3E/BD)のバッテリがへたってきました。  

@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 楽譜が欲しい
 keywords: [出版, ない, 自信, 分散, 無理, 方々, ネット, 比較的, オリジナル, アカペラ]
-recommendations: [/post/2008-06-09-tuiniiphonedeng-chang/, /post/2018-06-27_internet-for-kids/,
-  /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/]
+recommendations: [/post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
+  /post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/, /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
 ---
 
 出版されている物を、取り寄せるのは比較的なんとかなるとわかりました。  

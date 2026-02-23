@@ -6,8 +6,8 @@ tags: [Community]
 date: 2022-06-18 13:25:00-07:00
 lastmod: 2022-06-24 19:51:00-07:00
 keywords: [ruby, rb, 開催, kawasaki, 大会, lt, kwskrb, 会議, '2020', 言語]
-recommendations: [/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
-  /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/]
+recommendations: [/post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/,
+  /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/, /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/]
 ---
 
 ![Untitled](Untitled.png)

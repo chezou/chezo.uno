@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 新・萌えるヘッドホン読本
 keywords: [違和感, 後日, アマゾンギフト券, 表紙, 半分, 趣味, ヘッドホン, つもり, 詳しく, 期待]
-recommendations: [/post/2008-09-14-hetudohonwu-se-sitahi/, /post/2008-01-18-souiebakokohawu-yu-burogudatuta/,
-  /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
+recommendations: [/post/2006-07-28-xia-nanode/, /post/2008-06-09-tuiniiphonedeng-chang/,
+  /post/2017-01-30-indigogo-dehazimetebatukusitelai-ta-dot-woshi-tute3keyue-gatatuta/]
 ---
 
 ついつい買ってしまいました。  

@@ -13,7 +13,7 @@ tags: []
 title: なるたる
 keywords: [復旧, 同名, 鬼頭, 莫宏, ぼくらの, 原作, 講談社, レポート, アニメ, お勧め]
 recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-06-22-bokurano-alternative/,
-  /post/2008-07-06-nodamekantabire18-20/]
+  /post/2008-06-03-gao-wu-nai-yue/]
 ---
 
 {{< amazon asin="4063141861" title="なるたる―骸なる星珠たる子 (1) (アフタヌーンKC (186))" >}}

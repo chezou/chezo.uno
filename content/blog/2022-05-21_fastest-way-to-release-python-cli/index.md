@@ -14,7 +14,8 @@ projects: []
 keywords: [project, cli, pypi, token, create, dependency, written, package, python,
   need]
 recommendations: [/blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
-  /blog/2017-08-30_python-basics--package-management-462918458f96/, /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/]
+  /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/,
+  /blog/2020-03-05_py-operator-development-guide-for-python-users/]
 ---
 
 This is what I learned from creating a Python CLI ([digdaglog2sql](https://github.com/chezou/digdaglog2sql)) in a day.

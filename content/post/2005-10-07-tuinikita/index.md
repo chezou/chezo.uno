@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: ついにｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!!
 keywords: [ラジオ, fm, md, 発売, 録音, usb, 人柱, wav, radio, 欲しかっ]
-recommendations: [/post/2007-05-10-usbdewen-kerufm-slash-amrazio/, /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
-  /post/2020-04-03-microphone-for-remote-meeting/]
+recommendations: [/post/2007-05-10-usbdewen-kerufm-slash-amrazio/, /post/2006-07-28-xia-nanode/,
+  /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/]
 ---
 
 ○[ノートPCでもFMラジオを録音できるUSB接続のFMラジオ「USB Radio」が発売に](http://akiba.ascii24.com/akiba/news/2005/08/09/657448-000.html)  

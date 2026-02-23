@@ -13,7 +13,8 @@ tags: []
 title: 伊藤恵司・名島啓太両氏の選んだ『学生合唱のための「スチューデント・ソングブック」』が熱い！
 keywords: [合唱曲, 曲集, 学生, ブック, 松下, 合同, 収録曲, victoria, ich, dir]
 recommendations: [/post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/,
-  /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2005-08-21-nan-sheng-he-chang/]
+  /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/,
+  /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/]
 ---
 
 結構良い仕事をしている、合唱楽譜販売店[パナムジカ](http://www.panamusica.co.jp/)の[新刊案内](http://www.panamusica.co.jp/ja/new/index.html)ですが、その良質なコンテンツとは裏腹に中々Webに情報が流れていないのが玉に瑕だったりします。

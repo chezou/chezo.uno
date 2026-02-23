@@ -13,7 +13,7 @@ tags: []
 title: 「ネットフリックスの時代」にはコンテンツの山に埋もれなさせないためのヒントが詰まっていた
 keywords: [netflix, プレイリスト, spotify, コンテンツ, レコメンデーション, 方式, 反復, ラジオ, 音楽, サービス]
 recommendations: [/post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/,
-  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/]
+  /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/, /post/2018-11-14_subscription-2018/]
 ---
 
 backspace.fmでもよくゲストに出ている西田宗千佳さん([@mnishi41](https://twitter.com/mnishi41))の書かれた、「ネットフリックスの時代−配信とスマホがテレビを変える」読んだ。

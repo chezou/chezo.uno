@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: アキハバラ＠DEEP
 keywords: [秋葉原, 武器, 要素, 以前, 読後感, 素晴らし, 石田衣良, はやり, 春秋, 文藝]
-recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-10-28-utukusiizi-domo/,
-  /post/2008-11-06-koredeiinoda/]
+recommendations: [/post/2008-06-15-gui-cai-xian-ru/, /post/2008-10-28-utukusiizi-domo/,
+  /post/2008-11-18-ai-gainaibu-wu/]
 ---
 
 {{< amazon asin="4167174111" title="アキハバラ@DEEP (文春文庫)" >}}

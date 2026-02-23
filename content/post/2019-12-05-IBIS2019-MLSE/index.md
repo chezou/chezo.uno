@@ -12,8 +12,8 @@ summary: ML in productionの課題について話しました
 tags: [mlops]
 title: IBIS 2019の機械学習工学企画セッションに登壇しました
 keywords: [工学, 先生, shima, 表現, 機械学習, shift, スライド, effect, delayed, 学習]
-recommendations: [/post/2018-05-17_mlse-kickoff/, /post/2020-07-11-mlse-summer-workshop/,
-  /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
+recommendations: [/post/2018-05-17_mlse-kickoff/, /post/2016-05-09-ji-jie-xue-xi-nofen-lei-nohua-wosun-shi-guan-shu-tojue-ding-jing-jie-wozhong-xin-nizheng-li-sitemita/,
+  /post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/]
 ---
 
 この記事は、[機械学習工学アドベントカレンダー2019](https://qiita.com/advent-calendar/2019/mlse)の5日目です。

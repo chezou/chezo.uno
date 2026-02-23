@@ -6,8 +6,8 @@ date: '2018-11-30 20:05:57-08:00'
 description: CIでWindowsバイナリとwheelを作った話
 title: Windows 64bitでMeCab(とKyTea)を使う方法 2018
 keywords: [windows, mecab, wheel, python, 用意, ビルド, bit, '64', バイナリ, 拡張]
-recommendations: [/post/2019-11-29-mecab-python3/, /post/2017-08-26_python------------------dc8d8f2fe989/,
-  /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/]
+recommendations: [/post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/,
+  /post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/, /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/]
 ---
 
 こんにちは、日本語のテキスト処理してますか。

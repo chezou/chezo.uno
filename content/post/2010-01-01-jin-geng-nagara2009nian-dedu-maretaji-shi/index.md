@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 今更ながら2009年で読まれた記事
 keywords: [music, iphone, アクセス, simplify, '2009', post, ad, es, '05', 移行]
-recommendations: [/post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/,
-  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
+recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2012-01-01-2012nian-nobao-fu/,
+  /post/2021-12-31-2021-year-review/]
 ---
 
 あけましておめでとうございます。今年もよろしくお願いします。

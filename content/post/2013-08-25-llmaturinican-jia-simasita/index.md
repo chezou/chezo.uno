@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: LLまつりに参加しました
 keywords: [ll, 勉強会, アンチパターン, セッション, トラック, プレゼンテーション, deploy, 参加, 開催, メリット]
-recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
-  /post/2022-06-18-kawasaki rb 9 years reflection/]
+recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
+  /post/2014-12-31-2014nian-wozhen-rifan-tute/]
 ---
 
 年に一度の軽量言語のイベント、LLまつりに行ってきました。

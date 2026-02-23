@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: PRESS　START当選しました
 keywords: [オーチャードホール, 久々, ゲーム音楽, 堪能, コンサート, 楽しみ, 以前, ｒｙ, ３０, １６]
-recommendations: [/post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/,
-  /post/2008-01-18-souiebakokohawu-yu-burogudatuta/, /post/2009-07-11-masa-festanotiketutogalai-ta/]
+recommendations: [/post/2008-07-10-ris-a-la-malta/, /post/2009-03-09-masafestanirajatonga/,
+  /post/2010-09-11-press-start-2010xing-tutekita/]
 ---
 
 以前言っていた[このコンサート](https://www.famitsu.com/game/news/1216017_1124.html)に当選しました。

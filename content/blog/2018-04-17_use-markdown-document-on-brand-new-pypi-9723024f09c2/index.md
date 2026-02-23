@@ -8,9 +8,8 @@ description: Yesterday, PyPI was renewed to the next-generation site. It is mode
 title: Use Markdown document on brand new PyPI
 keywords: [pip, pypi, packages, py, document, rendered, aodag, description, python,
   wheel]
-recommendations: [/blog/2017-08-30_python-basics--package-management-462918458f96/,
-  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
-  /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/]
+recommendations: [/blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
+  /blog/2023-09-09-tabula-py-280/, /blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/]
 ---
 
 Yesterday, PyPI was renewed to the next-generation site. It is modern and stylish one.

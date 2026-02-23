@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: FUJIYAMA
 keywords: ['1600', '1200', jpeg, '59', km, '56', '36', 帰り, '43', '45']
-recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2010-09-04-tun-zu-xing-tutekimasita/,
-  /post/2009-08-07-pokemonxin-gan-xian/]
+recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2009-08-12-rui-yan-si/,
+  /post/2010-11-13-ye-novuenetuia/]
 ---
 
 先日行ってきた河口湖です。貸別荘から見える富士山が素敵でした。  

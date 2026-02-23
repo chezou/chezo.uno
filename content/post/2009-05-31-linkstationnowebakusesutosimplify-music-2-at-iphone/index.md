@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: LinkStationのWebアクセスとSimplify Music 2@iPhone
 keywords: [アクセス, nas, simplify, music, 機能, web, 設定, 音楽, linkstation, buffalo]
-recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/,
-  /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/]
+recommendations: [/post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/,
+  /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/, /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/]
 ---
 
 NASに蓄えてある音楽へどうやってiPhoneからアクセスするかを考えたときに、2つの方法があったので、検討してみた。(Simplify Music2はまだ試してないですが)

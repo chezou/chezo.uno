@@ -9,7 +9,7 @@ title: Why OSS based machine learning is good?
 keywords: [learning, machine, paper, deep, papers, algorithms, open, implementation,
   algorithm, performance]
 recommendations: [/blog/2019-06-04_the-first-conference-of-operational-machine-learning--opml--19-308baad36108/,
-  /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/, /blog/2025-09-19-review-fatigue/]
+  /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/, /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/]
 ---
 
 _This article is translation of_ [_Japanese version_](https://chezo.uno/post/2017-08-03_oss-48807bbbf13f/)_._

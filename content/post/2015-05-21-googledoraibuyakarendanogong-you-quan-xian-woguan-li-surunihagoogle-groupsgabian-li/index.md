@@ -12,9 +12,8 @@ summary: ''
 tags: []
 title: Googleドライブやカレンダーの共有権限を管理するにはGoogle groupsが便利
 keywords: [groups, 権限, グループ, google, カレンダー, メンバー, 公開, 共有, 編集, ヘルプ]
-recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
-  /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/,
-  /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/]
+recommendations: [/post/2020-05-29_google-meetとyoutube-liveでオンラインミートアップの配信をした/, /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
+  /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
 ---
 
 ネットで調べていてもGoogle Appsの情報しか出ないので、備忘録として書きます。

@@ -6,8 +6,8 @@ summary: As a note of the Canadian PR timeline
 tags: [Canada]
 title: Timeline for Canadian PR
 keywords: ['2021', submit, bc, pr, '2022', invitation, work permit, 09, '02', '10']
-recommendations: [/post/2023-01-27-age++/, /post/2019-11-16-notion-cloudflare-sub
-    domain/, /post/2021-12-18-8-months-after-relocating-vancouver/]
+recommendations: [/post/2023-01-27-age++/, /post/2022-12-30-2022-year-in-review/,
+  /post/2019-11-25-github actions-api token-pypi release/]
 ---
 
 ### Time line for work permit

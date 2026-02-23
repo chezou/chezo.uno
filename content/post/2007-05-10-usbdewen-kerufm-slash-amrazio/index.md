@@ -12,7 +12,7 @@ summary: ''
 tags: []
 title: USBで聞けるFM/AMラジオ
 keywords: [登場, 連動, 価格, ラジオ, なかっ, もの, ｒｙ, ３０, １６, １０]
-recommendations: [/post/2005-10-07-tuinikita/, /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/,
+recommendations: [/post/2005-10-07-tuinikita/, /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
   /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/]
 ---
 

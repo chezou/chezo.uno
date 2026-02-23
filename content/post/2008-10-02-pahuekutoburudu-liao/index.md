@@ -12,7 +12,7 @@ summary: ''
 tags: []
 title: パーフェクトブルー読了
 keywords: [店員, 読後感, 王道, 森博嗣, 東野圭吾, ミステリー, みゆき, 感情移入, 伏線, 辛く]
-recommendations: [/post/2008-05-17-subetegafninaru-du-liao/, /post/2008-08-24-sayonaraituka/,
+recommendations: [/post/2008-07-06-nodamekantabire18-20/, /post/2008-08-11-nodame21juan/,
   /post/2008-07-19-xi-nomo-nu-gasi-nda/]
 ---
 

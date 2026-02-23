@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 音律と音階の科学
 keywords: [音楽, 面白い, 違和感, 曲線, 専門家, ターゲット, 講談社, 実験, 仕方ない, 数学]
-recommendations: [/post/2008-07-06-nodamekantabire18-20/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/,
-  /post/2008-10-10-tiisanatiisanawang-yang/]
+recommendations: [/post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/,
+  /post/2008-10-10-luo-yu-bai-xuan-xia/, /post/2008-07-19-ensemblenow-di-39hui-ding-qi-yan-zou-hui-at-sesionshan-bing/]
 ---
 
 {{< amazon asin="4062575671" title="音律と音階の科学―ドレミ…はどのようにして生まれたか (ブルーバックス 1567)" >}}

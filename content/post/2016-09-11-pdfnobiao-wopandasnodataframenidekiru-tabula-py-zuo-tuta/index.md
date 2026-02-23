@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: PDFの表をpandasのDataFrameにできる tabula-py 作った
 keywords: [tabula, pdf, py, java, rubykaigi, 実装, table, read, pip, python]
-recommendations: [/post/2019-11-25-github actions-issue template/, /post/2016-12-31-2016nian-wozhen-rifan-tute/,
-  /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/]
+recommendations: [/post/2022-05-05-sqllineage-with-digdag-log/, /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/,
+  /post/2015-08-30-number-tqrk09-de-accept-lt-sitehazimeteno-gem-woraiburirisunishi-bai-simasita/]
 ---
 
 RubyKaigiに参加するとコード書きたいという気持ちが高まって良いのですが、今回はPDFの表を読み込んで pandas の DataFrame に変換できる [tabula-py](https://github.com/chezou/tabula-py)を作りました。 これをもってRubyKaigiの参加報告とさせていただければと思います。

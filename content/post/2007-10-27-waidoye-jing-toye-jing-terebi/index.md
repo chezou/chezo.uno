@@ -12,8 +12,7 @@ summary: ''
 tags: []
 title: ワイド液晶と液晶テレビ
 keywords: [インチ, '20', ほしく, 決断, 3万, ブランド, 他社, ワイド, 1万, 次第]
-recommendations: [/post/2005-08-06-webkamera/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
-  /post/2023-08-20-removed-slack-from-mobile/]
+recommendations: [/post/2006-05-19-ds-de-tv/, /post/2005-04-23-willcom/, /post/2005-03-03-sugoi/]
 ---
 
 20インチワイド液晶が3万円で手にはいると聞いて、沸々とほしくなってきた次第です。  

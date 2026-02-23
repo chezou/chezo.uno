@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: Windows7 64bitをDG33TLMになんとか導入した
 keywords: [bit, ドライバ, グラフィック, アップデート, '64', 完走, dg, bios, インデックス, intel]
-recommendations: [/post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/, /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/,
-  /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/]
+recommendations: [/post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/, /post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/,
+  /post/2006-03-17-uhi/]
 ---
 
 予想外に時間がかかってしまった、64bit版の導入。つまずいたところを忘れないようにメモする。

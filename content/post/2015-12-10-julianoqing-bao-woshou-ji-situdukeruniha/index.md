@@ -13,7 +13,7 @@ tags: []
 title: Juliaの情報を収集しつづけるには
 keywords: [julia, bicycle, '1885', feed, 情報, reddit, 方々, slack, com, 変化]
 recommendations: [/post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
-  /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/, /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/]
+  /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/, /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/]
 ---
 
 この記事は[Julia Advent Calendar 2015](http://qiita.com/advent-calendar/2015/julialang) の10日目です。 昨日は、bicycle1885さんの[Juliaのユニットテスト - りんごがでている](http://bicycle1885.hatenablog.com/entry/2015/12/09/121347)でした。

@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 新居にはクローゼットがない
 keywords: [荷重, ｒｙ, 始末, 動機, ラック, ホームセンター, ハンガー, 全般的, カバー, 精度]
-recommendations: [/post/2021-12-15-relocated-to-vancouver/, /post/2005-07-17-urayamasika/,
-  /post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/]
+recommendations: [/post/2008-06-09-tuiniiphonedeng-chang/, /post/2008-11-18-ai-gainaibu-wu/,
+  /post/2006-03-17-uhi/]
 ---
 
 押し入れはあってもクローゼットがありません！  

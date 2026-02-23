@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 男声合唱
 keywords: [男声, 男声合唱, 松下, 木下, 信長, 美しい, 無性, ポップ, 音楽, 準備]
-recommendations: [/post/2011-12-25-yi-teng-hui-si-ming-dao-qi-tai-liang-shi-noxuan-nda-xue-sheng-he-chang-notameno-sutiyudentosongubutuku-gare-i/,
-  /post/2005-09-18-gao-tian-san-lang-xing-tutekimasita/, /post/2009-11-26-the-real-album/]
+recommendations: [/post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/,
+  /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/, /post/2009-07-05-guan-dong-hagame-musichoihoida/]
 ---
 
 最近、無性に男声合唱がやりたくなってきました。  

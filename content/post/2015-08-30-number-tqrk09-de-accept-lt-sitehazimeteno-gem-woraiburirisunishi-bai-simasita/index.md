@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: '#tqrk09 で Accept LT してはじめての Gem をライブリリースに失敗しました'
 keywords: [tag, tags, surface, kytea, '100.0', 名詞, 語尾, 天気, str, working]
-recommendations: [/post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
-  /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/]
+recommendations: [/post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
+  /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/]
 ---
 
 Tokyu Ruby Kaigi 09 でAccept LTのトリで話しました。 3分だってのに盛りすぎ、かつDEMOで接続が悪くなるという前回もあった失敗を重ねてはじめてのGemをライブリリースすることに失敗しました。

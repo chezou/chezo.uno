@@ -6,8 +6,8 @@ summary: Booking.comの話題の論文から気になるところをメモ
 tags: [MLOps, MachineLearning, Paper]
 title: '150 successful Machine Learning models: 6 lessons learned at Booking.comのメモ'
 keywords: [model, 予測, feedback, 高速化, ラベル, high, 頻度, kpi, 'true', 論文]
-recommendations: [/post/2019-12-09-facebook prophet-plot/, /post/2018-05-17_mlse-kickoff/,
-  /post/2025-05-02-ml-project-and-scrum/]
+recommendations: [/post/2019-12-05-ibis2019-mlse/, /post/2016-05-29-sonomoderu-guo-xue-xi-siteruno-wei-xue-xi-nano-tokun-tutara/,
+  /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/]
 ---
 
 ![](https://images.unsplash.com/photo-1571942790878-b43e71f29476?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

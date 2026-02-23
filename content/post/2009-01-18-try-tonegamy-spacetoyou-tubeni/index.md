@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: TRY-TONEがMY SpaceとYou tubeに
 keywords: [仕方, 女の子, 約束, 周辺, 後ろ, 付け, グループ, '18', blog, アカペラ]
-recommendations: [/post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/,
-  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
+recommendations: [/post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
+  /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/, /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/]
 ---
 
 [マイスペース](http://www.myspace.com/trytonejapan)にいつの間にかTRY-TONEのオフィシャルページが出来てました。(Thanks! [アカペラおとぎblog館](http://a-cappella.seesaa.net/article/112766870.html)さん)  

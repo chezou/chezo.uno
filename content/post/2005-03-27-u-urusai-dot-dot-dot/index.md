@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: う、うるさい……
 keywords: [cpu, ファン, ケース, '320', もん, 原因, 起動, 整理, ケーブル, 現在]
-recommendations: [/post/2009-04-26-tiyanneruhasonomama-vol-dot-1/, /post/2019-03-10_business-trip-goods/,
-  /post/2008-09-28-bznoultra-treasuregayabasugiru/]
+recommendations: [/post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
+  /post/2008-10-05-hd53r-ver-dot-8wogou-ru/, /post/2005-09-09-notonogai-zao/]
 ---
 
 現在、CPUはCeleronDの320を使っているんですが、最近長時間起動しているとCPUファンがうるさいのなんのって。。。  

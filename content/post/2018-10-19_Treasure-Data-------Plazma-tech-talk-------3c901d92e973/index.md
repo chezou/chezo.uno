@@ -6,8 +6,8 @@ date: '2018-10-18 09:12:26-07:00'
 description: 気づけば入社して2ヶ月ほど経ってしまいましたが、Treasure Dataに入ったと思ったらArmに入社していました。
 title: Treasure Dataに入りました&Plazma tech talkで話しました
 keywords: [入社, td, ml, 開発中, operator, エッジ, iot, hivemall, arm, 広がり]
-recommendations: [/post/2019-12-24-python-custom-scripting/, /post/2022-05-05-sqllineage-with-digdag-log/,
-  /post/2022-01-09-vancouver-engineer-podcast/]
+recommendations: [/post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/,
+  /post/2016-03-30-zhuan-zhi-simasita/, /post/2017-01-25-mata-tunian-wototuta/]
 ---
 
 気づけば入社して2ヶ月ほど経ってしまいましたが、Treasure Dataに入ったと思ったらArmに入社していました。

@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: Masa festaのチケットが来た
 keywords: [c4, dc, '69', '34', masa, da, '41', 目当て, festa, コンサート]
-recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-08-12-rui-yan-si/,
-  /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/]
+recommendations: [/post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/,
+  /post/2009-08-30-rent-burodouetuawojian-telai-ta/, /post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/]
 ---
 
 最近、とみにコンサートに通っていますが、八月に行われるMASA FESTAのチケットが届きました。  

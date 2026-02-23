@@ -9,8 +9,8 @@ draft: false
 featured: false
 image: {preview_only: false}
 keywords: [源泉徴収, 所得, 非居住者, 源泉, 復興特別所得税, 国内, 場合, 所得税, 国税庁, 出版社]
-recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-11-28-cancel-japanese-service/,
-  /post/2021-12-15-relocated-to-vancouver/]
+recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-01-09-vancouver-engineer-podcast/,
+  /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/]
 ---
 
 ⚠️ この記事は2021年11月段階で体験したことに基づき書いています。この情報は、あくまで参考程度に止め、原則的に税に関する不明な点は[国税局電話相談センター](https://www.nta.go.jp/taxes/shiraberu/sodan/denwa-sodan/index.htm#a-02)に電話して確認してください。

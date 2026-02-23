@@ -13,7 +13,7 @@ tags: []
 title: 2016年を振り返って
 keywords: [転職, コード, tabula, こと, 今年, もう少し, rebuild, 激動, データサイエンス, demo]
 recommendations: [/post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
-  /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/]
+  /post/2017-12-31_2017--------c4901627b12d/, /post/2014-12-31-2014nian-wozhen-rifan-tute/]
 ---
 
 ブルガリアンスクワットをして筋肉痛でプルプルしています。大晦日も元旦もほぼDMM英会話の予定しかありません。

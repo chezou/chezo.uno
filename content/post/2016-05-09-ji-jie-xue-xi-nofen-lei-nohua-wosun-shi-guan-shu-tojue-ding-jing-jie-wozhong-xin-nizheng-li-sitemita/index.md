@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 機械学習の分類の話を損失関数と決定境界を中心に整理してみた
 keywords: [損失, パーセプトロン, コース, 関数, 数式, 嬉しい, github, 追記, svm, coursera]
-recommendations: [/post/2021-04-24-ml-at-work-2nd-edition/, /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
-  /post/2014-06-21-julia100ben-notuku/]
+recommendations: [/post/2019-12-05-ibis2019-mlse/, /post/2018-05-17_mlse-kickoff/,
+  /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/]
 ---
 
 機械学習の分類の話を、主に決定境界と損失関数の観点から整理してみました。 とはいっても、k-NNとか損失関数関係ないのもいます。

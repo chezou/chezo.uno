@@ -7,7 +7,7 @@ tags: [iOS, Notification]
 title: iOSでの休暇中の仕事の通知管理
 keywords: [通知, モード, 集中, アプリ, オフ, gmail, slack, ログアウト, パーソナル, 機能]
 recommendations: [/post/2023-08-20-removed-slack-from-mobile/, /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/,
-  /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/]
+  /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
 ---
 
 ![](https://images.unsplash.com/photo-1504507926084-34cf0b939964?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)

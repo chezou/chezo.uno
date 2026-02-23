@@ -5,8 +5,8 @@ date: '2018-06-18 17:06:01-07:00'
 description: この記事は、最近流行りのWork From Sentoで有名なRAKU SPAからお送りしています。
 title: 退職します
 keywords: [セールスエンジニア, 仕事, 自分, 企業, 外資, コントリビュート, 違い, 日本, エンジニア, 英語]
-recommendations: [/post/2016-03-30-zhuan-zhi-simasita/, /post/2017-12-31_2017--------c4901627b12d/,
-  /post/2022-01-09-vancouver-engineer-podcast/]
+recommendations: [/post/2022-01-09-vancouver-engineer-podcast/, /post/2016-03-30-zhuan-zhi-simasita/,
+  /post/2024-06-20-nappan-book-review/]
 ---
 
 この記事は、最近流行りの[Work From Sento](http://blog.nohana.co.jp/article/lets-wfs)で有名な[RAKU SPA](http://rakuspa.com/)からお送りしています。

@@ -13,7 +13,8 @@ tags: []
 title: It don't mean a thing.
 keywords: [foo, かっこいい, real, the real group, アレンジ, cd, ｒｙ, ３０, １６, １０]
 recommendations: [/post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
-  /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/, /post/2008-06-03-er-du-qin-qian/]
+  /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/,
+  /post/2008-07-07-the-real-group-real-christmas-commonly-unique/]
 ---
 
 [この曲](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=79313514&id=79313534&s=143462)がかっこいいです。  

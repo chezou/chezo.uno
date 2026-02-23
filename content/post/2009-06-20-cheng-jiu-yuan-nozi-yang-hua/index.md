@@ -12,8 +12,7 @@ summary: ''
 tags: []
 title: 成就院の紫陽花
 keywords: ['1600', '1200', jpeg, アバウト, fa, ea, '69', dd, '56', '41']
-recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-08-12-rui-yan-si/,
-  /post/2009-08-07-pokemonxin-gan-xian/]
+recommendations: [/post/2009-07-23-fujiyama/, /post/2010-11-13-ye-novuenetuia/, /post/2009-08-12-rui-yan-si/]
 ---
 
 激混みの江ノ電に乗って鎌倉は成就院にきています。  

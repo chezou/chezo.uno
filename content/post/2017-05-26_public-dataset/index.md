@@ -5,8 +5,9 @@ date: '2017-05-25 19:17:16-07:00'
 description: 人工知能学会（以下JSAI）で発表された論文が、Pixivのデータを「晒した」ということで盛り上がっています。詳細は、以下のtogetterを見ていただければと思いますが、ざっくり言うとPixivで公開されていた女性向けランキングトップ10の二次創作小説（R-18）に対して「有害…
 title: 企業がユーザを守るための学術データ公開
 keywords: [データ, 公開, 企業, ユーザ, 提供, 論文, コンテンツ, 研究者, 学術, 研究]
-recommendations: [/post/2017-08-03_oss--------------48807bbbf13f/, /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
-  /post/2019-03-29_ngekkan-lambda-note-article/]
+recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/,
+  /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
+  /post/2017-08-03_oss--------------48807bbbf13f/]
 ---
 
 人工知能学会（以下JSAI）で発表された論文が、Pixivのデータを「晒した」ということで盛り上がっています。詳細は、以下のtogetterを見ていただければと思いますが、ざっくり言うとPixivで公開されていた女性向けランキングトップ10の二次創作小説（R-18）に対して「有害表現」を分類するという目的で、作者名とURLを論文に書いて炎上したということになります。

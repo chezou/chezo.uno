@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: iPad2とともに無料Wi-Fiスポットをゲットする二つの方法
 keywords: [wi-fi, スポット, ソフトバンク, ipad, ビックカメラ, 一部, 対象外, 店員, モデル, togetter]
-recommendations: [/post/2011-05-01-iphone-for-everybodyno2nian-fu-riwojie-chu-sitarapaketutoding-e-huratutonisikanaranakatuta/,
-  /post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/, /post/2020-12-11-wired-lan-triggers-troubles/]
+recommendations: [/post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/, /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/,
+  /post/2008-06-09-tuiniiphonedeng-chang/]
 ---
 
 ## 1.3Gモデルを買いましょう。

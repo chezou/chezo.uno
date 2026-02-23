@@ -8,8 +8,8 @@ image: {caption: Streamingの様子, filename: image-from-ios.jpg, focal_point: 
 tags: [YouTube Live, Streaming, Gadget]
 title: Google MeetとYouTube Liveでオンラインミートアップの配信をした
 keywords: [meet, 配信, zoom, マイク, 音量, 発表者, 画像, 画面, youtube live, 接続]
-recommendations: [/post/2020-04-03-microphone-for-remote-meeting/, /post/2020-12-31-2020-review/,
-  /post/2020-11-10-mlse-conference/]
+recommendations: [/post/2020-11-10-mlse-conference/, /post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa/,
+  /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/]
 ---
 
 先日、[Machine Learning Casual Talks #12](https://mlct.connpass.com/event/172550/)というイベントの配信担当をした。

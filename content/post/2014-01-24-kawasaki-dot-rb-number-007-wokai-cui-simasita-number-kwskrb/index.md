@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 'kawasaki.rb #007 を開催しました #kwskrb'
 keywords: [category, create, text, train, line, tagger, self, segment, file, def]
-recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
-  /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/]
+recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/,
+  /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/, /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/]
 ---
 
 2013/12/18にkawasaki.rbの第7回を開催しました。  

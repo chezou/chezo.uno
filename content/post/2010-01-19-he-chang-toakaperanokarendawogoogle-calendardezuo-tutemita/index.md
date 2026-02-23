@@ -12,9 +12,9 @@ summary: ''
 tags: []
 title: 合唱とアカペラのカレンダーをGoogle Calendarで作ってみた
 keywords: [登録, カレンダー, 嬉しい, 随時, 余地, ぴあ, plus, 複数人, 募集中, つめ]
-recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
+recommendations: [/post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
   /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
-  /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/]
+  /post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/]
 ---
 
 自分のために作ってみたものですが、[こちら](http://www.google.com/calendar/embed?src=YWNhcHBlbGxhLmV2ZW50QGdtYWlsLmNvbQ)にありますので良ければ使ってみてください。手で見つけたものを少しずつ書いているものなので、色々と漏れがあります。ありまくりだと思います。また、自分が合唱の方が敏感なので、アカペラのイベントは全然拾えてません。もし、よろしければ情報をお待ちしております。[twitter](http://twitter.com/chezou)まで@飛ばしていただくか、このblogにコメントでもOKです。  

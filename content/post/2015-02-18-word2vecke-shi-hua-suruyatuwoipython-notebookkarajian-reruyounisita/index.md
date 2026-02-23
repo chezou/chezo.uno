@@ -13,7 +13,7 @@ tags: []
 title: word2vec可視化するやつをipython notebookから見れるようにした
 keywords: [word, ipython, notebook, 可視化, ダイアリー, はてな, グラフ, コード, 要領, 引き算]
 recommendations: [/post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
-  /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/, /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/]
+  /post/2019-11-17-spacy-ginza/, /post/2015-11-23-sympytojupyter-notebookdeshu-shi-nomemowoqu-rou/]
 ---
 
 オライリーから出てる、[word2vec本](http://www.oreilly.co.jp/books/9784873116839/)の付録についてくる [id:nishiohirokazu](http://blog.hatena.ne.jp/nishiohirokazu/) さんが書いた可視化のコードがあります。
