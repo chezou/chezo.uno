@@ -7,8 +7,8 @@ draft: false
 featured: false
 image: {preview_only: false}
 keywords: [休み, 仕事, 子供, 甘く, 珍しく, ブリュワリー, ドーナツ, セール, rta, motion]
-recommendations: [/post/2023-04-05-first-time-skiing-in-25-years/, /post/2023-08-20-removed-slack-from-mobile/,
-  /post/2023-12-30-2023-year-in-review/]
+recommendations: [/post/2021-12-15-relocated-to-vancouver/, /post/2022-12-30-2022-year-in-review/,
+  /post/2025-12-22-2025-12-22-neuro-diversity-book/]
 ---
 
 仕事が珍しく急ぎの仕事がない状態になったので、ふらっと週末にくっつける形で休みを取った。というのも、RTA in Japanをやってるのに全然見れなくて仕事なんてしてる場合じゃない、となったのである。

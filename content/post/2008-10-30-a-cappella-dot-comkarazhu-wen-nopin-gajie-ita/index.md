@@ -13,8 +13,8 @@ tags: []
 title: a-cappella.comから注文の品が届いた
 keywords: [楽譜, the real group, 展開, シンガー, cappella, acapuluco, a cappella, 今回, real,
   live]
-recommendations: [/post/2009-04-13-it-dont-mean-a-thing/, /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
-  /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/]
+recommendations: [/post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2008-10-11-le-pu-gayu-sii/,
+  /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/]
 ---
 
 [a-cappella.com](http://www.a-cappella.com)  

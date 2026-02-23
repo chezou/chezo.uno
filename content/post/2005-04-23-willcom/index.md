@@ -13,7 +13,7 @@ tags: []
 title: WILLCOM
 keywords: [willcom, ほとんど, 通話料, 家計簿, 学割, 衝動, 最近, 無性, au, 定額]
 recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-04-ad-es-wojie-yue-surutameni/,
-  /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
+  /post/2005-07-11-w-sim/]
 ---
 
 最近、無性にWILLCOMにしたい衝動に駆られています。  

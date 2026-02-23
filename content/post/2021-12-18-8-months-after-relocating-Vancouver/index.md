@@ -11,8 +11,8 @@ summary: ''
 tags: []
 title: バンクーバーに移住して8か月が経った
 keywords: [vancouver, cad, 子供, ノンアルコールビール, br, 今年, 保険, スーパー, 小学校, 移住]
-recommendations: [/post/2022-11-13-canada-good thing-bad things/, /post/2021-12-15-relocated-to-vancouver/,
-  /post/2023-12-30-2023-year-in-review/]
+recommendations: [/post/2021-12-15-relocated-to-vancouver/, /post/2021-12-31-2021-year-review/,
+  /post/2022-12-30-2022-year-in-review/]
 ---
 
 この記事は[pyspa Advent Calender 2021](https://adventar.org/calendars/6234)の18日目です。昨日は[@golden_lucky](https://twitter.com/golden_lucky)のリンゴの話でした。

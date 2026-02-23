@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: うらやましかー
 keywords: [勉強, わけ, cayabyab, 風景, 我慢, 昨日, 演奏会, 良かっ, こと, ｒｙ]
-recommendations: [/post/2005-08-06-webkamera/, /post/2005-09-18-gao-tian-san-lang-xing-tutekimasita/,
-  /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/]
+recommendations: [/post/2009-03-09-masafestanirajatonga/, /post/2009-09-24-motion-blue-yokohama/,
+  /post/2008-11-08-liang-ishi-dai-ninatutanee/]
 ---
 
 昨日は家で勉強をしようとしていたわけですが、行きたかった演奏会があったわけで。  

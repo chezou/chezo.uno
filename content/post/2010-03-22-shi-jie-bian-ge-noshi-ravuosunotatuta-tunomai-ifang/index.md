@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 世界変革の時〜ラヴォスのたった一つの買い方
 keywords: ['1600', '1200', jpeg, '44', '97', '87', '90', '89', '88', '43']
-recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-08-07-pokemonxin-gan-xian/,
-  /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/]
+recommendations: [/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
+  /post/2006-05-01-dslite/, /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/]
 ---
 
 初めて[ラヴォス](http://images.google.co.jp/images?q=%83%89%83%94%83H%83X)が現れたときの絶望感と言ったら……。想像を絶するものがありました。出自の分からない異形の者を倒し、そして更なる戦いへと挑むその姿を見ていったら、剣と魔法の世界からはおよそ想像の付かないものとの戦いに。いやぁ、本当に名作でした。クロノトリガー。

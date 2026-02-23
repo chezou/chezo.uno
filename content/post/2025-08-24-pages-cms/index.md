@@ -6,8 +6,8 @@ draft: false
 featured: false
 image: {preview_only: false, filename: /pages-cms.png}
 keywords: [hugo, cms, 画像, wowchemy, pages, cloudflare, 検索, 移行, 設定, 設定ファイル]
-recommendations: [/post/2022-12-16-bump-wowchemy-v570/, /post/2022-01-14-prelims-recommend-hugo/,
-  /post/2022-01-25-hugo-content-based-recommendation/]
+recommendations: [/post/2022-01-14-prelims-recommend-hugo/, /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
+  /post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/]
 ---
 
 以前からiPadなどのモバイル端末でHugoの記事を書く方法を模索していたのだけど、そんななかでmehoriさんのこの記事を知ったのでPages CMSを試してみた。

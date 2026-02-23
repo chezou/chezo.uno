@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 瑞巌寺
 keywords: ['1600', '1200', jpeg, ホテル, '63', 風景, fa, ea, bf, bb]
-recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/,
-  /post/2009-08-07-pokemonxin-gan-xian/]
+recommendations: [/post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/, /post/2009-07-23-fujiyama/,
+  /post/2006-07-28-xia-nanode/]
 ---
 
 歌に聞きし瑞巌寺にいってきました。雄島はあいにくの雨のため諦め。

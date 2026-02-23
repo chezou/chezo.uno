@@ -6,8 +6,8 @@ summary: 海外移住した際の、給与所得・退職所得の扱いにつ�
 tags: [tax]
 title: 年度途中に海外移住した年の給与・退職所得の扱い
 keywords: [非居住者, 所得税, '81', 移住, 制度, '89', 給与, 源泉所得税, 書類, 国税庁]
-recommendations: [/post/2021-11-09-tax-on-publication/, /post/2019-11-29-mecab-python3/,
-  /post/2022-11-28-cancel-japanese-service/]
+recommendations: [/post/2021-11-09-tax-on-publication/, /post/2021-12-31-2021-year-review/,
+  /post/2022-01-09-vancouver-engineer-podcast/]
 ---
 
 ![](https://images.unsplash.com/photo-1598432439250-0330f9130e14?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

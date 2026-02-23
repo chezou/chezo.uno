@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: MasaFestaにRajatonが！！
 keywords: [masa, festa, rajaton, 最大規模, 夏休み, コーナー, academy, finland, コンサート, エントリ]
-recommendations: [/post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/,
-  /post/2009-03-03-sok-bao-masa-festa/, /post/2009-07-11-masa-festanotiketutogalai-ta/]
+recommendations: [/post/2008-07-05-rajaton/, /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/,
+  /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/]
 ---
 
 やばい！生で聞きたいと思い、Finlandまで行ってもすれ違いだったRajatonが向こうから来てくれるとは！  

@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: ZARDのVocalが亡くなられたなんて……
 keywords: [ipod, ケーブル, 小物, 酷い, fm, pc, よい, 高校時代, 人柱, エアコン]
-recommendations: [/post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/, /post/2006-03-17-uhi/,
-  /post/2005-10-07-tuinikita/]
+recommendations: [/post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
+  /post/2005-03-03-sugoi/, /post/2005-08-06-webkamera/]
 ---
 
 高校時代には、良く聞いたものですが……  

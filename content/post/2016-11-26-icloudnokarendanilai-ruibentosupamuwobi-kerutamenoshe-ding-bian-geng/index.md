@@ -13,7 +13,7 @@ tags: []
 title: icloudのカレンダーに来るイベントスパムを避けるための設定変更
 keywords: [icloud, カレンダー, 通知, 設定, 削除, png, spam, 招待, calendar, メール]
 recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
-  /post/2011-10-15-imessagewoipadtoiphonedeshi-ifen-kerufang-fa/, /post/2023-01-10-ios-notification-management/]
+  /post/2023-01-10-ios-notification-management/, /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/]
 ---
 
 最近、めちゃくちゃicloudのカレンダーにレイバンのスパムが来るようになってうざいので、通知されないように回避するためのicloudの設定方法を書いておく。

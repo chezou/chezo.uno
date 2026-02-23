@@ -12,9 +12,9 @@ summary: ''
 tags: []
 title: 'Juliaでword countして気づいたこと #JuliaAC'
 keywords: [word, julia, dict, text, time, hash, end, mecab, string, utf]
-recommendations: [/post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebookkarajian-reruyounisita/,
+recommendations: [/post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/,
   /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/,
-  /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/]
+  /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/]
 ---
 
 この記事は、[Julia Advent Calendar](http://qiita.com/advent-calendar/2014/julialang) 24日目の記事です。 昨日は[@nezuqさんのJuliaで楽しくWebスクレイピング！](http://qiita.com/nezuq/items/58ad2431654b5a494543)でした。

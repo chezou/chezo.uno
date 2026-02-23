@@ -13,7 +13,7 @@ tags: []
 title: HD53R Ver.8を購入
 keywords: ['53', hd, sa, hfi, '010', ノイズ, 購入, '700', アンプ, 合唱]
 recommendations: [/post/2008-10-28-mai-tutesimatuta/, /post/2008-09-14-hetudohonwu-se-sitahi/,
-  /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
+  /post/2008-01-18-souiebakokohawu-yu-burogudatuta/]
 ---
 
 2chではとことん評判のよろしくないC.E.Cの[HD53R Ver.8](http://www.cec-web.co.jp/products/amp/hd53r/hd53r.html)を購入しました。  

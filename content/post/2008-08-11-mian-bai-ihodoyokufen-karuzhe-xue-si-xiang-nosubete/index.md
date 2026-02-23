@@ -12,7 +12,7 @@ summary: ''
 tags: []
 title: 面白いほどよく分かる哲学・思想のすべて
 keywords: [酷い, 単語, 文芸社, 哲学, 倫理, おかしい, 言い回し, 本質, 思想, 具合]
-recommendations: [/post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/, /post/2008-10-10-luo-yu-bai-xuan-xia/,
+recommendations: [/post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/, /post/2008-06-15-ojin-nomian-qiang/,
   /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/]
 ---
 

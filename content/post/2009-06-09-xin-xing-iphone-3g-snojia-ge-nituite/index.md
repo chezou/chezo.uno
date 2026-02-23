@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 新型iPhone 3G Sの価格について
 keywords: [gb, １６, office, 価格, 本数, スパボ, standard, professional, '2007', ちなみ]
-recommendations: [/post/2009-05-04-ad-es-wojie-yue-surutameni/, /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/,
-  /post/2007-05-10-usbdewen-kerufm-slash-amrazio/]
+recommendations: [/post/2005-03-03-sugoi/, /post/2009-05-04-ad-es-wojie-yue-surutameni/,
+  /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/]
 ---
 
 [iPhone 3G Sの価格について | SoftBank](http://mb.softbank.jp/mb/iphone/iphone_3g_s/).を見てみるとやばい、やばすぎる。  

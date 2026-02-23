@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: WILLCOM新機種ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!!
 keywords: [phs, 機種変, 機種, flash, 予想, java, 論文, pdf, 高い, 便利]
-recommendations: [/post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/,
-  /post/2005-07-11-w-sim/, /post/2005-03-03-sugoi/]
+recommendations: [/post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/, /post/2009-10-18-vaio-xnixin-tokimeku/,
+  /post/2005-04-23-willcom/]
 ---
 
 というわけで、[予想以上の機種たち](http://k-tai.impress.co.jp/cda/article/news_toppage/25795.html)が出てきて正直びっくりです。  

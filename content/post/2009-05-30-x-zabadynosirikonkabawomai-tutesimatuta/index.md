@@ -12,7 +12,7 @@ summary: ''
 tags: []
 title: X ZABADYのシリコンカバーを買ってしまった
 keywords: [送料, 消耗品, 取り扱い, ドラクエ, zabady, '630', '4000', 業者, 痛感, ポスト]
-recommendations: [/post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/, /post/2008-07-16-rockapella-channel/,
+recommendations: [/post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/, /post/2018-11-14_subscription-2018/,
   /post/2008-01-18-souiebakokohawu-yu-burogudatuta/]
 ---
 

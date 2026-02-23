@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 'PyConJP 2015に参加した #pyconjp'
 keywords: [pandas, データ, hagino, 解析, pyconjp, '3000', slideshare, python, 技術, www]
-recommendations: [/post/2017-09-09_pyconjp-2017------5fa5f59b9bde/, /post/2020-03-01-pandas-1-traps/,
-  /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/]
+recommendations: [/post/2017-09-09_pyconjp-2017------5fa5f59b9bde/, /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/,
+  /post/2015-08-23-yapc-asia-tokyo-2015can-jia-sitekita-number-yapcasia/]
 ---
 
 はじめてPyConJPに参加してきました。

@@ -6,8 +6,8 @@ date: '2018-04-16 20:55:15-07:00'
 description: 長い間、Pythonでパッケージを作った場合、構造化されたドキュメントを使う場合は、reStructuredText (reST)でドキュメントを書く必要がありました。
 title: 新しいPyPIでMarkdownのドキュメントを使う
 keywords: [pip, wheel, long, description, upgrade, twine, content, py, setup, markdown]
-recommendations: [/post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/,
-  /post/2017-08-26_python------------------dc8d8f2fe989/, /post/2015-06-06-pip-install-kyteadekiruyouninarimasita/]
+recommendations: [/post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/,
+  /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/, /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/]
 ---
 
 長い間、Pythonでパッケージを作った場合、構造化されたドキュメントを使う場合は、[reStructuredText](http://www.sphinx-doc.org/ja/master/usage/restructuredtext/basics.html) (reST)でドキュメントを書く必要がありました。

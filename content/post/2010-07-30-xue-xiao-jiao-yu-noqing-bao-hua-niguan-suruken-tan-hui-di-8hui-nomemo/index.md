@@ -13,8 +13,8 @@ tags: []
 title: 「学校教育の情報化に関する懇談会」 第8回のメモ
 keywords: [委員, 協働, 情報化, 学び, 仮説, 日常的, 新井, 懸念, パッシブ, 情報]
 recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
-  /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/,
-  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
+  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/,
+  /post/2010-07-30-dezitarujiao-ke-shu-jiao-cai-xie-yi-hui-she-li-sinpoziumu-can-jia-simasita/]
 ---
 
 先日7/28に開催された[「学校教育の情報化に関する懇談会」第8回](http://jukugi.mext.go.jp/library_view?library_id=273)の聞きながら書いたメモです。[動画](http://www.elnet.go.jp/elnet_web/file/work1/ondemand/20100729142345/4155420a195d10230f1c146d/4155420a195d10230f1c146d2.asx)はこちらにありますので、きちんとしたものはそちらを参照ください。

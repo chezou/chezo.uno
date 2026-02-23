@@ -12,8 +12,7 @@ summary: ''
 tags: []
 title: 三菱東京UFJのコールセンターが素晴らしい3つの理由
 keywords: [オペレータ, コール, スピーカー, 対応, モード, 階層, 案内, 平日, 土曜, コールセンター]
-recommendations: [/post/2023-08-20-removed-slack-from-mobile/, /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
-  /post/2023-01-10-ios-notification-management/]
+recommendations: [/post/2005-07-11-w-sim/, /post/2009-05-12-konnitiha-iphone/, /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---
 
 今日、UFJ Directの関係でコールセンターに電話をしたのですが、過去のSoftbankやWillcom、新生銀行とは比べものにならないくらいの対応で驚きました。

@@ -7,7 +7,7 @@ tags: [Engineering, OSS]
 title: digdagのworkflowをCIでrun throughする
 keywords: [workflow, digdag, テスト, file, pycharm, boxes, 実際, ため, レンダー, デバッグ]
 recommendations: [/post/2019-12-24-python-custom-scripting/, /post/2019-11-16-tdworkflow/,
-  /post/2018-01-17_----------------b63a0763e904/]
+  /post/2019-11-25-github actions-issue template/]
 ---
 
 ![](https://images.unsplash.com/photo-1534644107580-3a4dbd494a95?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

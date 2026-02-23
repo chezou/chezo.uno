@@ -12,8 +12,9 @@ summary: ''
 tags: []
 title: 久しぶりに合唱楽譜を買った
 keywords: [曲集, 購入, sings, dobrogosz, steve, 楽譜, キャロル, hanagoro, acapuluco, 相澤直人]
-recommendations: [/post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
-  /post/2008-10-28-sings-2008-with-steve-dobrogosz/]
+recommendations: [/post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
+  /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
+  /post/2008-10-11-le-pu-gayu-sii/]
 ---
 
 最後に購入したのは、[Rajatonの楽譜を個人輸入した時](https://chezo.uno/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/)だなぁと思いながら、ふっとpanamusicaから新刊案内が来たので久しぶりに購入することにしました。

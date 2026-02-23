@@ -12,9 +12,8 @@ summary: ''
 tags: []
 title: JupyterからSpark clusterを操作できるlivy + sparkmagicを試してみた
 keywords: [spark, jupyter, server, rest, apache, hadoop, 起動, curl, local, cloudera]
-recommendations: [/post/2016-10-29_homebrew-----iruby---------------6a02e5194ff2/,
-  /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/,
-  /post/2019-12-04-r-and-td/]
+recommendations: [/post/2018-10-25_risecamp------ee65c2ef0c9e/, /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
+  /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/]
 ---
 
 Spark Summit 2016でもトークがあったSparkのREST serverであるlivyですが、[MicrosoftがHDInsight](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-apache-spark-jupyter-notebook-kernels/)上のSpark clusterとJupyterをlivyを使って繋げられるようにしたと聞いて、早速試してみました。

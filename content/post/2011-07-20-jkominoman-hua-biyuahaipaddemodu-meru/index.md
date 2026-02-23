@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: Jコミの漫画ビューアはiPadでも読める
 keywords: [pdf, 苦労, 漫画, 作品, 許容範囲, 絶版, ゼミ, ギャグ, みゆき, ラインナップ]
-recommendations: [/post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/,
-  /post/2008-06-22-bokurano-alternative/, /post/2020-01-14-2019-best-comic/]
+recommendations: [/post/2008-08-26-akihabara-at-deep/, /post/2005-10-03-su-suge-pin-desuyo/,
+  /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/]
 ---
 
 以前、大々的にラブひながPDFで読めると話題になった絶版漫画公開サイト、[Jコミ](http://www.j-comi.jp/)。  

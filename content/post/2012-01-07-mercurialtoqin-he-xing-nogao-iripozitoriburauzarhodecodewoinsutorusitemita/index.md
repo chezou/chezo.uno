@@ -12,9 +12,9 @@ summary: ''
 tags: []
 title: Mercurialと親和性の高いリポジトリブラウザRhodeCodeをインストールしてみた
 keywords: [var, www, sudo, init, venv, sh, production, bin, ユーザ, リポジトリ]
-recommendations: [/post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
-  /post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/,
-  /post/2017-08-26_python------------------dc8d8f2fe989/]
+recommendations: [/post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
+  /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/,
+  /post/2019-11-25-github actions-api token-pypi release/]
 ---
 
 [![](rhodecode.png)](http://rhodecode.org/)

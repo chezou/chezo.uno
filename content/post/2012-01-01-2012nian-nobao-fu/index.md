@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 2012年の抱負
 keywords: [こと, 定着, 公開, mykytea, 子ども, スキル, 解析, 昨年, rajaton, 生活]
-recommendations: [/post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
-  /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/]
+recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2017-12-31_2017--------c4901627b12d/,
+  /post/2014-12-31-2014nian-wozhen-rifan-tute/]
 ---
 
 あけましておめでとうございます。

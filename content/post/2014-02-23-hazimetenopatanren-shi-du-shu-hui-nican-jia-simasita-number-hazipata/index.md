@@ -12,8 +12,9 @@ summary: ''
 tags: []
 title: '「はじめてのパターン認識」読書会に参加しました #はじパタ'
 keywords: [タイトル, julia, 機械学習, 網羅, 一昔, カーネル, gadfly, パターン認識, 気味, 釣り]
-recommendations: [/post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/, /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
-  /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/]
+recommendations: [/post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/,
+  /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/,
+  /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/]
 ---
 
 先日開催された[第12回「はじめてのパターン認識」読書会](http://connpass.com/event/5157/)に[@yamakatu](https://twitter.com/yamakatu)さんに誘われるままに参加してきました。

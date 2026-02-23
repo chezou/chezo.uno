@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: がばいばあちゃん 佐賀から広島へ めざせ甲子園
 keywords: [ばい, ばあちゃん, エピソード, 要点, 島田, 一作, ありか, 集英社, 抜粋, 読者]
-recommendations: [/post/2008-11-06-koredeiinoda/, /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/,
-  /post/2008-09-06-feng-gaqiang-kuchui-iteiru/]
+recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-09-08-luck-stealer-2/,
+  /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---
 
 {{< amazon asin="4087461963" title="がばいばあちゃん佐賀から広島へめざせ甲子園 (集英社文庫 し 45-1)" >}}

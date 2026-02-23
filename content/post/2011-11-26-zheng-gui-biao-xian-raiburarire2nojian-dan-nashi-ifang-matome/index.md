@@ -13,7 +13,7 @@ tags: []
 title: 正規表現ライブラリre2の簡単な使い方まとめ
 keywords: [マッチ, 文字列, パターン, 判定, fullmatch, 参照, 全体, 置換, win, group]
 recommendations: [/post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita/,
-  /post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2019-11-18-digdag-ci/]
+  /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/, /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/]
 ---
 
 先日、[インストールして試してみた](https://chezo.uno/post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita)Google製正規表現エンジン[re2](http://code.google.com/p/re2/)。

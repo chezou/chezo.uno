@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: '「夏真っ盛り！Spark + Python + Data Science祭り」を開催しました＆Ibisを紹介しました #summerDS'
 keywords: [レコメンド, ibis, spark, pandas, ラボ, エンジン, チューニング, com, dmm, sql]
-recommendations: [/post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/,
-  /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/, /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/]
+recommendations: [/post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
+  /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/, /post/2016-01-25-number-cookpadtechconf-2016dekutukupatudonoyan-jiu-mawarinoqu-rizu-miwofa-biao-simasita/]
 ---
 
 2016/07/25に「夏真っ盛り！Spark + Python + Data Science祭り」を開催しました。

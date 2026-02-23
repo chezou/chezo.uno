@@ -13,8 +13,9 @@ summary: ''
 tags: []
 title: Peter Hollensの"Firework"一人アカペラが格好いい
 keywords: [アレンジ, hollens, 原曲, アカペラ, イントロ, vocal, the house, performance, pact, jacks]
-recommendations: [/post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/,
-  /post/2008-06-03-er-du-qin-qian/, /post/2009-05-24-kuronotorigano-shi-nohui-lang-gaming-qu-sugiru/]
+recommendations: [/post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/,
+  /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/,
+  /post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/]
 ---
 
 [あかぺら村の記事](http://acappellavillage.blog103.fc2.com/blog-entry-789.html)で知ったのですが、Peter Hollensという人の一人アカペラアレンジがカッコいいです。

@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: MoneyLookが便利な件について
 keywords: [クレジットカード, 管理, ソフト, 履歴, 確認, japan, 仕様, 家計簿, モバイルsuica, offline]
-recommendations: [/post/2005-04-23-willcom/, /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
-  /post/2015-05-21-googledoraibuyakarendanogong-you-quan-xian-woguan-li-surunihagoogle-groupsgabian-li/]
+recommendations: [/post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/, /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/,
+  /post/2022-11-28-cancel-japanese-service/]
 ---
 
 [MoneyLook3 with Yahoo!JAPAN](http://www.moneylook.net/accesstrade/index.html)なるものを友人から教えてもらいました。  

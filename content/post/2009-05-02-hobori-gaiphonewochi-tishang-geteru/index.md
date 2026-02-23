@@ -13,7 +13,7 @@ tags: []
 title: ほぼ日がiPhoneを持ち上げてる
 keywords: [willcom, し放題, パケット, 半分, es, 遅い, 携帯, おかげ, iphone, 金額]
 recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-04-ad-es-wojie-yue-surutameni/,
-  /post/2005-04-23-willcom/]
+  /post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/]
 ---
 
 [ほぼ日のせい](http://www.1101.com/iphone/)でiPhoneが欲しくなってきた。  

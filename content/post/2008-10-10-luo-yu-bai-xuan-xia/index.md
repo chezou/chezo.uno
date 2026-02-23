@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 落語百選　夏
 keywords: [人々, 本書, 面白い, 閑話休題, 誇張, 筑摩書房, 時代物, 漢字, 日常, ない]
-recommendations: [/post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/, /post/2008-07-13-lang-toxiang-xin-liao-1/,
-  /post/2008-08-11-mian-bai-ihodoyokufen-karuzhe-xue-si-xiang-nosubete/]
+recommendations: [/post/2008-11-06-yin-lu-toyin-jie-noke-xue/, /post/2008-11-06-koredeiinoda/,
+  /post/2008-08-26-akihabara-at-deep/]
 ---
 
 {{< amazon asin="4480034528" title="落語百選―夏 (ちくま文庫)" >}}

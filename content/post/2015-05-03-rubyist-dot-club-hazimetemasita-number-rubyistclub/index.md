@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 'rubyist.club はじめてました #rubyistclub'
 keywords: [会議, 地域, ruby, オフライン, miyohide, podcast, club, 人数, ミート, rubyist]
-recommendations: [/post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
-  /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/]
+recommendations: [/post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/,
+  /post/2017-01-25-mata-tunian-wototuta/, /post/2013-08-25-llmaturinican-jia-simasita/]
 ---
 
 [rubyist.club](http://rubyist.club/) というドメインが勢い余ってとれたので、podcastを始めました。[rebuild.fm](http://rebuild.fm/)でも話題になっていた、静的ファイルを置くためだけにIDCFクラウドにインスタンス立てて、nginx立ててっていう無駄なことをやっています。[^1] 

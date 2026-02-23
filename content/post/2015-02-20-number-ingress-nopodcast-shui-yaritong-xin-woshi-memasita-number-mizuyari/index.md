@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: '#ingress のpodcast「水やり通信」を始めました #mizuyari'
 keywords: [behringer, podcast, 通信, feed, 録音, audio, skype, miyagawa, itunes, エレクトロニクス]
-recommendations: [/post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
-  /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/]
+recommendations: [/post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa/,
+  /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/, /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/]
 ---
 
 こっそりと、いつぞやの[川崎40重CF](http://ingress.blog.jp/archives/13616218.html)を仕掛けたBersergaさんとingressニュースを紹介するpodcastを始めました。

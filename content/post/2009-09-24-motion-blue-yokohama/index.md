@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: Motion Blue YOKOHAMA
 keywords: [音色, 劣化, ブルー, ピアノ, 目当て, 満喫, 曰く, 帰り, jazz, お店]
-recommendations: [/post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/,
-  /post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2008-06-03-er-du-qin-qian/]
+recommendations: [/post/2008-07-10-ris-a-la-malta/, /post/2009-11-26-the-real-album/,
+  /post/2005-07-17-urayamasika/]
 ---
 
 初めて赤レンガ倉庫に行ってきました。お目当てはモーションブルーで行われたJAZZピアノ。  

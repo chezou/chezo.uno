@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: Websocketを使ってリアルタイムに形態素解析をするmorph-websocketを作ってみた
 keywords: [websocket, morph, リアルタイム, mykytea, 結果, 形態素解析, ruby, 画面, 出力, png]
-recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/,
-  /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/, /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/]
+recommendations: [/post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
+  /post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/, /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/]
 ---
 
 [![morph-websocket画面](morph-websocket.png)](morph-websocket.png) morph-websocket画面

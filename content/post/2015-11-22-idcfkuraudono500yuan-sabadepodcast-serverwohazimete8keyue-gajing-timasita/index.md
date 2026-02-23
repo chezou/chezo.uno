@@ -13,7 +13,7 @@ tags: []
 title: IDCFクラウドの500円サーバーでpodcast serverをはじめて8ヶ月が経ちました
 keywords: [ストレージ, オブジェクト, rubyist, ノード, idcf, 転送, おかげさま, クラウド, club, '500']
 recommendations: [/post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/,
-  /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/, /post/2015-12-30-2015nian-wozhen-rifan-tute/]
+  /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/, /post/2020-12-31-2020-review/]
 ---
 
 どうも、最近PSYCHO-PASSを見終わってシュタインズ・ゲートを見ています。 この記事はIDCFクラウド1周年キャンペーンを応援する記事です。[^1] 

@@ -6,8 +6,8 @@ summary: AirPodsやMBP内蔵マイクよりも良い環境を…
 tags: [散財]
 title: テレカン・発表用にマイクを用意しよう
 keywords: [マイク, usb, アーム, ダイナミックマイク, 接続, ヘッドセット, ケーブル, '04', 在庫, '2020']
-recommendations: [/post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/,
-  /post/2019-03-10_business-trip-goods/, /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/]
+recommendations: [/post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/, /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/,
+  /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/]
 ---
 
 ![by Kai Pilger, Unsplash](https://images.unsplash.com/photo-1500275259408-14be096a87cc?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

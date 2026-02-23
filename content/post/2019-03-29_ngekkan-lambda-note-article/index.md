@@ -6,8 +6,8 @@ description: 先日、ラムダノートから創刊された「n月刊ラムダ
 lastmod: '2019-03-28 12:01:40-07:00'
 title: 「n月刊ラムダノート」の記事の書き方～「MLOpsの歩き方」編
 keywords: [論文, 記事, 寄稿, 編集, mlops, ノート, 月刊, 自分, 著者, pdf]
-recommendations: [/post/2019-06-04_ngekkan-party/, /post/2017-08-03_oss--------------48807bbbf13f/,
-  /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/]
+recommendations: [/post/2019-06-04_ngekkan-party/, /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/,
+  /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/]
 ---
 
 先日、ラムダノートから創刊された「n月刊ラムダノート」に「MLOpsの歩き方」を寄稿しました。

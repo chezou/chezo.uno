@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: PRESS START 2010でゲーム音楽演奏会情報をゲットした
 keywords: [ゲーム音楽, '2083', 演奏会, star, 情報, 演奏, コンセプト, 大阪, ポータル, フリーペーパー]
-recommendations: [/post/2008-07-09-press-startdang-xuan-simasita/, /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/,
-  /post/2010-09-11-press-start-2010xing-tutekita/]
+recommendations: [/post/2009-07-05-guan-dong-hagame-musichoihoida/, /post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/,
+  /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/]
 ---
 
 ゲーム音楽の演奏会情報フリーペーパー2083なるものを[PRESS START2010](https://chezo.uno/post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/)でいただきました。

@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 2020年を振り返って
 keywords: [物語, mlse, 配信, 活動, 漫画, オンライン, マイク, あと, oss, ファンタジー]
-recommendations: [/post/2022-07-15-finished-mlse-infra-wg/, /post/2020-11-10-mlse-conference/,
-  /post/2020-07-11-mlse-summer-workshop/]
+recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2017-12-31_2017--------c4901627b12d/,
+  /post/2021-12-31-2021-year-review/]
 ---
 
 久しぶりの年末の振り返りです。振り返ってみると[2017年以来](https://chezo.uno/post/2017-12-31_2017-c4901627b12d/)みたいですね。

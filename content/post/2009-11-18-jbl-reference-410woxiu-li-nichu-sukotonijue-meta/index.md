@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: JBL reference 410を修理に出すことに決めた
 keywords: [修理, 値段, 一時期, レポ, ヘッドフォン, jbl, '410', 場合, 片方, reference]
-recommendations: [/post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/,
-  /post/2005-05-19-vhsnei-zang-dvdpureya/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/]
+recommendations: [/post/2008-10-05-hd53r-ver-dot-8wogou-ru/, /post/2005-05-19-vhsnei-zang-dvdpureya/,
+  /post/2008-01-18-souiebakokohawu-yu-burogudatuta/]
 ---
 
 いつからか、片方の音が出なくなったうちのJBL reference 410だったのですが、ふらっと調べてみたら意外と修理にお金がかからなさそうというのが分かったので、修理に出すことにしました。（ちなみに、多分[これ](http://www.amazon.co.jp/dp/B000AOAB2S)に巻き付けてたから悪くなっちゃったのかも、と思っています。。。）

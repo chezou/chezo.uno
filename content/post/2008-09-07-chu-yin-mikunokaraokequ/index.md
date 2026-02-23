@@ -12,9 +12,8 @@ summary: ''
 tags: []
 title: 初音ミクのカラオケ曲
 keywords: [はず, 登録, 無念, 歌い手, sound, pop, 作曲者, アーティスト, 無い, 名前]
-recommendations: [/post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/,
-  /post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/,
-  /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/]
+recommendations: [/post/2008-10-11-le-pu-gayu-sii/, /post/2007-07-02-minnanohe-chang/,
+  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
 ---
 
 JOY SOUNDならなんとかしてくれるはず！と信じて、初音ミクで検索しても二曲しか出なかった。  

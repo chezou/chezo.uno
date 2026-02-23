@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: '川崎Ruby会議 01を開催しました #kwsk01'
 keywords: [ruby, kawasaki, 発表, rb, 会議, 川崎, tシャツ, rails, 都内, '01']
-recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/,
-  /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/]
+recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/,
+  /post/2022-06-18-kawasaki rb 9 years reflection/, /post/2013-06-29-kawasaki-dot-rb-number-001-di-1hui-mitoatupuwokai-cui-simasita-number-kwskrb/]
 ---
 
 さる 8/20 に川崎Ruby会議01を開催しました。

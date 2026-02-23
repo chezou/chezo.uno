@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 生演奏への期待と価値
 keywords: [演奏, ライブ, press start, skyrim, ゲーム音楽, 良けれ, オケ, 音楽, シンポジウム, 期待]
-recommendations: [/post/2009-07-05-guan-dong-hagame-musichoihoida/, /post/2012-10-04-finlandnochuan-tong-de-nale-qi-kanterewomodanniyan-zou-suruida-elina/,
-  /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/]
+recommendations: [/post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/, /post/2008-07-09-press-startdang-xuan-simasita/,
+  /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/]
 ---
 
 [gallery]

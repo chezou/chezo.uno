@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: '想像もしなかった場外戦〜iPhone 5とAndroidの対決がこんなところまで！！ #TEAMiPhone と #TeamDROID の戦い'
 keywords: [peter, hollens, iphone, version, 歌詞, firework, apple store, アカペラ, 対決, 格好]
-recommendations: [/post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/,
-  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/]
+recommendations: [/post/2009-05-12-konnitiha-iphone/, /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/,
+  /post/2008-07-07-the-real-group-real-christmas-commonly-unique/]
 ---
 
 一度は聞いたことがあるiPhoneの着信音のあの音から、こんな曲ができるなんて！

@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: なんという努力の人
 keywords: [キーボード, pc, ｒｙ, ３０, １６, １０, 黒板, 鳥肌, 魔王, 魅力]
-recommendations: [/post/2017-01-19-macnojispei-lie-nokibodowokarabinershi-wazuniuspei-lie-nisuru/,
-  /post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/, /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/]
+recommendations: [/post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/,
+  /post/2006-07-28-xia-nanode/, /post/2009-04-13-it-dont-mean-a-thing/]
 ---
 
 [はぅわ！ PCのキーボードで「残酷な天使のテーゼ」弾いてみた](http://3q3q.blog89.fc2.com/blog-entry-3476.html)  

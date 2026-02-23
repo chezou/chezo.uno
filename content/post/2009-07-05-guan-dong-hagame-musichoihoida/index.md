@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 関東はGame Musicほいほいだ
 keywords: [fcb, 演奏, 今年, 神奈川県, かけ声, ff, 9th, 関東, クロノトリガー, オープニング]
-recommendations: [/post/2008-11-08-liang-ishi-dai-ninatutanee/, /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/,
-  /post/2012-10-05-dong-jing-gemusiyodemai-tuteitanosymphonic-fantasies-tokyo-nocdganetutodemai-eru/]
+recommendations: [/post/2008-11-08-liang-ishi-dai-ninatutanee/, /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/,
+  /post/2010-09-11-press-start-2010xing-tutekita/]
 ---
 
 [Press Start](http://fami-web.jp/pressstart/)が今年もやってまいりました。今年こそはチケットを購入したので、万全の体制で臨みたいと思います。

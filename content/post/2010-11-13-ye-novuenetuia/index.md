@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 夜のヴェネツィア
 keywords: [歴代, 広場, 街中, 感心, 若い, 歴史的, 位置, 不思議, 雰囲気, 準備]
-recommendations: [/post/2008-08-24-sayonaraituka/, /post/2008-10-19-jpopsaundonohe-xin-bu-fen-ga-shi-ha1tunokodojin-xing-dechu-lai-teita/,
-  /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/]
+recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2009-07-23-fujiyama/,
+  /post/2009-08-07-pokemonxin-gan-xian/]
 ---
 
 ![](https://lh6.ggpht.com/_fY4jPztBNxw/TN4m-vk9IWI/AAAAAAAAAkM/FBrhsjGXKUY/s400/DSCF6149.JPG)

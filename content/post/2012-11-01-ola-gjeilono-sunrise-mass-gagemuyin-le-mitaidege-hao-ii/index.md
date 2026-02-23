@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: Ola Gjeiloの"Sunrise Mass"がゲーム音楽みたいで格好いい
 keywords: [キャロル, soundcloud, iframe, panamusica, 格好, 'true', url, 興奮, フェア, mass]
-recommendations: [/post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
-  /post/2012-09-25-singstodobrogoszgazai-bigong-yan/]
+recommendations: [/post/2008-07-07-the-real-group-real-christmas-commonly-unique/,
+  /post/2010-01-14-hueraranoziyosukan-vuokaruansanburu-kaperading-qi-gong-yan/, /post/2008-07-19-ensemblenow-di-39hui-ding-qi-yan-zou-hui-at-sesionshan-bing/]
 ---
 
 [Panamusicaのクリスマスフェア](https://www.panamusica.co.jp/ja/campaign/index.php?img=3)で[Ola Gjeilo](http://olagjeilo.com/)さんのキャロルが特集されていました。

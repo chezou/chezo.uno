@@ -12,8 +12,8 @@ summary: ''
 tags: []
 title: 'kawasaki.rb #010 を開催しました #kwskrb'
 keywords: [翻訳, jekyll, ドキュメント, kawasaki, rb, リポジトリ, aki, '300', 本家, ariga]
-recommendations: [/post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2022-06-18-kawasaki
-    rb 9 years reflection/, /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/]
+recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/,
+  /post/2022-06-18-kawasaki rb 9 years reflection/, /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/]
 ---
 
 kawasaki.rbもいよいよ10回目を開催してきました。\
