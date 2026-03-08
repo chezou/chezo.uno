@@ -1,13 +1,12 @@
 ---
-
 title: Between Principal and Glue Work
 date: 2026-03-08 13:07:00+00:00
 draft: false
 featured: true
-image:
-  preview_only: false
-tags:
-  - Staff Engineer
+image: {preview_only: false}
+tags: [Staff Engineer]
+recommendations: [/blog/2025-05-02-ml-project-and-scrum/, /blog/2020-03-05_py-operator-development-guide-for-python-users/,
+  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]
 ---
 
 ## Introduction
