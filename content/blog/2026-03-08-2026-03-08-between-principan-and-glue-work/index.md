@@ -91,7 +91,7 @@ Let's break down the main things I've done over the past three years using the a
     
     *   When an escalation came from the PS team saying, "The customer needs this feature right now," I jumped in as a firefighter, resolved the issue, and released it to production in 1-2 weeks.
         
-    *   Rewrote incomplete code from a project where the engineers originally worked on it, elevating it to production-grade.
+    *   Rewrote incomplete code from a project where the engineer who originally worked on it had moved on, elevating it to production-grade.
         
 
 As I was writing this, I realized I also paid attention to things like the following:
