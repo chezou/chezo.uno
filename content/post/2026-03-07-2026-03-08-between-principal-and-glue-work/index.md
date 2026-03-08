@@ -1,13 +1,12 @@
 ---
-
 title: Principal と器用貧乏のあいだ
 date: 2026-03-08 05:56:00+00:00
 draft: false
 featured: true
-image:
-  preview_only: false
-tags:
-  - Staff Engineering
+image: {preview_only: false}
+tags: [Staff Engineering]
+recommendations: [/post/2025-11-25-staff-engineering-path/, /post/2025-12-09-2025-12-09-principal-engineer-in-the-gene-of-ai/,
+  /post/2016-03-30-zhuan-zhi-simasita/]
 ---
 
 ## **はじめに**
