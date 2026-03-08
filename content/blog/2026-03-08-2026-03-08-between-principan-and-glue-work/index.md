@@ -105,9 +105,9 @@ As I was writing this, I realized I also paid attention to things like the follo
 *   Providing indirect performance evaluation input to the EM during 1:1s.
     
 
-In short, what I was doing was essentially [glue work](https://www.noidea.dog/glue) \[^1\]. However, my focus was on catching things that fall through the cracks to prevent the project from failing and ensure its success, giving it my all according to their importance. Because of this, I often wondered what my actual responsibilities were, but reading Staff Engineer books out there made me realize that more or less everyone does this, so I gritted my teeth and kept unblocking things.
+In short, what I was doing was essentially [glue work](https://www.noidea.dog/glue) [^1] .  However, my focus was on catching things that fall through the cracks to prevent the project from failing and ensure its success, giving it my all according to their importance. Because of this, I often wondered what my actual responsibilities were, but reading Staff Engineer books out there made me realize that more or less everyone does this, so I gritted my teeth and kept unblocking things.
 
-\[^1\] In the Japanese engineering community, there's a term "高機能雑用" (kōkinō zatsuyō) — roughly "High-functioning general-purpose grunt work." It originated from [an engineer](https://x.com/tokoroten/status/193359209864241152) who, when asked by his director what he actually does, replied: "I do Hadoop, Hive, MySQL, machine learning, log analysis, NLP, VBA, and firefighting — but that's too much to explain, so I just say 'High-functioning general-purpose grunt work.'" That's pretty much what being a Staff+ engineer feels like.
+[^1]: In the Japanese engineering community, there's a term "高機能雑用" (kōkinō zatsuyō) — roughly "High-functioning general-purpose grunt work." It originated from [an engineer](https://x.com/tokoroten/status/193359209864241152) who, when asked by his director what he actually does, replied: "I do Hadoop, Hive, MySQL, machine learning, log analysis, NLP, VBA, and firefighting — but that's too much to explain, so I just say 'High-functioning general-purpose grunt work.'" That's pretty much what being a Staff+ engineer feels like.
 
 ## Why Does the Scope of Staff+ Expand?
 
