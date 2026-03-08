@@ -1,11 +1,13 @@
 ---
 
 title: Principal と器用貧乏のあいだ
-date: 2026-03-08 13:35:00+00:00
-draft: true
-featured: false
+date: 2026-03-08 05:56:00+00:00
+draft: false
+featured: true
 image:
   preview_only: false
+tags:
+  - Staff Engineering
 ---
 
 ## **はじめに**
