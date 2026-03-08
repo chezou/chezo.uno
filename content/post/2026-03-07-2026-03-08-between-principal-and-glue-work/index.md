@@ -1,14 +1,12 @@
 ---
 
-title: 2026-03-08-between-principal-and-glue-work
+title: Principal と器用貧乏のあいだ
 date: 2026-03-08 13:35:00+00:00
 draft: true
 featured: false
 image:
   preview_only: false
 ---
-
-# **Principal と器用貧乏のあいだ**
 
 ## **はじめに**
 
