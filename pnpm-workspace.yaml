@@ -2,4 +2,4 @@ ignoredBuiltDependencies:
   - '@parcel/watcher'
   - '@tailwindcss/oxide'
 overrides:
-  tar: ">=7.5.10"
+  tar: ">=7.5.11"
