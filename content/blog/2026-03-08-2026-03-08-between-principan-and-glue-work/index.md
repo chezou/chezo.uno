@@ -1,12 +1,17 @@
 ---
+
 title: Between Principal and Glue Work
 date: 2026-03-08 13:07:00+00:00
 draft: false
 featured: true
-image: {preview_only: false}
-tags: [Staff Engineer]
-recommendations: [/blog/2025-05-02-ml-project-and-scrum/, /blog/2020-03-05_py-operator-development-guide-for-python-users/,
-  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]
+image:
+  preview_only: false
+tags:
+  - Staff Engineer
+recommendations:
+  - /blog/2025-05-02-ml-project-and-scrum/
+  - /blog/2020-03-05_py-operator-development-guide-for-python-users/
+  - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
 ---
 
 ## Introduction
@@ -59,7 +64,7 @@ A role acting as the "right hand" to executives like the CTO or VP, borrowing th
 
 However, Will Larson also states the following (quoted from [Staff Archetypes](https://staffeng.com/guides/staff-archetypes/)):
 
-“This taxonomy is more focused on being _useful_ than complete, but so far, I’ve been able to fit every Staff-plus engineer I’ve spoken to into one of these categories. Admittedly, some folks are easier to classify than others.”
+> This taxonomy is more focused on being _useful_ than complete, but so far, I’ve been able to fit every Staff-plus engineer I’ve spoken to into one of these categories. Admittedly, some folks are easier to classify than others.
 
 I started writing this article because I couldn't help but feel that I might be one of those "harder to classify" ones.
 
@@ -105,15 +110,15 @@ As I was writing this, I realized I also paid attention to things like the follo
 *   Providing indirect performance evaluation input to the EM during 1:1s.
     
 
-In short, what I was doing was essentially [glue work](https://www.noidea.dog/glue) [^1] .  However, my focus was on catching things that fall through the cracks to prevent the project from failing and ensure its success, giving it my all according to their importance. Because of this, I often wondered what my actual responsibilities were, but reading Staff Engineer books out there made me realize that more or less everyone does this, so I gritted my teeth and kept unblocking things.
+In short, what I was doing was essentially [glue work](https://www.noidea.dog/glue) \[^1\] . However, my focus was on catching things that fall through the cracks to prevent the project from failing and ensure its success, giving it my all according to their importance. Because of this, I often wondered what my actual responsibilities were, but reading Staff Engineer books out there made me realize that more or less everyone does this, so I gritted my teeth and kept unblocking things.
 
-[^1]: In the Japanese engineering community, there's a term "高機能雑用" (kōkinō zatsuyō) — roughly "High-functioning general-purpose grunt work." It originated from [an engineer](https://x.com/tokoroten/status/193359209864241152) who, when asked by his director what he actually does, replied: "I do Hadoop, Hive, MySQL, machine learning, log analysis, NLP, VBA, and firefighting — but that's too much to explain, so I just say 'High-functioning general-purpose grunt work.'" That's pretty much what being a Staff+ engineer feels like.
+\[^1\]: In the Japanese engineering community, there's a term "高機能雑用" (kōkinō zatsuyō) — roughly "High-functioning general-purpose grunt work." It originated from [an engineer](https://x.com/tokoroten/status/193359209864241152) who, when asked by his director what he actually does, replied: "I do Hadoop, Hive, MySQL, machine learning, log analysis, NLP, VBA, and firefighting — but that's too much to explain, so I just say 'High-functioning general-purpose grunt work.'" That's pretty much what being a Staff+ engineer feels like.
 
 ## Why Does the Scope of Staff+ Expand?
 
 Generally, the Two-in-a-box model is well known, although the breadth of role division varies. For example, in "[Engineering Management: The Pendulum Or The Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)," Charity Majors writes about the collaboration between EMs and TLs:
 
-> "There is an enormous demand for technical engineering leaders — far more demand than supply.  The most common hackaround is to pair a people manager (who can speak the language and knows the concepts, but stopped engineering ages ago) with a tech lead, and make them collaborate to co-lead the team.  This unwieldy setup often works pretty well."
+> There is an enormous demand for technical engineering leaders — far more demand than supply.  The most common hackaround is to pair a people manager (who can speak the language and knows the concepts, but stopped engineering ages ago) with a tech lead, and make them collaborate to co-lead the team.  This unwieldy setup often works pretty well.
 
 Also, at [Asana](https://asana.com/inside-asana/grow-your-leadership-impact-as-a-tech-lead-or-engineering-manager), every team has an EM, and for many projects, a TL is placed separately to collaborate with the EM, or if there is no TL, a Tech Lead Manager holds both roles. In their case, the division of roles between EM and TL is as follows:
 
@@ -141,6 +146,7 @@ I've written a lot so far, but if I were to reorganize the work I've done and th
 *   Critical problem-solving skills as a Solver
     
     *   Occasionally stepping into scopes beyond Staff+ (PdM, PjM, UX Designer, parts of EM) when necessary
+        
 
 It turns out that doing glue work as a Staff+ is not just doing random chores, but rather "carrying multiple Staff+ functions necessary for the organization all by oneself."
 
