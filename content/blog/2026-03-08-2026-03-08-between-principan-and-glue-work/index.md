@@ -4,12 +4,19 @@ subtitle: ''
 summary: ''
 date: 2026-03-08 13:07:00+00:00
 lastmod: ''
-tags: [Staff Engineering]
+tags:
+  - Staff Engineer
 draft: false
 featured: true
-image: {placement: null, caption: '', focal_point: '', preview_only: false}
-recommendations: [/blog/2025-05-02-ml-project-and-scrum/, /blog/2020-03-05_py-operator-development-guide-for-python-users/,
-  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]
+image:
+  placement: null
+  caption: ''
+  focal_point: ''
+  preview_only: false
+recommendations:
+  - /blog/2025-05-02-ml-project-and-scrum/
+  - /blog/2020-03-05_py-operator-development-guide-for-python-users/
+  - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
 ---
 
 ## Introduction
@@ -97,10 +104,10 @@ Generally, the Two-in-a-box model is well known, although the breadth of role di
 
 Also, at [Asana](https://asana.com/inside-asana/grow-your-leadership-impact-as-a-tech-lead-or-engineering-manager), every team has an EM, and for many projects, a TL is placed separately to collaborate with the EM, or if there is no TL, a Tech Lead Manager holds both roles. In their case, the division of roles between EM and TL is as follows:
 
-> \*   Engineering Manager primarily focuses on people management (staffing, coaching & growth) and organizational strategy (organizational risk, operational efficiency, team charter & outcomes)
-> >
-> \*   Tech Lead primarily focuses on technical leadership (technical execution, technical strategy, technical culture, roadmap feasibility & execution).
-> >
+> *   Engineering Manager primarily focuses on people management (staffing, coaching & growth) and organizational strategy (organizational risk, operational efficiency, team charter & outcomes)
+> 
+> *   Tech Lead primarily focuses on technical leadership (technical execution, technical strategy, technical culture, roadmap feasibility & execution).
+> 
 
 In this way, the advantage of Two-in-a-box is sharing the cognitive load so that attention can be paid to various areas.
 
