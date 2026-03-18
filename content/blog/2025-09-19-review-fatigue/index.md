@@ -11,7 +11,7 @@ summury: Does agentic coding increase review productivity?
 tags: [development, AI, LLM]
 keywords: [code, commit, review, generated, md, ve, large, pr, feedback, docs]
 recommendations: [/blog/2025-05-02-ml-project-and-scrum/, /blog/2022-01-25_hugo-content-based-recommendation/,
-  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]
+  /blog/2026-03-08-2026-03-08-between-principan-and-glue-work/]
 ---
 
 This year, the amount of time I spend on reviews has exploded. This applies to both code and documentation. And the fatigue from this has also increased dramatically.
