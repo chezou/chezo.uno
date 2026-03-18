@@ -1,0 +1,79 @@
+backend:
+  name: github
+  repo: chezou/chezo.uno
+  branch: master
+  base_url: https://sveltia-cms-auth.chezou.workers.dev
+
+media_folder: assets/media
+public_folder: /media
+
+slug:
+  encoding: unicode
+  lowercase: true
+
+collections:
+  - name: post
+    label: ブログ記事
+    folder: content/post
+    path: "{{slug}}/index"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    media_folder: ""
+    public_folder: ""
+    extension: md
+    format: yaml-frontmatter
+    filter: { field: title, pattern: ".+" }
+    fields:
+      - { name: title, label: 記事タイトル, widget: string, required: true }
+      - { name: subtitle, label: サブタイトル, widget: string, required: false }
+      - { name: summary, label: サマリー, widget: string, required: false }
+      - { name: date, label: 日付, widget: datetime, required: true, format: "YYYY-MM-DD HH:mm:ssZ" }
+      - { name: lastmod, label: 更新, widget: datetime, required: false, format: "YYYY-MM-DD HH:mm:ssZ" }
+      - { name: body, label: 本文, widget: richtext }
+      - { name: categories, label: カテゴリ, widget: list, field: { name: category, widget: string } }
+      - { name: tags, label: タグ, widget: list, field: { name: tag, widget: string } }
+      - { name: draft, label: 下書き, widget: boolean, default: true }
+      - { name: featured, label: フィーチャー, widget: boolean, default: false }
+      - name: image
+        label: 画像
+        widget: object
+        required: false
+        fields:
+          - { name: placement, label: placement, widget: number, required: false }
+          - { name: caption, label: caption, widget: string, required: false }
+          - { name: focal_point, label: focal point, widget: string, required: false }
+          - { name: preview_only, label: preview only, widget: boolean, default: false }
+          - { name: filename, label: image path, widget: image, required: false }
+
+  - name: blog
+    label: Blog Post
+    folder: content/blog
+    path: "{{slug}}/index"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    media_folder: ""
+    public_folder: ""
+    extension: md
+    format: yaml-frontmatter
+    filter: { field: title, pattern: ".+" }
+    fields:
+      - { name: title, label: Title, widget: string, required: true }
+      - { name: subtitle, label: Subtitle, widget: string, required: false }
+      - { name: summary, label: Summary, widget: string, required: false }
+      - { name: date, label: Date, widget: datetime, required: true, format: "YYYY-MM-DD HH:mm:ssZ" }
+      - { name: lastmod, label: Last Modified, widget: datetime, required: false, format: "YYYY-MM-DD HH:mm:ssZ" }
+      - { name: body, label: Body, widget: richtext }
+      - { name: categories, label: Categories, widget: list, field: { name: category, widget: string } }
+      - { name: tags, label: Tags, widget: list, field: { name: tag, widget: string } }
+      - { name: draft, label: Draft, widget: boolean, default: true }
+      - { name: featured, label: Featured, widget: boolean, default: false }
+      - name: image
+        label: Image
+        widget: object
+        required: false
+        fields:
+          - { name: placement, label: Placement, widget: number, required: false }
+          - { name: caption, label: Caption, widget: string, required: false }
+          - { name: focal_point, label: Focal Point, widget: string, required: false }
+          - { name: preview_only, label: Preview Only, widget: boolean, default: false }
+          - { name: filename, label: Image Path, widget: image, required: false }
