@@ -4,19 +4,12 @@ subtitle: ''
 summary: ''
 date: 2026-03-08 13:07:00+00:00
 lastmod: ''
-tags:
-  - Staff Engineering
+tags: [Staff Engineering]
 draft: false
 featured: true
-image:
-  placement: null
-  caption: ''
-  focal_point: ''
-  preview_only: false
-recommendations:
-  - /blog/2025-05-02-ml-project-and-scrum/
-  - /blog/2020-03-05_py-operator-development-guide-for-python-users/
-  - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
+image: {placement: null, caption: '', focal_point: '', preview_only: false}
+recommendations: [/blog/2025-05-02-ml-project-and-scrum/, /blog/2020-03-05_py-operator-development-guide-for-python-users/,
+  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]
 ---
 
 ## Introduction
