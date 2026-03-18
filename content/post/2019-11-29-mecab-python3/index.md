@@ -4,25 +4,11 @@ subtitle: ''
 summary: ''
 date: 2019-11-28 21:58:00-08:00
 lastmod: 2020-08-08 09:40:00-07:00
-tags:
-  - NLP
-authors:
-  - aki
-keywords:
-  - '83'
-  - mecab
-  - natto
-  - '81'
-  - windows
-  - py
-  - ipadic
-  - spacy
-  - wheel
-  - ginza
-recommendations:
-  - /post/2019-11-17-spacy-ginza/
-  - /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
-  - /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/
+tags: [NLP]
+authors: [aki]
+keywords: ['83', mecab, natto, '81', windows, py, ipadic, spacy, wheel, ginza]
+recommendations: [/post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
+  /post/2019-11-17-spacy-ginza/, /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/]
 ---
 
 ![](https://images.unsplash.com/photo-1516675457768-db513e191dcc?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
