@@ -8,7 +8,7 @@ title: spaCyとGiNZAでマストドンのトレンドワード抽出をしてみ
 keywords: [ginza, spacy, ワード, トレンド, neologd, マストドン, macbook pro, ノートブック, 自然言語処理, 解析]
 recommendations: [/post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
   /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/,
-  /post/2019-11-29-mecab-python3/]
+  /post/2015-11-23-sympytojupyter-notebookdeshu-shi-nomemowoqu-rou/]
 ---
 
 ![](https://images.unsplash.com/photo-1531730194970-f4d4bfd6475d?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
