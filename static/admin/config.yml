@@ -27,13 +27,13 @@ collections:
       - { name: title, label: 記事タイトル, widget: string, required: true }
       - { name: subtitle, label: サブタイトル, widget: string, required: false }
       - { name: summary, label: サマリー, widget: string, required: false }
-      - { name: date, label: 日付, widget: datetime, required: true }
-      - { name: lastmod, label: 更新, widget: datetime, required: false }
+      - { name: date, label: 日付, widget: datetime, required: true, format: "YYYY-MM-DD HH:mm:ssZ" }
+      - { name: lastmod, label: 更新, widget: datetime, required: false, format: "YYYY-MM-DD HH:mm:ssZ" }
       - { name: body, label: 本文, widget: richtext }
       - { name: categories, label: カテゴリ, widget: list, field: { name: category, widget: string } }
       - { name: tags, label: タグ, widget: list, field: { name: tag, widget: string } }
       - { name: draft, label: 下書き, widget: boolean, default: true }
-      - { name: featured, label: feature, widget: boolean, default: false }
+      - { name: featured, label: フィーチャー, widget: boolean, default: false }
       - name: image
         label: 画像
         widget: object
@@ -60,8 +60,8 @@ collections:
       - { name: title, label: Title, widget: string, required: true }
       - { name: subtitle, label: Subtitle, widget: string, required: false }
       - { name: summary, label: Summary, widget: string, required: false }
-      - { name: date, label: Date, widget: datetime, required: true }
-      - { name: lastmod, label: Last Modified, widget: datetime, required: false }
+      - { name: date, label: Date, widget: datetime, required: true, format: "YYYY-MM-DD HH:mm:ssZ" }
+      - { name: lastmod, label: Last Modified, widget: datetime, required: false, format: "YYYY-MM-DD HH:mm:ssZ" }
       - { name: body, label: Body, widget: richtext }
       - { name: categories, label: Categories, widget: list, field: { name: category, widget: string } }
       - { name: tags, label: Tags, widget: list, field: { name: tag, widget: string } }
