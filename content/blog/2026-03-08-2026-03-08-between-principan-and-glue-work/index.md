@@ -1,12 +1,22 @@
 ---
 title: Between Principal and Glue Work
+subtitle: ''
+summary: ''
 date: 2026-03-08 13:07:00+00:00
+lastmod: ''
+tags:
+  - Staff Engineering
 draft: false
 featured: true
-image: {preview_only: false}
-tags: [Staff Engineer]
-recommendations: [/blog/2025-05-02-ml-project-and-scrum/, /blog/2020-03-05_py-operator-development-guide-for-python-users/,
-  /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/]
+image:
+  placement: null
+  caption: ''
+  focal_point: ''
+  preview_only: false
+recommendations:
+  - /blog/2025-05-02-ml-project-and-scrum/
+  - /blog/2020-03-05_py-operator-development-guide-for-python-users/
+  - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
 ---
 
 ## Introduction
@@ -26,36 +36,28 @@ Let's recap Will Larson's four Staff Archetypes.
 A role deeply involved with a specific team (or a few teams), leading technical direction and execution.
 
 *   Characteristics: Takes responsibility for the team's technical decisions, fleshing out complex tasks, and unblocking progress.
-    
 *   Primary Activities: Focuses more on shaping the overall technical vision for the team, mentoring members, and coordinating with product managers rather than pure implementation. This is the most common archetype and a natural extension from a senior engineer role.
-    
 
 ### 2\. Architect
 
 A role responsible for cross-organizational success and quality within a specific technical domain (e.g., API design, frontend, infrastructure strategy).
 
 *   Characteristics: Formulates technical strategies spanning multiple teams and maintains long-term technical alignment.
-    
 *   Primary Activities: Deeply understands business needs and technical constraints to guide the overall architecture of the organization. Needed in large organizations or companies with complex systems burdened by accumulated debt.
-    
 
 ### 3\. Solver
 
 A "firefighter" role that moves beyond a specific team to solve critical and difficult technical challenges for the organization.
 
 *   Characteristics: Deployed to problems with high execution risk or complex issues where the solution is unclear.
-    
 *   Primary Activities: Goes to the frontline where the problem is occurring based on requests from leadership, and moves on to the next challenge once resolved. Requires pure technical breakthrough ability rather than organizational coordination.
-    
 
 ### 4\. Right Hand
 
 A role acting as the "right hand" to executives like the CTO or VP, borrowing their authority to solve complex organizational problems.
 
 *   Characteristics: Operates at the intersection of technology, business, people, and processes to permeate the executive's intent throughout the organization.
-    
 *   Primary Activities: Attends executive meetings and helps remove organizational bottlenecks and execute strategies. A rare archetype found in massive organizations with hundreds of engineers.
-    
 
 However, Will Larson also states the following (quoted from [Staff Archetypes](https://staffeng.com/guides/staff-archetypes/)):
 
@@ -72,38 +74,23 @@ I didn't have the official title of Tech Lead, but I operated as the engineer ov
 Let's break down the main things I've done over the past three years using the archetypes.
 
 *   **As a Tech Lead / Architect**
-    
-    *   Consistently led the grand design, PoC, scale validation, and release of the ML training and prediction infrastructure (Python, FastAPI, AWS Batch), successfully releasing it with 2 people in 5 months.
-        
-    *   Scaled the RFM prediction processing, making it up to 100x faster and supporting processing for 1 billion users.
-        
-    *   Implemented the PoC for the recommendation ML solution model and selected scalable algorithms.
-        
+    -   Consistently led the grand design, PoC, scale validation, and release of the ML training and prediction infrastructure (Python, FastAPI, AWS Batch), successfully releasing it with 2 people in 5 months.
+    -   Scaled the RFM prediction processing, making it up to 100x faster and supporting processing for 1 billion users.
+    -   Implemented the PoC for the recommendation ML solution model and selected scalable algorithms.
 *   **As a Right Hand**
-    
-    *   Directly explained the engineering roadmap to the CTO and product leadership to secure sponsorship.
-        
-    *   Secured sponsorship for a complete revamp of the ML infrastructure over a year and drove it through to release.
-        
-    *   Drafted the product roadmap and proposed product direction not only to Engineering but also to the Product Manager and VPoP.
-        
+    -   Directly explained the engineering roadmap to the CTO and product leadership to secure sponsorship.
+    -   Secured sponsorship for a complete revamp of the ML infrastructure over a year and drove it through to release.
+    -   Drafted the product roadmap and proposed product direction not only to Engineering but also to the Product Manager and VPoP.
 *   **As a Solver**
-    
-    *   When an escalation came from the PS team saying, "The customer needs this feature right now," I jumped in as a firefighter, resolved the issue, and released it to production in 1-2 weeks.
-        
-    *   Rewrote incomplete code from a project where the engineer who originally worked on it had moved on, elevating it to production-grade.
-        
+    -   When an escalation came from the PS team saying, "The customer needs this feature right now," I jumped in as a firefighter, resolved the issue, and released it to production in 1-2 weeks.
+    -   Rewrote incomplete code from a project where the engineer who originally worked on it had moved on, elevating it to production-grade.
 
 As I was writing this, I realized I also paid attention to things like the following:
 
 *   Task assignment considering members' motivation and project planning with their careers in mind (e.g., taking on tedious tasks like building admin consoles myself and handing challenging tasks to members).
-    
 *   Creating draft UI design proposals to communicate the complexity of the data model to UX designers.
-    
 *   Fundamentally rewriting JDs and acting as a gatekeeper in interviews.
-    
 *   Providing indirect performance evaluation input to the EM during 1:1s.
-    
 
 In short, what I was doing was essentially [glue work](https://www.noidea.dog/glue) [^1] . However, my focus was on catching things that fall through the cracks to prevent the project from failing and ensure its success, giving it my all according to their importance. Because of this, I often wondered what my actual responsibilities were, but reading Staff Engineer books out there made me realize that more or less everyone does this, so I gritted my teeth and kept unblocking things.
 
@@ -117,10 +104,10 @@ Generally, the Two-in-a-box model is well known, although the breadth of role di
 
 Also, at [Asana](https://asana.com/inside-asana/grow-your-leadership-impact-as-a-tech-lead-or-engineering-manager), every team has an EM, and for many projects, a TL is placed separately to collaborate with the EM, or if there is no TL, a Tech Lead Manager holds both roles. In their case, the division of roles between EM and TL is as follows:
 
-> *   Engineering Manager primarily focuses on people management (staffing, coaching & growth) and organizational strategy (organizational risk, operational efficiency, team charter & outcomes)
->     
-> *   Tech Lead primarily focuses on technical leadership (technical execution, technical strategy, technical culture, roadmap feasibility & execution).
->     
+> \*   Engineering Manager primarily focuses on people management (staffing, coaching & growth) and organizational strategy (organizational risk, operational efficiency, team charter & outcomes)
+> >
+> \*   Tech Lead primarily focuses on technical leadership (technical execution, technical strategy, technical culture, roadmap feasibility & execution).
+> >
 
 In this way, the advantage of Two-in-a-box is sharing the cognitive load so that attention can be paid to various areas.
 
@@ -135,13 +122,9 @@ Ultimately, if the EM and TL trust each other and have a system where they can w
 I've written a lot so far, but if I were to reorganize the work I've done and the scope I've expanded based on the Archetypes:
 
 *   Technical decision-making and delivery as a Tech Lead/Architect
-    
 *   Proposing technical strategies to executives and gaining approval as a Right Hand
-    
 *   Critical problem-solving skills as a Solver
-    
-    *   Occasionally stepping into scopes beyond Staff+ (PdM, PjM, UX Designer, parts of EM) when necessary
-        
+    -   Occasionally stepping into scopes beyond Staff+ (PdM, PjM, UX Designer, parts of EM) when necessary
 
 It turns out that doing glue work as a Staff+ is not just doing random chores, but rather "carrying multiple Staff+ functions necessary for the organization all by oneself."
 
