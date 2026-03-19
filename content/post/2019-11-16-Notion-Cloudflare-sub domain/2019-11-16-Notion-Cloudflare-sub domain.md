@@ -7,7 +7,7 @@ tags: [Notion]
 title: NotionのページをCloudflareでsub domainに転送する
 keywords: [notion, domain, 設定, uno, memo, chezo, ドメイン, 指定, 設定方法, カスタム]
 recommendations: [/post/2025-08-24-pages-cms/, /post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/,
-  /post/2022-12-16-bump-wowchemy-v570/]
+  /post/2026-03-19-pages-cmsからsveltia-cmsに移行した/]
 ---
 
 
