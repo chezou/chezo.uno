@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-08-31 14:51:54-07:00'
+date: 2008-08-31 14:51:54-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-08-31 14:51:54-07:00'
+lastmod: 2008-08-31 14:51:54-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [ライブハウス, 会場, 青木, メドレー, 男性, 方々, 友
 recommendations: [/post/2008-07-10-ris-a-la-malta/, /post/2009-03-09-masafestanirajatonga/,
   /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/]
 ---
+
 
 渋谷にあるライブハウス「[多作](http://www.tasaku.com/)」にて行われたTRY-TONEのライブに行ってきました。
 多作というかライブハウス自体が初めての体験だったので、開場時間に少し遅れて行ったらすでにたくさん並んでいました。しかも、周りの方々が「今日はアカペラグループ皆で来ましたー」とか言ってるのを聞いて、一人でやりおるわぁとニヤニヤしていました。さすが、アカペラメインのライブハウスだなぁと。

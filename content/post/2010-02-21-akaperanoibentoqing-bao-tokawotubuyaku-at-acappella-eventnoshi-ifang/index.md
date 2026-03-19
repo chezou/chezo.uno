@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2010-02-21 13:58:11-08:00'
+date: 2010-02-21 13:58:11-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-02-21 13:58:11-08:00'
+lastmod: 2010-02-21 13:58:11-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendard
   /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
   /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/]
 ---
+
 
 [以前の記事](https://chezo.uno/post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/)でも少し書いていたんですが、twitterで[@acappella\_event](http://twitter.com/acappella_event)というbotを作りました。前から少しずつ色々試していたのですが、ようやく基本的なところができたので使い方を簡単にまとめたものを残しておきます。
 

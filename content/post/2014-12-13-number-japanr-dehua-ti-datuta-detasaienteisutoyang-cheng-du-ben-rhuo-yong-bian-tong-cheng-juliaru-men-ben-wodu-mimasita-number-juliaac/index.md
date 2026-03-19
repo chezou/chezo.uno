@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2014-12-12 16:02:00-08:00'
+date: 2014-12-12 16:02:00-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-12-12 16:02:00-08:00'
+lastmod: 2014-12-12 16:02:00-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-s
   /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/,
   /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/]
 ---
+
 
 この記事は[Julia Advent Calendar](http://qiita.com/advent-calendar/2014/julialang)の12日目の記事です。
 

@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2011-11-26 14:02:56-08:00'
+date: 2011-11-26 14:02:56-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2011-11-26 14:02:56-08:00'
+lastmod: 2011-11-26 14:02:56-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [マッチ, 文字列, パターン, 判定, fullmatch, 参照, 全体
 recommendations: [/post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita/,
   /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/, /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/]
 ---
+
 
 先日、[インストールして試してみた](https://chezo.uno/post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita)Google製正規表現エンジン[re2](http://code.google.com/p/re2/)。
 

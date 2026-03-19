@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2012-10-02 15:03:48-07:00'
+date: 2012-10-02 15:03:48-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2012-10-02 15:03:48-07:00'
+lastmod: 2012-10-02 15:03:48-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [peter, hollens, iphone, version, 歌詞, firework, apple store, ア�
 recommendations: [/post/2009-05-12-konnitiha-iphone/, /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/,
   /post/2008-07-07-the-real-group-real-christmas-commonly-unique/]
 ---
+
 
 一度は聞いたことがあるiPhoneの着信音のあの音から、こんな曲ができるなんて！
 

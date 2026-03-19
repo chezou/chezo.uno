@@ -18,6 +18,7 @@ recommendations: [/blog/2025-08-24-configured-pages-cms/, /blog/2024-02-02-migra
   /blog/2017-05-02_an-easy-way-to-get-url-list-of-your-medium-publication-c60c61244101/]
 ---
 
+
 Hugo has a feature to show keyword based related articles.
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://gohugo.io/content-management/related/" data-iframely-url="//iframely.net/q1grvUY?card=small"></a></div></div><script async src="//iframely.net/embed.js" charset="utf-8"></script>

@@ -1,33 +1,23 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "cookiecutter-digdag"
-summary: "A template generates digdag workflows for SQL and Python"
-authors: [aki]
-tags: [cookiecutter, digdag]
-categories: [workflow, digdag]
+title: cookiecutter-digdag
+summary: A template generates digdag workflows for SQL and Python
+authors:
+  - aki
+tags:
+  - cookiecutter
+  - digdag
+categories:
+  - workflow
+  - digdag
 date: 2019-12-01T18:48:39+09:00
-
-# Optional external URL for project (replaces project detail page).
 links:
   - type: code
-    url: "https://github.com/chezou/cookiecutter-digdag"
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+    url: https://github.com/chezou/cookiecutter-digdag
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
 ---
+
 
 A template generates digdag workflows for SQL and Python.

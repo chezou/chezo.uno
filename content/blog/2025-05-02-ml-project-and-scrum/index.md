@@ -17,6 +17,7 @@ recommendations: [/blog/2026-03-08-2026-03-08-between-principan-and-glue-work/, 
   /blog/2020-03-05_py-operator-development-guide-for-python-users/]
 ---
 
+
 I've worked on several machine learning projects, and intuitively, I've felt that Scrum doesn't seem well-suited for machine learning. However, during an internal discussion, a colleague said, "If we use Technical Stories, we should be able to break down tasks to fit within two weeks for any tasks. And if we do that, we should be able to deliver value in two weeks for ML products." I couldn't properly counter this, so I'm writing this article to articulate my thoughts, including how others in the world are approaching this.
 
 ## Disclaimer

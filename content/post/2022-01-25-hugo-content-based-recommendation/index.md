@@ -17,6 +17,7 @@ recommendations: [/post/2022-01-14-prelims-recommend-hugo/, /post/2025-08-24-pag
   /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
 ---
 
+
 こんにちは、早いものでもう40の大台が迫ってくる誕生日を迎えました。前日にブースターショットを打ったので、一日中ほとんど寝込んでいました。必要な人のために、[例のリスト](https://www.amazon.jp/hz/wishlist/ls/FH3MHL6LTE02?ref_=wl_share)を置いておきます。
 
 さて、Hugoにはキーワードベースの関連記事の表示をする機能があります。

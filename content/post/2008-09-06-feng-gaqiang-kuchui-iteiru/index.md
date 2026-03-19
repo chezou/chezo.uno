@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-09-06 14:49:29-07:00'
+date: 2008-09-06 14:49:29-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-09-06 14:49:29-07:00'
+lastmod: 2008-09-06 14:49:29-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [スポーツ, 物語, 新潮社, 共感, 伏線, 通勤, ゴール, �
 recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-06-15-gui-cai-xian-ru/,
   /post/2008-08-24-sayonaraituka/]
 ---
+
 
 {{< amazon asin="4104541044" title="風が強く吹いている" >}}
 三浦 しをん / / 新潮社  

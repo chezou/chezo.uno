@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2009-10-26 14:56:32-07:00'
+date: 2009-10-26 14:56:32-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-10-26 14:56:32-07:00'
+lastmod: 2009-10-26 14:56:32-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [windows, 動作, 報告, トップページ, ウィキ, アプリケ�
 recommendations: [/post/2009-09-25-windows7woyu-yue-sita/, /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/,
   /post/2014-09-21-rubykaigixing-tutekimasita-and-rubyhirobade-shen-nai-chuan-rubyhui-yi-01-gao-zhi-ltsitekimasita-number-rubykaigi-number-rubyhiroba-number-kana01/]
 ---
+
 
 - [Windows 7動作報告 | Windows 7 アプリケーション動作報告リスト](http://w7.vector.jp/softrev/list.php)
 - [Windows 7 @ ウィキ - トップページ](http://www15.atwiki.jp/win7/)

@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2016-05-08 17:06:39-07:00'
+date: 2016-05-08 17:06:39-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2016-05-08 17:06:39-07:00'
+lastmod: 2016-05-08 17:06:39-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [損失, パーセプトロン, コース, 関数, 数式, 嬉しい, 
 recommendations: [/post/2019-12-05-ibis2019-mlse/, /post/2018-05-17_mlse-kickoff/,
   /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/]
 ---
+
 
 機械学習の分類の話を、主に決定境界と損失関数の観点から整理してみました。 とはいっても、k-NNとか損失関数関係ないのもいます。
 

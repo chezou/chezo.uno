@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2016-12-25 13:30:04-08:00'
+date: 2016-12-25 13:30:04-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2016-12-25 13:30:04-08:00'
+lastmod: 2016-12-25 13:30:04-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [まとめ買い, コミックス, kindle版, 作品, 作者, 商品, 
 recommendations: [/post/2020-01-14-2019-best-comic/, /post/2010-01-01-12yue-nidu-ndaben/,
   /post/2011-07-20-jkominoman-hua-biyuahaipaddemodu-meru/]
 ---
+
 
 海外出張の移動やKindle Unlimitedとかもあって結構漫画を読む機会が多かったのですが、今年読んだ漫画のオススメを書いていきます。
 

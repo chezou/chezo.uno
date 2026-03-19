@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-06-25 14:45:09-07:00'
+date: 2008-06-25 14:45:09-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-06-25 14:45:09-07:00'
+lastmod: 2008-06-25 14:45:09-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [違和感, 後日, アマゾンギフト券, 表紙, 半分, 趣味, 
 recommendations: [/post/2006-07-28-xia-nanode/, /post/2008-06-09-tuiniiphonedeng-chang/,
   /post/2017-01-30-indigogo-dehazimetebatukusitelai-ta-dot-woshi-tute3keyue-gatatuta/]
 ---
+
 
 ついつい買ってしまいました。  
 アマゾンギフト券があったので、0円で買ってしまいました。  

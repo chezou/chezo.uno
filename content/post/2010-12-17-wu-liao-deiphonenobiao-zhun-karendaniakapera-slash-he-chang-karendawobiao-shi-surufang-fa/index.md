@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2010-12-17 14:00:21-08:00'
+date: 2010-12-17 14:00:21-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-12-17 14:00:21-08:00'
+lastmod: 2010-12-17 14:00:21-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglemat
   /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
   /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/]
 ---
+
 
 AppBankで話題になっていたこのカレンダーの記事を見て、気づきました。[アカペラ/合唱カレンダー](http://bit.ly/caTSPZ)もiPhoneでみられるじゃないか！
 

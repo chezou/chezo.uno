@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-07-20 14:50:06-07:00'
+date: 2008-07-20 14:50:06-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-07-20 14:50:06-07:00'
+lastmod: 2008-07-20 14:50:06-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [ばい, ばあちゃん, エピソード, 要点, 島田, 一作, あ
 recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-09-08-luck-stealer-2/,
   /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---
+
 
 {{< amazon asin="4087461963" title="がばいばあちゃん佐賀から広島へめざせ甲子園 (集英社文庫 し 45-1)" >}}
 島田 洋七 / / 集英社  

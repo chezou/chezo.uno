@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2015-06-06 10:14:41-07:00'
+date: 2015-06-06 10:14:41-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-06-06 10:14:41-07:00'
+lastmod: 2015-06-06 10:14:41-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [gem, pypi, デビュー, python, rubyist, documentation, setup, swig,
 recommendations: [/post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
   /post/2019-11-25-github actions-api token-pypi release/, /post/2017-08-26_python------------------dc8d8f2fe989/]
 ---
+
 
 先月のkawasaki.rbで、Rubyistなのにgemより先にPypiデビューしましたという話をしました。
 

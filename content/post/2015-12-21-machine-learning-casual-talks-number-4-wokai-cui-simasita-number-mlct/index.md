@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2015-12-21 05:24:03-08:00'
+date: 2015-12-21 05:24:03-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-12-21 05:24:03-08:00'
+lastmod: 2015-12-21 05:24:03-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2015-05-02-machine-learning-casual-talks-number-3-lue-ch
   /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
   /post/2019-03-29_ngekkan-lambda-note-article/]
 ---
+
 
 まさかの一週間内に自分の主催する勉強会が3回重なるデスロードを走ってきたchezouです。[^1] 
 

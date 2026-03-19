@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-10-10 14:48:57-07:00'
+date: 2008-10-10 14:48:57-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-10-10 14:48:57-07:00'
+lastmod: 2008-10-10 14:48:57-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [人々, 本書, 面白い, 閑話休題, 誇張, 筑摩書房, 時代
 recommendations: [/post/2008-11-06-yin-lu-toyin-jie-noke-xue/, /post/2008-11-06-koredeiinoda/,
   /post/2008-08-26-akihabara-at-deep/]
 ---
+
 
 {{< amazon asin="4480034528" title="落語百選―夏 (ちくま文庫)" >}}
  / 筑摩書房  

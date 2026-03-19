@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2015-02-19 16:45:18-08:00'
+date: 2015-02-19 16:45:18-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-02-19 16:45:18-08:00'
+lastmod: 2015-02-19 16:45:18-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [behringer, podcast, 通信, feed, 録音, audio, skype, miyagawa, itu
 recommendations: [/post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa/,
   /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/, /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/]
 ---
+
 
 こっそりと、いつぞやの[川崎40重CF](http://ingress.blog.jp/archives/13616218.html)を仕掛けたBersergaさんとingressニュースを紹介するpodcastを始めました。
 

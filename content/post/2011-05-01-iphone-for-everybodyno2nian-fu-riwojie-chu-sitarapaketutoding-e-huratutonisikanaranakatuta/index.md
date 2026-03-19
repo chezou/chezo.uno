@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2011-05-01 04:05:24-07:00'
+date: 2011-05-01 04:05:24-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2011-05-01 04:05:24-07:00'
+lastmod: 2011-05-01 04:05:24-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [パケットし放題, スマートフォン, パケット定額, 契
 recommendations: [/post/2009-05-04-ad-es-wojie-yue-surutameni/, /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/,
   /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
 ---
+
 
 一言で言うと、iPhone for everybodyを使ってパケット定額フル([参考](http://www.softbankmobile.co.jp/ja/news/press/2009/20090225_05/))で契約したら、パケット定額forスマートフォンに変更できなかったという話です。  
 現在、パケット定額forスマートフォンやパケット定額フルで契約されている方は対象外かと思われます。

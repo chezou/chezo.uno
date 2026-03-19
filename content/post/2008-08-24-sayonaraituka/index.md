@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-08-24 14:49:45-07:00'
+date: 2008-08-24 14:49:45-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-08-24 14:49:45-07:00'
+lastmod: 2008-08-24 14:49:45-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [最初, 浮気, 描写, 終わり, 納得, こと, 人間, 作品, �
 recommendations: [/post/2008-09-06-feng-gaqiang-kuchui-iteiru/, /post/2008-09-10-enzieruhato-27/,
   /post/2008-07-19-xi-nomo-nu-gasi-nda/]
 ---
+
 
 {{< amazon asin="434440257X" title="サヨナライツカ (幻冬舎文庫)" >}}
 辻 仁成 / / 幻冬舎  

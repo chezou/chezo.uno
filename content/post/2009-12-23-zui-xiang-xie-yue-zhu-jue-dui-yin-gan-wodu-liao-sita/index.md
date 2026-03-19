@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2009-12-23 00:12:42-08:00'
+date: 2009-12-23 00:12:42-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-12-23 00:12:42-08:00'
+lastmod: 2009-12-23 00:12:42-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [絶対音感, 言葉, こと, ない, 教育, 著者, 音楽, 音響,
 recommendations: [/post/2008-11-06-yin-lu-toyin-jie-noke-xue/, /post/2008-10-10-luo-yu-bai-xuan-xia/,
   /post/2010-01-01-12yue-nidu-ndaben/]
 ---
+
 
 本の大まかな内容は、音楽に素養がない記者が、絶対音感の言葉の響きに惹かれて解明しようとした努力の軌跡である。まとめると、  
 ・絶対音感の定義は曖昧だが、その中でもレベルがある  

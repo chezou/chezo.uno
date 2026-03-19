@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2010-01-14 13:57:54-08:00'
+date: 2010-01-14 13:57:54-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-01-14 13:57:54-08:00'
+lastmod: 2010-01-14 13:57:54-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: ['05', '1600', '1200', jpeg, ca, 楽譜, '115', bf, 教会, '58']
 recommendations: [/post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/,
   /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/, /post/2005-08-21-nan-sheng-he-chang/]
 ---
+
 
 [![](l_1600_1200_f9f88bf9-3b1a-4e42-a829-05bd703047a6.jpeg)](l_1600_1200_f9f88bf9-3b1a-4e42-a829-05bd703047a6.jpeg)
 

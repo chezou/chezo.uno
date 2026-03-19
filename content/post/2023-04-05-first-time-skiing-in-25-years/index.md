@@ -16,6 +16,7 @@ recommendations: [/post/2021-12-15-relocated-to-vancouver/, /post/2021-12-18-8-m
   /post/2022-12-30-2022-year-in-review/]
 ---
 
+
 バンクーバーは、最寄りのスキー場まで車で30分で行けるので有名です。30分圏内にスキー場が三つ(Grouse, Cypress, Seymour)もあるので気軽に行けます。
 有名なWhistlerも1.5時間で行けます。
 

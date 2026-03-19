@@ -16,6 +16,7 @@ recommendations: [/post/2025-08-24-pages-cms/, /post/2010-01-01-jin-geng-nagara2
   /post/2014-12-31-2014nian-wozhen-rifan-tute/]
 ---
 
+
 毎年アドベントカレンダーの時期にHugoのテーマであるWowchemy (旧 Academic) のバージョンを上げています。
 
 今年は、唯一参加したアドベントカレンダーもNotionで済ませてしまったので、恩恵にはあずかれませんでしたが、それでもまあ定期アップデートは大事ですね。

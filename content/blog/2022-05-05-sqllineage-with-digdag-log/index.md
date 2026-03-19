@@ -18,6 +18,7 @@ recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python
   /blog/2020-03-05_py-operator-development-guide-for-python-users/]
 ---
 
+
 ## What's data lineage?
 
 Data lineage is something to describe "Where this data comes from and where it goes?"

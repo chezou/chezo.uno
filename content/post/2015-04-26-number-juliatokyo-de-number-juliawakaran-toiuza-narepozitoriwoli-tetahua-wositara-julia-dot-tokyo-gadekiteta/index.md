@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2015-04-26 15:25:18-07:00'
+date: 2015-04-26 15:25:18-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-04-26 15:25:18-07:00'
+lastmod: 2015-04-26 15:25:18-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wof
   /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
   /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/]
 ---
+
 
 [JuliaTokyo #3](http://juliatokyo.connpass.com/event/13218/)を @soramiさんと @bycicle1885 さんと開催しました。
 

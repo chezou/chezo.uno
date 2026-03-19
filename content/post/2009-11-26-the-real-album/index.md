@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2009-11-26 13:57:09-08:00'
+date: 2009-11-26 13:57:09-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-11-26 13:57:09-08:00'
+lastmod: 2009-11-26 13:57:09-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [アルバム, ポップ, 印象, pass, 変態, 全体的, jazz, 活�
 recommendations: [/post/2009-09-24-motion-blue-yokohama/, /post/2008-07-19-ensemblenow-di-39hui-ding-qi-yan-zou-hui-at-sesionshan-bing/,
   /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/]
 ---
+
 
 Pass Me the Jazzがすてきなアルバムです！
 

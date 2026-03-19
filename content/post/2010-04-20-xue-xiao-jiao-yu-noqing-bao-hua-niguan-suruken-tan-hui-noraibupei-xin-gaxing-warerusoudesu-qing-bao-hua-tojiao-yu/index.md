@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2010-04-20 14:58:27-07:00'
+date: 2010-04-20 14:58:27-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-04-20 14:58:27-07:00'
+lastmod: 2010-04-20 14:58:27-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruke
   /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/,
   /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/]
 ---
+
 
 最近、遅ればせながら色々と教育における情報化について調べることが多いのですが、こんな懇談会が4/22(木) 16:00-行われるそうです。(配信のリンクは文科省のトップからリンクが近々張られるそうです。)
 

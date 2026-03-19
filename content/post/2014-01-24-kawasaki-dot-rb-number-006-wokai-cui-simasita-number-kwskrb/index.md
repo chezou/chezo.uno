@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: [ruby]
-date: '2014-01-24 14:05:48-08:00'
+date: 2014-01-24 14:05:48-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-01-24 14:05:48-08:00'
+lastmod: 2014-01-24 14:05:48-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [プロジェクター, ライブラリ, 機械学習, ruby, テスト
 recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/,
   /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/, /post/2014-04-26-kawasaki-dot-rb-number-011-wokai-cui-simasita-number-kwskrb/]
 ---
+
 
 去る2013/11/27にkawasaki.rbの第6回を開催しました。  
 togetterは[こちら](http://togetter.com/li/595791)

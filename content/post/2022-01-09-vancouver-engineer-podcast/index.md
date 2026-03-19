@@ -2,13 +2,14 @@
 title: 'バンクーバーのえんじに屋 #81,82 宇治拾遺物語'
 authors: [aki]
 date: 2022-06-09 00:15:00-07:00
-lastmod: '2022-12-16 15:54:00-08:00'
+lastmod: 2022-12-16 15:54:00-08:00
 summary: バンクーバーのえんじに屋podcastに出演したので、話せなかったことを書きます。
 tags: [Canada, podcast]
 keywords: [永住権, 転職, 異文化, 理解力, 太田, 英語, 海外移住, 取得, 英会話, バンクーバー]
 recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2024-06-20-nappan-book-review/,
   /post/2016-03-30-zhuan-zhi-simasita/]
 ---
+
 
 ![](https://images.unsplash.com/photo-1566939028087-c4be299e0593?ixlib=rb-1.2.1&q=80&cs=tinysrgb&fm=jpg&crop=entropy)
 

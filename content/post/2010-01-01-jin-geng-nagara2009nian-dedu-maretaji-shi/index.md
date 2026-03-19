@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2010-01-01 01:01:07-08:00'
+date: 2010-01-01 01:01:07-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-01-01 01:01:07-08:00'
+lastmod: 2010-01-01 01:01:07-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [music, iphone, アクセス, simplify, '2009', post, ad, es, '05', �
 recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2012-01-01-2012nian-nobao-fu/,
   /post/2021-12-31-2021-year-review/]
 ---
+
 
 あけましておめでとうございます。今年もよろしくお願いします。
 

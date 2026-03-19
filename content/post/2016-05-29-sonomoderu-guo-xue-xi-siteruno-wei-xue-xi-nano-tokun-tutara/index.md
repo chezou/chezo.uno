@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2016-05-29 14:57:39-07:00'
+date: 2016-05-29 14:57:39-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2016-05-29 14:57:39-07:00'
+lastmod: 2016-05-29 14:57:39-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [データ, 訓練データ, validation, 精度, learning, bias, 学�
 recommendations: [/post/2018-05-17_mlse-kickoff/, /post/2019-12-05-ibis2019-mlse/,
   /post/2019-11-17-150 successful machine learning models 6 lessons/]
 ---
+
 
 # Q: うわっ...ワタシのモデル過学習してる…？
 

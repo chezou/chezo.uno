@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2011-07-20 04:07:24-07:00'
+date: 2011-07-20 04:07:24-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2011-07-20 04:07:24-07:00'
+lastmod: 2011-07-20 04:07:24-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [pdf, 苦労, 漫画, 作品, 許容範囲, 絶版, ゼミ, ギャグ,
 recommendations: [/post/2008-08-26-akihabara-at-deep/, /post/2005-10-03-su-suge-pin-desuyo/,
   /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/]
 ---
+
 
 以前、大々的にラブひながPDFで読めると話題になった絶版漫画公開サイト、[Jコミ](http://www.j-comi.jp/)。  
 その後、特に追いかけていなかったのですが、[生駒日記でサラダデイズが読めると聞いて](http://d.hatena.ne.jp/mamoruk/20110717/p1)ホイホイ呼ばれて久しぶりに行ってみました。

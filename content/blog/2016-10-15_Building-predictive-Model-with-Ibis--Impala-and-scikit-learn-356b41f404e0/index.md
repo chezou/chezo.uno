@@ -3,7 +3,7 @@ aliases: [/blog/building-predictive-model-with-ibis-impala-and-scikit-learn-356b
   /blog/356b41f404e0]
 authors: [aki]
 categories: [ibis]
-date: '2016-10-14 14:10:31-07:00'
+date: 2016-10-14 14:10:31-07:00
 description: tl;dr
 title: Building predictive Model with Ibis, Impala and scikit-learn
 keywords: [notebook, data, spark, pandas, model, demo, port, predictive, netflix,
@@ -12,6 +12,7 @@ recommendations: [/blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f
   /blog/2016-12-30_livy---jupyter-notebook---sparkmagic---powerful---easy-notebook-for-data-scientist-a8b72345ea2d/,
   /blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/]
 ---
+
 
 ### tl;dr
 

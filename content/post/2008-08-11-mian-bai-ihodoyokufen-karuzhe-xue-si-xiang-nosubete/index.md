@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-08-11 14:49:50-07:00'
+date: 2008-08-11 14:49:50-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-08-11 14:49:50-07:00'
+lastmod: 2008-08-11 14:49:50-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [酷い, 単語, 文芸社, 哲学, 倫理, おかしい, 言い回し
 recommendations: [/post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/, /post/2008-06-15-ojin-nomian-qiang/,
   /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/]
 ---
+
 
 {{< amazon asin="4537255889" title="面白いほどよくわかる哲学・思想のすべて―人類が共有する「知」の絶対真理を読み解く (学校で教えない教科書)" >}}
 湯浅 赳男 / / 日本文芸社  

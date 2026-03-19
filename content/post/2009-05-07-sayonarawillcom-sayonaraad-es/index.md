@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2009-05-07 14:53:25-07:00'
+date: 2009-05-07 14:53:25-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-05-07 14:53:25-07:00'
+lastmod: 2009-05-07 14:53:25-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [アップデート, ad, es, 結論, 魅力, 感謝, iphone, 総合, �
 recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-18-iphonetono1zhou-jian/,
   /post/2011-05-01-iphone-for-everybodyno2nian-fu-riwojie-chu-sitarapaketutoding-e-huratutonisikanaranakatuta/]
 ---
+
 
 GW中ずっと悩んでいた案件に解を出しました。友人たちには感謝感謝。
 

@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2012-09-25 15:03:37-07:00'
+date: 2012-09-25 15:03:37-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2012-09-25 15:03:37-07:00'
+lastmod: 2012-09-25 15:03:37-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [sings, dobrogosz, steve, 共演, 集団, 日時, スウェーデン, 
 recommendations: [/post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/,
   /post/2011-04-07-soredemotake6halai-ri-suru/]
 ---
+
 
 スウェーデンのJazz Pianistであり作曲家でもあるSteve Dobrogosz氏と、素敵な実力派合唱集団SINGSが日本で再び共演することが決まったようです。
 

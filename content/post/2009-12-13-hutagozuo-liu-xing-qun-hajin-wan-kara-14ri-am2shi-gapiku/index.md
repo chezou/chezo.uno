@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2009-12-13 13:57:27-08:00'
+date: 2009-12-13 13:57:27-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-12-13 13:57:27-08:00'
+lastmod: 2009-12-13 13:57:27-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [あたたかい, 難しい, 留学生, 特集, ピーク, 発音, 曇
 recommendations: [/post/2006-07-28-xia-nanode/, /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/,
   /post/2009-08-12-rui-yan-si/]
 ---
+
 
 前回のしし座流星群の時には逃してしまったので、今回こそはきちんと押さえておこうと思います。[  
 AstroArts:【特集】2009年 ふたご座流星群](http://www.astroarts.co.jp/special/geminids2009/index-j.shtml).

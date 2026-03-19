@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2014-08-29 15:07:00-07:00'
+date: 2014-08-29 15:07:00-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-08-29 15:07:00-07:00'
+lastmod: 2014-08-29 15:07:00-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [機械学習, 活用, 素人, データ, ポイント, 業務, 比戸
 recommendations: [/post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/,
   /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/, /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/]
 ---
+
 
 先週火曜日に [Machine Learning Casual Talks #2](http://mlct.connpass.com/event/8036/) を開催しました。  
 発表は、グノシー関さん、PFI比戸さん([@sla](https://twitter.com/sla))、[@motivic\_](https://twitter.com/motivic_)さん、カメリオから柴田さん、[@SamuraiT01](https://twitter.com/SamuraiT01)さんに発表頂きました。  

@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2010-07-20 14:59:15-07:00'
+date: 2010-07-20 14:59:15-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-07-20 14:59:15-07:00'
+lastmod: 2010-07-20 14:59:15-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [生命科学, 講義, 教科書, 教育, 学術, コンテンツ, 著
 recommendations: [/post/2010-07-30-dezitarujiao-ke-shu-jiao-cai-xie-yi-hui-she-li-sinpoziumu-can-jia-simasita/,
   /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/, /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
 ---
+
 
 7/16(金)に東大で開催されたシンポジウム「[教育の未来を拓く電子化教材](http://www.gfk.c.u-tokyo.ac.jp/sympo2010.html)」に行ってきました。  
 個人的にはその前の週の[教育ITソリューションEXPO](http://www.edix-expo.jp/)よりはビジョンベースの話が聞けて楽しかったです(EXPOはシーズベースというか既存製品の皮を教育にしただけの感が強くて……)。が、まだ現場とのギャップは大きいような気がします。  

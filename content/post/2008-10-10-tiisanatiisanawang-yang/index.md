@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-10-10 14:48:52-07:00'
+date: 2008-10-10 14:48:52-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-10-10 14:48:52-07:00'
+lastmod: 2008-10-10 14:48:52-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [一言, 感激, 講談社, 主人公, 小さく, 深い, 納得, 文�
 recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-30-narutaru/,
   /post/2008-10-10-luo-yu-bai-xuan-xia/]
 ---
+
 
 {{< amazon asin="4062083736" title="ちいさなちいさな王様" >}}
 アクセル ハッケ / / 講談社  

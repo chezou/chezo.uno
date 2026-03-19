@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2007-05-28 21:05:00-07:00'
+date: 2007-05-28 21:05:00-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2007-05-28 21:05:00-07:00'
+lastmod: 2007-05-28 21:05:00-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [ipod, ケーブル, 小物, 酷い, fm, pc, よい, 高校時代, 人
 recommendations: [/post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
   /post/2005-03-03-sugoi/, /post/2005-08-06-webkamera/]
 ---
+
 
 高校時代には、良く聞いたものですが……  
 ご冥福をお祈りいたします。  

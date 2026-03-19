@@ -18,6 +18,7 @@ recommendations: [/blog/2019-11-26_how-to-release-python-package-from-github-act
   /blog/2020-03-05_py-operator-development-guide-for-python-users/]
 ---
 
+
 This is what I learned from creating a Python CLI ([digdaglog2sql](https://github.com/chezou/digdaglog2sql)) in a day.
 
 In just 4 steps, you can release a CLI written in Python easily.

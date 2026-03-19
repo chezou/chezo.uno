@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2017-01-19 14:17:07-08:00'
+date: 2017-01-19 14:17:07-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2017-01-19 14:17:07-08:00'
+lastmod: 2017-01-19 14:17:07-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [配列, キーボード, cmd, 英数, 単体, jis, international, key
 recommendations: [/post/2011-11-26-zheng-gui-biao-xian-raiburarire2nojian-dan-nashi-ifang-matome/,
   /post/2016-10-29_homebrew-----iruby---------------6a02e5194ff2/, /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/]
 ---
+
 
 macOS Sierraに上げる前に、Karabinerが動かない問題をなんとかしたいと思っていました。 El capitanでちゃんと検証してから上げないと、色んな人みたいに死ぬなと思って[Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements)に移行できるか検証しました。
 

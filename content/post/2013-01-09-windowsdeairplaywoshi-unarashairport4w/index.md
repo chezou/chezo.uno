@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2013-01-09 03:01:45-08:00'
+date: 2013-01-09 03:01:45-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2013-01-09 03:01:45-08:00'
+lastmod: 2013-01-09 03:01:45-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [airplay, デバイス, 停止, server, google chrome, dac, appletv, �
 recommendations: [/post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/,
   /post/2009-09-25-windows7woyu-yue-sita/, /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/]
 ---
+
 
 シェアウェアでは[AirServer](http://www.airserverapp.com/)とかもあるけど、ServerがWindowsで良いのならSharport4wがおすすめ。
 

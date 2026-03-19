@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2009-05-10 05:05:54-07:00'
+date: 2009-05-10 05:05:54-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-05-10 05:05:54-07:00'
+lastmod: 2009-05-10 05:05:54-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [アドレス帳, iphone, 幸せ, 下記, '100', 移行, よかっ, �
 recommendations: [/post/2009-05-07-sayonarawillcom-sayonaraad-es/, /post/2009-05-18-iphonetono1zhou-jian/,
   /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/]
 ---
+
 
 - 
   - 090510 2145追記--

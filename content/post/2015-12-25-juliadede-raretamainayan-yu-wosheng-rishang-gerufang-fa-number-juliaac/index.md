@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2015-12-24 16:00:00-08:00'
+date: 2015-12-24 16:00:00-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-12-24 16:00:00-08:00'
+lastmod: 2015-12-24 16:00:00-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [julia, 言語, 開催, 情報, エヴァンジェリスト, advent, j
 recommendations: [/post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/,
   /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/, /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/]
 ---
+
 
 この記事は[Julia Advent Calender 2015](http://qiita.com/advent-calendar/2015/julialang)の最終日です。
 

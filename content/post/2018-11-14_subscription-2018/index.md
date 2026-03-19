@@ -1,13 +1,14 @@
 ---
 authors: [aki]
 categories: []
-date: '2018-11-13 20:11:53-08:00'
+date: 2018-11-13 20:11:53-08:00
 description: 以前、 V. の人が書いていた気がするのだけど、 wozozoに聞かれたのでメモがてら書いていく。
 title: 加入しているサブスクリプションサービス 2018
 keywords: [契約, 必須, サービス, 移行, 解約, 英会話, キャンペーン, youtube, 良い, 子供]
 recommendations: [/post/2009-05-02-hazimemasite-wordpress/, /post/2017-01-25-mata-tunian-wototuta/,
   /post/2005-08-06-webkamera/]
 ---
+
 
 以前、 [V.](https://medium.com/u/f0ab18163247) の人が書いていた気がするのだけど、 wozozoに聞かれたのでメモがてら書いていく。
 

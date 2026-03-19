@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2011-03-03 14:00:49-08:00'
+date: 2011-03-03 14:00:49-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2011-03-03 14:00:49-08:00'
+lastmod: 2011-03-03 14:00:49-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglemat
   /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
   /post/2025-08-24-pages-cms/]
 ---
+
 
 ## 何を作ったか？
 @acappella\_eventがつぶやいているアカペラ/合唱カレンダーを見やすくはっつけるサイトがほしかったんです。  

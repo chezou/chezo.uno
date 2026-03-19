@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2013-08-25 15:05:14-07:00'
+date: 2013-08-25 15:05:14-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2013-08-25 15:05:14-07:00'
+lastmod: 2013-08-25 15:05:14-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [ll, 勉強会, アンチパターン, セッション, トラック, 
 recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
   /post/2014-12-31-2014nian-wozhen-rifan-tute/]
 ---
+
 
 年に一度の軽量言語のイベント、LLまつりに行ってきました。
 

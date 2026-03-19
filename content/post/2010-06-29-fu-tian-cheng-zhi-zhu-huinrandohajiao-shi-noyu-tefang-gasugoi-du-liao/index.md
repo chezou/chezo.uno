@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2010-06-29 14:59:04-07:00'
+date: 2010-06-29 14:59:04-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-06-29 14:59:04-07:00'
+lastmod: 2010-06-29 14:59:04-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2010-07-05-yi-gu-gang-yan-shan-kou-er-lang-ge-chai-she-h
   /post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/,
   /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/]
 ---
+
 
 {{< amazon asin="4750509035" title="フィンランドは教師の育て方がすごい" >}}
 

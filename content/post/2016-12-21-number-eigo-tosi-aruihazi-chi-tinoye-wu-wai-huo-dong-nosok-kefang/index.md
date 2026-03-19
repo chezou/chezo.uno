@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2016-12-21 05:00:00-08:00'
+date: 2016-12-21 05:00:00-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2016-12-21 05:00:00-08:00'
+lastmod: 2016-12-21 05:00:00-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [英会話, dmm, モニタ, chromecast, 英語, 継続, こと, ルン
 recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2023-12-30-2023-year-in-review/,
   /post/2017-12-31_2017--------c4901627b12d/]
 ---
+
 
 こんにちは、温泉行きたいです。この記事は、[pyspaアドベントカレンダー2016](http://www.adventar.org/calendars/1435)の21日目です。1日前は、[渋川さん](http://blog.shibu.jp/article/178099358.html)の保険の話でした。
 

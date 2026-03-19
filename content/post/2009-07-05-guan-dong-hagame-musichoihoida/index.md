@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2009-07-05 14:54:45-07:00'
+date: 2009-07-05 14:54:45-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-07-05 14:54:45-07:00'
+lastmod: 2009-07-05 14:54:45-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [fcb, 演奏, 今年, 神奈川県, かけ声, ff, 9th, 関東, クロ
 recommendations: [/post/2008-11-08-liang-ishi-dai-ninatutanee/, /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/,
   /post/2010-09-11-press-start-2010xing-tutekita/]
 ---
+
 
 [Press Start](http://fami-web.jp/pressstart/)が今年もやってまいりました。今年こそはチケットを購入したので、万全の体制で臨みたいと思います。
 

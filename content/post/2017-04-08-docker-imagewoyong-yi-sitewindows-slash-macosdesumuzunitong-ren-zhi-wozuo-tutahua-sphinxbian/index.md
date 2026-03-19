@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2017-04-08 09:47:29-07:00'
+date: 2017-04-08 09:47:29-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2017-04-08 09:47:29-07:00'
+lastmod: 2017-04-08 09:47:29-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-do
   /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/,
   /post/2019-03-29_ngekkan-lambda-note-article/]
 ---
+
 
 こんにちは、ハイラルに移住したchezouです。最近は、Rから始まりRで終わる言語をよく書いています。
 

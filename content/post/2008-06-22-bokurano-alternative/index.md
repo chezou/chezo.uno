@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-06-22 14:44:25-07:00'
+date: 2008-06-22 14:44:25-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-06-22 14:44:25-07:00'
+lastmod: 2008-06-22 14:44:25-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [作品, 漫画版, 最終回, 取り扱い, 対談, ぼくらの, 最
 recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-30-narutaru/,
   /post/2008-08-26-akihabara-at-deep/]
 ---
+
 
 {{< amazon asin="4094510753" title="ぼくらの ~alternative~ 5 (ガガガ文庫 お 1-5)" >}}
 大樹 連司 / / 小学館  

@@ -1,13 +1,14 @@
 ---
 authors: [aki]
 categories: [ruby]
-date: '2016-10-28 21:50:25-07:00'
+date: 2016-10-28 21:50:25-07:00
 description: 'kawasaki.rb #041 で得た知見です。'
 title: homebrewを移動してiRubyが壊れたときに見直すポイント
 keywords: [jupyter, iruby, ruby, ipython, 以下, register, kernel, force, 手順, usr]
 recommendations: [/post/2015-06-06-pip-install-kyteadekiruyouninarimasita/, /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/,
   /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/]
 ---
+
 
 kawasaki.rb #041 で得た知見です。
 

@@ -16,6 +16,7 @@ recommendations: [/post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-
   /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
   /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/]
 ---
+
 データリネージとは、DBなどでどのデータがどこから来てどこに行った、という「来歴」とも呼ばれる情報です。
 
 自分がこの言葉を知ったのは、前職でCloudera Navigatorという製品を扱ったときにこの機能が実装されていることを知りました。

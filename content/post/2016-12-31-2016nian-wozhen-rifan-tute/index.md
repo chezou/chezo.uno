@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2016-12-31 08:11:50-08:00'
+date: 2016-12-31 08:11:50-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2016-12-31 08:11:50-08:00'
+lastmod: 2016-12-31 08:11:50-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [転職, コード, tabula, こと, 今年, もう少し, rebuild, 激
 recommendations: [/post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/,
   /post/2017-12-31_2017--------c4901627b12d/, /post/2014-12-31-2014nian-wozhen-rifan-tute/]
 ---
+
 
 ブルガリアンスクワットをして筋肉痛でプルプルしています。大晦日も元旦もほぼDMM英会話の予定しかありません。
 

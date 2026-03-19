@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2015-10-19 01:06:18-07:00'
+date: 2015-10-19 01:06:18-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-10-19 01:06:18-07:00'
+lastmod: 2015-10-19 01:06:18-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [ドライバー, 液晶, ガラス, jpg, nexus, フィルム, 修理,
 recommendations: [/post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/, /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/,
   /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/]
 ---
+
 
 ![](20151018110109.jpg)
 

@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2014-06-21 15:06:49-07:00'
+date: 2014-06-21 15:06:49-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-06-21 15:06:49-07:00'
+lastmod: 2014-06-21 15:06:49-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekaru
   /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/,
   /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/]
 ---
+
 
 [Julia vs Python: ビットコインオプションのモンテカルロシミュレーション](https://chezo.uno/post/2014-05-07-julia-vs-python-bitcoin-option)に引き続き、[100 numpy exercises](http://www.loria.fr/~rougier/teaching/numpy.100/)という、面白いnumpyの練習問題があったのでそれのJulia版を作成しました。  
 実際には46個しかないのと、numpyの便利関数がなくて挫折したものとかいくつかありますが、pythonistaな方々はオリジナルと比較してJuliaの世界に来ていただければ楽しいのではないかと思います。

@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2009-10-26 14:56:26-07:00'
+date: 2009-10-26 14:56:26-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-10-26 14:56:26-07:00'
+lastmod: 2009-10-26 14:56:26-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [ipod, 用途, マイク, iphone, 高性能, wav, khz, '44', 機種, �
 recommendations: [/post/2020-04-03-microphone-for-remote-meeting/, /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
   /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/]
 ---
+
 
 [ボイスレコーダー iPod用高性能ステレオマイク - LIC-iREC03P - ロジテック](http://www.logitec.co.jp/products/recadpt/licirec03/index.html)
 

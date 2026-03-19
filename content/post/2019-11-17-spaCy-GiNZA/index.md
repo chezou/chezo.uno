@@ -1,7 +1,7 @@
 ---
 authors: [aki]
-date: '2019-11-16 07:24:00-08:00'
-lastmod: '2019-11-26 09:31:00-08:00'
+date: 2019-11-16 07:24:00-08:00
+lastmod: 2019-11-26 09:31:00-08:00
 summary: spaCyは使いやすいインターフェースが入門者にもとてもよさそう
 tags: [Engineering, NLP]
 title: spaCyとGiNZAでマストドンのトレンドワード抽出をしてみた
@@ -10,6 +10,7 @@ recommendations: [/post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatr
   /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/,
   /post/2015-11-23-sympytojupyter-notebookdeshu-shi-nomemowoqu-rou/]
 ---
+
 
 ![](https://images.unsplash.com/photo-1531730194970-f4d4bfd6475d?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

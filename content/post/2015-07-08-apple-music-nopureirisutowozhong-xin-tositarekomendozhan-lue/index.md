@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2015-07-08 15:52:00-07:00'
+date: 2015-07-08 15:52:00-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-07-08 15:52:00-07:00'
+lastmod: 2015-07-08 15:52:00-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [プレイリスト, アーティスト, apple music, レコメンド,
 recommendations: [/post/2015-10-27-netutohuritukusunoshi-dai-nihakontentunoshan-nimai-morenasasenaitamenohintogajie-matuteita/,
   /post/2008-08-01-ono-lisa-best-2002-2006/, /post/2009-05-12-konnitiha-iphone/]
 ---
+
 
 膨大な音楽というコンテンツの海に放り出された時に、人は何をするだろうか。
 

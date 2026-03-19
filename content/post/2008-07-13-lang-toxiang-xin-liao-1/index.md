@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-07-13 14:50:28-07:00'
+date: 2008-07-13 14:50:28-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-07-13 14:50:28-07:00'
+lastmod: 2008-07-13 14:50:28-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [漢字, 文章, 作品, フリガナ, 手順, 刺激, ライト, 続�
 recommendations: [/post/2008-09-06-feng-gaqiang-kuchui-iteiru/, /post/2008-07-30-narutaru/,
   /post/2008-08-26-akihabara-at-deep/]
 ---
+
 
 {{< amazon asin="4840233020" title="狼と香辛料 (電撃文庫)" >}}
 支倉 凍砂 / / メディアワークス  

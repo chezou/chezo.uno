@@ -16,6 +16,7 @@ recommendations: [/post/2009-05-07-sayonarawillcom-sayonaraad-es/, /post/2009-06
   /post/2009-05-04-ad-es-wojie-yue-surutameni/]
 ---
 
+
 ## tl;dr
 
 海外で楽天モバイル回線を使用したままiPhoneを機種変更すると、100円×N回の国際SMS料金が請求されるようになりました。

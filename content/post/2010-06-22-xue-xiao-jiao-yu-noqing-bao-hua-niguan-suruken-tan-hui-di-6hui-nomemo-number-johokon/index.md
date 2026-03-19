@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2010-06-22 04:06:47-07:00'
+date: 2010-06-22 04:06:47-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-06-22 04:06:47-07:00'
+lastmod: 2010-06-22 04:06:47-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruke
   /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/,
   /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/]
 ---
+
 
 本日6/22に開催された[「学校教育の情報化に関する懇談会」第6回](http://www.mext.go.jp/b_menu/houdou/22/06/1294749.htm)の聞きながら書いたメモです。きっとそのうち[公式](http://www.mext.go.jp/a_menu/shotou/zyouhou/1292783.htm)に動画が上がると思いますので、きちんとしたものはそちらを参照ください。  
 それまでのつなぎとしての個人的なメモです。間違いや聞き漏らしもあるかもしれないので、ご了承ください。

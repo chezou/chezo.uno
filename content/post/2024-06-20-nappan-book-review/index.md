@@ -16,6 +16,7 @@ recommendations: [/post/2022-01-09-vancouver-engineer-podcast/, /post/2018-06-19
   /post/2016-03-30-zhuan-zhi-simasita/]
 ---
 
+
 @nappan23 さんの「海外生活経験ゼロからカナダでソフトウェアエンジニアになった話〜英語勉強＆就活対策〜」を読みました。
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://techbookfest.org/product/5keNij6GAFVNvZyNwUJQ72?productVariantID=bRRRzGuf8wc7HrTqnpLc1s&card=small" data-iframely-url="//iframely.net/iyP3Wvo?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script>

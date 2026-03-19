@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2011-12-25 04:12:03-08:00'
+date: 2011-12-25 04:12:03-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2011-12-25 04:12:03-08:00'
+lastmod: 2011-12-25 04:12:03-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-sla
   /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/,
   /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/]
 ---
+
 
 結構良い仕事をしている、合唱楽譜販売店[パナムジカ](http://www.panamusica.co.jp/)の[新刊案内](http://www.panamusica.co.jp/ja/new/index.html)ですが、その良質なコンテンツとは裏腹に中々Webに情報が流れていないのが玉に瑕だったりします。
 

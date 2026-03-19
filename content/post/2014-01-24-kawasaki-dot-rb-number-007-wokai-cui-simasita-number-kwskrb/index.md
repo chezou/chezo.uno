@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: [ruby]
-date: '2014-01-24 14:05:53-08:00'
+date: 2014-01-24 14:05:53-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-01-24 14:05:53-08:00'
+lastmod: 2014-01-24 14:05:53-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [category, create, text, train, line, tagger, self, segment, file, def
 recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/,
   /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/, /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/]
 ---
+
 
 2013/12/18にkawasaki.rbの第7回を開催しました。  
 この会から、(同じミューザ川崎内ですが)NTT-ATさんに会場をお借りするようになりました。

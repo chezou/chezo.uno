@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2014-02-23 14:06:04-08:00'
+date: 2014-02-23 14:06:04-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-02-23 14:06:04-08:00'
+lastmod: 2014-02-23 14:06:04-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisut
   /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/,
   /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/]
 ---
+
 
 先日開催された[第12回「はじめてのパターン認識」読書会](http://connpass.com/event/5157/)に[@yamakatu](https://twitter.com/yamakatu)さんに誘われるままに参加してきました。
 

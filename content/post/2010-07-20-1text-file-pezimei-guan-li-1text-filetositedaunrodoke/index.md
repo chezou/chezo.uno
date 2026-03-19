@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2010-07-20 14:59:18-07:00'
+date: 2010-07-20 14:59:18-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-07-20 14:59:18-07:00'
+lastmod: 2010-07-20 14:59:18-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [先生, 教育, 教材, 電子化, 著作権, 大学, 教科書, コ�
 recommendations: [/post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/,
   /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/, /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/]
 ---
+
 
 ・著作権管理システム  
 ・公開系システム
