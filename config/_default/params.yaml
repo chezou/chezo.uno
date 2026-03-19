@@ -230,7 +230,7 @@ hugoblox:
   repository:
     enable: true
     url: "https://github.com/chezou/chezo.uno"
-    branch: master
+    branch: main
     content_dir: content
 
   # ────────────────────────────────────────────────────────────────────────────
