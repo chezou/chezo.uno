@@ -2,7 +2,7 @@
 title: AI時代のPrincipal Engineer
 subtitle: AIの遺電子の時代が早く来てほしい
 summary: ''
-date: 2025-12-09 22:30:00+00:00
+date: 2025-12-09 22:30:00-08:00
 lastmod: ''
 tags: [Staff Engineering, leadership, engineering, career]
 draft: false

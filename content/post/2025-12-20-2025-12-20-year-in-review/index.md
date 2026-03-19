@@ -1,6 +1,6 @@
 ---
 title: 2025年を振り返って
-date: 2025-12-20 21:30:00+00:00
+date: 2025-12-20 21:30:00-08:00
 draft: false
 featured: false
 image: {preview_only: false, filename: featured.jpg, focul_point: Smart}
