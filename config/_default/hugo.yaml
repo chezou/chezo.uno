@@ -42,7 +42,6 @@ ignoreFiles:
   - _cache$
 disableAliases: false
 timeout: 600000
-summaryLength: 40
 outputs:
   home:
     - HTML
