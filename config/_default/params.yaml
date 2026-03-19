@@ -239,7 +239,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   locale:
     date_format: "2006-01-02"
-    time_format: "15:04"
+    time_format: "15:04:05-07:00"
     address_format: en-us
 
   # ────────────────────────────────────────────────────────────────────────────
@@ -287,4 +287,4 @@ hugoblox:
     # Join affiliate program: https://hugoblox.com/affiliates
     affiliate_code: ""
 
-amazonJpAffliate: chezou-22
+amazonJpAffiliate: chezou-22

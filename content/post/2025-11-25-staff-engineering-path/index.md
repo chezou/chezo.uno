@@ -1,6 +1,6 @@
 ---
 title: Principal Engineerが読む「スタッフエンジニアの道」
-date: 2025-11-25 22:32:00+00:00
+date: 2025-11-25 22:32:00-08:00
 draft: false
 featured: false
 image: {preview_only: false}
