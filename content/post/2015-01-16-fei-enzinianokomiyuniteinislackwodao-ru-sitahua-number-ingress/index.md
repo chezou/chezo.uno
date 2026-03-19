@@ -1,21 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2015-01-15 17:10:49-08:00'
+date: 2015-01-15 17:10:49-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-01-15 17:10:49-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2015-01-15 17:10:49-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
-title: '非エンジニアのコミュニティにSlackを導入した話 #ingress'
-keywords: [slack, hangout, ingress, チャット, コミュニティ, チャンネル, ため, アプリ, 参加, こと]
-recommendations: [/post/2014-12-15-number-ingress-dehurutaimunopuroezientotochu-hui-tutahua/,
-  /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
-  /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/]
+title: "非エンジニアのコミュニティにSlackを導入した話 #ingress"
+keywords:
+  - slack
+  - hangout
+  - ingress
+  - チャット
+  - コミュニティ
+  - チャンネル
+  - ため
+  - アプリ
+  - 参加
+  - こと
+recommendations:
+  - /post/2014-12-15-number-ingress-dehurutaimunopuroezientotochu-hui-tutahua/
+  - /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/
+  - /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/
 ---
+
 
 普通の人達[^1] の集まりである、Ingressの地域コミュニティでSlackを導入してそろそろ3ヶ月になったので、知見を書こうと思います。
 

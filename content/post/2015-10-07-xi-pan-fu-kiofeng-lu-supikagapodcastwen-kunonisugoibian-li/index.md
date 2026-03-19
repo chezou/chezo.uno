@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2015-10-07 16:47:53-07:00'
+date: 2015-10-07 16:47:53-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-10-07 16:47:53-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2015-10-07 16:47:53-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: 吸盤付きお風呂スピーカーがPodcast聞くのにすごい便利
-keywords: [スピーカー, patech, 風呂, bluetooth, ラジオ, 安定, 商品, 無茶, 吸盤, 冷蔵庫]
-recommendations: [/post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
-  /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/, /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/]
+keywords:
+  - スピーカー
+  - patech
+  - 風呂
+  - bluetooth
+  - ラジオ
+  - 安定
+  - 商品
+  - 無茶
+  - 吸盤
+  - 冷蔵庫
+recommendations:
+  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
+  - /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/
+  - /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/
 ---
+
 
 前々からBluetoothのお風呂ラジオをほしいなーと思っていたのですが、昔に比べるとかなり安くなっていたので買いました。
 

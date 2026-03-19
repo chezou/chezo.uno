@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2008-10-28 14:51:21-07:00'
+date: 2008-10-28 14:51:21-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-10-28 14:51:21-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2008-10-28 14:51:21-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: SINGS 2008 with Steve Dobrogosz
-keywords: [ピアノ, dobrogosz, 明るく, sings, 言葉, 演奏会, 会場, 演奏, 荒い, 素晴らしかっ]
-recommendations: [/post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/,
-  /post/2008-10-28-mai-tutesimatuta/]
+keywords:
+  - ピアノ
+  - dobrogosz
+  - 明るく
+  - sings
+  - 言葉
+  - 演奏会
+  - 会場
+  - 演奏
+  - 荒い
+  - 素晴らしかっ
+recommendations:
+  - /post/2012-09-25-singstodobrogoszgazai-bigong-yan/
+  - /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/
+  - /post/2008-10-28-mai-tutesimatuta/
 ---
+
 
 少し遅くなりましたが、[SINGS 2008 with Steve Dobrogosz](http://music.geocities.jp/ensemble_sings/concert.html)に行ってきました。  
 結論から言うと、とても素晴らしかったです。すべてのステージが、Dobrogoszを愛してやまないんだということがひしひしと伝わってきました。たまに、(女声に)プロが混じっているんじゃないかという場面もあったのですが、どちらかというとそれは曲に浸りすぎてしまいたがが外れたという感じでした。全体的に明るく軽やかな声で日本独特の重さ、しつこさといった要素が徹底的に排除されていました。だからこそ、Dobrogoszの曲にマッチしていたんだとも思いました。  

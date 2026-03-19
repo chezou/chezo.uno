@@ -1,14 +1,30 @@
 ---
-aliases: [/post/2018-10-19_Treasure-Data-Plazma-tech-talk-3c901d92e973/]
-authors: [aki]
-categories: [life]
-date: '2018-10-18 09:12:26-07:00'
+aliases:
+  - /post/2018-10-19_Treasure-Data-Plazma-tech-talk-3c901d92e973/
+authors:
+  - aki
+categories:
+  - life
+date: 2018-10-18 09:12:26-07:00
 description: 気づけば入社して2ヶ月ほど経ってしまいましたが、Treasure Dataに入ったと思ったらArmに入社していました。
 title: Treasure Dataに入りました&Plazma tech talkで話しました
-keywords: [入社, td, ml, 開発中, operator, エッジ, iot, hivemall, arm, 広がり]
-recommendations: [/post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/,
-  /post/2016-03-30-zhuan-zhi-simasita/, /post/2017-01-25-mata-tunian-wototuta/]
+keywords:
+  - 入社
+  - td
+  - ml
+  - 開発中
+  - operator
+  - エッジ
+  - iot
+  - hivemall
+  - arm
+  - 広がり
+recommendations:
+  - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
+  - /post/2016-03-30-zhuan-zhi-simasita/
+  - /post/2017-01-25-mata-tunian-wototuta/
 ---
+
 
 気づけば入社して2ヶ月ほど経ってしまいましたが、Treasure Dataに入ったと思ったらArmに入社していました。
 

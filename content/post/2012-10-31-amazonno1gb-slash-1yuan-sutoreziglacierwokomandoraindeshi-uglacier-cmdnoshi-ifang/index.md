@@ -1,21 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2012-10-31 05:10:45-07:00'
+date: 2012-10-31 05:10:45-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2012-10-31 05:10:45-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2012-10-31 05:10:45-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: Amazonの1GB/1円ストレージGlacierをコマンドラインで使うglacier-cmdの使い方
-keywords: [cmd, aws, upload, 利用, test, アーカイブ, domain, データ, コマンド, download]
-recommendations: [/post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/,
-  /post/2015-11-22-idcfkuraudono500yuan-sabadepodcast-serverwohazimete8keyue-gajing-timasita/,
-  /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/]
+keywords:
+  - cmd
+  - aws
+  - upload
+  - 利用
+  - test
+  - アーカイブ
+  - domain
+  - データ
+  - コマンド
+  - download
+recommendations:
+  - /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/
+  - /post/2015-11-22-idcfkuraudono500yuan-sabadepodcast-serverwohazimete8keyue-gajing-timasita/
+  - /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/
 ---
+
 
 大分前に発表されました、Amazonの[1GB/1円でデータを保管できるGlacier](http://aws.typepad.com/aws_japan/2012/08/amazon-glacier-archival-storage-for-one-penny-per-gb-per-month.html)というサービスをLinuxサーバから使用したいと思い、Javaでわざわざ書くのも面倒だと思い色々探していたところ、glacier-cmdというツールが良い感じだったのでご紹介します。
 

@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2016-09-11 15:19:54-07:00'
+date: 2016-09-11 15:19:54-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2016-09-11 15:19:54-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2016-09-11 15:19:54-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: PDFの表をpandasのDataFrameにできる tabula-py 作った
-keywords: [tabula, pdf, py, java, rubykaigi, 実装, table, read, pip, python]
-recommendations: [/post/2022-05-05-sqllineage-with-digdag-log/, /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/,
-  /post/2015-08-30-number-tqrk09-de-accept-lt-sitehazimeteno-gem-woraiburirisunishi-bai-simasita/]
+keywords:
+  - tabula
+  - pdf
+  - py
+  - java
+  - rubykaigi
+  - 実装
+  - table
+  - read
+  - pip
+  - python
+recommendations:
+  - /post/2022-05-05-sqllineage-with-digdag-log/
+  - /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/
+  - /post/2015-08-30-number-tqrk09-de-accept-lt-sitehazimeteno-gem-woraiburirisunishi-bai-simasita/
 ---
+
 
 RubyKaigiに参加するとコード書きたいという気持ちが高まって良いのですが、今回はPDFの表を読み込んで pandas の DataFrame に変換できる [tabula-py](https://github.com/chezou/tabula-py)を作りました。 これをもってRubyKaigiの参加報告とさせていただければと思います。
 

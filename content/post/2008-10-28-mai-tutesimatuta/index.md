@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2008-10-28 14:52:46-07:00'
+date: 2008-10-28 14:52:46-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-10-28 14:52:46-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2008-10-28 14:52:46-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: 買ってしまった
-keywords: [hd, hfi, '650', '700', '555', 環境, ライブハウス, マランツ, プラネテス, ジャズ]
-recommendations: [/post/2008-09-14-hetudohonwu-se-sitahi/, /post/2008-10-05-hd53r-ver-dot-8wogou-ru/,
-  /post/2005-07-17-urayamasika/]
+keywords:
+  - hd
+  - hfi
+  - "650"
+  - "700"
+  - "555"
+  - 環境
+  - ライブハウス
+  - マランツ
+  - プラネテス
+  - ジャズ
+recommendations:
+  - /post/2008-09-14-hetudohonwu-se-sitahi/
+  - /post/2008-10-05-hd53r-ver-dot-8wogou-ru/
+  - /post/2005-07-17-urayamasika/
 ---
+
 
 {{< amazon asin="B000WM8KPI" title="マランツ シルバー SA-15S1S" >}}
  / マランツ・スーパースコープ  

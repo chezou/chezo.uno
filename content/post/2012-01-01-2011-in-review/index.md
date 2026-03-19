@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2011-12-31 18:01:47-08:00'
+date: 2011-12-31 18:01:47-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2011-12-31 18:01:47-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2011-12-31 18:01:47-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: 2011 in review
-keywords: [統計, レポート, ブログ, '2011', コンサートホール, 概要, コンサート, wordpress, 年間, 去年]
-recommendations: [/post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/, /post/2023-12-30-2023-year-in-review/,
-  /post/2016-12-31-2016nian-wozhen-rifan-tute/]
+keywords:
+  - 統計
+  - レポート
+  - ブログ
+  - "2011"
+  - コンサートホール
+  - 概要
+  - コンサート
+  - wordpress
+  - 年間
+  - 去年
+recommendations:
+  - /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/
+  - /post/2023-12-30-2023-year-in-review/
+  - /post/2016-12-31-2016nian-wozhen-rifan-tute/
 ---
+
 
 あけましておめでとうございます。  
 去年のブログの統計を出してくれるんですね。

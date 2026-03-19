@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2008-10-29 14:51:16-07:00'
+date: 2008-10-29 14:51:16-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-10-29 14:51:16-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2008-10-29 14:51:16-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: 何故かiTunes storeで買ったm4pが音が出ない
-keywords: [ファイル, 公演, プチヲタ, アカペラグループ, 名古屋, 日程, 日本語, '27', マシン, '11']
-recommendations: [/post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/,
-  /post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/, /post/2009-03-09-masafestanirajatonga/]
+keywords:
+  - ファイル
+  - 公演
+  - プチヲタ
+  - アカペラグループ
+  - 名古屋
+  - 日程
+  - 日本語
+  - "27"
+  - マシン
+  - "11"
+recommendations:
+  - /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/
+  - /post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/
+  - /post/2009-03-09-masafestanirajatonga/
 ---
+
 
 そうなのだ。しかも、その症状が出たファイルは、前のマシンでバックアップして新しいマシンに復元した日本語のファイルばかり。ファイルも日本語の部分だけ文字化けしていて(日本語がアンダーバーになっていた)、QuickTimeでは再生できるというなぞっぷり。  
 仕方がないので、問題のファイルをライブラリからいったん消して、m4pのファイルをもう一度追加したら大丈夫になった。iPodに入っていたファイルも、無音が曲の長さ分発生していたので、気持ち悪かったが……。よかった。  

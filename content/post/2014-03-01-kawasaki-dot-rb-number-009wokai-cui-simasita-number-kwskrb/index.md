@@ -1,20 +1,38 @@
 ---
-authors: [aki]
-categories: [ruby]
-date: '2014-03-01 04:03:51-08:00'
+authors:
+  - aki
+categories:
+  - ruby
+date: 2014-03-01 04:03:51-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-03-01 04:03:51-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2014-03-01 04:03:51-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
-title: 'kawasaki.rb #009を開催しました #kwskrb'
-keywords: [pandas, foo, hash, ランキング, org, range, obj, aflc, rb, jp]
-recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/,
-  /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/, /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/]
+title: "kawasaki.rb #009を開催しました #kwskrb"
+keywords:
+  - pandas
+  - foo
+  - hash
+  - ランキング
+  - org
+  - range
+  - obj
+  - aflc
+  - rb
+  - jp
+recommendations:
+  - /post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/
+  - /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/
+  - /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/
 ---
+
 
 去る2/26(水)に[kawasaki.rb #009](http://kawasakirb.doorkeeper.jp/events/8859)を開催しました。
 

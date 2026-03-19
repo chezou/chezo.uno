@@ -1,20 +1,38 @@
 ---
 title: Wowchemyをv5.5.0からv5.7.0に上げた
 subtitle: そしてAlgoliaを諦めた
-summary: ''
-authors: [aki]
-tags: [hugo]
+summary: ""
+authors:
+  - aki
+tags:
+  - hugo
 categories: []
 date: 2022-12-16 17:23:22-08:00
 lastmod: 2022-12-16 17:23:22-08:00
 featured: false
 draft: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 projects: []
-keywords: [検索, yaml, 変更, wowchemy, hugo, config, 設定, 構造, アドベントカレンダー, バージョン]
-recommendations: [/post/2025-08-24-pages-cms/, /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/,
-  /post/2014-12-31-2014nian-wozhen-rifan-tute/]
+keywords:
+  - 検索
+  - yaml
+  - 変更
+  - wowchemy
+  - hugo
+  - config
+  - 設定
+  - 構造
+  - アドベントカレンダー
+  - バージョン
+recommendations:
+  - /post/2025-08-24-pages-cms/
+  - /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/
+  - /post/2014-12-31-2014nian-wozhen-rifan-tute/
 ---
+
 
 毎年アドベントカレンダーの時期にHugoのテーマであるWowchemy (旧 Academic) のバージョンを上げています。
 

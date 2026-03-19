@@ -1,19 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2012-10-04 02:10:52-07:00'
+date: 2012-10-04 02:10:52-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2012-10-04 02:10:52-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2012-10-04 02:10:52-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: Finlandの伝統的な楽器カンテレをモダンに演奏するIda Elina
-keywords: [ida, elina, 札幌, finland, フィンランド, 演奏, 留学, 暖かく, 押尾コータロー, カンテレ]
-recommendations: [/post/2008-07-05-rajaton/, /post/2008-07-10-ris-a-la-malta/, /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/]
+keywords:
+  - ida
+  - elina
+  - 札幌
+  - finland
+  - フィンランド
+  - 演奏
+  - 留学
+  - 暖かく
+  - 押尾コータロー
+  - カンテレ
+recommendations:
+  - /post/2008-07-05-rajaton/
+  - /post/2008-07-10-ris-a-la-malta/
+  - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
 ---
+
 
 Finland大使館の後援の元行われた、モダンカンテレ奏者Ida Elinaのライブ。
 

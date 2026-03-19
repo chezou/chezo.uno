@@ -1,14 +1,29 @@
 ---
-authors: [aki]
-categories: [散財]
-date: '2019-03-09 16:01:03-08:00'
+authors:
+  - aki
+categories:
+  - 散財
+date: 2019-03-09 16:01:03-08:00
 description: ちょくちょく人に海外に行くときに持って行った方が良いものを聞かれるので、メモがてら書いておきたいと思います。首や肩を痛めてから、色々と試行錯誤をしているのですが、ある程度形になってきたかなと思うので愛用品を紹介したいと思います。
-lastmod: '2019-03-09 16:01:03-08:00'
+lastmod: 2019-03-09 16:01:03-08:00
 title: 首や肩に優しい海外出張に便利な道具達
-keywords: [ケーブル, amzn, 通販, usb-c, bluetooth, ブラック, ケース, サイズ, 便利, スタンド]
-recommendations: [/post/2017-12-30_2017------------bbf834e065c5/, /post/2019-11-26-pillow/,
-  /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/]
+keywords:
+  - ケーブル
+  - amzn
+  - 通販
+  - usb-c
+  - bluetooth
+  - ブラック
+  - ケース
+  - サイズ
+  - 便利
+  - スタンド
+recommendations:
+  - /post/2017-12-30_2017------------bbf834e065c5/
+  - /post/2019-11-26-pillow/
+  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
 ---
+
 
 ちょくちょく人に海外に行くときに持って行った方が良いものを聞かれるので、メモがてら書いておきたいと思います。首や肩を痛めてから、色々と試行錯誤をしているのですが、ある程度形になってきたかなと思うので愛用品を紹介したいと思います。
 

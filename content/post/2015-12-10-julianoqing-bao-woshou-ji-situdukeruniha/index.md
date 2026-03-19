@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2015-12-09 16:00:00-08:00'
+date: 2015-12-09 16:00:00-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-12-09 16:00:00-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2015-12-09 16:00:00-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: Juliaの情報を収集しつづけるには
-keywords: [julia, bicycle, '1885', feed, 情報, reddit, 方々, slack, com, 変化]
-recommendations: [/post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
-  /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/, /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/]
+keywords:
+  - julia
+  - bicycle
+  - "1885"
+  - feed
+  - 情報
+  - reddit
+  - 方々
+  - slack
+  - com
+  - 変化
+recommendations:
+  - /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
+  - /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
+  - /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/
 ---
+
 
 この記事は[Julia Advent Calendar 2015](http://qiita.com/advent-calendar/2015/julialang) の10日目です。 昨日は、bicycle1885さんの[Juliaのユニットテスト - りんごがでている](http://bicycle1885.hatenablog.com/entry/2015/12/09/121347)でした。
 

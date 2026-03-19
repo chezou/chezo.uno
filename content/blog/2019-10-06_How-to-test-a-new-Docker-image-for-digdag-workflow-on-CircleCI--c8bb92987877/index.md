@@ -1,17 +1,31 @@
 ---
-aliases: [/blog/how-to-test-a-new-Docker-image-for-digdag-workflow-on-circleci-c8bb92987877,
-  /blog/c8bb92987877]
-authors: [aki]
+aliases:
+  - /blog/how-to-test-a-new-Docker-image-for-digdag-workflow-on-circleci-c8bb92987877
+  - /blog/c8bb92987877
+authors:
+  - aki
 categories: []
-date: '2019-10-05 13:17:30-07:00'
-description: Testing workflow runnability would be important when we build a complex
-  workflow. digdag is a workflow engine which syntax is simple and…
+date: 2019-10-05 13:17:30-07:00
+description: Testing workflow runnability would be important when we build a
+  complex workflow. digdag is a workflow engine which syntax is simple and…
 title: How to test a new Docker image for digdag workflow on CircleCI?
-keywords: [docker, run, workflow, image, volume, tmp, container, machine, repo, ll]
-recommendations: [/blog/2020-03-05_py-operator-development-guide-for-python-users/,
-  /blog/2017-08-02_how-to-run-cloudera-director-on-your-macos-windows-10-710f82aa1d63/,
-  /blog/2017-03-26_how-to-connect-secure-impala-cluster-from-rstudio-on-macos-with-implyr-213c6536e4c7/]
+keywords:
+  - docker
+  - run
+  - workflow
+  - image
+  - volume
+  - tmp
+  - container
+  - machine
+  - repo
+  - ll
+recommendations:
+  - /blog/2020-03-05_py-operator-development-guide-for-python-users/
+  - /blog/2017-08-02_how-to-run-cloudera-director-on-your-macos-windows-10-710f82aa1d63/
+  - /blog/2017-03-26_how-to-connect-secure-impala-cluster-from-rstudio-on-macos-with-implyr-213c6536e4c7/
 ---
+
 
 {{< figure src="./0__Sj4niOaDd__W4bydD.jpg" title="Photo by [Campaign Creators](https://unsplash.com/@campaign_creators?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)" >}}
 Photo by [Campaign Creators](https://unsplash.com/@campaign_creators?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

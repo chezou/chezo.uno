@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2015-11-23 13:02:07-08:00'
+date: 2015-11-23 13:02:07-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-11-23 13:02:07-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2015-11-23 13:02:07-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: SympyとJupyter notebookで数式のメモを取ろう
-keywords: [packt, 数式, starter, instant, kindle, グラフ, com, メモ, センター試験, アンケート]
-recommendations: [/post/2014-06-21-julia100ben-notuku/, /post/2019-11-17-spacy-ginza/,
-  /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/]
+keywords:
+  - packt
+  - 数式
+  - starter
+  - instant
+  - kindle
+  - グラフ
+  - com
+  - メモ
+  - センター試験
+  - アンケート
+recommendations:
+  - /post/2014-06-21-julia100ben-notuku/
+  - /post/2019-11-17-spacy-ginza/
+  - /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/
 ---
+
 
 [id:meison\_amsl](http://blog.hatena.ne.jp/meison_amsl/) さんによるSympyの紹介がとてもよい感じだったのですが、Sympy Liveわざわざ使わなくてもJupyter notebook使えるのでは！？と思ったので試してみました。[^1] わざわざ、というと語弊があると思いますが、手元でメモ＋αとして管理するのにはJupyter notebookの方がいいかなと思っています。
 

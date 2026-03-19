@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2009-10-27 14:56:37-07:00'
+date: 2009-10-27 14:56:37-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-10-27 14:56:37-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2009-10-27 14:56:37-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: いつのまにか、wptouchが導入されていた
-keywords: [iphone, 対応, appbank, ipod touch, flash, fc, rss, 自動的, wordpress, とき]
-recommendations: [/post/2025-08-24-pages-cms/, /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
-  /post/2009-06-11-iphoneniwang-mukoto/]
+keywords:
+  - iphone
+  - 対応
+  - appbank
+  - ipod touch
+  - flash
+  - fc
+  - rss
+  - 自動的
+  - wordpress
+  - とき
+recommendations:
+  - /post/2025-08-24-pages-cms/
+  - /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
+  - /post/2009-06-11-iphoneniwang-mukoto/
 ---
+
 
 昔探したときはまったく情報がなかったものですが、いつの間にか[Wordpress.comにwptouchが対応](http://ja.blog.wordpress.com/2009/10/22/the-hero-is-in-your-pocket/)していました。って、10/22ってすごい最近だし。
 

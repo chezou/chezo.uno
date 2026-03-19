@@ -2,20 +2,39 @@
 title: sqllineage を使って digdag のログから Treasure Data のクエリのリネージを作ってみた
 subtitle: オープンソースを使って Hive や Trino のクエリからリネージを作ろう
 date: 2022-05-05 19:58:10-07:00
-summary: ''
+summary: ""
 draft: false
 featured: false
-authors: [aki]
+authors:
+  - aki
 lastmod: 2022-05-05 19:58:10-07:00
 tags: []
-categories: [digdag, lineage, sql]
+categories:
+  - digdag
+  - lineage
+  - sql
 projects: []
-image: {caption: sqllineage で Treasure Workflow のリネージを出してみた例, focal_point: '', preview_only: false}
-keywords: [sql, 可視化, td, sqllineage, 実装, digdag, データ, python, レベル, 実行]
-recommendations: [/post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/,
-  /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/,
-  /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/]
+image:
+  caption: sqllineage で Treasure Workflow のリネージを出してみた例
+  focal_point: ""
+  preview_only: false
+keywords:
+  - sql
+  - 可視化
+  - td
+  - sqllineage
+  - 実装
+  - digdag
+  - データ
+  - python
+  - レベル
+  - 実行
+recommendations:
+  - /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/
+  - /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/
+  - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
 ---
+
 データリネージとは、DBなどでどのデータがどこから来てどこに行った、という「来歴」とも呼ばれる情報です。
 
 自分がこの言葉を知ったのは、前職でCloudera Navigatorという製品を扱ったときにこの機能が実装されていることを知りました。

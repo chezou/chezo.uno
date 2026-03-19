@@ -1,22 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2011-03-04 14:00:54-08:00'
+date: 2011-03-04 14:00:54-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2011-03-04 14:00:54-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2011-03-04 14:00:54-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: Googleカレンダーの場所情報をGoogleマップに表示する方法
-keywords: [yahoo!, googleカレンダー, カレンダー, url, 地図, xml, options, google calendar, 情報,
-  マップ]
-recommendations: [/post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/,
-  /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
-  /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/]
+keywords:
+  - yahoo!
+  - googleカレンダー
+  - カレンダー
+  - url
+  - 地図
+  - xml
+  - options
+  - google calendar
+  - 情報
+  - マップ
+recommendations:
+  - /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/
+  - /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
+  - /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/
 ---
+
 
 [アカペラ/合唱イベントカレンダー](https://www.google.com/calendar/b/0/embed?src=YWNhcHBlbGxhLmV2ZW50QGdtYWlsLmNvbQ&gsessionid=OK)に登録していると、ふとイベント情報の開催地を地図上に表示したくなりました。
 

@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2010-02-07 04:02:01-08:00'
+date: 2010-02-07 04:02:01-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-02-07 04:02:01-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2010-02-07 04:02:01-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: 練馬アカペラコンテストに行ってきた
-keywords: [和音, rajaton, 曲名, アレンジ, try, tone, 難しい, オリジナル, アカペラ, 宗教]
-recommendations: [/post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/,
-  /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/, /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/]
+keywords:
+  - 和音
+  - rajaton
+  - 曲名
+  - アレンジ
+  - try
+  - tone
+  - 難しい
+  - オリジナル
+  - アカペラ
+  - 宗教
+recommendations:
+  - /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/
+  - /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/
+  - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
 ---
+
 
 2/6に開催された[練馬区のアカペラコンテスト](http://www.neribun.or.jp/nerima/ichiran.cgi?mode=1&t=1&no=1845)に行ってきました。
 

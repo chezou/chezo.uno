@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2006-03-17 03:03:00-08:00'
+date: 2006-03-17 03:03:00-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2006-03-17 03:03:00-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2006-03-17 03:03:00-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: うひー
-keywords: [ケーブル, lite, hdd, usb, キャスター, 秋葉原, ide, 外付け, バック, '600']
-recommendations: [/post/2005-09-09-notonogai-zao/, /post/2009-05-02-hazimemasite-wordpress/,
-  /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/]
+keywords:
+  - ケーブル
+  - lite
+  - hdd
+  - usb
+  - キャスター
+  - 秋葉原
+  - ide
+  - 外付け
+  - バック
+  - "600"
+recommendations:
+  - /post/2005-09-09-notonogai-zao/
+  - /post/2009-05-02-hazimemasite-wordpress/
+  - /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/
 ---
+
 
 全く持って卒論の筆が進みません。卒論締めは月曜午後5時。  
 間に合うのか俺。  

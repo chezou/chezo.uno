@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2014-06-07 05:06:04-07:00'
+date: 2014-06-07 05:06:04-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-06-07 05:06:04-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2014-06-07 05:06:04-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
-title: 'Machine Learning Casual Talks を開催しました #MLCT'
-keywords: [casual, talks, 機械学習, 立場, mlct, 定義, カジュアル, 発表, テスト自動化, yamakatu]
-recommendations: [/post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/,
-  /post/2020-11-10-mlse-conference/, /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/]
+title: "Machine Learning Casual Talks を開催しました #MLCT"
+keywords:
+  - casual
+  - talks
+  - 機械学習
+  - 立場
+  - mlct
+  - 定義
+  - カジュアル
+  - 発表
+  - テスト自動化
+  - yamakatu
+recommendations:
+  - /post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/
+  - /post/2020-11-10-mlse-conference/
+  - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
 ---
+
 
 昨日6/6(金)に、クックパッドで[Machine Learning Casual Talks](http://connpass.com/event/6275/)を開催しました。  
 はじめてこの規模の勉強会を開催したので、色々とどたばたしてしまいましたが、発表・参加・準備等協力していただいた皆様ありがとうございました！

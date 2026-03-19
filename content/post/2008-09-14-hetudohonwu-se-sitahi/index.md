@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2008-09-14 14:52:57-07:00'
+date: 2008-09-14 14:52:57-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-09-14 14:52:57-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2008-09-14 14:52:57-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: ヘッドホン物色したひ
-keywords: [ヘッドホン, sennheiser, rock, 大須, pop, 視聴, 無線, アンプ, 決定, 欲しく]
-recommendations: [/post/2008-10-28-mai-tutesimatuta/, /post/2005-08-24-hetudohon-hetudohon/,
-  /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/]
+keywords:
+  - ヘッドホン
+  - sennheiser
+  - rock
+  - 大須
+  - pop
+  - 視聴
+  - 無線
+  - アンプ
+  - 決定
+  - 欲しく
+recommendations:
+  - /post/2008-10-28-mai-tutesimatuta/
+  - /post/2005-08-24-hetudohon-hetudohon/
+  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
 ---
+
 
 J-POPやROCKが聞けるヘッドホンが欲しくなってきたので、メモメモ。  
   

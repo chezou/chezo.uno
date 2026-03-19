@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2005-09-18 14:45:41-07:00'
+date: 2005-09-18 14:45:41-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2005-09-18 14:45:41-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2005-09-18 14:45:41-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: 高田三郎行ってきました。
-keywords: [混声, 演奏会, オケ, 男声, コンサートホール, 良かっ, 合唱団, 今日, 合同, 力押し]
-recommendations: [/post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/,
-  /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/, /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/]
+keywords:
+  - 混声
+  - 演奏会
+  - オケ
+  - 男声
+  - コンサートホール
+  - 良かっ
+  - 合唱団
+  - 今日
+  - 合同
+  - 力押し
+recommendations:
+  - /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/
+  - /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/
+  - /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
 ---
+
 
 今日は、某高田三郎の演奏会に行ってきました。  
   

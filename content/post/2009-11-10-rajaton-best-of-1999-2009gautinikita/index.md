@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2009-11-10 13:56:43-08:00'
+date: 2009-11-10 13:56:43-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-11-10 13:56:43-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2009-11-10 13:56:43-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: RAJATON BEST of 1999-2009がうちにきた
-keywords: [dvd, アルバム, cd, rajaton, butterfly, 前者, live, 映像, 程度, 魅了]
-recommendations: [/post/2008-07-05-rajaton/, /post/2009-03-09-masafestanirajatonga/,
-  /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
+keywords:
+  - dvd
+  - アルバム
+  - cd
+  - rajaton
+  - butterfly
+  - 前者
+  - live
+  - 映像
+  - 程度
+  - 魅了
+recommendations:
+  - /post/2008-07-05-rajaton/
+  - /post/2009-03-09-masafestanirajatonga/
+  - /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
 ---
+
 
 ![](p_1466_1100_a35c0282-e71c-40aa-ad01-4952aee2124c.jpeg)
 

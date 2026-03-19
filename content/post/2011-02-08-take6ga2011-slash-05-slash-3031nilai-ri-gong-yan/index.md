@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2011-02-08 04:02:09-08:00'
+date: 2011-02-08 04:02:09-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2011-02-08 04:02:09-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2011-02-08 04:02:09-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: Take6が2011/05/30,31に来日公演！
-keywords: [公演, 初日, フィル, ナイト, ゴスペル, クラブ, r&b, アカペラ, 会員, オフィシャルサイト]
-recommendations: [/post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/,
-  /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/, /post/2009-07-11-masa-festanotiketutogalai-ta/]
+keywords:
+  - 公演
+  - 初日
+  - フィル
+  - ナイト
+  - ゴスペル
+  - クラブ
+  - r&b
+  - アカペラ
+  - 会員
+  - オフィシャルサイト
+recommendations:
+  - /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/
+  - /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/
+  - /post/2009-07-11-masa-festanotiketutogalai-ta/
 ---
+
 
 [オフィシャルサイト](http://jp.take6.com/)が非常にださいのですが、Take6が東京にて来日公演するようです。  
 5/30(月),5/31(火)の二日公演で、初日がアカペラのゴスペル、R&Bの演奏、二日目が新日本フィルとの共演Jazz、Classicalの演奏のようです。アカペラが良い人は初日の夜でしょうか。  

@@ -1,21 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2015-04-26 15:25:18-07:00'
+date: 2015-04-26 15:25:18-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-04-26 15:25:18-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2015-04-26 15:25:18-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
-title: '#JuliaTokyo で #juliaわからん という雑なレポジトリを立てた話をしたら julia.tokyo ができてた '
-keywords: [julia, juliatokyo, sorami, issue, wakalang, 場所, チャット, make, japan, やりとり]
-recommendations: [/post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/,
-  /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
-  /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/]
+title: "#JuliaTokyo で #juliaわからん という雑なレポジトリを立てた話をしたら julia.tokyo ができてた "
+keywords:
+  - julia
+  - juliatokyo
+  - sorami
+  - issue
+  - wakalang
+  - 場所
+  - チャット
+  - make
+  - japan
+  - やりとり
+recommendations:
+  - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
+  - /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
+  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
 ---
+
 
 [JuliaTokyo #3](http://juliatokyo.connpass.com/event/13218/)を @soramiさんと @bycicle1885 さんと開催しました。
 

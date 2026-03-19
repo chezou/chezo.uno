@@ -1,20 +1,38 @@
 ---
-authors: [aki]
-categories: [misc]
-date: '2023-12-31 00:00:00-08:00'
+authors:
+  - aki
+categories:
+  - misc
+date: 2023-12-31 00:00:00-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2023-12-31 00:00:00-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2023-12-31 00:00:00-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: 2023年を振り返って
-keywords: [vancouver, post, social, 仕事, プロジェクト, あと, 銀行, コールセンター, uno, chroma]
-recommendations: [/post/2022-12-30-2022-year-in-review/, /post/2014-12-31-2014nian-wozhen-rifan-tute/,
-  /post/2020-12-31-2020-review/]
+keywords:
+  - vancouver
+  - post
+  - social
+  - 仕事
+  - プロジェクト
+  - あと
+  - 銀行
+  - コールセンター
+  - uno
+  - chroma
+recommendations:
+  - /post/2022-12-30-2022-year-in-review/
+  - /post/2014-12-31-2014nian-wozhen-rifan-tute/
+  - /post/2020-12-31-2020-review/
 ---
+
 
 今年もあと一日になりましたが、[昨年同様](https://chezo.uno/post/2022-12-30-2022-year-in-review/)一年を振り返っていきたいと思います。
 

@@ -1,20 +1,38 @@
 ---
 title: 機械学習工学研究会夏合宿2022でMLインフラ運用WGを終了しました
-subtitle: ''
+subtitle: ""
 summary: MLSE の本番適用のためのインフラと運用WGの活動を終了しました。
-authors: [aki]
+authors:
+  - aki
 tags: []
-categories: [conference]
+categories:
+  - conference
 date: 2022-07-15 15:16:04-07:00
 lastmod: 2022-07-15 15:16:04-07:00
 featured: false
 draft: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 projects: []
-keywords: [夏合宿, 課題, 基盤, 作り, mlse, チーム, 運用, 難しさ, 変化, mlops]
-recommendations: [/post/2020-07-11-mlse-summer-workshop/, /post/2020-11-10-mlse-conference/,
-  /post/2020-12-31-2020-review/]
+keywords:
+  - 夏合宿
+  - 課題
+  - 基盤
+  - 作り
+  - mlse
+  - チーム
+  - 運用
+  - 難しさ
+  - 変化
+  - mlops
+recommendations:
+  - /post/2020-07-11-mlse-summer-workshop/
+  - /post/2020-11-10-mlse-conference/
+  - /post/2020-12-31-2020-review/
 ---
+
 
 2019年から土橋さん ([@masaru_dobashi](https://twitter.com/masaru_dobashi)) と共同幹事をしていた、機械学習工学研究会 (MLSE) の「本番適用のためのインフラと運用WG」を、6月30日～7月2日に開催した[MLSE夏合宿](https://mlxse.connpass.com/event/248383/)で終了しました。
 

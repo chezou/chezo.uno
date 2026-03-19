@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2009-11-14 01:11:32-08:00'
+date: 2009-11-14 01:11:32-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-11-14 01:11:32-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2009-11-14 01:11:32-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: 無線コントローラ
-keywords: [コントローラ, 新作, 遅延, 無線, プレイ, ゲーム, 以前, 意味, 最近, ない]
-recommendations: [/post/2009-09-22-pcdewaiyaresukontororawoshi-uniha/, /post/2007-05-10-usbdewen-kerufm-slash-amrazio/,
-  /post/2009-10-10-ceatecitutekita/]
+keywords:
+  - コントローラ
+  - 新作
+  - 遅延
+  - 無線
+  - プレイ
+  - ゲーム
+  - 以前
+  - 意味
+  - 最近
+  - ない
+recommendations:
+  - /post/2009-09-22-pcdewaiyaresukontororawoshi-uniha/
+  - /post/2007-05-10-usbdewen-kerufm-slash-amrazio/
+  - /post/2009-10-10-ceatecitutekita/
 ---
+
 
 そういえば、[以前調べていた無線コントローラ](https://chezo.uno/post/2009-09-22-pcdewaiyaresukontororawoshi-uniha) を買った。っていってもけっこう前ですが。思ったような遅延は感じられない。そんなにシビアなゲームはやってないからか。  
 ただ、最近プレイするのがCoD4だから、全く意味ないという‥[CODの新作](http://www.modernwarfare2.jp/)はWindows版は12/23と遅いのが残念すぎる。待てないので、もう少し今のバージョンで練習しよう。

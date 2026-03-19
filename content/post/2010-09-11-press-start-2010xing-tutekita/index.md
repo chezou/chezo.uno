@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2010-09-11 14:59:42-07:00'
+date: 2010-09-11 14:59:42-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-09-11 14:59:42-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2010-09-11 14:59:42-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: PRESS START 2010行ってきた
-keywords: [メドレー, 演奏会, メロディ, 演奏, 素晴らしい, ファイアーエムブレム, カエル, かけ声, 魔王, 編成]
-recommendations: [/post/2008-07-09-press-startdang-xuan-simasita/, /post/2009-07-05-guan-dong-hagame-musichoihoida/,
-  /post/2009-05-24-kuronotorigano-shi-nohui-lang-gaming-qu-sugiru/]
+keywords:
+  - メドレー
+  - 演奏会
+  - メロディ
+  - 演奏
+  - 素晴らしい
+  - ファイアーエムブレム
+  - カエル
+  - かけ声
+  - 魔王
+  - 編成
+recommendations:
+  - /post/2008-07-09-press-startdang-xuan-simasita/
+  - /post/2009-07-05-guan-dong-hagame-musichoihoida/
+  - /post/2009-05-24-kuronotorigano-shi-nohui-lang-gaming-qu-sugiru/
 ---
+
 
 本日、[PRESS START2010 -SYMPHONY OF GAMES-@東京芸術劇場 大ホール](http://www.famitsu.com/famiweb/pressstart/)に行ってまいりました。  
 (写真はプログラム、この演奏会にあわせて発売した[CD](http://ebten.jp/famitsu/p/4541993016235/?aid=prc)、フリーペーパー2083)  

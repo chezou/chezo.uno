@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2009-12-17 13:57:33-08:00'
+date: 2009-12-17 13:57:33-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-12-17 13:57:33-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2009-12-17 13:57:33-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
-title: '粒谷区民合唱団の一つの実現方法(妄想) - #tlros を通じて思ったこと -'
-keywords: [パート, サービス, タグ, なけれ, 楽しい, 何事, アカペラー, いみ, twitterアカウント, summer]
-recommendations: [/post/2005-08-21-nan-sheng-he-chang/, /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/,
-  /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/]
+title: "粒谷区民合唱団の一つの実現方法(妄想) - #tlros を通じて思ったこと -"
+keywords:
+  - パート
+  - サービス
+  - タグ
+  - なけれ
+  - 楽しい
+  - 何事
+  - アカペラー
+  - いみ
+  - twitterアカウント
+  - summer
+recommendations:
+  - /post/2005-08-21-nan-sheng-he-chang/
+  - /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/
+  - /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/
 ---
+
 
 最近、twitterで曲を歌うことになりました。なんというか、アカペラーや合唱人との繋がりが楽しくなってきたのですが、まさかこんな展開になるとは思っていなかったので楽しさが増してきました。  
 TLに、三善晃や武満徹の文字が流れる日が来るとは！
