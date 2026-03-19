@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2011-04-06 15:01:06-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2011-04-06 15:01:06-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: ガチャピン sings Rajaton？
-keywords:
-  - 動画
-  - youtube
-  - ガチャピン
-  - アマチュア
-  - rajaton
-  - 演奏
-  - 検索
-  - 名曲
-  - リニューアル
-  - ホットエントリ
-recommendations:
-  - /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/
-  - /post/2009-04-13-it-dont-mean-a-thing/
-  - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
+keywords: [動画, youtube, ガチャピン, アマチュア, rajaton, 演奏, 検索, 名曲, リニューアル, ホットエントリ]
+recommendations: [/post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/,
+  /post/2009-04-13-it-dont-mean-a-thing/, /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/]
 ---
 
 

@@ -1,28 +1,13 @@
 ---
-authors:
-  - aki
+authors: [aki]
 date: 2021-12-15 13:01:00-08:00
 lastmod: 2022-12-16 15:55:00-08:00
 summary: 子連れ移住に際して調べたり体験したあれこれ
-tags:
-  - Canada
-  - 日常
+tags: [Canada, 日常]
 title: カナダのバンクーバーエリアに子連れ移住した
-keywords:
-  - 学校
-  - 子供
-  - untitled
-  - ホテル
-  - カナダ
-  - 日本
-  - ハンガー
-  - 教室
-  - 部屋
-  - 移住
-recommendations:
-  - /post/2021-12-18-8-months-after-relocating-vancouver/
-  - /post/2022-12-30-2022-year-in-review/
-  - /post/2023-01-27-age++/
+keywords: [学校, 子供, untitled, ホテル, カナダ, 日本, ハンガー, 教室, 部屋, 移住]
+recommendations: [/post/2021-12-18-8-months-after-relocating-vancouver/, /post/2022-12-30-2022-year-in-review/,
+  /post/2023-01-27-age++/]
 ---
 
 

@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-08-31 00:08:00-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-08-31 00:08:00-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 知らなかった、youtubeが貼り付けられるなんて
-keywords:
-  - テスト
-  - 後ほど
-  - レポ
-  - トランペット
-  - try
-  - tone
-  - 教授
-  - 講座
-  - トーク
-  - 昨日
-recommendations:
-  - /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
-  - /post/2008-07-10-ris-a-la-malta/
-  - /post/2005-07-17-urayamasika/
+keywords: [テスト, 後ほど, レポ, トランペット, try, tone, 教授, 講座, トーク, 昨日]
+recommendations: [/post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/, /post/2008-07-10-ris-a-la-malta/,
+  /post/2005-07-17-urayamasika/]
 ---
 
 

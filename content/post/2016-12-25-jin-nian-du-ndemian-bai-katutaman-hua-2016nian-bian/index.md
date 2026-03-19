@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2016-12-25 13:30:04-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2016-12-25 13:30:04-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 今年読んで面白かった漫画 2016年編
-keywords:
-  - まとめ買い
-  - コミックス
-  - kindle版
-  - 作品
-  - 作者
-  - 商品
-  - メディア
-  - 勇者
-  - ブログ
-  - チャンス
-recommendations:
-  - /post/2020-01-14-2019-best-comic/
-  - /post/2010-01-01-12yue-nidu-ndaben/
-  - /post/2011-07-20-jkominoman-hua-biyuahaipaddemodu-meru/
+keywords: [まとめ買い, コミックス, kindle版, 作品, 作者, 商品, メディア, 勇者, ブログ, チャンス]
+recommendations: [/post/2020-01-14-2019-best-comic/, /post/2010-01-01-12yue-nidu-ndaben/,
+  /post/2011-07-20-jkominoman-hua-biyuahaipaddemodu-meru/]
 ---
 
 

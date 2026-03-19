@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-08-11 14:49:50-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-08-11 14:49:50-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 面白いほどよく分かる哲学・思想のすべて
-keywords:
-  - 酷い
-  - 単語
-  - 文芸社
-  - 哲学
-  - 倫理
-  - おかしい
-  - 言い回し
-  - 本質
-  - 思想
-  - 具合
-recommendations:
-  - /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/
-  - /post/2008-06-15-ojin-nomian-qiang/
-  - /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/
+keywords: [酷い, 単語, 文芸社, 哲学, 倫理, おかしい, 言い回し, 本質, 思想, 具合]
+recommendations: [/post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/, /post/2008-06-15-ojin-nomian-qiang/,
+  /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/]
 ---
 
 

@@ -1,31 +1,16 @@
 ---
-authors:
-  - aki
+authors: [aki]
 date: 2021-11-09 17:40:00+00:00
 lastmod: 2022-02-08 03:24:00+00:00
 summary: 海外移住した際の、所得税の扱いについてまとめました
-tags:
-  - tax
+tags: [tax]
 title: 日本国外で出版社と取引をする際の所得税の源泉徴収の扱い
 draft: false
 featured: false
-image:
-  preview_only: false
-keywords:
-  - 源泉徴収
-  - 所得
-  - 非居住者
-  - 源泉
-  - 復興特別所得税
-  - 国内
-  - 場合
-  - 所得税
-  - 国税庁
-  - 出版社
-recommendations:
-  - /post/2022-02-07-foregin-tax/
-  - /post/2022-01-09-vancouver-engineer-podcast/
-  - /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/
+image: {preview_only: false}
+keywords: [源泉徴収, 所得, 非居住者, 源泉, 復興特別所得税, 国内, 場合, 所得税, 国税庁, 出版社]
+recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-01-09-vancouver-engineer-podcast/,
+  /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/]
 ---
 
 

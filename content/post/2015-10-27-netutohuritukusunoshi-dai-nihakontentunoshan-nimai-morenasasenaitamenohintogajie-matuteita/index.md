@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2015-10-27 02:20:31-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2015-10-27 02:20:31-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 「ネットフリックスの時代」にはコンテンツの山に埋もれなさせないためのヒントが詰まっていた
-keywords:
-  - netflix
-  - プレイリスト
-  - spotify
-  - コンテンツ
-  - レコメンデーション
-  - 方式
-  - 反復
-  - ラジオ
-  - 音楽
-  - サービス
-recommendations:
-  - /post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/
-  - /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/
-  - /post/2018-11-14_subscription-2018/
+keywords: [netflix, プレイリスト, spotify, コンテンツ, レコメンデーション, 方式, 反復, ラジオ, 音楽, サービス]
+recommendations: [/post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/,
+  /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/, /post/2018-11-14_subscription-2018/]
 ---
 
 

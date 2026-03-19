@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-05-03 23:05:24-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-05-03 23:05:24-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: MoneyLookが便利な件について
-keywords:
-  - クレジットカード
-  - 管理
-  - ソフト
-  - 履歴
-  - 確認
-  - japan
-  - 仕様
-  - 家計簿
-  - モバイルsuica
-  - offline
-recommendations:
-  - /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/
-  - /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
-  - /post/2022-11-28-cancel-japanese-service/
+keywords: [クレジットカード, 管理, ソフト, 履歴, 確認, japan, 仕様, 家計簿, モバイルsuica, offline]
+recommendations: [/post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/, /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/,
+  /post/2022-11-28-cancel-japanese-service/]
 ---
 
 

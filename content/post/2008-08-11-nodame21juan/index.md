@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-08-11 14:49:56-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-08-11 14:49:56-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: のだめ21巻
-keywords:
-  - 千秋
-  - 衝撃
-  - 結婚
-  - 知子
-  - 二ノ宮
-  - 翌朝
-  - スルー
-  - その後
-  - 講談社
-  - 続き
-recommendations:
-  - /post/2008-07-06-nodamekantabire18-20/
-  - /post/2008-10-02-pahuekutoburudu-liao/
-  - /post/2008-09-08-luck-stealer-2/
+keywords: [千秋, 衝撃, 結婚, 知子, 二ノ宮, 翌朝, スルー, その後, 講談社, 続き]
+recommendations: [/post/2008-07-06-nodamekantabire18-20/, /post/2008-10-02-pahuekutoburudu-liao/,
+  /post/2008-09-08-luck-stealer-2/]
 ---
 
 

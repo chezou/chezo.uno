@@ -1,27 +1,13 @@
 ---
-authors:
-  - aki
+authors: [aki]
 date: 2019-11-25 00:52:00-08:00
 lastmod: 2019-11-28 22:10:00-08:00
 summary: GitHub Actionsを使って正規表現でtemplateをチェックする
-tags:
-  - GitHub
+tags: [GitHub]
 title: GitHub ActionsでIssue templateに従っていないissueをcloseする
-keywords:
-  - issue
-  - 正規表現
-  - template
-  - tabula
-  - py
-  - chezou
-  - 貧弱
-  - トリガー
-  - close
-  - actions
-recommendations:
-  - /post/2019-11-18-digdag-ci/
-  - /post/2019-11-25-github actions-api token-pypi release/
-  - /post/2022-01-14-prelims-recommend-hugo/
+keywords: [issue, 正規表現, template, tabula, py, chezou, 貧弱, トリガー, close, actions]
+recommendations: [/post/2019-11-18-digdag-ci/, /post/2019-11-25-github actions-api
+    token-pypi release/, /post/2022-01-14-prelims-recommend-hugo/]
 ---
 
 

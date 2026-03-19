@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-05-30 05:05:33-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-05-30 05:05:33-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: X ZABADYのシリコンカバーを買ってしまった
-keywords:
-  - 送料
-  - 消耗品
-  - 取り扱い
-  - ドラクエ
-  - zabady
-  - "630"
-  - "4000"
-  - 業者
-  - 痛感
-  - ポスト
-recommendations:
-  - /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/
-  - /post/2018-11-14_subscription-2018/
-  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
+keywords: [送料, 消耗品, 取り扱い, ドラクエ, zabady, '630', '4000', 業者, 痛感, ポスト]
+recommendations: [/post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/, /post/2018-11-14_subscription-2018/,
+  /post/2008-01-18-souiebakokohawu-yu-burogudatuta/]
 ---
 
 

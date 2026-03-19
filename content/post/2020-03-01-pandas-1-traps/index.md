@@ -1,28 +1,13 @@
 ---
-authors:
-  - aki
+authors: [aki]
 date: 2020-03-01 02:17:00-08:00
 lastmod: 2020-03-01 17:00:00-08:00
 summary: pandas.NAに関連するmissing value周りのあれこれ
-tags:
-  - Python
-  - pandas
+tags: [Python, pandas]
 title: pandas 1.0 のpd.NAのハマりどころ
-keywords:
-  - pandas
-  - int
-  - na
-  - 挙動
-  - experimental
-  - 登場
-  - numpy
-  - new
-  - "64"
-  - documentation
-recommendations:
-  - /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/
-  - /post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita/
-  - /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/
+keywords: [pandas, int, na, 挙動, experimental, 登場, numpy, new, '64', documentation]
+recommendations: [/post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/, /post/2011-11-25-googlezhi-nozheng-gui-biao-xian-enzinre2wori-ben-yu-deshi-sitemita/,
+  /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/]
 ---
 
 

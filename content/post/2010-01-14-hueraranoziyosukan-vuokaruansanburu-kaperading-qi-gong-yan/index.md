@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2010-01-14 13:57:54-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2010-01-14 13:57:54-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: フェラーラのジョスカン 〜ヴォーカルアンサンブル カペラ定期公演
-keywords:
-  - "05"
-  - "1600"
-  - "1200"
-  - jpeg
-  - ca
-  - 楽譜
-  - "115"
-  - bf
-  - 教会
-  - "58"
-recommendations:
-  - /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/
-  - /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/
-  - /post/2005-08-21-nan-sheng-he-chang/
+keywords: ['05', '1600', '1200', jpeg, ca, 楽譜, '115', bf, 教会, '58']
+recommendations: [/post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/,
+  /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/, /post/2005-08-21-nan-sheng-he-chang/]
 ---
 
 

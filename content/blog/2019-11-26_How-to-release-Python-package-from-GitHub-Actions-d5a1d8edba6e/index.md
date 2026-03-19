@@ -1,30 +1,14 @@
 ---
-aliases:
-  - /blog/how-to-release-python-package-from-github-actions-d5a1d8edba6e/
-  - /blog/d5a1d8edba6e/
-authors:
-  - aki
-categories:
-  - Python
+aliases: [/blog/how-to-release-python-package-from-github-actions-d5a1d8edba6e/, /blog/d5a1d8edba6e/]
+authors: [aki]
+categories: [Python]
 date: 2019-11-25 08:42:11-08:00
-description: Recently, I changed my CI from Travis to GitHub Actions. GitHub
-  Actions is handy and useful for testing, publishing Python packages.
+description: Recently, I changed my CI from Travis to GitHub Actions. GitHub Actions
+  is handy and useful for testing, publishing Python packages.
 title: How to release Python package from GitHub Actions
-keywords:
-  - pypi
-  - github
-  - actions
-  - token
-  - api
-  - python
-  - workflow
-  - package
-  - syntax
-  - testing
-recommendations:
-  - /blog/2022-05-21_fastest-way-to-release-python-cli/
-  - /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/
-  - /blog/2020-03-05_py-operator-development-guide-for-python-users/
+keywords: [pypi, github, actions, token, api, python, workflow, package, syntax, testing]
+recommendations: [/blog/2022-05-21_fastest-way-to-release-python-cli/, /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/,
+  /blog/2020-03-05_py-operator-development-guide-for-python-users/]
 ---
 
 

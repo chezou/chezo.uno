@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-06-25 14:45:09-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-06-25 14:45:09-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 新・萌えるヘッドホン読本
-keywords:
-  - 違和感
-  - 後日
-  - アマゾンギフト券
-  - 表紙
-  - 半分
-  - 趣味
-  - ヘッドホン
-  - つもり
-  - 詳しく
-  - 期待
-recommendations:
-  - /post/2006-07-28-xia-nanode/
-  - /post/2008-06-09-tuiniiphonedeng-chang/
-  - /post/2017-01-30-indigogo-dehazimetebatukusitelai-ta-dot-woshi-tute3keyue-gatatuta/
+keywords: [違和感, 後日, アマゾンギフト券, 表紙, 半分, 趣味, ヘッドホン, つもり, 詳しく, 期待]
+recommendations: [/post/2006-07-28-xia-nanode/, /post/2008-06-09-tuiniiphonedeng-chang/,
+  /post/2017-01-30-indigogo-dehazimetebatukusitelai-ta-dot-woshi-tute3keyue-gatatuta/]
 ---
 
 

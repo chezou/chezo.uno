@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2011-07-20 04:07:24-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2011-07-20 04:07:24-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: Jコミの漫画ビューアはiPadでも読める
-keywords:
-  - pdf
-  - 苦労
-  - 漫画
-  - 作品
-  - 許容範囲
-  - 絶版
-  - ゼミ
-  - ギャグ
-  - みゆき
-  - ラインナップ
-recommendations:
-  - /post/2008-08-26-akihabara-at-deep/
-  - /post/2005-10-03-su-suge-pin-desuyo/
-  - /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/
+keywords: [pdf, 苦労, 漫画, 作品, 許容範囲, 絶版, ゼミ, ギャグ, みゆき, ラインナップ]
+recommendations: [/post/2008-08-26-akihabara-at-deep/, /post/2005-10-03-su-suge-pin-desuyo/,
+  /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/]
 ---
 
 

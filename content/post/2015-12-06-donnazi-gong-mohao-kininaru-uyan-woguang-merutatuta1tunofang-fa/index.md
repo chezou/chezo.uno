@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2015-12-05 16:00:00-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2015-12-05 16:00:00-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: どんな子供も好きになる、「うーやん」を広めるたった1つの方法
-keywords:
-  - お子さん
-  - 子供
-  - 同僚
-  - jpg
-  - calendar
-  - advent
-  - 通用
-  - 無かっ
-  - 未満
-  - 哲学
-recommendations:
-  - /post/2013-12-08-yu-gan-yarizumugale-siihatutosuruhui-ben-3ce/
-  - /post/2008-10-10-luo-yu-bai-xuan-xia/
-  - /post/2018-06-27_internet-for-kids/
+keywords: [お子さん, 子供, 同僚, jpg, calendar, advent, 通用, 無かっ, 未満, 哲学]
+recommendations: [/post/2013-12-08-yu-gan-yarizumugale-siihatutosuruhui-ben-3ce/,
+  /post/2008-10-10-luo-yu-bai-xuan-xia/, /post/2018-06-27_internet-for-kids/]
 ---
 
 

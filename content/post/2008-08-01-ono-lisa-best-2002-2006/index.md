@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-08-01 14:52:09-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-08-01 14:52:09-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: Ono Lisa best 2002-2006
-keywords:
-  - 電車
-  - ミュージック
-  - ジャパン
-  - 注意
-  - cd
-  - スコア
-  - 選択
-  - 感じ
-  - とき
-  - ない
-recommendations:
-  - /post/2008-06-03-er-du-qin-qian/
-  - /post/2005-07-17-urayamasika/
-  - /post/2008-10-28-mai-tutesimatuta/
+keywords: [電車, ミュージック, ジャパン, 注意, cd, スコア, 選択, 感じ, とき, ない]
+recommendations: [/post/2008-06-03-er-du-qin-qian/, /post/2005-07-17-urayamasika/,
+  /post/2008-10-28-mai-tutesimatuta/]
 ---
 
 

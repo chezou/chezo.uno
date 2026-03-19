@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2011-04-09 15:01:28-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2011-04-09 15:01:28-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: エリック・ウィテカー氏、予定通り来日！
-keywords:
-  - 福島
-  - 祭典
-  - hanagoro
-  - 希望
-  - 作曲家
-  - "2011"
-  - 方々
-  - 素晴らしい
-  - 合唱
-  - こと
-recommendations:
-  - /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/
-  - /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/
-  - /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/
+keywords: [福島, 祭典, hanagoro, 希望, 作曲家, '2011', 方々, 素晴らしい, 合唱, こと]
+recommendations: [/post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/,
+  /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/]
 ---
 
 

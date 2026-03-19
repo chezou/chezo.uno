@@ -1,28 +1,13 @@
 ---
-authors:
-  - aki
+authors: [aki]
 date: 2019-11-24 23:59:00-08:00
 lastmod: 2019-11-26 09:31:00-08:00
 summary: GitHub Actionsを使うとPythonのテストが便利でReleaseも自動でできる
-tags:
-  - GitHub
-  - Python
+tags: [GitHub, Python]
 title: GitHub ActionsでAPI tokenを使ってPyPIへリリースする
-keywords:
-  - actions
-  - テスト
-  - python
-  - github
-  - uses
-  - twine
-  - 環境変数
-  - workflow
-  - version
-  - pypi
-recommendations:
-  - /post/2019-11-25-github actions-issue template/
-  - /post/2015-06-06-pip-install-kyteadekiruyouninarimasita/
-  - /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/
+keywords: [actions, テスト, python, github, uses, twine, 環境変数, workflow, version, pypi]
+recommendations: [/post/2019-11-25-github actions-issue template/, /post/2015-06-06-pip-install-kyteadekiruyouninarimasita/,
+  /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/]
 ---
 
 

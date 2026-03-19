@@ -1,35 +1,20 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2015-01-24 16:41:03-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2015-01-24 16:41:03-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: "神奈川Ruby会議を開催しました #kana01"
-keywords:
-  - ruby
-  - リージョナル
-  - 会議
-  - こと
-  - コミュニティ
-  - 段階
-  - 嬉しかっ
-  - ペアプロ
-  - 勉強会
-  - コンセプト
-recommendations:
-  - /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
-  - /post/2015-12-30-2015nian-wozhen-rifan-tute/
-  - /post/2022-06-18-kawasaki rb 9 years reflection/
+title: '神奈川Ruby会議を開催しました #kana01'
+keywords: [ruby, リージョナル, 会議, こと, コミュニティ, 段階, 嬉しかっ, ペアプロ, 勉強会, コンセプト]
+recommendations: [/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
+  /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2022-06-18-kawasaki rb 9 years
+    reflection/]
 ---
 
 

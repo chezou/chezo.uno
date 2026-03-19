@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2014-12-06 10:18:20-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2014-12-06 10:18:20-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 'Japan.Rで"MeCab.jlつくってみた"を発表してきた #JuliaAC #JapanR'
-keywords:
-  - unsigned
-  - ptr
-  - mecab
-  - struct
-  - node
-  - char
-  - type
-  - 構造体
-  - void
-  - float
-recommendations:
-  - /post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/
-  - /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/
-  - /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/
+keywords: [unsigned, ptr, mecab, struct, node, char, type, 構造体, void, float]
+recommendations: [/post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/,
+  /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/, /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/]
 ---
 
 

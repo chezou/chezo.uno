@@ -1,36 +1,19 @@
 ---
 title: 「海外生活経験ゼロからカナダでソフトウェアエンジニアになった話〜英語勉強＆就活対策〜」を読んだ
-subtitle: ""
-summary: ""
-authors:
-  - aki
+subtitle: ''
+summary: ''
+authors: [aki]
 tags: []
-categories:
-  - book review
+categories: [book review]
 date: 2024-06-20 16:46:46-07:00
 lastmod: 2024-06-20 16:46:46-07:00
 featured: false
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords:
-  - ビザ
-  - カナダ
-  - 英語
-  - 海外
-  - 目次
-  - 就職
-  - 同人誌
-  - 本文
-  - メッセージ
-  - tech
-recommendations:
-  - /post/2022-01-09-vancouver-engineer-podcast/
-  - /post/2018-06-19_goodbye-cloudera/
-  - /post/2016-03-30-zhuan-zhi-simasita/
+keywords: [ビザ, カナダ, 英語, 海外, 目次, 就職, 同人誌, 本文, メッセージ, tech]
+recommendations: [/post/2022-01-09-vancouver-engineer-podcast/, /post/2018-06-19_goodbye-cloudera/,
+  /post/2016-03-30-zhuan-zhi-simasita/]
 ---
 
 

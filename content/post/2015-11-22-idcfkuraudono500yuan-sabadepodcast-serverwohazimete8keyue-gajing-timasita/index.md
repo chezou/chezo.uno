@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2015-11-22 13:30:37-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2015-11-22 13:30:37-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: IDCFクラウドの500円サーバーでpodcast serverをはじめて8ヶ月が経ちました
-keywords:
-  - ストレージ
-  - オブジェクト
-  - rubyist
-  - ノード
-  - idcf
-  - 転送
-  - おかげさま
-  - クラウド
-  - club
-  - "500"
-recommendations:
-  - /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/
-  - /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/
-  - /post/2020-12-31-2020-review/
+keywords: [ストレージ, オブジェクト, rubyist, ノード, idcf, 転送, おかげさま, クラウド, club, '500']
+recommendations: [/post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/,
+  /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/, /post/2020-12-31-2020-review/]
 ---
 
 

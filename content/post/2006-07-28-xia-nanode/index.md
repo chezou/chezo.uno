@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2006-07-28 14:46:34-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2006-07-28 14:46:34-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 夏なので
-keywords:
-  - cd
-  - 軽快
-  - 節約
-  - この頃
-  - zero
-  - ギター
-  - 元気
-  - 視聴
-  - 感じ
-  - 欲しく
-recommendations:
-  - /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
-  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
-  - /post/2008-06-25-xin-meng-eruhetudohondu-ben/
+keywords: [cd, 軽快, 節約, この頃, zero, ギター, 元気, 視聴, 感じ, 欲しく]
+recommendations: [/post/2008-07-07-the-real-group-real-christmas-commonly-unique/,
+  /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/, /post/2008-06-25-xin-meng-eruhetudohondu-ben/]
 ---
 
 

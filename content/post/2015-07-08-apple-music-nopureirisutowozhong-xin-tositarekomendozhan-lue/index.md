@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2015-07-08 15:52:00-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2015-07-08 15:52:00-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: Apple Music のプレイリストを中心としたレコメンド戦略
-keywords:
-  - プレイリスト
-  - アーティスト
-  - apple music
-  - レコメンド
-  - ミックス
-  - リスト
-  - 音楽
-  - シーン
-  - 楽曲
-  - 影響
-recommendations:
-  - /post/2015-10-27-netutohuritukusunoshi-dai-nihakontentunoshan-nimai-morenasasenaitamenohintogajie-matuteita/
-  - /post/2008-08-01-ono-lisa-best-2002-2006/
-  - /post/2009-05-12-konnitiha-iphone/
+keywords: [プレイリスト, アーティスト, apple music, レコメンド, ミックス, リスト, 音楽, シーン, 楽曲, 影響]
+recommendations: [/post/2015-10-27-netutohuritukusunoshi-dai-nihakontentunoshan-nimai-morenasasenaitamenohintogajie-matuteita/,
+  /post/2008-08-01-ono-lisa-best-2002-2006/, /post/2009-05-12-konnitiha-iphone/]
 ---
 
 

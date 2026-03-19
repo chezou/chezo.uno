@@ -1,36 +1,19 @@
 ---
-authors:
-  - aki
-categories:
-  - ruby
+authors: [aki]
+categories: [ruby]
 date: 2013-10-06 04:10:03-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2013-10-06 04:10:03-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: "Kawasaki.rb #003を開催しました #kwskrb"
-keywords:
-  - mruby
-  - ruby
-  - kishima
-  - 数値計算
-  - numpy
-  - デモ
-  - fortran
-  - メソッド
-  - scipy
-  - js
-recommendations:
-  - /post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/
-  - /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
-  - /post/2013-06-29-kawasaki-dot-rb-number-001-di-1hui-mitoatupuwokai-cui-simasita-number-kwskrb/
+title: 'Kawasaki.rb #003を開催しました #kwskrb'
+keywords: [mruby, ruby, kishima, 数値計算, numpy, デモ, fortran, メソッド, scipy, js]
+recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/,
+  /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/, /post/2013-06-29-kawasaki-dot-rb-number-001-di-1hui-mitoatupuwokai-cui-simasita-number-kwskrb/]
 ---
 
 

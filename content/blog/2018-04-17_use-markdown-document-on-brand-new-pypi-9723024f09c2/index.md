@@ -1,30 +1,15 @@
 ---
-aliases:
-  - /blog/use-markdown-document-on-brand-new-pypi-9723024f09c2
-  - /blog/9723024f09c2
-authors:
-  - aki
-categories:
-  - python
+aliases: [/blog/use-markdown-document-on-brand-new-pypi-9723024f09c2, /blog/9723024f09c2]
+authors: [aki]
+categories: [python]
 date: 2018-04-16 21:21:33-07:00
-description: Yesterday, PyPI was renewed to the next-generation site. It is
-  modern and stylish one.
+description: Yesterday, PyPI was renewed to the next-generation site. It is modern
+  and stylish one.
 title: Use Markdown document on brand new PyPI
-keywords:
-  - pip
-  - pypi
-  - packages
-  - py
-  - document
-  - rendered
-  - aodag
-  - description
-  - python
-  - wheel
-recommendations:
-  - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
-  - /blog/2023-09-09-tabula-py-280/
-  - /blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/
+keywords: [pip, pypi, packages, py, document, rendered, aodag, description, python,
+  wheel]
+recommendations: [/blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
+  /blog/2023-09-09-tabula-py-280/, /blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/]
 ---
 
 

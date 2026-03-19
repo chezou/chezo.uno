@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-11-06 13:48:36-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-11-06 13:48:36-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 音律と音階の科学
-keywords:
-  - 音楽
-  - 面白い
-  - 違和感
-  - 曲線
-  - 専門家
-  - ターゲット
-  - 講談社
-  - 実験
-  - 仕方ない
-  - 数学
-recommendations:
-  - /post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/
-  - /post/2008-10-10-luo-yu-bai-xuan-xia/
-  - /post/2008-07-19-ensemblenow-di-39hui-ding-qi-yan-zou-hui-at-sesionshan-bing/
+keywords: [音楽, 面白い, 違和感, 曲線, 専門家, ターゲット, 講談社, 実験, 仕方ない, 数学]
+recommendations: [/post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/,
+  /post/2008-10-10-luo-yu-bai-xuan-xia/, /post/2008-07-19-ensemblenow-di-39hui-ding-qi-yan-zou-hui-at-sesionshan-bing/]
 ---
 
 

@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2016-01-24 16:00:00-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2016-01-24 16:00:00-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: "#CookpadTechConf 2016でクックパッドの研究まわりの取り組みを発表しました"
-keywords:
-  - 仕組み
-  - "2016"
-  - カテゴリ
-  - ため
-  - techconf
-  - 情報
-  - 推薦
-  - 開催
-  - ありがたい
-  - 神奈川
-recommendations:
-  - /post/2016-12-31-2016nian-wozhen-rifan-tute/
-  - /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/
-  - /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
+title: '#CookpadTechConf 2016でクックパッドの研究まわりの取り組みを発表しました'
+keywords: [仕組み, '2016', カテゴリ, ため, techconf, 情報, 推薦, 開催, ありがたい, 神奈川]
+recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/,
+  /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/]
 ---
 
 

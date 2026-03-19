@@ -1,35 +1,18 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-05-30 14:54:18-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-05-30 14:54:18-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 三菱東京UFJのコールセンターが素晴らしい3つの理由
-keywords:
-  - オペレータ
-  - コール
-  - スピーカー
-  - 対応
-  - モード
-  - 階層
-  - 案内
-  - 平日
-  - 土曜
-  - コールセンター
-recommendations:
-  - /post/2005-07-11-w-sim/
-  - /post/2009-05-12-konnitiha-iphone/
-  - /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/
+keywords: [オペレータ, コール, スピーカー, 対応, モード, 階層, 案内, 平日, 土曜, コールセンター]
+recommendations: [/post/2005-07-11-w-sim/, /post/2009-05-12-konnitiha-iphone/, /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/]
 ---
 
 

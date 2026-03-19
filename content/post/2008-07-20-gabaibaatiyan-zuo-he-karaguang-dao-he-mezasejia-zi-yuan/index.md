@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-07-20 14:50:06-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-07-20 14:50:06-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: がばいばあちゃん 佐賀から広島へ めざせ甲子園
-keywords:
-  - ばい
-  - ばあちゃん
-  - エピソード
-  - 要点
-  - 島田
-  - 一作
-  - ありか
-  - 集英社
-  - 抜粋
-  - 読者
-recommendations:
-  - /post/2008-09-10-enzieruhato-27/
-  - /post/2008-09-08-luck-stealer-2/
-  - /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/
+keywords: [ばい, ばあちゃん, エピソード, 要点, 島田, 一作, ありか, 集英社, 抜粋, 読者]
+recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-09-08-luck-stealer-2/,
+  /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---
 
 

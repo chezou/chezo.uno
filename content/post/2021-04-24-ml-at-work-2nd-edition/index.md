@@ -1,37 +1,19 @@
 ---
 title: オライリーから「仕事ではじめる機械学習 第2版」を出版しました
-subtitle: ""
+subtitle: ''
 date: 2021-04-24 16:48:57-07:00
-summary: ""
+summary: ''
 draft: false
 featured: true
-authors:
-  - aki
+authors: [aki]
 lastmod: 2021-04-24 16:48:57-07:00
-tags:
-  - book
-categories:
-  - publish
+tags: [book]
+categories: [publish]
 projects: []
-image:
-  caption: 仕事ではじめる機械学習 第2版 表紙
-  focal_point: Smart
-  preview_only: false
-keywords:
-  - 目次
-  - tokoroten
-  - 読み方
-  - 実務
-  - hagino
-  - 数式
-  - "3000"
-  - 機械学習
-  - オライリー・ジャパン
-  - ebook
-recommendations:
-  - /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/
-  - /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/
-  - /post/2018-05-17_mlse-kickoff/
+image: {caption: 仕事ではじめる機械学習 第2版 表紙, focal_point: Smart, preview_only: false}
+keywords: [目次, tokoroten, 読み方, 実務, hagino, 数式, '3000', 機械学習, オライリー・ジャパン, ebook]
+recommendations: [/post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/, /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/,
+  /post/2018-05-17_mlse-kickoff/]
 ---
 
 {{< toc >}}

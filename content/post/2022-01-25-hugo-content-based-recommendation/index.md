@@ -2,39 +2,19 @@
 title: 3ファイル追加してGitHub ActionsでHugoにレコメンド記事を表示する
 subtitle: prelimsを使ってコンテンツベースのレコメンドをしてみよう
 summary: prelimsとGitHub Actionsを使うことで、Hugoの自分の記事にレコメンド記事を表示できるようになります
-authors:
-  - aki
-tags:
-  - recommendation
-  - hugo
-  - github actions
-categories:
-  - tech
-  - ML
+authors: [aki]
+tags: [recommendation, hugo, github actions]
+categories: [tech, ML]
 date: 2022-01-25 18:41:33-08:00
 lastmod: 2022-01-25 18:41:33-08:00
 featured: false
 draft: false
-image:
-  caption: https://chezo.uno/post/2021-04-24-ml-at-work-2nd-edition/ へのレコメンドの例
-  focal_point: Smart
-  preview_only: false
+image: {caption: 'https://chezo.uno/post/2021-04-24-ml-at-work-2nd-edition/ へのレコメンドの例',
+  focal_point: Smart, preview_only: false}
 projects: []
-keywords:
-  - prelims
-  - レコメンド
-  - 記事
-  - 関連
-  - キーワード
-  - hugo
-  - cli
-  - matter
-  - content
-  - 自分
-recommendations:
-  - /post/2022-01-14-prelims-recommend-hugo/
-  - /post/2025-08-24-pages-cms/
-  - /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/
+keywords: [prelims, レコメンド, 記事, 関連, キーワード, hugo, cli, matter, content, 自分]
+recommendations: [/post/2022-01-14-prelims-recommend-hugo/, /post/2025-08-24-pages-cms/,
+  /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
 ---
 
 

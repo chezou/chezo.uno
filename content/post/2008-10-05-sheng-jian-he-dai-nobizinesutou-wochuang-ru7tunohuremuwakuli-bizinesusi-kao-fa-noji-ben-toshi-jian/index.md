@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-10-05 05:10:01-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-10-05 05:10:01-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 勝間和代のビジネス頭を創る7つのフレームワーク力 ビジネス思考法の基本と実践
-keywords:
-  - 論文
-  - 著者
-  - おすすめ
-  - 要点
-  - 拙著
-  - 思考力
-  - 和代
-  - 勝間
-  - 長期的
-  - 読了
-recommendations:
-  - /post/2008-06-15-ojin-nomian-qiang/
-  - /post/2008-10-10-luo-yu-bai-xuan-xia/
-  - /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/
+keywords: [論文, 著者, おすすめ, 要点, 拙著, 思考力, 和代, 勝間, 長期的, 読了]
+recommendations: [/post/2008-06-15-ojin-nomian-qiang/, /post/2008-10-10-luo-yu-bai-xuan-xia/,
+  /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/]
 ---
 
 

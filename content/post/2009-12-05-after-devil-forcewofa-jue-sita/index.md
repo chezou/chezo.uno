@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-12-05 13:57:22-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-12-05 13:57:22-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: After Devil Forceを発掘した
-keywords:
-  - プレイ
-  - クリア
-  - 動画
-  - ゲーム
-  - 力押し
-  - ニコニコ動画
-  - 最後
-  - 作品
-  - 強く
-  - １０
-recommendations:
-  - /post/2008-06-01-nantoiunu-li-noren/
-  - /post/2008-07-30-narutaru/
-  - /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/
+keywords: [プレイ, クリア, 動画, ゲーム, 力押し, ニコニコ動画, 最後, 作品, 強く, １０]
+recommendations: [/post/2008-06-01-nantoiunu-li-noren/, /post/2008-07-30-narutaru/,
+  /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/]
 ---
 
 

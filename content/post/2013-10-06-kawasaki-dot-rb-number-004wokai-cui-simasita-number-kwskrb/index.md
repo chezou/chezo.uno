@@ -1,36 +1,19 @@
 ---
-authors:
-  - aki
-categories:
-  - ruby
+authors: [aki]
+categories: [ruby]
 date: 2013-10-06 05:10:10-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2013-10-06 05:10:10-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: "Kawasaki.rb #004を開催しました #kwskrb"
-keywords:
-  - websocket
-  - lt
-  - tokuda
-  - morph
-  - sinatra
-  - 形態素解析
-  - kytea
-  - minori
-  - 通信
-  - リアルタイム
-recommendations:
-  - /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/
-  - /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/
-  - /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/
+title: 'Kawasaki.rb #004を開催しました #kwskrb'
+keywords: [websocket, lt, tokuda, morph, sinatra, 形態素解析, kytea, minori, 通信, リアルタイム]
+recommendations: [/post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/,
+  /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/, /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/]
 ---
 
 

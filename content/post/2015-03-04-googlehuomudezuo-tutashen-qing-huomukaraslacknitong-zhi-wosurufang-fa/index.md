@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2015-03-03 16:31:31-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2015-03-03 16:31:31-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: Googleフォームで作った申請フォームからSlackに通知をする方法
-keywords:
-  - var
-  - response
-  - 通知
-  - slack
-  - url
-  - break
-  - channel
-  - フォーム
-  - スクリプト
-  - title
-recommendations:
-  - /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/
-  - /post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/
-  - /post/2015-05-21-googledoraibuyakarendanogong-you-quan-xian-woguan-li-surunihagoogle-groupsgabian-li/
+keywords: [var, response, 通知, slack, url, break, channel, フォーム, スクリプト, title]
+recommendations: [/post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
+  /post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/, /post/2015-05-21-googledoraibuyakarendanogong-you-quan-xian-woguan-li-surunihagoogle-groupsgabian-li/]
 ---
 
 

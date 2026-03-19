@@ -1,30 +1,15 @@
 ---
-aliases:
-  - /blog/simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9
-  - /blog/fb7af5dbd4c9
-authors:
-  - aki
-categories:
-  - python
+aliases: [/blog/simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9,
+  /blog/fb7af5dbd4c9]
+authors: [aki]
+categories: [python]
 date: 2017-07-23 09:21:40-07:00
-description: This article is a translation of this article, originally written
-  by aodag in Japanese. I translated it with his permission. This article…
+description: This article is a translation of this article, originally written by
+  aodag in Japanese. I translated it with his permission. This article…
 title: Simple way to distribute your private Python packages within your organization
-keywords:
-  - server
-  - directory
-  - packages
-  - http
-  - foo
-  - _this
-  - pip
-  - git
-  - package
-  - simple
-recommendations:
-  - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
-  - /blog/2022-05-21_fastest-way-to-release-python-cli/
-  - /blog/2017-08-30_python-basics--package-management-462918458f96/
+keywords: [server, directory, packages, http, foo, _this, pip, git, package, simple]
+recommendations: [/blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
+  /blog/2022-05-21_fastest-way-to-release-python-cli/, /blog/2017-08-30_python-basics--package-management-462918458f96/]
 ---
 
 

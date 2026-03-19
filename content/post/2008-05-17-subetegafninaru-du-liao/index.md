@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-05-17 00:05:00-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-05-17 00:05:00-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 「すべてがFになる」読了
-keywords:
-  - 森博嗣
-  - ミステリー
-  - シリーズ
-  - 東野圭吾
-  - 読了
-  - 嫌い
-  - 深く
-  - 続き
-  - 学生
-  - 大学
-recommendations:
-  - /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/
-  - /post/2008-07-19-xi-nomo-nu-gasi-nda/
-  - /post/2008-10-02-pahuekutoburudu-liao/
+keywords: [森博嗣, ミステリー, シリーズ, 東野圭吾, 読了, 嫌い, 深く, 続き, 学生, 大学]
+recommendations: [/post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/,
+  /post/2008-07-19-xi-nomo-nu-gasi-nda/, /post/2008-10-02-pahuekutoburudu-liao/]
 ---
 
 

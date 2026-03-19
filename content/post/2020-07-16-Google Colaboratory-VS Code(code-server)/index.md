@@ -1,27 +1,13 @@
 ---
 title: Google Colaboratory上でVS Code(code-server)を動かす
-authors:
-  - aki
+authors: [aki]
 summary: VS Code from everywhere
-tags:
-  - Python
+tags: [Python]
 date: 2020-07-16 17:56:00-07:00
 lastmod: 2020-07-16 18:09:00-07:00
-keywords:
-  - code
-  - server
-  - ssh
-  - パスワード
-  - ipad
-  - colab
-  - アクセス
-  - 要求
-  - セル
-  - token
-recommendations:
-  - /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/
-  - /post/2019-11-25-github actions-api token-pypi release/
-  - /post/2015-11-23-sympytojupyter-notebookdeshu-shi-nomemowoqu-rou/
+keywords: [code, server, ssh, パスワード, ipad, colab, アクセス, 要求, セル, token]
+recommendations: [/post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
+  /post/2019-11-25-github actions-api token-pypi release/, /post/2015-11-23-sympytojupyter-notebookdeshu-shi-nomemowoqu-rou/]
 ---
 
 

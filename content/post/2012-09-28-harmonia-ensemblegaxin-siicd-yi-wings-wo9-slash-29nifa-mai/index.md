@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2012-09-28 02:09:36-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2012-09-28 02:09:36-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: harmonia ensembleが新しいCD"翼-WINGS-"を9/29に発売
-keywords:
-  - 武満徹
-  - bach
-  - 相澤直人
-  - 宿題
-  - 前作
-  - panamusica
-  - 楽譜
-  - 合唱
-  - 明日
-  - 演奏
-recommendations:
-  - /post/2011-12-25-yi-teng-hui-si-ming-dao-qi-tai-liang-shi-noxuan-nda-xue-sheng-he-chang-notameno-sutiyudentosongubutuku-gare-i/
-  - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
-  - /post/2005-08-21-nan-sheng-he-chang/
+keywords: [武満徹, bach, 相澤直人, 宿題, 前作, panamusica, 楽譜, 合唱, 明日, 演奏]
+recommendations: [/post/2011-12-25-yi-teng-hui-si-ming-dao-qi-tai-liang-shi-noxuan-nda-xue-sheng-he-chang-notameno-sutiyudentosongubutuku-gare-i/,
+  /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2005-08-21-nan-sheng-he-chang/]
 ---
 
 

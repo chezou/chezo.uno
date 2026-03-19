@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-06-22 14:44:25-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-06-22 14:44:25-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: ぼくらの〜alternative
-keywords:
-  - 作品
-  - 漫画版
-  - 最終回
-  - 取り扱い
-  - 対談
-  - ぼくらの
-  - 最終
-  - 小学館
-  - 原作
-  - 小説
-recommendations:
-  - /post/2008-07-19-can-shu-gui-tou-mo-hong/
-  - /post/2008-07-30-narutaru/
-  - /post/2008-08-26-akihabara-at-deep/
+keywords: [作品, 漫画版, 最終回, 取り扱い, 対談, ぼくらの, 最終, 小学館, 原作, 小説]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-30-narutaru/,
+  /post/2008-08-26-akihabara-at-deep/]
 ---
 
 

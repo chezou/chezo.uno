@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2015-11-23 13:02:07-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2015-11-23 13:02:07-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: SympyとJupyter notebookで数式のメモを取ろう
-keywords:
-  - packt
-  - 数式
-  - starter
-  - instant
-  - kindle
-  - グラフ
-  - com
-  - メモ
-  - センター試験
-  - アンケート
-recommendations:
-  - /post/2014-06-21-julia100ben-notuku/
-  - /post/2019-11-17-spacy-ginza/
-  - /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/
+keywords: [packt, 数式, starter, instant, kindle, グラフ, com, メモ, センター試験, アンケート]
+recommendations: [/post/2014-06-21-julia100ben-notuku/, /post/2019-11-17-spacy-ginza/,
+  /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/]
 ---
 
 

@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2015-10-08 14:00:00-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2015-10-08 14:00:00-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: IIJmioの「おうちでナンバーポータビリティ」使って自宅でMNPした
-keywords:
-  - sim
-  - プラン
-  - iijmio
-  - シェア
-  - ケース
-  - iphone
-  - nexus
-  - 解約
-  - エレクトロニクス
-  - 対応
-recommendations:
-  - /post/2009-05-18-iphonetono1zhou-jian/
-  - /post/2009-05-12-konnitiha-iphone/
-  - /post/2011-05-01-iphone-for-everybodyno2nian-fu-riwojie-chu-sitarapaketutoding-e-huratutonisikanaranakatuta/
+keywords: [sim, プラン, iijmio, シェア, ケース, iphone, nexus, 解約, エレクトロニクス, 対応]
+recommendations: [/post/2009-05-18-iphonetono1zhou-jian/, /post/2009-05-12-konnitiha-iphone/,
+  /post/2011-05-01-iphone-for-everybodyno2nian-fu-riwojie-chu-sitarapaketutoding-e-huratutonisikanaranakatuta/]
 ---
 
 

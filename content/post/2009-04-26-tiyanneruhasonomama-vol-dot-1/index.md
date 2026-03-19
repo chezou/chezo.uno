@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-04-26 14:48:20-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-04-26 14:48:20-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: チャンネルはそのまま！Vol.1
-keywords:
-  - モデル
-  - すばらしい
-  - 北海道
-  - special
-  - ポップ
-  - なじみ
-  - 小学館
-  - ファン
-  - チャンネル
-  - テレビ
-recommendations:
-  - /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/
-  - /post/2008-10-02-pahuekutoburudu-liao/
-  - /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/
+keywords: [モデル, すばらしい, 北海道, special, ポップ, なじみ, 小学館, ファン, チャンネル, テレビ]
+recommendations: [/post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
+  /post/2008-10-02-pahuekutoburudu-liao/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---
 
 

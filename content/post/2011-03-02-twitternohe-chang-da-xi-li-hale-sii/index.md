@@ -1,35 +1,20 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2011-03-02 14:00:43-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2011-03-02 14:00:43-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: Twitterの合唱大喜利は楽しい
-keywords:
-  - 合唱
-  - ネタ
-  - twitter
-  - 面白い
-  - ジブリ
-  - chorus
-  - 発声
-  - 盛り上がり
-  - 広がり
-  - 自動的
-recommendations:
-  - /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/
-  - /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/
-  - /post/2014-04-03-tokyurubyhui-yi-07deltsitekimasita-number-tqrk07/
+keywords: [合唱, ネタ, twitter, 面白い, ジブリ, chorus, 発声, 盛り上がり, 広がり, 自動的]
+recommendations: [/post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/,
+  /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
+  /post/2014-04-03-tokyurubyhui-yi-07deltsitekimasita-number-tqrk07/]
 ---
 
 

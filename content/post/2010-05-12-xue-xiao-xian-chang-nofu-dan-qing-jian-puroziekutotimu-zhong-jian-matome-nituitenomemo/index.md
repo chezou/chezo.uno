@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2010-05-12 14:58:43-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2010-05-12 14:58:43-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 学校現場の負担軽減プロジェクトチーム（中間まとめ）についてのメモ
-keywords:
-  - 調査
-  - 負担
-  - 教員
-  - 業務
-  - 文部科学省
-  - 教育現場
-  - 学校現場
-  - 成績
-  - 情報
-  - 文書
-recommendations:
-  - /post/2022-07-15-finished-mlse-infra-wg/
-  - /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/
-  - /post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/
+keywords: [調査, 負担, 教員, 業務, 文部科学省, 教育現場, 学校現場, 成績, 情報, 文書]
+recommendations: [/post/2022-07-15-finished-mlse-infra-wg/, /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
+  /post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/]
 ---
 
 

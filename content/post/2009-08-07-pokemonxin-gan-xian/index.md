@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-08-06 19:08:14-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-08-06 19:08:14-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: ポケモン新幹線
-keywords:
-  - "1600"
-  - "1200"
-  - jpeg
-  - スイカ
-  - ゲット
-  - 49
-  - ポケモン
-  - fa
-  - "99"
-  - "75"
-recommendations:
-  - /post/2009-07-07-qi-xi-kiyandorunaito/
-  - /post/2009-11-14-iphonekesuwomai-ihuan-eta/
-  - /post/2009-08-12-rui-yan-si/
+keywords: ['1600', '1200', jpeg, スイカ, ゲット, 49, ポケモン, fa, '99', '75']
+recommendations: [/post/2009-07-07-qi-xi-kiyandorunaito/, /post/2009-11-14-iphonekesuwomai-ihuan-eta/,
+  /post/2009-08-12-rui-yan-si/]
 ---
 
 

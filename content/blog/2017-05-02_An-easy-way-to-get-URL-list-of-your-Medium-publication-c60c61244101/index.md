@@ -1,29 +1,16 @@
 ---
-aliases:
-  - /blog/an-easy-way-to-get-url-list-of-your-Medium-publication-c60c61244101
-  - /blog/c60c61244101
-authors:
-  - aki
+aliases: [/blog/an-easy-way-to-get-url-list-of-your-Medium-publication-c60c61244101,
+  /blog/c60c61244101]
+authors: [aki]
 categories: []
 date: 2017-05-01 19:01:01-07:00
-description: I imported blog posts from own Wordpress but I have to redirect old
-  articles to Medium manually. There is Wordpress plugin which enables…
+description: I imported blog posts from own Wordpress but I have to redirect old articles
+  to Medium manually. There is Wordpress plugin which enables…
 title: An easy way to get URL list of your Medium publication
-keywords:
-  - publication
-  - articles
-  - list
-  - medium
-  - url
-  - showing
-  - requires
-  - lacks
-  - huge
-  - csv
-recommendations:
-  - /blog/2022-01-25_hugo-content-based-recommendation/
-  - /blog/2025-08-24-configured-pages-cms/
-  - /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/
+keywords: [publication, articles, list, medium, url, showing, requires, lacks, huge,
+  csv]
+recommendations: [/blog/2022-01-25_hugo-content-based-recommendation/, /blog/2025-08-24-configured-pages-cms/,
+  /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/]
 ---
 
 

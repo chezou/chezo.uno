@@ -1,35 +1,20 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2011-04-06 15:00:59-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2011-04-06 15:00:59-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: Eric WhitacreのTEDでの講演が公開
-keywords:
-  - virtual
-  - choir
-  - whitacre
-  - 動画
-  - ted
-  - 合唱
-  - youtube
-  - 説明
-  - "12"
-  - 紹介
-recommendations:
-  - /post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/
-  - /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/
-  - /post/2011-04-09-eritukuuitekashi-yu-ding-tong-rilai-ri/
+keywords: [virtual, choir, whitacre, 動画, ted, 合唱, youtube, 説明, '12', 紹介]
+recommendations: [/post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/,
+  /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
+  /post/2011-04-09-eritukuuitekashi-yu-ding-tong-rilai-ri/]
 ---
 
 

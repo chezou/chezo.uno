@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-08-30 01:08:13-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-08-30 01:08:13-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: RENT ブロードウェーツアーを見て来た
-keywords:
-  - マーク
-  - ロック
-  - バンド
-  - 日程
-  - 映画
-  - 低い
-  - 日本人
-  - 幸せ
-  - 感謝
-  - 思い
-recommendations:
-  - /post/2009-07-11-masa-festanotiketutogalai-ta/
-  - /post/2011-04-07-soredemotake6halai-ri-suru/
-  - /post/2009-03-09-masafestanirajatonga/
+keywords: [マーク, ロック, バンド, 日程, 映画, 低い, 日本人, 幸せ, 感謝, 思い]
+recommendations: [/post/2009-07-11-masa-festanotiketutogalai-ta/, /post/2011-04-07-soredemotake6halai-ri-suru/,
+  /post/2009-03-09-masafestanirajatonga/]
 ---
 
 

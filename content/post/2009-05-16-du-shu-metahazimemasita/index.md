@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-05-16 14:53:40-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-05-16 14:53:40-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 読書メーターはじめました
-keywords:
-  - 読書
-  - 気分転換
-  - ライフログ
-  - 読書メーター
-  - excite
-  - わけ
-  - なく
-  - 投資
-  - グラフ
-  - 満足
-recommendations:
-  - /post/2009-07-23-du-shu-metanomian-dao-natokoro/
-  - /post/2009-05-02-hazimemasite-wordpress/
-  - /post/2010-01-01-12yue-nidu-ndaben/
+keywords: [読書, 気分転換, ライフログ, 読書メーター, excite, わけ, なく, 投資, グラフ, 満足]
+recommendations: [/post/2009-07-23-du-shu-metanomian-dao-natokoro/, /post/2009-05-02-hazimemasite-wordpress/,
+  /post/2010-01-01-12yue-nidu-ndaben/]
 ---
 
 

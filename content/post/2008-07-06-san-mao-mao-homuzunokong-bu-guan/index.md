@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-07-05 18:07:00-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-07-05 18:07:00-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 三毛猫ホームズの恐怖館
-keywords:
-  - 印象
-  - 理解
-  - 箇所
-  - 角川書店
-  - 伏線
-  - 描写
-  - 友人
-  - 人間
-  - 文章
-  - 子供
-recommendations:
-  - /post/2008-09-06-feng-gaqiang-kuchui-iteiru/
-  - /post/2008-07-19-xi-nomo-nu-gasi-nda/
-  - /post/2008-09-08-luck-stealer-2/
+keywords: [印象, 理解, 箇所, 角川書店, 伏線, 描写, 友人, 人間, 文章, 子供]
+recommendations: [/post/2008-09-06-feng-gaqiang-kuchui-iteiru/, /post/2008-07-19-xi-nomo-nu-gasi-nda/,
+  /post/2008-09-08-luck-stealer-2/]
 ---
 
 

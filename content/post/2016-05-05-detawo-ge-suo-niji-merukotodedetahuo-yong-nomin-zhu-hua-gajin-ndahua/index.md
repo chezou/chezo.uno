@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2016-05-05 15:20:46-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2016-05-05 15:20:46-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: データを一箇所に集めることでデータ活用の民主化が進んだ話
-keywords:
-  - sql
-  - データ
-  - 箇所
-  - こと
-  - ディレクター
-  - 分析
-  - データ分析
-  - クエリ
-  - エンジニア
-  - 民主化
-recommendations:
-  - /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
-  - /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/
-  - /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/
+keywords: [sql, データ, 箇所, こと, ディレクター, 分析, データ分析, クエリ, エンジニア, 民主化]
+recommendations: [/post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
+  /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/, /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/]
 ---
 
 

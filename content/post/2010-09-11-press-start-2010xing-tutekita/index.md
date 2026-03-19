@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2010-09-11 14:59:42-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2010-09-11 14:59:42-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: PRESS START 2010行ってきた
-keywords:
-  - メドレー
-  - 演奏会
-  - メロディ
-  - 演奏
-  - 素晴らしい
-  - ファイアーエムブレム
-  - カエル
-  - かけ声
-  - 魔王
-  - 編成
-recommendations:
-  - /post/2008-07-09-press-startdang-xuan-simasita/
-  - /post/2009-07-05-guan-dong-hagame-musichoihoida/
-  - /post/2009-05-24-kuronotorigano-shi-nohui-lang-gaming-qu-sugiru/
+keywords: [メドレー, 演奏会, メロディ, 演奏, 素晴らしい, ファイアーエムブレム, カエル, かけ声, 魔王, 編成]
+recommendations: [/post/2008-07-09-press-startdang-xuan-simasita/, /post/2009-07-05-guan-dong-hagame-musichoihoida/,
+  /post/2009-05-24-kuronotorigano-shi-nohui-lang-gaming-qu-sugiru/]
 ---
 
 

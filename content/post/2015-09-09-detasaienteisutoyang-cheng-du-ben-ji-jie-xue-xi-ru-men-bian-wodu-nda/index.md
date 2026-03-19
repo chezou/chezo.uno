@@ -1,35 +1,20 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2015-09-09 15:14:09-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2015-09-09 15:14:09-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 「データサイエンティスト養成読本 機械学習入門編」を読んだ
-keywords:
-  - 特集
-  - 機械学習
-  - 入門
-  - 読本
-  - 比戸
-  - データサイエンティスト
-  - 養成
-  - 福島
-  - シリーズ
-  - 阿部
-recommendations:
-  - /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/
-  - /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/
-  - /post/2018-05-17_mlse-kickoff/
+keywords: [特集, 機械学習, 入門, 読本, 比戸, データサイエンティスト, 養成, 福島, シリーズ, 阿部]
+recommendations: [/post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/,
+  /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/,
+  /post/2018-05-17_mlse-kickoff/]
 ---
 
 

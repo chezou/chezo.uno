@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2012-09-25 15:03:37-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2012-09-25 15:03:37-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: SINGSとDobrogoszが再び共演
-keywords:
-  - sings
-  - dobrogosz
-  - steve
-  - 共演
-  - 集団
-  - 日時
-  - スウェーデン
-  - 日本
-  - 開演
-  - 開場
-recommendations:
-  - /post/2008-10-28-sings-2008-with-steve-dobrogosz/
-  - /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/
-  - /post/2011-04-07-soredemotake6halai-ri-suru/
+keywords: [sings, dobrogosz, steve, 共演, 集団, 日時, スウェーデン, 日本, 開演, 開場]
+recommendations: [/post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/,
+  /post/2011-04-07-soredemotake6halai-ri-suru/]
 ---
 
 

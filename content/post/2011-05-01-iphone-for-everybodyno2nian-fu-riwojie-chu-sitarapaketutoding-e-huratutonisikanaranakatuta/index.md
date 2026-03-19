@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2011-05-01 04:05:24-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2011-05-01 04:05:24-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: iPhone for everybodyの2年縛りを解除したらパケット定額フラットにしかならなかった
-keywords:
-  - パケットし放題
-  - スマートフォン
-  - パケット定額
-  - 契約
-  - 縛り
-  - iphone
-  - 選択肢
-  - ソフトバンク
-  - 段階
-  - everybody
-recommendations:
-  - /post/2009-05-04-ad-es-wojie-yue-surutameni/
-  - /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/
-  - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
+keywords: [パケットし放題, スマートフォン, パケット定額, 契約, 縛り, iphone, 選択肢, ソフトバンク, 段階, everybody]
+recommendations: [/post/2009-05-04-ad-es-wojie-yue-surutameni/, /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/,
+  /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
 ---
 
 

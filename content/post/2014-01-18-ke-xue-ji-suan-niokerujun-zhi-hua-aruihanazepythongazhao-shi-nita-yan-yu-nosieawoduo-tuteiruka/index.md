@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2014-01-17 18:01:18-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2014-01-17 18:01:18-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 科学計算における均質化、あるいはなぜPythonが着実に他言語のシェアを奪っているか
-keywords:
-  - python
-  - 言語
-  - こと
-  - パッケージ
-  - 統計的
-  - 科学
-  - 可視化
-  - matlab
-  - コード
-  - 計算
-recommendations:
-  - /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/
-  - /post/2017-08-03_oss--------------48807bbbf13f/
-  - /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/
+keywords: [python, 言語, こと, パッケージ, 統計的, 科学, 可視化, matlab, コード, 計算]
+recommendations: [/post/2017-09-09_pyconjp-2017------5fa5f59b9bde/, /post/2017-08-03_oss--------------48807bbbf13f/,
+  /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/]
 ---
 
 

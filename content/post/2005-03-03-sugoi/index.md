@@ -1,29 +1,16 @@
 ---
-authors:
-  - aki
+authors: [aki]
 date: 2005-03-03 13:47:48-08:00
 draft: false
 featured: false
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: すごーい！！
-keywords:
-  - ca
-  - 携帯
-  - 機種変
-  - ポイント
-  - 学割
-  - "2500"
-  - ボタン
-  - 友達
-  - "3000"
-  - 写真
-recommendations:
-  - /post/2005-04-23-willcom/
-  - /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/
-  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
+keywords: [ca, 携帯, 機種変, ポイント, 学割, '2500', ボタン, 友達, '3000', 写真]
+recommendations: [/post/2005-04-23-willcom/, /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/,
+  /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/]
 ---
 
 

@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-10-10 14:48:52-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-10-10 14:48:52-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: ちいさなちいさな王様
-keywords:
-  - 一言
-  - 感激
-  - 講談社
-  - 主人公
-  - 小さく
-  - 深い
-  - 納得
-  - 文章
-  - isbn
-  - スコア
-recommendations:
-  - /post/2008-07-19-can-shu-gui-tou-mo-hong/
-  - /post/2008-07-30-narutaru/
-  - /post/2008-10-10-luo-yu-bai-xuan-xia/
+keywords: [一言, 感激, 講談社, 主人公, 小さく, 深い, 納得, 文章, isbn, スコア]
+recommendations: [/post/2008-07-19-can-shu-gui-tou-mo-hong/, /post/2008-07-30-narutaru/,
+  /post/2008-10-10-luo-yu-bai-xuan-xia/]
 ---
 
 

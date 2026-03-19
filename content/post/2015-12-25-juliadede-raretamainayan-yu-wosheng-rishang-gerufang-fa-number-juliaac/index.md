@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2015-12-24 16:00:00-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2015-12-24 16:00:00-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: "Juliaで得られたマイナー言語を盛り上げる方法 #JuliaAC"
-keywords:
-  - julia
-  - 言語
-  - 開催
-  - 情報
-  - エヴァンジェリスト
-  - advent
-  - juliatokyo
-  - 日本語
-  - 負荷
-  - calendar
-recommendations:
-  - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
-  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
-  - /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/
+title: 'Juliaで得られたマイナー言語を盛り上げる方法 #JuliaAC'
+keywords: [julia, 言語, 開催, 情報, エヴァンジェリスト, advent, juliatokyo, 日本語, 負荷, calendar]
+recommendations: [/post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/,
+  /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/, /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/]
 ---
 
 
