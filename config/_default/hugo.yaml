@@ -21,6 +21,8 @@ cascade:
       kind: page
 
 
+ignoreLogs:
+  - shortcode-x-getremote
 build:
   writeStats: true
 enableGitInfo: false
@@ -42,7 +44,6 @@ ignoreFiles:
   - _cache$
 disableAliases: false
 timeout: 600000
-summaryLength: 40
 outputs:
   home:
     - HTML
