@@ -21,6 +21,8 @@ cascade:
       kind: page
 
 
+ignoreLogs:
+  - shortcode-x-getremote
 build:
   writeStats: true
 enableGitInfo: false
