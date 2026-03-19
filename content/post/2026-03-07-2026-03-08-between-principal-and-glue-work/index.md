@@ -1,6 +1,6 @@
 ---
 title: Principal と器用貧乏のあいだ
-date: 2026-03-08 05:56:00+00:00
+date: 2026-03-08 05:56:00-07:00
 draft: false
 featured: true
 image: {preview_only: false}

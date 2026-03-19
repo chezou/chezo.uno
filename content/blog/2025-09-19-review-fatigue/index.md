@@ -1,8 +1,8 @@
 ---
 title: Tackling Review Fatigue by Document Driven Agentic Coding
 subtitle: Does agentic coding increase review productivity?
-date: 2025-09-19 21:26:00+00:00
-lastmod: 2025-09-19 21:26:00+00:00
+date: 2025-09-19 21:26:00-07:00
+lastmod: 2025-09-19 21:26:00-07:00
 categories: [AI, LLM]
 draft: false
 featured: false

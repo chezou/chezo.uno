@@ -1,7 +1,7 @@
 ---
 title: Pages CMSの設定をした
-date: 2025-08-24 12:09:00+00:00
-lastmod: 2025-08-24 15:42:00+00:00
+date: 2025-08-24 12:09:00-07:00
+lastmod: 2025-08-24 15:42:00-07:00
 draft: false
 featured: false
 image: {preview_only: false, filename: /pages-cms.png}
