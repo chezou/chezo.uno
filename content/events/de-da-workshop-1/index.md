@@ -9,7 +9,7 @@ address:
   postcode: null
   country: null
 summary: null
-abstract: An introduction of using artibary Python packages on PySpark with Cloudera Data Science Workbench
+abstract: An introduction of using arbitrary Python packages on PySpark with Cloudera Data Science Workbench
 date: 2019-12-01T17:33:34+09:00
 authors: []
 tags: []

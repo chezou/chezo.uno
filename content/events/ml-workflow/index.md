@@ -9,7 +9,7 @@ address:
   postcode: null
   country: null
 summary: null
-abstract: Developping and testing for workflows productively is hard. In this session, I talk about how to develop heavy data dependent workflow with digdag.
+abstract: Developing and testing workflows productively is hard. In this session, I talk about how to develop heavy, data-dependent workflows with Digdag.
 date: 2019-12-01T17:32:40+09:00
 authors:
   - aki
