@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: chezou/chezo.uno
-  branch: master
+  branch: main
   base_url: https://sveltia-cms-auth.chezou.workers.dev
 
 media_folder: assets/media
