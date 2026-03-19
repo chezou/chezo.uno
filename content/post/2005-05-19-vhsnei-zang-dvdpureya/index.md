@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2005-05-18 23:05:00-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2005-05-18 23:05:00-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: VHS内蔵DVDプレーヤー
-keywords:
-  - 矛盾
-  - ありか
-  - dvdプレーヤー
-  - 需要
-  - 無性
-  - 搭載
-  - プレーヤー
-  - 修理
-  - dvd
-  - 両方
-recommendations:
-  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
-  - /post/2006-07-28-xia-nanode/
-  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
+keywords: [矛盾, ありか, dvdプレーヤー, 需要, 無性, 搭載, プレーヤー, 修理, dvd, 両方]
+recommendations: [/post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
+  /post/2006-07-28-xia-nanode/, /post/2008-01-18-souiebakokohawu-yu-burogudatuta/]
 ---
 
 

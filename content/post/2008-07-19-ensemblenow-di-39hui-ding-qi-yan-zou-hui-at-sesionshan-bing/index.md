@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-07-19 14:52:20-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-07-19 14:52:20-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: EnsembleNow 第39回定期演奏会＠セシオン杉並
-keywords:
-  - busto
-  - 団体
-  - 信仰
-  - 三善
-  - アバウト
-  - scarborough
-  - mäntyjärvi
-  - david
-  - cayabyab
-  - 宗教
-recommendations:
-  - /post/2005-07-17-urayamasika/
-  - /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/
-  - /post/2008-10-28-sings-2008-with-steve-dobrogosz/
+keywords: [busto, 団体, 信仰, 三善, アバウト, scarborough, mäntyjärvi, david, cayabyab, 宗教]
+recommendations: [/post/2005-07-17-urayamasika/, /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/,
+  /post/2008-10-28-sings-2008-with-steve-dobrogosz/]
 ---
 
 

@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-06-09 14:54:29-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-06-09 14:54:29-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 新型iPhone 3G Sの価格について
-keywords:
-  - gb
-  - １６
-  - office
-  - 価格
-  - 本数
-  - スパボ
-  - standard
-  - professional
-  - "2007"
-  - ちなみ
-recommendations:
-  - /post/2005-03-03-sugoi/
-  - /post/2009-05-04-ad-es-wojie-yue-surutameni/
-  - /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/
+keywords: [gb, １６, office, 価格, 本数, スパボ, standard, professional, '2007', ちなみ]
+recommendations: [/post/2005-03-03-sugoi/, /post/2009-05-04-ad-es-wojie-yue-surutameni/,
+  /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/]
 ---
 
 

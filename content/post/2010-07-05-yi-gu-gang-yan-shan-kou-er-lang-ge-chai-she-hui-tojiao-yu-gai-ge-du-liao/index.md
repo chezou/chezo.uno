@@ -1,35 +1,20 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2010-07-05 14:59:10-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2010-07-05 14:59:10-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 苅谷剛彦、山口二郎「格差社会と教育改革」読了
-keywords:
-  - 教育
-  - 予算
-  - 新自由主義
-  - 議論
-  - 主張
-  - 学力
-  - 時期
-  - もと
-  - 感覚
-  - 変化
-recommendations:
-  - /post/2010-07-30-dezitarujiao-ke-shu-jiao-cai-xie-yi-hui-she-li-sinpoziumu-can-jia-simasita/
-  - /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/
-  - /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/
+keywords: [教育, 予算, 新自由主義, 議論, 主張, 学力, 時期, もと, 感覚, 変化]
+recommendations: [/post/2010-07-30-dezitarujiao-ke-shu-jiao-cai-xie-yi-hui-she-li-sinpoziumu-can-jia-simasita/,
+  /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
+  /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/]
 ---
 
 

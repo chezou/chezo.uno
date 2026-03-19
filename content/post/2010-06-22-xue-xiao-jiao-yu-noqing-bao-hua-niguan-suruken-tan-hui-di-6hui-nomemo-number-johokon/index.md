@@ -1,35 +1,20 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2010-06-22 04:06:47-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2010-06-22 04:06:47-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 「学校教育の情報化に関する懇談会」第6回のメモ #johokon
-keywords:
-  - 教育
-  - ict
-  - 研修
-  - 普及
-  - 世紀
-  - 教員
-  - 仕組み
-  - 支援
-  - "21"
-  - コンテンツ
-recommendations:
-  - /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/
-  - /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/
-  - /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/
+keywords: [教育, ict, 研修, 普及, 世紀, 教員, 仕組み, 支援, '21', コンテンツ]
+recommendations: [/post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/,
+  /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/,
+  /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/]
 ---
 
 

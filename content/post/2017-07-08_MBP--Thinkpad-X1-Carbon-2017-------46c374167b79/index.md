@@ -1,27 +1,15 @@
 ---
-aliases:
-  - /post/2017-07-08_mbp-thinkpad-x1-carbon-2017-46c374167b79/
-authors:
-  - aki
+aliases: [/post/2017-07-08_mbp-thinkpad-x1-carbon-2017-46c374167b79/]
+authors: [aki]
 categories: []
 date: 2017-07-07 20:14:24-07:00
-description: joker1007さんも煽っていることもあり、MacBook Pro Retina(2015) 15インチが重すぎてしんどいので、Thinkpad X1…
+description: joker1007さんも煽っていることもあり、MacBook Pro Retina(2015) 15インチが重すぎてしんどいので、Thinkpad
+  X1…
 title: MBPからThinkpad X1 Carbon(2017)に移行した
-keywords:
-  - macbook
-  - ime
-  - alt
-  - pip
-  - デュアルブート
-  - 辞書
-  - install
-  - キーボード
-  - windows
-  - "36"
-recommendations:
-  - /post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/
-  - /post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/
-  - /post/2011-02-05-acer-aspire-1410wocrucial-realssd-c300niwai-fu-kedvdnasinihuan-zhuang-sita/
+keywords: [macbook, ime, alt, pip, デュアルブート, 辞書, install, キーボード, windows, '36']
+recommendations: [/post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/,
+  /post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/,
+  /post/2011-02-05-acer-aspire-1410wocrucial-realssd-c300niwai-fu-kedvdnasinihuan-zhuang-sita/]
 ---
 
 

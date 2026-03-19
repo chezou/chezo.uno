@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-02-28 20:03:00-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-02-28 20:03:00-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 世界最大規模のアカペラ祭が日本で
-keywords:
-  - コンテスト
-  - アカペラ
-  - 講師
-  - 盆休み
-  - 申込み
-  - 最大規模
-  - メニュー
-  - お祭り
-  - 全国
-  - 以内
-recommendations:
-  - /post/2009-03-09-masafestanirajatonga/
-  - /post/2008-07-05-rajaton/
-  - /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/
+keywords: [コンテスト, アカペラ, 講師, 盆休み, 申込み, 最大規模, メニュー, お祭り, 全国, 以内]
+recommendations: [/post/2009-03-09-masafestanirajatonga/, /post/2008-07-05-rajaton/,
+  /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/]
 ---
 
 

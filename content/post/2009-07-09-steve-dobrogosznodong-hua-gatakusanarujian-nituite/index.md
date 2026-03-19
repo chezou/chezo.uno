@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-07-09 14:54:56-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-07-09 14:54:56-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: Steve Dobrogoszの動画がたくさんある件について
-keywords:
-  - リハーサル
-  - mass
-  - アンコール
-  - 合唱曲
-  - ピアノ
-  - かっこいい
-  - sings
-  - lord
-  - 変態
-  - 模様
-recommendations:
-  - /post/2008-10-28-sings-2008-with-steve-dobrogosz/
-  - /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/
-  - /post/2012-09-25-singstodobrogoszgazai-bigong-yan/
+keywords: [リハーサル, mass, アンコール, 合唱曲, ピアノ, かっこいい, sings, lord, 変態, 模様]
+recommendations: [/post/2008-10-28-sings-2008-with-steve-dobrogosz/, /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/,
+  /post/2012-09-25-singstodobrogoszgazai-bigong-yan/]
 ---
 
 

@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2015-05-20 17:37:16-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2015-05-20 17:37:16-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: Googleドライブやカレンダーの共有権限を管理するにはGoogle groupsが便利
-keywords:
-  - groups
-  - 権限
-  - グループ
-  - google
-  - カレンダー
-  - メンバー
-  - 公開
-  - 共有
-  - 編集
-  - ヘルプ
-recommendations:
-  - /post/2020-05-29_google-meetとyoutube-liveでオンラインミートアップの配信をした/
-  - /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/
-  - /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/
+keywords: [groups, 権限, グループ, google, カレンダー, メンバー, 公開, 共有, 編集, ヘルプ]
+recommendations: [/post/2020-05-29_google-meetとyoutube-liveでオンラインミートアップの配信をした/, /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
+  /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
 ---
 
 

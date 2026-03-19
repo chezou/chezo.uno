@@ -1,29 +1,13 @@
 ---
-authors:
-  - aki
+authors: [aki]
 date: 2019-11-30 03:32:00-08:00
 lastmod: 2019-12-17 09:49:00-08:00
 summary: CRANを捨ててGitHubに帰ろう
-tags:
-  - Engineering
-  - OSS
-  - R
+tags: [Engineering, OSS, R]
 title: Rパッケージ開発の闇
-keywords:
-  - cran
-  - パッケージ
-  - msgpack
-  - untitled
-  - rtd
-  - wakalang
-  - data
-  - md
-  - 当時
-  - 依存
-recommendations:
-  - /post/2019-12-04-r-and-td/
-  - /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/
-  - /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/
+keywords: [cran, パッケージ, msgpack, untitled, rtd, wakalang, data, md, 当時, 依存]
+recommendations: [/post/2019-12-04-r-and-td/, /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
+  /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/]
 ---
 
 

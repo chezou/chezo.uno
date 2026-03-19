@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2015-05-03 03:00:00-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2015-05-03 03:00:00-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: "rubyist.club はじめてました #rubyistclub"
-keywords:
-  - 会議
-  - 地域
-  - ruby
-  - オフライン
-  - miyohide
-  - podcast
-  - club
-  - 人数
-  - ミート
-  - rubyist
-recommendations:
-  - /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/
-  - /post/2017-01-25-mata-tunian-wototuta/
-  - /post/2013-08-25-llmaturinican-jia-simasita/
+title: 'rubyist.club はじめてました #rubyistclub'
+keywords: [会議, 地域, ruby, オフライン, miyohide, podcast, club, 人数, ミート, rubyist]
+recommendations: [/post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/,
+  /post/2017-01-25-mata-tunian-wototuta/, /post/2013-08-25-llmaturinican-jia-simasita/]
 ---
 
 

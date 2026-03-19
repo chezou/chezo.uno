@@ -1,37 +1,19 @@
 ---
 title: 25年ぶりにスキーを再開した
-subtitle: ""
-summary: ""
-authors:
-  - aki
-tags:
-  - ski
-categories:
-  - outdoor
+subtitle: ''
+summary: ''
+authors: [aki]
+tags: [ski]
+categories: [outdoor]
 date: 2023-04-05 13:38:23-07:00
 lastmod: 2023-04-05 13:38:23-07:00
 featured: false
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords:
-  - スキー
-  - 子供
-  - 後半
-  - 投稿
-  - "30"
-  - 長期間
-  - パラレル
-  - スキー場
-  - whistler
-  - mountain
-recommendations:
-  - /post/2021-12-15-relocated-to-vancouver/
-  - /post/2021-12-18-8-months-after-relocating-vancouver/
-  - /post/2022-12-30-2022-year-in-review/
+keywords: [スキー, 子供, 後半, 投稿, '30', 長期間, パラレル, スキー場, whistler, mountain]
+recommendations: [/post/2021-12-15-relocated-to-vancouver/, /post/2021-12-18-8-months-after-relocating-vancouver/,
+  /post/2022-12-30-2022-year-in-review/]
 ---
 
 

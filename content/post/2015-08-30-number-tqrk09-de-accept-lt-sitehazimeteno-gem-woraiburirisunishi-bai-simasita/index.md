@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2015-08-30 14:10:51-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2015-08-30 14:10:51-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: "#tqrk09 で Accept LT してはじめての Gem をライブリリースに失敗しました"
-keywords:
-  - tag
-  - tags
-  - surface
-  - kytea
-  - "100.0"
-  - 名詞
-  - 語尾
-  - 天気
-  - str
-  - working
-recommendations:
-  - /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
-  - /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/
-  - /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/
+title: '#tqrk09 で Accept LT してはじめての Gem をライブリリースに失敗しました'
+keywords: [tag, tags, surface, kytea, '100.0', 名詞, 語尾, 天気, str, working]
+recommendations: [/post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
+  /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/]
 ---
 
 

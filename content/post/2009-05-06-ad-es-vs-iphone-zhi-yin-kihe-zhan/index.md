@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-05-05 22:05:42-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-05-05 22:05:42-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: Ad[es] VS iPhone(値引き合戦)
-keywords:
-  - 解約
-  - willcom
-  - iphone
-  - ad
-  - es
-  - 手数料
-  - 月額
-  - gw
-  - コスト
-  - 端末
-recommendations:
-  - /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/
-  - /post/2009-05-04-ad-es-wojie-yue-surutameni/
-  - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
+keywords: [解約, willcom, iphone, ad, es, 手数料, 月額, gw, コスト, 端末]
+recommendations: [/post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/, /post/2009-05-04-ad-es-wojie-yue-surutameni/,
+  /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
 ---
 
 

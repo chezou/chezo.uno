@@ -1,27 +1,13 @@
 ---
-authors:
-  - aki
+authors: [aki]
 date: 2019-11-26 03:17:00-08:00
 lastmod: 2019-11-26 21:18:00-08:00
 summary: スマホとかしてると首痛くなると思いますが、そんな人のための枕です
-tags:
-  - 散財
+tags: [散財]
 title: ストレートネック向け最近の枕事情
-keywords:
-  - ピロー
-  - ネック
-  - 高さ
-  - 出張
-  - cm
-  - グリーン
-  - アイテム
-  - 快適
-  - たび
-  - 気味
-recommendations:
-  - /post/2019-03-10_business-trip-goods/
-  - /post/2017-12-30_2017------------bbf834e065c5/
-  - /post/2020-04-03-microphone-for-remote-meeting/
+keywords: [ピロー, ネック, 高さ, 出張, cm, グリーン, アイテム, 快適, たび, 気味]
+recommendations: [/post/2019-03-10_business-trip-goods/, /post/2017-12-30_2017------------bbf834e065c5/,
+  /post/2020-04-03-microphone-for-remote-meeting/]
 ---
 
 

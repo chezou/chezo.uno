@@ -1,36 +1,19 @@
 ---
-authors:
-  - aki
-categories:
-  - tech
+authors: [aki]
+categories: [tech]
 date: 2020-12-10 07:00:00-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2020-12-10 07:00:00-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: メッシュWiFiが安定しないので有線LANを張り巡らせたんだが
-keywords:
-  - 有線
-  - lan
-  - 工事
-  - バック
-  - 安定
-  - ホール
-  - wifi
-  - メッシュ
-  - ソフト
-  - wi-fi
-recommendations:
-  - /post/2025-08-23-summer-vacation/
-  - /post/2025-12-20-2025-12-20-year-in-review/
-  - /post/2016-12-31-2016nian-wozhen-rifan-tute/
+keywords: [有線, lan, 工事, バック, 安定, ホール, wifi, メッシュ, ソフト, wi-fi]
+recommendations: [/post/2025-08-23-summer-vacation/, /post/2025-12-20-2025-12-20-year-in-review/,
+  /post/2016-12-31-2016nian-wozhen-rifan-tute/]
 ---
 
 

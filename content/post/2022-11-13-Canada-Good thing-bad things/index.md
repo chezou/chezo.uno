@@ -1,27 +1,13 @@
 ---
-authors:
-  - aki
+authors: [aki]
 date: 2022-11-13 18:34:00-08:00
 lastmod: 2022-11-13 19:07:00-08:00
 summary: カナダ（バンクーバーエリア）のいいところと悪いところをまとめました
-tags:
-  - Canada
+tags: [Canada]
 title: カナダのいいとこ悪いとこ
-keywords:
-  - 多い
-  - 美味しい
-  - 日本
-  - 高い
-  - 学校
-  - 電話
-  - 電車
-  - 保険
-  - パン
-  - バス
-recommendations:
-  - /post/2021-12-18-8-months-after-relocating-vancouver/
-  - /post/2021-12-15-relocated-to-vancouver/
-  - /post/2022-11-28-cancel-japanese-service/
+keywords: [多い, 美味しい, 日本, 高い, 学校, 電話, 電車, 保険, パン, バス]
+recommendations: [/post/2021-12-18-8-months-after-relocating-vancouver/, /post/2021-12-15-relocated-to-vancouver/,
+  /post/2022-11-28-cancel-japanese-service/]
 ---
 
 

@@ -1,36 +1,19 @@
 ---
-authors:
-  - aki
-categories:
-  - ruby
+authors: [aki]
+categories: [ruby]
 date: 2013-08-02 23:08:43-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2013-08-02 23:08:43-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: "Kawasaki.rb #002 開催しました #kwskrb"
-keywords:
-  - ruby
-  - 焼肉
-  - "002"
-  - プロジェクター
-  - kawasaki
-  - ニコニコ動画
-  - kwskrb
-  - rb
-  - 紹介
-  - コメント
-recommendations:
-  - /post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/
-  - /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/
-  - /post/2013-06-29-kawasaki-dot-rb-number-001-di-1hui-mitoatupuwokai-cui-simasita-number-kwskrb/
+title: 'Kawasaki.rb #002 開催しました #kwskrb'
+keywords: [ruby, 焼肉, '002', プロジェクター, kawasaki, ニコニコ動画, kwskrb, rb, 紹介, コメント]
+recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/,
+  /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/, /post/2013-06-29-kawasaki-dot-rb-number-001-di-1hui-mitoatupuwokai-cui-simasita-number-kwskrb/]
 ---
 
 

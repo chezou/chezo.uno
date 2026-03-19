@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-10-27 14:56:37-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-10-27 14:56:37-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: いつのまにか、wptouchが導入されていた
-keywords:
-  - iphone
-  - 対応
-  - appbank
-  - ipod touch
-  - flash
-  - fc
-  - rss
-  - 自動的
-  - wordpress
-  - とき
-recommendations:
-  - /post/2025-08-24-pages-cms/
-  - /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
-  - /post/2009-06-11-iphoneniwang-mukoto/
+keywords: [iphone, 対応, appbank, ipod touch, flash, fc, rss, 自動的, wordpress, とき]
+recommendations: [/post/2025-08-24-pages-cms/, /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
+  /post/2009-06-11-iphoneniwang-mukoto/]
 ---
 
 

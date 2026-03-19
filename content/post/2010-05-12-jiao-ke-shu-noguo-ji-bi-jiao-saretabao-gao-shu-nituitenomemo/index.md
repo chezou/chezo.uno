@@ -1,35 +1,20 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2010-05-12 14:58:37-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2010-05-12 14:58:37-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 教科書の国際比較された報告書についてのメモ
-keywords:
-  - 教科書
-  - イギリス
-  - 義務
-  - フランス
-  - 韓国
-  - 欧米
-  - 台湾
-  - 試験
-  - 使用
-  - アメリカ
-recommendations:
-  - /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/
-  - /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/
-  - /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/
+keywords: [教科書, イギリス, 義務, フランス, 韓国, 欧米, 台湾, 試験, 使用, アメリカ]
+recommendations: [/post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/,
+  /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/,
+  /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/]
 ---
 
 

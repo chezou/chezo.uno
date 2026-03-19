@@ -1,28 +1,13 @@
 ---
-authors:
-  - aki
+authors: [aki]
 date: 2019-11-17 08:38:00-08:00
 lastmod: 2019-11-17 08:56:00-08:00
 summary: digdagのworkflowを実行可能かチェックするためのポイントとcookiecutterの紹介
-tags:
-  - Engineering
-  - OSS
+tags: [Engineering, OSS]
 title: digdagのworkflowをCIでrun throughする
-keywords:
-  - workflow
-  - digdag
-  - テスト
-  - file
-  - pycharm
-  - boxes
-  - 実際
-  - ため
-  - レンダー
-  - デバッグ
-recommendations:
-  - /post/2019-12-24-python-custom-scripting/
-  - /post/2019-11-16-tdworkflow/
-  - /post/2019-11-25-github actions-issue template/
+keywords: [workflow, digdag, テスト, file, pycharm, boxes, 実際, ため, レンダー, デバッグ]
+recommendations: [/post/2019-12-24-python-custom-scripting/, /post/2019-11-16-tdworkflow/,
+  /post/2019-11-25-github actions-issue template/]
 ---
 
 

@@ -1,27 +1,13 @@
 ---
-authors:
-  - aki
+authors: [aki]
 date: 2022-02-07 18:34:00-08:00
 lastmod: 2022-12-16 15:54:00-08:00
 summary: 海外移住した際の、給与所得・退職所得の扱いについてまとめました
-tags:
-  - tax
+tags: [tax]
 title: 年度途中に海外移住した年の給与・退職所得の扱い
-keywords:
-  - 非居住者
-  - 所得税
-  - "81"
-  - 移住
-  - 制度
-  - "89"
-  - 給与
-  - 源泉所得税
-  - 書類
-  - 国税庁
-recommendations:
-  - /post/2021-11-09-tax-on-publication/
-  - /post/2021-12-31-2021-year-review/
-  - /post/2022-01-09-vancouver-engineer-podcast/
+keywords: [非居住者, 所得税, '81', 移住, 制度, '89', 給与, 源泉所得税, 書類, 国税庁]
+recommendations: [/post/2021-11-09-tax-on-publication/, /post/2021-12-31-2021-year-review/,
+  /post/2022-01-09-vancouver-engineer-podcast/]
 ---
 
 

@@ -1,35 +1,20 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2010-07-30 14:59:20-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2010-07-30 14:59:20-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 「デジタル教科書教材協議会設立シンポジウム」参加しました
-keywords:
-  - デジタル教科書
-  - 教材
-  - 能力
-  - 先生
-  - 主張
-  - 格差
-  - 校長
-  - 協議会
-  - ビジネスモデル
-  - 学習
-recommendations:
-  - /post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/
-  - /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/
-  - /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/
+keywords: [デジタル教科書, 教材, 能力, 先生, 主張, 格差, 校長, 協議会, ビジネスモデル, 学習]
+recommendations: [/post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/,
+  /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/,
+  /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/]
 ---
 
 

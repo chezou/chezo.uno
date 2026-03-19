@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-10-28 14:51:21-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-10-28 14:51:21-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: SINGS 2008 with Steve Dobrogosz
-keywords:
-  - ピアノ
-  - dobrogosz
-  - 明るく
-  - sings
-  - 言葉
-  - 演奏会
-  - 会場
-  - 演奏
-  - 荒い
-  - 素晴らしかっ
-recommendations:
-  - /post/2012-09-25-singstodobrogoszgazai-bigong-yan/
-  - /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/
-  - /post/2008-10-28-mai-tutesimatuta/
+keywords: [ピアノ, dobrogosz, 明るく, sings, 言葉, 演奏会, 会場, 演奏, 荒い, 素晴らしかっ]
+recommendations: [/post/2012-09-25-singstodobrogoszgazai-bigong-yan/, /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/,
+  /post/2008-10-28-mai-tutesimatuta/]
 ---
 
 

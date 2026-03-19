@@ -1,35 +1,20 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2016-10-15 09:20:47-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2016-10-15 09:20:47-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: RNNLMベースの形態素解析器 JUMAN++ をhomebrewでインストールできるようにした
-keywords:
-  - juman
-  - homebrew
-  - core
-  - upstream
-  - jumanpp
-  - neologd
-  - formula
-  - issue
-  - mecab
-  - コーパス
-recommendations:
-  - /post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/
-  - /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/
-  - /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
+keywords: [juman, homebrew, core, upstream, jumanpp, neologd, formula, issue, mecab,
+  コーパス]
+recommendations: [/post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/,
+  /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/, /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/]
 ---
 
 

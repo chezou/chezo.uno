@@ -1,29 +1,13 @@
 ---
-aliases:
-  - /post/2017-12-23_-701333a45696/
-authors:
-  - aki
-categories:
-  - kids
-  - life
+aliases: [/post/2017-12-23_-701333a45696/]
+authors: [aki]
+categories: [kids, life]
 date: 2017-12-22 22:01:03-08:00
 description: この記事はpyspaアドベントカレンダーの24日目です。昨日はしぶかわさんのローンの話でした。車のローンも繰り上げ返済できるから印税で返済しましょう！という話はしびれますね。
 title: ワンオペ育児がやってきたヤァ！ヤァ！ヤァ！
-keywords:
-  - 依頼
-  - 食洗機
-  - 設置
-  - 子供
-  - マッチング
-  - 高さ
-  - 週間
-  - 食器洗い乾燥機
-  - パナソニック
-  - 時間
-recommendations:
-  - /post/2012-01-01-2012nian-nobao-fu/
-  - /post/2025-08-23-summer-vacation/
-  - /post/2025-12-22-2025-12-22-neuro-diversity-book/
+keywords: [依頼, 食洗機, 設置, 子供, マッチング, 高さ, 週間, 食器洗い乾燥機, パナソニック, 時間]
+recommendations: [/post/2012-01-01-2012nian-nobao-fu/, /post/2025-08-23-summer-vacation/,
+  /post/2025-12-22-2025-12-22-neuro-diversity-book/]
 ---
 
 

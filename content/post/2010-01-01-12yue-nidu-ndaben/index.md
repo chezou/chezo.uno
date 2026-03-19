@@ -1,29 +1,16 @@
 ---
-authors:
-  - aki
+authors: [aki]
 date: 2010-01-01 01:01:57-08:00
 draft: false
 featured: false
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 12月に読んだ本
-keywords:
-  - 読了
-  - twitter
-  - ゲーム
-  - 絶対音感
-  - ぼくらの
-  - 著者
-  - ウェブ
-  - 社会
-  - リアルタイム
-  - "12"
-recommendations:
-  - /post/2009-05-16-du-shu-metahazimemasita/
-  - /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/
-  - /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/
+keywords: [読了, twitter, ゲーム, 絶対音感, ぼくらの, 著者, ウェブ, 社会, リアルタイム, '12']
+recommendations: [/post/2009-05-16-du-shu-metahazimemasita/, /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/,
+  /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/]
 ---
 
 

@@ -1,30 +1,15 @@
 ---
-aliases:
-  - /blog/python-basics-package-management-462918458f96
-  - /blog/462918458f96
-authors:
-  - aki
-categories:
-  - python
+aliases: [/blog/python-basics-package-management-462918458f96, /blog/462918458f96]
+authors: [aki]
+categories: [python]
 date: 2017-08-29 19:31:15-07:00
-description: Python is a very famous programming language for machine learning.
-  In this article, I will introduce basic Python environment.
-title: "Python basics: package management"
-keywords:
-  - python
-  - package
-  - install
-  - virtualenv
-  - venv
-  - pip
-  - windows
-  - packages
-  - management
-  - use
-recommendations:
-  - /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/
-  - /blog/2022-05-21_fastest-way-to-release-python-cli/
-  - /blog/2024-01-26_scrape-notion-to-pdf/
+description: Python is a very famous programming language for machine learning. In
+  this article, I will introduce basic Python environment.
+title: 'Python basics: package management'
+keywords: [python, package, install, virtualenv, venv, pip, windows, packages, management,
+  use]
+recommendations: [/blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/,
+  /blog/2022-05-21_fastest-way-to-release-python-cli/, /blog/2024-01-26_scrape-notion-to-pdf/]
 ---
 
 

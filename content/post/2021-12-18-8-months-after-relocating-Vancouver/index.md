@@ -1,35 +1,18 @@
 ---
-authors:
-  - aki
-categories:
-  - daily life
+authors: [aki]
+categories: [daily life]
 date: 2021-12-17 07:00:00-08:00
 draft: false
 featured: false
-image:
-  caption: 秋の紅葉
-  focal_point: Top
-  preview_only: false
+image: {caption: 秋の紅葉, focal_point: Top, preview_only: false}
 lastmod: 2021-12-04 14:50:35-08:00
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: バンクーバーに移住して8か月が経った
-keywords:
-  - vancouver
-  - cad
-  - 子供
-  - ノンアルコールビール
-  - br
-  - 今年
-  - 保険
-  - スーパー
-  - 小学校
-  - 移住
-recommendations:
-  - /post/2021-12-15-relocated-to-vancouver/
-  - /post/2021-12-31-2021-year-review/
-  - /post/2022-12-30-2022-year-in-review/
+keywords: [vancouver, cad, 子供, ノンアルコールビール, br, 今年, 保険, スーパー, 小学校, 移住]
+recommendations: [/post/2021-12-15-relocated-to-vancouver/, /post/2021-12-31-2021-year-review/,
+  /post/2022-12-30-2022-year-in-review/]
 ---
 
 

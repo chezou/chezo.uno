@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-10-23 14:56:10-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-10-23 14:56:10-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: Windows7 64bitをDG33TLMになんとか導入した
-keywords:
-  - bit
-  - ドライバ
-  - グラフィック
-  - アップデート
-  - "64"
-  - 完走
-  - dg
-  - bios
-  - インデックス
-  - intel
-recommendations:
-  - /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/
-  - /post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/
-  - /post/2006-03-17-uhi/
+keywords: [bit, ドライバ, グラフィック, アップデート, '64', 完走, dg, bios, インデックス, intel]
+recommendations: [/post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/, /post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/,
+  /post/2006-03-17-uhi/]
 ---
 
 

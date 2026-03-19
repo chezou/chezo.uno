@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2014-08-29 15:07:00-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2014-08-29 15:07:00-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: "データ分析への向き合い方~Machine Learning Casual Talks #2を開催しました #MLCT"
-keywords:
-  - 機械学習
-  - 活用
-  - 素人
-  - データ
-  - ポイント
-  - 業務
-  - 比戸
-  - グノシー
-  - pfi
-  - deep learning
-recommendations:
-  - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
-  - /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/
-  - /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
+title: 'データ分析への向き合い方~Machine Learning Casual Talks #2を開催しました #MLCT'
+keywords: [機械学習, 活用, 素人, データ, ポイント, 業務, 比戸, グノシー, pfi, deep learning]
+recommendations: [/post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/,
+  /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/, /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/]
 ---
 
 

@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2005-08-21 14:45:46-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2005-08-21 14:45:46-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 男声合唱
-keywords:
-  - 男声
-  - 男声合唱
-  - 松下
-  - 木下
-  - 信長
-  - 美しい
-  - 無性
-  - ポップ
-  - 音楽
-  - 準備
-recommendations:
-  - /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/
-  - /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/
-  - /post/2009-07-05-guan-dong-hagame-musichoihoida/
+keywords: [男声, 男声合唱, 松下, 木下, 信長, 美しい, 無性, ポップ, 音楽, 準備]
+recommendations: [/post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/,
+  /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/, /post/2009-07-05-guan-dong-hagame-musichoihoida/]
 ---
 
 

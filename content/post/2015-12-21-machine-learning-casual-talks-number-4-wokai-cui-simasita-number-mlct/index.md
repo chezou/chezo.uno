@@ -1,35 +1,20 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2015-12-21 05:24:03-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2015-12-21 05:24:03-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: "Machine Learning Casual Talks #4 を開催しました #MLCT"
-keywords:
-  - mlct
-  - チーム
-  - casual
-  - talks
-  - 進め方
-  - プロトタイプ
-  - com
-  - データ分析
-  - プロジェクト
-  - slideshare
-recommendations:
-  - /post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/
-  - /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
-  - /post/2019-03-29_ngekkan-lambda-note-article/
+title: 'Machine Learning Casual Talks #4 を開催しました #MLCT'
+keywords: [mlct, チーム, casual, talks, 進め方, プロトタイプ, com, データ分析, プロジェクト, slideshare]
+recommendations: [/post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/,
+  /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
+  /post/2019-03-29_ngekkan-lambda-note-article/]
 ---
 
 

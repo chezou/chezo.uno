@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2010-07-20 14:59:18-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2010-07-20 14:59:18-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: " 1TEXT file → ページ毎管理 → 1TEXT fileとしてダウンロード可"
-keywords:
-  - 先生
-  - 教育
-  - 教材
-  - 電子化
-  - 著作権
-  - 大学
-  - 教科書
-  - コンテンツ
-  - 教員
-  - 相互
-recommendations:
-  - /post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/
-  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
-  - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
+title: ' 1TEXT file → ページ毎管理 → 1TEXT fileとしてダウンロード可'
+keywords: [先生, 教育, 教材, 電子化, 著作権, 大学, 教科書, コンテンツ, 教員, 相互]
+recommendations: [/post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/,
+  /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/, /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/]
 ---
 
 

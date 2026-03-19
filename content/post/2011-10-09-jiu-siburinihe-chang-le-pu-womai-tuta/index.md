@@ -1,35 +1,20 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2011-10-09 15:02:40-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2011-10-09 15:02:40-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 久しぶりに合唱楽譜を買った
-keywords:
-  - 曲集
-  - 購入
-  - sings
-  - dobrogosz
-  - steve
-  - 楽譜
-  - キャロル
-  - hanagoro
-  - acapuluco
-  - 相澤直人
-recommendations:
-  - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
-  - /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
-  - /post/2008-10-11-le-pu-gayu-sii/
+keywords: [曲集, 購入, sings, dobrogosz, steve, 楽譜, キャロル, hanagoro, acapuluco, 相澤直人]
+recommendations: [/post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/,
+  /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
+  /post/2008-10-11-le-pu-gayu-sii/]
 ---
 
 

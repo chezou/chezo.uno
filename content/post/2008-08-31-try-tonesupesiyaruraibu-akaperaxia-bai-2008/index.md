@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-08-31 14:51:54-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-08-31 14:51:54-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: TRY-TONEスペシャルライブ 〜　アカペラ夏唄2008　〜
-keywords:
-  - ライブハウス
-  - 会場
-  - 青木
-  - メドレー
-  - 男性
-  - 方々
-  - 友人
-  - メンバー
-  - 名前
-  - 面々
-recommendations:
-  - /post/2008-07-10-ris-a-la-malta/
-  - /post/2009-03-09-masafestanirajatonga/
-  - /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
+keywords: [ライブハウス, 会場, 青木, メドレー, 男性, 方々, 友人, メンバー, 名前, 面々]
+recommendations: [/post/2008-07-10-ris-a-la-malta/, /post/2009-03-09-masafestanirajatonga/,
+  /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/]
 ---
 
 

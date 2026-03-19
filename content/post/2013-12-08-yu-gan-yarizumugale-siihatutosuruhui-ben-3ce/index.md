@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2013-12-08 14:05:36-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2013-12-08 14:05:36-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 語感やリズムが楽しいハッとする絵本3冊
-keywords:
-  - 絵本
-  - ころ
-  - "81"
-  - 作品
-  - 子供
-  - 売り上げ
-  - リズム
-  - ランキング
-  - "82"
-  - "13"
-recommendations:
-  - /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/
-  - /post/2017-05-25_teach-what-i-dont-know/
-  - /post/2008-10-10-luo-yu-bai-xuan-xia/
+keywords: [絵本, ころ, '81', 作品, 子供, 売り上げ, リズム, ランキング, '82', '13']
+recommendations: [/post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/,
+  /post/2017-05-25_teach-what-i-dont-know/, /post/2008-10-10-luo-yu-bai-xuan-xia/]
 ---
 
 

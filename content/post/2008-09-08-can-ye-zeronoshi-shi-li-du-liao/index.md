@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-09-08 05:09:00-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-09-08 05:09:00-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 残業ゼロの仕事力読了
-keywords:
-  - 理系
-  - 残業
-  - 本書
-  - 日本
-  - 素晴らしい
-  - 文章
-  - 通用
-  - 社長
-  - 不必要
-  - マネジメント
-recommendations:
-  - /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/
-  - /post/2008-07-30-narutaru/
-  - /post/2018-05-17_mlse-kickoff/
+keywords: [理系, 残業, 本書, 日本, 素晴らしい, 文章, 通用, 社長, 不必要, マネジメント]
+recommendations: [/post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/,
+  /post/2008-07-30-narutaru/, /post/2018-05-17_mlse-kickoff/]
 ---
 
 

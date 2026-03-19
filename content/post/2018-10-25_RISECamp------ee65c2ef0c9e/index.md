@@ -1,28 +1,14 @@
 ---
-aliases:
-  - /post/2018-10-25_RISECamp-ee65c2ef0c9e/
-authors:
-  - aki
+aliases: [/post/2018-10-25_RISECamp-ee65c2ef0c9e/]
+authors: [aki]
 categories: []
 date: 2018-10-24 16:01:02-07:00
-description: 10/11–12にUC
-  BerkeleyのRISELabが主催していたbootcampに参加しました。kawasaki.rbでも少し話しましたが、参加報告です。
+description: 10/11–12にUC BerkeleyのRISELabが主催していたbootcampに参加しました。kawasaki.rbでも少し話しましたが、参加報告です。
 title: RISECampに参加した
-keywords:
-  - 処理
-  - ライブラリ
-  - ため
-  - 実験
-  - worker
-  - モデル
-  - python
-  - jpeg
-  - ml
-  - デプロイ
-recommendations:
-  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
-  - /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/
-  - /post/2014-01-24-kawasaki-dot-rb-number-005wokai-cui-simasita-number-kwskrb/
+keywords: [処理, ライブラリ, ため, 実験, worker, モデル, python, jpeg, ml, デプロイ]
+recommendations: [/post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/,
+  /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/,
+  /post/2014-01-24-kawasaki-dot-rb-number-005wokai-cui-simasita-number-kwskrb/]
 ---
 
 

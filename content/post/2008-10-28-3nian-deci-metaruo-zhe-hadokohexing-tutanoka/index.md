@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-10-28 14:48:41-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-10-28 14:48:41-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 3年で辞めた若者はどこへ行ったのか？
-keywords:
-  - 理系
-  - 残業
-  - 筆者
-  - 転職
-  - 研究室
-  - 主張
-  - 比較
-  - 言葉
-  - ない
-  - 誇張
-recommendations:
-  - /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/
-  - /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/
-  - /post/2008-06-15-ojin-nomian-qiang/
+keywords: [理系, 残業, 筆者, 転職, 研究室, 主張, 比較, 言葉, ない, 誇張]
+recommendations: [/post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/, /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/,
+  /post/2008-06-15-ojin-nomian-qiang/]
 ---
 
 

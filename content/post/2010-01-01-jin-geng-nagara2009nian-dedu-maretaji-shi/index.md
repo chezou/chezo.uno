@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2010-01-01 01:01:07-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2010-01-01 01:01:07-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 今更ながら2009年で読まれた記事
-keywords:
-  - music
-  - iphone
-  - アクセス
-  - simplify
-  - "2009"
-  - post
-  - ad
-  - es
-  - "05"
-  - 移行
-recommendations:
-  - /post/2023-12-30-2023-year-in-review/
-  - /post/2012-01-01-2012nian-nobao-fu/
-  - /post/2021-12-31-2021-year-review/
+keywords: [music, iphone, アクセス, simplify, '2009', post, ad, es, '05', 移行]
+recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2012-01-01-2012nian-nobao-fu/,
+  /post/2021-12-31-2021-year-review/]
 ---
 
 

@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2011-02-13 14:00:38-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2011-02-13 14:00:38-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: マユールティールーム川崎店とティーハウスマユール宮崎台店の違い
-keywords:
-  - 川崎
-  - ツイッター
-  - おいしい
-  - お店
-  - ちなみ
-  - 先日
-  - 徒歩
-  - 入り口
-  - 付近
-  - インストラクター
-recommendations:
-  - /post/2010-09-04-tun-zu-xing-tutekimasita/
-  - /post/2009-09-24-motion-blue-yokohama/
-  - /post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/
+keywords: [川崎, ツイッター, おいしい, お店, ちなみ, 先日, 徒歩, 入り口, 付近, インストラクター]
+recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-09-24-motion-blue-yokohama/,
+  /post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/]
 ---
 
 

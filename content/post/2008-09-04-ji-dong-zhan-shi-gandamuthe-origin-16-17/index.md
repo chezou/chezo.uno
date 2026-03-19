@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-09-04 14:49:35-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-09-04 14:49:35-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 機動戦士ガンダムTHE ORIGIN　16 17
-keywords:
-  - オリジナル
-  - isbn
-  - スコア
-  - 選択
-  - 引き合い
-  - 角川書店
-  - 角川
-  - 気分
-  - 後々
-  - ない
-recommendations:
-  - /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/
-  - /post/2008-06-03-gao-wu-nai-yue/
-  - /post/2008-10-02-pahuekutoburudu-liao/
+keywords: [オリジナル, isbn, スコア, 選択, 引き合い, 角川書店, 角川, 気分, 後々, ない]
+recommendations: [/post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
+  /post/2008-06-03-gao-wu-nai-yue/, /post/2008-10-02-pahuekutoburudu-liao/]
 ---
 
 

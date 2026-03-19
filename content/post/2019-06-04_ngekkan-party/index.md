@@ -1,29 +1,14 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: []
 date: 2019-06-03 21:33:18-07:00
 description: さる5/30に『n月刊ラムダノート』創刊記念パーティーという名のコルーチン祭りを開催しました。
-image:
-  caption: 会の中で一番嬉しそうだった鹿野さん
-  focal_point: Smart
+image: {caption: 会の中で一番嬉しそうだった鹿野さん, focal_point: Smart}
 lastmod: 2019-06-03 21:33:18-07:00
 title: 『n月刊ラムダノート』創刊記念パーティに登壇しました
-keywords:
-  - ノート
-  - コルーチン
-  - 月刊
-  - イベント
-  - 寄稿
-  - 創刊
-  - トレジャーデータ
-  - 記念
-  - 祭り
-  - オペレーション
-recommendations:
-  - /post/2019-03-29_ngekkan-lambda-note-article/
-  - /post/2013-08-25-llmaturinican-jia-simasita/
-  - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
+keywords: [ノート, コルーチン, 月刊, イベント, 寄稿, 創刊, トレジャーデータ, 記念, 祭り, オペレーション]
+recommendations: [/post/2019-03-29_ngekkan-lambda-note-article/, /post/2013-08-25-llmaturinican-jia-simasita/,
+  /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/]
 ---
 
 

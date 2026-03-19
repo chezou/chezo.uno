@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2010-03-22 14:58:16-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2010-03-22 14:58:16-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 世界変革の時〜ラヴォスのたった一つの買い方
-keywords:
-  - "1600"
-  - "1200"
-  - jpeg
-  - "44"
-  - "97"
-  - "87"
-  - "90"
-  - "89"
-  - "88"
-  - "43"
-recommendations:
-  - /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
-  - /post/2006-05-01-dslite/
-  - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
+keywords: ['1600', '1200', jpeg, '44', '97', '87', '90', '89', '88', '43']
+recommendations: [/post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/,
+  /post/2006-05-01-dslite/, /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/]
 ---
 
 

@@ -1,37 +1,20 @@
 ---
-aliases:
-  - /post/2014-05-07-julia-vs-python-bitcoin-option
-authors:
-  - aki
+aliases: [/post/2014-05-07-julia-vs-python-bitcoin-option]
+authors: [aki]
 categories: null
 date: 2014-05-06 15:06:37-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2014-05-06 15:06:37-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: "Julia vs Python: ビットコインオプションのモンテカルロシミュレーション"
-keywords:
-  - julia
-  - コイン
-  - path
-  - 計算
-  - python
-  - np
-  - time
-  - end
-  - ベクトル化
-  - オプション
-recommendations:
-  - /post/2014-06-21-julia100ben-notuku/
-  - /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/
-  - /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
+title: 'Julia vs Python: ビットコインオプションのモンテカルロシミュレーション'
+keywords: [julia, コイン, path, 計算, python, np, time, end, ベクトル化, オプション]
+recommendations: [/post/2014-06-21-julia100ben-notuku/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
+  /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/]
 ---
 
 

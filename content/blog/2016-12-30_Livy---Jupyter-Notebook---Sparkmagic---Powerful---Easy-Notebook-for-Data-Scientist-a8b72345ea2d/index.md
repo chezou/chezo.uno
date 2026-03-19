@@ -1,30 +1,17 @@
 ---
-aliases:
-  - /blog/livy-jupyter-notebook-sparkmagic-powerful-easy-notebook-for-data-scientist-a8b72345ea2d
-  - /blog/a8b72345ea2d
-authors:
-  - aki
+aliases: [/blog/livy-jupyter-notebook-sparkmagic-powerful-easy-notebook-for-data-scientist-a8b72345ea2d,
+  /blog/a8b72345ea2d]
+authors: [aki]
 categories: []
 date: 2016-12-29 22:15:23-08:00
-description: livy is a REST server of Spark. You can see the talk of the Spark
-  Summit 2016, Microsoft uses livy for HDInsight with Jupyter notebook and…
-title: Livy & Jupyter Notebook & Sparkmagic = Powerful & Easy Notebook for Data
-  Scientist
-keywords:
-  - spark
-  - jupyter
-  - notebook
-  - local
-  - client
-  - server
-  - multiple
-  - cluster
-  - job
-  - scientists
-recommendations:
-  - /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/
-  - /blog/2017-03-26_sparkavro--manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0/
-  - /blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/
+description: livy is a REST server of Spark. You can see the talk of the Spark Summit
+  2016, Microsoft uses livy for HDInsight with Jupyter notebook and…
+title: Livy & Jupyter Notebook & Sparkmagic = Powerful & Easy Notebook for Data Scientist
+keywords: [spark, jupyter, notebook, local, client, server, multiple, cluster, job,
+  scientists]
+recommendations: [/blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
+  /blog/2017-03-26_sparkavro--manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0/,
+  /blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/]
 ---
 
 

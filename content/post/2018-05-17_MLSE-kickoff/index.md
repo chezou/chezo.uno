@@ -1,27 +1,12 @@
 ---
-authors:
-  - aki
-categories:
-  - conference
+authors: [aki]
+categories: [conference]
 date: 2018-05-16 22:03:57-07:00
-description: タイトル通り日本ソフトウェア科学会の研究会、機械学習工学研究会キックオフシンポジウムに登壇しました。@bonotake
-  さんから声をかけられた時はカジュアルに受けたのですが、蓋を開けてみれば大御所の方々ばかりで恐縮しながらの発表でした。
+description: タイトル通り日本ソフトウェア科学会の研究会、機械学習工学研究会キックオフシンポジウムに登壇しました。@bonotake さんから声をかけられた時はカジュアルに受けたのですが、蓋を開けてみれば大御所の方々ばかりで恐縮しながらの発表でした。
 title: 機械学習工学研究会キックオフシンポジウムに登壇しました
-keywords:
-  - 機械学習
-  - システム
-  - データ
-  - 人工知能
-  - スキーマ
-  - tfx
-  - ai
-  - systems
-  - 予測
-  - ポイント還元
-recommendations:
-  - /post/2019-12-05-ibis2019-mlse/
-  - /post/2016-05-09-ji-jie-xue-xi-nofen-lei-nohua-wosun-shi-guan-shu-tojue-ding-jing-jie-wozhong-xin-nizheng-li-sitemita/
-  - /post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/
+keywords: [機械学習, システム, データ, 人工知能, スキーマ, tfx, ai, systems, 予測, ポイント還元]
+recommendations: [/post/2019-12-05-ibis2019-mlse/, /post/2016-05-09-ji-jie-xue-xi-nofen-lei-nohua-wosun-shi-guan-shu-tojue-ding-jing-jie-wozhong-xin-nizheng-li-sitemita/,
+  /post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/]
 ---
 
 

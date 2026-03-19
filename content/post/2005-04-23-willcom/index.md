@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2005-04-23 14:47:38-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2005-04-23 14:47:38-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: WILLCOM
-keywords:
-  - willcom
-  - ほとんど
-  - 通話料
-  - 家計簿
-  - 学割
-  - 衝動
-  - 最近
-  - 無性
-  - au
-  - 定額
-recommendations:
-  - /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/
-  - /post/2009-05-04-ad-es-wojie-yue-surutameni/
-  - /post/2005-07-11-w-sim/
+keywords: [willcom, ほとんど, 通話料, 家計簿, 学割, 衝動, 最近, 無性, au, 定額]
+recommendations: [/post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/, /post/2009-05-04-ad-es-wojie-yue-surutameni/,
+  /post/2005-07-11-w-sim/]
 ---
 
 

@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-07-22 20:07:36-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-07-22 20:07:36-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: FUJIYAMA
-keywords:
-  - "1600"
-  - "1200"
-  - jpeg
-  - "59"
-  - km
-  - "56"
-  - "36"
-  - 帰り
-  - "43"
-  - "45"
-recommendations:
-  - /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
-  - /post/2009-08-12-rui-yan-si/
-  - /post/2010-11-13-ye-novuenetuia/
+keywords: ['1600', '1200', jpeg, '59', km, '56', '36', 帰り, '43', '45']
+recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2009-08-12-rui-yan-si/,
+  /post/2010-11-13-ye-novuenetuia/]
 ---
 
 

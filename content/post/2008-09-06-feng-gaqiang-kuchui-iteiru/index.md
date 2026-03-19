@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-09-06 14:49:29-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-09-06 14:49:29-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 風が強く吹いている
-keywords:
-  - スポーツ
-  - 物語
-  - 新潮社
-  - 共感
-  - 伏線
-  - 通勤
-  - ゴール
-  - キャラクター
-  - トレーニング
-  - 運動
-recommendations:
-  - /post/2008-09-10-enzieruhato-27/
-  - /post/2008-06-15-gui-cai-xian-ru/
-  - /post/2008-08-24-sayonaraituka/
+keywords: [スポーツ, 物語, 新潮社, 共感, 伏線, 通勤, ゴール, キャラクター, トレーニング, 運動]
+recommendations: [/post/2008-09-10-enzieruhato-27/, /post/2008-06-15-gui-cai-xian-ru/,
+  /post/2008-08-24-sayonaraituka/]
 ---
 
 

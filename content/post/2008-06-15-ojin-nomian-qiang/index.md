@@ -1,35 +1,20 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-06-14 22:06:00-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-06-14 22:06:00-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: お金の勉強
-keywords:
-  - 入門書
-  - 金融
-  - 和代
-  - 勝間
-  - 入り口
-  - 筆者
-  - 傾向
-  - 比較的
-  - 主張
-  - isbn
-recommendations:
-  - /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/
-  - /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/
-  - /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/
+keywords: [入門書, 金融, 和代, 勝間, 入り口, 筆者, 傾向, 比較的, 主張, isbn]
+recommendations: [/post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/,
+  /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/,
+  /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/]
 ---
 
 

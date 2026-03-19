@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-11-08 13:51:05-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-11-08 13:51:05-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 良い時代になったねぇ
-keywords:
-  - 演奏会
-  - 一昔
-  - fcb
-  - 9th
-  - 関東
-  - 任天堂
-  - ニコ動
-  - 著作権
-  - メドレー
-  - リソース
-recommendations:
-  - /post/2009-07-05-guan-dong-hagame-musichoihoida/
-  - /post/2008-07-09-press-startdang-xuan-simasita/
-  - /post/2005-07-17-urayamasika/
+keywords: [演奏会, 一昔, fcb, 9th, 関東, 任天堂, ニコ動, 著作権, メドレー, リソース]
+recommendations: [/post/2009-07-05-guan-dong-hagame-musichoihoida/, /post/2008-07-09-press-startdang-xuan-simasita/,
+  /post/2005-07-17-urayamasika/]
 ---
 
 

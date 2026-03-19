@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-11-18 13:48:25-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-11-18 13:48:25-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 愛がいない部屋
-keywords:
-  - 女性
-  - 全て
-  - 良かっ
-  - うち
-  - 最初
-  - 毛色
-  - ポンド
-  - フェア
-  - エンターテイメント
-  - 気分
-recommendations:
-  - /post/2008-08-26-akihabara-at-deep/
-  - /post/2008-06-15-gui-cai-xian-ru/
-  - /post/2008-10-28-utukusiizi-domo/
+keywords: [女性, 全て, 良かっ, うち, 最初, 毛色, ポンド, フェア, エンターテイメント, 気分]
+recommendations: [/post/2008-08-26-akihabara-at-deep/, /post/2008-06-15-gui-cai-xian-ru/,
+  /post/2008-10-28-utukusiizi-domo/]
 ---
 
 

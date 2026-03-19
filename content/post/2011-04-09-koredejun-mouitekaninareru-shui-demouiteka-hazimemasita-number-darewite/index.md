@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2011-04-09 15:01:23-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2011-04-09 15:01:23-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: "これで君もウィテカーになれる！？「誰でもウィテカー」はじめました #darewite"
-keywords:
-  - woo
-  - choir
-  - whitacre
-  - virtual
-  - ツイート
-  - "2.0"
-  - 頻度
-  - twitter
-  - eric
-  - nltk
-recommendations:
-  - /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/
-  - /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/
-  - /post/2016-12-01-rubydeshen-ceng-xue-xi-woshi-tutayin-sheng-he-cheng-amazon-pollywoshi-tutewebsaitonodu-mishang-geyin-sheng-he-cheng-sitemita/
+title: 'これで君もウィテカーになれる！？「誰でもウィテカー」はじめました #darewite'
+keywords: [woo, choir, whitacre, virtual, ツイート, '2.0', 頻度, twitter, eric, nltk]
+recommendations: [/post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/, /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/,
+  /post/2016-12-01-rubydeshen-ceng-xue-xi-woshi-tutayin-sheng-he-cheng-amazon-pollywoshi-tutewebsaitonodu-mishang-geyin-sheng-he-cheng-sitemita/]
 ---
 
 

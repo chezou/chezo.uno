@@ -1,35 +1,20 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-10-30 14:51:10-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-10-30 14:51:10-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: a-cappella.comから注文の品が届いた
-keywords:
-  - 楽譜
-  - the real group
-  - 展開
-  - シンガー
-  - cappella
-  - acapuluco
-  - a cappella
-  - 今回
-  - real
-  - live
-recommendations:
-  - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
-  - /post/2008-10-11-le-pu-gayu-sii/
-  - /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/
+keywords: [楽譜, the real group, 展開, シンガー, cappella, acapuluco, a cappella, 今回, real,
+  live]
+recommendations: [/post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/, /post/2008-10-11-le-pu-gayu-sii/,
+  /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/]
 ---
 
 

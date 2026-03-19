@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2011-07-18 15:02:01-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2011-07-18 15:02:01-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: sinatraでKyTeaをブラウザから試すkytea-sinatra作ってみた
-keywords:
-  - sinatra
-  - kytea
-  - 結果
-  - mykytea
-  - mecab
-  - 出力
-  - ruby
-  - seikichi
-  - haml
-  - 解析
-recommendations:
-  - /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/
-  - /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/
-  - /post/2019-11-17-spacy-ginza/
+keywords: [sinatra, kytea, 結果, mykytea, mecab, 出力, ruby, seikichi, haml, 解析]
+recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/,
+  /post/2019-11-17-spacy-ginza/]
 ---
 
 

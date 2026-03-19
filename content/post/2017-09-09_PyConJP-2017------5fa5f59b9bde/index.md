@@ -1,28 +1,13 @@
 ---
-aliases:
-  - /post/2017-09-09_PyConJP-2017-5fa5f59b9bde/
-authors:
-  - aki
-categories:
-  - conference
+aliases: [/post/2017-09-09_PyConJP-2017-5fa5f59b9bde/]
+authors: [aki]
+categories: [conference]
 date: 2017-09-08 20:24:23-07:00
 description: 2年ぶりにPyConJPに参加しました。2日間参加してきたので、メモがてら書いていきます。
 title: PyConJP 2017に参加した
-keywords:
-  - データ
-  - track
-  - python
-  - 発表
-  - jupyter
-  - pandas
-  - 入門
-  - 更新
-  - pycon
-  - 編成
-recommendations:
-  - /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/
-  - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
-  - /post/2015-08-23-yapc-asia-tokyo-2015can-jia-sitekita-number-yapcasia/
+keywords: [データ, track, python, 発表, jupyter, pandas, 入門, 更新, pycon, 編成]
+recommendations: [/post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/, /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/,
+  /post/2015-08-23-yapc-asia-tokyo-2015can-jia-sitekita-number-yapcasia/]
 ---
 
 

@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2015-12-20 16:00:00-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2015-12-20 16:00:00-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: "小さい子供が自分から薬を飲みたくなる「おくすり飲めたね」 #childadvent"
-keywords:
-  - 我が家
-  - ケア
-  - 注意
-  - メーカー
-  - 出版社
-  - 子供
-  - 商品
-  - メディア
-  - ブログ
-  - 恐ろしく
-recommendations:
-  - /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/
-  - /post/2017-05-25_teach-what-i-dont-know/
-  - /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/
+title: '小さい子供が自分から薬を飲みたくなる「おくすり飲めたね」 #childadvent'
+keywords: [我が家, ケア, 注意, メーカー, 出版社, 子供, 商品, メディア, ブログ, 恐ろしく]
+recommendations: [/post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/,
+  /post/2017-05-25_teach-what-i-dont-know/, /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/]
 ---
 
 

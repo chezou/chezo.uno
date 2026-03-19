@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2017-01-25 04:44:08-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2017-01-25 04:44:08-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: また一つ年をとった
-keywords:
-  - 出演者
-  - 楽しい
-  - 会社
-  - 面接
-  - 在宅勤務
-  - スクワット
-  - dplyr
-  - 幸い
-  - 外資
-  - cto
-recommendations:
-  - /post/2016-12-31-2016nian-wozhen-rifan-tute/
-  - /post/2015-12-30-2015nian-wozhen-rifan-tute/
-  - /post/2014-12-31-2014nian-wozhen-rifan-tute/
+keywords: [出演者, 楽しい, 会社, 面接, 在宅勤務, スクワット, dplyr, 幸い, 外資, cto]
+recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2015-12-30-2015nian-wozhen-rifan-tute/,
+  /post/2014-12-31-2014nian-wozhen-rifan-tute/]
 ---
 
 

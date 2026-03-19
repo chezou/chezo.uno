@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2013-04-14 03:04:52-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2013-04-14 03:04:52-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: MacのiTunesでAirPlayが繋がらない時にやるべき1つのこと
-keywords:
-  - airplay
-  - サーバ
-  - ipv
-  - mac
-  - オフ
-  - 事態
-  - ターミナル
-  - raspberry pi
-  - 対処法
-  - この先
-recommendations:
-  - /post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/
-  - /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/
-  - /post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/
+keywords: [airplay, サーバ, ipv, mac, オフ, 事態, ターミナル, raspberry pi, 対処法, この先]
+recommendations: [/post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/, /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/,
+  /post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/]
 ---
 
 

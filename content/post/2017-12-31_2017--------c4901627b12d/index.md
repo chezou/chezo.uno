@@ -1,27 +1,13 @@
 ---
-aliases:
-  - /post/2017-12-31_2017-c4901627b12d/
-authors:
-  - aki
+aliases: [/post/2017-12-31_2017-c4901627b12d/]
+authors: [aki]
 categories: []
 date: 2017-12-30 18:27:50-08:00
 description: 昨年に引き続き、振り返っていきます。
 title: 2017年を振り返って
-keywords:
-  - data
-  - cloudera
-  - science
-  - 家庭
-  - strata
-  - sparklyr
-  - singapore
-  - "2017"
-  - こと
-  - オライリー
-recommendations:
-  - /post/2016-12-31-2016nian-wozhen-rifan-tute/
-  - /post/2020-12-31-2020-review/
-  - /post/2021-12-31-2021-year-review/
+keywords: [data, cloudera, science, 家庭, strata, sparklyr, singapore, '2017', こと, オライリー]
+recommendations: [/post/2016-12-31-2016nian-wozhen-rifan-tute/, /post/2020-12-31-2020-review/,
+  /post/2021-12-31-2021-year-review/]
 ---
 
 

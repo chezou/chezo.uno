@@ -1,27 +1,13 @@
 ---
-authors:
-  - aki
+authors: [aki]
 date: 2019-11-29 23:16:00-08:00
 lastmod: 2019-12-08 22:42:00-08:00
 summary: Androidの使い勝手を超えてしまった...
-tags:
-  - productivity
+tags: [productivity]
 title: VeinのiOSショートカット複数URL対応しました
-keywords:
-  - ショートカット
-  - 共有
-  - ポスト
-  - 対応
-  - 複数
-  - slack
-  - 同時
-  - twitter
-  - post
-  - facebook
-recommendations:
-  - /post/2009-06-11-iphoneniwang-mukoto/
-  - /post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/
-  - /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/
+keywords: [ショートカット, 共有, ポスト, 対応, 複数, slack, 同時, twitter, post, facebook]
+recommendations: [/post/2009-06-11-iphoneniwang-mukoto/, /post/2011-05-01-anoren-gatuitositadong-hua-wolian-sok-zai-sheng-sabisu-dong-hua-atuta-wohazimemasita/,
+  /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
 ---
 
 

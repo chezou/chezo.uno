@@ -1,37 +1,21 @@
 ---
-aliases:
-  - 2011-04-08-peter-hollens-firework
-authors:
-  - aki
+aliases: [2011-04-08-peter-hollens-firework]
+authors: [aki]
 categories: null
 date: 2011-04-08 04:04:30-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2011-04-08 04:04:30-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: Peter Hollensの"Firework"一人アカペラが格好いい
-keywords:
-  - アレンジ
-  - hollens
-  - 原曲
-  - アカペラ
-  - イントロ
-  - vocal
-  - the house
-  - performance
-  - pact
-  - jacks
-recommendations:
-  - /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/
-  - /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/
-  - /post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/
+keywords: [アレンジ, hollens, 原曲, アカペラ, イントロ, vocal, the house, performance, pact, jacks]
+recommendations: [/post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/,
+  /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/,
+  /post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/]
 ---
 
 

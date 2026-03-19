@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2014-11-30 16:28:46-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2014-11-30 16:28:46-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: wordpress.comからはてなブログにお引っ越ししました
-keywords:
-  - syntax
-  - 置換
-  - highlight
-  - wordpress
-  - ダイアリー
-  - 記法
-  - はてなブログ
-  - 移行
-  - はてな
-  - julia
-recommendations:
-  - /post/2014-12-31-2014nian-wozhen-rifan-tute/
-  - /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/
-  - /post/2016-10-29_homebrew-----iruby---------------6a02e5194ff2/
+keywords: [syntax, 置換, highlight, wordpress, ダイアリー, 記法, はてなブログ, 移行, はてな, julia]
+recommendations: [/post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/,
+  /post/2016-10-29_homebrew-----iruby---------------6a02e5194ff2/]
 ---
 
 

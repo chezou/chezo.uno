@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2012-11-01 02:11:53-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2012-11-01 02:11:53-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: Ola Gjeiloの"Sunrise Mass"がゲーム音楽みたいで格好いい
-keywords:
-  - キャロル
-  - soundcloud
-  - iframe
-  - panamusica
-  - 格好
-  - "true"
-  - url
-  - 興奮
-  - フェア
-  - mass
-recommendations:
-  - /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
-  - /post/2010-01-14-hueraranoziyosukan-vuokaruansanburu-kaperading-qi-gong-yan/
-  - /post/2008-07-19-ensemblenow-di-39hui-ding-qi-yan-zou-hui-at-sesionshan-bing/
+keywords: [キャロル, soundcloud, iframe, panamusica, 格好, 'true', url, 興奮, フェア, mass]
+recommendations: [/post/2008-07-07-the-real-group-real-christmas-commonly-unique/,
+  /post/2010-01-14-hueraranoziyosukan-vuokaruansanburu-kaperading-qi-gong-yan/, /post/2008-07-19-ensemblenow-di-39hui-ding-qi-yan-zou-hui-at-sesionshan-bing/]
 ---
 
 

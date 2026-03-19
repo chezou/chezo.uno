@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-10-18 14:56:00-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-10-18 14:56:00-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: VAIO Xに心ときめく
-keywords:
-  - type
-  - vaio
-  - 我慢
-  - 薄く
-  - 歓迎
-  - 実機
-  - マリオ
-  - ウィルス
-  - srx
-  - core solo
-recommendations:
-  - /post/2005-09-09-notonogai-zao/
-  - /post/2008-06-09-tuiniiphonedeng-chang/
-  - /post/2017-01-30-indigogo-dehazimetebatukusitelai-ta-dot-woshi-tute3keyue-gatatuta/
+keywords: [type, vaio, 我慢, 薄く, 歓迎, 実機, マリオ, ウィルス, srx, core solo]
+recommendations: [/post/2005-09-09-notonogai-zao/, /post/2008-06-09-tuiniiphonedeng-chang/,
+  /post/2017-01-30-indigogo-dehazimetebatukusitelai-ta-dot-woshi-tute3keyue-gatatuta/]
 ---
 
 

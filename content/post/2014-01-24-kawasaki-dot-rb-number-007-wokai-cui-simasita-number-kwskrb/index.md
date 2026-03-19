@@ -1,36 +1,19 @@
 ---
-authors:
-  - aki
-categories:
-  - ruby
+authors: [aki]
+categories: [ruby]
 date: 2014-01-24 14:05:53-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2014-01-24 14:05:53-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: "kawasaki.rb #007 を開催しました #kwskrb"
-keywords:
-  - category
-  - create
-  - text
-  - train
-  - line
-  - tagger
-  - self
-  - segment
-  - file
-  - def
-recommendations:
-  - /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/
-  - /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/
-  - /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/
+title: 'kawasaki.rb #007 を開催しました #kwskrb'
+keywords: [category, create, text, train, line, tagger, self, segment, file, def]
+recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/,
+  /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/, /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/]
 ---
 
 

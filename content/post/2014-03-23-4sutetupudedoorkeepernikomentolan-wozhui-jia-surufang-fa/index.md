@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2014-03-23 15:06:15-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2014-03-23 15:06:15-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 4ステップでDoorkeeperにコメント欄を追加する方法
-keywords:
-  - doorkeeper
-  - "383"
-  - "382"
-  - site
-  - 入力
-  - 情報
-  - add
-  - クリック
-  - アカウント
-  - 画面
-recommendations:
-  - /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/
-  - /post/2019-11-16-notion-cloudflare-sub domain/
-  - /post/2019-11-30-vein-ios-shortcut/
+keywords: [doorkeeper, '383', '382', site, 入力, 情報, add, クリック, アカウント, 画面]
+recommendations: [/post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/,
+  /post/2019-11-16-notion-cloudflare-sub domain/, /post/2019-11-30-vein-ios-shortcut/]
 ---
 
 

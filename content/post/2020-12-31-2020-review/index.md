@@ -1,36 +1,19 @@
 ---
-authors:
-  - aki
-categories:
-  - Year review
+authors: [aki]
+categories: [Year review]
 date: 2020-12-31 05:06:15-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2020-12-31 05:06:15-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 2020年を振り返って
-keywords:
-  - 物語
-  - mlse
-  - 配信
-  - 活動
-  - 漫画
-  - オンライン
-  - マイク
-  - あと
-  - oss
-  - ファンタジー
-recommendations:
-  - /post/2023-12-30-2023-year-in-review/
-  - /post/2017-12-31_2017--------c4901627b12d/
-  - /post/2021-12-31-2021-year-review/
+keywords: [物語, mlse, 配信, 活動, 漫画, オンライン, マイク, あと, oss, ファンタジー]
+recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2017-12-31_2017--------c4901627b12d/,
+  /post/2021-12-31-2021-year-review/]
 ---
 
 

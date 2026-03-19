@@ -1,29 +1,13 @@
 ---
-authors:
-  - aki
+authors: [aki]
 date: 2019-11-16 13:15:00-08:00
 lastmod: 2019-11-26 09:25:00-08:00
 summary: Booking.comの話題の論文から気になるところをメモ
-tags:
-  - MLOps
-  - MachineLearning
-  - Paper
-title: "150 successful Machine Learning models: 6 lessons learned at Booking.comのメモ"
-keywords:
-  - model
-  - 予測
-  - feedback
-  - 高速化
-  - ラベル
-  - high
-  - 頻度
-  - kpi
-  - "true"
-  - 論文
-recommendations:
-  - /post/2019-12-05-ibis2019-mlse/
-  - /post/2016-05-29-sonomoderu-guo-xue-xi-siteruno-wei-xue-xi-nano-tokun-tutara/
-  - /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/
+tags: [MLOps, MachineLearning, Paper]
+title: '150 successful Machine Learning models: 6 lessons learned at Booking.comのメモ'
+keywords: [model, 予測, feedback, 高速化, ラベル, high, 頻度, kpi, 'true', 論文]
+recommendations: [/post/2019-12-05-ibis2019-mlse/, /post/2016-05-29-sonomoderu-guo-xue-xi-siteruno-wei-xue-xi-nano-tokun-tutara/,
+  /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/]
 ---
 
 

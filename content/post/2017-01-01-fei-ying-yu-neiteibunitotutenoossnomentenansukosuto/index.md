@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2017-01-01 15:29:31-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2017-01-01 15:29:31-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 非英語ネイティブにとってのOSSのメンテナンスコスト
-keywords:
-  - oss
-  - issue
-  - 丸山
-  - コード
-  - 英語
-  - 開発
-  - メンテナンス
-  - ネイティブ
-  - codelunch
-  - プロダクト
-recommendations:
-  - /post/2025-09-19-review-fatigue/
-  - /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
-  - /post/2020-02-10-jupyter-notebook-labsをmlのどのフェーズで使うのか？/
+keywords: [oss, issue, 丸山, コード, 英語, 開発, メンテナンス, ネイティブ, codelunch, プロダクト]
+recommendations: [/post/2025-09-19-review-fatigue/, /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/,
+  /post/2020-02-10-jupyter-notebook-labsをmlのどのフェーズで使うのか？/]
 ---
 
 

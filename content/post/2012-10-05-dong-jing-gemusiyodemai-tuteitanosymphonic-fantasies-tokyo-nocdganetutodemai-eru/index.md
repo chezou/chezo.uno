@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2012-10-05 02:10:55-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2012-10-05 02:10:55-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 東京ゲームショーで売っていたのSymphonic Fantasies Tokyo のCDがネットで買える！
-keywords:
-  - fantasies
-  - symphonic
-  - 演奏
-  - クオリティ
-  - ドイツ
-  - 素晴らしい
-  - tokyo
-  - cd
-  - paypal
-  - garden
-recommendations:
-  - /post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/
-  - /post/2008-11-08-liang-ishi-dai-ninatutanee/
-  - /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
+keywords: [fantasies, symphonic, 演奏, クオリティ, ドイツ, 素晴らしい, tokyo, cd, paypal, garden]
+recommendations: [/post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/,
+  /post/2008-11-08-liang-ishi-dai-ninatutanee/, /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/]
 ---
 
 

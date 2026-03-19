@@ -1,27 +1,14 @@
 ---
-authors:
-  - aki
+authors: [aki]
 date: 2019-12-08 07:36:00-08:00
 lastmod: 2019-12-08 07:44:00-08:00
 summary: fbprophetの予測結果のグラフをmatplotlibだけでplotする
-tags:
-  - Python
+tags: [Python]
 title: Facebook Prophetのplotをmodelオブジェクトなしでする
-keywords:
-  - 訓練データ
-  - プロット
-  - df
-  - model
-  - facebook
-  - 予測
-  - 結果
-  - コード
-  - prev
-  - 再利用
-recommendations:
-  - /post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebookkarajian-reruyounisita/
-  - /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/
-  - /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/
+keywords: [訓練データ, プロット, df, model, facebook, 予測, 結果, コード, prev, 再利用]
+recommendations: [/post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebookkarajian-reruyounisita/,
+  /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
+  /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/]
 ---
 
 

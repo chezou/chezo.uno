@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-09-24 14:55:44-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-09-24 14:55:44-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: Motion Blue YOKOHAMA
-keywords:
-  - 音色
-  - 劣化
-  - ブルー
-  - ピアノ
-  - 目当て
-  - 満喫
-  - 曰く
-  - 帰り
-  - jazz
-  - お店
-recommendations:
-  - /post/2008-07-10-ris-a-la-malta/
-  - /post/2009-11-26-the-real-album/
-  - /post/2005-07-17-urayamasika/
+keywords: [音色, 劣化, ブルー, ピアノ, 目当て, 満喫, 曰く, 帰り, jazz, お店]
+recommendations: [/post/2008-07-10-ris-a-la-malta/, /post/2009-11-26-the-real-album/,
+  /post/2005-07-17-urayamasika/]
 ---
 
 

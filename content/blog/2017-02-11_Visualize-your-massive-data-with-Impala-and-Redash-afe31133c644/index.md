@@ -1,29 +1,15 @@
 ---
-aliases:
-  - /blog/visualize-your-massive-data-with-impala-and-redash-afe31133c644
-  - /blog/afe31133c644
-authors:
-  - aki
+aliases: [/blog/visualize-your-massive-data-with-impala-and-redash-afe31133c644, /blog/afe31133c644]
+authors: [aki]
 categories: []
 date: 2017-02-10 21:14:44-08:00
-description: Redash is a famous OSS visualization tool, which enables to
-  visualize your data with SQL. It supports Apache Impala (incubating), fast…
+description: Redash is a famous OSS visualization tool, which enables to visualize
+  your data with SQL. It supports Apache Impala (incubating), fast…
 title: Visualize your massive data with Impala and Redash
-keywords:
-  - impala
-  - data
-  - query
-  - database
-  - set
-  - visualize
-  - default
-  - port
-  - sql
-  - add
-recommendations:
-  - /blog/2017-03-26_how-to-connect-secure-impala-cluster-from-rstudio-on-macos-with-implyr-213c6536e4c7/
-  - /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/
-  - /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/
+keywords: [impala, data, query, database, set, visualize, default, port, sql, add]
+recommendations: [/blog/2017-03-26_how-to-connect-secure-impala-cluster-from-rstudio-on-macos-with-implyr-213c6536e4c7/,
+  /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
+  /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/]
 ---
 
 

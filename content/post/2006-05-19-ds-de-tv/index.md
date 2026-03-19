@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2006-05-19 14:46:40-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2006-05-19 14:46:40-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: DS de TV
-keywords:
-  - tv
-  - すごい
-  - 高校時代
-  - 国語
-  - 教授
-  - 招待
-  - 重さ
-  - チューナー
-  - 高校生
-  - もん
-recommendations:
-  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
-  - /post/2007-10-27-waidoye-jing-toye-jing-terebi/
-  - /post/2006-05-01-dslite/
+keywords: [tv, すごい, 高校時代, 国語, 教授, 招待, 重さ, チューナー, 高校生, もん]
+recommendations: [/post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
+  /post/2007-10-27-waidoye-jing-toye-jing-terebi/, /post/2006-05-01-dslite/]
 ---
 
 

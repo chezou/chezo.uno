@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-10-01 18:10:00-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-10-01 18:10:00-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: パーフェクトブルー読了
-keywords:
-  - 店員
-  - 読後感
-  - 王道
-  - 森博嗣
-  - 東野圭吾
-  - ミステリー
-  - みゆき
-  - 感情移入
-  - 伏線
-  - 辛く
-recommendations:
-  - /post/2008-07-06-nodamekantabire18-20/
-  - /post/2008-08-11-nodame21juan/
-  - /post/2008-07-19-xi-nomo-nu-gasi-nda/
+keywords: [店員, 読後感, 王道, 森博嗣, 東野圭吾, ミステリー, みゆき, 感情移入, 伏線, 辛く]
+recommendations: [/post/2008-07-06-nodamekantabire18-20/, /post/2008-08-11-nodame21juan/,
+  /post/2008-07-19-xi-nomo-nu-gasi-nda/]
 ---
 
 

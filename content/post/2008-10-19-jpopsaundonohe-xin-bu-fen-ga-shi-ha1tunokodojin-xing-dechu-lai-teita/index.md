@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2008-10-18 20:10:00-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2008-10-18 20:10:00-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: JPOPサウンドの核心部分が、実は１つのコード進行で出来ていた
-keywords:
-  - 進行
-  - マイナー
-  - メジャー
-  - コード
-  - 投稿者
-  - knows
-  - 感心
-  - メロディ
-  - サウンド
-  - なじみ
-recommendations:
-  - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
-  - /post/2008-09-07-chu-yin-mikunokaraokequ/
-  - /post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/
+keywords: [進行, マイナー, メジャー, コード, 投稿者, knows, 感心, メロディ, サウンド, なじみ]
+recommendations: [/post/2009-11-10-rajaton-best-of-1999-2009gautinikita/, /post/2008-09-07-chu-yin-mikunokaraokequ/,
+  /post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/]
 ---
 
 

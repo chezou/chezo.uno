@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2009-05-02 14:48:14-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2009-05-02 14:48:14-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: はじめまして、WordPress
-keywords:
-  - 引っ越し
-  - excite
-  - 移行
-  - 関係
-  - 不満
-  - ヘッドホン
-  - 技術的
-  - 満足
-  - 音楽
-  - 全部
-recommendations:
-  - /post/2018-11-14_subscription-2018/
-  - /post/2009-05-16-du-shu-metahazimemasita/
-  - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
+keywords: [引っ越し, excite, 移行, 関係, 不満, ヘッドホン, 技術的, 満足, 音楽, 全部]
+recommendations: [/post/2018-11-14_subscription-2018/, /post/2009-05-16-du-shu-metahazimemasita/,
+  /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
 ---
 
 

@@ -1,35 +1,19 @@
 ---
 title: 携帯からSlackを消した
-subtitle: ""
-summary: ""
-authors:
-  - aki
+subtitle: ''
+summary: ''
+authors: [aki]
 tags: []
 categories: []
 date: 2023-08-20 17:44:43-07:00
 lastmod: 2023-08-20 17:44:43-07:00
 featured: false
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords:
-  - 通知
-  - 会社
-  - モード
-  - 仕事
-  - slack
-  - パーソナル
-  - スマホ
-  - 対応
-  - とき
-  - こと
-recommendations:
-  - /post/2023-01-10-ios-notification-management/
-  - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
-  - /post/2025-08-23-summer-vacation/
+keywords: [通知, 会社, モード, 仕事, slack, パーソナル, スマホ, 対応, とき, こと]
+recommendations: [/post/2023-01-10-ios-notification-management/, /post/2009-05-07-sayonarawillcom-sayonaraad-es/,
+  /post/2025-08-23-summer-vacation/]
 ---
 
 

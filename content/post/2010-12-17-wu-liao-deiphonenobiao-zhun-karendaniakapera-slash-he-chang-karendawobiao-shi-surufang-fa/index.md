@@ -1,35 +1,20 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2010-12-17 14:00:21-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2010-12-17 14:00:21-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 無料でiPhoneの標準カレンダーにアカペラ/合唱カレンダーを表示する方法
-keywords:
-  - カレンダー
-  - appbank
-  - やり方
-  - 合唱
-  - アカペラ
-  - 登録
-  - url
-  - iphone
-  - 募集中
-  - google calendar
-recommendations:
-  - /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/
-  - /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
-  - /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/
+keywords: [カレンダー, appbank, やり方, 合唱, アカペラ, 登録, url, iphone, 募集中, google calendar]
+recommendations: [/post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/,
+  /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
+  /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/]
 ---
 
 

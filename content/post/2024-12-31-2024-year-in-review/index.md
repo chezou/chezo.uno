@@ -1,36 +1,20 @@
 ---
 title: 2024年を振り返って
-subtitle: ""
-summary: ""
-authors:
-  - aki
+subtitle: ''
+summary: ''
+authors: [aki]
 tags: []
-categories:
-  - misc
+categories: [misc]
 date: 2024-12-31 16:34:12-08:00
 lastmod: 2024-12-31 16:34:12-08:00
 featured: false
 draft: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 projects: []
-keywords:
-  - 仕事
-  - promotion
-  - principal
-  - "2024"
-  - staff
-  - 練習
-  - vancouver
-  - コミュニケーション
-  - もの
-  - ヨーロッパ
-recommendations:
-  - /post/2025-12-20-2025-12-20-year-in-review/
-  - /post/2023-12-30-2023-year-in-review/
-  - /post/2021-12-31-2021-year-review/
+keywords: [仕事, promotion, principal, '2024', staff, 練習, vancouver, コミュニケーション, もの,
+  ヨーロッパ]
+recommendations: [/post/2025-12-20-2025-12-20-year-in-review/, /post/2023-12-30-2023-year-in-review/,
+  /post/2021-12-31-2021-year-review/]
 ---
 
 

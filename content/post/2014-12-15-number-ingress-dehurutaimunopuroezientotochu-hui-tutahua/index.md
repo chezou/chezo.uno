@@ -1,35 +1,20 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2014-12-15 07:20:00-08:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2014-12-15 07:20:00-08:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
-title: "#ingress でフルタイムのプロエージェントと出会った話"
-keywords:
-  - エージェント
-  - ingress
-  - コミュニティ
-  - ポータル
-  - 活動
-  - darsana
-  - レベル
-  - 地域
-  - cf
-  - 戦い
-recommendations:
-  - /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/
-  - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
-  - /post/2013-08-25-llmaturinican-jia-simasita/
+title: '#ingress でフルタイムのプロエージェントと出会った話'
+keywords: [エージェント, ingress, コミュニティ, ポータル, 活動, darsana, レベル, 地域, cf, 戦い]
+recommendations: [/post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/,
+  /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/,
+  /post/2013-08-25-llmaturinican-jia-simasita/]
 ---
 
 

@@ -1,35 +1,19 @@
 ---
-authors:
-  - aki
+authors: [aki]
 categories: null
 date: 2010-09-04 05:09:12-07:00
 draft: false
 featured: false
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+image: {caption: '', focal_point: '', preview_only: false}
 lastmod: 2010-09-04 05:09:12-07:00
 projects: []
-subtitle: ""
-summary: ""
+subtitle: ''
+summary: ''
 tags: []
 title: 豚組行ってきました
-keywords:
-  - "1600"
-  - "1200"
-  - jpeg
-  - ad
-  - お店
-  - 柔らかく
-  - プル
-  - ed
-  - fb
-  - ea
-recommendations:
-  - /post/2011-02-13-mayuruteirumuchuan-qi-dian-toteihausumayurugong-qi-tai-dian-nowei-i/
-  - /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/
-  - /post/2009-09-24-motion-blue-yokohama/
+keywords: ['1600', '1200', jpeg, ad, お店, 柔らかく, プル, ed, fb, ea]
+recommendations: [/post/2011-02-13-mayuruteirumuchuan-qi-dian-toteihausumayurugong-qi-tai-dian-nowei-i/,
+  /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/, /post/2009-09-24-motion-blue-yokohama/]
 ---
 
 

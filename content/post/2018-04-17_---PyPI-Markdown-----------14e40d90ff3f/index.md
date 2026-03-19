@@ -1,29 +1,13 @@
 ---
-aliases:
-  - /post/2018-04-17_-PyPI-Markdown-14e40d90ff3f/
-authors:
-  - aki
-categories:
-  - python
+aliases: [/post/2018-04-17_-PyPI-Markdown-14e40d90ff3f/]
+authors: [aki]
+categories: [python]
 date: 2018-04-16 20:55:15-07:00
-description: 長い間、Pythonでパッケージを作った場合、構造化されたドキュメントを使う場合は、reStructuredText
-  (reST)でドキュメントを書く必要がありました。
+description: 長い間、Pythonでパッケージを作った場合、構造化されたドキュメントを使う場合は、reStructuredText (reST)でドキュメントを書く必要がありました。
 title: 新しいPyPIでMarkdownのドキュメントを使う
-keywords:
-  - pip
-  - wheel
-  - long
-  - description
-  - upgrade
-  - twine
-  - content
-  - py
-  - setup
-  - markdown
-recommendations:
-  - /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/
-  - /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/
-  - /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/
+keywords: [pip, wheel, long, description, upgrade, twine, content, py, setup, markdown]
+recommendations: [/post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/,
+  /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/, /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/]
 ---
 
 
