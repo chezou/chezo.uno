@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2015-06-07 14:00:00-07:00'
+date: 2015-06-07 14:00:00-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-06-07 14:00:00-07:00'
+lastmod: 2015-06-07 14:00:00-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [idcf, 録音, 無料, skype, 転送, クラウド, gb, ストレー�
 recommendations: [/post/2015-11-22-idcfkuraudono500yuan-sabadepodcast-serverwohazimete8keyue-gajing-timasita/,
   /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/, /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/]
 ---
+
 
 [rubyist.club](http://rubyistclub.chezo.uno/)というpodcastをやっているのですが、[IDCFクラウド](http://www.idcf.jp/cloud/)の上で動いています。
 

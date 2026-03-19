@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-08-31 00:08:00-07:00'
+date: 2008-08-31 00:08:00-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-08-31 00:08:00-07:00'
+lastmod: 2008-08-31 00:08:00-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [テスト, 後ほど, レポ, トランペット, try, tone, 教授, 
 recommendations: [/post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/, /post/2008-07-10-ris-a-la-malta/,
   /post/2005-07-17-urayamasika/]
 ---
+
 
 やっとかよー。テストテスト。  
   

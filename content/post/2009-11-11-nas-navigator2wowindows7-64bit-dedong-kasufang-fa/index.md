@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2009-11-11 04:11:25-08:00'
+date: 2009-11-11 04:11:25-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-11-11 04:11:25-08:00'
+lastmod: 2009-11-11 04:11:25-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [実行, exe, nas, mac os x, ショートカット, 管理者, navigat
 recommendations: [/post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/,
   /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/, /post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/]
 ---
+
 
 [以前、動かないと言っていたNas Navigator2](https://chezo.uno/post/2009-10-26-nas-navigator2gae-sawosuru-at-windows7-64bit/)ですが、なんとか動かすことに成功しました。グラフィックボードのドライバ関係もあって、再インストールした後に行いました。
 

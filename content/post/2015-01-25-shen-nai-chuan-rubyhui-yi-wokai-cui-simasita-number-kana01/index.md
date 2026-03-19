@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2015-01-24 16:41:03-08:00'
+date: 2015-01-24 16:41:03-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-01-24 16:41:03-08:00'
+lastmod: 2015-01-24 16:41:03-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-numb
   /post/2015-12-30-2015nian-wozhen-rifan-tute/, /post/2022-06-18-kawasaki rb 9 years
     reflection/]
 ---
+
 
 去る2015年1月17日に神奈川Ruby会議を行いました。[公式サイト](http://regional.rubykaigi.org/kana01/)にはスライドや動画も上げましたのでよろしければご覧ください。また、るびま班が近々レポートを上げてくれるはずですので、そちらもお楽しみに。
 

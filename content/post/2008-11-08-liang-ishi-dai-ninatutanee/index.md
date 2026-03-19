@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-11-08 13:51:05-08:00'
+date: 2008-11-08 13:51:05-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-11-08 13:51:05-08:00'
+lastmod: 2008-11-08 13:51:05-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [演奏会, 一昔, fcb, 9th, 関東, 任天堂, ニコ動, 著作権,
 recommendations: [/post/2009-07-05-guan-dong-hagame-musichoihoida/, /post/2008-07-09-press-startdang-xuan-simasita/,
   /post/2005-07-17-urayamasika/]
 ---
+
 
 関東に来たからには一度は行ってみたいと思っていた、[FCB](http://famicomband.org/)。  
 つい先日、9thの演奏会があったのですが（残念ながら行けなかったのですが)、今ではニコ動に[演奏会の動画がUPされるようになっている](http://famicomband.org/movie.html)ではありませんか。  

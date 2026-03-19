@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2010-09-11 14:59:48-07:00'
+date: 2010-09-11 14:59:48-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-09-11 14:59:48-07:00'
+lastmod: 2010-09-11 14:59:48-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [ゲーム音楽, '2083', 演奏会, star, 情報, 演奏, コンセ�
 recommendations: [/post/2009-07-05-guan-dong-hagame-musichoihoida/, /post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/,
   /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/]
 ---
+
 
 ゲーム音楽の演奏会情報フリーペーパー2083なるものを[PRESS START2010](https://chezo.uno/post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/)でいただきました。
 

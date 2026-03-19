@@ -1,7 +1,7 @@
 ---
 authors: [aki]
-date: '2019-11-16 05:14:00-08:00'
-lastmod: '2019-11-16 06:58:00-08:00'
+date: 2019-11-16 05:14:00-08:00
+lastmod: 2019-11-16 06:58:00-08:00
 summary: Pythonからdigdag/Treasure Workflowを色々できます
 tags: [Engineering, OSS]
 title: Pythonのdigdagクライアントtdworkflowを作った
@@ -10,6 +10,7 @@ keywords: [digdag, github, ドキュメント, ブランチ, secrets, colabolato
 recommendations: [/post/2019-11-18-digdag-ci/, /post/2019-12-24-python-custom-scripting/,
   /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/]
 ---
+
 
 ![](Untitled.png)
 

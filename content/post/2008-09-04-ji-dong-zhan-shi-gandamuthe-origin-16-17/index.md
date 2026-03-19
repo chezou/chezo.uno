@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-09-04 14:49:35-07:00'
+date: 2008-09-04 14:49:35-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-09-04 14:49:35-07:00'
+lastmod: 2008-09-04 14:49:35-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [オリジナル, isbn, スコア, 選択, 引き合い, 角川書店,
 recommendations: [/post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
   /post/2008-06-03-gao-wu-nai-yue/, /post/2008-10-02-pahuekutoburudu-liao/]
 ---
+
 
 {{< amazon asin="4047139874" title="機動戦士ガンダムTHE ORIGIN 16 オデッサ編・後 (16) (角川コミックス・エース 80-19)" >}}
 安彦 良和 / / 角川書店  

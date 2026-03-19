@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2010-07-30 14:59:20-07:00'
+date: 2010-07-30 14:59:20-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-07-30 14:59:20-07:00'
+lastmod: 2010-07-30 14:59:20-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-
   /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/,
   /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/]
 ---
+
 
 さる7/27に、デジタル教科書や教材を推進する民間中心の団体、[デジタル教科書教材協議会](http://ditt.jp)が発足しました。  
 シンポジウムの内容は、各種記事がまとめていますし、内容の要約は、片山さんが[こちら](http://e-textbook.blog.so-net.ne.jp/2010-07-30)にまとめてくださっていますのでご参考にしてください。  

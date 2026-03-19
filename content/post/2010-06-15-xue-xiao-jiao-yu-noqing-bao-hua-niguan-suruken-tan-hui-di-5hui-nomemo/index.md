@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2010-06-15 14:58:48-07:00'
+date: 2010-06-15 14:58:48-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-06-15 14:58:48-07:00'
+lastmod: 2010-06-15 14:58:48-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruke
   /post/2010-07-30-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-8hui-nomemo/,
   /post/2010-06-22-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-6hui-nomemo-number-johokon/]
 ---
+
 
 文科省が主催する、[学校教育の情報化に関する懇談会](http://www.mext.go.jp/a_menu/shotou/zyouhou/1292783.htm)の[第5回が6/9に開催されました](http://www.mext.go.jp/b_menu/houdou/22/05/1294349.htm)。  
 この懇談会は、世界的なICT化の流れに対して学校教育へどう適用すべきか、情報化時代の教育はどうあるべきか、ということについて議論されているものです。

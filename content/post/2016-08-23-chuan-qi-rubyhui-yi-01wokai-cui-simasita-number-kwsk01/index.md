@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2016-08-23 15:25:47-07:00'
+date: 2016-08-23 15:25:47-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2016-08-23 15:25:47-07:00'
+lastmod: 2016-08-23 15:25:47-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [ruby, kawasaki, 発表, rb, 会議, 川崎, tシャツ, rails, 都内
 recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/,
   /post/2022-06-18-kawasaki rb 9 years reflection/, /post/2013-06-29-kawasaki-dot-rb-number-001-di-1hui-mitoatupuwokai-cui-simasita-number-kwskrb/]
 ---
+
 
 さる 8/20 に川崎Ruby会議01を開催しました。
 

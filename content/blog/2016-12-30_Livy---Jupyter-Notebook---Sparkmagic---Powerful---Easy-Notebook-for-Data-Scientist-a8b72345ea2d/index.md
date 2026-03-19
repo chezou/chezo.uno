@@ -3,7 +3,7 @@ aliases: [/blog/livy-jupyter-notebook-sparkmagic-powerful-easy-notebook-for-data
   /blog/a8b72345ea2d]
 authors: [aki]
 categories: []
-date: '2016-12-29 22:15:23-08:00'
+date: 2016-12-29 22:15:23-08:00
 description: livy is a REST server of Spark. You can see the talk of the Spark Summit
   2016, Microsoft uses livy for HDInsight with Jupyter notebook and…
 title: Livy & Jupyter Notebook & Sparkmagic = Powerful & Easy Notebook for Data Scientist
@@ -13,6 +13,7 @@ recommendations: [/blog/2016-10-15_building-predictive-model-with-ibis--impala-a
   /blog/2017-03-26_sparkavro--manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0/,
   /blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/]
 ---
+
 
 livy is a REST server of Spark. You can see [the talk of the Spark Summit 2016](https://spark-summit.org/2016/events/livy-a-rest-web-service-for-apache-spark/), [Microsoft uses livy for HDInsight with Jupyter notebook and sparkmagic](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-apache-spark-jupyter-notebook-kernels/). [Jupyter notebook](http://jupyter.org/) is one of the most popular notebook OSS within data scientists. Using sparkmagic + Jupyter notebook, data scientists can execute ad-hoc Spark job easily.
 

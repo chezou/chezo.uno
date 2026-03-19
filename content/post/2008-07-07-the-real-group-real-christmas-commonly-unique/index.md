@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-07-07 14:44:53-07:00'
+date: 2008-07-07 14:44:53-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-07-07 14:44:53-07:00'
+lastmod: 2008-07-07 14:44:53-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [オブ, ライフ, スコア, 選択, talking, ハーモニー, song,
 recommendations: [/post/2006-07-28-xia-nanode/, /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/,
   /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/]
 ---
+
 
 おいおい、書いていたら消えてたよ。  
 というわけで、書き直しです。  

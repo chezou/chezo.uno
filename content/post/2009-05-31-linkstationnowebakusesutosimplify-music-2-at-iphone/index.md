@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2009-05-31 01:05:01-07:00'
+date: 2009-05-31 01:05:01-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-05-31 01:05:01-07:00'
+lastmod: 2009-05-31 01:05:01-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [アクセス, nas, simplify, music, 機能, web, 設定, 音楽, link
 recommendations: [/post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/,
   /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/, /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/]
 ---
+
 
 NASに蓄えてある音楽へどうやってiPhoneからアクセスするかを考えたときに、2つの方法があったので、検討してみた。(Simplify Music2はまだ試してないですが)
 

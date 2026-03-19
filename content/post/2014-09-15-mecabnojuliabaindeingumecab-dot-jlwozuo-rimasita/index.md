@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2014-09-15 05:09:52-07:00'
+date: 2014-09-15 05:09:52-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-09-15 05:09:52-07:00'
+lastmod: 2014-09-15 05:09:52-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-b
   /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/,
   /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/]
 ---
+
 
 Juliaから日本語形態素解析器として最も有名な[MeCab](https://code.google.com/p/mecab/)を使える[MeCab.jl](https://github.com/chezou/MeCab.jl)を作りました。
 

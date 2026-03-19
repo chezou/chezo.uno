@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2012-11-09 20:11:51-08:00'
+date: 2012-11-09 20:11:51-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2012-11-09 20:11:51-08:00'
+lastmod: 2012-11-09 20:11:51-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [websocket, morph, リアルタイム, mykytea, 結果, 形態素解�
 recommendations: [/post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/,
   /post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/, /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/]
 ---
+
 
 [![morph-websocket画面](morph-websocket.png)](morph-websocket.png) morph-websocket画面
 

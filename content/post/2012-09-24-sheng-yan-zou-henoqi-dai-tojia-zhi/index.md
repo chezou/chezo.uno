@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2012-09-24 15:03:32-07:00'
+date: 2012-09-24 15:03:32-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2012-09-24 15:03:32-07:00'
+lastmod: 2012-09-24 15:03:32-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [演奏, ライブ, press start, skyrim, ゲーム音楽, 良けれ, �
 recommendations: [/post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/, /post/2008-07-09-press-startdang-xuan-simasita/,
   /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/]
 ---
+
 
 [gallery]
 

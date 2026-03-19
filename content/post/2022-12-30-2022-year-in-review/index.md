@@ -16,6 +16,7 @@ recommendations: [/post/2021-12-31-2021-year-review/, /post/2023-12-30-2023-year
   /post/2020-12-31-2020-review/]
 ---
 
+
 [去年](https://chezo.uno/post/2021-12-31-2021-year-review/)に引き続き、2022年の振り返りです。
 RTA in Japanに触発されてなぜか [After Devil Forceのプレイ動画](https://www.nicovideo.jp/watch/sm2691704)を見ながら書いています。
 

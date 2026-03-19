@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-11-18 13:48:25-08:00'
+date: 2008-11-18 13:48:25-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-11-18 13:48:25-08:00'
+lastmod: 2008-11-18 13:48:25-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [女性, 全て, 良かっ, うち, 最初, 毛色, ポンド, フェ�
 recommendations: [/post/2008-08-26-akihabara-at-deep/, /post/2008-06-15-gui-cai-xian-ru/,
   /post/2008-10-28-utukusiizi-domo/]
 ---
+
 
 {{< amazon asin="4087463044" title="愛がいない部屋 (集英社文庫 い 47-5)" >}}
 石田 衣良 / / 集英社  

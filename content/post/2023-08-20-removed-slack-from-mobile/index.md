@@ -16,6 +16,7 @@ recommendations: [/post/2023-01-10-ios-notification-management/, /post/2009-05-0
   /post/2025-08-23-summer-vacation/]
 ---
 
+
 休みの時の仕事の通知をコントロールする術をずっと模索していた。
 これは、放っておいても仕事のSlackを見てしまい即レスポンスを返してしまう習性があるからだ。
 

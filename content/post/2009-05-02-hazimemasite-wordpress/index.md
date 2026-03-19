@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2009-05-02 14:48:14-07:00'
+date: 2009-05-02 14:48:14-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-05-02 14:48:14-07:00'
+lastmod: 2009-05-02 14:48:14-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [引っ越し, excite, 移行, 関係, 不満, ヘッドホン, 技術
 recommendations: [/post/2018-11-14_subscription-2018/, /post/2009-05-16-du-shu-metahazimemasita/,
   /post/2009-05-07-sayonarawillcom-sayonaraad-es/]
 ---
+
 
 exciteがちょっと不満になったので、こちらにお引っ越しです。本当はデータも全部お引っ越ししようかと思って、色々試したのですが技術的に可能なことが分かったところで満足して面倒になったので、やめました。
 

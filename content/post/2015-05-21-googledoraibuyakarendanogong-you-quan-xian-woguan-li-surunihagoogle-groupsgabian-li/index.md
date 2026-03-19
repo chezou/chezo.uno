@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2015-05-20 17:37:16-07:00'
+date: 2015-05-20 17:37:16-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-05-20 17:37:16-07:00'
+lastmod: 2015-05-20 17:37:16-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [groups, 権限, グループ, google, カレンダー, メンバー, 
 recommendations: [/post/2020-05-29_google-meetとyoutube-liveでオンラインミートアップの配信をした/, /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/,
   /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/]
 ---
+
 
 ネットで調べていてもGoogle Appsの情報しか出ないので、備忘録として書きます。
 

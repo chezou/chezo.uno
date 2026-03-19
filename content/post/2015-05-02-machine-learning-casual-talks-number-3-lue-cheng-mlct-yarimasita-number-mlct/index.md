@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2015-05-02 14:41:44-07:00'
+date: 2015-05-02 14:41:44-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-05-02 14:41:44-07:00'
+lastmod: 2015-05-02 14:41:44-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2014-06-07-machine-learning-casual-talks-wokai-cui-simas
   /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/,
   /post/2018-05-17_mlse-kickoff/]
 ---
+
 
 先日、[Machine Learning Casual Talks #3](http://mlct.connpass.com/event/13995/)を行いました。[togetterのまとめ](http://togetter.com/li/815185)
 

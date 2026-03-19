@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: [tech]
-date: '2020-12-10 07:00:00-08:00'
+date: 2020-12-10 07:00:00-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2020-12-10 07:00:00-08:00'
+lastmod: 2020-12-10 07:00:00-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [有線, lan, 工事, バック, 安定, ホール, wifi, メッシュ
 recommendations: [/post/2025-08-23-summer-vacation/, /post/2025-12-20-2025-12-20-year-in-review/,
   /post/2016-12-31-2016nian-wozhen-rifan-tute/]
 ---
+
 
 このお話は、[pyspaアドベントカレンダー](https://adventar.org/calendars/5310)の11日目です。昨日はwozozoでした。多分彼はこの記事をチラ見して「長過ぎる。地雷乙」と言うでしょう。
 

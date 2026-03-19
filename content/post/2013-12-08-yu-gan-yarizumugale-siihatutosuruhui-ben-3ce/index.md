@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2013-12-08 14:05:36-08:00'
+date: 2013-12-08 14:05:36-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2013-12-08 14:05:36-08:00'
+lastmod: 2013-12-08 14:05:36-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [絵本, ころ, '81', 作品, 子供, 売り上げ, リズム, ラン
 recommendations: [/post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/,
   /post/2017-05-25_teach-what-i-dont-know/, /post/2008-10-10-luo-yu-bai-xuan-xia/]
 ---
+
 
 この記事は[子育て 読み聞かせ Advent Calendar 2013 - Adventar](http://www.adventar.org/calendars/165)に参加しています。
 

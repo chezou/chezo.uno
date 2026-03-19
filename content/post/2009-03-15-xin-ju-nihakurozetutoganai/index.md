@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2009-03-14 20:03:00-07:00'
+date: 2009-03-14 20:03:00-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-03-14 20:03:00-07:00'
+lastmod: 2009-03-14 20:03:00-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [荷重, ｒｙ, 始末, 動機, ラック, ホームセンター, ハ
 recommendations: [/post/2008-06-09-tuiniiphonedeng-chang/, /post/2008-11-18-ai-gainaibu-wu/,
   /post/2006-03-17-uhi/]
 ---
+
 
 押し入れはあってもクローゼットがありません！  
 箪笥は置く場所がありません！というか引越の時にも大変そうです。お値段も（ｒｙ  

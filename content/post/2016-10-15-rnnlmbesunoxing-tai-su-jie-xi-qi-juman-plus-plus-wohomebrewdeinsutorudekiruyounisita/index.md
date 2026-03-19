@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2016-10-15 09:20:47-07:00'
+date: 2016-10-15 09:20:47-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2016-10-15 09:20:47-07:00'
+lastmod: 2016-10-15 09:20:47-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ keywords: [juman, homebrew, core, upstream, jumanpp, neologd, formula, issue, me
 recommendations: [/post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/,
   /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/, /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/]
 ---
+
 
 京大の黒橋・河原研から最近出た[JUMAN++](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN++)をmacOSのhomebrewでinstallできるようにしました。
 

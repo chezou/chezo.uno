@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2016-11-14 15:05:21-08:00'
+date: 2016-11-14 15:05:21-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2016-11-14 15:05:21-08:00'
+lastmod: 2016-11-14 15:05:21-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2015-12-21-machine-learning-casual-talks-number-4-wokai-
   /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/,
   /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/]
 ---
+
 
 さる11/8に、自社の主催する[Cloudera World Tokyo 2016](http://www.clouderaworldtokyo.com/)で、機械学習プロダクトの作り方について話をしました。
 

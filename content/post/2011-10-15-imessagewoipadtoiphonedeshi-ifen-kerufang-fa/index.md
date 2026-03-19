@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2011-10-15 05:10:14-07:00'
+date: 2011-10-15 05:10:14-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2011-10-15 05:10:14-07:00'
+lastmod: 2011-10-15 05:10:14-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [gmail, imessage, アドレス, ipad, iphone, 送信, icloud, softbank
 recommendations: [/post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/, /post/2009-05-12-konnitiha-iphone/,
   /post/2015-10-08-iijmiono-outidenanbapotabiritei-shi-tutezi-zhai-demnpsita/]
 ---
+
 
 iMessageを複数のデバイスで同一Apple IDで使う場合に、どちらか一方に送る方法を検討したらわかりました。
 

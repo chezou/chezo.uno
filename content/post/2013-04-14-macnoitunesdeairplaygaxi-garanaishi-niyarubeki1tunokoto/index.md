@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2013-04-14 03:04:52-07:00'
+date: 2013-04-14 03:04:52-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2013-04-14 03:04:52-07:00'
+lastmod: 2013-04-14 03:04:52-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [airplay, サーバ, ipv, mac, オフ, 事態, ターミナル, raspbe
 recommendations: [/post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/, /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/,
   /post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/]
 ---
+
 
 先日、WindowsマシンをAirPlayサーバにする[Shairport4wの話を書きました](https://chezo.uno/post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/)が、
 その後[Raspberry piをAirPlayサーバにする方法](http://www.lifehacker.jp/2013/03/130306raspberry_piairplay.html)など各所でAirPlayサーバが盛り上がっています。

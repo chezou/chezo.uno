@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-07-20 14:52:15-07:00'
+date: 2008-07-20 14:52:15-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-07-20 14:52:15-07:00'
+lastmod: 2008-07-20 14:52:15-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [ピアノ, 作曲, ステージ, 指揮, stage, 男声合唱, st, 演
 recommendations: [/post/2005-09-18-gao-tian-san-lang-xing-tutekimasita/, /post/2005-08-21-nan-sheng-he-chang/,
   /post/2010-01-14-hueraranoziyosukan-vuokaruansanburu-kaperading-qi-gong-yan/]
 ---
+
 
 良い演奏会でした。男声合唱に対するイメージが良い意味で変化しました。  
 細々と書いていくとあれなので、簡単に。  

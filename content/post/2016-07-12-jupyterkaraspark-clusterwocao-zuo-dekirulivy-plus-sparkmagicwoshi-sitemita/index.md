@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2016-07-12 04:50:00-07:00'
+date: 2016-07-12 04:50:00-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2016-07-12 04:50:00-07:00'
+lastmod: 2016-07-12 04:50:00-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [spark, jupyter, server, rest, apache, hadoop, 起動, curl, local, cl
 recommendations: [/post/2018-10-25_risecamp------ee65c2ef0c9e/, /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
   /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/]
 ---
+
 
 Spark Summit 2016でもトークがあったSparkのREST serverであるlivyですが、[MicrosoftがHDInsight](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-apache-spark-jupyter-notebook-kernels/)上のSpark clusterとJupyterをlivyを使って繋げられるようにしたと聞いて、早速試してみました。
 

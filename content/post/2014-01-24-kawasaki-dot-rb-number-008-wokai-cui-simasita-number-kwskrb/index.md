@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: [ruby]
-date: '2014-01-24 14:05:59-08:00'
+date: 2014-01-24 14:05:59-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-01-24 14:05:59-08:00'
+lastmod: 2014-01-24 14:05:59-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: ['383', 科学, '382', 計算, ruby, ベンチマーク, 翻訳, numpy
 recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/,
   /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/, /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/]
 ---
+
 
 2014/1/22にkawasaki.rbの第8回ミートアップを開催しました。
 

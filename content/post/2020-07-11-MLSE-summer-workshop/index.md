@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: [Machine Learning, MLOps, conference]
-date: '2020-07-11 02:00:00-07:00'
+date: 2020-07-11 02:00:00-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2020-07-11 02:00:00-07:00'
+lastmod: 2020-07-11 02:00:00-07:00
 subtitle: ''
 summary: ''
 tags: [mlops]
@@ -14,6 +14,7 @@ keywords: [モデル, リネージ, 討論会, 議論, 夏合宿, wg, discord, o
 recommendations: [/post/2022-07-15-finished-mlse-infra-wg/, /post/2020-11-10-mlse-conference/,
   /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/]
 ---
+
 
 [@masaru_dobashi](https://twitter.com/masaru_dobashi)さんとMLSEの夏合宿で、本番適用のためのインフラと運用WGの討論会を開催しました。
 WGのモチベーションは[MLSEのサイト](https://sites.google.com/view/sig-mlse/wg#h.p_Of4vDn0AZIz-)をご確認ください。

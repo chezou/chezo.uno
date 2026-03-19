@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2012-01-01 04:01:58-08:00'
+date: 2012-01-01 04:01:58-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2012-01-01 04:01:58-08:00'
+lastmod: 2012-01-01 04:01:58-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [こと, 定着, 公開, mykytea, 子ども, スキル, 解析, 昨年
 recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2017-12-31_2017--------c4901627b12d/,
   /post/2014-12-31-2014nian-wozhen-rifan-tute/]
 ---
+
 
 あけましておめでとうございます。
 

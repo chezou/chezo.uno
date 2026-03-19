@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2012-11-12 01:11:33-08:00'
+date: 2012-11-12 01:11:33-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2012-11-12 01:11:33-08:00'
+lastmod: 2012-11-12 01:11:33-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [source, gist, 形式, パワー, syntax, 方法, 保持, html, ポイ
 recommendations: [/post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/,
   /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/, /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/]
 ---
+
 
 パワーポイントに色づけしたコードを貼るのって、皆どうやってるのか不思議に思っていたのですが、どれもちょっと面倒だなという感じでした。
 

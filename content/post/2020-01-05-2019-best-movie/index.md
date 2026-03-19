@@ -1,13 +1,14 @@
 ---
 title: 2019年末年始に見た映画
 authors: [aki]
-date: '2020-01-04 14:13:00-08:00'
-lastmod: '2020-01-04 23:02:00-08:00'
+date: 2020-01-04 14:13:00-08:00
+lastmod: 2020-01-04 23:02:00-08:00
 summary: 年末年始に見た映画のメモ
 tags: [movie]
 keywords: [作品, バカ, 映画, インド, 絵本, ノリ, エピソード, ファン, いい, アメリカ]
 recommendations: [/post/2008-07-30-narutaru/, /post/2020-01-14-2019-best-comic/, /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
 ---
+
 
 ![](https://images.unsplash.com/photo-1485846234645-a62644f84728?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

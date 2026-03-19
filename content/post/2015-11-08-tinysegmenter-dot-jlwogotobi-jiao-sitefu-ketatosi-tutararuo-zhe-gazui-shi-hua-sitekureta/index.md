@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2015-11-08 11:00:00-08:00'
+date: 2015-11-08 11:00:00-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-11-08 11:00:00-08:00'
+lastmod: 2015-11-08 11:00:00-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [julia, 最適化, hash, 比較, 言語, 反響, sgj, repeatedly, hate
 recommendations: [/post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/,
   /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/, /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/]
 ---
+
 
 先日、[TinySegmenter.jlの話](https://chezo.uno/post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua
 )を書いたら各方面から反響を頂きました。

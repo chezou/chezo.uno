@@ -16,6 +16,7 @@ recommendations: [/post/2020-07-11-mlse-summer-workshop/, /post/2020-11-10-mlse-
   /post/2020-12-31-2020-review/]
 ---
 
+
 2019年から土橋さん ([@masaru_dobashi](https://twitter.com/masaru_dobashi)) と共同幹事をしていた、機械学習工学研究会 (MLSE) の「本番適用のためのインフラと運用WG」を、6月30日～7月2日に開催した[MLSE夏合宿](https://mlxse.connpass.com/event/248383/)で終了しました。
 
 ## 2022年MLSE夏合宿での議論

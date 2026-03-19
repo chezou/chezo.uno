@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: [ruby]
-date: '2014-01-24 14:05:31-08:00'
+date: 2014-01-24 14:05:31-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-01-24 14:05:31-08:00'
+lastmod: 2014-01-24 14:05:31-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [quine, relay, 言語, 解説, problem, mametter, お金, プログラ
 recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/,
   /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/, /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/]
 ---
+
 
 大分たってしまいましたが、2013/10/23にKawasaki.rb #005を行いました。
 

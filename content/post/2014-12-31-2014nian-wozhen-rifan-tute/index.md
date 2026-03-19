@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2014-12-31 14:23:45-08:00'
+date: 2014-12-31 14:23:45-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-12-31 14:23:45-08:00'
+lastmod: 2014-12-31 14:23:45-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [翻訳, rails, 迷惑, ホットエントリ, julia, output, 仕事, 
 recommendations: [/post/2023-12-30-2023-year-in-review/, /post/2016-12-31-2016nian-wozhen-rifan-tute/,
   /post/2020-12-31-2020-review/]
 ---
+
 
 後数時間で終わりますが、去年書き忘れていたので書いていきます。
 

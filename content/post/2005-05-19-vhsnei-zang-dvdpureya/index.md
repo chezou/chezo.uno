@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2005-05-18 23:05:00-07:00'
+date: 2005-05-18 23:05:00-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2005-05-18 23:05:00-07:00'
+lastmod: 2005-05-18 23:05:00-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [矛盾, ありか, dvdプレーヤー, 需要, 無性, 搭載, プレ
 recommendations: [/post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
   /post/2006-07-28-xia-nanode/, /post/2008-01-18-souiebakokohawu-yu-burogudatuta/]
 ---
+
 
 最近、無性にほしいのがVHS搭載DVDプレーヤーなのです。  
 なにせ、いつの間にか壊れてしまったVHSデッキがうちにほったらかしにしてあり、さらにDVDの需要がこのところ高まってきています。両方ともめちゃくちゃ安いプレーヤーにするのもありかとは思いますが、壊れて修理に出しに行くのが面倒なので一体型を買っちゃえという発想です。（なんか矛盾してる気がする）  

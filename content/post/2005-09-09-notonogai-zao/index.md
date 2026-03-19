@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2005-09-09 14:47:11-07:00'
+date: 2005-09-09 14:47:11-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2005-09-09 14:47:11-07:00'
+lastmod: 2005-09-09 14:47:11-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -14,6 +14,7 @@ title: ノートの改造
 keywords: [バッテリ, 純正, srx, vaio, 充電, 欲しく, もん, ノート, hdd, bd]
 recommendations: [/post/2006-03-17-uhi/, /post/2009-10-18-vaio-xnixin-tokimeku/, /post/2005-03-03-sugoi/]
 ---
+
 
 今使っているノート（VAIO PCG-SRX 3E/BD)のバッテリがへたってきました。  
 充電してももう1分ももちやしません。  

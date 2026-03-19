@@ -3,7 +3,7 @@ aliases: [/blog/an-easy-way-to-get-url-list-of-your-Medium-publication-c60c61244
   /blog/c60c61244101]
 authors: [aki]
 categories: []
-date: '2017-05-01 19:01:01-07:00'
+date: 2017-05-01 19:01:01-07:00
 description: I imported blog posts from own Wordpress but I have to redirect old articles
   to Medium manually. There is Wordpress plugin which enables…
 title: An easy way to get URL list of your Medium publication
@@ -12,6 +12,7 @@ keywords: [publication, articles, list, medium, url, showing, requires, lacks, h
 recommendations: [/blog/2022-01-25_hugo-content-based-recommendation/, /blog/2025-08-24-configured-pages-cms/,
   /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/]
 ---
+
 
 I imported blog posts from own Wordpress but I have to redirect old articles to Medium manually. There is Wordpress plugin which enables you to redirect articles, but it requires URL mapping in CSV format. When you want to get Medium publication’s URL list, you may use [official APIs](https://github.com/Medium/medium-api-docs), but officially, it [lacks the function to get list of posts](https://github.com/Medium/medium-api-docs/issues/30). We need [some other choices](https://github.com/enginebai/PyMedium), but I couldn’t get the post list. In this article, I will show you how to get URL list of your Medium publication easily.
 

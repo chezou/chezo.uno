@@ -1,7 +1,7 @@
 ---
 authors: [aki]
-date: '2019-12-08 07:36:00-08:00'
-lastmod: '2019-12-08 07:44:00-08:00'
+date: 2019-12-08 07:36:00-08:00
+lastmod: 2019-12-08 07:44:00-08:00
 summary: fbprophetの予測結果のグラフをmatplotlibだけでplotする
 tags: [Python]
 title: Facebook Prophetのplotをmodelオブジェクトなしでする
@@ -10,6 +10,7 @@ recommendations: [/post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebook
   /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
   /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/]
 ---
+
 
 ![](https://images.unsplash.com/photo-1543286386-2e659306cd6c?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

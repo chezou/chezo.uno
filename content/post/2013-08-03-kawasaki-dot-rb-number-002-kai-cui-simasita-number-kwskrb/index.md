@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: [ruby]
-date: '2013-08-02 23:08:43-07:00'
+date: 2013-08-02 23:08:43-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2013-08-02 23:08:43-07:00'
+lastmod: 2013-08-02 23:08:43-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [ruby, 焼肉, '002', プロジェクター, kawasaki, ニコニコ動
 recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/,
   /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/, /post/2013-06-29-kawasaki-dot-rb-number-001-di-1hui-mitoatupuwokai-cui-simasita-number-kwskrb/]
 ---
+
 
 ちょっと時間がたってしまいましたが、川崎地域でRuby関連の技術者が集まるKawasaki.rbの[第2回ミートアップ](https://manage.doorkeeper.jp/groups/kawasakirb/events/4895)を、去る7/24に行いました。
 

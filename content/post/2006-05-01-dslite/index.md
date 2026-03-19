@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2006-05-01 14:46:45-07:00'
+date: 2006-05-01 14:46:45-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2006-05-01 14:46:45-07:00'
+lastmod: 2006-05-01 14:46:45-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [秘書, 研究室, ds, 購入, 金曜日, タイ, 先輩, 先週, lit
 recommendations: [/post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/, /post/2006-03-17-uhi/,
   /post/2006-05-19-ds-de-tv/]
 ---
+
 
 ついに念願のNintendoDS Liteを購入しました！   
 先週の金曜日に研究室の秘書さんがおもむろに   

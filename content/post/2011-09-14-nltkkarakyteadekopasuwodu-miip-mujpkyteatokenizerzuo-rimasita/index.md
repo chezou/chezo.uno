@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2011-09-14 15:02:18-07:00'
+date: 2011-09-14 15:02:18-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2011-09-14 15:02:18-07:00'
+lastmod: 2011-09-14 15:02:18-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [nltk, 自然言語処理, reader, tokenizer, import, python, test, �
 recommendations: [/post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/, /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/,
   /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/]
 ---
+
 
 KyteaをPythonから使うMykytea-pythonを使って、NLTKラッパーを書いてみました。
 

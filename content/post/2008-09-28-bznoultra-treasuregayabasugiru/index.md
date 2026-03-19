@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-09-27 17:09:00-07:00'
+date: 2008-09-27 17:09:00-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-09-27 17:09:00-07:00'
+lastmod: 2008-09-27 17:09:00-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [選曲, dvd, ライブ, 素晴らし, style, b'z, '001', 熱い, 無�
 recommendations: [/post/2009-04-13-it-dont-mean-a-thing/, /post/2008-08-01-ono-lisa-best-2002-2006/,
   /post/2008-07-19-ensemblenow-di-39hui-ding-qi-yan-zou-hui-at-sesionshan-bing/]
 ---
+
 
 B'zのUltra treasureの選曲がやばすぎです。  
   

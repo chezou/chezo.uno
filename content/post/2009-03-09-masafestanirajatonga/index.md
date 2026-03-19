@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2009-03-09 14:50:44-07:00'
+date: 2009-03-09 14:50:44-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-03-09 14:50:44-07:00'
+lastmod: 2009-03-09 14:50:44-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [masa, festa, rajaton, 最大規模, 夏休み, コーナー, academy,
 recommendations: [/post/2008-07-05-rajaton/, /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/,
   /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/]
 ---
+
 
 やばい！生で聞きたいと思い、Finlandまで行ってもすれ違いだったRajatonが向こうから来てくれるとは！  
   

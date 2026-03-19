@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: [ruby]
-date: '2013-10-06 05:10:10-07:00'
+date: 2013-10-06 05:10:10-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2013-10-06 05:10:10-07:00'
+lastmod: 2013-10-06 05:10:10-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [websocket, lt, tokuda, morph, sinatra, 形態素解析, kytea, minori
 recommendations: [/post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/,
   /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/, /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/]
 ---
+
 
 9/25(水)にKawsaki.rbの第4回ミートアップを行いました。  
 今回は偶数回なので、居酒屋LTの回でした。

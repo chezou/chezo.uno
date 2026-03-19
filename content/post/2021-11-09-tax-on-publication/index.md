@@ -13,6 +13,7 @@ recommendations: [/post/2022-02-07-foregin-tax/, /post/2022-01-09-vancouver-engi
   /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/]
 ---
 
+
 ⚠️ この記事は2021年11月段階で体験したことに基づき書いています。この情報は、あくまで参考程度に止め、原則的に税に関する不明な点は[国税局電話相談センター](https://www.nta.go.jp/taxes/shiraberu/sodan/denwa-sodan/index.htm#a-02)に電話して確認してください。
 
 ![](https://images.unsplash.com/photo-1564939558297-fc396f18e5c7?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)

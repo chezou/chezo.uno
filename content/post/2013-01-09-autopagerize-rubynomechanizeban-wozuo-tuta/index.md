@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2013-01-09 03:01:09-08:00'
+date: 2013-01-09 03:01:09-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2013-01-09 03:01:09-08:00'
+lastmod: 2013-01-09 03:01:09-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [そのまま, http, allow, fork, client, 扱い, request, pull, 早�
 recommendations: [/post/2019-11-25-github actions-api token-pypi release/, /post/2015-06-06-pip-install-kyteadekiruyouninarimasita/,
   /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/]
 ---
+
 
 [Qiita](http://qiita.com/items/ce9a52030aad51591121)にも書いたけど、Ruby向けAutopagerizeをMechanize対応してみた。
 

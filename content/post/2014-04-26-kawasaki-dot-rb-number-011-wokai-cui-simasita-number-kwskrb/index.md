@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: [ruby]
-date: '2014-04-26 15:06:31-07:00'
+date: 2014-04-26 15:06:31-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-04-26 15:06:31-07:00'
+lastmod: 2014-04-26 15:06:31-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [sinatra, 組込み, snowcrush, 変数, js, 次回, rails, kawasaki, r
 recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/,
   /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/, /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/]
 ---
+
 
 4/23に[kawasaki.rb #011](http://kawasakirb.doorkeeper.jp/events/10187)を開催しました。  
 次回で1年になるのかと思うと、感慨深いです。  

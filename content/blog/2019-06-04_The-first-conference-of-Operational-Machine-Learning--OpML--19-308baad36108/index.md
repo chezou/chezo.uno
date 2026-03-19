@@ -3,7 +3,7 @@ aliases: [/blog/the-first-conference-of-operational-machine-learning-opml-19-308
   /blog/308baad36108]
 authors: [aki]
 categories: [mlops, machine_learning]
-date: '2019-06-03 21:50:07-07:00'
+date: 2019-06-03 21:50:07-07:00
 description: I attended OpML ’19 is a conference for “Operational Machine Learning”
   held at Santa Clara on May 20th.
 title: 'The first conference of Operational Machine Learning: OpML ‘19'
@@ -12,6 +12,7 @@ keywords: [ml, learning, production, conference, machine, manager, facebook, ai,
 recommendations: [/blog/2017-08-03_why-oss-based-machine-learning-is-good--3ab45a1a5e52/,
   /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/, /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/]
 ---
+
 
 I attended OpML ’19 is a conference for “Operational Machine Learning” held at Santa Clara on May 20th.
 

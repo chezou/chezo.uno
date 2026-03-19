@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2016-12-01 15:10:05-08:00'
+date: 2016-12-01 15:10:05-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2016-12-01 15:10:05-08:00'
+lastmod: 2016-12-01 15:10:05-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2015-11-22-idcfkuraudono500yuan-sabadepodcast-serverwoha
   /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/,
   /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/]
 ---
+
 
 ![](20161201230818.png)
 

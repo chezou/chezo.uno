@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2010-03-29 14:58:21-07:00'
+date: 2010-03-29 14:58:21-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-03-29 14:58:21-07:00'
+lastmod: 2010-03-29 14:58:21-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [chorus, song, choir, es, musica, 演奏, 紹介, パーマ, vocal, so
 recommendations: [/post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/,
   /post/2008-07-07-the-real-group-real-christmas-commonly-unique/, /post/2011-12-25-yi-teng-hui-si-ming-dao-qi-tai-liang-shi-noxuan-nda-xue-sheng-he-chang-notameno-sutiyudentosongubutuku-gare-i/]
 ---
+
 
 [Pana Musicaで紹介](http://www.panamusica.co.jp/ja/product/12542/)されていた[CD](http://www.artistdirect.com/nad/store/artist/album/0,,4453385,00.html)を衝動的に買ってしまいました。だって、Folk Songsって書いてあるんだもの(Pana Musicaの紹介文は[こちら](http://www.panamusica.co.jp/ja/new/2010/02/)。しかし、Pana Musicaはいい紹介記事を書くのに、パーマリンクがないため紹介しづらいなぁ。今時パーマリンクなし、RSSなしだとGoogle先生などに補足されづらいので辛いと思います。勿体ない。)ヨーロッパの様々な合唱団がお国のFolk Songsを歌うコンピレーションアルバムという位置づけのようです。
 

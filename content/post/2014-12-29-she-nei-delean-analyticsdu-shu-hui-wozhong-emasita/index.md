@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2014-12-28 17:47:33-08:00'
+date: 2014-12-28 17:47:33-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-12-28 17:47:33-08:00'
+lastmod: 2014-12-28 17:47:33-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learn
   /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/,
   /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/]
 ---
+
 
 ![](20141226161201.jpg)
 

@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2011-03-02 14:00:43-08:00'
+date: 2011-03-02 14:00:43-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2011-03-02 14:00:43-08:00'
+lastmod: 2011-03-02 14:00:43-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fa
   /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
   /post/2014-04-03-tokyurubyhui-yi-07deltsitekimasita-number-tqrk07/]
 ---
+
 
 Twitterでしばしば見かけるのですが、誰からともなく大喜利が始まることがあります。たとえば、何かの「あるあるネタ」なんかの広がりも面白いです。
 

@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2012-02-12 04:02:30-08:00'
+date: 2012-02-12 04:02:30-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2012-02-12 04:02:30-08:00'
+lastmod: 2012-02-12 04:02:30-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ recommendations: [/post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimas
   /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/,
   /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/]
 ---
+
 
 [@unnonounoさんが紹介してくださったpficommon](http://unnonouno.blogspot.com/2011/10/pficommon.html)のjsonライブラリを試してみました。  
 pficommonのjsonライブラリはboostみたいにjsonと自分で作ったクラスのオブジェクトとのシリアライズ/デシリアライズができるのがとても魅力です。  

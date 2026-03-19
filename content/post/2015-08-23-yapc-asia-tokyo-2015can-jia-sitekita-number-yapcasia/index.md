@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2015-08-22 18:27:50-07:00'
+date: 2015-08-22 18:27:50-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-08-22 18:27:50-07:00'
+lastmod: 2015-08-22 18:27:50-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [yapc, tokyo, '2015', org, はてなブックマーク, php, トピッ
 recommendations: [/post/2017-09-09_pyconjp-2017------5fa5f59b9bde/, /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/,
   /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/]
 ---
+
 
 初参加にして最後のYAPC::ASIA Tokyoに行ってきた。
 

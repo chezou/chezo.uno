@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2008-10-05 05:10:00-07:00'
+date: 2008-10-05 05:10:00-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-10-05 05:10:00-07:00'
+lastmod: 2008-10-05 05:10:00-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: ['53', hd, sa, hfi, '010', ノイズ, 購入, '700', アンプ, 合唱
 recommendations: [/post/2008-10-28-mai-tutesimatuta/, /post/2008-09-14-hetudohonwu-se-sitahi/,
   /post/2008-01-18-souiebakokohawu-yu-burogudatuta/]
 ---
+
 
 2chではとことん評判のよろしくないC.E.Cの[HD53R Ver.8](http://www.cec-web.co.jp/products/amp/hd53r/hd53r.html)を購入しました。  
 しかし、JBLのReference410といい、今のマシンの電源といい（ｒｙ  

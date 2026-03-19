@@ -2,11 +2,11 @@
 aliases: [/post/2014-05-07-julia-vs-python-bitcoin-option]
 authors: [aki]
 categories: null
-date: '2014-05-06 15:06:37-07:00'
+date: 2014-05-06 15:06:37-07:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-05-06 15:06:37-07:00'
+lastmod: 2014-05-06 15:06:37-07:00
 projects: []
 subtitle: ''
 summary: ''
@@ -16,6 +16,7 @@ keywords: [julia, コイン, path, 計算, python, np, time, end, ベクトル�
 recommendations: [/post/2014-06-21-julia100ben-notuku/, /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
   /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/]
 ---
+
 
 Justin Huang([@rawjustin](https://twitter.com/rawrjustin))さんのJuliaとPythonの比較記事(原題：[Julia vs. Python: Monte Carlo Simulations of Bitcoin Options](http://blog.rawrjustin.com/blog/2014/03/18/julia-vs-python-monte-carlo-simulations-of-bitcoin-options/))が非常に面白かったので、翻訳してみました。
 

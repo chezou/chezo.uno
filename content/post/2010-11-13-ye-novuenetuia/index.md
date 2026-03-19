@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2010-11-12 22:11:52-08:00'
+date: 2010-11-12 22:11:52-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-11-12 22:11:52-08:00'
+lastmod: 2010-11-12 22:11:52-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [歴代, 広場, 街中, 感心, 若い, 歴史的, 位置, 不思議,
 recommendations: [/post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/, /post/2009-07-23-fujiyama/,
   /post/2009-08-07-pokemonxin-gan-xian/]
 ---
+
 
 ![](https://lh6.ggpht.com/_fY4jPztBNxw/TN4m-vk9IWI/AAAAAAAAAkM/FBrhsjGXKUY/s400/DSCF6149.JPG)
 

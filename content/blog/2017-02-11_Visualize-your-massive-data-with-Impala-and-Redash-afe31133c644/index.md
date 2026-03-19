@@ -2,7 +2,7 @@
 aliases: [/blog/visualize-your-massive-data-with-impala-and-redash-afe31133c644, /blog/afe31133c644]
 authors: [aki]
 categories: []
-date: '2017-02-10 21:14:44-08:00'
+date: 2017-02-10 21:14:44-08:00
 description: Redash is a famous OSS visualization tool, which enables to visualize
   your data with SQL. It supports Apache Impala (incubating), fast…
 title: Visualize your massive data with Impala and Redash
@@ -11,6 +11,7 @@ recommendations: [/blog/2017-03-26_how-to-connect-secure-impala-cluster-from-rst
   /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/,
   /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/]
 ---
+
 
 [Redash](https://redash.io/) is a famous OSS visualization tool, which enables to visualize your data with SQL. It supports [Apache Impala (incubating)](http://impala.apache.org/), fast SQL-on-Hadoop suitable for BI tools and exploratory analysis. With Impala, you can [query SQLs to tables on Amazon S3](http://blog.cloudera.com/blog/2016/08/analytics-and-bi-on-amazon-s3-with-apache-impala-incubating/).
 

@@ -1,11 +1,11 @@
 ---
 authors: [aki]
 categories: null
-date: '2011-02-13 14:00:38-08:00'
+date: 2011-02-13 14:00:38-08:00
 draft: false
 featured: false
 image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2011-02-13 14:00:38-08:00'
+lastmod: 2011-02-13 14:00:38-08:00
 projects: []
 subtitle: ''
 summary: ''
@@ -15,6 +15,7 @@ keywords: [川崎, ツイッター, おいしい, お店, ちなみ, 先日, 徒
 recommendations: [/post/2010-09-04-tun-zu-xing-tutekimasita/, /post/2009-09-24-motion-blue-yokohama/,
   /post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/]
 ---
+
 
 先日、川崎のアゼリアにあるマユールティールームと、宮崎台にあるティーハウスマユールに行ってきました。写真は、宮崎台のマユールのチキンカレーです。
 

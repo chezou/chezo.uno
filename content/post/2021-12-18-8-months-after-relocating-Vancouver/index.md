@@ -1,7 +1,7 @@
 ---
 authors: [aki]
 categories: [daily life]
-date: '2021-12-17 07:00:00-08:00'
+date: 2021-12-17 07:00:00-08:00
 draft: false
 featured: false
 image: {caption: 秋の紅葉, focal_point: Top, preview_only: false}
@@ -14,6 +14,7 @@ keywords: [vancouver, cad, 子供, ノンアルコールビール, br, 今年, �
 recommendations: [/post/2021-12-15-relocated-to-vancouver/, /post/2021-12-31-2021-year-review/,
   /post/2022-12-30-2022-year-in-review/]
 ---
+
 
 この記事は[pyspa Advent Calender 2021](https://adventar.org/calendars/6234)の18日目です。昨日は[@golden_lucky](https://twitter.com/golden_lucky)のリンゴの話でした。
 
