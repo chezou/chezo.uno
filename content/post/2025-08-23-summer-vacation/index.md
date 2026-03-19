@@ -1,7 +1,7 @@
 ---
 title: 久しぶりの夏休み
-date: 2025-08-22 00:49:00+00:00
-lastmod: 2025-08-22 00:49:00+00:00
+date: 2025-08-22 00:49:00-07:00
+lastmod: 2025-08-22 00:49:00-07:00
 categories: [daily]
 draft: false
 featured: false
