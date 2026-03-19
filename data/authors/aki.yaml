@@ -1,0 +1,35 @@
+"schema": "hugoblox/author/v1"
+"slug": "aki"
+"name":
+  "display": "Aki Ariga"
+"is_owner": true
+"status": {}
+"role": "Principal Software Engineer"
+"bio": "Interested in Machine Learning, ML Ops, and Data driven business. If you like my blog post, I'm glad if you can buy me a tea 😉 <div class=\"btn-bmc\"> <a href=\"https://www.buymeacoffee.com/chezou\"><img src=\"https://img.buymeacoffee.com/button-api/?text=Buy me a tea&emoji=🍵&slug=chezou&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00\" /></a></div>"
+"affiliations":
+  - "name": "Treasure Data"
+    "url": "https://treasuredata.com"
+"ids":
+  "google_scholar": "mWyeNrwAAAAJ"
+"links":
+  - "icon": "at-symbol"
+    "url": "mailto:aki@chezo.uno"
+  - "icon": "brands/mastodon"
+    "url": "https://mastodon.social/@chezou"
+  - "icon": "academicons/google-scholar"
+    "url": "https://scholar.google.com/citations?user=mWyeNrwAAAAJ&hl=ja"
+  - "icon": "brands/github"
+    "url": "https://github.com/chezou"
+  - "icon": "brands/linkedin"
+    "url": "https://www.linkedin.com/in/aki-ariga/"
+"interests":
+  - "Machine Learning"
+  - "MLOps"
+  - "Natural Language Processing"
+"education":
+  - "institution": "Nagoya University"
+    "degree": "MEng in Electrical Engineering and Computer Science"
+    "year": 2008
+  - "institution": "Nagoyua University"
+    "degree": "BSc in Electrical Engineering and Computer Science"
+    "year": 2006
