@@ -16,6 +16,8 @@
     "url": "mailto:aki@chezo.uno"
   - "icon": "brands/mastodon"
     "url": "https://mastodon.social/@chezou"
+  - "icon": "brands/bluesky"
+    "url": "https://bsky.app/profile/chezo.uno"
   - "icon": "academicons/google-scholar"
     "url": "https://scholar.google.com/citations?user=mWyeNrwAAAAJ&hl=ja"
   - "icon": "brands/github"
