@@ -1,14 +1,31 @@
 ---
-authors: [aki]
-date: '2022-01-14 21:35:00-08:00'
-lastmod: '2022-01-15 09:29:00-08:00'
+authors:
+  - aki
+date: 2022-01-14 21:35:00-08:00
+lastmod: 2022-01-15 09:29:00-08:00
 summary: HugoやJekyllの記事にレコメンドを足すためにprelimsを使った
-tags: [NLP, Python, Recommendation]
+tags:
+  - NLP
+  - Python
+  - Recommendation
 title: prelimsを使ってHugoの記事にレコメンドを追加する
-keywords: [hugo, 生成, prelims, wowchemy, レコメンド, キーワード, jekyll, ビルド, 名前, 記事]
-recommendations: [/post/2022-01-25-hugo-content-based-recommendation/, /post/2025-08-24-pages-cms/,
-  /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/]
+keywords:
+  - hugo
+  - 生成
+  - prelims
+  - wowchemy
+  - レコメンド
+  - キーワード
+  - jekyll
+  - ビルド
+  - 名前
+  - 記事
+recommendations:
+  - /post/2022-01-25-hugo-content-based-recommendation/
+  - /post/2025-08-24-pages-cms/
+  - /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/
 ---
+
 
 ![](https://images.unsplash.com/photo-1457369804613-52c61a468e7d?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

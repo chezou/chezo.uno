@@ -1,15 +1,31 @@
 ---
-aliases: [/post/2017-08-03_oss-48807bbbf13f/]
-authors: [aki]
-categories: [machine_learaning, OSS]
-date: '2017-08-02 11:29:59-07:00'
+aliases:
+  - /post/2017-08-03_oss-48807bbbf13f/
+authors:
+  - aki
+categories:
+  - machine_learaning
+  - OSS
+date: 2017-08-02 11:29:59-07:00
 description: 英語版はこちら。
 title: OSSベースの機械学習が強い理由
-keywords: [論文, 機械学習, アルゴリズム, 時代, 実装, deep learning, アカデミア, 投稿, 先端, フレームワーク]
-recommendations: [/post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/,
-  /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/,
-  /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/]
+keywords:
+  - 論文
+  - 機械学習
+  - アルゴリズム
+  - 時代
+  - 実装
+  - deep learning
+  - アカデミア
+  - 投稿
+  - 先端
+  - フレームワーク
+recommendations:
+  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
+  - /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/
+  - /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
 ---
+
 
 _英語版は_[_こちら_](https://chezo.uno/blog/2017-08-03_why-oss-based-machine-learning-is-good-3ab45a1a5e52/)_
 

@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2012-10-02 15:03:48-07:00'
+date: 2012-10-02 15:03:48-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2012-10-02 15:03:48-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2012-10-02 15:03:48-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
-title: '想像もしなかった場外戦〜iPhone 5とAndroidの対決がこんなところまで！！ #TEAMiPhone と #TeamDROID の戦い'
-keywords: [peter, hollens, iphone, version, 歌詞, firework, apple store, アカペラ, 対決, 格好]
-recommendations: [/post/2009-05-12-konnitiha-iphone/, /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/,
-  /post/2008-07-07-the-real-group-real-christmas-commonly-unique/]
+title: "想像もしなかった場外戦〜iPhone 5とAndroidの対決がこんなところまで！！ #TEAMiPhone と #TeamDROID の戦い"
+keywords:
+  - peter
+  - hollens
+  - iphone
+  - version
+  - 歌詞
+  - firework
+  - apple store
+  - アカペラ
+  - 対決
+  - 格好
+recommendations:
+  - /post/2009-05-12-konnitiha-iphone/
+  - /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/
+  - /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
 ---
+
 
 一度は聞いたことがあるiPhoneの着信音のあの音から、こんな曲ができるなんて！
 

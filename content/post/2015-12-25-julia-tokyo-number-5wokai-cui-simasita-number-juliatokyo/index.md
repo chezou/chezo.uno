@@ -1,21 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2015-12-25 13:02:48-08:00'
+date: 2015-12-25 13:02:48-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-12-25 13:02:48-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2015-12-25 13:02:48-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
-title: 'Julia Tokyo #5を開催しました #JuliaTokyo'
-keywords: [julia, jl, mxnet, cuda, juliatokyo, github, そう, 線形, オンライン, julialang]
-recommendations: [/post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/,
-  /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/,
-  /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/]
+title: "Julia Tokyo #5を開催しました #JuliaTokyo"
+keywords:
+  - julia
+  - jl
+  - mxnet
+  - cuda
+  - juliatokyo
+  - github
+  - そう
+  - 線形
+  - オンライン
+  - julialang
+recommendations:
+  - /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
+  - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
+  - /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/
 ---
+
 
 さる12/19に[JuliaTokyoの第五回](http://juliatokyo.connpass.com/event/21715/)を開催しました。[^1] 
 

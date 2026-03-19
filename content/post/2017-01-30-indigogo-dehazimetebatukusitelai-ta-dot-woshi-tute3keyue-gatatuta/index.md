@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2017-01-30 14:02:42-08:00'
+date: 2017-01-30 14:02:42-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2017-01-30 14:02:42-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2017-01-30 14:02:42-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: Indigogo ではじめてバックして来た dot を使って3ヶ月がたった
-keywords: [充電, dot, instagram, 感じ, 片方, ケース, バック, イヤホン, www, '20']
-recommendations: [/post/2009-10-18-vaio-xnixin-tokimeku/, /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/,
-  /post/2008-06-25-xin-meng-eruhetudohondu-ben/]
+keywords:
+  - 充電
+  - dot
+  - instagram
+  - 感じ
+  - 片方
+  - ケース
+  - バック
+  - イヤホン
+  - www
+  - "20"
+recommendations:
+  - /post/2009-10-18-vaio-xnixin-tokimeku/
+  - /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/
+  - /post/2008-06-25-xin-meng-eruhetudohondu-ben/
 ---
+
 
 最近のbackspace.fm でdotが「来る来る詐欺」でAir podsに完全に飲み込まれたという話が出ていたので、きちんとレビューしてなかったのを思い出したのでレビューします。
 

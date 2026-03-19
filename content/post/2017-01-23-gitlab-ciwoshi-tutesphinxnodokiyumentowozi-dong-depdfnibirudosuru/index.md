@@ -1,21 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2017-01-23 04:38:35-08:00'
+date: 2017-01-23 04:38:35-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2017-01-23 04:38:35-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2017-01-23 04:38:35-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: Gitlab CIを使ってSphinxのドキュメントを自動でPDFにビルドする
-keywords: [gitlab, pdf, ci, sphinx, image, master, 生成, paths, markdown, レポジトリ]
-recommendations: [/post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/,
-  /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/,
-  /post/2019-11-25-github actions-api token-pypi release/]
+keywords:
+  - gitlab
+  - pdf
+  - ci
+  - sphinx
+  - image
+  - master
+  - 生成
+  - paths
+  - markdown
+  - レポジトリ
+recommendations:
+  - /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/
+  - /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/
+  - /post/2019-11-25-github actions-api token-pypi release/
 ---
+
 
 gitlab.comは自前でDocker image登録できたり、CI持っていたりと便利ですね。しかも、privateレポジトリもお金かからないという太っ腹。 技術書典2に向けたレポジトリはgitlab.comで管理しています。
 

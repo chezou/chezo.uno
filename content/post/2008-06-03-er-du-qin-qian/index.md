@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2008-06-03 14:45:20-07:00'
+date: 2008-06-03 14:45:20-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-06-03 14:45:20-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2008-06-03 14:45:20-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: 二度寝前
-keywords: [アレンジ, 満足, cd, スコア, 選択, テンポ, shaw, robert, festival, 苦しい]
-recommendations: [/post/2008-08-01-ono-lisa-best-2002-2006/, /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/,
-  /post/2006-07-28-xia-nanode/]
+keywords:
+  - アレンジ
+  - 満足
+  - cd
+  - スコア
+  - 選択
+  - テンポ
+  - shaw
+  - robert
+  - festival
+  - 苦しい
+recommendations:
+  - /post/2008-08-01-ono-lisa-best-2002-2006/
+  - /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/
+  - /post/2006-07-28-xia-nanode/
 ---
+
 
 9時前に寝てしまい、気が付けば11時。  
 でも、朝の4時かと思うくらい長い夢を見ていた気がする。苦しい夢だった。  

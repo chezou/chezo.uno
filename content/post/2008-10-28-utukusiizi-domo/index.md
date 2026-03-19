@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2008-10-28 14:48:47-07:00'
+date: 2008-10-28 14:48:47-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-10-28 14:48:47-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2008-10-28 14:48:47-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: うつくしい子ども
-keywords: [石田衣良, 主人公, 悪く, コメント, 印象, 食欲, 題材, 閑話休題, 追求, 猟奇的]
-recommendations: [/post/2008-08-26-akihabara-at-deep/, /post/2008-06-15-gui-cai-xian-ru/,
-  /post/2008-11-18-ai-gainaibu-wu/]
+keywords:
+  - 石田衣良
+  - 主人公
+  - 悪く
+  - コメント
+  - 印象
+  - 食欲
+  - 題材
+  - 閑話休題
+  - 追求
+  - 猟奇的
+recommendations:
+  - /post/2008-08-26-akihabara-at-deep/
+  - /post/2008-06-15-gui-cai-xian-ru/
+  - /post/2008-11-18-ai-gainaibu-wu/
 ---
+
 
 石田衣良の「うつくしい子ども」です。 {{< amazon asin="4167174057" title="うつくしい子ども (文春文庫)" >}}
 石田 衣良 / / 文藝春秋  

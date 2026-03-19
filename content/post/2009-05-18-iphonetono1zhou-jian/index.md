@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2009-05-18 14:53:51-07:00'
+date: 2009-05-18 14:53:51-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-05-18 14:53:51-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2009-05-18 14:53:51-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: iPhoneとの1週間
-keywords: [メール, 送信, 問題, 登録, メモ, iphone, 着信, モバイル端末, files, docomo]
-recommendations: [/post/2009-05-12-konnitiha-iphone/, /post/2009-05-07-sayonarawillcom-sayonaraad-es/,
-  /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/]
+keywords:
+  - メール
+  - 送信
+  - 問題
+  - 登録
+  - メモ
+  - iphone
+  - 着信
+  - モバイル端末
+  - files
+  - docomo
+recommendations:
+  - /post/2009-05-12-konnitiha-iphone/
+  - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
+  - /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
 ---
+
 
 はじめて生で小夏ちゃんを見た。梅雨くん（ちゃん？）も見てしまった。それをiPhoneの[Baloo](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=292171561&mt=8)で実況板を見ていたのですが、流れが速くて追いつかないという現象を見てしまいました。すごいわー
 

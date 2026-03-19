@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2009-05-27 14:54:07-07:00'
+date: 2009-05-27 14:54:07-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-05-27 14:54:07-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2009-05-27 14:54:07-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: お風呂でiPhone+ニコ動は良いよ
-keywords: [zabady, ロック, iphone, stage, ニコ動, 満喫, ニコニコ動画, 風呂, 悩み, 交換]
-recommendations: [/post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/,
-  /post/2009-05-18-iphonetono1zhou-jian/, /post/2009-05-12-konnitiha-iphone/]
+keywords:
+  - zabady
+  - ロック
+  - iphone
+  - stage
+  - ニコ動
+  - 満喫
+  - ニコニコ動画
+  - 風呂
+  - 悩み
+  - 交換
+recommendations:
+  - /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/
+  - /post/2009-05-18-iphonetono1zhou-jian/
+  - /post/2009-05-12-konnitiha-iphone/
 ---
+
 
 [Back\_stage: お風呂でiPhone](http://openart.de-blog.jp/back_stage/2008/12/iphone_78ab.html).  
 こちらのサイトと同様にうちでもZABADYでiPhone突っ込んでニコニコ動画を満喫していました。久しくニコ動を見ていなかったので、歌ってみたとかフルボイスドラクエ3とか色々漁って楽しんでおりました。

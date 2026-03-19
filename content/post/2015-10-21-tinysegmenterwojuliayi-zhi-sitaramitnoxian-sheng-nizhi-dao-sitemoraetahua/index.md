@@ -1,21 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2015-10-21 16:43:17-07:00'
+date: 2015-10-21 16:43:17-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2015-10-21 16:43:17-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2015-10-21 16:43:17-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: TinySegmenterをJulia移植したらMITの先生に指導してもらえた話
-keywords: [julia, 実装, パッケージ, issue, python, tinysegmenter, 先生, sgj, 日本語, 最適化]
-recommendations: [/post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/,
-  /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/,
-  /post/2014-06-21-julia100ben-notuku/]
+keywords:
+  - julia
+  - 実装
+  - パッケージ
+  - issue
+  - python
+  - tinysegmenter
+  - 先生
+  - sgj
+  - 日本語
+  - 最適化
+recommendations:
+  - /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/
+  - /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/
+  - /post/2014-06-21-julia100ben-notuku/
 ---
+
 
 先日、工藤さんがJavaScript向けに作った日本語のコンパクトな分かち書きツール、TinySegmenterをJuliaに移植した[TinySegmenter.jl](https://github.com/chezou/TinySegmenter.jl)を作りました。 もともとは、PyconJPで[janomeの話](http://mocobeta-backup.tumblr.com/post/131025586072/pyconjp-janome)を聞いたら居ても立っても居られなくなって、簡単なTinySegmenterを移植したんですが、そしたら思いもよらぬ展開が待っていました。
 

@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2005-08-24 14:47:16-07:00'
+date: 2005-08-24 14:47:16-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2005-08-24 14:47:16-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2005-08-24 14:47:16-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: へっどほん！へっどほん！
-keywords: [er, 大須, 同期, カナル型, 曰く, イヤホン, 是非, 研究室, ヘッドホン, 入手]
-recommendations: [/post/2008-09-14-hetudohonwu-se-sitahi/, /post/2008-01-18-souiebakokohawu-yu-burogudatuta/,
-  /post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/]
+keywords:
+  - er
+  - 大須
+  - 同期
+  - カナル型
+  - 曰く
+  - イヤホン
+  - 是非
+  - 研究室
+  - ヘッドホン
+  - 入手
+recommendations:
+  - /post/2008-09-14-hetudohonwu-se-sitahi/
+  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
+  - /post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/
 ---
+
 
 いや、厳密に言うとヘッドホンではないのかもしれません。カナル型イヤホンのER-6iです。  
 てか、色々ネットで調べてる内にこれしかない、という状況にまで来てしまいました。  

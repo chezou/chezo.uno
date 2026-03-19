@@ -1,20 +1,38 @@
 ---
-authors: [aki]
-categories: [ruby]
-date: '2013-06-28 21:06:14-07:00'
+authors:
+  - aki
+categories:
+  - ruby
+date: 2013-06-28 21:06:14-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2013-06-28 21:06:14-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2013-06-28 21:06:14-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
-title: 'Kawasaki.rb  #001 第1回ミートアップを開催しました #kwskrb'
-keywords: [hash, gc, ruby, hadoop, 遅い, 拡張, rb, python, ライブラリ, kawasaki]
-recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/,
-  /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/, /post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/]
+title: "Kawasaki.rb  #001 第1回ミートアップを開催しました #kwskrb"
+keywords:
+  - hash
+  - gc
+  - ruby
+  - hadoop
+  - 遅い
+  - 拡張
+  - rb
+  - python
+  - ライブラリ
+  - kawasaki
+recommendations:
+  - /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/
+  - /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
+  - /post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/
 ---
+
 
 6/26にKawasaki.rbの第1回ミートアップを開催しました。
 

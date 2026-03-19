@@ -1,20 +1,38 @@
 ---
-authors: [aki]
-categories: [ruby]
-date: '2014-03-30 15:06:20-07:00'
+authors:
+  - aki
+categories:
+  - ruby
+date: 2014-03-30 15:06:20-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-03-30 15:06:20-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2014-03-30 15:06:20-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
-title: 'kawasaki.rb #010 を開催しました #kwskrb'
-keywords: [翻訳, jekyll, ドキュメント, kawasaki, rb, リポジトリ, aki, '300', 本家, ariga]
-recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/,
-  /post/2022-06-18-kawasaki rb 9 years reflection/, /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/]
+title: "kawasaki.rb #010 を開催しました #kwskrb"
+keywords:
+  - 翻訳
+  - jekyll
+  - ドキュメント
+  - kawasaki
+  - rb
+  - リポジトリ
+  - aki
+  - "300"
+  - 本家
+  - ariga
+recommendations:
+  - /post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/
+  - /post/2022-06-18-kawasaki rb 9 years reflection/
+  - /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/
 ---
+
 
 kawasaki.rbもいよいよ10回目を開催してきました。\
 まさかの1日二回LTという展開でしたが、無事に話すことが出来て良かったです。

@@ -1,76 +1,46 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "仕事ではじめる機械学習 (Machine Learning at Work)"
-authors: [aki, "Shinta Nakayama", "Takashi Nishibayashi"]
+title: 仕事ではじめる機械学習 (Machine Learning at Work)
+authors:
+  - aki
+  - Shinta Nakayama
+  - Takashi Nishibayashi
 date: 2017-10-01T00:00:00+09:00
 doi: ""
-
-# Schedule page publish date (NOT publication's date).
 publishDate: 2019-12-01T17:08:06+09:00
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["Book"]
-
-# Publication name and optional abbreviated publication name.
-publication: "O'Reilly Japan"
-publication_short: "仕事ではじめる機械学習"
-
-abstract: "First book for how to design Machine Learning systems and how to proceed Machine Learning projects. This book is originally written in Japanese, but available in Korean, Simplified Chinese, and Traditional Chinese."
-
-# Summary. An optional shortened abstract.
+publication_types:
+  - Book
+publication: O'Reilly Japan
+publication_short: 仕事ではじめる機械学習
+abstract: First book for how to design Machine Learning systems and how to
+  proceed Machine Learning projects. This book is originally written in
+  Japanese, but available in Korean, Simplified Chinese, and Traditional
+  Chinese.
 summary: ""
-
-tags: [machine_learning, ml_project, ml_system]
-categories: ["Machine Learning"]
+tags:
+  - machine_learning
+  - ml_project
+  - ml_system
+categories:
+  - Machine Learning
 featured: true
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
 links:
-- name: E-book
-  url: https://www.oreilly.co.jp/books/9784873118215/
-  type: site
-- name: Paper book
-  url: https://www.oreilly.co.jp/books/9784873118253/
-  type: site
-- name: Book (2nd edition)
-  url: https://www.oreilly.co.jp/books/9784873119472/
-  type: site
-- type: code
-  url: https://github.com/oreilly-japan/ml-at-work
-
-
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+  - name: E-book
+    url: https://www.oreilly.co.jp/books/9784873118215/
+    type: site
+  - name: Paper book
+    url: https://www.oreilly.co.jp/books/9784873118253/
+    type: site
+  - name: Book (2nd edition)
+    url: https://www.oreilly.co.jp/books/9784873119472/
+    type: site
+  - type: code
+    url: https://github.com/oreilly-japan/ml-at-work
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: ml_at_work.jpeg
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
 slides: ""
 ---
+

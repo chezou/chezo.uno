@@ -1,21 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2010-06-26 14:58:59-07:00'
+date: 2010-06-26 14:58:59-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-06-26 14:58:59-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2010-06-26 14:58:59-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: Canon iVIS HF M31がやってきた。フルHD楽しい
-keywords: ['1600', '1200', jpeg, バッテリ, youtube, フルhd, aee, 予備, '47', cf]
-recommendations: [/post/2015-10-19-batukibakininatuteitanexus5wo$40dexiu-li-sita/,
-  /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/,
-  /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/]
+keywords:
+  - "1600"
+  - "1200"
+  - jpeg
+  - バッテリ
+  - youtube
+  - フルhd
+  - aee
+  - 予備
+  - "47"
+  - cf
+recommendations:
+  - /post/2015-10-19-batukibakininatuteitanexus5wo$40dexiu-li-sita/
+  - /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/
+  - /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
 ---
+
 
 [![](p_1600_1200_a0c82b14-8d7b-47c1-afc3-cf1903a121a6.jpeg)](p_1600_1200_a0c82b14-8d7b-47c1-afc3-cf1903a121a6.jpeg)
 

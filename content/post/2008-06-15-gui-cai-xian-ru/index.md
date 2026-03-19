@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2008-06-15 14:44:30-07:00'
+date: 2008-06-15 14:44:30-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-06-15 14:44:30-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2008-06-15 14:44:30-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: 鬼才現る
-keywords: [喜び, 衝撃, 現実, 悲しみ, ショック, 衣良, 石田, 集英社, 主人公, 驚き]
-recommendations: [/post/2008-08-26-akihabara-at-deep/, /post/2008-11-18-ai-gainaibu-wu/,
-  /post/2008-10-28-utukusiizi-domo/]
+keywords:
+  - 喜び
+  - 衝撃
+  - 現実
+  - 悲しみ
+  - ショック
+  - 衣良
+  - 石田
+  - 集英社
+  - 主人公
+  - 驚き
+recommendations:
+  - /post/2008-08-26-akihabara-at-deep/
+  - /post/2008-11-18-ai-gainaibu-wu/
+  - /post/2008-10-28-utukusiizi-domo/
 ---
+
 
 {{< amazon asin="4087474763" title="エンジェル (集英社文庫)" >}}
 石田 衣良 / / 集英社  

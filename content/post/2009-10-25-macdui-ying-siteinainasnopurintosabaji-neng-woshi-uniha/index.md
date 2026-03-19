@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2009-10-25 14:56:16-07:00'
+date: 2009-10-25 14:56:16-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2009-10-25 14:56:16-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2009-10-25 14:56:16-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: Mac対応していないNASのプリントサーバー機能を使うには
-keywords: [mac, nas, windows, 共有, ドライバ, mp, 印刷, トライ, mac os x, canon]
-recommendations: [/post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/, /post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/,
-  /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/]
+keywords:
+  - mac
+  - nas
+  - windows
+  - 共有
+  - ドライバ
+  - mp
+  - 印刷
+  - トライ
+  - mac os x
+  - canon
+recommendations:
+  - /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/
+  - /post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/
+  - /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/
 ---
+
 
 前々からやりたいと思っていたのだができなかったことだったのだが、今回Windows7を導入にあたってトライしてみたらあっさりできた。基本発想としては、Windows用にsamba経由で共有されているNASなのだから、MacのWindows用プリンタの共有を使ってみたら？という考えだ。  
 これが、見事に的中した。

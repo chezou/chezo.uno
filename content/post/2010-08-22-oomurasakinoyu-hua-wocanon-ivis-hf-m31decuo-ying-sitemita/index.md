@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2010-08-22 14:59:31-07:00'
+date: 2010-08-22 14:59:31-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-08-22 14:59:31-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2010-08-22 14:59:31-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: オオムラサキの羽化をCanon iVIS HF M31で撮影してみた
-keywords: [インターネット, 体験, 記憶, 難しい, こと, 祖父母, 撮影, フルhd, ストーリー, canon]
-recommendations: [/post/2005-08-06-webkamera/, /post/2008-11-08-liang-ishi-dai-ninatutanee/,
-  /post/2006-05-19-ds-de-tv/]
+keywords:
+  - インターネット
+  - 体験
+  - 記憶
+  - 難しい
+  - こと
+  - 祖父母
+  - 撮影
+  - フルhd
+  - ストーリー
+  - canon
+recommendations:
+  - /post/2005-08-06-webkamera/
+  - /post/2008-11-08-liang-ishi-dai-ninatutanee/
+  - /post/2006-05-19-ds-de-tv/
 ---
+
 
 [Canon iVIS HF M31を買った](https://chezo.uno/post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/)ので、それを使って動画をとってみました。
 なかなか写真と違ってどういうストーリーでとるのかとかを考えないといけないのが難しいところです。

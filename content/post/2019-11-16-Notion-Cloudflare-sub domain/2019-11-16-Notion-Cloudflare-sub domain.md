@@ -1,14 +1,29 @@
 ---
-authors: [aki]
-date: '2019-11-16 06:50:00-08:00'
-lastmod: '2021-12-05 22:35:00-08:00'
+authors:
+  - aki
+date: 2019-11-16 06:50:00-08:00
+lastmod: 2021-12-05 22:35:00-08:00
 summary: Notionでカスタムドメインをサブドメインまで設定する
-tags: [Notion]
+tags:
+  - Notion
 title: NotionのページをCloudflareでsub domainに転送する
-keywords: [notion, domain, 設定, uno, memo, chezo, ドメイン, 指定, 設定方法, カスタム]
-recommendations: [/post/2025-08-24-pages-cms/, /post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/,
-  /post/2022-12-16-bump-wowchemy-v570/]
+keywords:
+  - notion
+  - domain
+  - 設定
+  - uno
+  - memo
+  - chezo
+  - ドメイン
+  - 指定
+  - 設定方法
+  - カスタム
+recommendations:
+  - /post/2025-08-24-pages-cms/
+  - /post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/
+  - /post/2022-12-16-bump-wowchemy-v570/
 ---
+
 
 ![](https://images.unsplash.com/photo-1512314889357-e157c22f938d?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb)
 

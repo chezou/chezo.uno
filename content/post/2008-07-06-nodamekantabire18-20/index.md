@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2008-07-05 18:07:01-07:00'
+date: 2008-07-05 18:07:01-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-07-05 18:07:01-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2008-07-05 18:07:01-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: のだめカンタービレ18〜20
-keywords: [知子, 二ノ宮, 講談社, だめ, isbn, スコア, 周り, 選択, 素朴, 最新刊]
-recommendations: [/post/2008-08-11-nodame21juan/, /post/2008-10-02-pahuekutoburudu-liao/,
-  /post/2008-06-03-gao-wu-nai-yue/]
+keywords:
+  - 知子
+  - 二ノ宮
+  - 講談社
+  - だめ
+  - isbn
+  - スコア
+  - 周り
+  - 選択
+  - 素朴
+  - 最新刊
+recommendations:
+  - /post/2008-08-11-nodame21juan/
+  - /post/2008-10-02-pahuekutoburudu-liao/
+  - /post/2008-06-03-gao-wu-nai-yue/
 ---
+
 
 {{< amazon asin="4063406482" title="のだめカンタービレ (18)(講談社コミックスキス)" >}}
 二ノ宮 知子 / / 講談社  

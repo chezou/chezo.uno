@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2011-04-07 15:01:11-07:00'
+date: 2011-04-07 15:01:11-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2011-04-07 15:01:11-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2011-04-07 15:01:11-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: それでもTake6は来日する
-keywords: [来日, 日本, サイト, 推測, 地震, あたたかい, message, knows, 祈り, sure]
-recommendations: [/post/2009-08-12-masa-festazhong-zhi/, /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/,
-  /post/2009-08-30-rent-burodouetuawojian-telai-ta/]
+keywords:
+  - 来日
+  - 日本
+  - サイト
+  - 推測
+  - 地震
+  - あたたかい
+  - message
+  - knows
+  - 祈り
+  - sure
+recommendations:
+  - /post/2009-08-12-masa-festazhong-zhi/
+  - /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/
+  - /post/2009-08-30-rent-burodouetuawojian-telai-ta/
 ---
+
 
 【20110531追記】[オフィシャルサイトによると、Take6の来日は2012年2月に延期されたようです。  
   

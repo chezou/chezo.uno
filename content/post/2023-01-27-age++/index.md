@@ -1,20 +1,37 @@
 ---
 title: また一つ年を取った
-subtitle: ''
-summary: ''
-authors: [aki]
+subtitle: ""
+summary: ""
+authors:
+  - aki
 tags: []
 categories: []
 date: 2023-01-27 22:36:50-08:00
 lastmod: 2023-01-27 22:36:50-08:00
 featured: false
 draft: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 projects: []
-keywords: [誕生日, work permit, カナダ, カ月, 永住権, '2021', pr, 社内, 仕事, 会社]
-recommendations: [/post/2022-12-30-2022-year-in-review/, /post/2023-12-30-2023-year-in-review/,
-  /post/2021-12-31-2021-year-review/]
+keywords:
+  - 誕生日
+  - work permit
+  - カナダ
+  - カ月
+  - 永住権
+  - "2021"
+  - pr
+  - 社内
+  - 仕事
+  - 会社
+recommendations:
+  - /post/2022-12-30-2022-year-in-review/
+  - /post/2023-12-30-2023-year-in-review/
+  - /post/2021-12-31-2021-year-review/
 ---
+
 
 2023年も1月があっという間に過ぎてしまいました。
 先日、誕生日を迎えて40歳の大台目前になりました。誕生日に行った歯医者にケーキを渡されたり、Appleサポートに2時間奪われたりとなかなかよくわからない忙しい日を過ごしました。

@@ -1,20 +1,41 @@
 ---
-authors: [aki]
-categories: [Machine Learning, MLOps, Conference]
-date: '2020-11-10 05:18:19-08:00'
+authors:
+  - aki
+categories:
+  - Machine Learning
+  - MLOps
+  - Conference
+date: 2020-11-10 05:18:19-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2020-11-10 05:18:19-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2020-11-10 05:18:19-08:00
 projects: []
-subtitle: ''
-summary: ''
-tags: [mlops]
+subtitle: ""
+summary: ""
+tags:
+  - mlops
 title: 機械学習工学研究会の「機械学習基盤 本番適用と運用の事例・知見共有会」を開催しました
-keywords: [基盤, 機械学習, 本番, 適用, 運用, 事例, 当日, 知見, 共有, 要件]
-recommendations: [/post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/,
-  /post/2022-07-15-finished-mlse-infra-wg/, /post/2020-07-11-mlse-summer-workshop/]
+keywords:
+  - 基盤
+  - 機械学習
+  - 本番
+  - 適用
+  - 運用
+  - 事例
+  - 当日
+  - 知見
+  - 共有
+  - 要件
+recommendations:
+  - /post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/
+  - /post/2022-07-15-finished-mlse-infra-wg/
+  - /post/2020-07-11-mlse-summer-workshop/
 ---
+
 
 [@masaru_dobashi](https://twitter.com/masaru_dobashi)さん共同で、機械学習工学研究会（MLSE）本番適用のためのインフラと運用WG主催の、「機械学習基盤 本番適用と運用の事例・知見共有会」をオンライン開催しました。
 

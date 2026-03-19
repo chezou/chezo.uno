@@ -1,20 +1,38 @@
 ---
 title: 2022年を振り返って
-subtitle: ''
-summary: ''
-authors: [aki]
+subtitle: ""
+summary: ""
+authors:
+  - aki
 tags: []
-categories: [Year review]
+categories:
+  - Year review
 date: 2022-12-30 14:59:13-08:00
 lastmod: 2022-12-30 14:59:13-08:00
 featured: false
 draft: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
 projects: []
-keywords: [post, バンクーバー, hezou, 活動, netlify, cms, podcast, 副業, チーム, shared]
-recommendations: [/post/2021-12-31-2021-year-review/, /post/2023-12-30-2023-year-in-review/,
-  /post/2020-12-31-2020-review/]
+keywords:
+  - post
+  - バンクーバー
+  - hezou
+  - 活動
+  - netlify
+  - cms
+  - podcast
+  - 副業
+  - チーム
+  - shared
+recommendations:
+  - /post/2021-12-31-2021-year-review/
+  - /post/2023-12-30-2023-year-in-review/
+  - /post/2020-12-31-2020-review/
 ---
+
 
 [去年](https://chezo.uno/post/2021-12-31-2021-year-review/)に引き続き、2022年の振り返りです。
 RTA in Japanに触発されてなぜか [After Devil Forceのプレイ動画](https://www.nicovideo.jp/watch/sm2691704)を見ながら書いています。

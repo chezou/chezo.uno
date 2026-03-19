@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2011-04-06 15:01:06-07:00'
+date: 2011-04-06 15:01:06-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2011-04-06 15:01:06-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2011-04-06 15:01:06-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: ガチャピン sings Rajaton？
-keywords: [動画, youtube, ガチャピン, アマチュア, rajaton, 演奏, 検索, 名曲, リニューアル, ホットエントリ]
-recommendations: [/post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/,
-  /post/2009-04-13-it-dont-mean-a-thing/, /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/]
+keywords:
+  - 動画
+  - youtube
+  - ガチャピン
+  - アマチュア
+  - rajaton
+  - 演奏
+  - 検索
+  - 名曲
+  - リニューアル
+  - ホットエントリ
+recommendations:
+  - /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/
+  - /post/2009-04-13-it-dont-mean-a-thing/
+  - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
 ---
+
 
 きっかけは、君のラジオがリニューアルしている様子がはてブのホットエントリ入りしたところから。  
 あの手のYouTubeの検索マッシュアップではRajatonを検索するようにしているのですが(本人達の演奏が少なくノイジーなのです)、今回も見事にアマチュアやら関係ない動画がざっくざっく引っかかりました。

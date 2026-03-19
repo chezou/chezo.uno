@@ -1,21 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2014-04-03 15:06:26-07:00'
+date: 2014-04-03 15:06:26-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2014-04-03 15:06:26-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2014-04-03 15:06:26-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
-title: 'TokyuRuby会議07でLTしてきました #tqrk07'
-keywords: [ライセンス, 感じ, 危険, ラップ, ベーコン, tokyuruby, 場合, 持ち込み, cc, 自作]
-recommendations: [/post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/,
-  /post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/,
-  /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/]
+title: "TokyuRuby会議07でLTしてきました #tqrk07"
+keywords:
+  - ライセンス
+  - 感じ
+  - 危険
+  - ラップ
+  - ベーコン
+  - tokyuruby
+  - 場合
+  - 持ち込み
+  - cc
+  - 自作
+recommendations:
+  - /post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/
+  - /post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/
+  - /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/
 ---
+
 
 無限プレモルが出るという危険な楽しいイベント、[TokyuRuby会議07](http://regional.rubykaigi.org/tokyu07)で[rubyistokei](http://rubyistokei.herokuapp.com/)の[timer](https://speakerdeck.com/kwappa/rubyistimer)にドラの音を付けたよ！という話をしました。
 

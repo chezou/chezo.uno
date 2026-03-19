@@ -1,21 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2010-01-19 13:58:00-08:00'
+date: 2010-01-19 13:58:00-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2010-01-19 13:58:00-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2010-01-19 13:58:00-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: 合唱とアカペラのカレンダーをGoogle Calendarで作ってみた
-keywords: [登録, カレンダー, 嬉しい, 随時, 余地, ぴあ, plus, 複数人, 募集中, つめ]
-recommendations: [/post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/,
-  /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/,
-  /post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/]
+keywords:
+  - 登録
+  - カレンダー
+  - 嬉しい
+  - 随時
+  - 余地
+  - ぴあ
+  - plus
+  - 複数人
+  - 募集中
+  - つめ
+recommendations:
+  - /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/
+  - /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
+  - /post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/
 ---
+
 
 自分のために作ってみたものですが、[こちら](http://www.google.com/calendar/embed?src=YWNhcHBlbGxhLmV2ZW50QGdtYWlsLmNvbQ)にありますので良ければ使ってみてください。手で見つけたものを少しずつ書いているものなので、色々と漏れがあります。ありまくりだと思います。また、自分が合唱の方が敏感なので、アカペラのイベントは全然拾えてません。もし、よろしければ情報をお待ちしております。[twitter](http://twitter.com/chezou)まで@飛ばしていただくか、このblogにコメントでもOKです。  
 また、書き込んでくださる方も随時募集中です。基本自分のためのカレンダーではありますが、情報を集められたらいいなーと思っています。

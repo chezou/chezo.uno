@@ -1,20 +1,38 @@
 ---
 title: 2021年を振り返って
-subtitle: ''
+subtitle: ""
 date: 2021-12-31 16:05:03-08:00
-summary: ''
+summary: ""
 draft: false
 featured: false
-authors: [aki]
+authors:
+  - aki
 lastmod: 2021-12-31 16:05:03-08:00
 tags: []
-categories: [Year review]
+categories:
+  - Year review
 projects: []
-image: {caption: '', focal_point: '', preview_only: false}
-keywords: [お金, ops, アニメ, 漫画, 去年, 東京, 執筆, 来年, こと, はず]
-recommendations: [/post/2022-12-30-2022-year-in-review/, /post/2023-12-30-2023-year-in-review/,
-  /post/2020-12-31-2020-review/]
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+keywords:
+  - お金
+  - ops
+  - アニメ
+  - 漫画
+  - 去年
+  - 東京
+  - 執筆
+  - 来年
+  - こと
+  - はず
+recommendations:
+  - /post/2022-12-30-2022-year-in-review/
+  - /post/2023-12-30-2023-year-in-review/
+  - /post/2020-12-31-2020-review/
 ---
+
 [去年](https://chezo.uno/post/2020-12-31-2020-review/)に引き続き、年末の振り返りです。まだ西海岸時間は2021年です。
 
 なにより、家族で[バンクーバーに移住した](https://chezo.uno/post/2021-12-18-8-months-after-relocating-vancouver/)のが大きな変化でした。

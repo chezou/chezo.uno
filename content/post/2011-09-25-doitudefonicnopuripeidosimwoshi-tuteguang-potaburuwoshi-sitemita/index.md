@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2011-09-25 01:09:29-07:00'
+date: 2011-09-25 01:09:29-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2011-09-25 01:09:29-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2011-09-25 01:09:29-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: ドイツでFONICのプリペイドSIMを使って光ポータブルを試してみた
-keywords: [sim, チャージ, アクティベーション, ドイツ, sms, ユーロ, 英語, 購入, 携帯, day]
-recommendations: [/post/2023-08-06-rakuten-mobile-activation/, /post/2015-10-08-iijmiono-outidenanbapotabiritei-shi-tutezi-zhai-demnpsita/,
-  /post/2005-07-11-w-sim/]
+keywords:
+  - sim
+  - チャージ
+  - アクティベーション
+  - ドイツ
+  - sms
+  - ユーロ
+  - 英語
+  - 購入
+  - 携帯
+  - day
+recommendations:
+  - /post/2023-08-06-rakuten-mobile-activation/
+  - /post/2015-10-08-iijmiono-outidenanbapotabiritei-shi-tutezi-zhai-demnpsita/
+  - /post/2005-07-11-w-sim/
 ---
+
 
 [![](fonic.jpg)](fonic.jpg)
 

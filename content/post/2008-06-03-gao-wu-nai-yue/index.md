@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2008-06-03 14:44:42-07:00'
+date: 2008-06-03 14:44:42-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-06-03 14:44:42-07:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2008-06-03 14:44:42-07:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: 高屋奈月
-keywords: [臭い, 紹興酒, テイスト, 相変わらず, ダメ, 凄い, シリーズ, ok, 作品, isbn]
-recommendations: [/post/2008-07-30-narutaru/, /post/2008-07-06-nodamekantabire18-20/,
-  /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/]
+keywords:
+  - 臭い
+  - 紹興酒
+  - テイスト
+  - 相変わらず
+  - ダメ
+  - 凄い
+  - シリーズ
+  - ok
+  - 作品
+  - isbn
+recommendations:
+  - /post/2008-07-30-narutaru/
+  - /post/2008-07-06-nodamekantabire18-20/
+  - /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/
 ---
+
 
 胃が凄い荒れ狂っているのがわかります。  
 紹興酒まずかったorz

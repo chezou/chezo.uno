@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2008-11-06 13:48:31-08:00'
+date: 2008-11-06 13:48:31-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2008-11-06 13:48:31-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2008-11-06 13:48:31-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: これでいいのだ
-keywords: [昭和, 戦時, 戦後, ばい, ばあちゃん, 春秋, 文藝, 子どもたち, 子ども, 時代]
-recommendations: [/post/2008-10-10-luo-yu-bai-xuan-xia/, /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/,
-  /post/2008-09-10-enzieruhato-27/]
+keywords:
+  - 昭和
+  - 戦時
+  - 戦後
+  - ばい
+  - ばあちゃん
+  - 春秋
+  - 文藝
+  - 子どもたち
+  - 子ども
+  - 時代
+recommendations:
+  - /post/2008-10-10-luo-yu-bai-xuan-xia/
+  - /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/
+  - /post/2008-09-10-enzieruhato-27/
 ---
+
 
 {{< amazon asin="4167753278" title="これでいいのだ―赤塚不二夫自叙伝 (文春文庫 あ 50-1)" >}}
 赤塚 不二夫 / / 文藝春秋  

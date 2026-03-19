@@ -1,20 +1,37 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
-date: '2016-12-30 15:27:13-08:00'
+date: 2016-12-30 15:27:13-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
-lastmod: '2016-12-30 15:27:13-08:00'
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: 2016-12-30 15:27:13-08:00
 projects: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 tags: []
 title: 2016年買ってよかったもの 10選
-keywords: [メーカー, 出版社, 商品, メディア, ブログ, bluetooth, エレクトロニクス, anker, 発売日, hdmi]
-recommendations: [/post/2017-12-30_2017------------bbf834e065c5/, /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/,
-  /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/]
+keywords:
+  - メーカー
+  - 出版社
+  - 商品
+  - メディア
+  - ブログ
+  - bluetooth
+  - エレクトロニクス
+  - anker
+  - 発売日
+  - hdmi
+recommendations:
+  - /post/2017-12-30_2017------------bbf834e065c5/
+  - /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/
+  - /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/
 ---
+
 
 ハード中心ですが、2016年に買ってよかったものを書いていきます。10選と言いつつ、枝分かれをしているものがありますがご愛嬌ということで。転職をしたこともあり、必要となったものが大きく変わったのですが、今回は自分の生活を楽にしてくれたものを買えたなという気持ちです。
 
