@@ -1,5 +1,5 @@
 ---
-title: A data enginnering and data science platform based on Hadoop/Spark
+title: A data engineering and data science platform based on Hadoop/Spark
 event_url: https://2017.bigdatacon.jp/en/talk/a-data-engineering-and-data-science-platform-based-on-hadoopspark/
 location: Tokyo, Japan
 address:
