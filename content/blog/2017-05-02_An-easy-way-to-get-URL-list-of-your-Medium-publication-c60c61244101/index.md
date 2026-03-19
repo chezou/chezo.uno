@@ -9,8 +9,8 @@ description: I imported blog posts from own Wordpress but I have to redirect old
 title: An easy way to get URL list of your Medium publication
 keywords: [publication, articles, list, medium, url, showing, requires, lacks, huge,
   csv]
-recommendations: [/blog/2022-01-25_hugo-content-based-recommendation/, /blog/2025-08-24-configured-pages-cms/,
-  /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/]
+recommendations: [/blog/2026-03-19-migrated-from-pages-cms-to-sveltia-cms/, /blog/2022-01-25_hugo-content-based-recommendation/,
+  /blog/2025-08-24-configured-pages-cms/]
 ---
 
 
