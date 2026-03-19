@@ -1,6 +1,6 @@
 ---
 title: 「ちょっとしたことでうまくいく 発達障害の人が上手に働くための本」を読んだ
-date: 2025-12-22 18:09:00+00:00
+date: 2025-12-22 18:09:00-08:00
 draft: false
 featured: false
 image: {preview_only: false}
