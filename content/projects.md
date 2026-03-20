@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: Selected Open Sources & Projects
       text: I'm passionate about open source software and have worked on various projects. Here are some of them.
       filters:
         folders:
