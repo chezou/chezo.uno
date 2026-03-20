@@ -15,8 +15,7 @@ recommendations: [/post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-de
 
 OMZは特に何も考えなくても楽に設定できたので使い続けていたが、GH Copilotなどでshell起動が重いと怒られるようになっていたところ、joker1007さんのこんな投稿を見かけた。
 
-https://bsky.app/profile/joker1007.bsky.social/post/3mfqjogaqsh2g
-
+{{< bluesky link="https://bsky.app/profile/joker1007.bsky.social/post/3mfqjogaqsh2g" >}}
 
 ので、脱OMZをした。
 
@@ -28,4 +27,4 @@ https://bsky.app/profile/joker1007.bsky.social/post/3mfqjogaqsh2g
 
 starship.tomlもこんな感じにしている。
 
-https://gist.github.com/chezou/cf444515c282e825d298e38a57365f32
+{{< gist chezou cf444515c282e825d298e38a57365f32 ".config_starship.toml" >}}
