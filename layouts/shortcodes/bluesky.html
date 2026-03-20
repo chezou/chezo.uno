@@ -1,0 +1,12 @@
+{{- $link := .Get "link" -}}
+{{- $query := querify "url" $link -}}
+{{- $request := printf "https://embed.bsky.app/oembed?%s" $query -}}
+
+{{- with try (resources.GetRemote $request) -}}
+  {{- with .Err -}}
+    {{- warnf "bluesky shortcode: %s" . -}}
+  {{- else with .Value -}}
+    {{- $json := . | transform.Unmarshal -}}
+    {{- $json.html | safeHTML -}}
+  {{- end -}}
+{{- end -}}
