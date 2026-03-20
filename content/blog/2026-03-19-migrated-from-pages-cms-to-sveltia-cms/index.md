@@ -8,11 +8,8 @@ categories: [blog]
 tags: [CMS, blog]
 draft: false
 featured: true
-image:
-  filename: pasted-image-1773964049625.png
-  focal_point: Smart
-  preview_only: false
-  alt_text: Warning notification of GitHub issue on Sveltia CMS
+image: {filename: pasted-image-1773964049625.png, focal_point: Smart, preview_only: false,
+  alt_text: Warning notification of GitHub issue on Sveltia CMS}
 recommendations: [/blog/2024-02-02-migrated-from-netlify-to-cloudflare-pages/, /blog/2025-08-24-configured-pages-cms/,
   /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/]
 ---
