@@ -10,7 +10,7 @@ draft: false
 featured: false
 image: null
 recommendations: [/post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/,
-  /post/2019-11-29-mecab-python3/, /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/]
+  /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/, /post/2019-11-29-mecab-python3/]
 ---
 
 OMZは特に何も考えなくても楽に設定できたので使い続けていたが、GH Copilotなどでshell起動が重いと怒られるようになっていたところ、joker1007さんのこんな投稿を見かけた。
