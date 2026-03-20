@@ -7,8 +7,12 @@ lastmod: 2026-03-19 16:00:00-07:00
 categories: [blog]
 tags: [blog]
 draft: false
-featured: false
-image: null
+featured: true
+image:
+  filename: pasted-image-1773944380663.png
+  focal_point: Smart
+  preview_only: false
+  alt_text: Warning notification of GitHub issue on Sveltia CMS
 recommendations: [/post/2025-08-24-pages-cms/, /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/,
   /post/2014-12-31-2014nian-wozhen-rifan-tute/]
 ---
