@@ -3,14 +3,14 @@ title: 「Agents SDK+αのTipsを一人で書いていくアドカレ Advent Cal
 subtitle: ''
 summary: ''
 date: 2026-03-20 18:03:00-07:00
-lastmod: ''
-categories: [AI Agent]
-tags: [Agent]
+lastmod: 2026-03-20 18:41:00-07:00
+categories:
+  - AI Agent
+tags:
+  - Agent
 draft: false
 featured: false
 image: null
-recommendations: [/post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2022-12-16-bump-wowchemy-v570/,
-  /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/]
 ---
 
 [@mocobeta](https://blog.mocobeta.dev/) さんが書いてくださった、OpenAIの[Agents SDKを試すアドベントカレンダー](https://adventar.org/calendars/12523)の追走をした。子供の春休みで有給取っていることもあり、春休みの宿題よろしくやってみた。
@@ -22,6 +22,8 @@ recommendations: [/post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2022-12-16
 Claude Opus 4.6に自習計画を立ててもらいながら、重要なところ、スキップするところをリストしてもらったが、先にこの記事を読んでおくとパターンが整理されて良かった。
 
 [Building Effective AI Agents \ Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
+
+なお、一番大事なのはネタバレが重要なフィクションを例として使えること。元々の記事では銀魂と終末のワルキューレ、僕の場合は、ヴィンランド・サガでいきました。
 
 また、並行して会社の業務の一環として[tdx](https://tdx.treasuredata.com/)というCLI toolと連携するための社内skillsを作っていたのも理解を深めるのに役に立った。やったこととしては、[AI Signals](https://docs.treasuredata.com/products/customer-data-platform/machine-learning/ai-signals)というプロダクトのソリューション、RFM、NBP（推薦）といった公開済みのソリューションを中心に、 digdag のworkflowテンプレートをJinja2テンプレート化してskillにまとめるというもの。これにより、スクラッチからdigdagのワークフローを作る必要がなく、パラメターをagentが設定すれば、tdx経由でworkflow push/runをして予測結果も可視化して分析できた。
 
