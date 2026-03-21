@@ -4,17 +4,13 @@ subtitle: ''
 summary: ''
 date: 2026-03-20 18:03:00-07:00
 lastmod: 2026-03-20 20:30:00-07:00
-categories:
-  - AI Agent
-tags:
-  - Agent
+categories: [AI Agent]
+tags: [Agent]
 draft: false
 featured: false
 image: null
-recommendations:
-  - /post/2014-12-31-2014nian-wozhen-rifan-tute/
-  - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
-  - /post/2022-12-16-bump-wowchemy-v570/
+recommendations: [/post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2022-12-16-bump-wowchemy-v570/,
+  /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/]
 ---
 
 [@mocobeta](https://blog.mocobeta.dev/) さんが書いてくださった、OpenAIの[Agents SDKを試すアドベントカレンダー](https://adventar.org/calendars/12523)の追走をした。子供の春休みで有給取っていることもあり、春休みの宿題よろしくやってみた。
