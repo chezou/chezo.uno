@@ -4,18 +4,26 @@ subtitle: ''
 summary: ''
 date: 2026-03-20 18:03:00-07:00
 lastmod: 2026-03-20 18:41:00-07:00
-categories: [AI Agent]
-tags: [Agent]
+categories:
+  - AI Agent
+tags:
+  - Agent
 draft: false
 featured: false
 image: null
-recommendations: [/post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/,
-  /post/2019-11-25-github actions-issue template/]
+recommendations:
+  - /post/2014-12-31-2014nian-wozhen-rifan-tute/
+  - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
+  - /post/2019-11-25-github actions-issue template/
 ---
 
 [@mocobeta](https://blog.mocobeta.dev/) さんが書いてくださった、OpenAIの[Agents SDKを試すアドベントカレンダー](https://adventar.org/calendars/12523)の追走をした。子供の春休みで有給取っていることもあり、春休みの宿題よろしくやってみた。
 
 レポジトリはこちら: https://github.com/chezou/hello-agents/
+
+このスレッドで試した様子を書き出している
+
+{{< bluesky link="https://bsky.app/profile/chezo.uno/post/3mg6jwa74tk2h" >}}
 
 （追走を）完走した感想だが、以前にLangChainとChromaをベースに社内のConfluenceを検索するRAGシステムを社内のハッカソンで作ったとき以来のフレームワークで、Agentのパターンを頭に入れたうえでどういう実装をしているのかを学ぶのにとても良かった。
 
