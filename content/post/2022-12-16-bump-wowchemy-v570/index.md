@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [検索, yaml, 変更, wowchemy, hugo, config, 設定, 構造, アドベントカレンダー, バージョン]
-recommendations: [/post/2025-08-24-pages-cms/, /post/2026-03-21-「agents-sdk-αのtipsを一人で書いていくアドカレ-advent-calendar-2025」を追走した/,
-  /post/2026-03-19-pages-cmsからsveltia-cmsに移行した/]
+recommendations: [/post/2025-08-24-pages-cms/, /post/2026-03-19-pages-cmsからsveltia-cmsに移行した/,
+  /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/]
 ---
 
 
