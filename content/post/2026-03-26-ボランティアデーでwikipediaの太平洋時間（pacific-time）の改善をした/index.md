@@ -10,7 +10,7 @@ draft: false
 featured: false
 image: null
 recommendations: [/post/2023-01-27-age++/, /post/2022-12-30-2022-year-in-review/,
-  /post/2022-11-28-cancel-japanese-service/]
+  /post/2026-03-28-montréalに10年以上ぶりに行った/]
 ---
 
 会社のボランティアデーというのがあるので、何がいいかなと思って色々とClaudeと話したところ、Wikipediaの[カナダ時間](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80%E6%99%82%E9%96%93)にBC州のタイムゾーンが「太平洋時間」に変わるという発表を受け編集したのを思い出したので、それ関連の改善をした。

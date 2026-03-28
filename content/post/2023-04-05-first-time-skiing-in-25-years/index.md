@@ -12,8 +12,8 @@ draft: false
 image: {caption: '', focal_point: '', preview_only: false}
 projects: []
 keywords: [スキー, 子供, 後半, 投稿, '30', 長期間, パラレル, スキー場, whistler, mountain]
-recommendations: [/post/2021-12-15-relocated-to-vancouver/, /post/2021-12-18-8-months-after-relocating-vancouver/,
-  /post/2022-12-30-2022-year-in-review/]
+recommendations: [/post/2021-12-15-relocated-to-vancouver/, /post/2026-03-28-montréalに10年以上ぶりに行った/,
+  /post/2021-12-18-8-months-after-relocating-vancouver/]
 ---
 
 
