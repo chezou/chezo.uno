@@ -4,21 +4,14 @@ subtitle: ''
 summary: ''
 date: 2026-03-27 18:40:00-07:00
 lastmod: ''
-categories:
-  - travel
+categories: [travel]
 tags: []
 draft: false
 featured: false
-image:
-  placement: null
-  caption: モントリオール・ノートルダム聖堂の中
-  focal_point: ''
-  preview_only: false
-  filename: IMG_3203.jpeg
-recommendations:
-  - /post/2021-12-15-relocated-to-vancouver/
-  - /post/2022-12-30-2022-year-in-review/
-  - /post/2021-12-18-8-months-after-relocating-vancouver/
+image: {placement: null, caption: モントリオール・ノートルダム聖堂の中, focal_point: '', preview_only: false,
+  filename: IMG_3203.jpeg}
+recommendations: [/post/2021-12-15-relocated-to-vancouver/, /post/2022-12-30-2022-year-in-review/,
+  /post/2021-12-18-8-months-after-relocating-vancouver/]
 ---
 
 3月の上旬にworkationとして友人を訪ねがてらMontréalとOttawaに数日行ってきた。
