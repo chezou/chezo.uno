@@ -14,8 +14,8 @@ image: {caption: An example lineage of Treasure Workflow with sqllineage, focal_
 projects: []
 keywords: [data, sqls, logs, treasure, workflow, log, visualize, learned, level, python]
 recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/,
-  /blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/,
-  /blog/2020-03-05_py-operator-development-guide-for-python-users/]
+  /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/,
+  /blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/]
 ---
 
 

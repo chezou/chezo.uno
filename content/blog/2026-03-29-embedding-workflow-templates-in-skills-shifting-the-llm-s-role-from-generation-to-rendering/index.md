@@ -1,17 +1,17 @@
 ---
-title: 'Embedding workflow templates in skills: shifting the LLM''s role from "generation" to "rendering"'
+title: 'Embedding workflow templates in skills: shifting the LLM''s role from "generation"
+  to "rendering"'
 subtitle: ''
 summary: ''
 date: 2026-03-28 18:23:00-07:00
 lastmod: ''
-categories:
-  - agent
-  - LLM
-tags:
-  - Development
+categories: [agent, LLM]
+tags: [Development]
 draft: false
 featured: false
 image: null
+recommendations: [/blog/2020-03-05_py-operator-development-guide-for-python-users/,
+  /blog/2022-05-05-sqllineage-with-digdag-log/, /blog/2019-06-04_the-first-conference-of-operational-machine-learning--opml--19-308baad36108/]
 ---
 
 ## The dream of LLM-powered ML workflow generation

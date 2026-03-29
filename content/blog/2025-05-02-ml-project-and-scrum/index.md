@@ -14,7 +14,7 @@ projects: []
 keywords: [ml, tasks, development, projects, model, research, business, time, weeks,
   technical]
 recommendations: [/blog/2026-03-08-2026-03-08-between-principan-and-glue-work/, /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
-  /blog/2020-03-05_py-operator-development-guide-for-python-users/]
+  /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/]
 ---
 
 

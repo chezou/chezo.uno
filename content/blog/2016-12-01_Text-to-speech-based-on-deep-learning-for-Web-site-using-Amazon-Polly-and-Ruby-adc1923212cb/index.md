@@ -9,7 +9,7 @@ description: Amazon Polly, Text-to-speech service from AWS was announced at toda
 title: Text-to-speech based on deep learning for Web site using Amazon Polly and Ruby
 keywords: [amazon, aws, english, sounds, languages, following, text, cli, api, articles]
 recommendations: [/blog/2025-08-24-configured-pages-cms/, /blog/2022-01-25_hugo-content-based-recommendation/,
-  /blog/2022-05-21_fastest-way-to-release-python-cli/]
+  /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/]
 ---
 
 
