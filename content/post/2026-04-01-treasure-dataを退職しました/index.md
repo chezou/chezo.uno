@@ -8,7 +8,7 @@ categories:
   - life
 tags:
   - 退職
-draft: true
+draft: false
 featured: false
 image:
   placement: null
