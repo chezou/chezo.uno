@@ -28,7 +28,7 @@ image:
 
 ## 原初のMLチーム（傭兵期）
 
-入社したのはArm買収直後のタイミングでした。最初は3人しかいない当時CTO（元CEO）直下の遊撃部隊としてのMLチームからはじまりました。前職[Cloudera](https://chezo.uno/post/2018-06-19_goodbye-cloudera/)ではSales Engineer（AWSで言うところのSA）だったので、実はSWEに戻るための転職活動は結構大変でした。（TDから声をかけていただいたLeoさんには感謝）
+入社したのはArm買収直後のタイミングでした。最初は3人しかいない当時CTO（元CEO）直下の遊撃部隊としてのMLチームからはじまりました。前職[Cloudera](https://chezo.uno/post/2018-06-19_goodbye-cloudera/)ではSales Engineer（AWSで言うところのSA）だったので、実はSWEに戻るための転職活動は結構大変でした。（TDから声をかけていただいた[Leo](https://xerial.org/leo/)さんには感謝）
 
 ただ、その中でも面接でプロダクト志向がとても強い[takutiさん](https://takuti.me/ja/note/td-to-amazon/)との出会いがTDの入社の決め手だったのを今でも覚えています。そして、その直感は正しく、[pytd](https://github.com/treasure-data/pytd)の開発なんかで一緒に働くのはとても楽しいときでした。彼とは今も友人関係として良くしてもらっています。
 
