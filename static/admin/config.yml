@@ -10,6 +10,7 @@ public_folder: /media
 slug:
   encoding: unicode
   lowercase: true
+  timezone: local
 
 collections:
   - name: post
