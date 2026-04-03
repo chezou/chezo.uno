@@ -1,5 +1,5 @@
 build:
-  hugo_version: '0.158.0'
+  hugo_version: '0.159.2'
 template:
   id: "blog"
   name: "Blog"
