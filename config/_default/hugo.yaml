@@ -8,7 +8,7 @@ cascade:
     reading_time: true
     show_date_updated: true
     pager: true
-    _target:
+    target:
       path: /post/**
       kind: page
   - share: true
@@ -16,7 +16,7 @@ cascade:
     reading_time: true
     show_date_updated: true
     pager: true
-    _target:
+    target:
       path: /blog/**
       kind: page
 
