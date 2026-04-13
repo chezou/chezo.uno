@@ -38,6 +38,7 @@ jobs:
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           compressOnly: ${{ github.event_name != 'pull_request' }}
+          minPctChange: 19
       - name: Create New Pull Request If Needed
         if: |
           github.event_name != 'pull_request' &&
