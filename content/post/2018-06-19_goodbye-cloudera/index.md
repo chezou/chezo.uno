@@ -6,7 +6,7 @@ description: この記事は、最近流行りのWork From Sentoで有名なRAKU
 title: 退職します
 keywords: [セールスエンジニア, 仕事, 自分, 企業, 外資, コントリビュート, 違い, 日本, エンジニア, 英語]
 recommendations: [/post/2022-01-09-vancouver-engineer-podcast/, /post/2016-03-30-zhuan-zhi-simasita/,
-  /post/2024-06-20-nappan-book-review/]
+  /post/2026-04-17-layerxで働き始めました/]
 ---
 
 

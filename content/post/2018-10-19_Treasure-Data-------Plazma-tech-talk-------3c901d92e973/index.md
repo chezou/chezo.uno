@@ -7,7 +7,7 @@ description: 気づけば入社して2ヶ月ほど経ってしまいましたが
 title: Treasure Dataに入りました&Plazma tech talkで話しました
 keywords: [入社, td, ml, 開発中, operator, エッジ, iot, hivemall, arm, 広がり]
 recommendations: [/post/2026-03-31-treasure-dataを退職しました/, /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/,
-  /post/2016-03-30-zhuan-zhi-simasita/]
+  /post/2026-04-17-layerxで働き始めました/]
 ---
 
 

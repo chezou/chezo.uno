@@ -13,7 +13,7 @@ tags: []
 title: 転職しました
 keywords: [プロダクト, 仕事, エンジニア, こと, hadoop, 機械学習, 転職, データ, ポエム, solr]
 recommendations: [/post/2018-06-19_goodbye-cloudera/, /post/2017-01-25-mata-tunian-wototuta/,
-  /post/2022-01-09-vancouver-engineer-podcast/]
+  /post/2026-04-17-layerxで働き始めました/]
 ---
 
 
