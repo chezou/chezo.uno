@@ -9,8 +9,8 @@ tags: [Agent]
 draft: false
 featured: false
 image: null
-recommendations: [/post/2014-12-31-2014nian-wozhen-rifan-tute/, /post/2022-12-16-bump-wowchemy-v570/,
-  /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/]
+recommendations: [/post/2026-04-17-ai時代の転職活動記録/, /post/2014-12-31-2014nian-wozhen-rifan-tute/,
+  /post/2022-12-16-bump-wowchemy-v570/]
 ---
 
 [@mocobeta](https://blog.mocobeta.dev/) さんが書いてくださった、OpenAIの[Agents SDKを試すアドベントカレンダー](https://adventar.org/calendars/12523)の追走をした。子供の春休みで有給取っていることもあり、春休みの宿題よろしくやってみた。
