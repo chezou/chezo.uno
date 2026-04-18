@@ -5,21 +5,12 @@ summary: ''
 date: 2026-04-17 21:25:00-07:00
 lastmod: ''
 categories: []
-tags:
-  - 転職
-  - AI
+tags: [転職, AI]
 draft: false
 featured: false
-image:
-  placement: 1
-  caption: ''
-  focal_point: Center
-  preview_only: false
-  filename: https://picsum.photos/id/668/1920/1280.webp
-recommendations:
-  - /post/2016-03-30-zhuan-zhi-simasita/
-  - /post/2026-03-21-「agents-sdk-αのtipsを一人で書いていくアドカレ-advent-calendar-2025」を追走した/
-  - /post/2022-01-09-vancouver-engineer-podcast/
+image: {placement: 1, caption: '', focal_point: Center, preview_only: false, filename: 'https://picsum.photos/id/668/1920/1280.webp'}
+recommendations: [/post/2016-03-30-zhuan-zhi-simasita/, /post/2026-03-21-「agents-sdk-αのtipsを一人で書いていくアドカレ-advent-calendar-2025」を追走した/,
+  /post/2022-01-09-vancouver-engineer-podcast/]
 ---
 
 今回、転職活動をするにあたって、AIをフル活用して活動をした。前職ではGithub Copilotが個人アカウントだが会社にコントロールされていたので、せっかくだからとClaude Proを契約して望んだ。
