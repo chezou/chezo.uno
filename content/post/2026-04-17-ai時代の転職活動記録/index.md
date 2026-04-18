@@ -5,8 +5,10 @@ summary: ''
 date: 2026-04-17 21:25:00-07:00
 lastmod: ''
 categories: []
-tags: []
-draft: true
+tags:
+  - 転職活動
+  - AI
+draft: false
 featured: false
 image: null
 ---
