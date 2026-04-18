@@ -5,15 +5,12 @@ summary: ''
 date: 2026-04-17 18:33:00-07:00
 lastmod: ''
 categories: []
-tags:
-  - 転職
+tags: [転職]
 draft: false
 featured: false
 image: null
-recommendations:
-  - /post/2022-01-09-vancouver-engineer-podcast/
-  - /post/2018-06-19_goodbye-cloudera/
-  - /post/2016-03-30-zhuan-zhi-simasita/
+recommendations: [/post/2022-01-09-vancouver-engineer-podcast/, /post/2018-06-19_goodbye-cloudera/,
+  /post/2016-03-30-zhuan-zhi-simasita/]
 ---
 
 友人である [riywoさん](https://blog.riywo.com/2026/02/joining-layerx/)に誘われて、4/1にLayerXのAi Workforce事業部に入社しました。居住地は引き続きバンクーバー（の2つ隣の市です。いわゆる「神奈川」の代表点としての「横浜」みたいな説明）です。
