@@ -14,7 +14,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: aki
-      text: "Machine Learning Product Engineer"
+      text: "AI Product Engineer"
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -35,7 +35,7 @@ sections:
     content:
       title: "Hello, I'm Aki👋"
       text: |-
-        As a Vancouver-based Principal Software Engineer at Treasure Data, I specialize in production ML systems, ML product development, and MLOps. I am driven by the mission to use machine learning to make a meaningful difference for both businesses and society.
+        As a Vancouver-based Staff Software Engineer at LayerX, I specialize in Human-in-the-loop systems, ML product development, and MLOps. I am driven by the mission to use machine learning and AI to make a meaningful difference for both businesses and society.
   - block: collection
     id: blogs
     content:
