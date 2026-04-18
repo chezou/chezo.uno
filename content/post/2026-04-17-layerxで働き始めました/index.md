@@ -11,9 +11,9 @@ featured: false
 image: null
 ---
 
-友人である riywoさんに誘われて、LayerXのAi Workforce事業部に入社しました。居住地は引き続きバンクーバー（の2つ隣の市です。いわゆる「神奈川」の代表点としての「横浜」みたいな説明）です。
+友人である [riywoさん](https://blog.riywo.com/2026/02/joining-layerx/)に誘われて、LayerXのAi Workforce事業部に入社しました。居住地は引き続きバンクーバー（の2つ隣の市です。いわゆる「神奈川」の代表点としての「横浜」みたいな説明）です。
 
-[LayerX に join しました](https://blog.riywo.com/2026/02/joining-layerx/)
+前職でCEOが「AI Native企業になる！」と言い続けていたので、Bet AIする会社に入ってみたらどうなるかな、と思って入りました。
 
 riywoさんとは同じチームですが、僕はStaff Software Engineerとして働いています。が、やることはいっぱいあるので、よしなに問題を解決していってくれ、という係をやっています。TDでの経験も生きるとこがいっぱいあるなーと思って、口を突っ込ませてもらっています。
 
