@@ -5,17 +5,26 @@ summary: ''
 date: 2026-04-17 21:25:00-07:00
 lastmod: ''
 categories: []
-tags: [転職, AI]
+tags:
+  - 転職
+  - AI
 draft: false
 featured: false
-image: {placement: null, caption: '', focal_point: '', preview_only: false, filename: 'https://picsum.photos/id/668/1920/1280.webp'}
-recommendations: [/post/2016-03-30-zhuan-zhi-simasita/, /post/2026-03-21-「agents-sdk-αのtipsを一人で書いていくアドカレ-advent-calendar-2025」を追走した/,
-  /post/2022-01-09-vancouver-engineer-podcast/]
+image:
+  placement: null
+  caption: ''
+  focal_point: ''
+  preview_only: false
+  filename: https://picsum.photos/id/668/1920/1280.webp
+recommendations:
+  - /post/2016-03-30-zhuan-zhi-simasita/
+  - /post/2026-03-21-「agents-sdk-αのtipsを一人で書いていくアドカレ-advent-calendar-2025」を追走した/
+  - /post/2022-01-09-vancouver-engineer-podcast/
 ---
 
 今回、転職活動をするにあたって、AIをフル活用して活動をした。前職ではGithub Copilotが個人アカウントだが会社にコントロールされていたので、せっかくだからとClaude Proを契約して望んだ。
 
-2年前くらいの転職活動でhiring managerと話ができないreferalは全部書類で弾かれた反省から、今回はLinkedInで自社の採用担当から連絡が来たものを受けることにした。並行して知り合いにreferalを頼んだ。今回はL、ayerXをreferalしてくれた友人と同じチームに入ることになり、採用ペースが全く合わなかったため他の選考は辞退した。
+2年前くらいの転職活動でhiring managerと話ができないreferalは全部書類で弾かれた反省から、今回はLinkedInで自社の採用担当から連絡が来たものを受けることにした。並行して知り合いにreferalを頼んだ。今回はLayerXをreferalしてくれた友人と同じチームに入ることになり、採用ペースが全く合わなかったため他の選考は辞退した。
 
 ## 転職活動でやったこと
 
