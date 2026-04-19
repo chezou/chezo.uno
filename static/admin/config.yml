@@ -11,6 +11,7 @@ slug:
   encoding: unicode
   lowercase: true
   timezone: local
+  maxlength: 60
 
 collections:
   - name: post
