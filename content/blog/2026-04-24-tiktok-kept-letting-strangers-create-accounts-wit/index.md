@@ -1,16 +1,17 @@
 ---
-title: TikTok kept letting strangers create accounts with my email, so I filed PIPEDA and CASL complaints
+title: TikTok kept letting strangers create accounts with my email, so I filed PIPEDA
+  and CASL complaints
 subtitle: ''
 summary: ''
 date: 2026-04-24 18:53:00-07:00
 lastmod: ''
 categories: []
-tags:
-  - privacy
-  - Canada
+tags: [privacy, Canada]
 draft: false
 featured: false
 image: null
+recommendations: [/blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
+  /blog/2020-03-05_py-operator-development-guide-for-python-users/, /blog/2022-05-21_fastest-way-to-release-python-cli/]
 ---
 
 > [!CAUTION]+ Disclaimer 
