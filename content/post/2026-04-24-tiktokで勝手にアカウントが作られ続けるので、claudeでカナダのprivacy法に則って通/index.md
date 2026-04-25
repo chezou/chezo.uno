@@ -4,14 +4,13 @@ subtitle: ''
 summary: ''
 date: 2026-04-24 17:27:00-07:00
 lastmod: ''
-categories:
-  - カナダ生活
-tags:
-  - privacy
-  - Canada
+categories: [カナダ生活]
+tags: [privacy, Canada]
 draft: false
 featured: false
 image: null
+recommendations: [/post/2008-09-07-chu-yin-mikunokaraokequ/, /post/2009-10-26-memo-windows7yong-dong-zuo-que-ren-xi-rinku/,
+  /post/2025-09-19-review-fatigue/]
 ---
 
 > [!WARNING]
