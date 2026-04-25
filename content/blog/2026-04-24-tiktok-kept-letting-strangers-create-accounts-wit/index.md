@@ -1,17 +1,16 @@
 ---
-title: TikTok kept letting strangers create accounts with my email, so I filed PIPEDA
-  and CASL complaints
+title: TikTok kept letting strangers create accounts with my email, so I filed PIPEDA and CASL complaints
 subtitle: ''
 summary: ''
 date: 2026-04-24 18:53:00-07:00
 lastmod: ''
 categories: []
-tags: [privacy, Canada]
+tags:
+  - privacy
+  - Canada
 draft: false
 featured: false
 image: null
-recommendations: [/blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
-  /blog/2022-05-21_fastest-way-to-release-python-cli/, /blog/2020-03-05_py-operator-development-guide-for-python-users/]
 ---
 
 > [!CAUTION]+ Disclaimer 
@@ -23,8 +22,8 @@ recommendations: [/blog/2019-11-26_how-to-release-python-package-from-github-act
 - TikTok lets people register accounts without verifying that they control the email address. This is a structural failure to obtain consent.
 - TikTok Support eventually deleted the first account after I escalated. A different account appeared shortly after the deadline I had given them.
 - I filed two complaints with Canadian regulators:
-    - A [**CASL**](https://laws-lois.justice.gc.ca/eng/acts/E-1.6/) **violation report** to the [**CRTC Spam Reporting Centre**](https://www.fightspam.gc.ca/) on April 16, 2026
-    - A [**PIPEDA**](https://laws-lois.justice.gc.ca/eng/acts/p-8.6/) **formal complaint** to the [**Office of the Privacy Commissioner of Canada (OPC)**](https://www.priv.gc.ca/) on April 24, 2026
+    - A [**CASL**](https://laws-lois.justice.gc.ca/eng/acts/E-1.6/) **violation report** to the [**CRTC Spam Reporting Centre**](https://www.fightspam.gc.ca/) 
+    - A [**PIPEDA**](https://laws-lois.justice.gc.ca/eng/acts/p-8.6/) **formal complaint** to the [**Office of the Privacy Commissioner of Canada (OPC)**](https://www.priv.gc.ca/) 
 - The OPC had already issued a joint Report of Findings against TikTok in September 2025 ([#2025-003](https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2025/pipeda-2025-003/)), so my complaint joins an existing thread of regulatory attention.
 - Below is what I did. Whether anything from this is useful for your own situation is for you to judge.
 
