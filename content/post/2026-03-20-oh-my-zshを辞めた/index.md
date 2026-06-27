@@ -15,7 +15,7 @@ recommendations: [/post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-de
 
 OMZは特に何も考えなくても楽に設定できたので使い続けていたが、GH Copilotなどでshell起動が重いと怒られるようになっていたところ、joker1007さんのこんな投稿を見かけた。
 
-{{< bluesky link="https://bsky.app/profile/joker1007.bsky.social/post/3mfqjogaqsh2g" >}}
+{{< bluesky link="https://bsky.app/profile/joker1007.net/post/3mfqjogaqsh2g" >}}
 
 ので、脱OMZをした。
 
