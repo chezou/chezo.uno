@@ -1,5 +1,6 @@
 ---
-aliases: [/post/google-meetとyoutube-liveてオンラインミートアッフの配信をした, /post/google-meetとyoutube-liveてオンラインミートアップの配信をした, /post/2020-05-29_google-meetとyoutube-liveてオンラインミートアップの配信をした, /post/2020-05-29_google-meetとyoutube-liveてオンラインミートアッフの配信をした/]
+aliases: [/post/google-meetとyoutube-liveてオンラインミートアッフの配信をした, /post/google-meetとyoutube-liveてオンラインミートアップの配信をした,
+  /post/2020-05-29_google-meetとyoutube-liveてオンラインミートアップの配信をした, /post/2020-05-29_google-meetとyoutube-liveてオンラインミートアッフの配信をした/]
 categories: [Streaming]
 date: '2020-05-29 01:54:07-07:00'
 draft: false
