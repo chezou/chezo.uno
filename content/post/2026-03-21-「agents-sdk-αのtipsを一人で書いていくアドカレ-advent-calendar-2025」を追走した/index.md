@@ -1,4 +1,5 @@
 ---
+aliases: [/post/2026-03-21-agents-sdk-αのtipsを一人て書いていくアトカレ-advent-calendar-2025を追走した/]
 title: 「Agents SDK+αのTipsを一人で書いていくアドカレ Advent Calendar 2025」を追走した
 subtitle: ''
 summary: ''

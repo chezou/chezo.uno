@@ -1,4 +1,5 @@
 ---
+aliases: [/post/2026-03-29-ワークフローテンフレートをskillに埋め込んてllmの役割を-生成-から-レンタリンク-に変えた話/]
 title: ワークフローテンプレートをskillに埋め込んで、LLMの役割を「生成」から「レンダリング」に変えた話
 subtitle: Claude Code skillにJinja2テンプレートを埋め込んでML workflowを生成する
 summary: ''

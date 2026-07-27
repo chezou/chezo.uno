@@ -1,6 +1,5 @@
 ---
-aliases: [/post/jupyter-notebook-labsをmlのどのフェーズで使うのか？, /post/jupyter-notebook-labsをmlのとのフェースて使うのか？,
-  /post/2020-02-10-jupyter-notebook-labsをmlのどのフェーズで使うのか？]
+aliases: [/post/jupyter-notebook-labsをmlのどのフェーズで使うのか？, /post/jupyter-notebook-labsをmlのとのフェースて使うのか？, /post/2020-02-10-jupyter-notebook-labsをmlのどのフェーズで使うのか？, /post/2020-02-10-jupyter-notebook-labsをmlのとのフェースて使うのか/]
 date: '2020-02-09 22:34:01-08:00'
 draft: false
 featured: {caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/5fNmWej4tAA)',

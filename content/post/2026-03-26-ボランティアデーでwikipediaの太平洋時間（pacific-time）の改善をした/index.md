@@ -1,4 +1,5 @@
 ---
+aliases: [/post/2026-03-26-ホランティアテーてwikipediaの太平洋時間pacific-timeの改善をした/]
 title: ボランティアデーでWikipediaの太平洋時間（Pacific Time）の改善をした
 subtitle: Pacific Timeはタイムゾーンか論争
 summary: ''

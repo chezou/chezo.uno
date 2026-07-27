@@ -34,6 +34,7 @@ collections:
       - { name: body, label: 本文, widget: richtext }
       - { name: categories, label: カテゴリ, widget: list, required: false, field: { name: category, widget: string } }
       - { name: tags, label: タグ, widget: list, required: false, field: { name: tag, widget: string } }
+      - { name: aliases, label: 旧URL(リダイレクト), widget: list, required: false, field: { name: alias, widget: string } }
       - { name: draft, label: 下書き, widget: boolean, default: true }
       - { name: featured, label: フィーチャー, widget: boolean, default: false }
       - name: image
