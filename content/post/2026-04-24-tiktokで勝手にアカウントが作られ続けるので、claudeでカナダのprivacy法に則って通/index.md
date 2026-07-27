@@ -1,4 +1,5 @@
 ---
+aliases: [/post/2026-04-24-tiktokて勝手にアカウントか作られ続けるのてclaudeてカナタのprivacy法に則って通/]
 title: TikTokで勝手にアカウントが作られ続けるので、Claudeでカナダのprivacy法に則って通報をした
 subtitle: ''
 summary: ''

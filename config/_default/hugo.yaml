@@ -30,7 +30,7 @@ summaryLength: 30
 defaultContentLanguage: en
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
-removePathAccents: true
+removePathAccents: false
 pagination.pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true

@@ -1,4 +1,5 @@
 ---
+aliases: [/post/2026-04-17-layerxて働き始めました/]
 title: LayerXで働き始めました
 subtitle: ''
 summary: ''

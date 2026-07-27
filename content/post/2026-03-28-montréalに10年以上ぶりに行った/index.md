@@ -1,4 +1,5 @@
 ---
+aliases: [/post/2026-03-28-montrealに10年以上ふりに行った/]
 title: Montréalに10年以上ぶりに行った
 subtitle: ''
 summary: ''
