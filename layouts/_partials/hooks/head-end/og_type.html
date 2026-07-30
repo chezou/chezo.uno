@@ -1,0 +1,6 @@
+{{/* Hugo Blox Kit v0.12 doesn't emit og:type, so add it via the head-end hook. */}}
+{{ $og_type := "website" }}
+{{ if and .IsPage (in site.Params.mainSections .Type) }}
+  {{ $og_type = "article" }}
+{{ end }}
+<meta property="og:type" content="{{ $og_type }}" />
