@@ -1,5 +1,7 @@
 ---
 authors: [aki]
+# English post in the otherwise Japanese /post section — overrides the ja cascade.
+content_lang: en
 date: 2023-01-27 16:02:00-08:00
 lastmod: 2023-01-27 21:40:00-08:00
 summary: As a note of the Canadian PR timeline
