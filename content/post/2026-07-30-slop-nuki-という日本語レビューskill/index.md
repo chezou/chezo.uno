@@ -11,7 +11,7 @@ draft: false
 featured: false
 image: {placement: null, caption: '<a href="https://www.pexels.com/ja-jp/photo/35233446/">Photo
     by Göksun Barış Gökalp on Pexels</a>', focal_point: Smart, preview_only: false,
-  filename: /media/pexels-göksun-barış-gökalp-35233446.jpg}
+  filename: /pexels-göksun-barış-gökalp-35233446.jpg}
 recommendations: [/post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/,
   /post/2015-08-30-number-tqrk09-de-accept-lt-sitehazimeteno-gem-woraiburirisunishi-bai-simasita/,
   /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/]
