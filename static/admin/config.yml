@@ -5,7 +5,9 @@ backend:
   base_url: https://sveltia-cms-auth.chezou.workers.dev
 
 media_folder: assets/media
-public_folder: /media
+# Blox resolves `image.filename` as a resource under `assets/media/`, not as a URL,
+# so the public path must be `/` — see get_featured_image.html / render-image.html.
+public_folder: /
 
 slug:
   encoding: unicode
@@ -38,15 +40,74 @@ collections:
       - { name: draft, label: 下書き, widget: boolean, default: true }
       - { name: featured, label: フィーチャー, widget: boolean, default: false }
       - name: image
-        label: 画像
+        label: 画像（記事上部・SNSカード）
         widget: object
         required: false
+        collapsed: true
         fields:
-          - { name: placement, label: placement, widget: number, required: false }
-          - { name: caption, label: caption, widget: string, required: false }
-          - { name: focal_point, label: focal point, widget: string, required: false }
-          - { name: preview_only, label: preview only, widget: boolean, default: false }
-          - { name: filename, label: image path, widget: image, required: false }
+          - { name: filename, label: 画像ファイル, widget: image, required: false }
+          - name: alt_text
+            label: 代替テキスト
+            widget: string
+            required: false
+            hint: スクリーンリーダー向けの説明。未設定だと alt が空になります
+          - { name: caption, label: キャプション, widget: string, required: false, hint: Markdown が使えます }
+          - name: focal_point
+            label: フォーカルポイント
+            widget: select
+            required: false
+            options: [Smart, Center, Top, TopLeft, TopRight, Left, Right, Bottom, BottomLeft, BottomRight]
+            hint: 一覧カードで切り抜く基準位置。未設定は Center
+          - name: placement
+            label: 配置
+            widget: number
+            value_type: int
+            required: false
+            min: 1
+            max: 3
+            hint: 1=本文幅（既定） / 2=コンテナ幅 / 3=全幅
+          - name: preview_only
+            label: SNSカードのみ
+            widget: boolean
+            default: false
+            hint: 記事上部には表示せず、SNSカードだけに使います
+
+      - name: cover
+        label: カバー画像（Notion風ヘッダー）
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { name: image, label: 画像ファイル, widget: image, required: false }
+          - { name: alt_text, label: 代替テキスト, widget: string, required: false }
+          - name: style
+            label: スタイル
+            widget: select
+            required: false
+            options: [gradient, glass, blur, minimal]
+            hint: 未設定は gradient。minimal はオーバーレイとフェードのみ無効化します
+          - name: height
+            label: 高さ
+            widget: select
+            required: false
+            options: [small, medium, large, full]
+            hint: small=200px / medium=320px（既定） / large=480px / full=60vh
+          - name: position
+            label: 表示位置
+            widget: object
+            required: false
+            collapsed: true
+            fields:
+              - { name: x, label: "X (%)", widget: number, value_type: int, required: false, min: 0, max: 100, hint: 既定は 50 }
+              - { name: y, label: "Y (%)", widget: number, value_type: int, required: false, min: 0, max: 100, hint: 既定は 50 }
+          - name: icon
+            label: アイコン
+            widget: object
+            required: false
+            collapsed: true
+            fields:
+              - { name: emoji, label: 絵文字, widget: string, required: false }
+              - { name: name, label: アイコン名, widget: string, required: false, hint: 絵文字が未設定のときに使われます }
 
   - name: blog
     label: Blog Post
@@ -71,12 +132,71 @@ collections:
       - { name: draft, label: Draft, widget: boolean, default: true }
       - { name: featured, label: Featured, widget: boolean, default: false }
       - name: image
-        label: Image
+        label: Image (article header / social card)
         widget: object
         required: false
+        collapsed: true
         fields:
-          - { name: placement, label: Placement, widget: number, required: false }
-          - { name: caption, label: Caption, widget: string, required: false }
-          - { name: focal_point, label: Focal Point, widget: string, required: false }
-          - { name: preview_only, label: Preview Only, widget: boolean, default: false }
-          - { name: filename, label: Image Path, widget: image, required: false }
+          - { name: filename, label: Image File, widget: image, required: false }
+          - name: alt_text
+            label: Alt Text
+            widget: string
+            required: false
+            hint: Description for screen readers. Left empty, the alt attribute is empty.
+          - { name: caption, label: Caption, widget: string, required: false, hint: Markdown is supported }
+          - name: focal_point
+            label: Focal Point
+            widget: select
+            required: false
+            options: [Smart, Center, Top, TopLeft, TopRight, Left, Right, Bottom, BottomLeft, BottomRight]
+            hint: Crop anchor used on list cards. Defaults to Center.
+          - name: placement
+            label: Placement
+            widget: number
+            value_type: int
+            required: false
+            min: 1
+            max: 3
+            hint: 1=article width (default) / 2=container / 3=full width
+          - name: preview_only
+            label: Social Card Only
+            widget: boolean
+            default: false
+            hint: Hide from the article header, use only on social cards
+
+      - name: cover
+        label: Cover (Notion-style header)
+        widget: object
+        required: false
+        collapsed: true
+        fields:
+          - { name: image, label: Image File, widget: image, required: false }
+          - { name: alt_text, label: Alt Text, widget: string, required: false }
+          - name: style
+            label: Style
+            widget: select
+            required: false
+            options: [gradient, glass, blur, minimal]
+            hint: Defaults to gradient. minimal only disables the overlay and fade.
+          - name: height
+            label: Height
+            widget: select
+            required: false
+            options: [small, medium, large, full]
+            hint: small=200px / medium=320px (default) / large=480px / full=60vh
+          - name: position
+            label: Position
+            widget: object
+            required: false
+            collapsed: true
+            fields:
+              - { name: x, label: "X (%)", widget: number, value_type: int, required: false, min: 0, max: 100, hint: Defaults to 50 }
+              - { name: y, label: "Y (%)", widget: number, value_type: int, required: false, min: 0, max: 100, hint: Defaults to 50 }
+          - name: icon
+            label: Icon
+            widget: object
+            required: false
+            collapsed: true
+            fields:
+              - { name: emoji, label: Emoji, widget: string, required: false }
+              - { name: name, label: Icon Name, widget: string, required: false, hint: Used when no emoji is set }
