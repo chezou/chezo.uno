@@ -19,6 +19,20 @@ cascade:
     target:
       path: /blog/**
       kind: page
+  # Per-page content language, read by layouts/baseof.html for <html lang>.
+  # Named content_lang because Hugo reserves `lang` and rejects it in cascade.
+  # The site is configured as a single Hugo language, so every page would
+  # otherwise be labelled en-us. Chrome picks Han glyph shapes off this
+  # attribute, and Japanese text tagged as English can be rendered with Chinese
+  # forms for characters like 直, 令 and 骨. /post is the Japanese blog and
+  # /blog the English one; the handful of exceptions set `lang` in front matter.
+  # No kind filter here, so section list pages are covered too.
+  - content_lang: ja
+    target:
+      path: "{/post,/post/**}"
+  - content_lang: en
+    target:
+      path: "{/blog,/blog/**}"
 
 
 ignoreLogs:
