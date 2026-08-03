@@ -1,0 +1,51 @@
+# HugoBlox Font Pack
+# https://docs.hugoblox.com
+#
+# The stock "academic" pack tuned for pages that mix Japanese and English.
+# Same faces — only the metrics change, so no extra fonts are downloaded.
+#
+# The Japanese stacks themselves live in assets/css/custom.css: a pack's
+# `families` entry holds a single family name and the theme appends its own
+# Latin-only generic after it, so there is no way to name a CJK face here.
+# Keep the weights below in sync with the faces requested in
+# layouts/_partials/hooks/head-end/japanese-webfont.html.
+
+hugoblox:
+  meta:
+    format: "hugoblox-font@1"
+    name: "Academic JA"
+    vendor: "chezou"
+    version: "1.0.0"
+    license: "MIT"
+    style: "serif"
+    description: "Academic serif pairing with line metrics tuned for Japanese text"
+
+  families:
+    heading: "Lora"
+    body: "Source Serif 4"
+    code: "Source Code Pro"
+
+  weights:
+    # Noto Serif JP at 500 still reads as body text next to Lora; 600 gives
+    # headings the weight contrast they need in both scripts.
+    heading: [600, 700]
+    body: [400, 600]
+    code: [400]
+
+  leading:
+    # Kanji fill the full em box, so Japanese needs more leading than Latin
+    # before lines stop touching.
+    heading: 1.4
+    body: 1.8
+    code: 1.5
+
+  tracking:
+    heading: "0"
+    # Japanese has no inter-word spaces and reads better with a little air
+    # between characters. Latin is barely affected at this value.
+    body: "0.02em"
+
+  variable:
+    heading: true
+    body: true
+    code: false
