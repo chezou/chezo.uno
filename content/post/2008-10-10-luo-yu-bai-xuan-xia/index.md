@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2008-10-10 14:48:57-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2008-10-10 14:48:57-07:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: 落語百選　夏
-keywords: [人々, 本書, 面白い, 閑話休題, 誇張, 筑摩書房, 時代物, 漢字, 日常, ない]
-recommendations: [/post/2008-11-06-yin-lu-toyin-jie-noke-xue/, /post/2008-11-06-koredeiinoda/,
-  /post/2008-08-26-akihabara-at-deep/]
+keywords:
+  - 人々
+  - 本書
+  - 面白い
+  - 閑話休題
+  - 誇張
+  - 筑摩書房
+  - 時代物
+  - 漢字
+  - 日常
+  - ない
+recommendations:
+  - /post/2008-11-06-koredeiinoda/
+  - /post/2008-08-26-akihabara-at-deep/
+  - /post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/
 ---
 
 

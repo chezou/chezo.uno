@@ -4,10 +4,24 @@ date: 2025-08-24 15:11:00-07:00
 lastmod: 2025-08-24 15:43:00-07:00
 draft: false
 featured: false
-image: {preview_only: false, filename: /pages-cms.png}
-keywords: [hugo, images, way, wowchemy, search, ipad, index, cloudflare, things, settings]
-recommendations: [/blog/2024-02-02-migrated-from-netlify-to-cloudflare-pages/, /blog/2026-03-19-migrated-from-pages-cms-to-sveltia-cms/,
-  /blog/2022-01-25_hugo-content-based-recommendation/]
+image:
+  preview_only: false
+  filename: /pages-cms.png
+keywords:
+  - hugo
+  - images
+  - way
+  - wowchemy
+  - search
+  - ipad
+  - index
+  - cloudflare
+  - things
+  - settings
+recommendations:
+  - /blog/2026-03-19-migrated-from-pages-cms-to-sveltia-cms/
+  - /blog/2024-02-02-migrated-from-netlify-to-cloudflare-pages/
+  - /blog/2022-01-25_hugo-content-based-recommendation/
 ---
 
 I had been looking for a way to write Hugo articles on mobile devices like my iPad, and that's when I came across this article by mehori and decided to try Pages CMS.

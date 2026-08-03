@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2010-03-29 14:58:21-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2010-03-29 14:58:21-07:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: '"Laula kultani: European Folk Songs for mixed voices" がうちにきた'
-keywords: [chorus, song, choir, es, musica, 演奏, 紹介, パーマ, vocal, songs]
-recommendations: [/post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/,
-  /post/2008-07-07-the-real-group-real-christmas-commonly-unique/, /post/2011-12-25-yi-teng-hui-si-ming-dao-qi-tai-liang-shi-noxuan-nda-xue-sheng-he-chang-notameno-sutiyudentosongubutuku-gare-i/]
+keywords:
+  - chorus
+  - song
+  - choir
+  - es
+  - musica
+  - 演奏
+  - 紹介
+  - パーマ
+  - vocal
+  - songs
+recommendations:
+  - /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/
+  - /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
+  - /post/2008-10-11-le-pu-gayu-sii/
 ---
 
 

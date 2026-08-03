@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2015-09-22 19:16:08-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2015-09-22 19:16:08-07:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: MeCab.jlをJulia v0.4.0-rc2に対応した
-keywords: [julia, jl, pr, github, ソース, issue, qiita, mecab, おかげ, symbolic]
-recommendations: [/post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/,
-  /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/, /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/]
+keywords:
+  - julia
+  - jl
+  - pr
+  - github
+  - ソース
+  - issue
+  - qiita
+  - mecab
+  - おかげ
+  - symbolic
+recommendations:
+  - /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/
+  - /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
+  - /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
 ---
 
 

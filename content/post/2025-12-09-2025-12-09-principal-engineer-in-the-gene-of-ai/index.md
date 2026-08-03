@@ -4,13 +4,33 @@ subtitle: AIの遺電子の時代が早く来てほしい
 summary: ''
 date: 2025-12-09 22:30:00-08:00
 lastmod: ''
-tags: [Staff Engineering, leadership, engineering, career]
+tags:
+  - Staff Engineering
+  - leadership
+  - engineering
+  - career
 draft: false
 featured: false
-image: {placement: null, caption: '', focal_point: '', preview_only: false}
-keywords: [ai, コード, principal, 生成, こと, 人間, coding, 相手, レビュー, 企業]
-recommendations: [/post/2025-11-25-staff-engineering-path/, /post/2026-03-07-2026-03-08-between-principal-and-glue-work/,
-  /post/2026-04-17-layerxで働き始めました/]
+image:
+  placement: null
+  caption: ''
+  focal_point: ''
+  preview_only: false
+keywords:
+  - ai
+  - コード
+  - principal
+  - 生成
+  - こと
+  - 人間
+  - coding
+  - 相手
+  - レビュー
+  - 企業
+recommendations:
+  - /post/2025-11-25-staff-engineering-path/
+  - /post/2026-03-07-2026-03-08-between-principal-and-glue-work/
+  - /post/2025-09-19-review-fatigue/
 ---
 
 AmazonのPrincipal Applied ScientistのEugene Yanさんの記事に触発されたので書いてみる。

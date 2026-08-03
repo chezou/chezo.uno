@@ -1,20 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2011-12-25 04:12:03-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2011-12-25 04:12:03-08:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: 伊藤恵司・名島啓太両氏の選んだ『学生合唱のための「スチューデント・ソングブック」』が熱い！
-keywords: [合唱曲, 曲集, 学生, ブック, 松下, 合同, 収録曲, victoria, ich, dir]
-recommendations: [/post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/,
-  /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/,
-  /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/]
+keywords:
+  - 合唱曲
+  - 曲集
+  - 学生
+  - ブック
+  - 松下
+  - 合同
+  - 収録曲
+  - victoria
+  - ich
+  - dir
+recommendations:
+  - /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/
+  - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
+  - /post/2008-10-11-le-pu-gayu-sii/
 ---
 
 

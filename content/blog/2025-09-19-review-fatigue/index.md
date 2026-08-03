@@ -3,15 +3,33 @@ title: Tackling Review Fatigue by Document Driven Agentic Coding
 subtitle: Does agentic coding increase review productivity?
 date: 2025-09-19 21:26:00-07:00
 lastmod: 2025-09-19 21:26:00-07:00
-categories: [AI, LLM]
+categories:
+  - AI
+  - LLM
 draft: false
 featured: false
-image: {preview_only: false}
+image:
+  preview_only: false
 summury: Does agentic coding increase review productivity?
-tags: [development, AI, LLM]
-keywords: [code, commit, review, generated, md, ve, large, pr, feedback, docs]
-recommendations: [/blog/2025-05-02-ml-project-and-scrum/, /blog/2022-01-25_hugo-content-based-recommendation/,
-  /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/]
+tags:
+  - development
+  - AI
+  - LLM
+keywords:
+  - code
+  - commit
+  - review
+  - generated
+  - md
+  - ve
+  - large
+  - pr
+  - feedback
+  - docs
+recommendations:
+  - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
+  - /blog/2025-05-02-ml-project-and-scrum/
+  - /blog/2017-08-03_why-oss-based-machine-learning-is-good--3ab45a1a5e52/
 ---
 
 This year, the amount of time I spend on reviews has exploded. This applies to both code and documentation. And the fatigue from this has also increased dramatically.

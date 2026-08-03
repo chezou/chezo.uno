@@ -2,18 +2,36 @@
 title: 機械学習プロジェクトとスクラム
 subtitle: スクラムは機械学習プロジェクトに向いているのか？
 summary: ''
-authors: [aki]
-tags: [machine-learning, project-management]
+authors:
+  - aki
+tags:
+  - machine-learning
+  - project-management
 categories: []
 date: 2025-05-02 13:43:50-07:00
 lastmod: 2025-05-02 13:43:50-07:00
 featured: false
 draft: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 projects: []
-keywords: [タスク, スクラム, 価値, プロジェクト, hypothesis, ml, フェーズ, boxing, product, ビジネス]
-recommendations: [/post/2019-12-05-ibis2019-mlse/, /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/,
-  /post/2018-05-17_mlse-kickoff/]
+keywords:
+  - タスク
+  - スクラム
+  - 価値
+  - プロジェクト
+  - hypothesis
+  - ml
+  - フェーズ
+  - boxing
+  - product
+  - ビジネス
+recommendations:
+  - /post/2019-12-05-ibis2019-mlse/
+  - /post/2018-05-17_mlse-kickoff/
+  - /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/
 ---
 
 

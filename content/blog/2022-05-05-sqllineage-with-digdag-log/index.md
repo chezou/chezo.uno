@@ -2,20 +2,39 @@
 title: Create data lineage from Trino/Hive queries in digdag log with Python
 subtitle: sqllineage visualize your query log into lineage
 summary: ''
-authors: [aki]
-tags: [python, digdag]
-categories: [digdag, lineage, sql]
+authors:
+  - aki
+tags:
+  - python
+  - digdag
+categories:
+  - digdag
+  - lineage
+  - sql
 date: 2022-05-05 20:31:05-07:00
 lastmod: 2022-05-05 20:31:05-07:00
 featured: false
 draft: false
-image: {caption: An example lineage of Treasure Workflow with sqllineage, focal_point: '',
-  preview_only: false}
+image:
+  caption: An example lineage of Treasure Workflow with sqllineage
+  focal_point: ''
+  preview_only: false
 projects: []
-keywords: [data, sqls, logs, treasure, workflow, log, visualize, learned, level, python]
-recommendations: [/blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/,
-  /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/,
-  /blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/]
+keywords:
+  - data
+  - sqls
+  - logs
+  - treasure
+  - workflow
+  - log
+  - visualize
+  - learned
+  - level
+  - python
+recommendations:
+  - /blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/
+  - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
+  - /blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/
 ---
 
 

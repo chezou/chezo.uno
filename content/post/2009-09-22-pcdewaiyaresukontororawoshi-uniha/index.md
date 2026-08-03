@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2009-09-22 14:55:38-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2009-09-22 14:55:38-07:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: PCでワイヤレスコントローラを使うには
-keywords: [コントローラ, ワイヤレス, ps, '360', logicool, pc, アダプタ, 普通, 程度, 入手]
-recommendations: [/post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/,
-  /post/2005-08-06-webkamera/, /post/2008-09-14-hetudohonwu-se-sitahi/]
+keywords:
+  - コントローラ
+  - ワイヤレス
+  - ps
+  - '360'
+  - logicool
+  - pc
+  - アダプタ
+  - 普通
+  - 程度
+  - 入手
+recommendations:
+  - /post/2009-11-14-wu-xian-kontorora/
+  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
+  - /post/2007-10-27-waidoye-jing-toye-jing-terebi/
 ---
 
 

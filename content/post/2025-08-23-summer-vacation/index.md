@@ -2,13 +2,27 @@
 title: 久しぶりの夏休み
 date: 2025-08-22 00:49:00-07:00
 lastmod: 2025-08-22 00:49:00-07:00
-categories: [daily]
+categories:
+  - daily
 draft: false
 featured: false
-image: {preview_only: false}
-keywords: [休み, 仕事, 子供, 甘く, 珍しく, ブリュワリー, ドーナツ, セール, rta, motion]
-recommendations: [/post/2021-12-15-relocated-to-vancouver/, /post/2022-12-30-2022-year-in-review/,
-  /post/2025-12-22-2025-12-22-neuro-diversity-book/]
+image:
+  preview_only: false
+keywords:
+  - 休み
+  - 仕事
+  - 子供
+  - 甘く
+  - 珍しく
+  - ブリュワリー
+  - ドーナツ
+  - セール
+  - rta
+  - motion
+recommendations:
+  - /post/2021-12-15-relocated-to-vancouver/
+  - /post/2021-12-18-8-months-after-relocating-vancouver/
+  - /post/2021-12-31-2021-year-review/
 ---
 
 仕事が珍しく急ぎの仕事がない状態になったので、ふらっと週末にくっつける形で休みを取った。というのも、RTA in Japanをやってるのに全然見れなくて仕事なんてしてる場合じゃない、となったのである。

@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2013-08-25 15:05:14-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2013-08-25 15:05:14-07:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: LLまつりに参加しました
-keywords: [ll, 勉強会, アンチパターン, セッション, トラック, プレゼンテーション, deploy, 参加, 開催, メリット]
-recommendations: [/post/2022-06-18-kawasaki rb 9 years reflection/, /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/,
-  /post/2014-12-31-2014nian-wozhen-rifan-tute/]
+keywords:
+  - ll
+  - 勉強会
+  - アンチパターン
+  - セッション
+  - トラック
+  - プレゼンテーション
+  - deploy
+  - 参加
+  - 開催
+  - メリット
+recommendations:
+  - /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
+  - /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/
+  - /post/2019-06-04_ngekkan-party/
 ---
 
 

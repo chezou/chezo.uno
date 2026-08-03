@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2009-05-16 14:53:46-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2009-05-16 14:53:46-07:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: Apple storeがWe'll back soonに……
-keywords: [マウント, volume, photo, nas, mac, 自動, 入手, それぞれ, 方法, 状態]
-recommendations: [/post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/, /post/2011-04-30-ipad2totomoniwu-liao-wi-fisupotutowogetutosuruer-tunofang-fa/,
-  /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/]
+keywords:
+  - マウント
+  - volume
+  - photo
+  - nas
+  - mac
+  - 自動
+  - 入手
+  - それぞれ
+  - 方法
+  - 状態
+recommendations:
+  - /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/
+  - /post/2017-01-19-macnojispei-lie-nokibodowokarabinershi-wazuniuspei-lie-nisuru/
+  - /post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/
 ---
 
 

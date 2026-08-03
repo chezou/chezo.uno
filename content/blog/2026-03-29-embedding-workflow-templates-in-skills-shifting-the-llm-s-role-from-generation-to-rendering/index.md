@@ -20,8 +20,8 @@ image:
   placement: 3
   preview_only: false
 recommendations:
-  - /blog/2020-03-05_py-operator-development-guide-for-python-users/
-  - /blog/2022-05-05-sqllineage-with-digdag-log/
+  - /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/
+  - /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/
   - /blog/2019-06-04_the-first-conference-of-operational-machine-learning--opml--19-308baad36108/
 ---
 

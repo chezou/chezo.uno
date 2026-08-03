@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2012-10-02 15:03:48-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2012-10-02 15:03:48-07:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: '想像もしなかった場外戦〜iPhone 5とAndroidの対決がこんなところまで！！ #TEAMiPhone と #TeamDROID の戦い'
-keywords: [peter, hollens, iphone, version, 歌詞, firework, apple store, アカペラ, 対決, 格好]
-recommendations: [/post/2009-05-12-konnitiha-iphone/, /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/,
-  /post/2008-07-07-the-real-group-real-christmas-commonly-unique/]
+keywords:
+  - peter
+  - hollens
+  - iphone
+  - version
+  - 歌詞
+  - firework
+  - apple store
+  - アカペラ
+  - 対決
+  - 格好
+recommendations:
+  - /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/
+  - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
+  - /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
 ---
 
 

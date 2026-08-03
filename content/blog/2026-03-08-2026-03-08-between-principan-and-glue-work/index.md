@@ -18,7 +18,7 @@ image:
 recommendations:
   - /blog/2025-05-02-ml-project-and-scrum/
   - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
-  - /blog/2020-03-05_py-operator-development-guide-for-python-users/
+  - /blog/2025-09-19-review-fatigue/
 ---
 
 ## Introduction

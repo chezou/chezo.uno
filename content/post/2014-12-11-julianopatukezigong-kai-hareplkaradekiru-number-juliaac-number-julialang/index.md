@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2014-12-10 16:00:00-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2014-12-10 16:00:00-08:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: 'Juliaのパッケージ公開はREPLからできる #JuliaAC #julialang'
-keywords: [metadata, jl, julia, パッケージ, pkg, github, publish, cran, request, pull]
-recommendations: [/post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/,
-  /post/2014-06-21-julia100ben-notuku/, /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/]
+keywords:
+  - metadata
+  - jl
+  - julia
+  - パッケージ
+  - pkg
+  - github
+  - publish
+  - cran
+  - request
+  - pull
+recommendations:
+  - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
+  - /post/2014-06-21-julia100ben-notuku/
+  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
 ---
 
 

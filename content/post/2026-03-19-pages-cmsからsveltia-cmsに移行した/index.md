@@ -4,14 +4,21 @@ subtitle: ''
 summary: ''
 date: 2026-03-19 11:06:00-07:00
 lastmod: 2026-03-19 16:00:00-07:00
-categories: [blog]
-tags: [blog]
+categories:
+  - blog
+tags:
+  - blog
 draft: false
 featured: true
-image: {filename: pasted-image-1773944380663.png, focal_point: Smart, preview_only: false,
-  alt_text: Warning notification of GitHub issue on Sveltia CMS}
-recommendations: [/post/2025-08-24-pages-cms/, /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/,
-  /post/2014-12-31-2014nian-wozhen-rifan-tute/]
+image:
+  filename: pasted-image-1773944380663.png
+  focal_point: Smart
+  preview_only: false
+  alt_text: Warning notification of GitHub issue on Sveltia CMS
+recommendations:
+  - /post/2025-08-24-pages-cms/
+  - /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/
+  - /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/
 ---
 
 去年の夏に[Pages CMSを導入した](https://chezo.uno/post/2025-08-24-pages-cms/)のだけど、色々と気になる点が出てきたのでSveltia CMSに移行した。

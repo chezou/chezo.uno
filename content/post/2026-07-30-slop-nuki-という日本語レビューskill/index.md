@@ -4,20 +4,32 @@ subtitle: ''
 summary: ''
 date: 2026-07-30 23:23:00-07:00
 lastmod: ''
-categories: [tech]
-tags: [AI, skill]
+categories:
+  - tech
+tags:
+  - AI
+  - skill
 aliases: []
 draft: false
 featured: false
-image: {filename: pexels-göksun-barış-gökalp-35233446.jpg, alt_text: '', caption: '<a
-    href="https://www.pexels.com/ja-jp/photo/35233446/">Photo by Göksun Barış Gökalp
-    on Pexels</a>', focal_point: Smart, placement: null, preview_only: true}
-cover: {image: pexels-göksun-barış-gökalp-35233446.jpg, alt_text: '<a href="https://www.pexels.com/ja-jp/photo/35233446/">Photo
-    by Göksun Barış Gökalp on Pexels</a>', style: '', height: '', position: null,
-  icon: null}
-recommendations: [/post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/,
-  /post/2015-08-30-number-tqrk09-de-accept-lt-sitehazimeteno-gem-woraiburirisunishi-bai-simasita/,
-  /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/]
+image:
+  filename: pexels-göksun-barış-gökalp-35233446.jpg
+  alt_text: ''
+  caption: <a href="https://www.pexels.com/ja-jp/photo/35233446/">Photo by Göksun Barış Gökalp on Pexels</a>
+  focal_point: Smart
+  placement: null
+  preview_only: true
+cover:
+  image: pexels-göksun-barış-gökalp-35233446.jpg
+  alt_text: <a href="https://www.pexels.com/ja-jp/photo/35233446/">Photo by Göksun Barış Gökalp on Pexels</a>
+  style: ''
+  height: ''
+  position: null
+  icon: null
+recommendations:
+  - /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/
+  - /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/
+  - /post/2019-11-17-spacy-ginza/
 ---
 
 英語でメールを書くときに、重ためな内容[^1] を投げるのはAIに生成してもらっている事が多く、そのときに流石にAI臭いとアレかな、と思い [stop-slop](https://github.com/hardikpandya/stop-slop) というskillを使っている。

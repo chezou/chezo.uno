@@ -1,15 +1,32 @@
 ---
-aliases: [/post/jupyter-notebook-labsをmlのどのフェーズで使うのか？, /post/jupyter-notebook-labsをmlのとのフェースて使うのか？,
-  /post/2020-02-10-jupyter-notebook-labsをmlのとのフェースて使うのか/]
+aliases:
+  - /post/jupyter-notebook-labsをmlのどのフェーズで使うのか？
+  - /post/jupyter-notebook-labsをmlのとのフェースて使うのか？
+  - /post/2020-02-10-jupyter-notebook-labsをmlのとのフェースて使うのか/
 date: '2020-02-09 22:34:01-08:00'
 draft: false
-featured: {caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/5fNmWej4tAA)',
-  filename: featured.jpg, focal_point: Center, placement: 1}
+featured:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/5fNmWej4tAA)'
+  filename: featured.jpg
+  focal_point: Center
+  placement: 1
 summary: ''
 title: Jupyter Notebook/LabsをMLのどのフェーズで使うのか？
-keywords: [プロダクション, eda, ml, 用途, 結果, jupyter, 全部, 一概, アンケート, 愛用]
-recommendations: [/post/2017-09-09_pyconjp-2017------5fa5f59b9bde/, /post/2018-05-17_mlse-kickoff/,
-  /post/2014-06-21-julia100ben-notuku/]
+keywords:
+  - プロダクション
+  - eda
+  - ml
+  - 用途
+  - 結果
+  - jupyter
+  - 全部
+  - 一概
+  - アンケート
+  - 愛用
+recommendations:
+  - /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/
+  - /post/2014-06-21-julia100ben-notuku/
+  - /post/2017-08-26_python------------------dc8d8f2fe989/
 ---
 
 機械学習ではよく使われるJupyter Notebookですが、これを使ってプロダクションで動くコードを書くのは非常に難しいなと思い、皆どのように使っているのかを知りたくてアンケートをとってみました。

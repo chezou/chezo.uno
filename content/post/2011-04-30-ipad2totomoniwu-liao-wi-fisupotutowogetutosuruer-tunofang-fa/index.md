@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2011-04-29 23:04:06-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2011-04-29 23:04:06-07:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: iPad2とともに無料Wi-Fiスポットをゲットする二つの方法
-keywords: [wi-fi, スポット, ソフトバンク, ipad, ビックカメラ, 一部, 対象外, 店員, モデル, togetter]
-recommendations: [/post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/, /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/,
-  /post/2008-06-09-tuiniiphonedeng-chang/]
+keywords:
+  - wi-fi
+  - スポット
+  - ソフトバンク
+  - ipad
+  - ビックカメラ
+  - 一部
+  - 対象外
+  - 店員
+  - モデル
+  - togetter
+recommendations:
+  - /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/
+  - /post/2008-06-09-tuiniiphonedeng-chang/
+  - /post/2011-05-01-iphone-for-everybodyno2nian-fu-riwojie-chu-sitarapaketutoding-e-huratutonisikanaranakatuta/
 ---
 
 

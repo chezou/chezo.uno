@@ -9,12 +9,26 @@ date: 2024-02-02 16:42:14-08:00
 lastmod: 2024-02-02 16:42:14-08:00
 featured: false
 draft: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 projects: []
-keywords: [cloudflare, netlify, pages, blog, insights, hugo, settings, font, access,
-  set]
-recommendations: [/blog/2025-08-24-configured-pages-cms/, /blog/2026-03-19-migrated-from-pages-cms-to-sveltia-cms/,
-  /blog/2022-01-25_hugo-content-based-recommendation/]
+keywords:
+  - cloudflare
+  - netlify
+  - pages
+  - blog
+  - insights
+  - hugo
+  - settings
+  - font
+  - access
+  - set
+recommendations:
+  - /blog/2026-03-19-migrated-from-pages-cms-to-sveltia-cms/
+  - /blog/2025-08-24-configured-pages-cms/
+  - /blog/2022-01-25_hugo-content-based-recommendation/
 ---
 
 Netlify is a great service, but it is also known as slowness in Japan. I have been using Netlify for my blog hosting for a long time, but I decided to migrate to Cloudflare Pages to improve the speed of access to my blog from Japan.

@@ -1,15 +1,37 @@
 ---
-aliases: [/post/google-meetとyoutube-liveてオンラインミートアッフの配信をした, /post/google-meetとyoutube-liveてオンラインミートアップの配信をした,
-  /post/2020-05-29_google-meetとyoutube-liveてオンラインミートアッフの配信をした/]
-categories: [Streaming]
+aliases:
+  - /post/google-meetとyoutube-liveてオンラインミートアッフの配信をした
+  - /post/google-meetとyoutube-liveてオンラインミートアップの配信をした
+  - /post/2020-05-29_google-meetとyoutube-liveてオンラインミートアッフの配信をした/
+categories:
+  - Streaming
 date: '2020-05-29 01:54:07-07:00'
 draft: false
-image: {caption: Streamingの様子, filename: image-from-ios.jpg, focal_point: Smart, preview_only: false}
-tags: [YouTube Live, Streaming, Gadget]
+image:
+  caption: Streamingの様子
+  filename: image-from-ios.jpg
+  focal_point: Smart
+  preview_only: false
+tags:
+  - YouTube Live
+  - Streaming
+  - Gadget
 title: Google MeetとYouTube Liveでオンラインミートアップの配信をした
-keywords: [meet, 配信, zoom, マイク, 音量, 発表者, 画像, 画面, youtube live, 接続]
-recommendations: [/post/2020-11-10-mlse-conference/, /post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa/,
-  /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/]
+keywords:
+  - meet
+  - 配信
+  - zoom
+  - マイク
+  - 音量
+  - 発表者
+  - 画像
+  - 画面
+  - youtube live
+  - 接続
+recommendations:
+  - /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/
+  - /post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa/
+  - /post/2020-11-10-mlse-conference/
 ---
 
 先日、[Machine Learning Casual Talks #12](https://mlct.connpass.com/event/172550/)というイベントの配信担当をした。

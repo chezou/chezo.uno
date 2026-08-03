@@ -2,19 +2,36 @@
 title: Machine Learning Project and Scrum
 subtitle: Is Scrum Suitable for Machine Learning Projects?
 summary: ''
-authors: [aki]
-tags: [machine-learning, project-management]
+authors:
+  - aki
+tags:
+  - machine-learning
+  - project-management
 categories: []
 date: 2025-05-02 15:49:17-07:00
 lastmod: 2025-05-02 15:49:17-07:00
 featured: false
 draft: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 projects: []
-keywords: [ml, tasks, development, projects, model, research, business, time, weeks,
-  technical]
-recommendations: [/blog/2026-03-08-2026-03-08-between-principan-and-glue-work/, /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
-  /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/]
+keywords:
+  - ml
+  - tasks
+  - development
+  - projects
+  - model
+  - research
+  - business
+  - time
+  - weeks
+  - technical
+recommendations:
+  - /blog/2025-09-19-review-fatigue/
+  - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
+  - /blog/2026-03-08-2026-03-08-between-principan-and-glue-work/
 ---
 
 

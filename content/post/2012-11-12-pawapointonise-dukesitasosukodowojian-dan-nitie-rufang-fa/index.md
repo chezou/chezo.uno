@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2012-11-12 01:11:33-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2012-11-12 01:11:33-08:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: パワーポイントに色づけしたソースコードを簡単に貼る方法
-keywords: [source, gist, 形式, パワー, syntax, 方法, 保持, html, ポイント, コード]
-recommendations: [/post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/,
-  /post/2026-03-20-oh-my-zshを辞めた/, /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/]
+keywords:
+  - source
+  - gist
+  - 形式
+  - パワー
+  - syntax
+  - 方法
+  - 保持
+  - html
+  - ポイント
+  - コード
+recommendations:
+  - /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/
+  - /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/
+  - /post/2009-06-11-iphoneniwang-mukoto/
 ---
 
 

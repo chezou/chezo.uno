@@ -1,21 +1,35 @@
 ---
 authors: []
-categories: [python]
+categories:
+  - python
 date: '2024-01-26 17:40:00-08:00'
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: '2024-01-26 17:40:00-08:00'
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: Scrape Notion and convert into PDF
-keywords: [provide, pdfs, pages, originally, actions, japanese, github, script, repository,
-  docker]
-recommendations: [/blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/,
-  /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/,
-  /blog/2017-08-30_python-basics--package-management-462918458f96/]
+keywords:
+  - provide
+  - pdfs
+  - pages
+  - originally
+  - actions
+  - japanese
+  - github
+  - script
+  - repository
+  - docker
+recommendations:
+  - /blog/2025-08-24-configured-pages-cms/
+  - /blog/2022-05-21_fastest-way-to-release-python-cli/
+  - /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/
 ---
 
 I love [VanGohan](https://www.vangohan.com/), who is a Japanese meal kits provider in Vancouver. Their meal kits are really tasty and authentic Japanese foods. I can't live without them. When I visited Japan last year, I wasn't too eager to find nice Japanese restaurants because of them.

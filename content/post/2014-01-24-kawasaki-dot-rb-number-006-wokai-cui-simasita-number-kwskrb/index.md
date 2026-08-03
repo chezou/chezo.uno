@@ -1,19 +1,36 @@
 ---
-authors: [aki]
-categories: [ruby]
+authors:
+  - aki
+categories:
+  - ruby
 date: 2014-01-24 14:05:48-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2014-01-24 14:05:48-08:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: 'kawasaki.rb #006 を開催しました #kwskrb'
-keywords: [プロジェクター, ライブラリ, 機械学習, ruby, テスト自動化, 現地, 数値計算, 予約, 科学, scipy]
-recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/,
-  /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/, /post/2014-04-26-kawasaki-dot-rb-number-011-wokai-cui-simasita-number-kwskrb/]
+keywords:
+  - プロジェクター
+  - ライブラリ
+  - 機械学習
+  - ruby
+  - テスト自動化
+  - 現地
+  - 数値計算
+  - 予約
+  - 科学
+  - scipy
+recommendations:
+  - /post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/
+  - /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/
+  - /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/
 ---
 
 

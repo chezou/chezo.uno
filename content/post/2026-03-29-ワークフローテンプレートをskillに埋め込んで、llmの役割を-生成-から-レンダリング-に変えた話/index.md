@@ -1,17 +1,23 @@
 ---
-aliases: [/post/2026-03-29-ワークフローテンフレートをskillに埋め込んてllmの役割を-生成-から-レンタリンク-に変えた話/]
+aliases:
+  - /post/2026-03-29-ワークフローテンフレートをskillに埋め込んてllmの役割を-生成-から-レンタリンク-に変えた話/
 title: ワークフローテンプレートをskillに埋め込んで、LLMの役割を「生成」から「レンダリング」に変えた話
 subtitle: Claude Code skillにJinja2テンプレートを埋め込んでML workflowを生成する
 summary: ''
 date: 2026-03-28 18:03:00-07:00
 lastmod: ''
-categories: [agent, LLM]
-tags: [Development]
+categories:
+  - agent
+  - LLM
+tags:
+  - Development
 draft: false
 featured: false
 image: null
-recommendations: [/post/2025-09-19-review-fatigue/, /post/2013-08-25-llmaturinican-jia-simasita/,
-  /post/2019-11-16-tdworkflow/]
+recommendations:
+  - /post/2025-09-19-review-fatigue/
+  - /post/2019-11-16-tdworkflow/
+  - /post/2013-08-25-llmaturinican-jia-simasita/
 ---
 
 ## MLワークフローのLLMによる自動生成の夢

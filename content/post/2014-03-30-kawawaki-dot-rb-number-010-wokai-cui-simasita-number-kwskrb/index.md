@@ -1,19 +1,36 @@
 ---
-authors: [aki]
-categories: [ruby]
+authors:
+  - aki
+categories:
+  - ruby
 date: 2014-03-30 15:06:20-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2014-03-30 15:06:20-07:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: 'kawasaki.rb #010 を開催しました #kwskrb'
-keywords: [翻訳, jekyll, ドキュメント, kawasaki, rb, リポジトリ, aki, '300', 本家, ariga]
-recommendations: [/post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/,
-  /post/2022-06-18-kawasaki rb 9 years reflection/, /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/]
+keywords:
+  - 翻訳
+  - jekyll
+  - ドキュメント
+  - kawasaki
+  - rb
+  - リポジトリ
+  - aki
+  - '300'
+  - 本家
+  - ariga
+recommendations:
+  - /post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/
+  - /post/2022-06-18-kawasaki rb 9 years reflection/
+  - /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
 ---
 
 

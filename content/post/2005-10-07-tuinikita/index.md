@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2005-10-07 14:46:55-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2005-10-07 14:46:55-07:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: ついにｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!!
-keywords: [ラジオ, fm, md, 発売, 録音, usb, 人柱, wav, radio, 欲しかっ]
-recommendations: [/post/2007-05-10-usbdewen-kerufm-slash-amrazio/, /post/2006-07-28-xia-nanode/,
-  /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/]
+keywords:
+  - ラジオ
+  - fm
+  - md
+  - 発売
+  - 録音
+  - usb
+  - 人柱
+  - wav
+  - radio
+  - 欲しかっ
+recommendations:
+  - /post/2007-05-10-usbdewen-kerufm-slash-amrazio/
+  - /post/2006-07-28-xia-nanode/
+  - /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/
 ---
 
 

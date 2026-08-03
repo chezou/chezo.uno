@@ -1,13 +1,26 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: []
 date: 2018-12-15 22:06:00-08:00
 description: この記事はpyspa Advenct calenderの17日目です。
 lastmod: 2018-12-15 22:06:00-08:00
 title: あなたの知らない煽りの世界
-keywords: [コンピュータ, lib, 疑問, メッセージ, やりとり, 人間, pc, エンジニア, github, 連想]
-recommendations: [/post/2025-09-19-review-fatigue/, /post/2026-07-30-slop-nuki-という日本語レビューskill/,
-  /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/]
+keywords:
+  - コンピュータ
+  - lib
+  - 疑問
+  - メッセージ
+  - やりとり
+  - 人間
+  - pc
+  - エンジニア
+  - github
+  - 連想
+recommendations:
+  - /post/2025-09-19-review-fatigue/
+  - /post/2026-07-30-slop-nuki-という日本語レビューskill/
+  - /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/
 ---
 
 

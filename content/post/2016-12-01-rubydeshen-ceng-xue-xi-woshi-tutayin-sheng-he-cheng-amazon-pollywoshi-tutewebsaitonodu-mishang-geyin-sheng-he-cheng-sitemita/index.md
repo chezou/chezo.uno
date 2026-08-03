@@ -1,20 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2016-12-01 15:10:05-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2016-12-01 15:10:05-08:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: Rubyで深層学習を使った音声合成Amazon Pollyを使ってWebサイトの読み上げ音声合成してみた
-keywords: [音声, amazon, 英語, dl, aws, api, 話題, 追記, '2016', 米国]
-recommendations: [/post/2015-11-22-idcfkuraudono500yuan-sabadepodcast-serverwohazimete8keyue-gajing-timasita/,
-  /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/,
-  /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/]
+keywords:
+  - 音声
+  - amazon
+  - 英語
+  - dl
+  - aws
+  - api
+  - 話題
+  - 追記
+  - '2016'
+  - 米国
+recommendations:
+  - /post/2026-07-30-slop-nuki-という日本語レビューskill/
+  - /post/2015-11-22-idcfkuraudono500yuan-sabadepodcast-serverwohazimete8keyue-gajing-timasita/
+  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
 ---
 
 

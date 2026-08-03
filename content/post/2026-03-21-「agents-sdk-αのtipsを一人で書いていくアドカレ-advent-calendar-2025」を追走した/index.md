@@ -1,17 +1,22 @@
 ---
-aliases: [/post/2026-03-21-agents-sdk-αのtipsを一人て書いていくアトカレ-advent-calendar-2025を追走した/]
+aliases:
+  - /post/2026-03-21-agents-sdk-αのtipsを一人て書いていくアトカレ-advent-calendar-2025を追走した/
 title: 「Agents SDK+αのTipsを一人で書いていくアドカレ Advent Calendar 2025」を追走した
 subtitle: ''
 summary: ''
 date: 2026-03-20 18:03:00-07:00
 lastmod: 2026-03-20 20:30:00-07:00
-categories: [AI Agent]
-tags: [Agent]
+categories:
+  - AI Agent
+tags:
+  - Agent
 draft: false
 featured: false
 image: null
-recommendations: [/post/2026-04-17-ai時代の転職活動記録/, /post/2014-12-31-2014nian-wozhen-rifan-tute/,
-  /post/2022-12-16-bump-wowchemy-v570/]
+recommendations:
+  - /post/2026-04-17-ai時代の転職活動記録/
+  - /post/2019-11-18-digdag-ci/
+  - /post/2019-11-25-github actions-issue template/
 ---
 
 [@mocobeta](https://blog.mocobeta.dev/) さんが書いてくださった、OpenAIの[Agents SDKを試すアドベントカレンダー](https://adventar.org/calendars/12523)の追走をした。子供の春休みで有給取っていることもあり、春休みの宿題よろしくやってみた。

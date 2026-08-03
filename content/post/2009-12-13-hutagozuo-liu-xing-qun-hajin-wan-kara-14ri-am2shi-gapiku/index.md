@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2009-12-13 13:57:27-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2009-12-13 13:57:27-08:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: ふたご座流星群は今晩から。14日AM2時がピーク
-keywords: [あたたかい, 難しい, 留学生, 特集, ピーク, 発音, 曇り, 類似, 午前, '2009']
-recommendations: [/post/2026-03-28-montréalに10年以上ぶりに行った/, /post/2006-07-28-xia-nanode/,
-  /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/]
+keywords:
+  - あたたかい
+  - 難しい
+  - 留学生
+  - 特集
+  - ピーク
+  - 発音
+  - 曇り
+  - 類似
+  - 午前
+  - '2009'
+recommendations:
+  - /post/2026-03-28-montréalに10年以上ぶりに行った/
+  - /post/2005-07-17-urayamasika/
+  - /post/2008-06-03-er-du-qin-qian/
 ---
 
 

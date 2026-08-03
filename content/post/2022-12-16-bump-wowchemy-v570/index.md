@@ -2,18 +2,35 @@
 title: Wowchemyをv5.5.0からv5.7.0に上げた
 subtitle: そしてAlgoliaを諦めた
 summary: ''
-authors: [aki]
-tags: [hugo]
+authors:
+  - aki
+tags:
+  - hugo
 categories: []
 date: 2022-12-16 17:23:22-08:00
 lastmod: 2022-12-16 17:23:22-08:00
 featured: false
 draft: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 projects: []
-keywords: [検索, yaml, 変更, wowchemy, hugo, config, 設定, 構造, アドベントカレンダー, バージョン]
-recommendations: [/post/2025-08-24-pages-cms/, /post/2026-03-19-pages-cmsからsveltia-cmsに移行した/,
-  /post/2026-03-21-「agents-sdk-αのtipsを一人で書いていくアドカレ-advent-calendar-2025」を追走した/]
+keywords:
+  - 検索
+  - yaml
+  - 変更
+  - wowchemy
+  - hugo
+  - config
+  - 設定
+  - 構造
+  - アドベントカレンダー
+  - バージョン
+recommendations:
+  - /post/2025-08-24-pages-cms/
+  - /post/2022-01-14-prelims-recommend-hugo/
+  - /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/
 ---
 
 
