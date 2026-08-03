@@ -4,9 +4,11 @@
 # The stock "academic" pack tuned for pages that mix Japanese and English.
 # Same faces — only the metrics change, so no extra fonts are downloaded.
 #
-# The Japanese fallback stack itself lives in assets/css/custom.css: a pack's
+# The Japanese stacks themselves live in assets/css/custom.css: a pack's
 # `families` entry holds a single family name and the theme appends its own
 # Latin-only generic after it, so there is no way to name a CJK face here.
+# Keep the weights below in sync with the faces requested in
+# layouts/_partials/hooks/head-end/japanese-webfont.html.
 
 hugoblox:
   meta:
@@ -24,7 +26,7 @@ hugoblox:
     code: "Source Code Pro"
 
   weights:
-    # Japanese gothic at 500 still reads as body text next to Lora; 600 gives
+    # Noto Serif JP at 500 still reads as body text next to Lora; 600 gives
     # headings the weight contrast they need in both scripts.
     heading: [600, 700]
     body: [400, 600]

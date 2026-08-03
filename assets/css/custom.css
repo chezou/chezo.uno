@@ -9,25 +9,34 @@
    in <head> than this stylesheet, so we need the extra point of specificity
    rather than relying on source order. */
 :root:root {
-  /* System faces first, so macOS, iOS, Windows and Android download nothing.
-     Yu Gothic sits behind BIZ UDPGothic because its Regular weight renders too
-     thin in Chrome and Edge at body size. "Noto Sans CJK JP" is the name the
-     Android and Linux system font answers to; "Noto Sans JP" last is the
-     webfont from layouts/_partials/hooks/head-end/japanese-webfont.html, which
-     only downloads when none of the above matched. Swap it to the front to
-     render identically everywhere at the cost of a few hundred KB. */
-  --hb-font-jp: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "BIZ UDPGothic",
-    "Yu Gothic Medium", "Yu Gothic", Meiryo, "Noto Sans CJK JP", "Noto Sans JP",
-    sans-serif;
+  /* The Noto faces lead so every visitor sees the same page rather than
+     whichever gothic their OS happens to ship — BIZ UDPGothic on Windows sets
+     punctuation proportionally, Hiragino on macOS sets it full-width, and the
+     text colour differs noticeably between them. Both are requested in
+     layouts/_partials/hooks/head-end/japanese-webfont.html, and Google splits
+     them by unicode-range, so a page pulls only the subsets its text needs.
 
-  /* The Latin serifs stay ahead of the Japanese stack so Latin text still falls
-     back to a serif while Lora and Source Serif 4 load. Only named families are
-     listed there — the generic `serif` keyword maps to a CJK-capable font in
-     Japanese locales and would swallow the kana before we reach --hb-font-jp. */
+     Mincho for headings pairs with Lora; gothic for body holds up better at
+     reading size on a screen. The system faces behind each cover the swap
+     window and anyone who blocks Google Fonts. Yu Gothic sits behind BIZ
+     UDPGothic because its Regular weight renders too thin in Chrome and Edge at
+     body size. Move either Noto entry to the end of its stack to fall back to
+     system fonts and download nothing. */
+  --hb-font-jp-serif: "Noto Serif JP", "Hiragino Mincho ProN", "Yu Mincho",
+    YuMincho, "Noto Serif CJK JP", serif;
+  --hb-font-jp-sans: "Noto Sans JP", "Hiragino Sans", "Hiragino Kaku Gothic ProN",
+    "BIZ UDPGothic", "Yu Gothic Medium", "Yu Gothic", Meiryo,
+    "Noto Sans CJK JP", sans-serif;
+
+  /* The Latin serifs stay ahead of the Japanese stacks so Latin text still
+     falls back to a serif while Lora and Source Serif 4 load. Only named
+     families are listed there — the generic `serif` keyword maps to a
+     CJK-capable font in Japanese locales and would swallow the kana before we
+     reach the Japanese stack. */
   --hb-font-heading: "Lora", Georgia, Cambria, "Times New Roman", Times,
-    var(--hb-font-jp);
+    var(--hb-font-jp-serif);
   --hb-font-body: "Source Serif 4", Georgia, Cambria, "Times New Roman", Times,
-    var(--hb-font-jp);
+    var(--hb-font-jp-sans);
   --hb-font-nav: var(--hb-font-heading);
   --hb-font-family-sans: var(--hb-font-body);
 }
