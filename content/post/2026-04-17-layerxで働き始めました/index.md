@@ -10,7 +10,7 @@ aliases: [/post/2026-04-17-layerxて働き始めました/]
 draft: false
 featured: false
 image: {placement: null, caption: '<a href="https://www.pexels.com/ja-jp/photo/7339828/">Photo
-    by Ann H on Pexels</a>', focal_point: '', preview_only: false, filename: /pexels-ann-h-7339828.jpg}
+    by Ann H on Pexels</a>', focal_point: '', preview_only: false, filename: pexels-ann-h-7339828.jpg}
 recommendations: [/post/2022-01-09-vancouver-engineer-podcast/, /post/2018-06-19_goodbye-cloudera/,
   /post/2016-03-30-zhuan-zhi-simasita/]
 ---
