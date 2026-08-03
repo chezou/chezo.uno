@@ -4,17 +4,33 @@ subtitle: ''
 summary: ''
 date: 2026-04-24 17:27:00-07:00
 lastmod: ''
-categories: [カナダ生活]
-tags: [privacy, Canada]
-aliases: [/post/2026-04-24-tiktokて勝手にアカウントか作られ続けるのてclaudeてカナタのprivacy法に則って通/]
+categories:
+  - カナダ生活
+tags:
+  - privacy
+  - Canada
+aliases:
+  - /post/2026-04-24-tiktokて勝手にアカウントか作られ続けるのてclaudeてカナタのprivacy法に則って通/
 draft: false
 featured: false
-image: null
-cover: {image: pexels-uma-media-36229753.jpg, alt_text: '<a href="https://www.pexels.com/ja-jp/photo/7481976/">Photo
-    by MART  PRODUCTION on Pexels</a> <a href="https://www.pexels.com/ja-jp/photo/tiktok-36229753/">Photo
-    by UMA media on Pexels</a>', style: '', height: '', position: null, icon: null}
-recommendations: [/post/2008-09-07-chu-yin-mikunokaraokequ/, /post/2009-10-26-memo-windows7yong-dong-zuo-que-ren-xi-rinku/,
-  /post/2025-09-19-review-fatigue/]
+image:
+  filename: pexels-uma-media-36229753.jpg
+  alt_text: ''
+  caption: <a href="https://www.pexels.com/ja-jp/photo/7481976/">Photo by MART  PRODUCTION on Pexels</a> <a href="https://www.pexels.com/ja-jp/photo/tiktok-36229753/">Photo by UMA media on Pexels</a>
+  focal_point: ''
+  placement: null
+  preview_only: true
+cover:
+  image: pexels-uma-media-36229753.jpg
+  alt_text: <a href="https://www.pexels.com/ja-jp/photo/7481976/">Photo by MART  PRODUCTION on Pexels</a> <a href="https://www.pexels.com/ja-jp/photo/tiktok-36229753/">Photo by UMA media on Pexels</a>
+  style: ''
+  height: ''
+  position: null
+  icon: null
+recommendations:
+  - /post/2008-09-07-chu-yin-mikunokaraokequ/
+  - /post/2009-10-26-memo-windows7yong-dong-zuo-que-ren-xi-rinku/
+  - /post/2025-09-19-review-fatigue/
 ---
 
 > [!WARNING]
