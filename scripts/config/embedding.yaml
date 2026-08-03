@@ -15,5 +15,6 @@ handlers:
       - permalink_base: "/post"
         type: embedding_recommender
         language: ja
+        prefix: "トピック: "
         topk: 3
         cache_db: ".prelims_embedding_cache_ja.db"
