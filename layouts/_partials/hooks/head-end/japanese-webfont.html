@@ -1,0 +1,15 @@
+{{/* Japanese webfont fallback.
+
+  A font pack names one family per role, so Noto Sans JP cannot be added to
+  data/fonts/academic-ja.yaml without displacing Source Serif 4 for Latin text.
+  Requesting it here lets it sit at the end of the --hb-font-jp stack in
+  assets/css/custom.css instead.
+
+  Google serves it split by unicode-range, and every system face in that stack
+  comes first, so visitors on macOS, iOS, Windows and Android match locally and
+  fetch nothing beyond this stylesheet. It exists for Linux and ChromeOS, where
+  a Japanese face is not guaranteed. */}}
+<link
+  href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;600;700&display=swap"
+  rel="stylesheet"
+/>

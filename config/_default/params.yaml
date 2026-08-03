@@ -62,7 +62,8 @@ hugoblox:
     # Theme pack: name from data/fonts/
     # font: "serif"
     # size: "md"
-    pack: "academic"
+    # "academic" tuned for Japanese line metrics — see data/fonts/academic-ja.yaml
+    pack: "academic-ja"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
