@@ -4,12 +4,21 @@ subtitle: ''
 summary: ''
 date: 2026-03-08 13:07:00-07:00
 lastmod: ''
-tags: [Staff Engineer]
+tags:
+  - Staff Engineer
 draft: false
 featured: true
-image: {placement: null, caption: '', focal_point: '', preview_only: false}
-recommendations: [/blog/2025-05-02-ml-project-and-scrum/, /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/,
-  /blog/2020-03-05_py-operator-development-guide-for-python-users/]
+image:
+  filename: pexels-thirdman-7180813.jpg
+  alt_text: <a href="https://www.pexels.com/ja-jp/photo/7180813/">Photo by Thirdman on Pexels</a>
+  caption: ''
+  focal_point: Smart
+  placement: 3
+  preview_only: false
+recommendations:
+  - /blog/2025-05-02-ml-project-and-scrum/
+  - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
+  - /blog/2020-03-05_py-operator-development-guide-for-python-users/
 ---
 
 ## Introduction
@@ -24,28 +33,28 @@ My stance has always been, "I will do whatever it takes to deliver a valuable pr
 
 Let's recap Will Larson's four Staff Archetypes.
 
-### 1\. Tech Lead
+### 1. Tech Lead
 
 A role deeply involved with a specific team (or a few teams), leading technical direction and execution.
 
 *   Characteristics: Takes responsibility for the team's technical decisions, fleshing out complex tasks, and unblocking progress.
 *   Primary Activities: Focuses more on shaping the overall technical vision for the team, mentoring members, and coordinating with product managers rather than pure implementation. This is the most common archetype and a natural extension from a senior engineer role.
 
-### 2\. Architect
+### 2. Architect
 
 A role responsible for cross-organizational success and quality within a specific technical domain (e.g., API design, frontend, infrastructure strategy).
 
 *   Characteristics: Formulates technical strategies spanning multiple teams and maintains long-term technical alignment.
 *   Primary Activities: Deeply understands business needs and technical constraints to guide the overall architecture of the organization. Needed in large organizations or companies with complex systems burdened by accumulated debt.
 
-### 3\. Solver
+### 3. Solver
 
 A "firefighter" role that moves beyond a specific team to solve critical and difficult technical challenges for the organization.
 
 *   Characteristics: Deployed to problems with high execution risk or complex issues where the solution is unclear.
 *   Primary Activities: Goes to the frontline where the problem is occurring based on requests from leadership, and moves on to the next challenge once resolved. Requires pure technical breakthrough ability rather than organizational coordination.
 
-### 4\. Right Hand
+### 4. Right Hand
 
 A role acting as the "right hand" to executives like the CTO or VP, borrowing their authority to solve complex organizational problems.
 
@@ -66,15 +75,15 @@ I didn't have the official title of Tech Lead, but I operated as the engineer ov
 
 Let's break down the main things I've done over the past three years using the archetypes.
 
-*   **As a Tech Lead / Architect**
+-   **As a Tech Lead / Architect**
     -   Consistently led the grand design, PoC, scale validation, and release of the ML training and prediction infrastructure (Python, FastAPI, AWS Batch), successfully releasing it with 2 people in 5 months.
     -   Scaled the RFM prediction processing, making it up to 100x faster and supporting processing for 1 billion users.
     -   Implemented the PoC for the recommendation ML solution model and selected scalable algorithms.
-*   **As a Right Hand**
+-   **As a Right Hand**
     -   Directly explained the engineering roadmap to the CTO and product leadership to secure sponsorship.
     -   Secured sponsorship for a complete revamp of the ML infrastructure over a year and drove it through to release.
     -   Drafted the product roadmap and proposed product direction not only to Engineering but also to the Product Manager and VPoP.
-*   **As a Solver**
+-   **As a Solver**
     -   When an escalation came from the PS team saying, "The customer needs this feature right now," I jumped in as a firefighter, resolved the issue, and released it to production in 1-2 weeks.
     -   Rewrote incomplete code from a project where the engineer who originally worked on it had moved on, elevating it to production-grade.
 
@@ -97,9 +106,9 @@ Generally, the Two-in-a-box model is well known, although the breadth of role di
 
 Also, at [Asana](https://asana.com/inside-asana/grow-your-leadership-impact-as-a-tech-lead-or-engineering-manager), every team has an EM, and for many projects, a TL is placed separately to collaborate with the EM, or if there is no TL, a Tech Lead Manager holds both roles. In their case, the division of roles between EM and TL is as follows:
 
-> *   Engineering Manager primarily focuses on people management (staffing, coaching & growth) and organizational strategy (organizational risk, operational efficiency, team charter & outcomes)
+> \*   Engineering Manager primarily focuses on people management (staffing, coaching & growth) and organizational strategy (organizational risk, operational efficiency, team charter & outcomes)
 > 
-> *   Tech Lead primarily focuses on technical leadership (technical execution, technical strategy, technical culture, roadmap feasibility & execution).
+> \*   Tech Lead primarily focuses on technical leadership (technical execution, technical strategy, technical culture, roadmap feasibility & execution).
 > 
 
 In this way, the advantage of Two-in-a-box is sharing the cognitive load so that attention can be paid to various areas.
@@ -114,9 +123,9 @@ Ultimately, if the EM and TL trust each other and have a system where they can w
 
 I've written a lot so far, but if I were to reorganize the work I've done and the scope I've expanded based on the Archetypes:
 
-*   Technical decision-making and delivery as a Tech Lead/Architect
-*   Proposing technical strategies to executives and gaining approval as a Right Hand
-*   Critical problem-solving skills as a Solver
+-   Technical decision-making and delivery as a Tech Lead/Architect
+-   Proposing technical strategies to executives and gaining approval as a Right Hand
+-   Critical problem-solving skills as a Solver
     -   Occasionally stepping into scopes beyond Staff+ (PdM, PjM, UX Designer, parts of EM) when necessary
 
 It turns out that doing glue work as a Staff+ is not just doing random chores, but rather "carrying multiple Staff+ functions necessary for the organization all by oneself."
