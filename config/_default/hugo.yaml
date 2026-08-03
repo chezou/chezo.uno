@@ -25,7 +25,8 @@ cascade:
   # otherwise be labelled en-us. Chrome picks Han glyph shapes off this
   # attribute, and Japanese text tagged as English can be rendered with Chinese
   # forms for characters like 直, 令 and 骨. /post is the Japanese blog and
-  # /blog the English one; the handful of exceptions set `lang` in front matter.
+  # /blog the English one; a post that crosses the split sets content_lang in
+  # its own front matter.
   # No kind filter here, so section list pages are covered too.
   - content_lang: ja
     target:
