@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /post/2019-11-16-notion-cloudflare-sub-domain/2019-11-16-notion-cloudflare-sub-domain/
 authors:
   - aki
 date: 2019-11-16 06:50:00-08:00
