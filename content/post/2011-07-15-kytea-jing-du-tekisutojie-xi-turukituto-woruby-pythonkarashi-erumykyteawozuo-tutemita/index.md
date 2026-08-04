@@ -27,9 +27,9 @@ keywords:
   - ruby
   - ラッパー
 recommendations:
-  - /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/
   - /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/
-  - /post/2015-06-06-pip-install-kyteadekiruyouninarimasita/
+  - /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/
+  - /post/2015-08-30-number-tqrk09-de-accept-lt-sitehazimeteno-gem-woraiburirisunishi-bai-simasita/
 ---
 
 

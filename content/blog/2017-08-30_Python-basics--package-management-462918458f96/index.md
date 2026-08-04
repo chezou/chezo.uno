@@ -22,8 +22,8 @@ keywords:
   - use
 recommendations:
   - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
-  - /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/
   - /blog/2022-05-21_fastest-way-to-release-python-cli/
+  - /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/
 ---
 
 

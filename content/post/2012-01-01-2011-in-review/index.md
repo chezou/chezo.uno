@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/
   - /post/2023-12-30-2023-year-in-review/
-  - /post/2020-12-31-2020-review/
+  - /post/2016-12-31-2016nian-wozhen-rifan-tute/
 ---
 
 

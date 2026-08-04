@@ -28,7 +28,7 @@ keywords:
   - www
 recommendations:
   - /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/
-  - /post/2015-08-23-yapc-asia-tokyo-2015can-jia-sitekita-number-yapcasia/
+  - /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/
   - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
 ---
 

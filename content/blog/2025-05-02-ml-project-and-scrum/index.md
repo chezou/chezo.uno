@@ -29,9 +29,9 @@ keywords:
   - weeks
   - technical
 recommendations:
-  - /blog/2025-09-19-review-fatigue/
   - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
-  - /blog/2026-03-08-2026-03-08-between-principan-and-glue-work/
+  - /blog/2025-09-19-review-fatigue/
+  - /blog/2019-06-04_the-first-conference-of-operational-machine-learning--opml--19-308baad36108/
 ---
 
 

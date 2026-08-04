@@ -18,8 +18,8 @@ image:
   filename: pasted-image-1775009571759.png
 recommendations:
   - /post/2018-10-19_treasure-data-------plazma-tech-talk-------3c901d92e973/
-  - /post/2022-01-09-vancouver-engineer-podcast/
   - /post/2016-03-30-zhuan-zhi-simasita/
+  - /post/2015-12-30-2015nian-wozhen-rifan-tute/
 ---
 
 2026/3/31付けで7年半務めたTreasure Dataを退職します。

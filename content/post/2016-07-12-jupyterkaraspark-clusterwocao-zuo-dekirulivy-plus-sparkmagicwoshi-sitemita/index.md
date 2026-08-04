@@ -28,8 +28,8 @@ keywords:
   - cloudera
 recommendations:
   - /post/2018-10-25_risecamp------ee65c2ef0c9e/
+  - /post/2020-07-16-google colaboratory-vs code(code-server)/
   - /post/2019-11-25-github actions-api token-pypi release/
-  - /post/2012-01-07-mercurialtoqin-he-xing-nogao-iripozitoriburauzarhodecodewoinsutorusitemita/
 ---
 
 

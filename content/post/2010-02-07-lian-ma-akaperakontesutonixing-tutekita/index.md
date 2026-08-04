@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
   - /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/
-  - /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/
+  - /post/2008-07-05-rajaton/
 ---
 
 

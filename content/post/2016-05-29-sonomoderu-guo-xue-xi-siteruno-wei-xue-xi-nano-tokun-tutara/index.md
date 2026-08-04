@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2018-05-17_mlse-kickoff/
   - /post/2019-12-05-ibis2019-mlse/
-  - /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/
+  - /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/
 ---
 
 

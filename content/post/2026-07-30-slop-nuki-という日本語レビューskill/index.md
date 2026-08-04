@@ -27,9 +27,9 @@ cover:
   position: null
   icon: null
 recommendations:
-  - /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/
   - /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/
   - /post/2019-11-17-spacy-ginza/
+  - /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/
 ---
 
 英語でメールを書くときに、重ためな内容[^1] を投げるのはAIに生成してもらっている事が多く、そのときに流石にAI臭いとアレかな、と思い [stop-slop](https://github.com/hardikpandya/stop-slop) というskillを使っている。

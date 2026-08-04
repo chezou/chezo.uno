@@ -27,9 +27,9 @@ keywords:
   - repository
   - docker
 recommendations:
+  - /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/
   - /blog/2025-08-24-configured-pages-cms/
   - /blog/2022-05-21_fastest-way-to-release-python-cli/
-  - /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/
 ---
 
 I love [VanGohan](https://www.vangohan.com/), who is a Japanese meal kits provider in Vancouver. Their meal kits are really tasty and authentic Japanese foods. I can't live without them. When I visited Japan last year, I wasn't too eager to find nice Japanese restaurants because of them.

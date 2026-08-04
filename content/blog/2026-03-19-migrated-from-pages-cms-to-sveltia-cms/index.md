@@ -19,7 +19,7 @@ image:
 recommendations:
   - /blog/2025-08-24-configured-pages-cms/
   - /blog/2024-02-02-migrated-from-netlify-to-cloudflare-pages/
-  - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
+  - /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/
 ---
 
 I [introduced Pages CMS last summer](https://chezo.uno/blog/2025-08-24-configured-pages-cms/), but after encountering several concerns, I migrated to Sveltia CMS.

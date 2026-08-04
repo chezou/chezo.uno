@@ -28,8 +28,8 @@ keywords:
   - '01'
 recommendations:
   - /post/2022-06-18-kawasaki rb 9 years reflection/
-  - /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/
   - /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/
+  - /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/
 ---
 
 

@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/
   - /post/2005-09-09-notonogai-zao/
-  - /post/2009-09-25-windows7woyu-yue-sita/
+  - /post/2006-03-17-uhi/
 ---
 
 

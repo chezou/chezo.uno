@@ -23,7 +23,7 @@ keywords:
 recommendations:
   - /post/2019-12-04-r-and-td/
   - /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/
-  - /post/2014-01-24-kawasaki-dot-rb-number-005wokai-cui-simasita-number-kwskrb/
+  - /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/
 ---
 
 

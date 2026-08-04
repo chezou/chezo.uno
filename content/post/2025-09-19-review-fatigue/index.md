@@ -26,8 +26,8 @@ keywords:
   - pr
 recommendations:
   - /post/2017-01-01-fei-ying-yu-neiteibunitotutenoossnomentenansukosuto/
-  - /post/2013-08-25-llmaturinican-jia-simasita/
   - /post/2018-12-16_dialogues-with-computer-dce83c32e67e/
+  - /post/2025-05-02-ml-project-and-scrum/
 ---
 
 今年に入ってやたらレビューの時間が増えた。これはコードもそうだしドキュメントもそうだ。 そして、これによる疲れも急激に増加している。

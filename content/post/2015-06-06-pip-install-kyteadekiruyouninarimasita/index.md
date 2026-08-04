@@ -27,9 +27,9 @@ keywords:
   - kytea
   - パッケージ
 recommendations:
-  - /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/
   - /post/2017-08-26_python------------------dc8d8f2fe989/
   - /post/2019-11-25-github actions-api token-pypi release/
+  - /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/
 ---
 
 

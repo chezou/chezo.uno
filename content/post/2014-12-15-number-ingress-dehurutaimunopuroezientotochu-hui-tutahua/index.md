@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/
   - /post/2019-06-04_ngekkan-party/
-  - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
+  - /post/2026-04-17-layerxで働き始めました/
 ---
 
 

@@ -28,9 +28,9 @@ cover:
   position: null
   icon: null
 recommendations:
-  - /post/2008-09-07-chu-yin-mikunokaraokequ/
+  - /post/2023-01-27-timeline for canadian pr/
   - /post/2026-07-30-slop-nuki-という日本語レビューskill/
-  - /post/2025-09-19-review-fatigue/
+  - /post/2025-12-09-2025-12-09-principal-engineer-in-the-gene-of-ai/
 ---
 
 > [!WARNING]

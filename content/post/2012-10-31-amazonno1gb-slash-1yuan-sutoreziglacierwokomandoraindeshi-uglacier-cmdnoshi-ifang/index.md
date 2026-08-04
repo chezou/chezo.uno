@@ -27,9 +27,9 @@ keywords:
   - コマンド
   - download
 recommendations:
-  - /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/
-  - /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/
   - /post/2020-07-16-google colaboratory-vs code(code-server)/
+  - /post/2011-02-05-acer-aspire-1410wocrucial-realssd-c300niwai-fu-kedvdnasinihuan-zhuang-sita/
+  - /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/
 ---
 
 

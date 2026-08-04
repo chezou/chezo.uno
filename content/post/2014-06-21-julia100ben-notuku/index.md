@@ -27,9 +27,9 @@ keywords:
   - ドキュメント
   - 比較
 recommendations:
+  - /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/
   - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
   - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
-  - /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
 ---
 
 

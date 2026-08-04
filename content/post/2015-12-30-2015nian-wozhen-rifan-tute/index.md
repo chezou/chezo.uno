@@ -27,8 +27,8 @@ keywords:
   - いい
   - 勉強会
 recommendations:
-  - /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/
-  - /post/2017-01-25-mata-tunian-wototuta/
+  - /post/2016-12-31-2016nian-wozhen-rifan-tute/
+  - /post/2014-12-31-2014nian-wozhen-rifan-tute/
   - /post/2023-12-30-2023-year-in-review/
 ---
 

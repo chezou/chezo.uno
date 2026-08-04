@@ -32,7 +32,7 @@ keywords:
 recommendations:
   - /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/
   - /post/2019-11-16-tdworkflow/
-  - /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/
+  - /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
 ---
 
 データリネージとは、DBなどでどのデータがどこから来てどこに行った、という「来歴」とも呼ばれる情報です。

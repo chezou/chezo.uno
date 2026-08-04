@@ -20,8 +20,8 @@ keywords:
   - スタンド
 recommendations:
   - /post/2017-12-30_2017------------bbf834e065c5/
+  - /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
   - /post/2019-11-26-pillow/
-  - /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/
 ---
 
 

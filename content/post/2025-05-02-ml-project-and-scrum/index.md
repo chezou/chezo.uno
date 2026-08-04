@@ -29,9 +29,9 @@ keywords:
   - product
   - ビジネス
 recommendations:
+  - /post/2025-09-19-review-fatigue/
   - /post/2019-12-05-ibis2019-mlse/
-  - /post/2018-05-17_mlse-kickoff/
-  - /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/
+  - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
 ---
 
 

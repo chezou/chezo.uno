@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/
   - /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
-  - /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/
+  - /post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/
 ---
 
 

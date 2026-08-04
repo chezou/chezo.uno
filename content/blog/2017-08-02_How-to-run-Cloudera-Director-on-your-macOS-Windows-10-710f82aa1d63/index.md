@@ -20,8 +20,8 @@ keywords:
   - docker
   - com
 recommendations:
-  - /blog/2017-03-26_how-to-connect-secure-impala-cluster-from-rstudio-on-macos-with-implyr-213c6536e4c7/
   - /blog/2019-10-06_how-to-test-a-new-docker-image-for-digdag-workflow-on-circleci--c8bb92987877/
+  - /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/
   - /blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/
 ---
 

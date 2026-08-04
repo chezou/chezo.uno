@@ -18,9 +18,9 @@ keywords:
   - 学術
   - 研究
 recommendations:
-  - /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/
   - /post/2017-08-03_oss--------------48807bbbf13f/
   - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
+  - /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/
 ---
 
 

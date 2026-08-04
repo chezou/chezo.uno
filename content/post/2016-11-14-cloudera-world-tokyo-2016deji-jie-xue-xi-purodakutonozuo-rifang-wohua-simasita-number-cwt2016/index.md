@@ -27,8 +27,8 @@ keywords:
   - hadoop
   - データ分析
 recommendations:
-  - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
   - /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/
+  - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
   - /post/2018-05-17_mlse-kickoff/
 ---
 

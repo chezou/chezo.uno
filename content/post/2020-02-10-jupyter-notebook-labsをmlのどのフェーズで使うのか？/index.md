@@ -25,8 +25,8 @@ keywords:
   - 愛用
 recommendations:
   - /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/
-  - /post/2014-06-21-julia100ben-notuku/
   - /post/2017-08-26_python------------------dc8d8f2fe989/
+  - /post/2014-06-21-julia100ben-notuku/
 ---
 
 機械学習ではよく使われるJupyter Notebookですが、これを使ってプロダクションで動くコードを書くのは非常に難しいなと思い、皆どのように使っているのかを知りたくてアンケートをとってみました。

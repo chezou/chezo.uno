@@ -20,9 +20,9 @@ keywords:
   - arm
   - 広がり
 recommendations:
-  - /post/2026-04-17-layerxで働き始めました/
   - /post/2026-03-31-treasure-dataを退職しました/
-  - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
+  - /post/2026-04-17-layerxで働き始めました/
+  - /post/2016-03-30-zhuan-zhi-simasita/
 ---
 
 

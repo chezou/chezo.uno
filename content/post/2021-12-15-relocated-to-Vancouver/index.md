@@ -21,7 +21,7 @@ keywords:
   - 移住
 recommendations:
   - /post/2021-12-18-8-months-after-relocating-vancouver/
-  - /post/2022-12-30-2022-year-in-review/
+  - /post/2022-11-13-canada-good thing-bad things/
   - /post/2026-03-28-montréalに10年以上ぶりに行った/
 ---
 

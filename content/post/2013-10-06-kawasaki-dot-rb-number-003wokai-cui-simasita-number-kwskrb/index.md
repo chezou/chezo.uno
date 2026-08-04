@@ -28,8 +28,8 @@ keywords:
   - scipy
   - js
 recommendations:
-  - /post/2013-06-29-kawasaki-dot-rb-number-001-di-1hui-mitoatupuwokai-cui-simasita-number-kwskrb/
   - /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
+  - /post/2013-06-29-kawasaki-dot-rb-number-001-di-1hui-mitoatupuwokai-cui-simasita-number-kwskrb/
   - /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/
 ---
 

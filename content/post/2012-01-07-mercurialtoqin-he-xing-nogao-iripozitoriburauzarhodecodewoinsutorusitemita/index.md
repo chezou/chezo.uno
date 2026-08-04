@@ -27,9 +27,9 @@ keywords:
   - ユーザ
   - リポジトリ
 recommendations:
-  - /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/
   - /post/2019-11-25-github actions-api token-pypi release/
-  - /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/
+  - /post/2019-12-04-r-and-td/
+  - /post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/
 ---
 
 

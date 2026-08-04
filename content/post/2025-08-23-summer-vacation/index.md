@@ -20,9 +20,9 @@ keywords:
   - rta
   - motion
 recommendations:
-  - /post/2021-12-15-relocated-to-vancouver/
   - /post/2021-12-18-8-months-after-relocating-vancouver/
-  - /post/2021-12-31-2021-year-review/
+  - /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/
+  - /post/2022-12-30-2022-year-in-review/
 ---
 
 仕事が珍しく急ぎの仕事がない状態になったので、ふらっと週末にくっつける形で休みを取った。というのも、RTA in Japanをやってるのに全然見れなくて仕事なんてしてる場合じゃない、となったのである。

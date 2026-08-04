@@ -28,8 +28,8 @@ keywords:
   - 変化
 recommendations:
   - /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
-  - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
   - /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
+  - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
 ---
 
 

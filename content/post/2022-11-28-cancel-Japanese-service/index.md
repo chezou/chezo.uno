@@ -20,7 +20,7 @@ keywords:
   - disney+
 recommendations:
   - /post/2023-01-27-age++/
-  - /post/2025-08-23-summer-vacation/
+  - /post/2022-11-13-canada-good thing-bad things/
   - /post/2021-12-15-relocated-to-vancouver/
 ---
 

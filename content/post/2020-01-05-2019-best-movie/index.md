@@ -20,8 +20,8 @@ keywords:
   - アメリカ
 recommendations:
   - /post/2008-07-30-narutaru/
-  - /post/2017-05-25_teach-what-i-dont-know/
   - /post/2008-06-01-nantoiunu-li-noren/
+  - /post/2009-05-12-konnitiha-iphone/
 ---
 
 

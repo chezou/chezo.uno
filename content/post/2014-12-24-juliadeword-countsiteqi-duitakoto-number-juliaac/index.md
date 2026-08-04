@@ -28,8 +28,8 @@ keywords:
   - utf
 recommendations:
   - /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
-  - /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/
   - /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/
+  - /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/
 ---
 
 

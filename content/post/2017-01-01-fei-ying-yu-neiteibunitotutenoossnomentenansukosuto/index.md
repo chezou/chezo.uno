@@ -28,8 +28,8 @@ keywords:
   - プロダクト
 recommendations:
   - /post/2025-09-19-review-fatigue/
-  - /post/2017-01-25-mata-tunian-wototuta/
-  - /post/2025-05-02-ml-project-and-scrum/
+  - /post/2015-12-30-2015nian-wozhen-rifan-tute/
+  - /post/2022-07-15-finished-mlse-infra-wg/
 ---
 
 

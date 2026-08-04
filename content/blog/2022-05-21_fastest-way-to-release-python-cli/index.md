@@ -2,20 +2,37 @@
 title: 4 Steps to Release a CLI in Python
 subtitle: ''
 summary: ''
-authors: [aki]
-tags: [python, poetry]
-categories: [python]
+authors:
+  - aki
+tags:
+  - python
+  - poetry
+categories:
+  - python
 date: 2022-05-20 23:32:41-07:00
 lastmod: 2022-05-20 23:32:41-07:00
 featured: false
 draft: false
-image: {caption: Photo by Marc-Olivier Jodoin on Unsplash, focal_point: '', preview_only: false}
+image:
+  caption: Photo by Marc-Olivier Jodoin on Unsplash
+  focal_point: ''
+  preview_only: false
 projects: []
-keywords: [project, cli, pypi, token, create, dependency, written, package, python,
-  need]
-recommendations: [/blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/,
-  /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/,
-  /blog/2020-03-05_py-operator-development-guide-for-python-users/]
+keywords:
+  - project
+  - cli
+  - pypi
+  - token
+  - create
+  - dependency
+  - written
+  - package
+  - python
+  - need
+recommendations:
+  - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
+  - /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/
+  - /blog/2017-08-30_python-basics--package-management-462918458f96/
 ---
 
 

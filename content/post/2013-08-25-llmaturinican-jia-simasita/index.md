@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
   - /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/
-  - /post/2019-06-04_ngekkan-party/
+  - /post/2015-12-30-2015nian-wozhen-rifan-tute/
 ---
 
 

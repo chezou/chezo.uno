@@ -28,8 +28,8 @@ keywords:
   - demo
 recommendations:
   - /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/
+  - /post/2015-12-30-2015nian-wozhen-rifan-tute/
   - /post/2017-12-31_2017--------c4901627b12d/
-  - /post/2023-12-30-2023-year-in-review/
 ---
 
 

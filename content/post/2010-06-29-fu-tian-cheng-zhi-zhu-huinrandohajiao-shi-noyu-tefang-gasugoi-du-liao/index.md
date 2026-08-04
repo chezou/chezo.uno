@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2010-07-05-yi-gu-gang-yan-shan-kou-er-lang-ge-chai-she-hui-tojiao-yu-gai-ge-du-liao/
   - /post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/
-  - /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/
+  - /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/
 ---
 
 

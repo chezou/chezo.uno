@@ -3,10 +3,23 @@ title: 「ちょっとしたことでうまくいく 発達障害の人が上手
 date: 2025-12-22 18:09:00-08:00
 draft: false
 featured: false
-image: {preview_only: false}
-keywords: [振る舞い, 対処, 具体的, ワークアラウンド, 学び, こと, 特性, タスク, 傾向, 強い]
-recommendations: [/post/2025-08-23-summer-vacation/, /post/2017-12-31_2017--------c4901627b12d/,
-  /post/2012-01-01-2012nian-nobao-fu/]
+image:
+  preview_only: false
+keywords:
+  - 振る舞い
+  - 対処
+  - 具体的
+  - ワークアラウンド
+  - 学び
+  - こと
+  - 特性
+  - タスク
+  - 傾向
+  - 強い
+recommendations:
+  - /post/2025-08-23-summer-vacation/
+  - /post/2012-01-01-2012nian-nobao-fu/
+  - /post/2017-12-23_----------------------701333a45696/
 ---
 
 家族に勧められて冬休みの課題図書よろしくこの本を読んだが、色々と良かった。

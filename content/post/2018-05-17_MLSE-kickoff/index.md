@@ -18,9 +18,9 @@ keywords:
   - 予測
   - ポイント還元
 recommendations:
-  - /post/2019-12-05-ibis2019-mlse/
   - /post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/
-  - /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/
+  - /post/2019-12-05-ibis2019-mlse/
+  - /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
 ---
 
 

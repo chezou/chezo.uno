@@ -21,7 +21,7 @@ keywords:
 recommendations:
   - /post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebookkarajian-reruyounisita/
   - /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/
-  - /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/
+  - /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/
 ---
 
 

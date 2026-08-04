@@ -20,8 +20,8 @@ keywords:
   - 拡張
 recommendations:
   - /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/
-  - /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/
   - /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/
+  - /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/
 ---
 
 

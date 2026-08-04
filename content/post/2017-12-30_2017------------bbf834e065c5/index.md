@@ -20,8 +20,8 @@ keywords:
   - イヤホン
 recommendations:
   - /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/
-  - /post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/
   - /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
+  - /post/2019-03-10_business-trip-goods/
 ---
 
 

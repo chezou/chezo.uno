@@ -29,9 +29,9 @@ keywords:
   - youtube live
   - 接続
 recommendations:
-  - /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/
   - /post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa/
   - /post/2020-11-10-mlse-conference/
+  - /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/
 ---
 
 先日、[Machine Learning Casual Talks #12](https://mlct.connpass.com/event/172550/)というイベントの配信担当をした。

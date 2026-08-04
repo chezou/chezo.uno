@@ -28,8 +28,8 @@ keywords:
   - ultravoice
 recommendations:
   - /post/2008-10-11-le-pu-gayu-sii/
-  - /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
-  - /post/2020-04-03-microphone-for-remote-meeting/
+  - /post/2008-10-28-mai-tutesimatuta/
+  - /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/
 ---
 
 

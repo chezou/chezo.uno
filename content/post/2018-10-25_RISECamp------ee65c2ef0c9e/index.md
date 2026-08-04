@@ -19,9 +19,9 @@ keywords:
   - ml
   - デプロイ
 recommendations:
-  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
   - /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
-  - /post/2016-07-12-jupyterkaraspark-clusterwocao-zuo-dekirulivy-plus-sparkmagicwoshi-sitemita/
+  - /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/
+  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
 ---
 
 

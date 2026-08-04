@@ -24,8 +24,8 @@ keywords:
   - 出版社
 recommendations:
   - /post/2022-02-07-foregin-tax/
-  - /post/2024-06-20-nappan-book-review/
-  - /post/2021-12-31-2021-year-review/
+  - /post/2022-11-28-cancel-japanese-service/
+  - /post/2022-01-09-vancouver-engineer-podcast/
 ---
 
 

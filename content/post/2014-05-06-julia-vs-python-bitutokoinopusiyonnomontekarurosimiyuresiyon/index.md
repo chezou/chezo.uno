@@ -30,8 +30,8 @@ keywords:
   - オプション
 recommendations:
   - /post/2014-06-21-julia100ben-notuku/
-  - /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/
-  - /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/
+  - /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/
+  - /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
 ---
 
 

@@ -28,8 +28,8 @@ keywords:
   - 米国
 recommendations:
   - /post/2026-07-30-slop-nuki-という日本語レビューskill/
+  - /post/2014-01-24-kawasaki-dot-rb-number-005wokai-cui-simasita-number-kwskrb/
   - /post/2015-11-22-idcfkuraudono500yuan-sabadepodcast-serverwohazimete8keyue-gajing-timasita/
-  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
 ---
 
 

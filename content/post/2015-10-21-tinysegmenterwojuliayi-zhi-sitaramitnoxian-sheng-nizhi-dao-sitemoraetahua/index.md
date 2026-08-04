@@ -28,8 +28,8 @@ keywords:
   - 最適化
 recommendations:
   - /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/
-  - /post/2026-07-30-slop-nuki-という日本語レビューskill/
-  - /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/
+  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
+  - /post/2014-06-21-julia100ben-notuku/
 ---
 
 

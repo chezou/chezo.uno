@@ -21,7 +21,7 @@ keywords:
 recommendations:
   - /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
   - /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/
-  - /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/
+  - /post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/
 ---
 
 

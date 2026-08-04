@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2014-12-31-2014nian-wozhen-rifan-tute/
   - /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/
-  - /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/
+  - /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
 ---
 
 

@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2008-10-28-sings-2008-with-steve-dobrogosz/
   - /post/2012-09-25-singstodobrogoszgazai-bigong-yan/
-  - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
+  - /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/
 ---
 
 

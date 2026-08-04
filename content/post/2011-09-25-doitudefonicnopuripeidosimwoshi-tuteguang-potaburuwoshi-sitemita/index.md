@@ -28,7 +28,7 @@ keywords:
   - day
 recommendations:
   - /post/2023-08-06-rakuten-mobile-activation/
-  - /post/2015-10-08-iijmiono-outidenanbapotabiritei-shi-tutezi-zhai-demnpsita/
+  - /post/2022-11-28-cancel-japanese-service/
   - /post/2026-03-28-montréalに10年以上ぶりに行った/
 ---
 

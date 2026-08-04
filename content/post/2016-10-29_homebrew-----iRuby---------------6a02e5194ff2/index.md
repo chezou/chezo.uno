@@ -20,7 +20,7 @@ keywords:
 recommendations:
   - /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
   - /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/
-  - /post/2015-06-06-pip-install-kyteadekiruyouninarimasita/
+  - /post/2017-08-26_python------------------dc8d8f2fe989/
 ---
 
 

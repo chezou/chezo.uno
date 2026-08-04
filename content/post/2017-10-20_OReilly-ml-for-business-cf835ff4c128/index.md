@@ -22,7 +22,7 @@ keywords:
 recommendations:
   - /post/2021-04-24-ml-at-work-2nd-edition/
   - /post/2018-05-17_mlse-kickoff/
-  - /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/
+  - /post/2019-12-05-ibis2019-mlse/
 ---
 
 

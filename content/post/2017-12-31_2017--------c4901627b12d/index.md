@@ -20,8 +20,8 @@ keywords:
   - オライリー
 recommendations:
   - /post/2016-12-31-2016nian-wozhen-rifan-tute/
-  - /post/2021-12-31-2021-year-review/
   - /post/2020-12-31-2020-review/
+  - /post/2015-12-30-2015nian-wozhen-rifan-tute/
 ---
 
 

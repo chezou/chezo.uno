@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
   - /post/2014-06-21-julia100ben-notuku/
-  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
+  - /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/
 ---
 
 

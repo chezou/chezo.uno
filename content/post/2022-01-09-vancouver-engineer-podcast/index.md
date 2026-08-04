@@ -20,9 +20,9 @@ keywords:
   - 英会話
   - バンクーバー
 recommendations:
-  - /post/2018-06-19_goodbye-cloudera/
-  - /post/2026-04-17-layerxで働き始めました/
   - /post/2024-06-20-nappan-book-review/
+  - /post/2026-04-17-layerxで働き始めました/
+  - /post/2018-06-19_goodbye-cloudera/
 ---
 
 

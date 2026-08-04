@@ -27,8 +27,8 @@ keywords:
   - svm
   - coursera
 recommendations:
-  - /post/2018-05-17_mlse-kickoff/
   - /post/2019-12-05-ibis2019-mlse/
+  - /post/2018-05-17_mlse-kickoff/
   - /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/
 ---
 

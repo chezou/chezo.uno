@@ -27,8 +27,8 @@ keywords:
   - 編集
   - ヘルプ
 recommendations:
-  - /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/
   - /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/
+  - /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/
   - /post/2020-05-29_google-meetとyoutube-liveでオンラインミートアップの配信をした/
 ---
 

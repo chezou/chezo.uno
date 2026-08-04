@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2009-05-18-iphonetono1zhou-jian/
   - /post/2011-05-01-iphone-for-everybodyno2nian-fu-riwojie-chu-sitarapaketutoding-e-huratutonisikanaranakatuta/
-  - /post/2023-08-06-rakuten-mobile-activation/
+  - /post/2009-05-04-ad-es-wojie-yue-surutameni/
 ---
 
 

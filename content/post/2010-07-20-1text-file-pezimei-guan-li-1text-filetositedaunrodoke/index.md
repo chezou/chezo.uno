@@ -28,8 +28,8 @@ keywords:
   - 相互
 recommendations:
   - /post/2010-07-20-sinpoziumu-jiao-yu-nowei-lai-wotuo-kudian-zi-hua-jiao-cai-ut-etext-memo/
-  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
-  - /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/
+  - /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/
+  - /post/2010-07-30-dezitarujiao-ke-shu-jiao-cai-xie-yi-hui-she-li-sinpoziumu-can-jia-simasita/
 ---
 
 

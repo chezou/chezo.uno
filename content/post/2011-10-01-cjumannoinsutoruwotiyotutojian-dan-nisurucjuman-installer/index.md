@@ -28,8 +28,8 @@ keywords:
   - wrap
 recommendations:
   - /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/
-  - /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/
   - /post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/
+  - /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/
 ---
 
 

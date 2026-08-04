@@ -28,8 +28,8 @@ keywords:
   - lean
 recommendations:
   - /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/
+  - /post/2015-12-30-2015nian-wozhen-rifan-tute/
   - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
-  - /post/2025-09-19-review-fatigue/
 ---
 
 

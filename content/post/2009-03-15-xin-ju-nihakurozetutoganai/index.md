@@ -28,8 +28,8 @@ keywords:
   - 精度
 recommendations:
   - /post/2008-06-09-tuiniiphonedeng-chang/
+  - /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
   - /post/2005-05-19-vhsnei-zang-dvdpureya/
-  - /post/2009-07-23-du-shu-metanomian-dao-natokoro/
 ---
 
 

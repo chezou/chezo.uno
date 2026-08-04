@@ -28,8 +28,8 @@ keywords:
   - コンパイル
 recommendations:
   - /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/
-  - /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
   - /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/
+  - /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
 ---
 
 

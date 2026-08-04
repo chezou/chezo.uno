@@ -30,7 +30,7 @@ keywords:
 recommendations:
   - /post/2020-07-11-mlse-summer-workshop/
   - /post/2020-11-10-mlse-conference/
-  - /post/2019-12-05-ibis2019-mlse/
+  - /post/2018-05-17_mlse-kickoff/
 ---
 
 

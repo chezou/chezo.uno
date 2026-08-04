@@ -27,9 +27,9 @@ keywords:
   - 来年
   - 機会
 recommendations:
-  - /post/2023-12-30-2023-year-in-review/
-  - /post/2016-12-31-2016nian-wozhen-rifan-tute/
   - /post/2015-12-30-2015nian-wozhen-rifan-tute/
+  - /post/2016-12-31-2016nian-wozhen-rifan-tute/
+  - /post/2023-12-30-2023-year-in-review/
 ---
 
 

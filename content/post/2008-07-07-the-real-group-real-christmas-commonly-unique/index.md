@@ -27,9 +27,9 @@ keywords:
   - アカペラグループ
   - ノリ
 recommendations:
-  - /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/
   - /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/
   - /post/2008-07-05-rajaton/
+  - /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/
 ---
 
 
