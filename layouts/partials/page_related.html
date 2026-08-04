@@ -2,11 +2,14 @@
 <div class="article-widget content-widget-hr">
   <h3>{{ i18n "related" }}</h3>
   <ul>
-    {{ $candidates := where .Site.RegularPages "Type" "in" site.Params.mainSections }}
-    {{ $rec := apply .Params.recommendations "lower" "." }}
-    {{ $filtered := where $candidates "RelPermalink" "in" $rec }}
-    {{ range $filtered }}
+    {{/* prelims writes each entry as the lower-cased source directory path, so
+         look it up as a content path. Matching it against RelPermalink drops
+         every page whose directory holds a space or a non-ASCII character:
+         Hugo turns spaces into hyphens and percent-encodes the rest. */}}
+    {{ range .Params.recommendations }}
+    {{ with site.GetPage . }}
     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
     {{ end }}
   </ul>
 </div>
