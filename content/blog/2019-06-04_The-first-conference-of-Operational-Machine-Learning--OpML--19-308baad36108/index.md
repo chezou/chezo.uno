@@ -6,7 +6,7 @@ authors:
   - aki
 categories:
   - mlops
-  - machine_learning
+  - machine learning
 date: 2019-06-03 21:50:07-07:00
 description: I attended OpML ’19 is a conference for “Operational Machine Learning” held at Santa Clara on May 20th.
 title: 'The first conference of Operational Machine Learning: OpML ‘19'

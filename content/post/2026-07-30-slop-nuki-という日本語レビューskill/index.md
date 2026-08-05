@@ -7,7 +7,7 @@ lastmod: ''
 categories:
   - tech
 tags:
-  - AI
+  - ai
   - skill
 aliases: []
 draft: false

@@ -6,7 +6,7 @@ authors:
   - aki
 tags: []
 categories:
-  - Year review
+  - year review
 date: 2022-12-30 14:59:13-08:00
 lastmod: 2022-12-30 14:59:13-08:00
 featured: false

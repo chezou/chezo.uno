@@ -5,7 +5,7 @@ summary: ''
 date: 2019-11-28 21:58:00-08:00
 lastmod: 2020-08-08 09:40:00-07:00
 tags:
-  - NLP
+  - nlp
 authors:
   - aki
 keywords:

@@ -4,9 +4,9 @@ summary: Python/Ruby wrapper for KyTea
 authors:
   - aki
 tags:
-  - NLP
+  - nlp
 categories:
-  - NLP
+  - nlp
 date: 2017-12-01T18:45:52+09:00
 links:
   - type: site

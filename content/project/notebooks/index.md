@@ -7,7 +7,7 @@ tags:
   - misc
   - notebook
 categories:
-  - Jupyter notebook
+  - jupyter notebook
 date: 2019-12-01T18:49:31+09:00
 links:
   - type: code

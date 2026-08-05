@@ -4,7 +4,7 @@ aliases:
   - /post/google-meetとyoutube-liveてオンラインミートアップの配信をした
   - /post/2020-05-29_google-meetとyoutube-liveてオンラインミートアッフの配信をした/
 categories:
-  - Streaming
+  - streaming
 date: '2020-05-29 01:54:07-07:00'
 draft: false
 image:
@@ -13,9 +13,9 @@ image:
   focal_point: Smart
   preview_only: false
 tags:
-  - YouTube Live
-  - Streaming
-  - Gadget
+  - youtube live
+  - streaming
+  - gadget
 title: Google MeetとYouTube Liveでオンラインミートアップの配信をした
 keywords:
   - meet

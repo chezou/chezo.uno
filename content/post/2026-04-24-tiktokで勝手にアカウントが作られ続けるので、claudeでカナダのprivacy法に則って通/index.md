@@ -8,7 +8,7 @@ categories:
   - カナダ生活
 tags:
   - privacy
-  - Canada
+  - canada
 aliases:
   - /post/2026-04-24-tiktokて勝手にアカウントか作られ続けるのてclaudeてカナタのprivacy法に則って通/
 draft: false

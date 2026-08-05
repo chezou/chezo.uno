@@ -5,7 +5,7 @@ summary: ''
 date: 2025-12-09 22:30:00-08:00
 lastmod: ''
 tags:
-  - Staff Engineering
+  - staff engineer
   - leadership
   - engineering
   - career

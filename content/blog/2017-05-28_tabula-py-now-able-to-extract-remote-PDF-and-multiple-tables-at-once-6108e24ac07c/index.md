@@ -2,7 +2,7 @@
 aliases: [/blog/tabula-py-now-able-to-extract-remote-PDF-and-multiple-tables-at-once-6108e24ac07c,
   /blog/6108e24ac07c]
 authors: [aki]
-categories: [OSS, tabula]
+categories: [oss, tabula]
 date: 2017-05-27 19:18:39-07:00
 description: '(Note: Oct 7th, 2019)As of Oct. 2019, I launched a documentation site
   and Google Colab notebook for tabula-py. The FAQ would be good place…'

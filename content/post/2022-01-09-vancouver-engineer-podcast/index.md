@@ -6,7 +6,7 @@ date: 2022-06-09 00:15:00-07:00
 lastmod: 2022-12-16 15:54:00-08:00
 summary: バンクーバーのえんじに屋podcastに出演したので、話せなかったことを書きます。
 tags:
-  - Canada
+  - canada
   - podcast
 keywords:
   - 永住権

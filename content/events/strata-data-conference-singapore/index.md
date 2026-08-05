@@ -27,7 +27,7 @@ all_day: false
 publishDate: 2019-12-01T17:33:07+09:00
 
 authors: [aki]
-tags: [machine_learning, ml_systems]
+tags: [machine learning, ml system]
 
 # Is this a featured talk? (true/false)
 featured: false

@@ -5,7 +5,7 @@ date: 2019-12-08 07:36:00-08:00
 lastmod: 2019-12-08 07:44:00-08:00
 summary: fbprophetの予測結果のグラフをmatplotlibだけでplotする
 tags:
-  - Python
+  - python
 title: Facebook Prophetのplotをmodelオブジェクトなしでする
 keywords:
   - 訓練データ

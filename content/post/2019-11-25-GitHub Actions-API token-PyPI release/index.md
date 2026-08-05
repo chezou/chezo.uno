@@ -5,8 +5,8 @@ date: 2019-11-24 23:59:00-08:00
 lastmod: 2019-11-26 09:31:00-08:00
 summary: GitHub Actionsを使うとPythonのテストが便利でReleaseも自動でできる
 tags:
-  - GitHub
-  - Python
+  - github
+  - python
 title: GitHub ActionsでAPI tokenを使ってPyPIへリリースする
 keywords:
   - actions

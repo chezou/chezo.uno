@@ -14,8 +14,8 @@ date: 2019-12-01T17:33:00+09:00
 authors:
   - aki
 tags:
-  - machine_learning
-  - ml_ops
+  - machine learning
+  - mlops
 featured: false
 image:
   caption: ""

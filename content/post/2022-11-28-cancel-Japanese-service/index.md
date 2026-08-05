@@ -5,7 +5,7 @@ date: 2022-11-28 16:41:00-08:00
 lastmod: 2025-08-18 15:01:00-07:00
 summary: カナダでの日本のサービス解約の難易度をまとめました
 tags:
-  - Canada
+  - canada
 title: 日本のサービス解約RTA～カナダ編～
 keywords:
   - 日本

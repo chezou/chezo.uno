@@ -5,9 +5,9 @@ date: 2019-11-16 13:15:00-08:00
 lastmod: 2019-11-26 09:25:00-08:00
 summary: Booking.comの話題の論文から気になるところをメモ
 tags:
-  - MLOps
-  - MachineLearning
-  - Paper
+  - mlops
+  - machine learning
+  - paper
 title: '150 successful Machine Learning models: 6 lessons learned at Booking.comのメモ'
 keywords:
   - model

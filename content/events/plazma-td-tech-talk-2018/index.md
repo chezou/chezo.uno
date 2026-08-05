@@ -14,7 +14,7 @@ date: 2018-10-17T17:32:50+09:00
 authors:
   - aki
 tags:
-  - machine_learning
+  - machine learning
   - workflow
 featured: false
 image:

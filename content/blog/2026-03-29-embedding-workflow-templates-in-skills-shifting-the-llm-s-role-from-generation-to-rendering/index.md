@@ -6,10 +6,10 @@ date: 2026-03-28 18:23:00-07:00
 lastmod: ''
 categories:
   - agent
-  - LLM
+  - llm
 tags:
-  - LLM
-  - Development
+  - llm
+  - development
 draft: false
 featured: false
 image:

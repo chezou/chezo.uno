@@ -7,9 +7,9 @@ summary: ''
 date: 2026-03-20 18:03:00-07:00
 lastmod: 2026-03-20 20:30:00-07:00
 categories:
-  - AI Agent
+  - ai agent
 tags:
-  - Agent
+  - agent
 draft: false
 featured: false
 image: null

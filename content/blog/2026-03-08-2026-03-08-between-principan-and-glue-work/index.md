@@ -5,7 +5,7 @@ summary: ''
 date: 2026-03-08 13:07:00-07:00
 lastmod: ''
 tags:
-  - Staff Engineer
+  - staff engineer
 draft: false
 featured: true
 image:

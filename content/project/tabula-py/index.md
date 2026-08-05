@@ -9,7 +9,7 @@ tags:
   - pdf
   - tabula
 categories:
-  - OSS
+  - oss
 date: 2019-12-01T19:00:00+09:00
 links:
   - type: site

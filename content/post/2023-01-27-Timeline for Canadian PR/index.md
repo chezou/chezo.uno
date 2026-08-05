@@ -6,7 +6,7 @@ date: 2023-01-27 16:02:00-08:00
 lastmod: 2023-01-27 21:40:00-08:00
 summary: As a note of the Canadian PR timeline
 tags:
-  - Canada
+  - canada
 title: Timeline for Canadian PR
 keywords:
   - '2021'

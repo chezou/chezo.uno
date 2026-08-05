@@ -5,7 +5,7 @@ aliases:
 authors:
   - aki
 categories:
-  - Python
+  - python
 date: 2019-11-25 08:42:11-08:00
 description: Recently, I changed my CI from Travis to GitHub Actions. GitHub Actions is handy and useful for testing, publishing Python packages.
 title: How to release Python package from GitHub Actions

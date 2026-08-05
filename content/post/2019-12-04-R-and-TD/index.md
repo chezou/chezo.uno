@@ -2,8 +2,8 @@
 authors:
   - aki
 categories:
-  - R
-  - TreasureData
+  - r
+  - treasure data
 date: 2019-12-03 07:00:00-08:00
 draft: false
 featured: false
@@ -17,7 +17,7 @@ projects:
 subtitle: ''
 summary: RTDとRPrstoを使ってRからTreasure Dataにアクセスしてみよう
 tags:
-  - R
+  - r
 title: RとTreasure Data
 keywords:
   - rtd

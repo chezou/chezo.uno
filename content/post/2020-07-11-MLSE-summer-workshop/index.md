@@ -2,8 +2,8 @@
 authors:
   - aki
 categories:
-  - Machine Learning
-  - MLOps
+  - machine learning
+  - mlops
   - conference
 date: 2020-07-11 02:00:00-07:00
 draft: false
