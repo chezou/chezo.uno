@@ -6,8 +6,11 @@
     title    accessible title of the frame. Default: "Embedded page".
     height   height of the frame. Bare numbers are treated as px. Default: 600.
     resize   "true" to auto-fit the height to the embedded document. Only works
-             for same-origin (relative) src. Default: false, i.e. the frame keeps
-             `height` and scrolls internally — better for long documents.
+             for a site-relative src, i.e. one without a scheme or a leading
+             "//" — those are passed through untouched and never auto-fitted,
+             even when they happen to point at this site. Default: false, i.e.
+             the frame keeps `height` and scrolls internally, which is the
+             better fit for long documents.
     maxheight cap for the auto-fitted height. Only used when resize="true".
     link     "true"/"false". Show a link to open the page directly. Default: true.
     linktext label of that link. Default: "Open in a new tab".
@@ -22,7 +25,10 @@
 {{- if findRE `^[0-9.]+$` $height -}}
   {{- $height = printf "%spx" $height -}}
 {{- end -}}
-{{- $sameOrigin := hasPrefix $src "/" -}}
+{{- /* Anything carrying a scheme ("https:", "data:", …) or starting with "//"
+       is left as-is; everything else is a site path resolved against baseURL. */ -}}
+{{- $sameOrigin := not (findRE `^([a-zA-Z][a-zA-Z0-9+.-]*:|//)` $src) -}}
+{{- $url := cond $sameOrigin ($src | relURL) $src -}}
 {{- $resize := and $sameOrigin (eq (.Get "resize") "true") -}}
 {{- $maxheight := int (replaceRE `[^0-9]` "" (.Get "maxheight" | default "0")) -}}
 {{- $showLink := ne (.Get "link") "false" -}}
@@ -32,13 +38,13 @@
   {{- /* The wrapper owns the scrolling so that iOS Safari, which likes to expand
          iframes to their content height, still honours the fixed height. */ -}}
   <div style="overflow:auto;-webkit-overflow-scrolling:touch;border:1px solid #ddd;border-radius:6px;background:#fff;{{ if not $resize }}height:{{ $height }};{{ end }}">
-    <iframe id="{{ $id }}" src="{{ $src | relURL }}" title="{{ $title }}" loading="lazy"
+    <iframe id="{{ $id }}" src="{{ $url }}" title="{{ $title }}" loading="lazy"
       {{- with .Get "sandbox" }} sandbox="{{ . }}"{{ end }}
       style="display:block;width:100%;border:0;height:{{ if $resize }}{{ $height }}{{ else }}100%{{ end }};"></iframe>
   </div>
   {{- if $showLink }}
   <p style="margin-top:.25rem;font-size:.85em;text-align:right;">
-    <a href="{{ $src | relURL }}" target="_blank" rel="noopener">{{ $linktext }}</a>
+    <a href="{{ $url }}" target="_blank" rel="noopener">{{ $linktext }}</a>
   </p>
   {{- end }}
 </div>
