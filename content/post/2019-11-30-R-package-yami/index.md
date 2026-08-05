@@ -6,8 +6,8 @@ lastmod: 2019-12-17 09:49:00-08:00
 summary: CRANを捨ててGitHubに帰ろう
 tags:
   - engineering
-  - OSS
-  - R
+  - oss
+  - r
 title: Rパッケージ開発の闇
 keywords:
   - cran

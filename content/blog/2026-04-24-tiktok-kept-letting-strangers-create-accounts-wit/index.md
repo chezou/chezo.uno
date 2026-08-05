@@ -7,7 +7,7 @@ lastmod: ''
 categories: []
 tags:
   - privacy
-  - Canada
+  - canada
 draft: false
 featured: false
 image:

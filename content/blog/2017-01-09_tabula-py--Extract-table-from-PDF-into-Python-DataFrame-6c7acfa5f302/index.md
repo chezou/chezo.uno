@@ -6,7 +6,7 @@ aliases:
 authors:
   - aki
 categories:
-  - OSS
+  - oss
   - tabula
 date: 2017-01-08 21:09:08-08:00
 description: '(Note: Oct 7th, 2019)As of Oct. 2019, I launched a documentation site and Google Colab notebook for tabula-py. The FAQ would be good place…'

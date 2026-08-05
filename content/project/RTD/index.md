@@ -4,8 +4,8 @@ summary: Simple R client for Treasure Data
 authors:
   - aki
 tags:
-  - R
-  - TreasureData
+  - r
+  - treasure data
 categories:
   - client
 date: 2019-12-01T18:48:29+09:00

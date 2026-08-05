@@ -4,7 +4,7 @@ authors:
   - aki
 summary: kawasaki.rb10年目突入おめでとうございます！の振り返り
 tags:
-  - Community
+  - community
 date: 2022-06-18 13:25:00-07:00
 lastmod: 2022-06-24 19:51:00-07:00
 keywords:

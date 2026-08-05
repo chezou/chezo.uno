@@ -7,7 +7,7 @@ lastmod: ''
 categories: []
 tags:
   - 転職
-  - AI
+  - ai
 draft: false
 featured: false
 image:

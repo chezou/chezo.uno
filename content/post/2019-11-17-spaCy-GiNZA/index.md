@@ -6,7 +6,7 @@ lastmod: 2019-11-26 09:31:00-08:00
 summary: spaCyは使いやすいインターフェースが入門者にもとてもよさそう
 tags:
   - engineering
-  - NLP
+  - nlp
 title: spaCyとGiNZAでマストドンのトレンドワード抽出をしてみた
 keywords:
   - ginza

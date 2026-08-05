@@ -4,8 +4,8 @@ subtitle: Tackling Review Fatigue by Document Driven Agentic Coding
 date: 2025-09-19 21:26:00-07:00
 lastmod: 2025-09-19 21:26:00-07:00
 categories:
-  - AI
-  - LLM
+  - ai
+  - llm
 draft: false
 featured: false
 image:

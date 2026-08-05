@@ -8,7 +8,7 @@ tags:
   - notion
   - selenium
 categories:
-  - OSS
+  - oss
 date: 2023-09-01T18:00:00-07:00
 links:
   - type: code

@@ -7,7 +7,7 @@ lastmod: ''
 categories:
   - blog
 tags:
-  - CMS
+  - cms
   - blog
 draft: false
 featured: true

@@ -2,7 +2,7 @@
 aliases: [/blog/why-oss-based-machine-learning-is-good-3ab45a1a5e52, /blog/3ab45a1a5e52,
   /blog/2017-08-03_Why-OSS-based-machine-learning-is-good-3ab45a1a5e52/]
 authors: [aki]
-categories: [machine learning, OSS]
+categories: [machine learning, oss]
 date: 2017-08-02 20:56:59-07:00
 description: This article is translation of Japanese version.
 title: Why OSS based machine learning is good?

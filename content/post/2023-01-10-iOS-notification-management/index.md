@@ -5,8 +5,8 @@ date: 2023-01-10 16:58:00-08:00
 lastmod: 2023-01-10 17:20:00-08:00
 summary: iOS15からの集中モードを利用した休暇中の通知管理について
 tags:
-  - iOS
-  - Notification
+  - ios
+  - notification
 title: iOSでの休暇中の仕事の通知管理
 keywords:
   - 通知

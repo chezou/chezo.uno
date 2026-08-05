@@ -6,7 +6,7 @@ lastmod: 2019-11-16 06:58:00-08:00
 summary: Pythonからdigdag/Treasure Workflowを色々できます
 tags:
   - engineering
-  - OSS
+  - oss
 title: Pythonのdigdagクライアントtdworkflowを作った
 keywords:
   - digdag

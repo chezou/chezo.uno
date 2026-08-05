@@ -5,7 +5,7 @@ aliases:
 authors:
   - aki
 categories:
-  - OSS
+  - oss
   - tabula
 date: 2019-02-17 08:26:00-08:00
 description: This article is a repost of Patreon article published last December. I’m planning to bump up next version of tabula-py within few weeks.

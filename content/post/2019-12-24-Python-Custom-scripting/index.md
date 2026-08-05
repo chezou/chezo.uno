@@ -1,6 +1,6 @@
 ---
 authors: [aki]
-categories: [python, TreasureData]
+categories: [python, treasure data]
 date: 2019-12-23 07:00:00-08:00
 draft: false
 featured: false

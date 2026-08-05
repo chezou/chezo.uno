@@ -7,7 +7,7 @@ tags:
   - client
   - workflow
 categories:
-  - TreasureData
+  - treasure data
   - workflow
   - digdag
 date: 2019-12-01T18:48:33+09:00

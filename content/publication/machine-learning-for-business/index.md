@@ -18,8 +18,8 @@ abstract: First book for how to design Machine Learning systems and how to
 summary: ""
 tags:
   - machine learning
-  - ml_project
-  - ml_system
+  - ml project
+  - ml system
 categories:
   - machine learning
 featured: true

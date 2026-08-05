@@ -6,7 +6,7 @@ lastmod: 2019-11-17 08:56:00-08:00
 summary: digdagのworkflowを実行可能かチェックするためのポイントとcookiecutterの紹介
 tags:
   - engineering
-  - OSS
+  - oss
 title: digdagのworkflowをCIでrun throughする
 keywords:
   - workflow

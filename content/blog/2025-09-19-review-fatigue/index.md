@@ -4,8 +4,8 @@ subtitle: Does agentic coding increase review productivity?
 date: 2025-09-19 21:26:00-07:00
 lastmod: 2025-09-19 21:26:00-07:00
 categories:
-  - AI
-  - LLM
+  - ai
+  - llm
 draft: false
 featured: false
 image:
@@ -13,8 +13,8 @@ image:
 summury: Does agentic coding increase review productivity?
 tags:
   - development
-  - AI
-  - LLM
+  - ai
+  - llm
 keywords:
   - code
   - commit

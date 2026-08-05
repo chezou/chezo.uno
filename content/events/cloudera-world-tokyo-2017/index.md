@@ -15,7 +15,7 @@ authors:
   - aki
 tags:
   - machine learning
-  - ml_systems
+  - ml system
 featured: false
 image:
   caption: ""

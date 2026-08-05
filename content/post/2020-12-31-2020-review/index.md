@@ -2,7 +2,7 @@
 authors:
   - aki
 categories:
-  - Year review
+  - year review
 date: 2020-12-31 05:06:15-08:00
 draft: false
 featured: false
