@@ -19,10 +19,6 @@ image:
   placement: null
   preview_only: true
 cover: null
-recommendations:
-  - /post/2022-01-14-prelims-recommend-hugo/
-  - /post/2022-01-25-hugo-content-based-recommendation/
-  - /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
 ---
 
 このサイトでは、 [prelims-cli を使って関連記事を自前でレコメンド](https://chezo.uno/post/2022-01-25-hugo-content-based-recommendation/)している。prelims-cliはfrontmatterに色々と情報を付加できる[prelims](https://github.com/takuti/prelims/)をCLIで動くようにしたものである。
@@ -45,7 +41,7 @@ https://claude.ai/code/artifact/d92655d1-8d96-408c-95c3-f80e5e89deb1
 
 - 自分のサイトのブログ記事の関連に正解データがない
 - 代理指標として記事のタグ・カテゴリが同じものを推薦出来るかを見たが、タグ・カテゴリが付与されている数も少なかった
-- そんな指標で測ったので、日英両方とも既存モデルに対して大幅な改善は得られなかった（およそ誤差レベル）
+- そんな指標で測ったので、日英両方とも既存モデルに対して大幅な改善は得られなかった（指標の分解能が±5〜7ptで、比べていた差が2pt前後とおよそ誤差レベル）
 - むしろ、レコメンドに使う文字列長を伸ばしたほうが、英語は改善した（データをみたら英語のほうが文字数が多い記事が多かった）
 
 ![記事の文字数頻度分布](pasted-image-1785900995846.png "記事の文字数頻度分布")
@@ -61,4 +57,4 @@ https://claude.ai/code/artifact/d92655d1-8d96-408c-95c3-f80e5e89deb1
 
 1個目なんかは、環境構築系という意味では似ているなと感じる。2個目もHugoもMarkdownだしね、というので良いかなと感じた。
 
-こうしたことを鑑みて、日英は既存のモデルを維持することとし、他言語も計測できないのに入れてもなーということで諦めた。評価用の正解データがないと比較できないという当たり前の結果になった。Bekkoは速くて軽いのはとてもよいのだけど、実験を進めるうちにGHAのcache等の改善もした結果、そこまで気にならないなという気持ちになってしまったのもある。
+こうしたことを鑑みて、日英は既存のモデルを維持することとし、他言語も計測できないのに入れてもなーということで諦めた。評価用の正解データがないと比較できないという当たり前の結果になった。Bekkoは速くて軽いのはとてもよいのだけど、a25mは既存のモデルよりは遅かったし、実験を進めるうちにGHAのcache等の改善もした結果、統一しなくてもいいかなという気持ちになってしまったのもある。
