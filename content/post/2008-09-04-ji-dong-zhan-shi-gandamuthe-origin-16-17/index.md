@@ -27,9 +27,9 @@ keywords:
   - 後々
   - ない
 recommendations:
-  - /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/
-  - /post/2008-06-03-gao-wu-nai-yue/
-  - /post/2009-04-26-tiyanneruhasonomama-vol-dot-1/
+  - /post/2008-09-10-enzieruhato-27/
+  - /post/2008-06-22-bokurano-alternative/
+  - /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/
 ---
 
 

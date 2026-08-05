@@ -27,9 +27,9 @@ keywords:
   - festival
   - 苦しい
 recommendations:
-  - /post/2008-08-01-ono-lisa-best-2002-2006/
-  - /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/
-  - /post/2005-07-17-urayamasika/
+  - /post/2006-07-28-xia-nanode/
+  - /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/
+  - /post/2010-01-14-hueraranoziyosukan-vuokaruansanburu-kaperading-qi-gong-yan/
 ---
 
 

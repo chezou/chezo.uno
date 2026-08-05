@@ -27,9 +27,9 @@ keywords:
   - 原作
   - 小説
 recommendations:
-  - /post/2008-07-19-can-shu-gui-tou-mo-hong/
   - /post/2008-07-30-narutaru/
-  - /post/2008-07-13-lang-toxiang-xin-liao-1/
+  - /post/2008-07-19-can-shu-gui-tou-mo-hong/
+  - /post/2008-09-10-enzieruhato-27/
 ---
 
 

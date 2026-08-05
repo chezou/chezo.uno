@@ -28,8 +28,8 @@ keywords:
   - カンテレ
 recommendations:
   - /post/2008-07-05-rajaton/
-  - /post/2008-07-10-ris-a-la-malta/
-  - /post/2009-03-09-masafestanirajatonga/
+  - /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
+  - /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/
 ---
 
 

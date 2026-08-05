@@ -27,9 +27,9 @@ keywords:
   - 名前
   - 面々
 recommendations:
-  - /post/2008-07-10-ris-a-la-malta/
   - /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
-  - /post/2009-03-09-masafestanirajatonga/
+  - /post/2008-07-10-ris-a-la-malta/
+  - /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/
 ---
 
 

@@ -27,9 +27,9 @@ keywords:
   - 世界観
   - 事実
 recommendations:
-  - /post/2008-07-19-xi-nomo-nu-gasi-nda/
   - /post/2008-07-19-can-shu-gui-tou-mo-hong/
-  - /post/2008-09-06-feng-gaqiang-kuchui-iteiru/
+  - /post/2025-12-22-2025-12-22-neuro-diversity-book/
+  - /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/
 ---
 
 

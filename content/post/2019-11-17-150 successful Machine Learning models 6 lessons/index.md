@@ -21,9 +21,9 @@ keywords:
   - 'true'
   - 論文
 recommendations:
+  - /post/2026-08-04-ブログの推薦用軽量embedding-modelをbekkoに変えようとして、変えれなかった/
+  - /post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/
   - /post/2019-12-05-ibis2019-mlse/
-  - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
-  - /post/2016-05-29-sonomoderu-guo-xue-xi-siteruno-wei-xue-xi-nano-tokun-tutara/
 ---
 
 

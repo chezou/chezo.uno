@@ -28,8 +28,8 @@ keywords:
   - 現在
 recommendations:
   - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
-  - /post/2005-09-09-notonogai-zao/
-  - /post/2006-07-28-xia-nanode/
+  - /post/2008-10-05-hd53r-ver-dot-8wogou-ru/
+  - /post/2011-02-05-acer-aspire-1410wocrucial-realssd-c300niwai-fu-kedvdnasinihuan-zhuang-sita/
 ---
 
 

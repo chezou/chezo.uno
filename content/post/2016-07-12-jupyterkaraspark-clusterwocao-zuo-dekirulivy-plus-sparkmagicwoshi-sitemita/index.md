@@ -27,9 +27,9 @@ keywords:
   - local
   - cloudera
 recommendations:
+  - /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/
   - /post/2018-10-25_risecamp------ee65c2ef0c9e/
-  - /post/2020-07-16-google colaboratory-vs code(code-server)/
-  - /post/2019-11-25-github actions-api token-pypi release/
+  - /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/
 ---
 
 

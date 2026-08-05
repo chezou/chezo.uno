@@ -28,8 +28,8 @@ keywords:
   - 不足
 recommendations:
   - /post/2008-11-06-yin-lu-toyin-jie-noke-xue/
-  - /post/2008-06-15-ojin-nomian-qiang/
-  - /post/2008-10-10-luo-yu-bai-xuan-xia/
+  - /post/2008-10-19-jpopsaundonohe-xin-bu-fen-ga-shi-ha1tunokodojin-xing-dechu-lai-teita/
+  - /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/
 ---
 
 

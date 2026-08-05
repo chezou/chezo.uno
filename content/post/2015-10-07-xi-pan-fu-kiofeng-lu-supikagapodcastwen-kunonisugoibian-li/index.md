@@ -27,9 +27,9 @@ keywords:
   - 吸盤
   - 冷蔵庫
 recommendations:
-  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
-  - /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/
-  - /post/2005-10-07-tuinikita/
+  - /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/
+  - /post/2007-05-10-usbdewen-kerufm-slash-amrazio/
+  - /post/2020-04-03-microphone-for-remote-meeting/
 ---
 
 

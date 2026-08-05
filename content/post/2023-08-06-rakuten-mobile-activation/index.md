@@ -2,18 +2,35 @@
 title: 楽天モバイルを利用してiPhoneを海外で機種変するとSMS代がかかる
 subtitle: ''
 summary: ''
-authors: [aki]
+authors:
+  - aki
 tags: []
-categories: [misc]
+categories:
+  - misc
 date: 2023-08-06 16:50:23-07:00
 lastmod: 2023-08-06 16:50:23-07:00
 featured: false
 draft: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 projects: []
-keywords: [楽天モバイル, sms, アクティベーション, 海外, 機種変更, 料金, iphone, imessage, 回線, 請求]
-recommendations: [/post/2009-05-07-sayonarawillcom-sayonaraad-es/, /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/,
-  /post/2009-05-04-ad-es-wojie-yue-surutameni/]
+keywords:
+  - 楽天モバイル
+  - sms
+  - アクティベーション
+  - 海外
+  - 機種変更
+  - 料金
+  - iphone
+  - imessage
+  - 回線
+  - 請求
+recommendations:
+  - /post/2022-11-28-cancel-japanese-service/
+  - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
+  - /post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/
 ---
 
 

@@ -18,9 +18,9 @@ image:
   preview_only: false
   filename: pasted-image-1785114708826.png
 recommendations:
-  - /post/2026-03-28-montréalに10年以上ぶりに行った/
-  - /post/2025-08-23-summer-vacation/
+  - /post/2021-12-18-8-months-after-relocating-vancouver/
   - /post/2022-11-13-canada-good thing-bad things/
+  - /post/2021-12-15-relocated-to-vancouver/
 ---
 
 6月末から7月の頭にかけて、家族で北欧はスウェーデンとデンマークに旅行に行ってきた。きっかけは、kwappaさんが[podcast](https://listen.style/p/kwappa)で「いつでも行けると思ったら、色々な事情で行けなくなる。旅は今が一番ベストタイミング」みたいなことを言っていたのを聞いて、よっしゃ、と一念発起して昨年10月に航空券とホテルを手配した。家族全員で国外旅行するのはいつぞやに出張兼で行ったシンガポール以来である。

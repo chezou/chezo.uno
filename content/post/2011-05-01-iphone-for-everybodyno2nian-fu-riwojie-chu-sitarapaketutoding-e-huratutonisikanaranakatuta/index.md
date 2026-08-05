@@ -27,9 +27,9 @@ keywords:
   - 段階
   - everybody
 recommendations:
-  - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
   - /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/
-  - /post/2009-05-04-ad-es-wojie-yue-surutameni/
+  - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
+  - /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/
 ---
 
 

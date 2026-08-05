@@ -28,7 +28,7 @@ keywords:
   - 時代
 recommendations:
   - /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/
-  - /post/2008-10-10-luo-yu-bai-xuan-xia/
+  - /post/2008-08-11-mian-bai-ihodoyokufen-karuzhe-xue-si-xiang-nosubete/
   - /post/2008-09-10-enzieruhato-27/
 ---
 

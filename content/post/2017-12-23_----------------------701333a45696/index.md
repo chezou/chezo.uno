@@ -21,9 +21,9 @@ keywords:
   - パナソニック
   - 時間
 recommendations:
-  - /post/2025-08-23-summer-vacation/
   - /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/
-  - /post/2012-01-01-2012nian-nobao-fu/
+  - /post/2017-12-30_2017------------bbf834e065c5/
+  - /post/2025-08-23-summer-vacation/
 ---
 
 

@@ -27,9 +27,9 @@ keywords:
   - 思想
   - 具合
 recommendations:
-  - /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/
-  - /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/
+  - /post/2008-07-13-lang-toxiang-xin-liao-1/
   - /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/
+  - /post/2008-06-15-ojin-nomian-qiang/
 ---
 
 

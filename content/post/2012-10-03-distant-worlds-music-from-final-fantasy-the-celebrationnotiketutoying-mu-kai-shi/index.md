@@ -27,9 +27,9 @@ keywords:
   - 日程
   - music
 recommendations:
-  - /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/
   - /post/2012-10-05-dong-jing-gemusiyodemai-tuteitanosymphonic-fantasies-tokyo-nocdganetutodemai-eru/
-  - /post/2009-07-05-guan-dong-hagame-musichoihoida/
+  - /post/2010-09-11-press-start-2010xing-tutekita/
+  - /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/
 ---
 
 

@@ -27,9 +27,9 @@ keywords:
   - １６
   - １０
 recommendations:
-  - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
   - /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
-  - /post/2008-06-01-nantoiunu-li-noren/
+  - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
+  - /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/
 ---
 
 

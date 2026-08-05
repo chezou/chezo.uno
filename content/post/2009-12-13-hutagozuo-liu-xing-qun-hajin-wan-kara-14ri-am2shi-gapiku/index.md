@@ -27,9 +27,9 @@ keywords:
   - 午前
   - '2009'
 recommendations:
-  - /post/2026-03-28-montréalに10年以上ぶりに行った/
-  - /post/2005-07-17-urayamasika/
-  - /post/2008-06-03-er-du-qin-qian/
+  - /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/
+  - /post/2009-01-18-try-tonegamy-spacetoyou-tubeni/
+  - /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
 ---
 
 

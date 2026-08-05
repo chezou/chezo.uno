@@ -19,9 +19,9 @@ keywords:
   - いい
   - アメリカ
 recommendations:
-  - /post/2008-07-30-narutaru/
-  - /post/2008-06-01-nantoiunu-li-noren/
-  - /post/2009-05-12-konnitiha-iphone/
+  - /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/
+  - /post/2016-12-31-2016nian-wozhen-rifan-tute/
+  - /post/2009-08-30-rent-burodouetuawojian-telai-ta/
 ---
 
 

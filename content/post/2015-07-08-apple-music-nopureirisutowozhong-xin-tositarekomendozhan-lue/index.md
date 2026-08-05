@@ -28,8 +28,8 @@ keywords:
   - 影響
 recommendations:
   - /post/2015-10-27-netutohuritukusunoshi-dai-nihakontentunoshan-nimai-morenasasenaitamenohintogajie-matuteita/
+  - /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
   - /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/
-  - /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/
 ---
 
 

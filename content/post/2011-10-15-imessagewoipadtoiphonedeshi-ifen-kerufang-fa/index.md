@@ -27,9 +27,9 @@ keywords:
   - 複数
   - メッセージ
 recommendations:
-  - /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
-  - /post/2023-08-06-rakuten-mobile-activation/
-  - /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/
+  - /post/2009-05-18-iphonetono1zhou-jian/
+  - /post/2012-10-02-xiang-xiang-mosinakatutachang-wai-zhan-iphone-5toandroidnodui-jue-gakonnatokoromade-number-teamiphone-to-number-teamdroid-nozhan-i/
+  - /post/2023-01-10-ios-notification-management/
 ---
 
 

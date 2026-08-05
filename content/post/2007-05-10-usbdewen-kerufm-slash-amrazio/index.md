@@ -27,9 +27,9 @@ keywords:
   - １６
   - １０
 recommendations:
-  - /post/2005-10-07-tuinikita/
   - /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/
-  - /post/2006-08-26-nabinabi/
+  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
+  - /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
 ---
 
 

@@ -27,9 +27,9 @@ keywords:
   - '47'
   - cf
 recommendations:
-  - /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/
-  - /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/
-  - /post/2008-06-09-tuiniiphonedeng-chang/
+  - /post/2006-03-17-uhi/
+  - /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
+  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
 ---
 
 

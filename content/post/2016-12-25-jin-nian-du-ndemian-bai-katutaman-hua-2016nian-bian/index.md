@@ -28,8 +28,8 @@ keywords:
   - チャンス
 recommendations:
   - /post/2020-01-14-2019-best-comic/
-  - /post/2011-07-20-jkominoman-hua-biyuahaipaddemodu-meru/
-  - /post/2008-07-13-lang-toxiang-xin-liao-1/
+  - /post/2010-01-01-12yue-nidu-ndaben/
+  - /post/2021-12-31-2021-year-review/
 ---
 
 

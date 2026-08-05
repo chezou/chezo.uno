@@ -27,9 +27,9 @@ keywords:
   - calendar
   - メール
 recommendations:
+  - /post/2023-08-20-removed-slack-from-mobile/
   - /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/
-  - /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/
-  - /post/2023-01-10-ios-notification-management/
+  - /post/2009-05-18-iphonetono1zhou-jian/
 ---
 
 

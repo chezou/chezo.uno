@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/
   - /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/
-  - /post/2014-04-26-kawasaki-dot-rb-number-011-wokai-cui-simasita-number-kwskrb/
+  - /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
 ---
 
 

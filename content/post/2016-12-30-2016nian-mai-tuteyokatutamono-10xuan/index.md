@@ -27,8 +27,8 @@ keywords:
   - 発売日
   - hdmi
 recommendations:
-  - /post/2017-12-30_2017------------bbf834e065c5/
   - /post/2015-12-29-2015nian-nimai-tuteyokatutawu-matome/
+  - /post/2017-12-30_2017------------bbf834e065c5/
   - /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/
 ---
 

@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2009-03-15-masafestanokonsatoqing-bao-gachu-shi-memasita/
   - /post/2009-03-09-masafestanirajatonga/
-  - /post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/
+  - /post/2009-03-03-sok-bao-masa-festa/
 ---
 
 

@@ -27,9 +27,9 @@ keywords:
   - '05'
   - 移行
 recommendations:
-  - /post/2023-12-30-2023-year-in-review/
-  - /post/2012-01-01-2011-in-review/
-  - /post/2012-01-01-2012nian-nobao-fu/
+  - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
+  - /post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/
+  - /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
 ---
 
 

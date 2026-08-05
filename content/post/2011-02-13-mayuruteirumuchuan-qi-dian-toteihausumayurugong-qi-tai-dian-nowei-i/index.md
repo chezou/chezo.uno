@@ -28,8 +28,8 @@ keywords:
   - インストラクター
 recommendations:
   - /post/2010-09-04-tun-zu-xing-tutekimasita/
-  - /post/2009-09-24-motion-blue-yokohama/
-  - /post/2009-07-07-qi-xi-kiyandorunaito/
+  - /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/
+  - /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
 ---
 
 

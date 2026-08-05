@@ -21,8 +21,8 @@ keywords:
   - 検定
 recommendations:
   - /post/2021-04-24-ml-at-work-2nd-edition/
+  - /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/
   - /post/2018-05-17_mlse-kickoff/
-  - /post/2019-12-05-ibis2019-mlse/
 ---
 
 

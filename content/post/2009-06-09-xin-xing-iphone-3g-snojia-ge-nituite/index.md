@@ -28,8 +28,8 @@ keywords:
   - ちなみ
 recommendations:
   - /post/2009-05-04-ad-es-wojie-yue-surutameni/
-  - /post/2005-03-03-sugoi/
-  - /post/2011-04-30-ipad2totomoniwu-liao-wi-fisupotutowogetutosuruer-tunofang-fa/
+  - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
+  - /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/
 ---
 
 

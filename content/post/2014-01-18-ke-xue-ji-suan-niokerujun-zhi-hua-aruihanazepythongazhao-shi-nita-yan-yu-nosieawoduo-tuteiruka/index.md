@@ -27,9 +27,9 @@ keywords:
   - コード
   - 計算
 recommendations:
+  - /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/
   - /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/
-  - /post/2014-05-06-julia-vs-python-bitutokoinopusiyonnomontekarurosimiyuresiyon/
-  - /post/2017-08-26_python------------------dc8d8f2fe989/
+  - /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/
 ---
 
 

@@ -27,9 +27,9 @@ keywords:
   - 詳しく
   - 期待
 recommendations:
-  - /post/2006-07-28-xia-nanode/
-  - /post/2008-06-09-tuiniiphonedeng-chang/
-  - /post/2005-08-06-webkamera/
+  - /post/2008-09-14-hetudohonwu-se-sitahi/
+  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
+  - /post/2005-08-24-hetudohon-hetudohon/
 ---
 
 

@@ -27,9 +27,9 @@ keywords:
   - iphone
   - ため
 recommendations:
-  - /post/2015-10-19-batukibakininatuteitanexus5wo$40dexiu-li-sita/
-  - /post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/
   - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
+  - /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/
+  - /post/2009-11-14-iphonekesuwomai-ihuan-eta/
 ---
 
 

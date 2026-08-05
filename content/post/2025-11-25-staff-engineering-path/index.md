@@ -21,8 +21,8 @@ keywords:
   - 仕事
 recommendations:
   - /post/2026-03-07-2026-03-08-between-principal-and-glue-work/
+  - /post/2024-12-31-2024-year-in-review/
   - /post/2025-12-09-2025-12-09-principal-engineer-in-the-gene-of-ai/
-  - /post/2016-03-30-zhuan-zhi-simasita/
 ---
 
 オライリーから出ている「スタッフエンジニアの道」を [@riywo さん](https://about.me/riywo)を通じてご恵贈いただき、第1部と3部を読み終えてしずかなインターネットに書評を書いたのがおよそ一年前、そこからさらに1年かけて第2部を読み終えたので感想である。1年前に読んだ文は最後の方に貼っておく。

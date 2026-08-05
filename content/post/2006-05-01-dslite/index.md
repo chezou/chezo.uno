@@ -27,9 +27,9 @@ keywords:
   - lite
   - わけ
 recommendations:
-  - /post/2006-05-19-ds-de-tv/
+  - /post/2006-03-17-uhi/
   - /post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/
-  - /post/2005-08-06-webkamera/
+  - /post/2006-05-19-ds-de-tv/
 ---
 
 

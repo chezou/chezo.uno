@@ -28,8 +28,8 @@ keywords:
   - core solo
 recommendations:
   - /post/2005-09-09-notonogai-zao/
-  - /post/2006-03-17-uhi/
-  - /post/2005-08-06-webkamera/
+  - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
+  - /post/2009-11-14-iphonekesuwomai-ihuan-eta/
 ---
 
 

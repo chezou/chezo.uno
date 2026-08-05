@@ -28,9 +28,9 @@ keywords:
   - 通信
   - リアルタイム
 recommendations:
-  - /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/
   - /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/
-  - /post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/
+  - /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/
+  - /post/2013-06-29-kawasaki-dot-rb-number-001-di-1hui-mitoatupuwokai-cui-simasita-number-kwskrb/
 ---
 
 

@@ -27,9 +27,9 @@ keywords:
   - 悩み
   - 交換
 recommendations:
-  - /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/
-  - /post/2009-05-12-konnitiha-iphone/
   - /post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/
+  - /post/2009-05-12-konnitiha-iphone/
+  - /post/2009-05-18-iphonetono1zhou-jian/
 ---
 
 

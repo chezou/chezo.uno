@@ -27,9 +27,9 @@ keywords:
   - 片方
   - reference
 recommendations:
-  - /post/2008-10-05-hd53r-ver-dot-8wogou-ru/
   - /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/
-  - /post/2005-05-19-vhsnei-zang-dvdpureya/
+  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
+  - /post/2020-04-03-microphone-for-remote-meeting/
 ---
 
 

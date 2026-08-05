@@ -28,8 +28,8 @@ keywords:
   - title
 recommendations:
   - /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/
-  - /post/2019-11-18-digdag-ci/
-  - /post/2014-03-23-4sutetupudedoorkeepernikomentolan-wozhui-jia-surufang-fa/
+  - /post/2023-08-20-removed-slack-from-mobile/
+  - /post/2014-12-15-number-ingress-dehurutaimunopuroezientotochu-hui-tutahua/
 ---
 
 

@@ -25,7 +25,7 @@ keywords:
 recommendations:
   - /post/2022-02-07-foregin-tax/
   - /post/2022-11-28-cancel-japanese-service/
-  - /post/2022-01-09-vancouver-engineer-podcast/
+  - /post/2024-06-20-nappan-book-review/
 ---
 
 

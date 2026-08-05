@@ -28,8 +28,8 @@ keywords:
   - ホットエントリ
 recommendations:
   - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
-  - /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/
-  - /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/
+  - /post/2008-07-05-rajaton/
+  - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
 ---
 
 

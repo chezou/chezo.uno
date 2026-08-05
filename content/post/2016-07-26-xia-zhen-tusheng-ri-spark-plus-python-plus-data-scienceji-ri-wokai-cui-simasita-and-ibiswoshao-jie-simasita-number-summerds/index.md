@@ -27,9 +27,9 @@ keywords:
   - dmm
   - sql
 recommendations:
-  - /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
   - /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/
   - /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/
+  - /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
 ---
 
 

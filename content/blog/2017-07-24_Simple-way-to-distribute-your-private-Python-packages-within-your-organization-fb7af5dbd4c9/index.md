@@ -21,9 +21,9 @@ keywords:
   - package
   - simple
 recommendations:
-  - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
-  - /blog/2022-05-21_fastest-way-to-release-python-cli/
+  - /blog/2017-08-30_python-basics--package-management-462918458f96/
   - /blog/2020-03-05_py-operator-development-guide-for-python-users/
+  - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
 ---
 
 

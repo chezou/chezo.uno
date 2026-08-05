@@ -23,8 +23,8 @@ keywords:
   - scale
 recommendations:
   - /blog/2017-08-03_why-oss-based-machine-learning-is-good--3ab45a1a5e52/
+  - /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/
   - /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/
-  - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
 ---
 
 

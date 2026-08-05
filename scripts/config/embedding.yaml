@@ -1,3 +1,12 @@
+# One multilingual model for both languages. bekko-a25m needs no prefix and no
+# per-language switch; `language` is left out because with model_name set it
+# would decide nothing. The caches stay split per handler — prune() deletes
+# rows for articles it does not see, so a shared DB would have each handler
+# wiping the other's.
+#
+# The revision is pinned because it is part of the embedding cache key: without
+# it, an upstream re-upload would leave old vectors cached while new posts got
+# new ones, mixing two generations in one index without any sign of it.
 handlers:
   - target_path: "content/blog"
     ignore_files:
@@ -5,7 +14,10 @@ handlers:
     processors:
       - permalink_base: "/blog"
         type: embedding_recommender
-        language: en
+        model_name: "hotchpotch/bekko-embedding-v1-a25m"
+        model_file: "onnx/model.onnx"
+        revision: "44f0b8af0f487acd0ccf1a7cb7ae7a29a6dfc09c"
+        pooling: mean
         topk: 3
         cache_db: ".prelims_embedding_cache_en.db"
   - target_path: "content/post"
@@ -14,7 +26,9 @@ handlers:
     processors:
       - permalink_base: "/post"
         type: embedding_recommender
-        language: ja
-        prefix: "トピック: "
+        model_name: "hotchpotch/bekko-embedding-v1-a25m"
+        model_file: "onnx/model.onnx"
+        revision: "44f0b8af0f487acd0ccf1a7cb7ae7a29a6dfc09c"
+        pooling: mean
         topk: 3
         cache_db: ".prelims_embedding_cache_ja.db"

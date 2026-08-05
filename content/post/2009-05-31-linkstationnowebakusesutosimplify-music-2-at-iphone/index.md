@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2009-05-31 01:05:01-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2009-05-31 01:05:01-07:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: LinkStationのWebアクセスとSimplify Music 2@iPhone
-keywords: [アクセス, nas, simplify, music, 機能, web, 設定, 音楽, linkstation, buffalo]
-recommendations: [/post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/,
-  /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/, /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/]
+keywords:
+  - アクセス
+  - nas
+  - simplify
+  - music
+  - 機能
+  - web
+  - 設定
+  - 音楽
+  - linkstation
+  - buffalo
+recommendations:
+  - /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/
+  - /post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/
+  - /post/2009-05-18-iphonetono1zhou-jian/
 ---
 
 

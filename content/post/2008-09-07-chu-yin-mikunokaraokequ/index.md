@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2008-09-07 05:09:00-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2008-09-07 05:09:00-07:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: 初音ミクのカラオケ曲
-keywords: [はず, 登録, 無念, 歌い手, sound, pop, 作曲者, アーティスト, 無い, 名前]
-recommendations: [/post/2008-10-11-le-pu-gayu-sii/, /post/2007-07-02-minnanohe-chang/,
-  /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/]
+keywords:
+  - はず
+  - 登録
+  - 無念
+  - 歌い手
+  - sound
+  - pop
+  - 作曲者
+  - アーティスト
+  - 無い
+  - 名前
+recommendations:
+  - /post/2008-10-19-jpopsaundonohe-xin-bu-fen-ga-shi-ha1tunokodojin-xing-dechu-lai-teita/
+  - /post/2005-08-21-nan-sheng-he-chang/
+  - /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/
 ---
 
 

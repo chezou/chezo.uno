@@ -27,9 +27,9 @@ keywords:
   - 決定
   - 欲しく
 recommendations:
-  - /post/2008-10-28-mai-tutesimatuta/
+  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
   - /post/2008-10-05-hd53r-ver-dot-8wogou-ru/
-  - /post/2005-08-24-hetudohon-hetudohon/
+  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
 ---
 
 

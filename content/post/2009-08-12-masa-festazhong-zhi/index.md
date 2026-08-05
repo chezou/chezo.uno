@@ -27,8 +27,8 @@ keywords:
   - 悪い
   - 今後
 recommendations:
-  - /post/2009-03-09-masafestanirajatonga/
-  - /post/2011-04-07-soredemotake6halai-ri-suru/
+  - /post/2008-07-05-rajaton/
+  - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
   - /post/2009-03-03-sok-bao-masa-festa/
 ---
 

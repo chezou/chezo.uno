@@ -28,8 +28,8 @@ keywords:
   - 民主化
 recommendations:
   - /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
+  - /post/2016-03-30-zhuan-zhi-simasita/
   - /post/2015-12-30-2015nian-wozhen-rifan-tute/
-  - /post/2016-01-25-number-cookpadtechconf-2016dekutukupatudonoyan-jiu-mawarinoqu-rizu-miwofa-biao-simasita/
 ---
 
 

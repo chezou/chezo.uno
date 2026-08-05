@@ -27,9 +27,9 @@ keywords:
   - 音響
   - 抑制
 recommendations:
-  - /post/2007-10-27-waidoye-jing-toye-jing-terebi/
-  - /post/2008-11-08-liang-ishi-dai-ninatutanee/
-  - /post/2009-11-14-wu-xian-kontorora/
+  - /post/2005-08-24-hetudohon-hetudohon/
+  - /post/2008-10-05-hd53r-ver-dot-8wogou-ru/
+  - /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/
 ---
 
 

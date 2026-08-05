@@ -28,8 +28,8 @@ keywords:
   - 魅力
 recommendations:
   - /post/2006-07-28-xia-nanode/
-  - /post/2009-04-13-it-dont-mean-a-thing/
-  - /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/
+  - /post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/
+  - /post/2018-12-16_dialogues-with-computer-dce83c32e67e/
 ---
 
 

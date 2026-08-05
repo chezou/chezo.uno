@@ -20,8 +20,8 @@ keywords:
   - 国税庁
 recommendations:
   - /post/2021-11-09-tax-on-publication/
-  - /post/2021-12-31-2021-year-review/
   - /post/2022-01-09-vancouver-engineer-podcast/
+  - /post/2023-01-27-timeline for canadian pr/
 ---
 
 

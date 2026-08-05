@@ -28,8 +28,8 @@ keywords:
   - 商品
 recommendations:
   - /post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/
-  - /post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/
-  - /post/2018-11-14_subscription-2018/
+  - /post/2018-01-03_google-home--------------------------17607a9cc2b8/
+  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
 ---
 
 

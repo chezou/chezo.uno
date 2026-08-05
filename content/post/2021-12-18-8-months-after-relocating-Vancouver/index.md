@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2021-12-15-relocated-to-vancouver/
   - /post/2022-11-13-canada-good thing-bad things/
-  - /post/2022-12-30-2022-year-in-review/
+  - /post/2021-12-31-2021-year-review/
 ---
 
 

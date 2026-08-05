@@ -27,9 +27,9 @@ keywords:
   - ユーザ
   - リポジトリ
 recommendations:
-  - /post/2019-11-25-github actions-api token-pypi release/
-  - /post/2019-12-04-r-and-td/
-  - /post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/
+  - /post/2013-01-09-autopagerize-rubynomechanizeban-wozuo-tuta/
+  - /post/2019-11-30-r-package-yami/
+  - /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/
 ---
 
 

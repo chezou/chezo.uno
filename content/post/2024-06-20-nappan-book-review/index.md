@@ -30,7 +30,7 @@ keywords:
 recommendations:
   - /post/2022-01-09-vancouver-engineer-podcast/
   - /post/2018-06-19_goodbye-cloudera/
-  - /post/2026-04-17-layerxで働き始めました/
+  - /post/2023-12-30-2023-year-in-review/
 ---
 
 

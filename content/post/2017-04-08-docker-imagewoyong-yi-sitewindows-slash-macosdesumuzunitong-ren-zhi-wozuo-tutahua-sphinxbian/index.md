@@ -27,9 +27,9 @@ keywords:
   - macos
   - フォント
 recommendations:
-  - /post/2019-03-29_ngekkan-lambda-note-article/
   - /post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/
-  - /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/
+  - /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/
+  - /post/2019-03-29_ngekkan-lambda-note-article/
 ---
 
 

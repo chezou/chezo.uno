@@ -27,9 +27,9 @@ keywords:
   - 日常
   - ない
 recommendations:
-  - /post/2008-11-06-koredeiinoda/
-  - /post/2008-08-26-akihabara-at-deep/
-  - /post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/
+  - /post/2008-09-10-enzieruhato-27/
+  - /post/2008-07-06-nodamekantabire18-20/
+  - /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/
 ---
 
 

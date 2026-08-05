@@ -28,8 +28,8 @@ keywords:
   - cto
 recommendations:
   - /post/2016-12-31-2016nian-wozhen-rifan-tute/
-  - /post/2015-12-30-2015nian-wozhen-rifan-tute/
-  - /post/2023-12-30-2023-year-in-review/
+  - /post/2014-12-31-2014nian-wozhen-rifan-tute/
+  - /post/2026-03-31-treasure-dataを退職しました/
 ---
 
 

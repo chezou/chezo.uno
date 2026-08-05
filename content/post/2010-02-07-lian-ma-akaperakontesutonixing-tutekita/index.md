@@ -27,8 +27,8 @@ keywords:
   - アカペラ
   - 宗教
 recommendations:
-  - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
-  - /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/
+  - /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/
+  - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
   - /post/2008-07-05-rajaton/
 ---
 

@@ -18,9 +18,9 @@ keywords:
   - エンジニア
   - 英語
 recommendations:
-  - /post/2016-03-30-zhuan-zhi-simasita/
-  - /post/2026-04-17-layerxで働き始めました/
   - /post/2022-01-09-vancouver-engineer-podcast/
+  - /post/2016-03-30-zhuan-zhi-simasita/
+  - /post/2017-01-01-fei-ying-yu-neiteibunitotutenoossnomentenansukosuto/
 ---
 
 

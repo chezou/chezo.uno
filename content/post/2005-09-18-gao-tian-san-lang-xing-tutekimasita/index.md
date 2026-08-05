@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/
   - /post/2005-08-21-nan-sheng-he-chang/
-  - /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/
+  - /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
 ---
 
 

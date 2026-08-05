@@ -27,9 +27,9 @@ keywords:
   - ストーリー
   - canon
 recommendations:
-  - /post/2005-08-06-webkamera/
-  - /post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/
+  - /post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/
   - /post/2010-11-07-instagr-dot-amgamian-bai-i/
+  - /post/2009-10-10-ceatecitutekita/
 ---
 
 

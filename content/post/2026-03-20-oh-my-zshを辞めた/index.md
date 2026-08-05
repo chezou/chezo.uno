@@ -10,9 +10,9 @@ draft: false
 featured: false
 image: null
 recommendations:
-  - /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/
-  - /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/
-  - /post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/
+  - /post/2017-01-01-fei-ying-yu-neiteibunitotutenoossnomentenansukosuto/
+  - /post/2026-07-30-slop-nuki-という日本語レビューskill/
+  - /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/
 ---
 
 OMZは特に何も考えなくても楽に設定できたので使い続けていたが、GH Copilotなどでshell起動が重いと怒られるようになっていたところ、joker1007さんのこんな投稿を見かけた。

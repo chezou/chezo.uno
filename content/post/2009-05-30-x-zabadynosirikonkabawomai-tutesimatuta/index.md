@@ -27,9 +27,9 @@ keywords:
   - 痛感
   - ポスト
 recommendations:
-  - /post/2018-11-14_subscription-2018/
   - /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/
-  - /post/2008-09-14-hetudohonwu-se-sitahi/
+  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
+  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
 ---
 
 

@@ -28,8 +28,8 @@ keywords:
   - isbn
 recommendations:
   - /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/
-  - /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/
-  - /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/
+  - /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/
+  - /post/2008-08-11-mian-bai-ihodoyokufen-karuzhe-xue-si-xiang-nosubete/
 ---
 
 

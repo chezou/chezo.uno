@@ -28,8 +28,8 @@ keywords:
   - エレクトロニクス
 recommendations:
   - /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/
-  - /post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa/
   - /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/
+  - /post/2015-11-22-idcfkuraudono500yuan-sabadepodcast-serverwohazimete8keyue-gajing-timasita/
 ---
 
 

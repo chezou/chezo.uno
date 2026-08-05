@@ -20,9 +20,9 @@ keywords:
   - huge
   - csv
 recommendations:
-  - /blog/2022-01-25_hugo-content-based-recommendation/
   - /blog/2025-08-24-configured-pages-cms/
-  - /blog/2026-03-19-migrated-from-pages-cms-to-sveltia-cms/
+  - /blog/2022-01-25_hugo-content-based-recommendation/
+  - /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/
 ---
 
 

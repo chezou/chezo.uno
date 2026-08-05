@@ -28,8 +28,8 @@ keywords:
   - ea
 recommendations:
   - /post/2011-02-13-mayuruteirumuchuan-qi-dian-toteihausumayurugong-qi-tai-dian-nowei-i/
-  - /post/2009-07-11-masa-festanotiketutogalai-ta/
-  - /post/2009-09-24-motion-blue-yokohama/
+  - /post/2008-06-03-gao-wu-nai-yue/
+  - /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/
 ---
 
 

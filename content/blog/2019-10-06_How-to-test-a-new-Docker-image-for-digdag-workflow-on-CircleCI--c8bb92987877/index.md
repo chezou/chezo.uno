@@ -22,7 +22,7 @@ keywords:
 recommendations:
   - /blog/2020-03-05_py-operator-development-guide-for-python-users/
   - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
-  - /blog/2017-08-02_how-to-run-cloudera-director-on-your-macos-windows-10-710f82aa1d63/
+  - /blog/2022-05-21_fastest-way-to-release-python-cli/
 ---
 
 

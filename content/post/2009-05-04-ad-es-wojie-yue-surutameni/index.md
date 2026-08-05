@@ -28,8 +28,8 @@ keywords:
   - ない
 recommendations:
   - /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/
-  - /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/
   - /post/2005-04-23-willcom/
+  - /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/
 ---
 
 

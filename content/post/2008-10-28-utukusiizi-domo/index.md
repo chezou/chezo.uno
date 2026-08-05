@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2008-08-26-akihabara-at-deep/
   - /post/2008-06-15-gui-cai-xian-ru/
-  - /post/2008-07-19-can-shu-gui-tou-mo-hong/
+  - /post/2008-11-18-ai-gainaibu-wu/
 ---
 
 

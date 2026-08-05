@@ -27,9 +27,9 @@ keywords:
   - 伏線
   - 辛く
 recommendations:
-  - /post/2008-07-06-nodamekantabire18-20/
-  - /post/2008-07-19-xi-nomo-nu-gasi-nda/
-  - /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/
+  - /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/
+  - /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/
+  - /post/2008-11-18-ai-gainaibu-wu/
 ---
 
 

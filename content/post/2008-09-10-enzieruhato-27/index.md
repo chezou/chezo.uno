@@ -27,9 +27,9 @@ keywords:
   - 良かっ
   - スコア
 recommendations:
-  - /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/
-  - /post/2008-07-19-xi-nomo-nu-gasi-nda/
-  - /post/2008-11-06-koredeiinoda/
+  - /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/
+  - /post/2008-06-22-bokurano-alternative/
+  - /post/2008-06-15-gui-cai-xian-ru/
 ---
 
 

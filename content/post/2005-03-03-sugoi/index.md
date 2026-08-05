@@ -21,9 +21,9 @@ keywords:
   - '3000'
   - 写真
 recommendations:
-  - /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/
-  - /post/2005-04-23-willcom/
-  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
+  - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
+  - /post/2009-05-04-ad-es-wojie-yue-surutameni/
+  - /post/2005-07-11-w-sim/
 ---
 
 

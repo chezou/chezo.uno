@@ -27,9 +27,9 @@ keywords:
   - real
   - live
 recommendations:
-  - /post/2008-10-11-le-pu-gayu-sii/
-  - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
   - /post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/
+  - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
+  - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
 ---
 
 

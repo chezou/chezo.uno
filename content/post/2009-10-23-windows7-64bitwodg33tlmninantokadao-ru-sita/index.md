@@ -28,8 +28,8 @@ keywords:
   - intel
 recommendations:
   - /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/
-  - /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/
-  - /post/2009-11-14-wu-xian-kontorora/
+  - /post/2019-11-29-mecab-python3/
+  - /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/
 ---
 
 

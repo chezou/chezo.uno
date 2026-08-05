@@ -28,8 +28,8 @@ keywords:
   - 最新刊
 recommendations:
   - /post/2008-08-11-nodame21juan/
+  - /post/2010-01-01-12yue-nidu-ndaben/
   - /post/2008-06-03-gao-wu-nai-yue/
-  - /post/2008-09-08-luck-stealer-2/
 ---
 
 

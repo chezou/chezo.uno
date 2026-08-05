@@ -27,9 +27,9 @@ keywords:
   - 作品
   - isbn
 recommendations:
-  - /post/2008-07-06-nodamekantabire18-20/
   - /post/2008-07-15-kupidonoe-xi-hong-yu-oisiikohinoru-refang-meng-noatosaki/
-  - /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/
+  - /post/2008-07-06-nodamekantabire18-20/
+  - /post/2008-07-13-lang-toxiang-xin-liao-1/
 ---
 
 

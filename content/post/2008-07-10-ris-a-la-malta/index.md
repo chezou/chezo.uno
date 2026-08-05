@@ -28,8 +28,8 @@ keywords:
   - こと
 recommendations:
   - /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/
-  - /post/2008-07-09-press-startdang-xuan-simasita/
   - /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/
+  - /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
 ---
 
 

@@ -27,9 +27,9 @@ keywords:
   - トーク
   - 昨日
 recommendations:
-  - /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/
   - /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
   - /post/2008-07-10-ris-a-la-malta/
+  - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
 ---
 
 

@@ -18,9 +18,9 @@ keywords:
   - 手順
   - usr
 recommendations:
-  - /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
-  - /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/
-  - /post/2017-08-26_python------------------dc8d8f2fe989/
+  - /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/
+  - /post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/
+  - /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/
 ---
 
 

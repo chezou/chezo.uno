@@ -18,9 +18,9 @@ image:
   preview_only: false
   filename: IMG_3203.jpeg
 recommendations:
-  - /post/2021-12-18-8-months-after-relocating-vancouver/
   - /post/2021-12-15-relocated-to-vancouver/
-  - /post/2022-12-30-2022-year-in-review/
+  - /post/2021-12-18-8-months-after-relocating-vancouver/
+  - /post/2022-11-13-canada-good thing-bad things/
 ---
 
 3月の上旬にworkationとして友人を訪ねがてらMontréalとOttawaに数日行ってきた。

@@ -27,9 +27,9 @@ keywords:
   - '88'
   - '43'
 recommendations:
+  - /post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/
   - /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
-  - /post/2006-05-01-dslite/
-  - /post/2009-03-09-masafestanirajatonga/
+  - /post/2005-09-09-notonogai-zao/
 ---
 
 

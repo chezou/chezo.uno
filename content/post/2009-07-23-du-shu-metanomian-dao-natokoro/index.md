@@ -28,7 +28,7 @@ keywords:
   - wordpress
 recommendations:
   - /post/2009-05-16-du-shu-metahazimemasita/
-  - /post/2009-06-11-iphoneniwang-mukoto/
+  - /post/2010-01-01-12yue-nidu-ndaben/
   - /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/
 ---
 

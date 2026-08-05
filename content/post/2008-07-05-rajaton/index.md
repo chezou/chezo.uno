@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2009-03-09-masafestanirajatonga/
   - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
-  - /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/
+  - /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
 ---
 
 

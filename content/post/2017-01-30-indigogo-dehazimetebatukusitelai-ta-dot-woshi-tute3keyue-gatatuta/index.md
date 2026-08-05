@@ -27,9 +27,9 @@ keywords:
   - www
   - '20'
 recommendations:
-  - /post/2009-10-18-vaio-xnixin-tokimeku/
-  - /post/2008-09-14-hetudohonwu-se-sitahi/
-  - /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/
+  - /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/
+  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
+  - /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
 ---
 
 

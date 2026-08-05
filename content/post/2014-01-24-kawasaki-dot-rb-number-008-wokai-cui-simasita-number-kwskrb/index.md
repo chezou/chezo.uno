@@ -28,9 +28,9 @@ keywords:
   - パーフェクト
   - python
 recommendations:
-  - /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/
   - /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/
-  - /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/
+  - /post/2013-10-06-kawasaki-dot-rb-number-003wokai-cui-simasita-number-kwskrb/
+  - /post/2014-01-24-kawasaki-dot-rb-number-007-wokai-cui-simasita-number-kwskrb/
 ---
 
 

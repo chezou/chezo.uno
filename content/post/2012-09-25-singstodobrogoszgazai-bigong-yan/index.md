@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2008-10-28-sings-2008-with-steve-dobrogosz/
   - /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/
-  - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
+  - /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/
 ---
 
 

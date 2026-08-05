@@ -27,9 +27,9 @@ keywords:
   - ３０
   - １６
 recommendations:
-  - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
-  - /post/2005-07-17-urayamasika/
   - /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/
+  - /post/2005-07-17-urayamasika/
+  - /post/2005-08-21-nan-sheng-he-chang/
 ---
 
 

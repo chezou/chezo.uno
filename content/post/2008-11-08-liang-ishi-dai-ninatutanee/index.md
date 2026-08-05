@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2009-07-05-guan-dong-hagame-musichoihoida/
   - /post/2010-09-11-press-start-2010xing-tutekita/
-  - /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/
+  - /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
 ---
 
 

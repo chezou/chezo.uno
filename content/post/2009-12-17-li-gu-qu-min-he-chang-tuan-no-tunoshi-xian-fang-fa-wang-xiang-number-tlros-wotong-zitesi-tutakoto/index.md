@@ -27,9 +27,9 @@ keywords:
   - twitterアカウント
   - summer
 recommendations:
-  - /post/2005-08-21-nan-sheng-he-chang/
-  - /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/
-  - /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/
+  - /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/
+  - /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/
+  - /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
 ---
 
 

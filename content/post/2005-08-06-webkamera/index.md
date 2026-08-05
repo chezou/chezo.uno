@@ -28,8 +28,8 @@ keywords:
   - '10'
 recommendations:
   - /post/2005-04-23-willcom/
-  - /post/2018-11-14_subscription-2018/
-  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
+  - /post/2005-07-11-w-sim/
+  - /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/
 ---
 
 

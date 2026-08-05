@@ -28,8 +28,8 @@ keywords:
   - 戦い
 recommendations:
   - /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/
-  - /post/2019-06-04_ngekkan-party/
-  - /post/2026-04-17-layerxで働き始めました/
+  - /post/2022-01-09-vancouver-engineer-podcast/
+  - /post/2016-12-31-2016nian-wozhen-rifan-tute/
 ---
 
 

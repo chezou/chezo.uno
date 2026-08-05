@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2009-07-07-qi-xi-kiyandorunaito/
   - /post/2009-11-14-iphonekesuwomai-ihuan-eta/
-  - /post/2010-11-13-ye-novuenetuia/
+  - /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/
 ---
 
 

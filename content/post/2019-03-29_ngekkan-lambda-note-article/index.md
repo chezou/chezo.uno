@@ -21,8 +21,8 @@ keywords:
   - pdf
 recommendations:
   - /post/2019-06-04_ngekkan-party/
-  - /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/
-  - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
+  - /post/2025-09-19-review-fatigue/
+  - /post/2018-05-17_mlse-kickoff/
 ---
 
 

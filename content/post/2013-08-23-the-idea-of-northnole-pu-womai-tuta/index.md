@@ -28,8 +28,8 @@ keywords:
   - アレンジ
 recommendations:
   - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
+  - /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
   - /post/2008-10-11-le-pu-gayu-sii/
-  - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
 ---
 
 

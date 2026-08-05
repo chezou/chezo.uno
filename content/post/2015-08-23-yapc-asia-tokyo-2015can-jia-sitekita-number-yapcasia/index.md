@@ -28,8 +28,8 @@ keywords:
   - 技術
 recommendations:
   - /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/
-  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
-  - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
+  - /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/
+  - /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/
 ---
 
 

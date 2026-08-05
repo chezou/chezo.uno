@@ -27,7 +27,7 @@ keywords:
   - とき
   - ない
 recommendations:
-  - /post/2008-06-03-er-du-qin-qian/
+  - /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
   - /post/2005-07-17-urayamasika/
   - /post/2006-07-28-xia-nanode/
 ---

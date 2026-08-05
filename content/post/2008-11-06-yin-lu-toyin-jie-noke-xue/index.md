@@ -28,8 +28,8 @@ keywords:
   - 数学
 recommendations:
   - /post/2009-12-23-zui-xiang-xie-yue-zhu-jue-dui-yin-gan-wodu-liao-sita/
-  - /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/
-  - /post/2008-10-10-luo-yu-bai-xuan-xia/
+  - /post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/
+  - /post/2014-06-21-julia100ben-notuku/
 ---
 
 

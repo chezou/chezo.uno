@@ -27,7 +27,7 @@ keywords:
   - おかげ
   - symbolic
 recommendations:
-  - /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/
+  - /post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/
   - /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
   - /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
 ---

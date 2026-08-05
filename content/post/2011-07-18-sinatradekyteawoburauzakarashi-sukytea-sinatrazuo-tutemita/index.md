@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/
   - /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/
-  - /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/
+  - /post/2012-11-10-websocketwoshi-tuteriarutaimunixing-tai-su-jie-xi-wosurumorph-websocketwozuo-tutemita/
 ---
 
 

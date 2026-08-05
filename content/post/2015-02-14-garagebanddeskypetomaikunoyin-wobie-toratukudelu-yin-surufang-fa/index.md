@@ -27,9 +27,9 @@ keywords:
   - png
   - 自分
 recommendations:
-  - /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
   - /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/
-  - /post/2020-05-29_google-meetとyoutube-liveでオンラインミートアップの配信をした/
+  - /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
+  - /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/
 ---
 
 

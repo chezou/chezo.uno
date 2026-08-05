@@ -27,9 +27,9 @@ keywords:
   - cc
   - 自作
 recommendations:
-  - /post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/
-  - /post/2013-08-03-kawasaki-dot-rb-number-002-kai-cui-simasita-number-kwskrb/
-  - /post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/
+  - /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/
+  - /post/2015-08-23-yapc-asia-tokyo-2015can-jia-sitekita-number-yapcasia/
+  - /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
 ---
 
 

@@ -27,9 +27,9 @@ keywords:
   - シンポジウム
   - 期待
 recommendations:
-  - /post/2009-07-11-masa-festanotiketutogalai-ta/
   - /post/2008-07-09-press-startdang-xuan-simasita/
-  - /post/2008-11-08-liang-ishi-dai-ninatutanee/
+  - /post/2010-09-11-press-start-2010xing-tutekita/
+  - /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/
 ---
 
 

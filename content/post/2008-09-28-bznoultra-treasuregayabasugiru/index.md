@@ -28,8 +28,8 @@ keywords:
   - 手元
 recommendations:
   - /post/2008-08-01-ono-lisa-best-2002-2006/
-  - /post/2009-04-13-it-dont-mean-a-thing/
-  - /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/
+  - /post/2009-11-26-the-real-album/
+  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
 ---
 
 

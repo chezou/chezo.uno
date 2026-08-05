@@ -21,7 +21,7 @@ keywords:
   - 機能
 recommendations:
   - /post/2023-08-20-removed-slack-from-mobile/
-  - /post/2016-11-26-icloudnokarendanilai-ruibentosupamuwobi-kerutamenoshe-ding-bian-geng/
+  - /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/
   - /post/2009-05-18-iphonetono1zhou-jian/
 ---
 

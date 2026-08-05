@@ -28,8 +28,8 @@ keywords:
   - サービス
 recommendations:
   - /post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/
-  - /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/
-  - /post/2018-11-14_subscription-2018/
+  - /post/2018-06-27_internet-for-kids/
+  - /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/
 ---
 
 

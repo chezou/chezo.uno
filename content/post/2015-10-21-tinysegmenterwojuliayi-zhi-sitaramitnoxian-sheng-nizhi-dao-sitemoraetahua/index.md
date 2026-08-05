@@ -28,8 +28,8 @@ keywords:
   - 最適化
 recommendations:
   - /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/
-  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
-  - /post/2014-06-21-julia100ben-notuku/
+  - /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/
+  - /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
 ---
 
 

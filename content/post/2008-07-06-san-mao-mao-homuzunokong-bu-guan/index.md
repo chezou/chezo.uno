@@ -27,9 +27,9 @@ keywords:
   - 文章
   - 子供
 recommendations:
-  - /post/2008-09-06-feng-gaqiang-kuchui-iteiru/
-  - /post/2008-07-19-xi-nomo-nu-gasi-nda/
-  - /post/2008-06-15-ojin-nomian-qiang/
+  - /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/
+  - /post/2008-07-13-lang-toxiang-xin-liao-1/
+  - /post/2013-12-08-yu-gan-yarizumugale-siihatutosuruhui-ben-3ce/
 ---
 
 

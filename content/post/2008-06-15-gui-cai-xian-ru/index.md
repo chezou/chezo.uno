@@ -28,8 +28,8 @@ keywords:
   - 驚き
 recommendations:
   - /post/2008-08-26-akihabara-at-deep/
-  - /post/2008-07-19-xi-nomo-nu-gasi-nda/
-  - /post/2008-09-06-feng-gaqiang-kuchui-iteiru/
+  - /post/2008-10-28-utukusiizi-domo/
+  - /post/2008-11-18-ai-gainaibu-wu/
 ---
 
 

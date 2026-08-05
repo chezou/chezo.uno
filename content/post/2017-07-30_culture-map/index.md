@@ -19,8 +19,8 @@ keywords:
   - 時間
 recommendations:
   - /post/2022-01-09-vancouver-engineer-podcast/
-  - /post/2024-06-20-nappan-book-review/
   - /post/2014-12-29-she-nei-delean-analyticsdu-shu-hui-wozhong-emasita/
+  - /post/2018-06-19_goodbye-cloudera/
 ---
 
 

@@ -27,9 +27,9 @@ keywords:
   - acapuluco
   - 相澤直人
 recommendations:
-  - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
   - /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
-  - /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/
+  - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
+  - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
 ---
 
 

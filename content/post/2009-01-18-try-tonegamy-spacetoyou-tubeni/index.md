@@ -27,9 +27,9 @@ keywords:
   - blog
   - アカペラ
 recommendations:
-  - /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/
-  - /post/2012-11-17-11-slash-28nithe-real-groupnoniyuarubamugachu-ru/
-  - /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/
+  - /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/
+  - /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
+  - /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/
 ---
 
 

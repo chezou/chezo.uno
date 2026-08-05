@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/
   - /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/
-  - /post/2016-12-01-rubydeshen-ceng-xue-xi-woshi-tutayin-sheng-he-cheng-amazon-pollywoshi-tutewebsaitonodu-mishang-geyin-sheng-he-cheng-sitemita/
+  - /post/2011-04-09-eritukuuitekashi-yu-ding-tong-rilai-ri/
 ---
 
 

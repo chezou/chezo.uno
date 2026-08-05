@@ -27,9 +27,9 @@ keywords:
   - 感じ
   - 欲しく
 recommendations:
-  - /post/2005-10-07-tuinikita/
-  - /post/2008-06-25-xin-meng-eruhetudohondu-ben/
-  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
+  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
+  - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
+  - /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
 ---
 
 

@@ -31,8 +31,8 @@ keywords:
   - 機械学習
 recommendations:
   - /post/2022-07-15-finished-mlse-infra-wg/
-  - /post/2020-11-10-mlse-conference/
   - /post/2018-05-17_mlse-kickoff/
+  - /post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/
 ---
 
 

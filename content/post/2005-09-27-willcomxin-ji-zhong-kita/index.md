@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2005-09-27 14:47:06-07:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2005-09-27 14:47:06-07:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: WILLCOM新機種ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!!
-keywords: [phs, 機種変, 機種, flash, 予想, java, 論文, pdf, 高い, 便利]
-recommendations: [/post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/, /post/2009-10-18-vaio-xnixin-tokimeku/,
-  /post/2005-04-23-willcom/]
+keywords:
+  - phs
+  - 機種変
+  - 機種
+  - flash
+  - 予想
+  - java
+  - 論文
+  - pdf
+  - 高い
+  - 便利
+recommendations:
+  - /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/
+  - /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/
+  - /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/
 ---
 
 

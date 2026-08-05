@@ -27,9 +27,9 @@ keywords:
   - ime
   - anker
 recommendations:
+  - /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
   - /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/
-  - /post/2011-11-26-zheng-gui-biao-xian-raiburarire2nojian-dan-nashi-ifang-matome/
-  - /post/2016-10-29_homebrew-----iruby---------------6a02e5194ff2/
+  - /post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/
 ---
 
 

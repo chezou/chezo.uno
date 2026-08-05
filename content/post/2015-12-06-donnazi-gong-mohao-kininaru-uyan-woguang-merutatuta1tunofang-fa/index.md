@@ -28,7 +28,7 @@ keywords:
   - 哲学
 recommendations:
   - /post/2013-12-08-yu-gan-yarizumugale-siihatutosuruhui-ben-3ce/
-  - /post/2018-06-27_internet-for-kids/
+  - /post/2017-05-25_teach-what-i-dont-know/
   - /post/2015-12-21-xiao-saizi-gong-gazi-fen-karayao-woyin-mitakunaru-okusuriyin-metane-number-childadvent/
 ---
 

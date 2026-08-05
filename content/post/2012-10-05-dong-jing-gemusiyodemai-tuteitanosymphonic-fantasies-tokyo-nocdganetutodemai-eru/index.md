@@ -28,8 +28,8 @@ keywords:
   - garden
 recommendations:
   - /post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/
-  - /post/2011-07-02-rajatonnole-pu-wori-ben-karamai-ufang-fa-sulasol-or-akaperacun-nocdwu-san/
-  - /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/
+  - /post/2008-07-09-press-startdang-xuan-simasita/
+  - /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
 ---
 
 

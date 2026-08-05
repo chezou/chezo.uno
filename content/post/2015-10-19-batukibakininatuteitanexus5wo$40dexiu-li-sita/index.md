@@ -27,9 +27,9 @@ keywords:
   - 画面
   - 途中
 recommendations:
-  - /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/
-  - /post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/
-  - /post/2017-04-19-amazondemai-tutathinkpad-toratukupointo-kibodowoxiu-li-sita/
+  - /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
+  - /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/
+  - /post/2007-10-27-waidoye-jing-toye-jing-terebi/
 ---
 
 

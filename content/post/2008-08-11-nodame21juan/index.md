@@ -28,8 +28,8 @@ keywords:
   - 続き
 recommendations:
   - /post/2008-07-06-nodamekantabire18-20/
-  - /post/2008-09-08-luck-stealer-2/
-  - /post/2008-10-02-pahuekutoburudu-liao/
+  - /post/2008-06-03-gao-wu-nai-yue/
+  - /post/2010-01-01-12yue-nidu-ndaben/
 ---
 
 

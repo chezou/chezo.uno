@@ -22,9 +22,9 @@ keywords:
   - tools
   - jpg
 recommendations:
-  - /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/
   - /blog/2017-08-03_why-oss-based-machine-learning-is-good--3ab45a1a5e52/
-  - /blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/
+  - /blog/2019-06-04_the-first-conference-of-operational-machine-learning--opml--19-308baad36108/
+  - /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/
 ---
 
 

@@ -30,7 +30,7 @@ keywords:
 recommendations:
   - /post/2022-12-30-2022-year-in-review/
   - /post/2021-12-31-2021-year-review/
-  - /post/2015-12-30-2015nian-wozhen-rifan-tute/
+  - /post/2024-12-31-2024-year-in-review/
 ---
 
 

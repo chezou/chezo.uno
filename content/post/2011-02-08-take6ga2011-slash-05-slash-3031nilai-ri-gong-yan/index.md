@@ -27,9 +27,9 @@ keywords:
   - 会員
   - オフィシャルサイト
 recommendations:
-  - /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/
-  - /post/2009-07-11-masa-festanotiketutogalai-ta/
-  - /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/
+  - /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
+  - /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/
+  - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
 ---
 
 

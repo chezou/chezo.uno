@@ -28,8 +28,8 @@ keywords:
   - bb
 recommendations:
   - /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/
-  - /post/2009-07-23-fujiyama/
-  - /post/2010-11-13-ye-novuenetuia/
+  - /post/2009-03-09-masafestanirajatonga/
+  - /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
 ---
 
 

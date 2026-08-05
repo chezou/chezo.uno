@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2011-12-25-yi-teng-hui-si-ming-dao-qi-tai-liang-shi-noxuan-nda-xue-sheng-he-chang-notameno-sutiyudentosongubutuku-gare-i/
   - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
-  - /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/
+  - /post/2005-08-21-nan-sheng-he-chang/
 ---
 
 

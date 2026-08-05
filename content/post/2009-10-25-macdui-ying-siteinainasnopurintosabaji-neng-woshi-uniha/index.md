@@ -28,8 +28,8 @@ keywords:
   - canon
 recommendations:
   - /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/
-  - /post/2009-09-25-windows7woyu-yue-sita/
-  - /post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/
+  - /post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/
+  - /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/
 ---
 
 

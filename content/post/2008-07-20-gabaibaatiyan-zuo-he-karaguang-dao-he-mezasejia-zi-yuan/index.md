@@ -27,9 +27,9 @@ keywords:
   - 抜粋
   - 読者
 recommendations:
-  - /post/2008-09-10-enzieruhato-27/
-  - /post/2008-07-19-xi-nomo-nu-gasi-nda/
-  - /post/2008-08-24-sayonaraituka/
+  - /post/2010-01-01-12yue-nidu-ndaben/
+  - /post/2008-07-13-lang-toxiang-xin-liao-1/
+  - /post/2013-12-08-yu-gan-yarizumugale-siihatutosuruhui-ben-3ce/
 ---
 
 

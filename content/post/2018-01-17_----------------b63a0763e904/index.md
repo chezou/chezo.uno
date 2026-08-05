@@ -20,9 +20,9 @@ keywords:
   - 開発者
   - 両方
 recommendations:
-  - /post/2016-03-30-zhuan-zhi-simasita/
-  - /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/
-  - /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/
+  - /post/2018-12-16_dialogues-with-computer-dce83c32e67e/
+  - /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/
+  - /post/2025-09-19-review-fatigue/
 ---
 
 

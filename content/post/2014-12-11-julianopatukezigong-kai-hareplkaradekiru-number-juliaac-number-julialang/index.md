@@ -27,9 +27,9 @@ keywords:
   - request
   - pull
 recommendations:
+  - /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
+  - /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/
   - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
-  - /post/2014-06-21-julia100ben-notuku/
-  - /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/
 ---
 
 

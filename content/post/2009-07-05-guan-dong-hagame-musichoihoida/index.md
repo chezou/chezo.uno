@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2008-11-08-liang-ishi-dai-ninatutanee/
   - /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/
-  - /post/2012-10-03-distant-worlds-music-from-final-fantasy-the-celebrationnotiketutoying-mu-kai-shi/
+  - /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
 ---
 
 

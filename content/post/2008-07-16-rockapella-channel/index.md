@@ -27,9 +27,9 @@ keywords:
   - １０
   - 黒板
 recommendations:
-  - /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/
-  - /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/
-  - /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/
+  - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
+  - /post/2009-11-26-the-real-album/
+  - /post/2008-11-08-liang-ishi-dai-ninatutanee/
 ---
 
 

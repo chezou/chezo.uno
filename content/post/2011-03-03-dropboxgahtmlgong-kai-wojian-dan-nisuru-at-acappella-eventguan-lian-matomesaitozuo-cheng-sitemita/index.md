@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/
   - /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/
-  - /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/
+  - /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/
 ---
 
 

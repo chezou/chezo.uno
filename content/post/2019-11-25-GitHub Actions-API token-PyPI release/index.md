@@ -21,8 +21,8 @@ keywords:
   - pypi
 recommendations:
   - /post/2019-11-25-github actions-issue template/
-  - /post/2019-11-18-digdag-ci/
-  - /post/2013-01-09-autopagerize-rubynomechanizeban-wozuo-tuta/
+  - /post/2019-11-16-tdworkflow/
+  - /post/2019-12-24-python-custom-scripting/
 ---
 
 

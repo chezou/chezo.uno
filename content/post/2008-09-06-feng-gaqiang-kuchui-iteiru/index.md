@@ -27,9 +27,9 @@ keywords:
   - トレーニング
   - 運動
 recommendations:
-  - /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/
+  - /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/
   - /post/2008-07-13-lang-toxiang-xin-liao-1/
-  - /post/2008-06-15-gui-cai-xian-ru/
+  - /post/2008-09-10-enzieruhato-27/
 ---
 
 

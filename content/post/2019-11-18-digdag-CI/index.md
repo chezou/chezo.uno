@@ -22,7 +22,7 @@ keywords:
 recommendations:
   - /post/2019-11-16-tdworkflow/
   - /post/2019-12-24-python-custom-scripting/
-  - /post/2019-11-25-github actions-issue template/
+  - /post/2022-05-05-sqllineage-with-digdag-log/
 ---
 
 

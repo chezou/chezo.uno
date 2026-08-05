@@ -27,9 +27,9 @@ keywords:
   - サウンド
   - なじみ
 recommendations:
-  - /post/2015-07-08-apple-music-nopureirisutowozhong-xin-tositarekomendozhan-lue/
-  - /post/2008-07-19-ensemblenow-di-39hui-ding-qi-yan-zou-hui-at-sesionshan-bing/
-  - /post/2008-07-05-rajaton/
+  - /post/2008-09-07-chu-yin-mikunokaraokequ/
+  - /post/2009-08-12-masa-festazhong-zhi/
+  - /post/2015-08-23-yapc-asia-tokyo-2015can-jia-sitekita-number-yapcasia/
 ---
 
 

@@ -23,7 +23,7 @@ keywords:
 recommendations:
   - /post/2009-05-16-du-shu-metahazimemasita/
   - /post/2009-07-23-du-shu-metanomian-dao-natokoro/
-  - /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/
+  - /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/
 ---
 
 

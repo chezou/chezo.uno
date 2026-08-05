@@ -27,9 +27,9 @@ keywords:
   - 方法
   - 状態
 recommendations:
-  - /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/
-  - /post/2017-01-19-macnojispei-lie-nokibodowokarabinershi-wazuniuspei-lie-nisuru/
-  - /post/2013-04-14-macnoitunesdeairplaygaxi-garanaishi-niyarubeki1tunokoto/
+  - /post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/
+  - /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
+  - /post/2009-05-12-konnitiha-iphone/
 ---
 
 

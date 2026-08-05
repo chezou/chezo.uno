@@ -25,7 +25,7 @@ cover:
   position: null
   icon: null
 recommendations:
-  - /post/2026-03-21-「agents-sdk-αのtipsを一人で書いていくアドカレ-advent-calendar-2025」を追走した/
+  - /post/2026-03-31-treasure-dataを退職しました/
   - /post/2016-03-30-zhuan-zhi-simasita/
   - /post/2026-03-29-ワークフローテンプレートをskillに埋め込んで、llmの役割を-生成-から-レンダリング-に変えた話/
 ---

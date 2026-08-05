@@ -28,8 +28,8 @@ keywords:
   - 以内
 recommendations:
   - /post/2009-03-09-masafestanirajatonga/
-  - /post/2008-07-05-rajaton/
-  - /post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/
+  - /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
+  - /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/
 ---
 
 

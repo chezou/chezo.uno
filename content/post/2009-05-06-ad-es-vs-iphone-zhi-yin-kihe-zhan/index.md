@@ -27,9 +27,9 @@ keywords:
   - コスト
   - 端末
 recommendations:
-  - /post/2009-05-04-ad-es-wojie-yue-surutameni/
   - /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/
-  - /post/2005-04-23-willcom/
+  - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
+  - /post/2009-05-04-ad-es-wojie-yue-surutameni/
 ---
 
 
