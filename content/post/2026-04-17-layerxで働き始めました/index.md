@@ -18,8 +18,8 @@ image:
   preview_only: false
   filename: pexels-ann-h-7339828.jpg
 recommendations:
-  - /post/2018-06-19_goodbye-cloudera/
   - /post/2022-01-09-vancouver-engineer-podcast/
+  - /post/2026-03-31-treasure-dataを退職しました/
   - /post/2016-03-30-zhuan-zhi-simasita/
 ---
 

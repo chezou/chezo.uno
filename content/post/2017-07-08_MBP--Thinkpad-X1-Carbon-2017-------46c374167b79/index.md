@@ -20,8 +20,8 @@ keywords:
   - '36'
 recommendations:
   - /post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/
-  - /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
-  - /post/2017-01-19-macnojispei-lie-nokibodowokarabinershi-wazuniuspei-lie-nisuru/
+  - /post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/
+  - /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/
 ---
 
 

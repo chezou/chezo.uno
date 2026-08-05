@@ -27,9 +27,9 @@ keywords:
   - 編集
   - ヘルプ
 recommendations:
+  - /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/
   - /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/
-  - /post/2015-03-04-googlehuomudezuo-tutashen-qing-huomukaraslacknitong-zhi-wosurufang-fa/
-  - /post/2020-05-29_google-meetとyoutube-liveでオンラインミートアップの配信をした/
+  - /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/
 ---
 
 

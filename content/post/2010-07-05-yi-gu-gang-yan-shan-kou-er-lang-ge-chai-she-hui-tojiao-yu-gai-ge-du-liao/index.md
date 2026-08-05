@@ -27,8 +27,8 @@ keywords:
   - 感覚
   - 変化
 recommendations:
-  - /post/2010-07-30-dezitarujiao-ke-shu-jiao-cai-xie-yi-hui-she-li-sinpoziumu-can-jia-simasita/
-  - /post/2010-05-12-jiao-ke-shu-noguo-ji-bi-jiao-saretabao-gao-shu-nituitenomemo/
+  - /post/2010-06-29-fu-tian-cheng-zhi-zhu-huinrandohajiao-shi-noyu-tefang-gasugoi-du-liao/
+  - /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/
   - /post/2010-06-15-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-di-5hui-nomemo/
 ---
 

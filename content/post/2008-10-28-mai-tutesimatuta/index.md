@@ -27,9 +27,9 @@ keywords:
   - プラネテス
   - ジャズ
 recommendations:
-  - /post/2008-09-14-hetudohonwu-se-sitahi/
   - /post/2008-10-05-hd53r-ver-dot-8wogou-ru/
-  - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
+  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
+  - /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/
 ---
 
 

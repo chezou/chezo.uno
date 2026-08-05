@@ -30,9 +30,9 @@ keywords:
   - レベル
   - 実行
 recommendations:
-  - /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/
   - /post/2019-11-16-tdworkflow/
-  - /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
+  - /post/2026-03-29-ワークフローテンプレートをskillに埋め込んで、llmの役割を-生成-から-レンダリング-に変えた話/
+  - /post/2019-11-18-digdag-ci/
 ---
 
 データリネージとは、DBなどでどのデータがどこから来てどこに行った、という「来歴」とも呼ばれる情報です。

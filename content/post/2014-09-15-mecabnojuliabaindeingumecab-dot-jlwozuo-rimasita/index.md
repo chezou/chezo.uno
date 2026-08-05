@@ -28,8 +28,8 @@ keywords:
   - uint
 recommendations:
   - /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
-  - /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/
-  - /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/
+  - /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/
+  - /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/
 ---
 
 

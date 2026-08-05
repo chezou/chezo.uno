@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/
   - /post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/
-  - /post/2011-07-19-akaperawowen-kinagaraying-yu-womian-qiang-dekiru-podcast-mouth-off/
+  - /post/2011-04-09-eritukuuitekashi-yu-ding-tong-rilai-ri/
 ---
 
 

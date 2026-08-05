@@ -27,9 +27,9 @@ keywords:
   - 今度
   - bc
 recommendations:
-  - /post/2009-08-07-pokemonxin-gan-xian/
   - /post/2009-01-18-try-tonegamy-spacetoyou-tubeni/
-  - /post/2009-07-23-fujiyama/
+  - /post/2009-08-07-pokemonxin-gan-xian/
+  - /post/2009-10-10-ceatecitutekita/
 ---
 
 

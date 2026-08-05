@@ -27,9 +27,9 @@ keywords:
   - dvd
   - 両方
 recommendations:
-  - /post/2005-08-06-webkamera/
-  - /post/2005-10-07-tuinikita/
-  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
+  - /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/
+  - /post/2005-09-09-notonogai-zao/
+  - /post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/
 ---
 
 

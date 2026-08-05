@@ -28,8 +28,8 @@ keywords:
   - '58'
 recommendations:
   - /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/
-  - /post/2005-08-21-nan-sheng-he-chang/
-  - /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/
+  - /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/
+  - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
 ---
 
 

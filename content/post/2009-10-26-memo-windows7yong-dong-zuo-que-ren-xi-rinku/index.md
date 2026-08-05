@@ -27,9 +27,9 @@ keywords:
   - ない
   - ｒｙ
 recommendations:
-  - /post/2009-09-25-windows7woyu-yue-sita/
   - /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/
-  - /post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/
+  - /post/2009-09-25-windows7woyu-yue-sita/
+  - /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/
 ---
 
 

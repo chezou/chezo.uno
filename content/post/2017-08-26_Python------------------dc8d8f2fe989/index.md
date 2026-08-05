@@ -20,9 +20,9 @@ keywords:
   - windows
   - os
 recommendations:
+  - /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/
   - /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/
-  - /post/2015-06-06-pip-install-kyteadekiruyouninarimasita/
-  - /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
+  - /post/2019-11-29-mecab-python3/
 ---
 
 

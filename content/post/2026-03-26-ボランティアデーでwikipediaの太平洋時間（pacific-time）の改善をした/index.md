@@ -19,9 +19,9 @@ image:
   preview_only: true
   filename: 1280px-2026_Canada_time_zone_map.svg.png
 recommendations:
-  - /post/2023-01-27-age++/
-  - /post/2026-03-28-montréalに10年以上ぶりに行った/
-  - /post/2025-08-23-summer-vacation/
+  - /post/2021-12-18-8-months-after-relocating-vancouver/
+  - /post/2022-11-13-canada-good thing-bad things/
+  - /post/2023-01-27-timeline for canadian pr/
 ---
 
 会社のボランティアデーというのがあるので、何がいいかなと思って色々とClaudeと話したところ、Wikipediaの[カナダ時間](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80%E6%99%82%E9%96%93)にBC州のタイムゾーンが「太平洋時間」に変わるという発表を受け編集したのを思い出したので、それ関連の改善をした。

@@ -27,9 +27,9 @@ keywords:
   - 先生
   - 普通
 recommendations:
+  - /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/
   - /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/
-  - /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/
-  - /post/2008-07-19-ensemblenow-di-39hui-ding-qi-yan-zou-hui-at-sesionshan-bing/
+  - /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/
 ---
 
 

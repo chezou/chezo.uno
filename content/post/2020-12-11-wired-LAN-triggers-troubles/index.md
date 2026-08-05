@@ -28,9 +28,9 @@ keywords:
   - ソフト
   - wi-fi
 recommendations:
-  - /post/2025-08-23-summer-vacation/
+  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
+  - /post/2005-07-11-w-sim/
   - /post/2006-03-17-uhi/
-  - /post/2025-12-20-2025-12-20-year-in-review/
 ---
 
 

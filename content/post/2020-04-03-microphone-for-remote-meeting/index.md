@@ -19,9 +19,9 @@ keywords:
   - 在庫
   - '2020'
 recommendations:
-  - /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/
-  - /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/
   - /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/
+  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
+  - /post/2009-10-26-logitecgaodeioniben-qi-chu-sitekita/
 ---
 
 

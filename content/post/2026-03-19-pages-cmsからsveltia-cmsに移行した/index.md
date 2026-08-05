@@ -17,7 +17,7 @@ image:
   alt_text: Warning notification of GitHub issue on Sveltia CMS
 recommendations:
   - /post/2025-08-24-pages-cms/
-  - /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/
+  - /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
   - /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/
 ---
 

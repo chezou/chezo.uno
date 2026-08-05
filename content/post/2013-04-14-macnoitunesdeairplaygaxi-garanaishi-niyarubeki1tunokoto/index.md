@@ -28,8 +28,8 @@ keywords:
   - この先
 recommendations:
   - /post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/
-  - /post/2009-05-16-apple-storegawell-back-soonni-dot-dot-dot/
-  - /post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/
+  - /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/
+  - /post/2009-05-31-linkstationnowebakusesutosimplify-music-2-at-iphone/
 ---
 
 

@@ -27,9 +27,9 @@ keywords:
   - js
   - ss
 recommendations:
-  - /post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/
-  - /post/2014-01-24-kawasaki-dot-rb-number-005wokai-cui-simasita-number-kwskrb/
-  - /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
+  - /post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebookkarajian-reruyounisita/
+  - /post/2022-01-14-prelims-recommend-hugo/
+  - /post/2011-10-01-cjumannoinsutoruwotiyotutojian-dan-nisurucjuman-installer/
 ---
 
 

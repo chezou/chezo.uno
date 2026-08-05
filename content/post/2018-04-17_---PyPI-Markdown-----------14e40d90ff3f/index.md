@@ -21,8 +21,8 @@ keywords:
   - markdown
 recommendations:
   - /post/2017-01-22-shu-shi-ru-rinomarkdownwosphinxwoshi-tutehtml-slash-pdfnisuru/
-  - /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/
-  - /post/2022-01-14-prelims-recommend-hugo/
+  - /post/2019-11-29-mecab-python3/
+  - /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/
 ---
 
 

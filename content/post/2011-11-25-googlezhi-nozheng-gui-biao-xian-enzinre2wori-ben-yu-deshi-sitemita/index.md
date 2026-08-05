@@ -28,8 +28,8 @@ keywords:
   - '11'
 recommendations:
   - /post/2011-11-26-zheng-gui-biao-xian-raiburarire2nojian-dan-nashi-ifang-matome/
-  - /post/2020-03-01-pandas-1-traps/
-  - /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/
+  - /post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/
+  - /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
 ---
 
 

@@ -21,7 +21,7 @@ keywords:
 recommendations:
   - /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/
   - /post/2017-12-30_2017------------bbf834e065c5/
-  - /post/2017-01-19-macnojispei-lie-nokibodowokarabinershi-wazuniuspei-lie-nisuru/
+  - /post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/
 ---
 
 

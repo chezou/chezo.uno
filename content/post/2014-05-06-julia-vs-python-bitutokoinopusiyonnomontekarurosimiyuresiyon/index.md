@@ -31,7 +31,7 @@ keywords:
 recommendations:
   - /post/2014-06-21-julia100ben-notuku/
   - /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/
-  - /post/2014-12-06-japan-dot-rde-mecab-dot-jltukututemita-wofa-biao-sitekita-number-juliaac-number-japanr/
+  - /post/2015-11-08-tinysegmenter-dot-jlwogotobi-jiao-sitefu-ketatosi-tutararuo-zhe-gazui-shi-hua-sitekureta/
 ---
 
 

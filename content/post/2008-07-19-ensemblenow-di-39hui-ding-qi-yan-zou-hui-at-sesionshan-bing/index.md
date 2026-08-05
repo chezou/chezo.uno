@@ -27,9 +27,9 @@ keywords:
   - cayabyab
   - 宗教
 recommendations:
-  - /post/2005-07-17-urayamasika/
+  - /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
   - /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/
-  - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
+  - /post/2010-01-14-hueraranoziyosukan-vuokaruansanburu-kaperading-qi-gong-yan/
 ---
 
 

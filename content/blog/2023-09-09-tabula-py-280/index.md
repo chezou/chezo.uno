@@ -28,8 +28,8 @@ keywords:
   - solved
 recommendations:
   - /blog/2017-05-28_tabula-py-now-able-to-extract-remote-pdf-and-multiple-tables-at-once-6108e24ac07c/
-  - /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/
   - /blog/2017-01-09_tabula-py--extract-table-from-pdf-into-python-dataframe-6c7acfa5f302/
+  - /blog/2019-02-18_a-recent-update-of-tabula-py-a923d2ab667b/
 ---
 
 Recently, I released tabula-py 2.8.0. It is a major release because it uses [jpype](https://jpype.readthedocs.io/en/latest/) to launch JVM. This means that it reduces JVM launch time since jpype reuse JVM via JNI.

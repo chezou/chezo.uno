@@ -27,9 +27,9 @@ keywords:
   - マシン
   - '11'
 recommendations:
-  - /post/2009-03-01-shi-jie-zui-da-gui-mo-noakaperaji-gari-ben-de/
-  - /post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/
-  - /post/2011-04-07-soredemotake6halai-ri-suru/
+  - /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
+  - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
+  - /post/2009-03-09-masafestanirajatonga/
 ---
 
 

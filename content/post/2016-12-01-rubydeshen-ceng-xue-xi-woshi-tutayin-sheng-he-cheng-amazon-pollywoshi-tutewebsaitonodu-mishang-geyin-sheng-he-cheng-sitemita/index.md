@@ -27,9 +27,9 @@ keywords:
   - '2016'
   - 米国
 recommendations:
+  - /post/2018-11-14_subscription-2018/
   - /post/2026-07-30-slop-nuki-という日本語レビューskill/
-  - /post/2014-01-24-kawasaki-dot-rb-number-005wokai-cui-simasita-number-kwskrb/
-  - /post/2015-11-22-idcfkuraudono500yuan-sabadepodcast-serverwohazimete8keyue-gajing-timasita/
+  - /post/2026-03-29-ワークフローテンプレートをskillに埋め込んで、llmの役割を-生成-から-レンダリング-に変えた話/
 ---
 
 

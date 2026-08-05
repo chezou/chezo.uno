@@ -27,9 +27,9 @@ keywords:
   - アカペラグループ
   - ノリ
 recommendations:
-  - /post/2012-11-01-ola-gjeilono-sunrise-mass-gagemuyin-le-mitaidege-hao-ii/
-  - /post/2008-07-05-rajaton/
-  - /post/2008-08-31-zhi-ranakatuta-youtubegatie-rifu-kerarerunante/
+  - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
+  - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
+  - /post/2010-02-07-lian-ma-akaperakontesutonixing-tutekita/
 ---
 
 

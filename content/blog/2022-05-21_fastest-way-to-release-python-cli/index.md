@@ -31,8 +31,8 @@ keywords:
   - need
 recommendations:
   - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
-  - /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/
   - /blog/2017-08-30_python-basics--package-management-462918458f96/
+  - /blog/2020-03-05_py-operator-development-guide-for-python-users/
 ---
 
 

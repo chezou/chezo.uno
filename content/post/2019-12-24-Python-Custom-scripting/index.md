@@ -1,19 +1,39 @@
 ---
-authors: [aki]
-categories: [python, treasure data]
+authors:
+  - aki
+categories:
+  - python
+  - treasure data
 date: 2019-12-23 07:00:00-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2019-12-23 07:00:00-08:00
 projects: []
 subtitle: ''
 summary: ''
-tags: [python]
+tags:
+  - python
 title: Pythonistaのためのdigdag py> operator開発ガイド
 toc: true
-keywords: [treasure, workflow, 開発, タスク, イメージ, digdag, data, python, docker, 公式]
-recommendations: [/post/2019-11-18-digdag-ci/, /post/2019-11-16-tdworkflow/, /post/2019-12-04-r-and-td/]
+keywords:
+  - treasure
+  - workflow
+  - 開発
+  - タスク
+  - イメージ
+  - digdag
+  - data
+  - python
+  - docker
+  - 公式
+recommendations:
+  - /post/2019-11-16-tdworkflow/
+  - /post/2019-11-18-digdag-ci/
+  - /post/2026-03-29-ワークフローテンプレートをskillに埋め込んで、llmの役割を-生成-から-レンダリング-に変えた話/
 ---
 
 

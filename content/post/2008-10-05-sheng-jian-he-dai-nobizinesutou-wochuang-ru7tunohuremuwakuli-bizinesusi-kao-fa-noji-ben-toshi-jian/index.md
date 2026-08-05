@@ -28,8 +28,8 @@ keywords:
   - 読了
 recommendations:
   - /post/2008-06-15-ojin-nomian-qiang/
-  - /post/2010-01-01-12yue-nidu-ndaben/
-  - /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/
+  - /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/
+  - /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/
 ---
 
 

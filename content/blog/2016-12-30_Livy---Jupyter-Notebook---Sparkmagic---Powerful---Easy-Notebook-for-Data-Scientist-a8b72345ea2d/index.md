@@ -20,9 +20,9 @@ keywords:
   - job
   - scientists
 recommendations:
-  - /blog/2017-03-26_sparkavro--manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0/
   - /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/
   - /blog/2017-02-11_visualize-your-massive-data-with-impala-and-redash-afe31133c644/
+  - /blog/2017-03-26_sparkavro--manupilate-apache-avro-file-with-sparklyr-a53c61eaf0b0/
 ---
 
 

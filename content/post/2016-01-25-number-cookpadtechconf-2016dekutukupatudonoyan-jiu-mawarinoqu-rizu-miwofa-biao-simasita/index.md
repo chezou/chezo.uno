@@ -27,9 +27,9 @@ keywords:
   - ありがたい
   - 神奈川
 recommendations:
-  - /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/
-  - /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
-  - /post/2016-07-26-xia-zhen-tusheng-ri-spark-plus-python-plus-data-scienceji-ri-wokai-cui-simasita-and-ibiswoshao-jie-simasita-number-summerds/
+  - /post/2016-12-31-2016nian-wozhen-rifan-tute/
+  - /post/2015-12-30-2015nian-wozhen-rifan-tute/
+  - /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/
 ---
 
 

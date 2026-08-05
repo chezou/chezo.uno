@@ -23,9 +23,9 @@ keywords:
   - create
   - use
 recommendations:
+  - /blog/2017-07-24_simple-way-to-distribute-your-private-python-packages-within-your-organization-fb7af5dbd4c9/
   - /blog/2019-10-06_how-to-test-a-new-docker-image-for-digdag-workflow-on-circleci--c8bb92987877/
-  - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
-  - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
+  - /blog/2022-05-21_fastest-way-to-release-python-cli/
 ---
 
 [Japanese version is here](https://chezo.uno/post/2019-12-24-python-custom-scripting/)

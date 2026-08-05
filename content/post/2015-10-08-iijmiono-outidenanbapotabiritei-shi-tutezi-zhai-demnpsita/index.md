@@ -27,9 +27,9 @@ keywords:
   - エレクトロニクス
   - 対応
 recommendations:
+  - /post/2011-09-25-doitudefonicnopuripeidosimwoshi-tuteguang-potaburuwoshi-sitemita/
   - /post/2009-05-18-iphonetono1zhou-jian/
-  - /post/2011-05-01-iphone-for-everybodyno2nian-fu-riwojie-chu-sitarapaketutoding-e-huratutonisikanaranakatuta/
-  - /post/2009-05-04-ad-es-wojie-yue-surutameni/
+  - /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/
 ---
 
 

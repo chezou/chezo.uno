@@ -27,7 +27,7 @@ keywords:
   - 予定
   - 検索
 recommendations:
-  - /post/2011-03-04-googlekarendanochang-suo-qing-bao-wogooglematupunibiao-shi-surufang-fa/
+  - /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
   - /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/
   - /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/
 ---

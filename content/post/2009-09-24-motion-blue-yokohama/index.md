@@ -27,9 +27,9 @@ keywords:
   - jazz
   - お店
 recommendations:
-  - /post/2005-07-17-urayamasika/
   - /post/2009-11-26-the-real-album/
-  - /post/2008-07-10-ris-a-la-malta/
+  - /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/
+  - /post/2012-10-04-finlandnochuan-tong-de-nale-qi-kanterewomodanniyan-zou-suruida-elina/
 ---
 
 

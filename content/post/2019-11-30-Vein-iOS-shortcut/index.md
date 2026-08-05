@@ -19,9 +19,9 @@ keywords:
   - post
   - facebook
 recommendations:
-  - /post/2009-06-11-iphoneniwang-mukoto/
+  - /post/2015-01-16-fei-enzinianokomiyuniteinislackwodao-ru-sitahua-number-ingress/
   - /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/
-  - /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/
+  - /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
 ---
 
 

@@ -20,9 +20,9 @@ keywords:
   - api
   - articles
 recommendations:
-  - /blog/2016-12-30_livy---jupyter-notebook---sparkmagic---powerful---easy-notebook-for-data-scientist-a8b72345ea2d/
-  - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
   - /blog/2022-05-21_fastest-way-to-release-python-cli/
+  - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
+  - /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/
 ---
 
 

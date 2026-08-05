@@ -22,7 +22,7 @@ keywords:
 recommendations:
   - /blog/2017-03-26_how-to-connect-secure-impala-cluster-from-rstudio-on-macos-with-implyr-213c6536e4c7/
   - /blog/2016-10-15_building-predictive-model-with-ibis--impala-and-scikit-learn-356b41f404e0/
-  - /blog/2022-05-05-sqllineage-with-digdag-log/
+  - /blog/2016-12-30_livy---jupyter-notebook---sparkmagic---powerful---easy-notebook-for-data-scientist-a8b72345ea2d/
 ---
 
 

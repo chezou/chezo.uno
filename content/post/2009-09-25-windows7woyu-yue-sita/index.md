@@ -27,9 +27,9 @@ keywords:
   - windows
   - home
 recommendations:
-  - /post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/
   - /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/
   - /post/2009-10-26-memo-windows7yong-dong-zuo-que-ren-xi-rinku/
+  - /post/2009-10-25-macdui-ying-siteinainasnopurintosabaji-neng-woshi-uniha/
 ---
 
 

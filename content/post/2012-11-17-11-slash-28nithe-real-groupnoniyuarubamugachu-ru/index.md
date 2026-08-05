@@ -27,9 +27,9 @@ keywords:
   - '2012'
   - facebook
 recommendations:
-  - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
-  - /post/2009-03-03-sok-bao-masa-festa/
-  - /post/2011-04-06-eric-whitacrenoteddenojiang-yan-gagong-kai/
+  - /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
+  - /post/2009-04-13-it-dont-mean-a-thing/
+  - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
 ---
 
 

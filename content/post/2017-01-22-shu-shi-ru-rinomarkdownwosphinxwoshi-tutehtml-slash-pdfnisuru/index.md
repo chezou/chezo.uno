@@ -27,8 +27,8 @@ keywords:
   - rest
   - import
 recommendations:
-  - /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/
   - /post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/
+  - /post/2018-04-17_---pypi-markdown-----------14e40d90ff3f/
   - /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/
 ---
 

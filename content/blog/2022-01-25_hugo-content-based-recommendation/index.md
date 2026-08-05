@@ -33,8 +33,8 @@ keywords:
   - write
 recommendations:
   - /blog/2025-08-24-configured-pages-cms/
-  - /blog/2017-05-02_an-easy-way-to-get-url-list-of-your-medium-publication-c60c61244101/
-  - /blog/2024-01-26_scrape-notion-to-pdf/
+  - /blog/2022-05-21_fastest-way-to-release-python-cli/
+  - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
 ---
 
 

@@ -19,9 +19,9 @@ keywords:
   - バイナリ
   - 拡張
 recommendations:
-  - /post/2016-10-15-rnnlmbesunoxing-tai-su-jie-xi-qi-juman-plus-plus-wohomebrewdeinsutorudekiruyounisita/
-  - /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/
-  - /post/2011-09-14-nltkkarakyteadekopasuwodu-miip-mujpkyteatokenizerzuo-rimasita/
+  - /post/2019-11-29-mecab-python3/
+  - /post/2014-09-15-mecabnojuliabaindeingumecab-dot-jlwozuo-rimasita/
+  - /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/
 ---
 
 

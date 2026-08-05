@@ -20,8 +20,8 @@ keywords:
   - 講演
 recommendations:
   - /post/2017-05-25_teach-what-i-dont-know/
+  - /post/2010-07-20-1text-file-pezimei-guan-li-1text-filetositedaunrodoke/
   - /post/2015-12-06-donnazi-gong-mohao-kininaru-uyan-woguang-merutatuta1tunofang-fa/
-  - /post/2010-04-20-xue-xiao-jiao-yu-noqing-bao-hua-niguan-suruken-tan-hui-noraibupei-xin-gaxing-warerusoudesu-qing-bao-hua-tojiao-yu/
 ---
 
 

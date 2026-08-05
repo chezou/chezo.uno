@@ -20,8 +20,8 @@ keywords:
   - docker
 recommendations:
   - /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/
-  - /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
   - /post/2016-10-29_homebrew-----iruby---------------6a02e5194ff2/
+  - /post/2019-11-29-mecab-python3/
 ---
 
 

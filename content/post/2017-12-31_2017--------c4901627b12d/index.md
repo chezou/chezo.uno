@@ -20,8 +20,8 @@ keywords:
   - オライリー
 recommendations:
   - /post/2016-12-31-2016nian-wozhen-rifan-tute/
-  - /post/2020-12-31-2020-review/
   - /post/2015-12-30-2015nian-wozhen-rifan-tute/
+  - /post/2016-12-21-number-eigo-tosi-aruihazi-chi-tinoye-wu-wai-huo-dong-nosok-kefang/
 ---
 
 

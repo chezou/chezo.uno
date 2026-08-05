@@ -19,8 +19,8 @@ keywords:
   - 連想
 recommendations:
   - /post/2025-09-19-review-fatigue/
-  - /post/2026-07-30-slop-nuki-という日本語レビューskill/
-  - /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/
+  - /post/2025-12-09-2025-12-09-principal-engineer-in-the-gene-of-ai/
+  - /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/
 ---
 
 

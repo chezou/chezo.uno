@@ -27,9 +27,9 @@ keywords:
   - モデル
   - togetter
 recommendations:
-  - /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/
-  - /post/2008-06-09-tuiniiphonedeng-chang/
+  - /post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/
   - /post/2011-05-01-iphone-for-everybodyno2nian-fu-riwojie-chu-sitarapaketutoding-e-huratutonisikanaranakatuta/
+  - /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/
 ---
 
 

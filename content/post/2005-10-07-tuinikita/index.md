@@ -27,9 +27,9 @@ keywords:
   - radio
   - 欲しかっ
 recommendations:
+  - /post/2020-04-03-microphone-for-remote-meeting/
   - /post/2007-05-10-usbdewen-kerufm-slash-amrazio/
-  - /post/2006-07-28-xia-nanode/
-  - /post/2015-10-07-xi-pan-fu-kiofeng-lu-supikagapodcastwen-kunonisugoibian-li/
+  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
 ---
 
 

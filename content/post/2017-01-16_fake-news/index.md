@@ -17,9 +17,9 @@ keywords:
   - instant
   - 指摘
 recommendations:
-  - /post/2017-05-26_public-dataset/
-  - /post/2018-12-16_dialogues-with-computer-dce83c32e67e/
   - /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/
+  - /post/2017-05-26_public-dataset/
+  - /post/2019-12-09-facebook prophet-plot/
 ---
 
 

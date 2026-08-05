@@ -27,9 +27,9 @@ keywords:
   - いい
   - ｒｙ
 recommendations:
-  - /post/2005-04-23-willcom/
-  - /post/2005-03-03-sugoi/
   - /post/2009-05-12-konnitiha-iphone/
+  - /post/2005-04-23-willcom/
+  - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
 ---
 
 

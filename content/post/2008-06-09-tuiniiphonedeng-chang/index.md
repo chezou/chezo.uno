@@ -27,9 +27,9 @@ keywords:
   - ３０
   - １６
 recommendations:
-  - /post/2011-04-30-ipad2totomoniwu-liao-wi-fisupotutowogetutosuruer-tunofang-fa/
-  - /post/2009-06-09-xin-xing-iphone-3g-snojia-ge-nituite/
+  - /post/2009-05-04-ad-es-wojie-yue-surutameni/
   - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
+  - /post/2009-05-12-konnitiha-iphone/
 ---
 
 

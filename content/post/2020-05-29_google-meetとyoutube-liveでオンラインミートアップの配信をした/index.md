@@ -29,9 +29,9 @@ keywords:
   - youtube live
   - 接続
 recommendations:
-  - /post/2015-02-14-garagebanddeskypetomaikunoyin-wobie-toratukudelu-yin-surufang-fa/
-  - /post/2020-11-10-mlse-conference/
-  - /post/2015-06-07-ri-ben-ren-xiang-kepodcastyarunaraidcfkuraudogaliang-sasou/
+  - /post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/
+  - /post/2020-07-11-mlse-summer-workshop/
+  - /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/
 ---
 
 先日、[Machine Learning Casual Talks #12](https://mlct.connpass.com/event/172550/)というイベントの配信担当をした。

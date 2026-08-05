@@ -27,9 +27,9 @@ keywords:
   - みゆき
   - ラインナップ
 recommendations:
-  - /post/2008-08-26-akihabara-at-deep/
+  - /post/2010-01-01-12yue-nidu-ndaben/
   - /post/2016-12-25-jin-nian-du-ndemian-bai-katutaman-hua-2016nian-bian/
-  - /post/2015-04-26-number-juliatokyo-de-number-juliawakaran-toiuza-narepozitoriwoli-tetahua-wositara-julia-dot-tokyo-gadekiteta/
+  - /post/2005-09-27-willcomxin-ji-zhong-kita/
 ---
 
 

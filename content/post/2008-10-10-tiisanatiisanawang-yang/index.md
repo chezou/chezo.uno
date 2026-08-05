@@ -27,9 +27,9 @@ keywords:
   - isbn
   - スコア
 recommendations:
-  - /post/2008-07-19-can-shu-gui-tou-mo-hong/
-  - /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/
-  - /post/2008-10-10-luo-yu-bai-xuan-xia/
+  - /post/2017-05-25_teach-what-i-dont-know/
+  - /post/2008-09-10-enzieruhato-27/
+  - /post/2008-07-06-nodamekantabire18-20/
 ---
 
 

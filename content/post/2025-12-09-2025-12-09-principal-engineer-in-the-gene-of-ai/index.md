@@ -28,9 +28,9 @@ keywords:
   - レビュー
   - 企業
 recommendations:
+  - /post/2025-09-19-review-fatigue/
   - /post/2025-11-25-staff-engineering-path/
-  - /post/2026-03-07-2026-03-08-between-principal-and-glue-work/
-  - /post/2016-05-05-detawo-ge-suo-niji-merukotodedetahuo-yong-nomin-zhu-hua-gajin-ndahua/
+  - /post/2026-07-30-slop-nuki-という日本語レビューskill/
 ---
 
 AmazonのPrincipal Applied ScientistのEugene Yanさんの記事に触発されたので書いてみる。

@@ -25,9 +25,9 @@ keywords:
   - 実装
   - pr
 recommendations:
-  - /post/2017-01-01-fei-ying-yu-neiteibunitotutenoossnomentenansukosuto/
-  - /post/2018-12-16_dialogues-with-computer-dce83c32e67e/
-  - /post/2025-05-02-ml-project-and-scrum/
+  - /post/2025-12-09-2025-12-09-principal-engineer-in-the-gene-of-ai/
+  - /post/2019-03-29_ngekkan-lambda-note-article/
+  - /post/2026-08-04-ブログの推薦用軽量embedding-modelをbekkoに変えようとして、変えれなかった/
 ---
 
 今年に入ってやたらレビューの時間が増えた。これはコードもそうだしドキュメントもそうだ。 そして、これによる疲れも急激に増加している。

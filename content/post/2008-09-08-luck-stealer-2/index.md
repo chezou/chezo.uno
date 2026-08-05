@@ -27,9 +27,9 @@ keywords:
   - はず
   - ほとんど
 recommendations:
-  - /post/2008-07-06-nodamekantabire18-20/
-  - /post/2008-06-15-gui-cai-xian-ru/
-  - /post/2008-07-13-lang-toxiang-xin-liao-1/
+  - /post/2008-07-19-can-shu-gui-tou-mo-hong/
+  - /post/2008-08-11-nodame21juan/
+  - /post/2008-06-03-gao-wu-nai-yue/
 ---
 
 

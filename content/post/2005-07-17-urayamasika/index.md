@@ -27,9 +27,9 @@ keywords:
   - こと
   - ｒｙ
 recommendations:
-  - /post/2009-03-09-masafestanirajatonga/
-  - /post/2009-09-24-motion-blue-yokohama/
-  - /post/2008-07-19-ensemblenow-di-39hui-ding-qi-yan-zou-hui-at-sesionshan-bing/
+  - /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/
+  - /post/2008-11-08-liang-ishi-dai-ninatutanee/
+  - /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
 ---
 
 

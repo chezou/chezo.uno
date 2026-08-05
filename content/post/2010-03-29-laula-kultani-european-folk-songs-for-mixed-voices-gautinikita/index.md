@@ -27,9 +27,9 @@ keywords:
   - vocal
   - songs
 recommendations:
-  - /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/
-  - /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
-  - /post/2008-10-11-le-pu-gayu-sii/
+  - /post/2011-12-25-yi-teng-hui-si-ming-dao-qi-tai-liang-shi-noxuan-nda-xue-sheng-he-chang-notameno-sutiyudentosongubutuku-gare-i/
+  - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
+  - /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/
 ---
 
 

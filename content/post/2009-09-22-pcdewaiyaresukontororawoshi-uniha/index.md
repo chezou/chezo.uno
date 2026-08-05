@@ -28,8 +28,8 @@ keywords:
   - 入手
 recommendations:
   - /post/2009-11-14-wu-xian-kontorora/
-  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
-  - /post/2007-10-27-waidoye-jing-toye-jing-terebi/
+  - /post/2005-08-06-webkamera/
+  - /post/2005-04-23-willcom/
 ---
 
 

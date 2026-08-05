@@ -28,8 +28,8 @@ keywords:
   - １０
 recommendations:
   - /post/2008-06-01-nantoiunu-li-noren/
-  - /post/2009-11-14-wu-xian-kontorora/
-  - /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/
+  - /post/2026-03-31-treasure-dataを退職しました/
+  - /post/2008-06-22-bokurano-alternative/
 ---
 
 

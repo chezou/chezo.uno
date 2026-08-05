@@ -18,9 +18,9 @@ keywords:
   - 学術
   - 研究
 recommendations:
-  - /post/2017-08-03_oss--------------48807bbbf13f/
-  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
-  - /post/2014-01-24-kawasaki-dot-rb-number-008-wokai-cui-simasita-number-kwskrb/
+  - /post/2018-05-17_mlse-kickoff/
+  - /post/2014-08-29-detafen-xi-henoxiang-kihe-ifang-machine-learning-casual-talks-number-2wokai-cui-simasita-number-mlct/
+  - /post/2019-03-29_ngekkan-lambda-note-article/
 ---
 
 

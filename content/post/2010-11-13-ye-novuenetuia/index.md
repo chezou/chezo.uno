@@ -27,9 +27,9 @@ keywords:
   - 雰囲気
   - 準備
 recommendations:
-  - /post/2009-07-23-fujiyama/
-  - /post/2009-08-07-pokemonxin-gan-xian/
-  - /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
+  - /post/2009-07-11-masa-festanotiketutogalai-ta/
+  - /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/
+  - /post/2009-08-12-rui-yan-si/
 ---
 
 

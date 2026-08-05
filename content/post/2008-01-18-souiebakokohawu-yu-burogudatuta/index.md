@@ -27,9 +27,9 @@ keywords:
   - わけ
   - 良い
 recommendations:
-  - /post/2005-08-24-hetudohon-hetudohon/
   - /post/2008-09-14-hetudohonwu-se-sitahi/
-  - /post/2008-10-05-hd53r-ver-dot-8wogou-ru/
+  - /post/2020-04-03-microphone-for-remote-meeting/
+  - /post/2007-05-10-usbdewen-kerufm-slash-amrazio/
 ---
 
 

@@ -27,9 +27,9 @@ keywords:
   - 祈り
   - sure
 recommendations:
-  - /post/2009-08-12-masa-festazhong-zhi/
-  - /post/2008-10-29-he-gu-kaitunes-storedemai-tutam4pgayin-gachu-nai/
   - /post/2011-02-08-take6ga2011-slash-05-slash-3031nilai-ri-gong-yan/
+  - /post/2009-08-12-masa-festazhong-zhi/
+  - /post/2009-08-30-rent-burodouetuawojian-telai-ta/
 ---
 
 

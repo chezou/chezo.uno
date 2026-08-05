@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2008-09-14-hetudohonwu-se-sitahi/
   - /post/2008-10-28-mai-tutesimatuta/
-  - /post/2005-10-07-tuinikita/
+  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
 ---
 
 

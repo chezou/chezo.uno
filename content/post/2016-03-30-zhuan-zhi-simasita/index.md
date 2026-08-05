@@ -27,9 +27,9 @@ keywords:
   - ポエム
   - solr
 recommendations:
+  - /post/2026-03-31-treasure-dataを退職しました/
   - /post/2018-06-19_goodbye-cloudera/
-  - /post/2026-04-17-layerxで働き始めました/
-  - /post/2017-01-25-mata-tunian-wototuta/
+  - /post/2014-12-31-2014nian-wozhen-rifan-tute/
 ---
 
 

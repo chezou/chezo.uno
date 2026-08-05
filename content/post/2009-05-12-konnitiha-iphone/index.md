@@ -28,8 +28,8 @@ keywords:
   - 移行
 recommendations:
   - /post/2009-05-18-iphonetono1zhou-jian/
+  - /post/2009-10-27-itunomanika-wptouchgadao-ru-sareteita/
   - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
-  - /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/
 ---
 
 

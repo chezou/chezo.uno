@@ -28,8 +28,8 @@ keywords:
   - アカペラ
 recommendations:
   - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
-  - /post/2009-11-26-oan-kuoshou-qing-akaperaduo-zhong-lu-yin-notamenoji-cai/
-  - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
+  - /post/2013-08-23-the-idea-of-northnole-pu-womai-tuta/
+  - /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/
 ---
 
 

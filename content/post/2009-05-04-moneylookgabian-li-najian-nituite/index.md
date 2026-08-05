@@ -27,9 +27,9 @@ keywords:
   - モバイルsuica
   - offline
 recommendations:
-  - /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/
+  - /post/2005-08-06-webkamera/
   - /post/2009-05-10-ad-es-iphoneadoresuzhang-yi-xing-memo/
-  - /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
+  - /post/2022-11-28-cancel-japanese-service/
 ---
 
 

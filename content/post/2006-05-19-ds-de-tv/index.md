@@ -27,9 +27,9 @@ keywords:
   - 高校生
   - もん
 recommendations:
-  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
-  - /post/2006-05-01-dslite/
-  - /post/2005-08-06-webkamera/
+  - /post/2009-04-26-tiyanneruhasonomama-vol-dot-1/
+  - /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/
+  - /post/2010-04-21-eric-witacrenovirtual-choirgaqi-i-korehari-ben-noamatiyuademoguang-marubeki/
 ---
 
 

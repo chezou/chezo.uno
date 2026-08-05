@@ -27,8 +27,8 @@ keywords:
   - 土曜
   - コールセンター
 recommendations:
-  - /post/2009-05-19-iphonedeexpressyu-yue-gadekiruapuri/
   - /post/2005-04-23-willcom/
+  - /post/2009-05-07-sayonarawillcom-sayonaraad-es/
   - /post/2005-07-11-w-sim/
 ---
 

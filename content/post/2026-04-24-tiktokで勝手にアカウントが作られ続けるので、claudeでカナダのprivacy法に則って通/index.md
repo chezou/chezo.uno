@@ -28,9 +28,9 @@ cover:
   position: null
   icon: null
 recommendations:
-  - /post/2023-01-27-timeline for canadian pr/
-  - /post/2026-07-30-slop-nuki-という日本語レビューskill/
-  - /post/2025-12-09-2025-12-09-principal-engineer-in-the-gene-of-ai/
+  - /post/2022-11-28-cancel-japanese-service/
+  - /post/2017-01-01-fei-ying-yu-neiteibunitotutenoossnomentenansukosuto/
+  - /post/2026-08-04-ブログの推薦用軽量embedding-modelをbekkoに変えようとして、変えれなかった/
 ---
 
 > [!WARNING]

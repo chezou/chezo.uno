@@ -27,9 +27,9 @@ keywords:
   - はてな
   - julia
 recommendations:
-  - /post/2014-12-31-2014nian-wozhen-rifan-tute/
+  - /post/2014-12-24-juliadeword-countsiteqi-duitakoto-number-juliaac/
   - /post/2015-09-23-mecab-dot-jlwojulia-v0-dot-4-0-rc2nidui-ying-sita/
-  - /post/2014-12-03-juliahuan-jing-gou-zhu-2014-ver-number-julialang/
+  - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
 ---
 
 

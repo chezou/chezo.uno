@@ -27,9 +27,9 @@ keywords:
   - センター試験
   - アンケート
 recommendations:
+  - /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/
+  - /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/
   - /post/2014-06-21-julia100ben-notuku/
-  - /post/2020-02-10-jupyter-notebook-labsをmlのどのフェーズで使うのか？/
-  - /post/2019-11-17-spacy-ginza/
 ---
 
 

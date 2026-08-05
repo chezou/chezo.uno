@@ -28,8 +28,8 @@ keywords:
   - '45'
 recommendations:
   - /post/2009-06-20-cheng-jiu-yuan-nozi-yang-hua/
-  - /post/2010-11-13-ye-novuenetuia/
-  - /post/2009-07-07-qi-xi-kiyandorunaito/
+  - /post/2026-03-28-montréalに10年以上ぶりに行った/
+  - /post/2010-03-22-shi-jie-bian-ge-noshi-ravuosunotatuta-tunomai-ifang/
 ---
 
 

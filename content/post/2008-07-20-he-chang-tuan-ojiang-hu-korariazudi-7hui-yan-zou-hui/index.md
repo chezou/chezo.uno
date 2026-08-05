@@ -27,9 +27,9 @@ keywords:
   - victoria
   - 信長貴富
 recommendations:
-  - /post/2005-08-21-nan-sheng-he-chang/
-  - /post/2010-01-14-hueraranoziyosukan-vuokaruansanburu-kaperading-qi-gong-yan/
   - /post/2005-09-18-gao-tian-san-lang-xing-tutekimasita/
+  - /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
+  - /post/2009-07-09-steve-dobrogosznodong-hua-gatakusanarujian-nituite/
 ---
 
 

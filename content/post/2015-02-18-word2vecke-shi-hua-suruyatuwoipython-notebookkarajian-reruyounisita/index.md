@@ -1,19 +1,35 @@
 ---
-authors: [aki]
+authors:
+  - aki
 categories: null
 date: 2015-02-18 10:45:17-08:00
 draft: false
 featured: false
-image: {caption: '', focal_point: '', preview_only: false}
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 lastmod: 2015-02-18 10:45:17-08:00
 projects: []
 subtitle: ''
 summary: ''
 tags: []
 title: word2vec可視化するやつをipython notebookから見れるようにした
-keywords: [word, ipython, notebook, 可視化, ダイアリー, はてな, グラフ, コード, 要領, 引き算]
-recommendations: [/post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/,
-  /post/2019-11-17-spacy-ginza/, /post/2015-11-23-sympytojupyter-notebookdeshu-shi-nomemowoqu-rou/]
+keywords:
+  - word
+  - ipython
+  - notebook
+  - 可視化
+  - ダイアリー
+  - はてな
+  - グラフ
+  - コード
+  - 要領
+  - 引き算
+recommendations:
+  - /post/2015-01-11-dockershang-ninbviewerwoli-teteiruby-plus-nyaplotdemiao-itagurahuwogong-you-dekiruyounisitemita/
+  - /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/
+  - /post/2014-01-18-ke-xue-ji-suan-niokerujun-zhi-hua-aruihanazepythongazhao-shi-nita-yan-yu-nosieawoduo-tuteiruka/
 ---
 
 

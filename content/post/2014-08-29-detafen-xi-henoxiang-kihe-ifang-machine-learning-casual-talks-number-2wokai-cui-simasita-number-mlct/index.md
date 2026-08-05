@@ -27,9 +27,9 @@ keywords:
   - pfi
   - deep learning
 recommendations:
-  - /post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/
   - /post/2014-06-07-machine-learning-casual-talks-wokai-cui-simasita-number-mlct/
-  - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
+  - /post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/
+  - /post/2018-05-17_mlse-kickoff/
 ---
 
 

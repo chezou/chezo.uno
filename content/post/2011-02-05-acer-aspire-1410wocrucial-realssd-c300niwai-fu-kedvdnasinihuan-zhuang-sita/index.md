@@ -28,8 +28,8 @@ keywords:
   - 外付け
 recommendations:
   - /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/
-  - /post/2005-09-09-notonogai-zao/
-  - /post/2006-03-17-uhi/
+  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
+  - /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/
 ---
 
 

@@ -27,9 +27,9 @@ keywords:
   - 学生
   - 大学
 recommendations:
+  - /post/2008-07-30-narutaru/
   - /post/2008-10-02-pahuekutoburudu-liao/
-  - /post/2014-02-23-hazimetenopatanren-shi-du-shu-hui-nican-jia-simasita-number-hazipata/
-  - /post/2008-07-06-san-mao-mao-homuzunokong-bu-guan/
+  - /post/2008-06-22-bokurano-alternative/
 ---
 
 

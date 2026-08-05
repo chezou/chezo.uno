@@ -27,9 +27,9 @@ keywords:
   - 開催
   - メリット
 recommendations:
-  - /post/2016-08-23-chuan-qi-rubyhui-yi-01wokai-cui-simasita-number-kwsk01/
-  - /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/
-  - /post/2015-12-30-2015nian-wozhen-rifan-tute/
+  - /post/2015-01-25-shen-nai-chuan-rubyhui-yi-wokai-cui-simasita-number-kana01/
+  - /post/2022-06-18-kawasaki rb 9 years reflection/
+  - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
 ---
 
 

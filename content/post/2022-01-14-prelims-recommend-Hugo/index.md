@@ -22,8 +22,8 @@ keywords:
   - 記事
 recommendations:
   - /post/2022-01-25-hugo-content-based-recommendation/
-  - /post/2025-08-24-pages-cms/
   - /post/2026-08-04-ブログの推薦用軽量embedding-modelをbekkoに変えようとして、変えれなかった/
+  - /post/2025-08-24-pages-cms/
 ---
 
 

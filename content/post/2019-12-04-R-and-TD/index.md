@@ -32,8 +32,8 @@ keywords:
   - install
 recommendations:
   - /post/2019-11-30-r-package-yami/
-  - /post/2012-01-07-mercurialtoqin-he-xing-nogao-iripozitoriburauzarhodecodewoinsutorusitemita/
-  - /post/2019-12-24-python-custom-scripting/
+  - /post/2014-12-13-number-japanr-dehua-ti-datuta-detasaienteisutoyang-cheng-du-ben-rhuo-yong-bian-tong-cheng-juliaru-men-ben-wodu-mimasita-number-juliaac/
+  - /post/2018-10-19_treasure-data-------plazma-tech-talk-------3c901d92e973/
 ---
 
 

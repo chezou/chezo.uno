@@ -28,9 +28,9 @@ keywords:
   - アドベントカレンダー
   - バージョン
 recommendations:
-  - /post/2025-08-24-pages-cms/
   - /post/2022-01-14-prelims-recommend-hugo/
-  - /post/2019-11-16-notion-cloudflare-sub domain/
+  - /post/2025-08-24-pages-cms/
+  - /post/2022-01-25-hugo-content-based-recommendation/
 ---
 
 

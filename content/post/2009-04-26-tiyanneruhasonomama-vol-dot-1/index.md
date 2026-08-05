@@ -27,9 +27,9 @@ keywords:
   - チャンネル
   - テレビ
 recommendations:
-  - /post/2008-09-04-ji-dong-zhan-shi-gandamuthe-origin-16-17/
-  - /post/2008-07-30-narutaru/
-  - /post/2008-10-02-pahuekutoburudu-liao/
+  - /post/2006-05-19-ds-de-tv/
+  - /post/2008-09-14-hetudohonwu-se-sitahi/
+  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
 ---
 
 

@@ -28,8 +28,8 @@ keywords:
   - フリーズ
 recommendations:
   - /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/
-  - /post/2011-05-01-iphone-for-everybodyno2nian-fu-riwojie-chu-sitarapaketutoding-e-huratutonisikanaranakatuta/
-  - /post/2009-05-18-iphonetono1zhou-jian/
+  - /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/
+  - /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/
 ---
 
 

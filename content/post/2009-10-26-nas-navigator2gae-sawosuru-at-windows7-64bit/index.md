@@ -28,8 +28,8 @@ keywords:
   - navigator
 recommendations:
   - /post/2009-11-11-nas-navigator2wowindows7-64bit-dedong-kasufang-fa/
-  - /post/2009-10-23-windows7gakita-ru-reta-xp-modeshi-sita/
-  - /post/2009-10-26-memo-windows7yong-dong-zuo-que-ren-xi-rinku/
+  - /post/2026-03-20-oh-my-zshを辞めた/
+  - /post/2009-10-23-windows7-64bitwodg33tlmninantokadao-ru-sita/
 ---
 
 

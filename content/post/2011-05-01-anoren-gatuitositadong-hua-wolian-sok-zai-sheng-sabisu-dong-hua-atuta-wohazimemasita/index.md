@@ -27,9 +27,9 @@ keywords:
   - firefox
   - 問題点
 recommendations:
-  - /post/2019-11-30-vein-ios-shortcut/
-  - /post/2009-06-11-iphoneniwang-mukoto/
-  - /post/2011-03-02-twitternohe-chang-da-xi-li-hale-sii/
+  - /post/2011-04-09-koredejun-mouitekaninareru-shui-demouiteka-hazimemasita-number-darewite/
+  - /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/
+  - /post/2010-02-21-akaperanoibentoqing-bao-tokawotubuyaku-at-acappella-eventnoshi-ifang/
 ---
 
 

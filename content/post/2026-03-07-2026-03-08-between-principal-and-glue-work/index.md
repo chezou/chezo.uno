@@ -4,10 +4,14 @@ date: 2026-03-07 20:36:31-08:00
 lastmod: 2026-03-08 05:55:37-0700
 draft: false
 featured: true
-image: {preview_only: false}
-tags: [staff engineer]
-recommendations: [/post/2025-11-25-staff-engineering-path/, /post/2025-12-09-2025-12-09-principal-engineer-in-the-gene-of-ai/,
-  /post/2016-03-30-zhuan-zhi-simasita/]
+image:
+  preview_only: false
+tags:
+  - staff engineer
+recommendations:
+  - /post/2025-11-25-staff-engineering-path/
+  - /post/2024-12-31-2024-year-in-review/
+  - /post/2025-12-09-2025-12-09-principal-engineer-in-the-gene-of-ai/
 ---
 
 ## **はじめに**

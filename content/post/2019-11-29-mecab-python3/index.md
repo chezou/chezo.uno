@@ -20,9 +20,9 @@ keywords:
   - wheel
   - ginza
 recommendations:
-  - /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
-  - /post/2019-11-17-spacy-ginza/
   - /post/2018-12-01_windows-64bit-mecab--kytea-------2018-b283b6c7b33c/
+  - /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/
+  - /post/2010-10-13-mecabworuby-1-dot-9-2-on-windows7-64bitban-deshi-ufang-fa/
 ---
 
 

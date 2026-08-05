@@ -28,8 +28,8 @@ keywords:
   - 誇張
 recommendations:
   - /post/2008-09-08-can-ye-zeronoshi-shi-li-du-liao/
+  - /post/2008-06-15-ojin-nomian-qiang/
   - /post/2008-10-05-sheng-jian-he-dai-nobizinesutou-wochuang-ru7tunohuremuwakuli-bizinesusi-kao-fa-noji-ben-toshi-jian/
-  - /post/2006-03-17-uhi/
 ---
 
 

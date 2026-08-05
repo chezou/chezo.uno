@@ -27,9 +27,9 @@ keywords:
   - 音楽
   - 準備
 recommendations:
+  - /post/2007-07-02-minnanohe-chang/
   - /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/
   - /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/
-  - /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/
 ---
 
 

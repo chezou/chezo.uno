@@ -27,8 +27,8 @@ keywords:
   - tb
   - ゲスト
 recommendations:
-  - /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
   - /post/2015-11-22-idcfkuraudono500yuan-sabadepodcast-serverwohazimete8keyue-gajing-timasita/
+  - /post/2015-02-20-number-ingress-nopodcast-shui-yaritong-xin-woshi-memasita-number-mizuyari/
   - /post/2015-05-03-rubyist-dot-club-hazimetemasita-number-rubyistclub/
 ---
 

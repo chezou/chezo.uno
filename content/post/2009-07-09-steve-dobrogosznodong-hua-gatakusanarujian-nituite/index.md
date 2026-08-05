@@ -27,9 +27,9 @@ keywords:
   - 変態
   - 模様
 recommendations:
-  - /post/2008-10-28-sings-2008-with-steve-dobrogosz/
   - /post/2012-09-25-singstodobrogoszgazai-bigong-yan/
-  - /post/2013-01-09-akaperacun-nokiritukusangablogwozai-kai-saremasita-a-cappella-best-ofgasu-di/
+  - /post/2008-10-28-sings-2008-with-steve-dobrogosz/
+  - /post/2008-07-20-he-chang-tuan-ojiang-hu-korariazudi-7hui-yan-zou-hui/
 ---
 
 

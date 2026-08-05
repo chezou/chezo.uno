@@ -27,9 +27,9 @@ keywords:
   - 感謝
   - 思い
 recommendations:
-  - /post/2009-07-11-masa-festanotiketutogalai-ta/
-  - /post/2009-03-09-masafestanirajatonga/
-  - /post/2011-04-07-soredemotake6halai-ri-suru/
+  - /post/2008-08-31-try-tonesupesiyaruraibu-akaperaxia-bai-2008/
+  - /post/2009-08-12-masa-festazhong-zhi/
+  - /post/2008-11-08-liang-ishi-dai-ninatutanee/
 ---
 
 

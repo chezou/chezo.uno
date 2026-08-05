@@ -32,8 +32,8 @@ keywords:
   - 学習
 recommendations:
   - /post/2018-05-17_mlse-kickoff/
+  - /post/2020-07-11-mlse-summer-workshop/
   - /post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/
-  - /post/2016-05-09-ji-jie-xue-xi-nofen-lei-nohua-wosun-shi-guan-shu-tojue-ding-jing-jie-wozhong-xin-nizheng-li-sitemita/
 ---
 
 

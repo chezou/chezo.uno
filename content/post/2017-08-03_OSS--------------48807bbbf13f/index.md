@@ -21,9 +21,9 @@ keywords:
   - 先端
   - フレームワーク
 recommendations:
-  - /post/2016-11-14-cloudera-world-tokyo-2016deji-jie-xue-xi-purodakutonozuo-rifang-wohua-simasita-number-cwt2016/
-  - /post/2015-12-25-julia-tokyo-number-5wokai-cui-simasita-number-juliatokyo/
-  - /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
+  - /post/2018-05-17_mlse-kickoff/
+  - /post/2020-07-11-mlse-summer-workshop/
+  - /post/2015-05-02-machine-learning-casual-talks-number-3-lue-cheng-mlct-yarimasita-number-mlct/
 ---
 
 

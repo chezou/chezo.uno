@@ -28,8 +28,8 @@ keywords:
   - mac
 recommendations:
   - /post/2015-02-18-word2vecke-shi-hua-suruyatuwoipython-notebookkarajian-reruyounisita/
-  - /post/2020-07-16-google colaboratory-vs code(code-server)/
-  - /post/2016-09-11-pdfnobiao-wopandasnodataframenidekiru-tabula-py-zuo-tuta/
+  - /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/
+  - /post/2015-11-23-sympytojupyter-notebookdeshu-shi-nomemowoqu-rou/
 ---
 
 

@@ -27,9 +27,9 @@ keywords:
   - 1万
   - 次第
 recommendations:
-  - /post/2005-04-23-willcom/
-  - /post/2005-09-09-notonogai-zao/
-  - /post/2009-10-10-ceatecitutekita/
+  - /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
+  - /post/2010-06-26-canon-ivis-hf-m31gayatutekita-huruhdle-sii/
+  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
 ---
 
 

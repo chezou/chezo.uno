@@ -28,8 +28,8 @@ keywords:
   - 環境
 recommendations:
   - /post/2014-07-05-number-juliatokyo-01de-julia100ben-notuku-wofa-biao-sitekimasita/
-  - /post/2015-12-10-julianoqing-bao-woshou-ji-situdukeruniha/
-  - /post/2014-06-21-julia100ben-notuku/
+  - /post/2014-12-11-julianopatukezigong-kai-hareplkaradekiru-number-juliaac-number-julialang/
+  - /post/2015-12-25-juliadede-raretamainayan-yu-wosheng-rishang-gerufang-fa-number-juliaac/
 ---
 
 

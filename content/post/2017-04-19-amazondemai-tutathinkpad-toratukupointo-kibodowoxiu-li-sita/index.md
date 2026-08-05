@@ -27,9 +27,9 @@ keywords:
   - ポイント
   - 交換
 recommendations:
-  - /post/2016-12-17-iphone-6snobatuterijiao-huan-nihadian-hua-sapoto-plus-ekusupuresujiao-huan-gaosusume/
-  - /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
-  - /post/2010-01-01-jin-geng-nagara2009nian-dedu-maretaji-shi/
+  - /post/2017-07-08_mbp--thinkpad-x1-carbon-2017-------46c374167b79/
+  - /post/2009-11-18-jbl-reference-410woxiu-li-nichu-sukotonijue-meta/
+  - /post/2018-10-28_thinkpad-x1-carbon-macbook-pro----------usb-type-c-------f6d8c8e77b36/
 ---
 
 

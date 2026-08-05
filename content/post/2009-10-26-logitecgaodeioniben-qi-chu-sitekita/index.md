@@ -28,8 +28,8 @@ keywords:
   - ステレオ
 recommendations:
   - /post/2020-04-03-microphone-for-remote-meeting/
-  - /post/2005-10-07-tuinikita/
-  - /post/2007-05-10-usbdewen-kerufm-slash-amrazio/
+  - /post/2007-05-29-zardnovocalgawang-kunararetanante-dot-dot-dot/
+  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
 ---
 
 

@@ -22,8 +22,8 @@ keywords:
   - オペレーション
 recommendations:
   - /post/2019-03-29_ngekkan-lambda-note-article/
-  - /post/2013-08-25-llmaturinican-jia-simasita/
-  - /post/2015-12-21-machine-learning-casual-talks-number-4-wokai-cui-simasita-number-mlct/
+  - /post/2016-12-31-2016nian-wozhen-rifan-tute/
+  - /post/2014-12-15-number-ingress-dehurutaimunopuroezientotochu-hui-tutahua/
 ---
 
 

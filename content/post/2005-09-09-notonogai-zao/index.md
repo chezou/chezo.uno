@@ -27,9 +27,9 @@ keywords:
   - hdd
   - bd
 recommendations:
-  - /post/2006-03-17-uhi/
   - /post/2009-10-18-vaio-xnixin-tokimeku/
-  - /post/2006-07-28-xia-nanode/
+  - /post/2006-03-17-uhi/
+  - /post/2005-05-19-vhsnei-zang-dvdpureya/
 ---
 
 

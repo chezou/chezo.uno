@@ -28,8 +28,8 @@ keywords:
   - mass
 recommendations:
   - /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
+  - /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/
   - /post/2009-01-18-try-tonegamy-spacetoyou-tubeni/
-  - /post/2008-06-03-er-du-qin-qian/
 ---
 
 

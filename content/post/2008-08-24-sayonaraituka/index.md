@@ -27,9 +27,9 @@ keywords:
   - すべて
   - 構成
 recommendations:
-  - /post/2008-07-20-gabaibaatiyan-zuo-he-karaguang-dao-he-mezasejia-zi-yuan/
+  - /post/2008-11-18-ai-gainaibu-wu/
   - /post/2008-06-15-gui-cai-xian-ru/
-  - /post/2008-07-19-xi-nomo-nu-gasi-nda/
+  - /post/2008-09-10-enzieruhato-27/
 ---
 
 

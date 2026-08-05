@@ -27,9 +27,9 @@ keywords:
   - 大きい
   - 基本的
 recommendations:
+  - /post/2009-10-18-vaio-xnixin-tokimeku/
+  - /post/2009-05-18-iphonetono1zhou-jian/
   - /post/2009-05-27-ofeng-lu-deiphone-plus-nikodong-haliang-iyo/
-  - /post/2005-03-03-sugoi/
-  - /post/2009-08-07-pokemonxin-gan-xian/
 ---
 
 

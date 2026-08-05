@@ -28,9 +28,9 @@ keywords:
   - file
   - def
 recommendations:
-  - /post/2014-03-30-kawawaki-dot-rb-number-010-wokai-cui-simasita-number-kwskrb/
   - /post/2014-01-24-kawasaki-dot-rb-number-006-wokai-cui-simasita-number-kwskrb/
-  - /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/
+  - /post/2022-06-18-kawasaki rb 9 years reflection/
+  - /post/2014-04-26-kawasaki-dot-rb-number-011-wokai-cui-simasita-number-kwskrb/
 ---
 
 

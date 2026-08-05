@@ -17,8 +17,8 @@ keywords:
   - 傾向
   - 強い
 recommendations:
-  - /post/2025-08-23-summer-vacation/
-  - /post/2012-01-01-2012nian-nobao-fu/
+  - /post/2015-12-30-2015nian-wozhen-rifan-tute/
+  - /post/2025-11-25-staff-engineering-path/
   - /post/2017-12-23_----------------------701333a45696/
 ---
 

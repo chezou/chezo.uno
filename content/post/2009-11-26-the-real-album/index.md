@@ -27,9 +27,9 @@ keywords:
   - 楽しみ
   - メンバー
 recommendations:
-  - /post/2009-11-10-rajaton-best-of-1999-2009gautinikita/
+  - /post/2009-08-12-masa-festazhong-zhi/
+  - /post/2008-07-16-rockapella-channel/
   - /post/2009-09-24-motion-blue-yokohama/
-  - /post/2009-03-09-masafestanirajatonga/
 ---
 
 

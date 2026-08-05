@@ -19,9 +19,9 @@ keywords:
   - '60'
   - 液晶ディスプレイ
 recommendations:
-  - /post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/
-  - /post/2015-11-02-amazon-fire-tv-stickwomai-tutaraapple-tv-plus-chromecast-tiyotutoninatuta/
+  - /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
   - /post/2017-12-30_2017------------bbf834e065c5/
+  - /post/2008-01-18-souiebakokohawu-yu-burogudatuta/
 ---
 
 

@@ -28,8 +28,8 @@ keywords:
   - 定額
 recommendations:
   - /post/2009-05-06-ad-es-vs-iphone-zhi-yin-kihe-zhan/
-  - /post/2005-07-11-w-sim/
   - /post/2009-05-04-ad-es-wojie-yue-surutameni/
+  - /post/2009-05-02-hobori-gaiphonewochi-tishang-geteru/
 ---
 
 

@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2009-09-22-pcdewaiyaresukontororawoshi-uniha/
   - /post/2009-10-10-ceatecitutekita/
-  - /post/2013-01-09-windowsdeairplaywoshi-unarashairport4w/
+  - /post/2009-10-23-windows7-64bitwodg33tlmninantokadao-ru-sita/
 ---
 
 

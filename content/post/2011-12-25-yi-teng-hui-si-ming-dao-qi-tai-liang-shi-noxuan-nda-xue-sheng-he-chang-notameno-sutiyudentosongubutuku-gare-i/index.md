@@ -28,8 +28,8 @@ keywords:
   - dir
 recommendations:
   - /post/2012-09-28-harmonia-ensemblegaxin-siicd-yi-wings-wo9-slash-29nifa-mai/
-  - /post/2011-10-09-jiu-siburinihe-chang-le-pu-womai-tuta/
-  - /post/2008-10-11-le-pu-gayu-sii/
+  - /post/2010-03-29-laula-kultani-european-folk-songs-for-mixed-voices-gautinikita/
+  - /post/2009-12-17-li-gu-qu-min-he-chang-tuan-no-tunoshi-xian-fang-fa-wang-xiang-number-tlros-wotong-zitesi-tutakoto/
 ---
 
 

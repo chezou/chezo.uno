@@ -27,9 +27,9 @@ keywords:
   - 出力
   - png
 recommendations:
-  - /post/2013-10-06-kawasaki-dot-rb-number-004wokai-cui-simasita-number-kwskrb/
   - /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
   - /post/2011-09-23-kyteawota-yan-yu-deshi-uratupa-plus-amatome/
+  - /post/2011-07-15-kytea-jing-du-tekisutojie-xi-turukituto-woruby-pythonkarashi-erumykyteawozuo-tutemita/
 ---
 
 

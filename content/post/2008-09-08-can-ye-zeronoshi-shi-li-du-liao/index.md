@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2008-10-28-3nian-deci-metaruo-zhe-hadokohexing-tutanoka/
   - /post/2025-11-25-staff-engineering-path/
-  - /post/2006-03-17-uhi/
+  - /post/2010-07-05-yi-gu-gang-yan-shan-kou-er-lang-ge-chai-she-hui-tojiao-yu-gai-ge-du-liao/
 ---
 
 

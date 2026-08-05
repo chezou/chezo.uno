@@ -27,9 +27,9 @@ keywords:
   - pip
   - python
 recommendations:
-  - /post/2022-05-05-sqllineage-with-digdag-log/
-  - /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
-  - /post/2015-06-06-pip-install-kyteadekiruyouninarimasita/
+  - /post/2015-10-12-pyconjp-2015nican-jia-sita-number-pyconjp/
+  - /post/2017-09-09_pyconjp-2017------5fa5f59b9bde/
+  - /post/2014-03-01-kawasaki-dot-rb-number-009wokai-cui-simasita-number-kwskrb/
 ---
 
 

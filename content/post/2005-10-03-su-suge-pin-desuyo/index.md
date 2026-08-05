@@ -27,9 +27,9 @@ keywords:
   - 使用
   - 一部
 recommendations:
-  - /post/2006-05-19-ds-de-tv/
-  - /post/2011-07-20-jkominoman-hua-biyuahaipaddemodu-meru/
-  - /post/2009-10-18-vaio-xnixin-tokimeku/
+  - /post/2010-01-19-he-chang-toakaperanokarendawogoogle-calendardezuo-tutemita/
+  - /post/2011-03-03-dropboxgahtmlgong-kai-wojian-dan-nisuru-at-acappella-eventguan-lian-matomesaitozuo-cheng-sitemita/
+  - /post/2010-12-17-wu-liao-deiphonenobiao-zhun-karendaniakapera-slash-he-chang-karendawobiao-shi-surufang-fa/
 ---
 
 

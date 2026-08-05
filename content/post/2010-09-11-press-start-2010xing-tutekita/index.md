@@ -27,8 +27,8 @@ keywords:
   - 魔王
   - 編成
 recommendations:
-  - /post/2009-07-05-guan-dong-hagame-musichoihoida/
-  - /post/2009-05-24-kuronotorigano-shi-nohui-lang-gaming-qu-sugiru/
+  - /post/2012-09-24-sheng-yan-zou-henoqi-dai-tojia-zhi/
+  - /post/2010-09-11-press-start-2010degemuyin-le-yan-zou-hui-qing-bao-wogetutosita/
   - /post/2008-07-09-press-startdang-xuan-simasita/
 ---
 

@@ -30,8 +30,8 @@ keywords:
   - ebook
 recommendations:
   - /post/2017-10-20_oreilly-ml-for-business-cf835ff4c128/
-  - /post/2015-09-09-detasaienteisutoyang-cheng-du-ben-ji-jie-xue-xi-ru-men-bian-wodu-nda/
-  - /post/2021-12-31-2021-year-review/
+  - /post/2018-05-17_mlse-kickoff/
+  - /post/2017-04-08-docker-imagewoyong-yi-sitewindows-slash-macosdesumuzunitong-ren-zhi-wozuo-tutahua-sphinxbian/
 ---
 
 {{< toc >}}

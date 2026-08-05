@@ -15,9 +15,9 @@ draft: false
 featured: false
 image: null
 recommendations:
-  - /post/2026-04-17-ai時代の転職活動記録/
   - /post/2026-03-21-「agents-sdk-αのtipsを一人で書いていくアドカレ-advent-calendar-2025」を追走した/
-  - /post/2025-09-19-review-fatigue/
+  - /post/2026-04-17-ai時代の転職活動記録/
+  - /post/2019-12-24-python-custom-scripting/
 ---
 
 ## MLワークフローのLLMによる自動生成の夢

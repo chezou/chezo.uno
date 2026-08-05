@@ -28,8 +28,8 @@ keywords:
   - 格好
 recommendations:
   - /post/2011-04-08-peter-hollensno-firework-ren-akaperagage-hao-ii/
-  - /post/2008-10-30-a-cappella-dot-comkarazhu-wen-nopin-gajie-ita/
-  - /post/2008-07-07-the-real-group-real-christmas-commonly-unique/
+  - /post/2009-05-12-konnitiha-iphone/
+  - /post/2008-07-05-rajaton/
 ---
 
 

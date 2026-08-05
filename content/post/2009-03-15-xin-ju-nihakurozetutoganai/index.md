@@ -27,9 +27,9 @@ keywords:
   - カバー
   - 精度
 recommendations:
-  - /post/2008-06-09-tuiniiphonedeng-chang/
-  - /post/2016-12-30-2016nian-mai-tuteyokatutamono-10xuan/
-  - /post/2005-05-19-vhsnei-zang-dvdpureya/
+  - /post/2019-03-10_business-trip-goods/
+  - /post/2009-05-30-x-zabadynosirikonkabawomai-tutesimatuta/
+  - /post/2009-09-24-motion-blue-yokohama/
 ---
 
 
