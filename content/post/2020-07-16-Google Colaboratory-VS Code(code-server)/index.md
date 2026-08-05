@@ -4,7 +4,7 @@ authors:
   - aki
 summary: VS Code from everywhere
 tags:
-  - Python
+  - python
 date: 2020-07-16 17:56:00-07:00
 lastmod: 2020-07-16 18:09:00-07:00
 keywords:

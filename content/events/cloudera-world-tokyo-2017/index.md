@@ -14,7 +14,7 @@ date: 2019-12-01T17:33:16+09:00
 authors:
   - aki
 tags:
-  - machine_learning
+  - machine learning
   - ml_systems
 featured: false
 image:

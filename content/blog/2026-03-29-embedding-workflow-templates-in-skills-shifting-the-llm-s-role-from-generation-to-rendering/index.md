@@ -9,7 +9,7 @@ categories:
   - LLM
 tags:
   - LLM
-  - Development
+  - development
 draft: false
 featured: false
 image:

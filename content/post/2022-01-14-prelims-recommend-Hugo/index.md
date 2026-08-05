@@ -6,8 +6,8 @@ lastmod: 2022-01-15 09:29:00-08:00
 summary: HugoやJekyllの記事にレコメンドを足すためにprelimsを使った
 tags:
   - NLP
-  - Python
-  - Recommendation
+  - python
+  - recommendation
 title: prelimsを使ってHugoの記事にレコメンドを追加する
 keywords:
   - hugo

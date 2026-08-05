@@ -5,9 +5,9 @@ authors:
   - aki
 tags:
   - wiki
-  - machine_learning
+  - machine learning
 categories:
-  - Machine Learning
+  - machine learning
 date: 2019-12-01T18:55:30+09:00
 links:
   - type: site

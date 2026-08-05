@@ -5,7 +5,7 @@ summary: ''
 authors:
   - aki
 tags:
-  - machine-learning
+  - machine learning
   - project-management
 categories: []
 date: 2025-05-02 13:43:50-07:00

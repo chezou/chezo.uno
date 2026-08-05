@@ -1,6 +1,6 @@
 ---
 authors: [aki]
-categories: [Python, TreasureData]
+categories: [python, TreasureData]
 date: 2019-12-23 07:00:00-08:00
 draft: false
 featured: false
@@ -9,7 +9,7 @@ lastmod: 2019-12-23 07:00:00-08:00
 projects: []
 subtitle: ''
 summary: ''
-tags: [Python]
+tags: [python]
 title: Pythonistaのためのdigdag py> operator開発ガイド
 toc: true
 keywords: [treasure, workflow, 開発, タスク, イメージ, digdag, data, python, docker, 公式]

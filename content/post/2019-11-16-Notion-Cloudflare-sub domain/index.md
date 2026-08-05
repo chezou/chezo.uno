@@ -7,7 +7,7 @@ date: 2019-11-16 06:50:00-08:00
 lastmod: 2021-12-05 22:35:00-08:00
 summary: Notionでカスタムドメインをサブドメインまで設定する
 tags:
-  - Notion
+  - notion
 title: NotionのページをCloudflareでsub domainに転送する
 keywords:
   - notion

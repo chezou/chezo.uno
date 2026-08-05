@@ -5,7 +5,7 @@ aliases:
 authors:
   - aki
 categories:
-  - machine_learning
+  - machine learning
   - ruby
 date: 2019-04-23 20:10:28-07:00
 description: I attended RubyKaigi 2019 held at Fukuoka from Apr 18 to Apr 21. This year’s RubyKaigi was a really great opportunity for me to know the…

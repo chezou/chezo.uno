@@ -4,7 +4,7 @@ aliases:
 authors:
   - aki
 categories:
-  - machine_learaning
+  - machine learning
   - OSS
 date: 2017-08-02 11:29:59-07:00
 description: 英語版はこちら。

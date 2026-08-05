@@ -17,11 +17,11 @@ abstract: First book for how to design Machine Learning systems and how to
   Chinese.
 summary: ""
 tags:
-  - machine_learning
+  - machine learning
   - ml_project
   - ml_system
 categories:
-  - Machine Learning
+  - machine learning
 featured: true
 links:
   - name: E-book

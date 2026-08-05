@@ -1,6 +1,6 @@
 ---
 authors: [aki]
-categories: [Machine Learning, MLOps, Conference]
+categories: [machine learning, mlops, conference]
 date: 2020-11-10 05:18:19-08:00
 draft: false
 featured: false

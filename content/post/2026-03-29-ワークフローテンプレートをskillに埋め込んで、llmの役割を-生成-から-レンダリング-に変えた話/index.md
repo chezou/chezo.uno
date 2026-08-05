@@ -10,7 +10,7 @@ categories:
   - agent
   - LLM
 tags:
-  - Development
+  - development
 draft: false
 featured: false
 image: null

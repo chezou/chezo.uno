@@ -2,6 +2,6 @@
 title: MLOps
 aliases:
   - /tag/ml_ops
-  - /tags/mlops
+  - /tags/ml_ops
   - /tag/mlops
 ---

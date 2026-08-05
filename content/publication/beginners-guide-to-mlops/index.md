@@ -15,11 +15,11 @@ abstract: This article covers very biginning guide for MLOps, i.e., What is
   Japanese.
 summary: ""
 tags:
-  - machine_learning
-  - ml_ops
+  - machine learning
+  - mlops
 categories:
-  - Machine Learning
-  - ML Ops
+  - machine learning
+  - mlops
 featured: true
 links:
   - name: Paper book

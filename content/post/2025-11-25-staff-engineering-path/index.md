@@ -7,7 +7,7 @@ image:
   preview_only: false
 summury: スタッフエンジニアの道は悩めるStaff+のとても良い支えになる書籍
 tags:
-  - Staff Engineering
+  - staff engineer
 keywords:
   - staff
   - engineer

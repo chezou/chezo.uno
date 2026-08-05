@@ -10,7 +10,7 @@ tags:
   - github actions
 categories:
   - tech
-  - ML
+  - machine learning
 date: 2022-01-25 18:41:33-08:00
 lastmod: 2022-01-25 18:41:33-08:00
 featured: false

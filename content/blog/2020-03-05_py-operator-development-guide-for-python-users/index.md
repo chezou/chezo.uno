@@ -2,7 +2,7 @@
 aliases:
   - /blog/py-operator-development-guide-for-python-users
 categories:
-  - Python
+  - python
   - workflow
 date: '2020-03-05 14:15:52-08:00'
 draft: false
