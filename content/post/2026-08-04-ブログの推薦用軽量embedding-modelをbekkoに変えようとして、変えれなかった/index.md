@@ -19,10 +19,6 @@ image:
   placement: null
   preview_only: true
 cover: null
-recommendations:
-  - /post/2022-01-14-prelims-recommend-hugo/
-  - /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
-  - /post/2019-11-17-spacy-ginza/
 ---
 
 このサイトでは、 [prelims-cli を使って関連記事を自前でレコメンド](https://chezo.uno/post/2022-01-25-hugo-content-based-recommendation/)している。prelims-cliはfrontmatterに色々と情報を付加できる[prelims](https://github.com/takuti/prelims/)をCLIで動くようにしたものである。
@@ -61,4 +57,4 @@ https://claude.ai/code/artifact/d92655d1-8d96-408c-95c3-f80e5e89deb1
 
 1個目なんかは、環境構築系という意味では似ているなと感じる。2個目もHugoもMarkdownだしね、というので良いかなと感じた。
 
-こうしたことを鑑みて、日英は既存のモデルを維持することとし、他言語も計測できないのに入れてもなーということで諦めた。評価用の正解データがないと比較できないという当たり前の結果になった。Bekkoは速くて軽いのはとてもよいのだけど、a25mは既存のモデルよりは遅かったし、実験を進めるうちにGHAのcache等の改善もした結果、統一しなくてもいいかなという気持ちになってしまったのもある。
+こうしたことを鑑みて、日英は既存のモデルを維持することとし、他言語も計測できないのに入れてもなーということで諦めた。評価用の正解データがないと比較できないという当たり前の結果になった。Bekkoは速くて軽いのはとてもよいのだけど、a25mは既存のモデルよりは遅くかつ重かった(199 MB 対 ruri 37 MB / granite 52 MB)し、実験を進めるうちにGHAのcache等の改善もした結果、統一しなくてもいいかなという気持ちになってしまったのもある。
