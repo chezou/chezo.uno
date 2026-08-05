@@ -5,6 +5,10 @@ on:
     paths:
       - 'content/blog/**'
       - 'content/post/**'
+      # Recommendations depend on this file as much as on the articles, so a
+      # config change has to re-run too. Without it, switching models took
+      # effect only once someone happened to touch a post.
+      - 'scripts/config/embedding.yaml'
   workflow_dispatch:
 
 jobs:

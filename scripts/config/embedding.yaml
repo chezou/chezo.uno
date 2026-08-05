@@ -1,3 +1,8 @@
+# One multilingual model for both languages. bekko-a25m needs no prefix and no
+# per-language switch; `language` is left out because with model_name set it
+# would decide nothing. The caches stay split per handler — prune() deletes
+# rows for articles it does not see, so a shared DB would have each handler
+# wiping the other's.
 handlers:
   - target_path: "content/blog"
     ignore_files:
@@ -5,7 +10,9 @@ handlers:
     processors:
       - permalink_base: "/blog"
         type: embedding_recommender
-        language: en
+        model_name: "hotchpotch/bekko-embedding-v1-a25m"
+        model_file: "onnx/model.onnx"
+        pooling: mean
         topk: 3
         cache_db: ".prelims_embedding_cache_en.db"
   - target_path: "content/post"
@@ -14,7 +21,8 @@ handlers:
     processors:
       - permalink_base: "/post"
         type: embedding_recommender
-        language: ja
-        prefix: "トピック: "
+        model_name: "hotchpotch/bekko-embedding-v1-a25m"
+        model_file: "onnx/model.onnx"
+        pooling: mean
         topk: 3
         cache_db: ".prelims_embedding_cache_ja.db"
