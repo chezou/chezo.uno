@@ -19,6 +19,10 @@ image:
   placement: null
   preview_only: true
 cover: null
+recommendations:
+  - /post/2022-01-14-prelims-recommend-hugo/
+  - /post/2022-01-25-hugo-content-based-recommendation/
+  - /post/2011-07-18-sinatradekyteawoburauzakarashi-sukytea-sinatrazuo-tutemita/
 ---
 
 このサイトでは、 [prelims-cli を使って関連記事を自前でレコメンド](https://chezo.uno/post/2022-01-25-hugo-content-based-recommendation/)している。prelims-cliはfrontmatterに色々と情報を付加できる[prelims](https://github.com/takuti/prelims/)をCLIで動くようにしたものである。
