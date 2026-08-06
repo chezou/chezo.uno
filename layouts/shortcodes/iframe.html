@@ -1,8 +1,9 @@
 {{- /*
-  iframe shortcode: embed an HTML page (e.g. a report under /static) in the post.
+  iframe shortcode: embed an HTML page in the post.
 
   Params:
-    src      (required) URL of the page to embed. Positional param 0 also works.
+    src      (required) page resource of this bundle (e.g. "report.html"), or a
+             URL. Positional param 0 also works.
     title    accessible title of the frame. Default: "Embedded page".
     height   height of the frame. Bare numbers are treated as px. Default: 600.
     resize   "true" to auto-fit the height to the embedded document. Only works
@@ -25,10 +26,18 @@
 {{- if findRE `^[0-9.]+$` $height -}}
   {{- $height = printf "%spx" $height -}}
 {{- end -}}
-{{- /* Anything carrying a scheme ("https:", "data:", …) or starting with "//"
-       is left as-is; everything else is a site path resolved against baseURL. */ -}}
-{{- $sameOrigin := not (findRE `^([a-zA-Z][a-zA-Z0-9+.-]*:|//)` $src) -}}
-{{- $url := cond $sameOrigin ($src | relURL) $src -}}
+{{- /* A resource of the page bundle wins, so a report can live next to the
+       index.md that embeds it. Otherwise: anything carrying a scheme
+       ("https:", "data:", …) or starting with "//" is left as-is, and the rest
+       is a site path resolved against baseURL. */ -}}
+{{- $res := .Page.Resources.Get $src -}}
+{{- $sameOrigin := or (ne $res nil) (not (findRE `^([a-zA-Z][a-zA-Z0-9+.-]*:|//)` $src)) -}}
+{{- $url := "" -}}
+{{- if $res -}}
+  {{- $url = $res.RelPermalink -}}
+{{- else -}}
+  {{- $url = cond $sameOrigin ($src | relURL) $src -}}
+{{- end -}}
 {{- $resize := and $sameOrigin (eq (.Get "resize") "true") -}}
 {{- $maxheight := int (replaceRE `[^0-9]` "" (.Get "maxheight" | default "0")) -}}
 {{- $showLink := ne (.Get "link") "false" -}}
