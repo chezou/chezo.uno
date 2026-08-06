@@ -20,6 +20,10 @@ image:
   placement: null
   preview_only: true
 cover: null
+recommendations:
+  - /post/2026-08-04-ブログの推薦用軽量embedding-modelをbekkoに変えようとして、変えれなかった/
+  - /post/2015-10-21-tinysegmenterwojuliayi-zhi-sitaramitnoxian-sheng-nizhi-dao-sitemoraetahua/
+  - /post/2009-07-23-du-shu-metanomian-dao-natokoro/
 ---
 
 前回の話はこちらにあるので見てほしい

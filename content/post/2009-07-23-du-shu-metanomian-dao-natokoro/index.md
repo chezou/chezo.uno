@@ -29,7 +29,7 @@ keywords:
 recommendations:
   - /post/2009-05-16-du-shu-metahazimemasita/
   - /post/2010-01-01-12yue-nidu-ndaben/
-  - /post/2014-12-01-wordpress-dot-comkarahatenaburogunioyin-tuyue-sisimasita/
+  - /post/2026-08-05-ブログの推薦用軽量embedding-modelをbekkoに変えた/
 ---
 
 
