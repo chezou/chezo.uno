@@ -8,6 +8,7 @@ categories:
   - recommendation
 tags:
   - embedding
+  - recommendation
 aliases: []
 draft: false
 featured: false
