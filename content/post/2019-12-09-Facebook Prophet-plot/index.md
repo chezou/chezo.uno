@@ -20,8 +20,8 @@ keywords:
   - 再利用
 recommendations:
   - /post/2019-11-17-150 successful machine learning models 6 lessons/
-  - /post/2016-05-29-sonomoderu-guo-xue-xi-siteruno-wei-xue-xi-nano-tokun-tutara/
   - /post/2026-08-04-ブログの推薦用軽量embedding-modelをbekkoに変えようとして、変えれなかった/
+  - /post/2016-05-29-sonomoderu-guo-xue-xi-siteruno-wei-xue-xi-nano-tokun-tutara/
 ---
 
 

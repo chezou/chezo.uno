@@ -38,6 +38,10 @@ cascade:
 
 ignoreLogs:
   - shortcode-x-getremote
+# Only Markdown is content; HTML files inside page bundles stay ordinary
+# resources so they can be published and embedded as-is.
+contentTypes:
+  text/markdown: {}
 build:
   writeStats: true
 enableGitInfo: false

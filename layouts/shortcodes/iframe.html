@@ -1,0 +1,90 @@
+{{- /*
+  iframe shortcode: embed an HTML page in the post.
+
+  Params:
+    src      (required) page resource of this bundle (e.g. "report.html"), or a
+             URL. Positional param 0 also works.
+    title    accessible title of the frame. Default: "Embedded page".
+    height   height of the frame. Bare numbers are treated as px. Default: 600.
+    resize   "true" to auto-fit the height to the embedded document. Only works
+             for a site-relative src, i.e. one without a scheme or a leading
+             "//" — those are passed through untouched and never auto-fitted,
+             even when they happen to point at this site. Default: false, i.e.
+             the frame keeps `height` and scrolls internally, which is the
+             better fit for long documents.
+    maxheight cap for the auto-fitted height. Only used when resize="true".
+    link     "true"/"false". Show a link to open the page directly. Default: true.
+    linktext label of that link. Default: "Open in a new tab".
+    sandbox  value of the iframe sandbox attribute. Unset by default.
+*/ -}}
+{{- $src := or (.Get "src") (.Get 0) -}}
+{{- with $src | not -}}
+  {{- errorf "iframe shortcode: 'src' is required (%s)" $.Position -}}
+{{- end -}}
+{{- $title := .Get "title" | default "Embedded page" -}}
+{{- $height := .Get "height" | default "600" -}}
+{{- if findRE `^[0-9.]+$` $height -}}
+  {{- $height = printf "%spx" $height -}}
+{{- end -}}
+{{- /* A resource of the page bundle wins, so a report can live next to the
+       index.md that embeds it. Otherwise: anything carrying a scheme
+       ("https:", "data:", …) or starting with "//" is left as-is, and the rest
+       is a site path resolved against baseURL. */ -}}
+{{- $res := .Page.Resources.Get $src -}}
+{{- $sameOrigin := or (ne $res nil) (not (findRE `^([a-zA-Z][a-zA-Z0-9+.-]*:|//)` $src)) -}}
+{{- $url := "" -}}
+{{- if $res -}}
+  {{- $url = $res.RelPermalink -}}
+{{- else -}}
+  {{- $url = cond $sameOrigin ($src | relURL) $src -}}
+{{- end -}}
+{{- $resize := and $sameOrigin (eq (.Get "resize") "true") -}}
+{{- $maxheight := int (replaceRE `[^0-9]` "" (.Get "maxheight" | default "0")) -}}
+{{- $showLink := ne (.Get "link") "false" -}}
+{{- $linktext := .Get "linktext" | default "Open in a new tab" -}}
+{{- $id := printf "sc-iframe-%s-%d" (substr (md5 $src) 0 8) .Ordinal -}}
+<div class="sc-iframe">
+  {{- /* The wrapper owns the scrolling so that iOS Safari, which likes to expand
+         iframes to their content height, still honours the fixed height. */ -}}
+  <div style="overflow:auto;-webkit-overflow-scrolling:touch;border:1px solid #ddd;border-radius:6px;background:#fff;{{ if not $resize }}height:{{ $height }};{{ end }}">
+    <iframe id="{{ $id }}" src="{{ $url }}" title="{{ $title }}" loading="lazy"
+      {{- with .Get "sandbox" }} sandbox="{{ . }}"{{ end }}
+      style="display:block;width:100%;border:0;height:{{ if $resize }}{{ $height }}{{ else }}100%{{ end }};"></iframe>
+  </div>
+  {{- if $showLink }}
+  <p style="margin-top:.25rem;font-size:.85em;text-align:right;">
+    <a href="{{ $url }}" target="_blank" rel="noopener">{{ $linktext }}</a>
+  </p>
+  {{- end }}
+</div>
+{{- if $resize }}
+<script>
+(function () {
+  var frame = document.getElementById("{{ $id }}");
+  if (!frame) return;
+  var max = {{ $maxheight }};
+  var observer = null;
+  function fit() {
+    try {
+      var doc = frame.contentDocument;
+      if (!doc || !doc.body) return;
+      var h = Math.max(doc.documentElement.scrollHeight, doc.body.scrollHeight);
+      frame.style.height = (max > 0 ? Math.min(h, max) : h) + "px";
+    } catch (e) {
+      // Cross-origin document: keep the configured height.
+    }
+  }
+  frame.addEventListener("load", function () {
+    fit();
+    try {
+      if (observer) observer.disconnect();
+      if (window.ResizeObserver && frame.contentDocument) {
+        observer = new ResizeObserver(fit);
+        observer.observe(frame.contentDocument.documentElement);
+      }
+    } catch (e) {}
+  });
+  if (frame.contentDocument && frame.contentDocument.readyState === "complete") fit();
+})();
+</script>
+{{- end }}

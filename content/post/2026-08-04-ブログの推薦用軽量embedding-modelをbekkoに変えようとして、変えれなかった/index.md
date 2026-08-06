@@ -37,7 +37,7 @@ ruri-v3とgraniteが軽量だが性能が良いと言うので試してみたら
 
 それで、出来た実験結果はこちら。
 
-https://claude.ai/code/artifact/d92655d1-8d96-408c-95c3-f80e5e89deb1
+{{< iframe src="report.html" title="関連記事推薦のための埋め込みモデル比較" height="700" linktext="レポートを別タブで開く" >}}
 
 簡単に言うと、失敗である。
 
