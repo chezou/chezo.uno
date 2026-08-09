@@ -31,6 +31,22 @@ recommendations:
 
 今回は、作者の[suzuki-shunsukeさんの記事](https://zenn.dev/shunsuke_suzuki/articles/ghtkn-secure-github-token)を見ながらインストールをしたので、その方法をメモしておく。
 
+### はじめに
+
+過去に一度でも `gh auth login` をWSL2環境でしていたら、 `~/.config/gh/hosts.yml` に平文トークンが残っている。作業前にログアウトし、保存された平文トークンを無効化しておく。 
+
+```bash
+gh auth status   # 現状確認
+gh auth logout
+```
+
+正常にログアウトされていれば空になる
+
+```bash
+$ cat ~/.config/gh/hosts.yml
+{}
+```
+
 ### インストール
 
 今回は `mise` 経由でインストールをした。
@@ -39,6 +55,42 @@ recommendations:
 mise install ghtkn
 mise use ghtkn
 ```
+
+### WSL2の環境設定準備: systemd + linger
+
+まず、 `/etc/wsl.conf` で `systemd=true` が設定されていることを確認する。
+
+```ini
+[boot]
+systemd=true
+```
+
+確認したら以下を実行する。
+
+```bash
+loginctl enable-linger "$USER"
+```
+
+その後、Windows側から一度WSL2を再起動して反映させる。
+
+```powershell
+wsl --shutdown
+```
+
+再起動後、以下が正常に出力することを確認する。
+
+```bash
+ps -p 1 -o comm=
+# => systemd
+
+loginctl show-user "$USER" --property=Linger
+# => Linger=yes
+
+ls -ld /run/user/1000
+# => {username}:{username} 所有で存在する(存在しないと `mkdir /run/user/1000: permission denied` でghtkn agentが起動できない)
+```
+
+`linger`を有効にせずにagent backendで `ghtkn agent start`しようとすると、`/run/user/1000`(`XDG_RUNTIME_DIR`)がsystemd-logind経由で作られておらず、`create the socket directory: mkdir /run/user/1000: permission denied`というエラーになる。
 
 ### GitHub Appの作成
 
@@ -64,7 +116,23 @@ backend:
     type: agent
 ```
 
+バックエンドはデフォルトはOS keyringだが、WSL2ではハマりどころがありそうだった（[先駆者](https://tech.buty4649.net/entry/2023/01/31/182908)はいるにはいる）のでagentバックエンドを使うことにした。
+
+agentバックエンドは以下の特徴がある。
+
+- トークンはAES-256-GCMで暗号化して保存（keyring不要）
+- refresh tokenに対応し、8時間毎のdevice flow再認証が不要になる（macOS/Linuxのみ対応。rootに用意に昇格できる環境では避けるべき）
+
 ### 初回認証
+
+agent backendを使って初期設定するためには、先にagentを起動する必要がある。
+
+```bash
+ghtkn agent start &
+ghtkn agent unlock
+```
+
+初回はパスフレーズを新規設定（2回入力）する必要がある。人間用に1Passwordにでも保存しておくと良い。
 
 ```bash
 ghtkn auth
@@ -72,26 +140,20 @@ ghtkn auth
 
 これを実行するとDevice Flowが開始される。[v0.2.8以降](https://github.com/suzuki-shunsuke/ghtkn/issues/453)ではheadless環境ではブラウザを開かなくなったため、WSL2では自分で表示されたURLを開いてコードを入力する。
 
-### agentバックエンドの設定
+なお、agent backendでagent未起動時にghtkn authを実行すると以下のエラーが出て失敗する。
 
-バックエンドはデフォルトはOS keyringだが、WSL2ではハマりどころがありそうだった（[先駆者](https://tech.buty4649.net/entry/2023/01/31/182908)はいるにはいる）のでagentバックエンドを使うことにした。
-
-設定は、先程のbackendの設定を `type: agent` にしていればよい。
-
-agentバックエンドは以下の特徴がある。
-
-- トークンはAES-256-GCMで暗号化して保存（keyring不要）
-- refresh tokenに対応し、8時間毎のdevice flow再認証が不要になる（macOS/Linuxのみ対応。rootに用意に昇格できる環境では避けるべき）
+```plain
+error="create a GitHub App User Access Token: begin the device flow on the agent: begin the device flow through the backend: the ghtkn agent is not running; run 'ghtkn agent start'"
+```
 
 ### systemdユーザーサービス化
 
 WSL2でagentを常駐させるために、systemdユーザーサービスとして登録する。
 
-まず、 `/etc/wsl.conf` で `systemd=true` が設定されていることを確認する。
+まず、この設定をする前に agentを停止する。そうしないと、systemdで管理するagentと競合する。
 
-```ini
-[boot]
-systemd=true
+```bash
+ghtkn agent stop
 ```
 
 `~/.config/systemd/user/ghtkn-agent.service`
@@ -113,18 +175,9 @@ WantedBy=default.target
 ```bash
 systemctl --user daemon-reload
 systemctl --user enable --now ghtkn-agent.service
-loginctl enable-linger "$USER"   # ログインしていない間もWSL2が起動していれば動き続けるように
 ```
 
 ### 日常運用: agent unlock
-
-agent起動直後は必ずlock状態なので、以下を実行してunlockする。
-
-```bash
-ghtkn agent unlock
-```
-
-初回はパスフレーズを新規設定（2回入力）する必要がある。1passwordにでも保存しておくと良い。
 
 ```bash
 ghtkn agent unlock --enable-refresh
@@ -138,7 +191,7 @@ ghtkn agent unlock --enable-refresh
 
 ### ghコマンドのラッパー化
 
-`gh` コマンド事態もghtkn経由でトークンを渡すように、 `~/.zshrc` にシェル巻数を設定をした。
+`gh` コマンド事態もghtkn経由でトークンを渡すように、 `~/.zshrc` にシェル関数を設定をした。
 
 ```bash
 gh() {
@@ -168,7 +221,7 @@ gh() {
 
 また、 `gh auth token` と `gh auth status --show-token` をされると平文でトークンが出るのでそれを防いでいる。
 
-以下で動作確認ができる
+以下で動作確認ができる。
 
 ```bash
 $ gh auth status
