@@ -18,6 +18,10 @@ image:
   placement: 3
   preview_only: false
 cover: null
+recommendations:
+  - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
+  - /blog/2022-01-25_hugo-content-based-recommendation/
+  - /blog/2022-05-21_fastest-way-to-release-python-cli/
 ---
 
 On WSL2 without a working keyring, `gh auth login` falls back to storing the token in plaintext at `~/.config/gh/hosts.yml`. Worse, the OAuth token GitHub CLI issues [never expires until you explicitly revoke it](https://github.com/cli/cli/issues/12009). [A prior article](https://zenn.dev/meijin/articles/gh-cli-auth-token-workaround) covers this problem well.

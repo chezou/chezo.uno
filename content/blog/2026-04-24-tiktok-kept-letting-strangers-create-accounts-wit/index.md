@@ -26,8 +26,8 @@ cover:
   icon: null
 recommendations:
   - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
+  - /blog/2026-08-09-how-to-prevent-gh-cli-from-leaving-a-plaintext-to/
   - /blog/2018-04-17_use-markdown-document-on-brand-new-pypi-9723024f09c2/
-  - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
 ---
 
 > [!CAUTION]+ Disclaimer 
