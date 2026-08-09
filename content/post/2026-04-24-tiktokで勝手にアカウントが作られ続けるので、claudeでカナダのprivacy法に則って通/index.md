@@ -29,8 +29,8 @@ cover:
   icon: null
 recommendations:
   - /post/2022-11-28-cancel-japanese-service/
+  - /post/2026-08-09-wsl2にghtknを設定してgh-cliがトークンをファイル平文保存するのを防ぐ/
   - /post/2017-01-01-fei-ying-yu-neiteibunitotutenoossnomentenansukosuto/
-  - /post/2026-08-04-ブログの推薦用軽量embedding-modelをbekkoに変えようとして、変えれなかった/
 ---
 
 > [!WARNING]

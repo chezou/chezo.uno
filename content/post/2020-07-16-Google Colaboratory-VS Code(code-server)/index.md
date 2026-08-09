@@ -19,9 +19,9 @@ keywords:
   - セル
   - token
 recommendations:
+  - /post/2026-08-09-wsl2にghtknを設定してgh-cliがトークンをファイル平文保存するのを防ぐ/
   - /post/2019-11-25-github actions-api token-pypi release/
   - /post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/
-  - /post/2017-07-10_thinkpad-x1-carbon--2017--windows-10-ubuntu-17-04-----------9f73d89073c3/
 ---
 
 

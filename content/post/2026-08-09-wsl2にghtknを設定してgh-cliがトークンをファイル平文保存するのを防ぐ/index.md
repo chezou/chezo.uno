@@ -19,6 +19,10 @@ image:
   placement: 3
   preview_only: false
 cover: null
+recommendations:
+  - /post/2020-07-16-google colaboratory-vs code(code-server)/
+  - /post/2013-01-09-autopagerize-rubynomechanizeban-wozuo-tuta/
+  - /post/2019-11-25-github actions-api token-pypi release/
 ---
 
 `gh auth login` はWSL2でkeyringが使えない場合、トークンを `~/.config/gh/hosts.yml` に平文保存をしてしまう。また、GitHub CLIで生成されるOAuth tokenはトークンは[明示的にrevokeするまで有効](https://github.com/cli/cli/issues/12009)である。この当たりは[先人の記事](https://zenn.dev/meijin/articles/gh-cli-auth-token-workaround)が詳しい。
