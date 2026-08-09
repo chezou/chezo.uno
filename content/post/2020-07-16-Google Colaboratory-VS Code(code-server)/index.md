@@ -19,8 +19,8 @@ keywords:
   - セル
   - token
 recommendations:
-  - /post/2026-08-09-wsl2にghtknを設定してgh-cliがトークンをファイル平文保存するのを防ぐ/
   - /post/2019-11-25-github actions-api token-pypi release/
+  - /post/2026-08-09-wsl2にghtknを設定してgh-cliがトークンをファイル平文保存するのを防ぐ/
   - /post/2017-01-23-gitlab-ciwoshi-tutesphinxnodokiyumentowozi-dong-depdfnibirudosuru/
 ---
 
