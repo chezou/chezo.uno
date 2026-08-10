@@ -13,7 +13,11 @@ slug:
   encoding: unicode
   lowercase: true
   timezone: local
-  maxlength: 60
+  # `maxlength` counts characters *before* percent-encoding, so the same number
+  # means very different URL lengths: 1 ASCII char = 1 byte, but 1 kana/kanji
+  # = 9 chars once encoded (`あ` -> `%E3%81%82`). Each collection therefore sets
+  # its own `slug_length` below; this global value is only the fallback.
+  maxlength: 32
 
 collections:
   - name: post
@@ -22,6 +26,10 @@ collections:
     path: "{{slug}}/index"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    # Japanese titles stay as-is under `encoding: unicode`, so every kana/kanji
+    # becomes 9 characters in the URL. 32 (including the 11-char date prefix)
+    # keeps the encoded path under roughly 200 characters.
+    slug_length: 32
     media_folder: ""
     public_folder: ""
     extension: md
@@ -115,6 +123,9 @@ collections:
     path: "{{slug}}/index"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    # ASCII titles encode 1:1, so the character budget is the URL budget.
+    # 80 fits most titles whole; 60 was cutting nearly every one of them.
+    slug_length: 80
     media_folder: ""
     public_folder: ""
     extension: md
