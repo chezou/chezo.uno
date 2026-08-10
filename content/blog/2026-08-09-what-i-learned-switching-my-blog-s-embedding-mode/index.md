@@ -4,11 +4,22 @@ subtitle: ''
 summary: ''
 date: 2026-08-09 16:52:00-07:00
 lastmod: ''
-categories: []
-tags: []
-draft: true
+categories:
+  - AI
+tags:
+  - LLM
+  - Agentic Coding
+  - recommendation
+  - embedding
+draft: false
 featured: false
-image: null
+image:
+  filename: pexels-matej-bizjak-30497027.jpg
+  alt_text: ''
+  caption: <a href="https://www.pexels.com/ja-jp/photo/30497027/">Photo by Matej Bizjak on Pexels</a>
+  focal_point: ''
+  placement: null
+  preview_only: false
 cover: null
 ---
 
