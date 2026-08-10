@@ -21,10 +21,6 @@ image:
   placement: null
   preview_only: false
 cover: null
-recommendations:
-  - /blog/2022-01-25_hugo-content-based-recommendation/
-  - /blog/2025-09-19-review-fatigue/
-  - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
 ---
 
 ## Intro
@@ -98,7 +94,7 @@ It struck me, working through the evaluation in the browser, how easily coding a
 
 I stopped after annotating 162 of the 389 articles with recommendations: enough to confirm that all three top metrics favored the new model, with the difference staying non-negative even at the lower bound of the confidence interval.
 
-Somewhere around then, complaining to Claude about how exhausting the annotation was, I found out it had quietly been running an active learning technique that only shows you the cases where the two models' recommendations differ. The AI had slipped in an efficient, demanding labeling method, and put me to work without my noticing.
+Somewhere around then, complaining to Claude about how exhausting the annotation was, I found out it had quietly been running an active learning technique that only shows you the cases where the two models' recommendations differ. The AI had slipped in an efficient (read: demanding) labeling method, and put me to work without my noticing.
 
 ## What the human labels actually showed
 
@@ -112,7 +108,7 @@ The LLM's observations helped too.
 
 > For the report on Kawasaki Ruby Kaigi 01, a25m puts its sister event, Kanagawa Ruby Kaigi, at the top; the old model returned monthly meetup reports instead.
 
-It worked out that Kanagawa Ruby Kaigi and Kawasaki Ruby Kaigi are sister events, which impressed me. It also picked up on overlapping authors and artists, which felt satisfying to see. The two models have different habits, but this one was good enough to adopt.
+It figured out that Kanagawa Ruby Kaigi and Kawasaki Ruby Kaigi are sister events, which impressed me. It also picked up on overlapping authors and artists, which felt satisfying to see. The two models have different habits, but this one was good enough to adopt.
 
 Going back through my own older posts, I noticed the early ones read like a diary and often ramble across several topics at once. That's a good reminder of just how hard it is to recommend related articles for posts like that.
 
