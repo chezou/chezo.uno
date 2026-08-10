@@ -21,6 +21,10 @@ image:
   placement: null
   preview_only: false
 cover: null
+recommendations:
+  - /blog/2022-01-25_hugo-content-based-recommendation/
+  - /blog/2025-09-19-review-fatigue/
+  - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
 ---
 
 ## Intro

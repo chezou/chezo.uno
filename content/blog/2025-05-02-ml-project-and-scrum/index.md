@@ -30,8 +30,8 @@ keywords:
   - technical
 recommendations:
   - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
+  - /blog/2026-08-09-what-i-learned-switching-my-blog-s-embedding-mode/
   - /blog/2017-08-03_why-oss-based-machine-learning-is-good--3ab45a1a5e52/
-  - /blog/2025-09-19-review-fatigue/
 ---
 
 

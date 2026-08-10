@@ -33,8 +33,8 @@ keywords:
   - write
 recommendations:
   - /blog/2025-08-24-configured-pages-cms/
+  - /blog/2026-08-09-what-i-learned-switching-my-blog-s-embedding-mode/
   - /blog/2022-05-21_fastest-way-to-release-python-cli/
-  - /blog/2019-11-26_how-to-release-python-package-from-github-actions-d5a1d8edba6e/
 ---
 
 

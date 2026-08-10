@@ -27,9 +27,9 @@ keywords:
   - feedback
   - docs
 recommendations:
+  - /blog/2026-08-09-what-i-learned-switching-my-blog-s-embedding-mode/
   - /blog/2026-03-29-embedding-workflow-templates-in-skills-shifting-the-llm-s-role-from-generation-to-rendering/
   - /blog/2025-05-02-ml-project-and-scrum/
-  - /blog/2017-08-03_why-oss-based-machine-learning-is-good--3ab45a1a5e52/
 ---
 
 This year, the amount of time I spend on reviews has exploded. This applies to both code and documentation. And the fatigue from this has also increased dramatically.

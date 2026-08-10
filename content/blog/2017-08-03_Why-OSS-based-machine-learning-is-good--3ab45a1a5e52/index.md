@@ -25,7 +25,7 @@ keywords:
 recommendations:
   - /blog/2019-06-04_the-first-conference-of-operational-machine-learning--opml--19-308baad36108/
   - /blog/2019-04-24_ruby-for-data-science-and-machine-learning-9f03e99125e0/
-  - /blog/2025-05-02-ml-project-and-scrum/
+  - /blog/2026-08-09-what-i-learned-switching-my-blog-s-embedding-mode/
 ---
 
 

@@ -21,8 +21,8 @@ image:
   preview_only: false
 recommendations:
   - /blog/2019-10-06_how-to-test-a-new-docker-image-for-digdag-workflow-on-circleci--c8bb92987877/
+  - /blog/2026-08-09-what-i-learned-switching-my-blog-s-embedding-mode/
   - /blog/2025-09-19-review-fatigue/
-  - /blog/2022-05-21_fastest-way-to-release-python-cli/
 ---
 
 ## The dream of LLM-powered ML workflow generation
