@@ -101,6 +101,8 @@ It worked out that Kanagawa Ruby Kaigi and Kawasaki Ruby Kaigi are sister events
 
 Going back through my own older posts, I noticed the early ones read like a diary and often ramble across several topics at once. That's a good reminder of just how hard it is to recommend related articles for posts like that.
 
+{{< iframe src="report.html" title="Comparing embedding models for related-article recommendation" height="700" linktext="Open report in a new tab" >}}
+
 ## Making it work in CI
 
 With Bekko embedding qualitatively confirmed as an improvement, I cleared the remaining technical blockers in parallel:
