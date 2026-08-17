@@ -8,6 +8,7 @@ categories: []
 tags:
   - 転職
   - ai
+aliases: []
 draft: false
 featured: false
 image:
@@ -29,6 +30,9 @@ recommendations:
   - /post/2016-03-30-zhuan-zhi-simasita/
   - /post/2026-03-29-ワークフローテンプレートをskillに埋め込んで、llmの役割を-生成-から-レンダリング-に変えた話/
 ---
+
+> [!TIP]
+> この記事で実際にやった手法をいくつかskillにしました。 https://github.com/chezou/skills から利用できます
 
 今回、転職活動をするにあたって、AIをフル活用して活動をした。前職ではGithub Copilotが個人アカウントだが会社にコントロールされていたので、せっかくだからとClaude Proを契約して望んだ。
 
